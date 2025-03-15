@@ -423,11 +423,6 @@
     <display-name lang="en">U&amp;Yesterday+1</display-name>
     <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/U%26YESTERDAYPlus1.png"></icon>
   </channel>
-  <programme channel="sky.main.uk" start="20250314113000 +0000" stop="20250314230000 +0000">
-    <title lang="en">Live The Players Championship R2</title>
-    <desc lang="en">Day two of the PGA Tour's premier event, the Players Championship. Thursday ended with a three-way tie at the top, as Rory McIlroy and defending champion Scottie Scheffler started strongly.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0f67a725-8852-4a94-9b18-657d286be859/cover"/>
-  </programme>
   <programme channel="sky.main.uk" start="20250314230000 +0000" stop="20250315000000 +0000">
     <title lang="en">The F1 Show: Australia</title>
     <desc lang="en">The F1 Show positions itself at the centre of the season-opening Australian Grand Prix, providing a sneak peek of the paddock and the personalities involved at the heart of the race.</desc>
@@ -490,7 +485,7 @@
   </programme>
   <programme channel="sky.main.uk" start="20250315143000 +0000" stop="20250315170000 +0000">
     <title lang="en">Live The Players Championship R3</title>
-    <desc lang="en">The third day of the 2025 Players Championship. Scottie Scheffler became the first player to win back to back in the event's 50-year history. (15.03)</desc>
+    <desc lang="en">Day three of the Players Championship. Min Woo Lee and Akshay Bhatia share the lead heading into the weekend, with Rory McIlroy and defending champion Scottie Scheffler firmly in the mix.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/568d5d8d-8e44-4302-a874-adcd5fc6f37d/cover"/>
   </programme>
   <programme channel="sky.main.uk" start="20250315170000 +0000" stop="20250315200000 +0000">
@@ -500,12 +495,12 @@
   </programme>
   <programme channel="sky.main.uk" start="20250315200000 +0000" stop="20250315230000 +0000">
     <title lang="en">Live The Players Championship R3</title>
-    <desc lang="en">The third day of the 2025 Players Championship. Scottie Scheffler became the first player to win back to back in the event's 50-year history. (15.03)</desc>
+    <desc lang="en">Day three of the Players Championship. Min Woo Lee and Akshay Bhatia share the lead heading into the weekend, with Rory McIlroy and defending champion Scottie Scheffler firmly in the mix.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e7071f16-ed2e-4432-b3e4-0feda12a75fc/cover"/>
   </programme>
   <programme channel="sky.main.uk" start="20250315230000 +0000" stop="20250316010000 +0000">
     <title lang="en">Live Tennis: ATP Indian Wells SFs</title>
-    <desc lang="en">Britain's Jack Draper gets set for a blockbuster clash with the two-time defending champion Carlos Alcaraz, as the Briton competes in his maiden ATP Masters 1000 semi-final at Indian Wells.</desc>
+    <desc lang="en">Britain's Jack Draper plays defending Indian Wells champion Carlos Alcaraz in his first ATP Masters 1000 semi-final, while a resurgent Holger Rune meets the fifth seed Daniil Medvedev.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0fe795c1-6e5c-4162-8132-a9cdde0bc398/cover"/>
   </programme>
   <programme channel="sky.main.uk" start="20250316010000 +0000" stop="20250316014500 +0000">
@@ -535,7 +530,7 @@
   </programme>
   <programme channel="sky.main.uk" start="20250316035500 +0000" stop="20250316060000 +0000">
     <title lang="en">Live Australian F1 Grand Prix</title>
-    <desc lang="en">It's lights out at the season-opening Australian Grand Prix, held at Albert Park Grand Prix Circuit in Melbourne. (16.03)</desc>
+    <desc lang="en">A McLaren one-two forms the front row for the Australian Grand Prix, as Lando Norris leads from Oscar Piastri. Max Verstappen starts third, while Ferrari's Lewis Hamilton begins from P8.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8d5eb032-51f8-4b8a-a305-fa01e133f0f9/cover"/>
   </programme>
   <programme channel="sky.main.uk" start="20250316060000 +0000" stop="20250316070000 +0000">
@@ -555,7 +550,7 @@
   </programme>
   <programme channel="sky.main.uk" start="20250316075500 +0000" stop="20250316100000 +0000">
     <title lang="en">Australian F1 Grand Prix Replay</title>
-    <desc lang="en">It's lights out at the season-opening Australian Grand Prix, held at Albert Park Grand Prix Circuit in Melbourne. (16.03)</desc>
+    <desc lang="en">A McLaren one-two forms the front row for the Australian Grand Prix, as Lando Norris leads from Oscar Piastri. Max Verstappen starts third, while Lewis Hamilton begins from P8. (16.03)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/57452e52-4149-4545-970a-fe8b31a4a053/cover"/>
   </programme>
   <programme channel="sky.main.uk" start="20250316100000 +0000" stop="20250316113000 +0000">
@@ -1952,7 +1947,7 @@
   <programme channel="sky.football.uk" start="20250317221500 +0000" stop="20250317223000 +0000">
     <title lang="en">EFL 24/25: Bristol City v Norwich</title>
     <desc lang="en">After a hard-fought draw against the league leaders in Sheffield, Bristol City play their second Sky Bet Championship match of the week, meeting Norwich City at Ashton Gate. (14.03)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a73499bf-8730-475d-9e42-5de8a8c5855e/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/f427df54-c0ed-455e-9714-2a83f6feeffc/cover"/>
   </programme>
   <programme channel="sky.football.uk" start="20250317223000 +0000" stop="20250317233000 +0000">
     <title lang="en">Bundesliga Highlights</title>
@@ -2046,17 +2041,17 @@
   </programme>
   <programme channel="sky.tennis.uk" start="20250315180000 +0000" stop="20250315200000 +0000">
     <title lang="en">Live: WTA Indian Wells Dbls Final</title>
-    <desc lang="en">A pair of champions are crowned in the women's doubles final of the BNP Paribas Open, a joint WTA 1000 and ATP Masters event in Indian Wells. (15.03)</desc>
+    <desc lang="en">Britain's Olivia Nicholls competes in a women's doubles final at Indian Wells, as the 30-year-old partners Slovakia's Tereza Mihalikova to face Asia Muhammad and Demi Schuurs.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/690dbfcc-a5dd-4253-9413-f08cfc5ffdce/cover"/>
   </programme>
   <programme channel="sky.tennis.uk" start="20250315200000 +0000" stop="20250316010000 +0000">
     <title lang="en">Live Tennis: ATP Indian Wells SFs</title>
-    <desc lang="en">Britain's Jack Draper gets set for a blockbuster clash with the two-time defending champion Carlos Alcaraz, as the Briton competes in his maiden ATP Masters 1000 semi-final at Indian Wells.</desc>
+    <desc lang="en">Britain's Jack Draper plays defending Indian Wells champion Carlos Alcaraz in his first ATP Masters 1000 semi-final, while a resurgent Holger Rune meets the fifth seed Daniil Medvedev.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c82eb016-36fa-44db-819b-6ab62dfb70e0/cover"/>
   </programme>
   <programme channel="sky.tennis.uk" start="20250316010000 +0000" stop="20250316030000 +0000">
     <title lang="en">Live: ATP Indian Wells Dbls Final</title>
-    <desc lang="en">A pair of champions are crowned in the men's doubles final of the BNP Paribas Open, a joint WTA 1000 and ATP Masters event in Indian Wells. (15.03)</desc>
+    <desc lang="en">The top seeds Mate Pavic and Marcelo Arevalo compete for their first title of the season against Sebastian Korda and Jordan Thompson in the final of the men's doubles at Indian Wells.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f8ec4332-4ba5-4328-8ef8-fc55e6893398/cover"/>
   </programme>
   <programme channel="sky.tennis.uk" start="20250316030000 +0000" stop="20250316040000 +0000">
@@ -2086,12 +2081,12 @@
   </programme>
   <programme channel="sky.tennis.uk" start="20250316080000 +0000" stop="20250316100000 +0000">
     <title lang="en">Indian Wells Tennis Highlights</title>
-    <desc lang="en">Revisit one of the standout matches from yesterday's action at Indian Wells.</desc>
+    <desc lang="en">Two-time Indian Wells finalist Daniil Medvedev bids to put an end to Holger Rune's resurgent run in the California desert as the pair collide in the semi-finals. (15.03)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4cec71b2-71d4-4c60-8e9f-09704cebfe51/cover"/>
   </programme>
   <programme channel="sky.tennis.uk" start="20250316100000 +0000" stop="20250316120000 +0000">
     <title lang="en">Indian Wells Tennis Highlights</title>
-    <desc lang="en">Revisit one of the standout matches from yesterday's action at Indian Wells.</desc>
+    <desc lang="en">Britain's Jack Draper gets set for a clash with the two-time defending champion Carlos Alcaraz, as the Briton competes in his maiden ATP Masters 1000 semi-final at Indian Wells. (15.03)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/23a491a3-2e3d-4386-93d9-4d73c1db2ed3/cover"/>
   </programme>
   <programme channel="sky.tennis.uk" start="20250316120000 +0000" stop="20250316130000 +0000">
@@ -2099,20 +2094,20 @@
     <desc lang="en">A stacked field of mixed-doubles pairings, including Keys, Swiatek, Fritz, Boulter, De Minaur, Tsitsipas, Rybakina and many more, compete for the Eisenhower Cup under Tie Break 10s rules.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/774f3c96-93b6-4bd4-930d-dc1ec95e3b84/cover"/>
   </programme>
-  <programme channel="sky.tennis.uk" start="20250316130000 +0000" stop="20250316133000 +0000">
+  <programme channel="sky.tennis.uk" start="20250316130000 +0000" stop="20250316133001 +0000">
     <title lang="en">ATP Tour This Week</title>
     <desc lang="en">Step behind the scenes of men's professional tennis throughout the 2025 season on the ATP Tour with special features, interviews and much more.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/04657b27-049e-4f1a-beb6-b9a060dc28db/cover"/>
   </programme>
-  <programme channel="sky.tennis.uk" start="20250316133000 +0000" stop="20250316153000 +0000">
+  <programme channel="sky.tennis.uk" start="20250316133001 +0000" stop="20250316153002 +0000">
     <title lang="en">Indian Wells Tennis Highlights</title>
-    <desc lang="en">Revisit one of the standout matches from yesterday's action at Indian Wells.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/4cec71b2-71d4-4c60-8e9f-09704cebfe51/cover"/>
+    <desc lang="en">Britain's Jack Draper gets set for a clash with the two-time defending champion Carlos Alcaraz, as the Briton competes in his maiden ATP Masters 1000 semi-final at Indian Wells. (15.03)</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d6a45dc7-0adb-4bbf-bbe4-49fea4a6f372/cover"/>
   </programme>
-  <programme channel="sky.tennis.uk" start="20250316153000 +0000" stop="20250316173000 +0000">
+  <programme channel="sky.tennis.uk" start="20250316153001 +0000" stop="20250316173000 +0000">
     <title lang="en">Indian Wells Tennis Highlights</title>
-    <desc lang="en">Revisit one of the standout matches from yesterday's action at Indian Wells.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/23a491a3-2e3d-4386-93d9-4d73c1db2ed3/cover"/>
+    <desc lang="en">Mirra Andreeva plays Iga Swiatek in the WTA Masters 1000 semi-final at Indian Wells. (15.03)</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/9f868f85-bc63-4926-9c47-45c4853ebaf3/cover"/>
   </programme>
   <programme channel="sky.tennis.uk" start="20250316173000 +0000" stop="20250316203000 +0000">
     <title lang="en">Live Tennis:WTA Indian Wells Final</title>
@@ -2436,7 +2431,7 @@
   </programme>
   <programme channel="sky.f1.uk" start="20250316035500 +0000" stop="20250316060000 +0000">
     <title lang="en">Live Australian F1 Grand Prix</title>
-    <desc lang="en">It's lights out at the season-opening Australian Grand Prix, held at Albert Park Grand Prix Circuit in Melbourne. (16.03)</desc>
+    <desc lang="en">A McLaren one-two forms the front row for the Australian Grand Prix, as Lando Norris leads from Oscar Piastri. Max Verstappen starts third, while Ferrari's Lewis Hamilton begins from P8.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8d5eb032-51f8-4b8a-a305-fa01e133f0f9/cover"/>
   </programme>
   <programme channel="sky.f1.uk" start="20250316060000 +0000" stop="20250316070000 +0000">
@@ -2456,7 +2451,7 @@
   </programme>
   <programme channel="sky.f1.uk" start="20250316075500 +0000" stop="20250316100000 +0000">
     <title lang="en">Australian F1 Grand Prix Replay</title>
-    <desc lang="en">It's lights out at the season-opening Australian Grand Prix, held at Albert Park Grand Prix Circuit in Melbourne. (16.03)</desc>
+    <desc lang="en">A McLaren one-two forms the front row for the Australian Grand Prix, as Lando Norris leads from Oscar Piastri. Max Verstappen starts third, while Lewis Hamilton begins from P8. (16.03)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/57452e52-4149-4545-970a-fe8b31a4a053/cover"/>
   </programme>
   <programme channel="sky.f1.uk" start="20250316100000 +0000" stop="20250316103000 +0000">
@@ -2471,7 +2466,7 @@
   </programme>
   <programme channel="sky.f1.uk" start="20250316104500 +0000" stop="20250316114500 +0000">
     <title lang="en">Australian F1 GP Highlights</title>
-    <desc lang="en">It's lights out at the season-opening Australian Grand Prix, held at Albert Park Grand Prix Circuit in Melbourne. (16.03)</desc>
+    <desc lang="en">A McLaren one-two forms the front row for the Australian Grand Prix, as Lando Norris leads from Oscar Piastri. Max Verstappen starts third, while Lewis Hamilton begins from P8. (16.03)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/32b8b63d-3435-4d76-b9a1-77cd83e9de23/cover"/>
   </programme>
   <programme channel="sky.f1.uk" start="20250316114500 +0000" stop="20250316121500 +0000">
@@ -2491,7 +2486,7 @@
   </programme>
   <programme channel="sky.f1.uk" start="20250316135500 +0000" stop="20250316160000 +0000">
     <title lang="en">Australian F1 Grand Prix</title>
-    <desc lang="en">It's lights out at the season-opening Australian Grand Prix, held at Albert Park Grand Prix Circuit in Melbourne. (16.03)</desc>
+    <desc lang="en">A McLaren one-two forms the front row for the Australian Grand Prix, as Lando Norris leads from Oscar Piastri. Max Verstappen starts third, while Ferrari's Lewis Hamilton begins from P8.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/57452e52-4149-4545-970a-fe8b31a4a053/cover"/>
   </programme>
   <programme channel="sky.f1.uk" start="20250316160000 +0000" stop="20250316170000 +0000">
@@ -2516,7 +2511,7 @@
   </programme>
   <programme channel="sky.f1.uk" start="20250316180000 +0000" stop="20250316190000 +0000">
     <title lang="en">Australian F1 GP Highlights</title>
-    <desc lang="en">It's lights out at the season-opening Australian Grand Prix, held at Albert Park Grand Prix Circuit in Melbourne. (16.03)</desc>
+    <desc lang="en">A McLaren one-two forms the front row for the Australian Grand Prix, as Lando Norris leads from Oscar Piastri. Max Verstappen starts third, while Lewis Hamilton begins from P8. (16.03)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/32b8b63d-3435-4d76-b9a1-77cd83e9de23/cover"/>
   </programme>
   <programme channel="sky.f1.uk" start="20250316190000 +0000" stop="20250316210000 +0000">
@@ -2526,7 +2521,7 @@
   </programme>
   <programme channel="sky.f1.uk" start="20250316210000 +0000" stop="20250316220000 +0000">
     <title lang="en">Australian F1 GP Highlights</title>
-    <desc lang="en">It's lights out at the season-opening Australian Grand Prix, held at Albert Park Grand Prix Circuit in Melbourne. (16.03)</desc>
+    <desc lang="en">A McLaren one-two forms the front row for the Australian Grand Prix, as Lando Norris leads from Oscar Piastri. Max Verstappen starts third, while Lewis Hamilton begins from P8. (16.03)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/32b8b63d-3435-4d76-b9a1-77cd83e9de23/cover"/>
   </programme>
   <programme channel="sky.f1.uk" start="20250316220000 +0000" stop="20250316231500 +0000">
@@ -2586,7 +2581,7 @@
   </programme>
   <programme channel="sky.f1.uk" start="20250317072500 +0000" stop="20250317093000 +0000">
     <title lang="en">Australian F1 Grand Prix</title>
-    <desc lang="en">It's lights out at the season-opening Australian Grand Prix, held at Albert Park Grand Prix Circuit in Melbourne. (16.03)</desc>
+    <desc lang="en">A McLaren one-two forms the front row for the Australian Grand Prix, as Lando Norris leads from Oscar Piastri. Max Verstappen starts third, while Ferrari's Lewis Hamilton begins from P8.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/57452e52-4149-4545-970a-fe8b31a4a053/cover"/>
   </programme>
   <programme channel="sky.f1.uk" start="20250317093000 +0000" stop="20250317103000 +0000">
@@ -2651,7 +2646,7 @@
   </programme>
   <programme channel="sky.f1.uk" start="20250317190000 +0000" stop="20250317211500 +0000">
     <title lang="en">Australian F1 Grand Prix</title>
-    <desc lang="en">It's lights out at the season-opening Australian Grand Prix, held at Albert Park Grand Prix Circuit in Melbourne. (16.03)</desc>
+    <desc lang="en">A McLaren one-two forms the front row for the Australian Grand Prix, as Lando Norris leads from Oscar Piastri. Max Verstappen starts third, while Lewis Hamilton begins from P8. (16.03)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0bd1b009-9297-44e6-a8da-076432bd3566/cover"/>
   </programme>
   <programme channel="sky.f1.uk" start="20250317211500 +0000" stop="20250317214500 +0000">
@@ -2671,7 +2666,7 @@
   </programme>
   <programme channel="sky.f1.uk" start="20250317220000 +0000" stop="20250317230000 +0000">
     <title lang="en">Australian F1 GP Highlights</title>
-    <desc lang="en">It's lights out at the season-opening Australian Grand Prix, held at Albert Park Grand Prix Circuit in Melbourne. (16.03)</desc>
+    <desc lang="en">A McLaren one-two forms the front row for the Australian Grand Prix, as Lando Norris leads from Oscar Piastri. Max Verstappen starts third, while Lewis Hamilton begins from P8. (16.03)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/32b8b63d-3435-4d76-b9a1-77cd83e9de23/cover"/>
   </programme>
   <programme channel="sky.f1.uk" start="20250317230000 +0000" stop="20250317233000 +0000">
@@ -3434,7 +3429,7 @@
   </programme>
   <programme channel="sky.mix.uk" start="20250316003000 +0000" stop="20250316023000 +0000">
     <title lang="en">Live NCAA Basketball</title>
-    <desc lang="en">Men's NCAA college basketball action from the Atlantic Coast Conference championship game in Charlotte, North Carolina.</desc>
+    <desc lang="en">Men's college basketball action from the Atlantic Coast Conference championship game in North Carolina, as one of the March Madness favourites Duke Blue Devils face Louisville Cardinals.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9a35f987-40b8-433c-8d66-73091e0df5d2/cover"/>
   </programme>
   <programme channel="sky.mix.uk" start="20250316023000 +0000" stop="20250316043000 +0000">
@@ -3673,7 +3668,7 @@
   </programme>
   <programme channel="sky.mix.uk" start="20250317154500 +0000" stop="20250317164500 +0000">
     <title lang="en">Australian F1 GP Highlights</title>
-    <desc lang="en">It's lights out at the season-opening Australian Grand Prix, held at Albert Park Grand Prix Circuit in Melbourne. (16.03)</desc>
+    <desc lang="en">A McLaren one-two forms the front row for the Australian Grand Prix, as Lando Norris leads from Oscar Piastri. Max Verstappen starts third, while Lewis Hamilton begins from P8. (16.03)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/32b8b63d-3435-4d76-b9a1-77cd83e9de23/cover"/>
   </programme>
   <programme channel="sky.mix.uk" start="20250317164500 +0000" stop="20250317174500 +0000">
@@ -5364,7 +5359,7 @@
   <programme channel="tnt4" start="20250315210000 +0000" stop="20250315223000 +0000">
     <title lang="en">Live: SailGP - Los Angeles Day One</title>
     <desc lang="en">Action from day one of SailGP in Los Angeles. Taylor Canfield and his US team will be hoping to claim the event title on home waters.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a38c95fd-1c2b-40e6-afe1-9de0719d74d7/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/a3a4624b-34e9-4b51-ae5c-1c56adf2a174/cover"/>
   </programme>
   <programme channel="tnt4" start="20250315223000 +0000" stop="20250315230000 +0000">
     <title lang="en">MotoGP: Argentina Sprint Race</title>
@@ -5430,7 +5425,7 @@
   <programme channel="tnt4" start="20250316050000 +0000" stop="20250316070000 +0000">
     <title lang="en">Live: Melbourne C W v Adelaide U W</title>
     <desc lang="en">Ninja A-League Women action as Melbourne City take on Adelaide United. City remain unbeaten in the league this season, but they face a Reds side who haven't lost in their last 11.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/823b8805-a026-42a0-9f69-f93e9239c0e4/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/43d3ad65-f859-4042-8440-fd79ad568e4e/cover"/>
   </programme>
   <programme channel="tnt4" start="20250316070000 +0000" stop="20250316071500 +0000">
     <title lang="en">TNT Sports Reload</title>
@@ -5459,7 +5454,7 @@
   <programme channel="tnt4" start="20250316094500 +0000" stop="20250316104500 +0000">
     <title lang="en">Cycling World Tour - Men</title>
     <desc lang="en">Men's Cycling World Tour action from stage six of Tirreno Adriatico in Italy. This elite race runs between the Tyrrhenian and Adriatic coasts.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3192e205-3c8b-4155-926d-7fda7dbeb2e4/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/a14fb601-fa28-45c9-bbeb-6c64085b26c2/cover"/>
   </programme>
   <programme channel="tnt4" start="20250316104500 +0000" stop="20250316120000 +0000">
     <title lang="en">Live: Biathlon World Cup</title>
@@ -5476,7 +5471,7 @@
   <programme channel="tnt4" start="20250316123000 +0000" stop="20250316133000 +0000">
     <title lang="en">Bayern Munich Women v Wolfsburg W</title>
     <desc lang="en">Women's Bundesliga action as league leaders Bayern Munich face title challengers Wolfsburg at FC Bayern Campus. Who will be victorious in this crucial showdown?</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/20375334-129f-426d-89cb-005d74566b39/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/37c45dba-1306-4bb4-be38-2f193f96ad52/cover"/>
   </programme>
   <programme channel="tnt4" start="20250316133000 +0000" stop="20250316150000 +0000">
     <title lang="en">Live: Biathlon World Cup</title>
@@ -5528,12 +5523,12 @@
   <programme channel="tnt4" start="20250316203000 +0000" stop="20250316213000 +0000">
     <title lang="en">Cycling World Tour - Men</title>
     <desc lang="en">Men's Cycling World Tour action from stage seven of Tirreno Adriatico in Italy. This elite race runs between the Tyrrhenian and Adriatic coasts.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d56f5992-748f-440e-998f-b99717b31a35/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/cb2d2269-d7bc-4c47-8522-ff9b2fc135a6/cover"/>
   </programme>
   <programme channel="tnt4" start="20250316213000 +0000" stop="20250316223000 +0000">
     <title lang="en">Cycling World Tour - Men</title>
     <desc lang="en">Men's Cycling World Tour action from stage eight of Paris-Nice, a race that gives the Tour de France contenders their first glimpse of the competition this year.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/19e60382-6fa4-4286-a180-98c8f570760a/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/8202a2aa-059b-42f0-b37a-ef84d051f636/cover"/>
   </programme>
   <programme channel="tnt4" start="20250316223000 +0000" stop="20250316233000 +0000">
     <title lang="en">Cycling World Tour - Women</title>
@@ -10730,7 +10725,7 @@
   </programme>
   <programme channel="BBCNews.uk" start="20250315183000 +0000" stop="20250315190000 +0000">
     <title lang="en">Sportsday</title>
-    <desc lang="en">A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
+    <desc lang="en">A round-up of the day's sporting action, plus talking points, analysis and original journalism. All the news from the Premier League and opening F1 race of the season.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6e4681d4-aa4c-40f7-bad8-021193fe85b8/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20250315190000 +0000" stop="20250315193000 +0000">
@@ -10740,7 +10735,7 @@
   </programme>
   <programme channel="BBCNews.uk" start="20250315193000 +0000" stop="20250315200000 +0000">
     <title lang="en">Sportsday</title>
-    <desc lang="en">A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
+    <desc lang="en">A round-up of the day's sporting action, plus talking points, analysis and original journalism. All the news from the Premier League and opening F1 race of the season.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6e4681d4-aa4c-40f7-bad8-021193fe85b8/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20250315200000 +0000" stop="20250315203000 +0000">
@@ -28445,12 +28440,10 @@
     <premiere/>
   </programme>
   <programme channel="CNNInternational.uk" start="20250317000000 +0000" stop="20250317010000 +0000">
-    <title lang="en">The Whole Story with Anderson Cooper</title>
-    <desc lang="en">The James Webb Telescope: Are We Alone?. Anderson Cooper hosts a deeply reported series that goes behind the headlines and into the heart of the most important stories of our time.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/627962bb-b80d-3304-8c09-3ed14060ec3e/cover"/>
+    <title lang="en">CNN Newsroom Sunday</title>
+    <desc lang="en">Sunday, March 16, 2025 8PM. Updates of the latest news from around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/0181ea93-0e20-4da6-9ba7-21d98fcad281/cover"/>
     <premiere/>
-    <episode-num system="xmltv_ns">1.15.0</episode-num>
-    <episode-num system="onscreen">S2E16</episode-num>
   </programme>
   <programme channel="CNNInternational.uk" start="20250317010000 +0000" stop="20250317020000 +0000">
     <title lang="en">Fareed Zakaria GPS</title>
