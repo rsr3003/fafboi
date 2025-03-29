@@ -470,7 +470,7 @@
   </programme>
   <programme channel="sky.main.uk" start="20250329193000 +0000" stop="20250329210000 +0000">
     <title lang="en">Live Tennis: WTA Miami Final</title>
-    <desc lang="en">A women's singles champion is crowned in the final of the Miami Open.</desc>
+    <desc lang="en">In Miami, the women's final get underway as top seed Aryna Sabalenka meets with home favourite Jessica Pegula in a repeat of last year's US Open decider.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/72f90bf0-159e-4d0e-ad81-4c635fb5a91a/cover"/>
   </programme>
   <programme channel="sky.main.uk" start="20250329210000 +0000" stop="20250329220000 +0000">
@@ -1869,7 +1869,7 @@
   <programme channel="sky.football.uk" start="20250331140000 +0100" stop="20250331141500 +0100">
     <title lang="en">EFL 24/25: Sheff Utd v Coventry</title>
     <desc lang="en">Sheffield United host Coventry City at Bramall Lane in the Sky Bet Championship. The Blades are currently level on points at the top of the table, as their visitors sit in fifth. (28.03)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f1a47e36-9b35-4981-b39f-b7ecc26719ca/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/2161a677-1552-4c12-996e-fdf08b83e1fe/cover"/>
   </programme>
   <programme channel="sky.football.uk" start="20250331141500 +0100" stop="20250331143000 +0100">
     <title lang="en">EFL 24/25: Stoke City v QPR</title>
@@ -2023,12 +2023,12 @@
   </programme>
   <programme channel="sky.tennis.uk" start="20250329163000 +0000" stop="20250329183000 +0000">
     <title lang="en">Live: ATP Miami Doubles Final</title>
-    <desc lang="en">A pair of champions are crowned in the men's doubles final at the Miami Open.</desc>
+    <desc lang="en">In the ATP Miami doubles final, British duo Lloyd Glasspool and Julian Cash take on top-seeded Marcelo Arévalo and Mate Pavi¿ - who look to complete the 'Sunshine Double' here.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/efb67fc7-66d6-4c88-8fab-7a02c685219a/cover"/>
   </programme>
   <programme channel="sky.tennis.uk" start="20250329183000 +0000" stop="20250329210000 +0000">
     <title lang="en">Live Tennis: WTA Miami Final</title>
-    <desc lang="en">A women's singles champion is crowned in the final of the Miami Open.</desc>
+    <desc lang="en">In Miami, the women's final get underway as top seed Aryna Sabalenka meets with home favourite Jessica Pegula in a repeat of last year's US Open decider.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a5033075-0e04-43ed-8dde-5d9aa91813ea/cover"/>
   </programme>
   <programme channel="sky.tennis.uk" start="20250329210000 +0000" stop="20250329220000 +0000">
@@ -2053,7 +2053,7 @@
   </programme>
   <programme channel="sky.tennis.uk" start="20250330020000 +0100" stop="20250330040000 +0100">
     <title lang="en">WTA Final: Miami</title>
-    <desc lang="en">A women's singles champion is crowned in the final of the Miami Open. (29.03)</desc>
+    <desc lang="en">In Miami, the women's final get underway as top seed Aryna Sabalenka meets with home favourite Jessica Pegula in a repeat of last year's US Open decider. (29.03)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c43f4156-d105-4b27-b386-43df93b291c1/cover"/>
   </programme>
   <programme channel="sky.tennis.uk" start="20250330040000 +0100" stop="20250330041500 +0100">
@@ -2083,7 +2083,7 @@
   </programme>
   <programme channel="sky.tennis.uk" start="20250330060000 +0100" stop="20250330080000 +0100">
     <title lang="en">WTA Final: Miami</title>
-    <desc lang="en">A women's singles champion is crowned in the final of the Miami Open. (29.03)</desc>
+    <desc lang="en">In Miami, the women's final get underway as top seed Aryna Sabalenka meets with home favourite Jessica Pegula in a repeat of last year's US Open decider. (29.03)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c43f4156-d105-4b27-b386-43df93b291c1/cover"/>
   </programme>
   <programme channel="sky.tennis.uk" start="20250330080000 +0100" stop="20250330100000 +0100">
@@ -5069,36 +5069,41 @@
     <desc lang="en">The latest episode of NBA On Fire.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/991f663e-3332-429a-b5eb-67889c22f18a/cover"/>
   </programme>
-  <programme channel="tnt4" start="20250329084500 +0000" stop="20250329100000 +0000">
-    <title lang="en">Live: Snowboard World Champs</title>
-    <desc lang="en">Coverage of the Women's Halfpipe finals, part of the Snowboard World Championship in Engadin, Switzerland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/8abd55b1-9006-480b-a160-ccdc9ee6f05f/cover"/>
+  <programme channel="tnt4" start="20250329084500 +0000" stop="20250329091500 +0000">
+    <title lang="en">NBA Action</title>
+    <desc lang="en">Action is the watchword for this fast paced highlights programme, which rounds up the latest action from the NBA.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/9d348502-63be-4f1f-8c00-df87de072b21/cover"/>
+    <episode-num system="xmltv_ns">23.22.0</episode-num>
+    <episode-num system="onscreen">S24E23</episode-num>
   </programme>
-  <programme channel="tnt4" start="20250329100000 +0000" stop="20250329110000 +0000">
+  <programme channel="tnt4" start="20250329091500 +0000" stop="20250329094500 +0000">
+    <title lang="en">TNT Sports Reload</title>
+    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ff36ffa5-63f5-42a5-8b02-dc7a1c34a124/cover"/>
+    <episode-num system="xmltv_ns">24.12.0</episode-num>
+    <episode-num system="onscreen">S25E13</episode-num>
+  </programme>
+  <programme channel="tnt4" start="20250329094500 +0000" stop="20250329110000 +0000">
     <title lang="en">Live: Snowboard World Champs</title>
     <desc lang="en">Snowboard World Championship action from the finals of the Mixed Snowboard Cross Team in Engadin, Switzerland.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/40794d0d-84da-4334-b22a-65cf689a88c6/cover"/>
   </programme>
-  <programme channel="tnt4" start="20250329110000 +0000" stop="20250329123000 +0000">
+  <programme channel="tnt4" start="20250329110000 +0000" stop="20250329121500 +0000">
+    <title lang="en">Live: Snowboard World Champs</title>
+    <desc lang="en">Coverage of the Women's Halfpipe finals, part of the Snowboard World Championship in Engadin, Switzerland.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8abd55b1-9006-480b-a160-ccdc9ee6f05f/cover"/>
+  </programme>
+  <programme channel="tnt4" start="20250329121500 +0000" stop="20250329124500 +0000">
+    <title lang="en">Snowboard World Championship</title>
+    <desc lang="en">Coverage of the Men's and Women's Snowboard Cross finals, part of the Snowboard World Championship in Engadin, Switzerland.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/99df32e9-b33a-4b39-8e54-2e4deba2dc24/cover"/>
+  </programme>
+  <programme channel="tnt4" start="20250329124500 +0000" stop="20250329141500 +0000">
     <title lang="en">Live: Snowboard World Champs</title>
     <desc lang="en">Coverage of the Men's Halfpipe finals, part of the Snowboard World Championship in Engadin, Switzerland.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f15788fa-8955-4c0b-af71-aca61372d5e1/cover"/>
   </programme>
-  <programme channel="tnt4" start="20250329123000 +0000" stop="20250329124500 +0000">
-    <title lang="en">TNT Sports Cricket Reload</title>
-    <desc lang="en">A glimpse back at the second One Day International between India and England at Barabati Stadium. Rohit Sharma would be in formidable batting form for the hosts.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/55dd1ba5-46aa-426f-b1eb-980fd1f9c58c/cover"/>
-    <episode-num system="xmltv_ns">1.227.0</episode-num>
-    <episode-num system="onscreen">S2E228</episode-num>
-  </programme>
-  <programme channel="tnt4" start="20250329124500 +0000" stop="20250329134500 +0000">
-    <title lang="en">The Ultimate Cycling Show</title>
-    <desc lang="en">Orla Chennaoui and Adam Blythe are joined by the stars of cycling as they guide you through everything you need to know about bike racing on the track, road and in the mountains.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/6457562d-bbe0-40a3-939d-d2033a70a11f/cover"/>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
-  <programme channel="tnt4" start="20250329134500 +0000" stop="20250329161500 +0000">
+  <programme channel="tnt4" start="20250329141500 +0000" stop="20250329161500 +0000">
     <title lang="en">Live: Cycling World Tour - Men</title>
     <desc lang="en">Men's Cycling World Tour action from stage six of the Tour of Catalunya, one of three World Tour stage races held in Spain.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ee6b49d3-e1a0-4eba-8a65-6eefafe8030b/cover"/>
@@ -9887,7 +9892,7 @@
     <title lang="en">This is BBC Four</title>
     <desc lang="en">Programmes start at 7.00pm.</desc>
   </programme>
-  <programme channel="BBCFourHD.uk" start="20250330053209 +0100" stop="20250330113209 +0100">
+  <programme channel="BBCFourHD.uk" start="20250330053234 +0100" stop="20250330113209 +0100">
     <title lang="en">..programmes start at 7.00pm</title>
   </programme>
   <programme channel="BBCFourHD.uk" start="20250330113209 +0100" stop="20250330173209 +0100">
@@ -10093,15 +10098,10 @@
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ebacacfc-87d5-4818-890a-4d5a504dc01c/cover"/>
   </programme>
-  <programme channel="BBCNews.uk" start="20250329110000 +0000" stop="20250329113000 +0000">
+  <programme channel="BBCNews.uk" start="20250329110000 +0000" stop="20250329120000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f47dc87a-2f2f-4fdd-9d99-9ebfa9006b39/cover"/>
-  </programme>
-  <programme channel="BBCNews.uk" start="20250329113000 +0000" stop="20250329120000 +0000">
-    <title lang="en">Amol Rajan Interviews: Alan Sugar</title>
-    <desc lang="en">Amol Rajan sits down with Lord Alan Sugar to discuss the future of Britain and explore the incredible past that made him one of the UK's greatest entrepreneurs.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9b0b9362-014c-43bf-ac83-fc9d1df95d00/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20250329120000 +0000" stop="20250329123000 +0000">
     <title lang="en">BBC News</title>
@@ -10113,17 +10113,10 @@
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/192d4443-84a1-4b1e-98e8-5cf0e66648c5/cover"/>
   </programme>
-  <programme channel="BBCNews.uk" start="20250329130000 +0000" stop="20250329133000 +0000">
+  <programme channel="BBCNews.uk" start="20250329130000 +0000" stop="20250329140000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC including sport.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/eac416a7-3394-43a6-bf05-38c708cab849/cover"/>
-  </programme>
-  <programme channel="BBCNews.uk" start="20250329133000 +0000" stop="20250329140000 +0000">
-    <title lang="en">Troublemakers: Drugged, Framed and Detained</title>
-    <desc lang="en">Investigation into Chinese police use of psychiatric hospitals to silence critics, hearing from people who dared protest only to be drugged and labelled mentally ill.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f9cbca1f-1f8b-4c88-9baf-e9fd162d04d0/cover"/>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme channel="BBCNews.uk" start="20250329140000 +0000" stop="20250329143000 +0000">
     <title lang="en">BBC News</title>
@@ -10150,17 +10143,10 @@
     <desc lang="en">Why is the interview programme HARDtalk coming to an end? Its presenter Stephen Sackur speaks to Samira Ahmed.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e82af83c-1f3e-47b1-96a0-03a00e21feeb/cover"/>
   </programme>
-  <programme channel="BBCNews.uk" start="20250329160000 +0000" stop="20250329163000 +0000">
+  <programme channel="BBCNews.uk" start="20250329160000 +0000" stop="20250329170000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e6144cbc-b7d3-4034-875d-9c27ac853671/cover"/>
-  </programme>
-  <programme channel="BBCNews.uk" start="20250329163000 +0000" stop="20250329170000 +0000">
-    <title lang="en">The Balkans: Europe's Forgotten Frontier</title>
-    <desc lang="en">2/4. Katya Adler visits Bosnia and Albania.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/926de9c5-c44b-49d7-bfb2-9c7915094e18/cover"/>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="BBCNews.uk" start="20250329170000 +0000" stop="20250329180000 +0000">
     <title lang="en">BBC News</title>
@@ -17933,35 +17919,30 @@
     <desc lang="en">The normal, the unusual and everything in between.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c1bf59a5-11cc-4c47-95c0-a9b9f5dd293e/cover"/>
   </programme>
-  <programme channel="BBCRedButton1.uk" start="20250329060000 +0000" stop="20250329085500 +0000">
+  <programme channel="BBCRedButton1.uk" start="20250329060000 +0000" stop="20250329095500 +0000">
     <title lang="en">What's Your Thing?</title>
     <desc lang="en">The normal, the unusual and everything in between.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c6c18a61-19e1-46cd-94ca-c4f7fb956181/cover"/>
   </programme>
-  <programme channel="BBCRedButton1.uk" start="20250329085500 +0000" stop="20250329095500 +0000">
-    <title lang="en">Snowboard, Freestyle and...</title>
-    <desc lang="en">...Freeski World Championships. Coverage of the women's snowboard halfpipe finals at the World Championships in Switzerland, where China's Cai Xuetong is the defending champion.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/2055f838-e1d8-4a69-8818-76a8c0ef91d3/cover"/>
-  </programme>
-  <programme channel="BBCRedButton1.uk" start="20250329095500 +0000" stop="20250329105500 +0000">
+  <programme channel="BBCRedButton1.uk" start="20250329095500 +0000" stop="20250329110500 +0000">
     <title lang="en">Snowboard, Freestyle and...</title>
     <desc lang="en">...Freeski World Championships. Coverage of the snowboard cross team finals at the World Championships in Switzerland, won by British pair Huw Nightingale and Charlotte Bankes two years ago.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ea9929bb-3a04-42e5-8518-71567d70743b/cover"/>
   </programme>
-  <programme channel="BBCRedButton1.uk" start="20250329105500 +0000" stop="20250329122500 +0000">
+  <programme channel="BBCRedButton1.uk" start="20250329110500 +0000" stop="20250329115000 +0000">
     <title lang="en">Snowboard, Freestyle and...</title>
-    <desc lang="en">...Freeski World Championships. Coverage of the men's snowboard halfpipe finals at the World Championships in Switzerland, with Korean Chaeun Lee the defending champion.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/2fd8f699-026a-48b8-b30b-2485695e3127/cover"/>
+    <desc lang="en">...Freeski World Championships. Coverage of the women's snowboard halfpipe finals at the World Championships in Switzerland, where China's Cai Xuetong is the defending champion.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/2055f838-e1d8-4a69-8818-76a8c0ef91d3/cover"/>
   </programme>
-  <programme channel="BBCRedButton1.uk" start="20250329122500 +0000" stop="20250329124500 +0000">
+  <programme channel="BBCRedButton1.uk" start="20250329115000 +0000" stop="20250329125500 +0000">
     <title lang="en">What's Your Thing?</title>
     <desc lang="en">The normal, the unusual and everything in between.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/76f5f770-8608-4f71-8c1a-045e375fcbb0/cover"/>
   </programme>
-  <programme channel="BBCRedButton1.uk" start="20250329124500 +0000" stop="20250329144500 +0000">
-    <title lang="en">Netball Super League:...</title>
-    <desc lang="en">...Manchester Thunder v Nottingham Forest Netball. Coverage of Manchester Thunder v Nottingham Forest Netball in the Netball Super League.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/93fa3ba6-53ca-425d-bbdb-9b044c10e1b9/cover"/>
+  <programme channel="BBCRedButton1.uk" start="20250329125500 +0000" stop="20250329144500 +0000">
+    <title lang="en">Snowboard, Freestyle and...</title>
+    <desc lang="en">...Freeski World Championships. Coverage of the men's snowboard halfpipe finals at the World Championships in Switzerland, with Korean Chaeun Lee the defending champion.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/2fd8f699-026a-48b8-b30b-2485695e3127/cover"/>
   </programme>
   <programme channel="BBCRedButton1.uk" start="20250329144500 +0000" stop="20250329170000 +0000">
     <title lang="en">5 Live Final Score</title>
