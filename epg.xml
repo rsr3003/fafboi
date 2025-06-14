@@ -423,11 +423,6 @@
     <display-name lang="en">U&amp;Yesterday+1</display-name>
     <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/U%26YESTERDAYPlus1.png"></icon>
   </channel>
-  <programme channel="sky.main.uk" start="20250613123000 +0100" stop="20250614000000 +0100">
-    <title lang="en">Live U.S. Open Golf Round 2</title>
-    <desc lang="en">The second round of the 125th US Open Championship. JJ Spaun led the way Thursday with a flawless opening round, while Scottie Scheffler and Rory McIlroy felt the bite of Oakmont.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/8d0e518d-43a9-418e-879a-95841d21689c/cover"/>
-  </programme>
   <programme channel="sky.main.uk" start="20250614000000 +0100" stop="20250614010000 +0100">
     <title lang="en">Sky Sports News</title>
     <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
@@ -2055,12 +2050,12 @@
   </programme>
   <programme channel="sky.tennis.uk" start="20250614100000 +0100" stop="20250614150000 +0100">
     <title lang="en">Live Tennis: Semi-Finals</title>
-    <desc lang="en">Enjoy live action from the WTA and ATP Tour.</desc>
+    <desc lang="en">Alexander Zverev's bid for a first grass-court title sees him face top 10-bound Ben Shelton, while Taylor Fritz meets Felix Auger-Aliassime. Plus, Ekaterina Alexandrova plays Elise Mertens.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/83d58057-88ed-49e7-b819-ec8613e747f4/cover"/>
   </programme>
   <programme channel="sky.tennis.uk" start="20250614150000 +0100" stop="20250614180000 +0100">
     <title lang="en">Live Tennis: S'Hertogenbosch SFs</title>
-    <desc lang="en">Enjoy live action from the WTA and ATP Tour.</desc>
+    <desc lang="en">The 's-Hertogenbosch second seed Ugo Humbert meets 23-year-old Canadian Gabriel Diallo in the final four, while Reilly Opelka faces Zizou Bergs after dispatching top seed Daniil Medvedev.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/abd7072e-452f-45a6-ad7c-db838e894920/cover"/>
   </programme>
   <programme channel="sky.tennis.uk" start="20250614180000 +0100" stop="20250614183000 +0100">
@@ -3482,7 +3477,7 @@
   </programme>
   <programme channel="sky.mix.uk" start="20250614133000 +0100" stop="20250614170000 +0100">
     <title lang="en">Live R&amp;A Women's Amateur C'Ship</title>
-    <desc lang="en">Semi-final action from the Women's Amateur Championship, held at Nairn Golf Club in Scotland. The amateur field of female golfers are competing for entry into a host of Major championships.</desc>
+    <desc lang="en">Semi-final action from the Women's Amateur Championship, held at Nairn Golf Club in Scotland, as Paula Martin Sampedro faces Caterina Don and Farah O'Keefe takes on Tillie Claggett.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bf90f1a9-c7f7-4a31-9311-e393cd97e191/cover"/>
   </programme>
   <programme channel="sky.mix.uk" start="20250614170000 +0100" stop="20250614173000 +0100">
@@ -4209,7 +4204,7 @@
   <programme channel="sky.cricket.uk" start="20250616150000 +0100" stop="20250616160000 +0100">
     <title lang="en">ICC WTC'25 Final: Day 3 Highlights</title>
     <desc lang="en">With just two second-innings wickets in hand, Australia take a 218-run lead into a decisive day at Lord's in the World Test Championship final as South Africa remain in contention. (13.06)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f18878b7-35bd-4adb-90f3-1d965015d7b9/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/b5e4c34c-3678-4659-882f-a0cebee4d178/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20250616160000 +0100" stop="20250616170000 +0100">
     <title lang="en">ICC WTC'25 Final: Day 4 Highlights</title>
@@ -5057,7 +5052,7 @@
   <programme channel="tnt3" start="20250614171500 +0100" stop="20250615001500 +0100">
     <title lang="en">Live: T100 Triathlon World Tour</title>
     <desc lang="en">Action from the T100 Triathlon World Tour in Vancouver, Canada.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9846132e-54aa-42e7-b423-5500e3403991/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/adc37f73-b072-4c75-8df5-b8518bfb0407/cover"/>
   </programme>
   <programme channel="tnt3" start="20250615001500 +0100" stop="20250615014500 +0100">
     <title lang="en">NBA: Thunder @ Pacers</title>
@@ -10914,24 +10909,10 @@
     <desc lang="en">The latest weather forecast.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ecc28c9f-1c62-4672-b9c4-f14f8aa7f080/cover"/>
   </programme>
-  <programme channel="BBCOneChannelIslands.uk" start="20250614132500 +0100" stop="20250614160000 +0100">
+  <programme channel="BBCOneChannelIslands.uk" start="20250614132500 +0100" stop="20250614173000 +0100">
     <title lang="en">Tennis: Queen's</title>
     <desc lang="en">Live coverage of the semi-finals from Queen's, where a stellar line-up has gathered to take part in the first women's event at the famous venue for more than half a century.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3d0e4443-ab03-4563-9e4d-89845fededf2/cover"/>
-  </programme>
-  <programme channel="BBCOneChannelIslands.uk" start="20250614160000 +0100" stop="20250614163000 +0100">
-    <title lang="en">Deadly 60</title>
-    <desc lang="en">Very Hungry Hippos. Steve heads to Zambia for the first time. He hears hippo communication on a whole new level, spots a high-diving croc and meets some incredible sniffer dogs.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/59345406-accd-38a8-a47d-b38a06c29648/cover"/>
-    <episode-num system="xmltv_ns">4.2.0</episode-num>
-    <episode-num system="onscreen">S5E3</episode-num>
-  </programme>
-  <programme channel="BBCOneChannelIslands.uk" start="20250614163000 +0100" stop="20250614173000 +0100">
-    <title lang="en">Escape to the Country</title>
-    <desc lang="en">It's an emotional homecoming today and a first for Jules Hudson as he visits County Down and County Antrim for some property shopping in Northern Ireland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/189395f3-fb71-4faf-be5e-263b42dced6a/cover"/>
-    <episode-num system="xmltv_ns">23.4.0</episode-num>
-    <episode-num system="onscreen">S24E5</episode-num>
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20250614173000 +0100" stop="20250614174000 +0100">
     <title lang="en">BBC News</title>
@@ -11370,24 +11351,10 @@
     <desc lang="en">The latest weather forecast.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c6b01efd-4b6e-458b-9747-e3cfef3b4689/cover"/>
   </programme>
-  <programme channel="BBCOneEast.uk" start="20250614132500 +0100" stop="20250614160000 +0100">
+  <programme channel="BBCOneEast.uk" start="20250614132500 +0100" stop="20250614170000 +0100">
     <title lang="en">Tennis: Queen's</title>
     <desc lang="en">Live coverage of the semi-finals from Queen's, where a stellar line-up has gathered to take part in the first women's event at the famous venue for more than half a century.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3d0e4443-ab03-4563-9e4d-89845fededf2/cover"/>
-  </programme>
-  <programme channel="BBCOneEast.uk" start="20250614160000 +0100" stop="20250614163000 +0100">
-    <title lang="en">Deadly 60</title>
-    <desc lang="en">Very Hungry Hippos. Steve heads to Zambia for the first time. He hears hippo communication on a whole new level, spots a high-diving croc and meets some incredible sniffer dogs.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/59345406-accd-38a8-a47d-b38a06c29648/cover"/>
-    <episode-num system="xmltv_ns">4.2.0</episode-num>
-    <episode-num system="onscreen">S5E3</episode-num>
-  </programme>
-  <programme channel="BBCOneEast.uk" start="20250614163000 +0100" stop="20250614173000 +0100">
-    <title lang="en">Escape to the Country</title>
-    <desc lang="en">It's an emotional homecoming today and a first for Jules Hudson as he visits County Down and County Antrim for some property shopping in Northern Ireland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/189395f3-fb71-4faf-be5e-263b42dced6a/cover"/>
-    <episode-num system="xmltv_ns">23.4.0</episode-num>
-    <episode-num system="onscreen">S24E5</episode-num>
   </programme>
   <programme channel="BBCOneEast.uk" start="20250614173000 +0100" stop="20250614174000 +0100">
     <title lang="en">BBC News</title>
@@ -11826,24 +11793,10 @@
     <desc lang="en">The latest weather forecast.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/59128de3-8f8e-4ecd-8b89-c1a6e143a187/cover"/>
   </programme>
-  <programme channel="BBCOneEastMidlands.uk" start="20250614132500 +0100" stop="20250614160000 +0100">
+  <programme channel="BBCOneEastMidlands.uk" start="20250614132500 +0100" stop="20250614173000 +0100">
     <title lang="en">Tennis: Queen's</title>
     <desc lang="en">Live coverage of the semi-finals from Queen's, where a stellar line-up has gathered to take part in the first women's event at the famous venue for more than half a century.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3d0e4443-ab03-4563-9e4d-89845fededf2/cover"/>
-  </programme>
-  <programme channel="BBCOneEastMidlands.uk" start="20250614160000 +0100" stop="20250614163000 +0100">
-    <title lang="en">Deadly 60</title>
-    <desc lang="en">Very Hungry Hippos. Steve heads to Zambia for the first time. He hears hippo communication on a whole new level, spots a high-diving croc and meets some incredible sniffer dogs.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/59345406-accd-38a8-a47d-b38a06c29648/cover"/>
-    <episode-num system="xmltv_ns">4.2.0</episode-num>
-    <episode-num system="onscreen">S5E3</episode-num>
-  </programme>
-  <programme channel="BBCOneEastMidlands.uk" start="20250614163000 +0100" stop="20250614173000 +0100">
-    <title lang="en">Escape to the Country</title>
-    <desc lang="en">It's an emotional homecoming today and a first for Jules Hudson as he visits County Down and County Antrim for some property shopping in Northern Ireland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/189395f3-fb71-4faf-be5e-263b42dced6a/cover"/>
-    <episode-num system="xmltv_ns">23.4.0</episode-num>
-    <episode-num system="onscreen">S24E5</episode-num>
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20250614173000 +0100" stop="20250614174000 +0100">
     <title lang="en">BBC News</title>
@@ -12282,24 +12235,10 @@
     <desc lang="en">The latest weather forecast.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b01e03fc-79b7-4b15-a0c4-ced3d4ec902d/cover"/>
   </programme>
-  <programme channel="BBCOneLondonHD.uk" start="20250614132500 +0100" stop="20250614160000 +0100">
+  <programme channel="BBCOneLondonHD.uk" start="20250614132500 +0100" stop="20250614173000 +0100">
     <title lang="en">Tennis: Queen's</title>
     <desc lang="en">Live coverage of the semi-finals from Queen's, where a stellar line-up has gathered to take part in the first women's event at the famous venue for more than half a century.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3d0e4443-ab03-4563-9e4d-89845fededf2/cover"/>
-  </programme>
-  <programme channel="BBCOneLondonHD.uk" start="20250614160000 +0100" stop="20250614163000 +0100">
-    <title lang="en">Deadly 60</title>
-    <desc lang="en">Very Hungry Hippos. Steve heads to Zambia for the first time. He hears hippo communication on a whole new level, spots a high-diving croc and meets some incredible sniffer dogs.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/59345406-accd-38a8-a47d-b38a06c29648/cover"/>
-    <episode-num system="xmltv_ns">4.2.0</episode-num>
-    <episode-num system="onscreen">S5E3</episode-num>
-  </programme>
-  <programme channel="BBCOneLondonHD.uk" start="20250614163000 +0100" stop="20250614173000 +0100">
-    <title lang="en">Escape to the Country</title>
-    <desc lang="en">It's an emotional homecoming today and a first for Jules Hudson as he visits County Down and County Antrim for some property shopping in Northern Ireland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/189395f3-fb71-4faf-be5e-263b42dced6a/cover"/>
-    <episode-num system="xmltv_ns">23.4.0</episode-num>
-    <episode-num system="onscreen">S24E5</episode-num>
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20250614173000 +0100" stop="20250614174000 +0100">
     <title lang="en">BBC News</title>
@@ -12738,24 +12677,15 @@
     <desc lang="en">The latest weather forecast.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/be0d4ee7-ff58-4744-8adf-175049ca6b1e/cover"/>
   </programme>
-  <programme channel="BBCOneNorthEastCumbria.uk" start="20250614132500 +0100" stop="20250614160000 +0100">
+  <programme channel="BBCOneNorthEastCumbria.uk" start="20250614132500 +0100" stop="20250614170000 +0100">
     <title lang="en">Tennis: Queen's</title>
     <desc lang="en">Live coverage of the semi-finals from Queen's, where a stellar line-up has gathered to take part in the first women's event at the famous venue for more than half a century.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3d0e4443-ab03-4563-9e4d-89845fededf2/cover"/>
   </programme>
-  <programme channel="BBCOneNorthEastCumbria.uk" start="20250614160000 +0100" stop="20250614163000 +0100">
-    <title lang="en">Deadly 60</title>
-    <desc lang="en">Very Hungry Hippos. Steve heads to Zambia for the first time. He hears hippo communication on a whole new level, spots a high-diving croc and meets some incredible sniffer dogs.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/59345406-accd-38a8-a47d-b38a06c29648/cover"/>
-    <episode-num system="xmltv_ns">4.2.0</episode-num>
-    <episode-num system="onscreen">S5E3</episode-num>
-  </programme>
-  <programme channel="BBCOneNorthEastCumbria.uk" start="20250614163000 +0100" stop="20250614173000 +0100">
+  <programme channel="BBCOneNorthEastCumbria.uk" start="20250614170000 +0100" stop="20250614173000 +0100">
     <title lang="en">Escape to the Country</title>
-    <desc lang="en">It's an emotional homecoming today and a first for Jules Hudson as he visits County Down and County Antrim for some property shopping in Northern Ireland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/189395f3-fb71-4faf-be5e-263b42dced6a/cover"/>
-    <episode-num system="xmltv_ns">23.4.0</episode-num>
-    <episode-num system="onscreen">S24E5</episode-num>
+    <desc lang="en">Alistair Appleton helps a couple from Newcastle who want to turn the spectacular Lake District from a holiday destination into their permanent home.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/9a5e680a-ce77-4d96-b74a-864fcb8cbab7/cover"/>
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20250614173000 +0100" stop="20250614174000 +0100">
     <title lang="en">BBC News</title>
@@ -13194,24 +13124,10 @@
     <desc lang="en">The latest weather forecast.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/14f8fd30-d30d-42e8-a4dd-dd683fbb61bd/cover"/>
   </programme>
-  <programme channel="BBCOneNorthWest.uk" start="20250614132500 +0100" stop="20250614160000 +0100">
+  <programme channel="BBCOneNorthWest.uk" start="20250614132500 +0100" stop="20250614173000 +0100">
     <title lang="en">Tennis: Queen's</title>
     <desc lang="en">Live coverage of the semi-finals from Queen's, where a stellar line-up has gathered to take part in the first women's event at the famous venue for more than half a century.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3d0e4443-ab03-4563-9e4d-89845fededf2/cover"/>
-  </programme>
-  <programme channel="BBCOneNorthWest.uk" start="20250614160000 +0100" stop="20250614163000 +0100">
-    <title lang="en">Deadly 60</title>
-    <desc lang="en">Very Hungry Hippos. Steve heads to Zambia for the first time. He hears hippo communication on a whole new level, spots a high-diving croc and meets some incredible sniffer dogs.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/59345406-accd-38a8-a47d-b38a06c29648/cover"/>
-    <episode-num system="xmltv_ns">4.2.0</episode-num>
-    <episode-num system="onscreen">S5E3</episode-num>
-  </programme>
-  <programme channel="BBCOneNorthWest.uk" start="20250614163000 +0100" stop="20250614173000 +0100">
-    <title lang="en">Escape to the Country</title>
-    <desc lang="en">It's an emotional homecoming today and a first for Jules Hudson as he visits County Down and County Antrim for some property shopping in Northern Ireland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/189395f3-fb71-4faf-be5e-263b42dced6a/cover"/>
-    <episode-num system="xmltv_ns">23.4.0</episode-num>
-    <episode-num system="onscreen">S24E5</episode-num>
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20250614173000 +0100" stop="20250614174000 +0100">
     <title lang="en">BBC News</title>
@@ -13650,24 +13566,15 @@
     <desc lang="en">The latest weather forecast.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/32014a33-d07e-4517-906a-6c2fd37cca94/cover"/>
   </programme>
-  <programme channel="BBCOneNorthernIreland.uk" start="20250614132500 +0100" stop="20250614160000 +0100">
+  <programme channel="BBCOneNorthernIreland.uk" start="20250614132500 +0100" stop="20250614173000 +0100">
     <title lang="en">Tennis: Queen's</title>
     <desc lang="en">Live coverage of the semi-finals from Queen's, where a stellar line-up has gathered to take part in the first women's event at the famous venue for more than half a century.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3d0e4443-ab03-4563-9e4d-89845fededf2/cover"/>
   </programme>
-  <programme channel="BBCOneNorthernIreland.uk" start="20250614160000 +0100" stop="20250614163000 +0100">
-    <title lang="en">Deadly 60</title>
-    <desc lang="en">Very Hungry Hippos. Steve heads to Zambia for the first time. He hears hippo communication on a whole new level, spots a high-diving croc and meets some incredible sniffer dogs.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/59345406-accd-38a8-a47d-b38a06c29648/cover"/>
-    <episode-num system="xmltv_ns">4.2.0</episode-num>
-    <episode-num system="onscreen">S5E3</episode-num>
-  </programme>
-  <programme channel="BBCOneNorthernIreland.uk" start="20250614163000 +0100" stop="20250614173000 +0100">
+  <programme channel="BBCOneNorthernIreland.uk" start="20250614170000 +0100" stop="20250614173000 +0100">
     <title lang="en">Escape to the Country</title>
-    <desc lang="en">It's an emotional homecoming today and a first for Jules Hudson as he visits County Down and County Antrim for some property shopping in Northern Ireland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/189395f3-fb71-4faf-be5e-263b42dced6a/cover"/>
-    <episode-num system="xmltv_ns">23.4.0</episode-num>
-    <episode-num system="onscreen">S24E5</episode-num>
+    <desc lang="en">Alistair Appleton helps a couple from Newcastle who want to turn the spectacular Lake District from a holiday destination into their permanent home.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/20439c74-5032-4a75-bd41-180044a03576/cover"/>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20250614173000 +0100" stop="20250614174000 +0100">
     <title lang="en">BBC News</title>
@@ -14096,24 +14003,10 @@
     <desc lang="en">The latest weather forecast.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/58d9b905-7c4c-401c-82f5-e70dd6d4c03d/cover"/>
   </programme>
-  <programme channel="BBCOneScotHD.uk" start="20250614132500 +0100" stop="20250614160000 +0100">
+  <programme channel="BBCOneScotHD.uk" start="20250614132500 +0100" stop="20250614173000 +0100">
     <title lang="en">Tennis: Queen's</title>
     <desc lang="en">Live coverage of the semi-finals from Queen's, where a stellar line-up has gathered to take part in the first women's event at the famous venue for more than half a century.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3d0e4443-ab03-4563-9e4d-89845fededf2/cover"/>
-  </programme>
-  <programme channel="BBCOneScotHD.uk" start="20250614160000 +0100" stop="20250614163000 +0100">
-    <title lang="en">Deadly 60</title>
-    <desc lang="en">Very Hungry Hippos. Steve heads to Zambia for the first time. He hears hippo communication on a whole new level, spots a high-diving croc and meets some incredible sniffer dogs.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/59345406-accd-38a8-a47d-b38a06c29648/cover"/>
-    <episode-num system="xmltv_ns">4.2.0</episode-num>
-    <episode-num system="onscreen">S5E3</episode-num>
-  </programme>
-  <programme channel="BBCOneScotHD.uk" start="20250614163000 +0100" stop="20250614173000 +0100">
-    <title lang="en">Escape to the Country</title>
-    <desc lang="en">It's an emotional homecoming today and a first for Jules Hudson as he visits County Down and County Antrim for some property shopping in Northern Ireland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/189395f3-fb71-4faf-be5e-263b42dced6a/cover"/>
-    <episode-num system="xmltv_ns">23.4.0</episode-num>
-    <episode-num system="onscreen">S24E5</episode-num>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20250614173000 +0100" stop="20250614174000 +0100">
     <title lang="en">BBC News</title>
@@ -14550,24 +14443,10 @@
     <desc lang="en">The latest weather forecast.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3b45f690-a032-4ec3-b8c4-893d723d2d3d/cover"/>
   </programme>
-  <programme channel="BBCOneSouth.uk" start="20250614132500 +0100" stop="20250614160000 +0100">
+  <programme channel="BBCOneSouth.uk" start="20250614132500 +0100" stop="20250614173000 +0100">
     <title lang="en">Tennis: Queen's</title>
     <desc lang="en">Live coverage of the semi-finals from Queen's, where a stellar line-up has gathered to take part in the first women's event at the famous venue for more than half a century.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3d0e4443-ab03-4563-9e4d-89845fededf2/cover"/>
-  </programme>
-  <programme channel="BBCOneSouth.uk" start="20250614160000 +0100" stop="20250614163000 +0100">
-    <title lang="en">Deadly 60</title>
-    <desc lang="en">Very Hungry Hippos. Steve heads to Zambia for the first time. He hears hippo communication on a whole new level, spots a high-diving croc and meets some incredible sniffer dogs.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/59345406-accd-38a8-a47d-b38a06c29648/cover"/>
-    <episode-num system="xmltv_ns">4.2.0</episode-num>
-    <episode-num system="onscreen">S5E3</episode-num>
-  </programme>
-  <programme channel="BBCOneSouth.uk" start="20250614163000 +0100" stop="20250614173000 +0100">
-    <title lang="en">Escape to the Country</title>
-    <desc lang="en">It's an emotional homecoming today and a first for Jules Hudson as he visits County Down and County Antrim for some property shopping in Northern Ireland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/189395f3-fb71-4faf-be5e-263b42dced6a/cover"/>
-    <episode-num system="xmltv_ns">23.4.0</episode-num>
-    <episode-num system="onscreen">S24E5</episode-num>
   </programme>
   <programme channel="BBCOneSouth.uk" start="20250614173000 +0100" stop="20250614174000 +0100">
     <title lang="en">BBC News</title>
@@ -15006,24 +14885,10 @@
     <desc lang="en">The latest weather forecast.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9d39dd6c-da67-4bc4-a6c8-0e1b75a9aded/cover"/>
   </programme>
-  <programme channel="BBCOneSouthEast.uk" start="20250614132500 +0100" stop="20250614160000 +0100">
+  <programme channel="BBCOneSouthEast.uk" start="20250614132500 +0100" stop="20250614163000 +0100">
     <title lang="en">Tennis: Queen's</title>
     <desc lang="en">Live coverage of the semi-finals from Queen's, where a stellar line-up has gathered to take part in the first women's event at the famous venue for more than half a century.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3d0e4443-ab03-4563-9e4d-89845fededf2/cover"/>
-  </programme>
-  <programme channel="BBCOneSouthEast.uk" start="20250614160000 +0100" stop="20250614163000 +0100">
-    <title lang="en">Deadly 60</title>
-    <desc lang="en">Very Hungry Hippos. Steve heads to Zambia for the first time. He hears hippo communication on a whole new level, spots a high-diving croc and meets some incredible sniffer dogs.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/59345406-accd-38a8-a47d-b38a06c29648/cover"/>
-    <episode-num system="xmltv_ns">4.2.0</episode-num>
-    <episode-num system="onscreen">S5E3</episode-num>
-  </programme>
-  <programme channel="BBCOneSouthEast.uk" start="20250614163000 +0100" stop="20250614173000 +0100">
-    <title lang="en">Escape to the Country</title>
-    <desc lang="en">It's an emotional homecoming today and a first for Jules Hudson as he visits County Down and County Antrim for some property shopping in Northern Ireland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/189395f3-fb71-4faf-be5e-263b42dced6a/cover"/>
-    <episode-num system="xmltv_ns">23.4.0</episode-num>
-    <episode-num system="onscreen">S24E5</episode-num>
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20250614173000 +0100" stop="20250614174000 +0100">
     <title lang="en">BBC News</title>
@@ -15462,24 +15327,10 @@
     <desc lang="en">The latest weather forecast.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8dbc29dd-dc34-4d8e-8596-d77184a3210e/cover"/>
   </programme>
-  <programme channel="BBCOneSouthWest.uk" start="20250614132500 +0100" stop="20250614160000 +0100">
+  <programme channel="BBCOneSouthWest.uk" start="20250614132500 +0100" stop="20250614170000 +0100">
     <title lang="en">Tennis: Queen's</title>
     <desc lang="en">Live coverage of the semi-finals from Queen's, where a stellar line-up has gathered to take part in the first women's event at the famous venue for more than half a century.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3d0e4443-ab03-4563-9e4d-89845fededf2/cover"/>
-  </programme>
-  <programme channel="BBCOneSouthWest.uk" start="20250614160000 +0100" stop="20250614163000 +0100">
-    <title lang="en">Deadly 60</title>
-    <desc lang="en">Very Hungry Hippos. Steve heads to Zambia for the first time. He hears hippo communication on a whole new level, spots a high-diving croc and meets some incredible sniffer dogs.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/59345406-accd-38a8-a47d-b38a06c29648/cover"/>
-    <episode-num system="xmltv_ns">4.2.0</episode-num>
-    <episode-num system="onscreen">S5E3</episode-num>
-  </programme>
-  <programme channel="BBCOneSouthWest.uk" start="20250614163000 +0100" stop="20250614173000 +0100">
-    <title lang="en">Escape to the Country</title>
-    <desc lang="en">It's an emotional homecoming today and a first for Jules Hudson as he visits County Down and County Antrim for some property shopping in Northern Ireland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/189395f3-fb71-4faf-be5e-263b42dced6a/cover"/>
-    <episode-num system="xmltv_ns">23.4.0</episode-num>
-    <episode-num system="onscreen">S24E5</episode-num>
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20250614173000 +0100" stop="20250614174000 +0100">
     <title lang="en">BBC News</title>
@@ -15934,24 +15785,15 @@
     <desc lang="en">The latest weather forecast.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ca3e6f0a-da46-4621-a6ed-c1157168943d/cover"/>
   </programme>
-  <programme channel="BBCOneWalesHD.uk" start="20250614132500 +0100" stop="20250614160000 +0100">
+  <programme channel="BBCOneWalesHD.uk" start="20250614132500 +0100" stop="20250614170000 +0100">
     <title lang="en">Tennis: Queen's</title>
     <desc lang="en">Live coverage of the semi-finals from Queen's, where a stellar line-up has gathered to take part in the first women's event at the famous venue for more than half a century.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3d0e4443-ab03-4563-9e4d-89845fededf2/cover"/>
   </programme>
-  <programme channel="BBCOneWalesHD.uk" start="20250614160000 +0100" stop="20250614163000 +0100">
-    <title lang="en">The Merthyr Mermaid</title>
-    <desc lang="en">Documentary following ice swimmer Cath Pendleton and her dream to swim a mile in the coldest continent on the planet - Antarctica.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e1bb3ab5-fa98-4255-9969-f69c7f8b43c6/cover"/>
-    <episode-num system="xmltv_ns">4.2.0</episode-num>
-    <episode-num system="onscreen">S5E3</episode-num>
-  </programme>
-  <programme channel="BBCOneWalesHD.uk" start="20250614163000 +0100" stop="20250614173000 +0100">
+  <programme channel="BBCOneWalesHD.uk" start="20250614170000 +0100" stop="20250614173000 +0100">
     <title lang="en">Escape to the Country</title>
-    <desc lang="en">It's an emotional homecoming today and a first for Jules Hudson as he visits County Down and County Antrim for some property shopping in Northern Ireland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/189395f3-fb71-4faf-be5e-263b42dced6a/cover"/>
-    <episode-num system="xmltv_ns">23.4.0</episode-num>
-    <episode-num system="onscreen">S24E5</episode-num>
+    <desc lang="en">Alistair Appleton helps a couple from Newcastle who want to turn the spectacular Lake District from a holiday destination into their permanent home.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/c419d9ac-2eed-487a-be5f-07874f2a11ff/cover"/>
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20250614173000 +0100" stop="20250614174000 +0100">
     <title lang="en">BBC News</title>
@@ -16402,24 +16244,10 @@
     <desc lang="en">The latest weather forecast.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0b8434c6-c872-4bd3-b516-aa07484bef5a/cover"/>
   </programme>
-  <programme channel="BBCOneWest.uk" start="20250614132500 +0100" stop="20250614160000 +0100">
+  <programme channel="BBCOneWest.uk" start="20250614132500 +0100" stop="20250614173000 +0100">
     <title lang="en">Tennis: Queen's</title>
     <desc lang="en">Live coverage of the semi-finals from Queen's, where a stellar line-up has gathered to take part in the first women's event at the famous venue for more than half a century.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3d0e4443-ab03-4563-9e4d-89845fededf2/cover"/>
-  </programme>
-  <programme channel="BBCOneWest.uk" start="20250614160000 +0100" stop="20250614163000 +0100">
-    <title lang="en">Deadly 60</title>
-    <desc lang="en">Very Hungry Hippos. Steve heads to Zambia for the first time. He hears hippo communication on a whole new level, spots a high-diving croc and meets some incredible sniffer dogs.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/59345406-accd-38a8-a47d-b38a06c29648/cover"/>
-    <episode-num system="xmltv_ns">4.2.0</episode-num>
-    <episode-num system="onscreen">S5E3</episode-num>
-  </programme>
-  <programme channel="BBCOneWest.uk" start="20250614163000 +0100" stop="20250614173000 +0100">
-    <title lang="en">Escape to the Country</title>
-    <desc lang="en">It's an emotional homecoming today and a first for Jules Hudson as he visits County Down and County Antrim for some property shopping in Northern Ireland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/189395f3-fb71-4faf-be5e-263b42dced6a/cover"/>
-    <episode-num system="xmltv_ns">23.4.0</episode-num>
-    <episode-num system="onscreen">S24E5</episode-num>
   </programme>
   <programme channel="BBCOneWest.uk" start="20250614173000 +0100" stop="20250614174000 +0100">
     <title lang="en">BBC News</title>
@@ -16858,24 +16686,10 @@
     <desc lang="en">The latest weather forecast.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0a90a612-4d67-4b24-804f-33e4e3bfa279/cover"/>
   </programme>
-  <programme channel="BBCOneWestMidlands.uk" start="20250614132500 +0100" stop="20250614160000 +0100">
+  <programme channel="BBCOneWestMidlands.uk" start="20250614132500 +0100" stop="20250614173000 +0100">
     <title lang="en">Tennis: Queen's</title>
     <desc lang="en">Live coverage of the semi-finals from Queen's, where a stellar line-up has gathered to take part in the first women's event at the famous venue for more than half a century.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3d0e4443-ab03-4563-9e4d-89845fededf2/cover"/>
-  </programme>
-  <programme channel="BBCOneWestMidlands.uk" start="20250614160000 +0100" stop="20250614163000 +0100">
-    <title lang="en">Deadly 60</title>
-    <desc lang="en">Very Hungry Hippos. Steve heads to Zambia for the first time. He hears hippo communication on a whole new level, spots a high-diving croc and meets some incredible sniffer dogs.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/59345406-accd-38a8-a47d-b38a06c29648/cover"/>
-    <episode-num system="xmltv_ns">4.2.0</episode-num>
-    <episode-num system="onscreen">S5E3</episode-num>
-  </programme>
-  <programme channel="BBCOneWestMidlands.uk" start="20250614163000 +0100" stop="20250614173000 +0100">
-    <title lang="en">Escape to the Country</title>
-    <desc lang="en">It's an emotional homecoming today and a first for Jules Hudson as he visits County Down and County Antrim for some property shopping in Northern Ireland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/189395f3-fb71-4faf-be5e-263b42dced6a/cover"/>
-    <episode-num system="xmltv_ns">23.4.0</episode-num>
-    <episode-num system="onscreen">S24E5</episode-num>
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20250614173000 +0100" stop="20250614174000 +0100">
     <title lang="en">BBC News</title>
@@ -17314,24 +17128,10 @@
     <desc lang="en">The latest weather forecast.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2eca883f-e202-4609-9916-5d0de404a5d0/cover"/>
   </programme>
-  <programme channel="BBCOneYorksLincs.uk" start="20250614132500 +0100" stop="20250614160000 +0100">
+  <programme channel="BBCOneYorksLincs.uk" start="20250614132500 +0100" stop="20250614173000 +0100">
     <title lang="en">Tennis: Queen's</title>
     <desc lang="en">Live coverage of the semi-finals from Queen's, where a stellar line-up has gathered to take part in the first women's event at the famous venue for more than half a century.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3d0e4443-ab03-4563-9e4d-89845fededf2/cover"/>
-  </programme>
-  <programme channel="BBCOneYorksLincs.uk" start="20250614160000 +0100" stop="20250614163000 +0100">
-    <title lang="en">Deadly 60</title>
-    <desc lang="en">Very Hungry Hippos. Steve heads to Zambia for the first time. He hears hippo communication on a whole new level, spots a high-diving croc and meets some incredible sniffer dogs.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/59345406-accd-38a8-a47d-b38a06c29648/cover"/>
-    <episode-num system="xmltv_ns">4.2.0</episode-num>
-    <episode-num system="onscreen">S5E3</episode-num>
-  </programme>
-  <programme channel="BBCOneYorksLincs.uk" start="20250614163000 +0100" stop="20250614173000 +0100">
-    <title lang="en">Escape to the Country</title>
-    <desc lang="en">It's an emotional homecoming today and a first for Jules Hudson as he visits County Down and County Antrim for some property shopping in Northern Ireland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/189395f3-fb71-4faf-be5e-263b42dced6a/cover"/>
-    <episode-num system="xmltv_ns">23.4.0</episode-num>
-    <episode-num system="onscreen">S24E5</episode-num>
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20250614173000 +0100" stop="20250614174000 +0100">
     <title lang="en">BBC News</title>
@@ -17770,24 +17570,10 @@
     <desc lang="en">The latest weather forecast.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6bc66371-ce05-4949-9fe1-a593fd3b07a9/cover"/>
   </programme>
-  <programme channel="BBCOneYorkshire.uk" start="20250614132500 +0100" stop="20250614160000 +0100">
+  <programme channel="BBCOneYorkshire.uk" start="20250614132500 +0100" stop="20250614173000 +0100">
     <title lang="en">Tennis: Queen's</title>
     <desc lang="en">Live coverage of the semi-finals from Queen's, where a stellar line-up has gathered to take part in the first women's event at the famous venue for more than half a century.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3d0e4443-ab03-4563-9e4d-89845fededf2/cover"/>
-  </programme>
-  <programme channel="BBCOneYorkshire.uk" start="20250614160000 +0100" stop="20250614163000 +0100">
-    <title lang="en">Deadly 60</title>
-    <desc lang="en">Very Hungry Hippos. Steve heads to Zambia for the first time. He hears hippo communication on a whole new level, spots a high-diving croc and meets some incredible sniffer dogs.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/59345406-accd-38a8-a47d-b38a06c29648/cover"/>
-    <episode-num system="xmltv_ns">4.2.0</episode-num>
-    <episode-num system="onscreen">S5E3</episode-num>
-  </programme>
-  <programme channel="BBCOneYorkshire.uk" start="20250614163000 +0100" stop="20250614173000 +0100">
-    <title lang="en">Escape to the Country</title>
-    <desc lang="en">It's an emotional homecoming today and a first for Jules Hudson as he visits County Down and County Antrim for some property shopping in Northern Ireland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/189395f3-fb71-4faf-be5e-263b42dced6a/cover"/>
-    <episode-num system="xmltv_ns">23.4.0</episode-num>
-    <episode-num system="onscreen">S24E5</episode-num>
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20250614173000 +0100" stop="20250614174000 +0100">
     <title lang="en">BBC News</title>
@@ -24689,7 +24475,7 @@
   </programme>
   <programme channel="Channel4.uk" start="20250614193500 +0100" stop="20250614203500 +0100">
     <title lang="en">D-Day: Hour by Hour</title>
-    <desc lang="en">On the 80th anniversary of D-Day, a turning point of World War II, extraordinary archive materials reveal contrasting stories from the Allied Normandy beach landings of 6 June 1944.</desc>
+    <desc lang="en">Extraordinary archive materials and personal testimony provide a fresh perspective on the decisive Allied Normandy beach landings of 6 June 1944.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/91846145-48cd-4cfd-9455-7e0a657fa694/cover"/>
   </programme>
   <programme channel="Channel4.uk" start="20250614203500 +0100" stop="20250614213500 +0100">
@@ -25332,7 +25118,7 @@
   </programme>
   <programme channel="Channel4Plus1.uk" start="20250614203500 +0100" stop="20250614213500 +0100">
     <title lang="en">D-Day: Hour by Hour</title>
-    <desc lang="en">On the 80th anniversary of D-Day, a turning point of World War II, extraordinary archive materials reveal contrasting stories from the Allied Normandy beach landings of 6 June 1944.</desc>
+    <desc lang="en">Extraordinary archive materials and personal testimony provide a fresh perspective on the decisive Allied Normandy beach landings of 6 June 1944.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/91846145-48cd-4cfd-9455-7e0a657fa694/cover"/>
   </programme>
   <programme channel="Channel4Plus1.uk" start="20250614213500 +0100" stop="20250614223500 +0100">
@@ -25916,6 +25702,8 @@
     <desc lang="en">The Queen of Reptiles is visiting Isa, but the garden's a mess! Dora helps her get everything ready in time for La Reina's visit.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4e6a3f34-08b7-37a0-8b37-9ea991a18b4e/cover"/>
     <premiere/>
+    <episode-num system="xmltv_ns">1.4.0</episode-num>
+    <episode-num system="onscreen">S2E5</episode-num>
   </programme>
   <programme channel="Channel5.uk" start="20250614081000 +0100" stop="20250614082000 +0100">
     <title lang="en">PAW Patrol</title>
@@ -26720,6 +26508,8 @@
     <desc lang="en">The Queen of Reptiles is visiting Isa, but the garden's a mess! Dora helps her get everything ready in time for La Reina's visit.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4e6a3f34-08b7-37a0-8b37-9ea991a18b4e/cover"/>
     <premiere/>
+    <episode-num system="xmltv_ns">1.4.0</episode-num>
+    <episode-num system="onscreen">S2E5</episode-num>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20250614091000 +0100" stop="20250614092000 +0100">
     <title lang="en">PAW Patrol</title>
