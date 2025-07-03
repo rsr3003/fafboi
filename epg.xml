@@ -3358,10 +3358,15 @@
     <desc lang="en">Three live domestic meetings throughout the day with Doncaster and Newton Abbot featuring this afternoon ahead of Bangor-on-Dee tonight.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7c89284d-911c-4e6f-9ad2-9564d3a5f048/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20250704210000 +0100" stop="20250705020000 +0100">
+  <programme channel="sky.racing.uk" start="20250704210000 +0100" stop="20250705013000 +0100">
     <title lang="en">Stateside Live</title>
     <desc lang="en">Live US racing from Saratoga, Delaware, Woodbine, Gulfstream, Monmouth, Canterbury Park, Los Alamitos, Penn National, Charles Town and Horseshoe Indianapolis.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c901d890-9116-4a9e-a994-46ac33107a5e/cover"/>
+  </programme>
+  <programme channel="sky.racing.uk" start="20250705013000 +0100" stop="20250705020000 +0100">
+    <title lang="en">Racing To Win</title>
+    <desc lang="en">The latest in the series, a comprehensive preview show for Hong Kong racing. With form analysis, trackwork highlights and interviews, an expert team of presenters will also provide their selections.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f4a995ea-827b-440a-90de-633389e18ffc/cover"/>
   </programme>
   <programme channel="sky.racing.uk" start="20250705020000 +0100" stop="20250705060000 +0100">
     <title lang="en">Australian Racing Live</title>
@@ -3509,7 +3514,7 @@
     <icon src="https://images.metadata.sky.com/pd-image/16fff290-f50e-4c7f-9200-eb679e85e52a/cover"/>
   </programme>
   <programme channel="sky.mix.uk" start="20250703104500 +0100" stop="20250703123000 +0100">
-    <title lang="en">Live NRLW:</title>
+    <title lang="en">Live NRLW: Shakrs v Eels</title>
     <desc lang="en">The 2025 season of the Women's Telstra Premiership kicks off with a clash between the Sharks and the Eels at Sharks Stadium in Sydney.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/262def5b-5a6b-4f82-91d5-61ca59970f3a/cover"/>
   </programme>
@@ -4385,7 +4390,7 @@
   </programme>
   <programme channel="tnt1" start="20250703200000 +0100" stop="20250703231500 +0100">
     <title lang="en">Live MLB: Astros @ Rockies</title>
-    <desc lang="en">Major League Baseball action as Colorado Rockies host Houston Astros at Coors Field.</desc>
+    <desc lang="en">Major League Baseball action as Colorado Rockies host Houston Astros at Coors Field. Can the Astros complete a series clean sweep against the struggling Rockies?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/18e08c85-f832-42e2-8bd5-383908a49528/cover"/>
   </programme>
   <programme channel="tnt1" start="20250703231500 +0100" stop="20250703234500 +0100">
@@ -4430,7 +4435,7 @@
   </programme>
   <programme channel="tnt1" start="20250704020000 +0100" stop="20250704033000 +0100">
     <title lang="en">Wimbledon</title>
-    <desc lang="en">Highlights from day four at Wimbledon.</desc>
+    <desc lang="en">Highlights from day four at Wimbledon, as Britain's Dan Evans tried to upset seven-time champion Novak Djokovic. Plus, Jack Draper and world no.1 Jannik Sinner were in action.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2372eba5-c181-4c40-956d-8ac111debfe9/cover"/>
   </programme>
   <programme channel="tnt1" start="20250704033000 +0100" stop="20250704043000 +0100">
@@ -4460,7 +4465,7 @@
   </programme>
   <programme channel="tnt1" start="20250704070000 +0100" stop="20250704083000 +0100">
     <title lang="en">Wimbledon</title>
-    <desc lang="en">Highlights from day four at Wimbledon.</desc>
+    <desc lang="en">Highlights from day four at Wimbledon, as Britain's Dan Evans tried to upset seven-time champion Novak Djokovic. Plus, Jack Draper and world no.1 Jannik Sinner were in action.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2372eba5-c181-4c40-956d-8ac111debfe9/cover"/>
   </programme>
   <programme channel="tnt1" start="20250704083000 +0100" stop="20250704100000 +0100">
@@ -5058,7 +5063,7 @@
   </programme>
   <programme channel="tnt3" start="20250703170000 +0100" stop="20250703201500 +0100">
     <title lang="en">Live MLB: Twins @ Marlins</title>
-    <desc lang="en">Major League Baseball action as Miami Marlins face Minnesota Twins at LoanDepot Park.</desc>
+    <desc lang="en">Major League Baseball action as Miami Marlins face Minnesota Twins at LoanDepot Park. The Twins snapped Miami's eight-game winning streak in their last meeting.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0e5f1724-c495-4a36-8e60-2dd24d773f8a/cover"/>
   </programme>
   <programme channel="tnt3" start="20250703201500 +0100" stop="20250703203000 +0100">
@@ -5078,7 +5083,7 @@
   </programme>
   <programme channel="tnt3" start="20250703220000 +0100" stop="20250703233000 +0100">
     <title lang="en">Wimbledon</title>
-    <desc lang="en">Highlights from day four at Wimbledon.</desc>
+    <desc lang="en">Highlights from day four at Wimbledon, as Britain's Dan Evans tried to upset seven-time champion Novak Djokovic. Plus, Jack Draper and world no.1 Jannik Sinner were in action.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2372eba5-c181-4c40-956d-8ac111debfe9/cover"/>
   </programme>
   <programme channel="tnt3" start="20250703233000 +0100" stop="20250704003000 +0100">
@@ -5121,11 +5126,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/f98c995c-ff1f-45ff-a3f6-94967dcaa3c4/cover"/>
   </programme>
   <programme channel="tnt3" start="20250704060000 +0100" stop="20250704073000 +0100">
-    <title lang="en">Liverpool v Everton</title>
-    <desc lang="en">Action from the Premier League as Liverpool face rivals Everton at Anfield. Liverpool have lost just one of their last 25 league meetings with Everton.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/71a918a7-d820-308d-b95e-4a251e0869a9/cover"/>
-    <episode-num system="xmltv_ns">2022.448.0</episode-num>
-    <episode-num system="onscreen">S2023E449</episode-num>
+    <title lang="en">Story of the Premiership</title>
+    <desc lang="en">A look back at the story of the 2024/25 Gallagher Premiership Rugby season, as Bath claimed the title for the first time since 1996.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d3dec6f1-c2c3-4002-ab52-343b84f98c40/cover"/>
   </programme>
   <programme channel="tnt3" start="20250704073000 +0100" stop="20250704090000 +0100">
     <title lang="en">Chelsea v Brentford</title>
@@ -5549,7 +5552,7 @@
   <programme channel="tnt4" start="20250704213000 +0100" stop="20250704230000 +0100">
     <title lang="en">AFL: WC Eagles v GWS Giants</title>
     <desc lang="en">AFL action as West Coast Eagles take on GWS Giants at Optus Stadium. Can finals hopefuls the Giants avoid a slip up against the bottom-placed Eagles?</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/ce515571-2b1e-439c-90ca-449d04738e12/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9b516e49-e5dd-489e-9bc7-f1fdb817a405/cover"/>
   </programme>
   <programme channel="tnt4" start="20250704230000 +0100" stop="20250704233000 +0100">
     <title lang="en">Manchester City v Tottenham</title>
@@ -9567,7 +9570,7 @@
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20250704233000 +0100" stop="20250705000000 +0100">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Ep.27 The show features the economical stories that shape our world and has an effect on the lives of the common human beings.</desc>
+    <desc lang="en">Ep.27 Trump says his sweeping tax bill will help grow the economy, but at what cost?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ba41ca97-c8ed-4b46-90a6-1f670a204282/cover"/>
     <episode-num system="xmltv_ns">2024.26.0</episode-num>
     <episode-num system="onscreen">S2025E27</episode-num>
@@ -9665,7 +9668,7 @@
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20250705093000 +0100" stop="20250705100000 +0100">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Ep.27 The show features the economical stories that shape our world and has an effect on the lives of the common human beings.</desc>
+    <desc lang="en">Ep.27 Trump says his sweeping tax bill will help grow the economy, but at what cost?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ba41ca97-c8ed-4b46-90a6-1f670a204282/cover"/>
     <episode-num system="xmltv_ns">2024.26.0</episode-num>
     <episode-num system="onscreen">S2025E27</episode-num>
@@ -9756,7 +9759,7 @@
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20250705203000 +0100" stop="20250705210000 +0100">
     <title lang="en">Talk to Al Jazeera</title>
-    <desc lang="en">Ep.419 30062025: One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <desc lang="en">Rohingya - The Art of Survival: Rohingya refugee artists preserve the memory of a people long persecuted in Myanmar, keeping their heritage alive through paint, song, and photos.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1bc76e83-4464-4fac-be19-0c0798e38f2e/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20250705210000 +0100" stop="20250705213000 +0100">
@@ -11109,7 +11112,7 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20250703093000 +0100" stop="20250703104500 +0100">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin Jones and Louise Minchin talk to Rav Wilding about the rules for lost property.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4643a6c8-b007-4fb3-968a-b66fd18a7321/cover"/>
     <episode-num system="xmltv_ns">6.51.0</episode-num>
     <episode-num system="onscreen">S7E52</episode-num>
@@ -11142,7 +11145,7 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20250703140000 +0100" stop="20250703190000 +0100">
     <title lang="en">Wimbledon</title>
-    <desc lang="en">Live tennis from the famous grass lawns of Wimbledon continues, with players now beginning to think about making it to the second week of the tournament.</desc>
+    <desc lang="en">Jack Draper takes on Marin Cilic on No.1 Court.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/74cba053-4481-4459-afaf-19206364db94/cover"/>
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20250703190000 +0100" stop="20250703193000 +0100">
@@ -11425,7 +11428,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20250703093000 +0100" stop="20250703104500 +0100">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin Jones and Louise Minchin talk to Rav Wilding about the rules for lost property.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4643a6c8-b007-4fb3-968a-b66fd18a7321/cover"/>
     <episode-num system="xmltv_ns">6.51.0</episode-num>
     <episode-num system="onscreen">S7E52</episode-num>
@@ -11458,7 +11461,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20250703140000 +0100" stop="20250703190000 +0100">
     <title lang="en">Wimbledon</title>
-    <desc lang="en">Live tennis from the famous grass lawns of Wimbledon continues, with players now beginning to think about making it to the second week of the tournament.</desc>
+    <desc lang="en">Iga Swiatek takes on Caty McNally on Centre Court.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/74cba053-4481-4459-afaf-19206364db94/cover"/>
   </programme>
   <programme channel="BBCOneEast.uk" start="20250703190000 +0100" stop="20250703193000 +0100">
@@ -11741,7 +11744,7 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20250703093000 +0100" stop="20250703104500 +0100">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin Jones and Louise Minchin talk to Rav Wilding about the rules for lost property.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4643a6c8-b007-4fb3-968a-b66fd18a7321/cover"/>
     <episode-num system="xmltv_ns">6.51.0</episode-num>
     <episode-num system="onscreen">S7E52</episode-num>
@@ -11774,7 +11777,7 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20250703140000 +0100" stop="20250703190000 +0100">
     <title lang="en">Wimbledon</title>
-    <desc lang="en">Live tennis from the famous grass lawns of Wimbledon continues, with players now beginning to think about making it to the second week of the tournament.</desc>
+    <desc lang="en">Iga Swiatek takes on Caty McNally on Centre Court.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/74cba053-4481-4459-afaf-19206364db94/cover"/>
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20250703190000 +0100" stop="20250703193000 +0100">
@@ -12057,7 +12060,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20250703093000 +0100" stop="20250703104500 +0100">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin Jones and Louise Minchin talk to Rav Wilding about the rules for lost property.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4643a6c8-b007-4fb3-968a-b66fd18a7321/cover"/>
     <episode-num system="xmltv_ns">6.51.0</episode-num>
     <episode-num system="onscreen">S7E52</episode-num>
@@ -12090,7 +12093,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20250703140000 +0100" stop="20250703190000 +0100">
     <title lang="en">Wimbledon</title>
-    <desc lang="en">Live tennis from the famous grass lawns of Wimbledon continues, with players now beginning to think about making it to the second week of the tournament.</desc>
+    <desc lang="en">Iga Swiatek takes on Caty McNally on Centre Court.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/74cba053-4481-4459-afaf-19206364db94/cover"/>
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20250703190000 +0100" stop="20250703193000 +0100">
@@ -12373,7 +12376,7 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20250703093000 +0100" stop="20250703104500 +0100">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin Jones and Louise Minchin talk to Rav Wilding about the rules for lost property.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4643a6c8-b007-4fb3-968a-b66fd18a7321/cover"/>
     <episode-num system="xmltv_ns">6.51.0</episode-num>
     <episode-num system="onscreen">S7E52</episode-num>
@@ -12406,7 +12409,7 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20250703140000 +0100" stop="20250703190000 +0100">
     <title lang="en">Wimbledon</title>
-    <desc lang="en">Live tennis from the famous grass lawns of Wimbledon continues, with players now beginning to think about making it to the second week of the tournament.</desc>
+    <desc lang="en">Iga Swiatek takes on Caty McNally on Centre Court.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/74cba053-4481-4459-afaf-19206364db94/cover"/>
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20250703190000 +0100" stop="20250703193000 +0100">
@@ -12689,7 +12692,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20250703093000 +0100" stop="20250703104500 +0100">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin Jones and Louise Minchin talk to Rav Wilding about the rules for lost property.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4643a6c8-b007-4fb3-968a-b66fd18a7321/cover"/>
     <episode-num system="xmltv_ns">6.51.0</episode-num>
     <episode-num system="onscreen">S7E52</episode-num>
@@ -12722,7 +12725,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20250703140000 +0100" stop="20250703190000 +0100">
     <title lang="en">Wimbledon</title>
-    <desc lang="en">Live tennis from the famous grass lawns of Wimbledon continues, with players now beginning to think about making it to the second week of the tournament.</desc>
+    <desc lang="en">Iga Swiatek takes on Caty McNally on Centre Court.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/74cba053-4481-4459-afaf-19206364db94/cover"/>
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20250703190000 +0100" stop="20250703193000 +0100">
@@ -13005,7 +13008,7 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20250703093000 +0100" stop="20250703104500 +0100">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin Jones and Louise Minchin talk to Rav Wilding about the rules for lost property.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4643a6c8-b007-4fb3-968a-b66fd18a7321/cover"/>
     <episode-num system="xmltv_ns">6.51.0</episode-num>
     <episode-num system="onscreen">S7E52</episode-num>
@@ -13038,7 +13041,7 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20250703140000 +0100" stop="20250703190000 +0100">
     <title lang="en">Wimbledon</title>
-    <desc lang="en">Live tennis from the famous grass lawns of Wimbledon continues, with players now beginning to think about making it to the second week of the tournament.</desc>
+    <desc lang="en">Iga Swiatek takes on Caty McNally on Centre Court.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/74cba053-4481-4459-afaf-19206364db94/cover"/>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20250703190000 +0100" stop="20250703193000 +0100">
@@ -13318,7 +13321,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20250703093000 +0100" stop="20250703104500 +0100">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin Jones and Louise Minchin talk to Rav Wilding about the rules for lost property.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4643a6c8-b007-4fb3-968a-b66fd18a7321/cover"/>
     <episode-num system="xmltv_ns">6.51.0</episode-num>
     <episode-num system="onscreen">S7E52</episode-num>
@@ -13351,7 +13354,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20250703140000 +0100" stop="20250703190000 +0100">
     <title lang="en">Wimbledon</title>
-    <desc lang="en">Live tennis from the famous grass lawns of Wimbledon continues, with players now beginning to think about making it to the second week of the tournament.</desc>
+    <desc lang="en">Iga Swiatek takes on Caty McNally on Centre Court.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/74cba053-4481-4459-afaf-19206364db94/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20250703190000 +0100" stop="20250703193000 +0100">
@@ -13639,7 +13642,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20250703093000 +0100" stop="20250703104500 +0100">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin Jones and Louise Minchin talk to Rav Wilding about the rules for lost property.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4643a6c8-b007-4fb3-968a-b66fd18a7321/cover"/>
     <episode-num system="xmltv_ns">6.51.0</episode-num>
     <episode-num system="onscreen">S7E52</episode-num>
@@ -13672,7 +13675,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20250703140000 +0100" stop="20250703190000 +0100">
     <title lang="en">Wimbledon</title>
-    <desc lang="en">Live tennis from the famous grass lawns of Wimbledon continues, with players now beginning to think about making it to the second week of the tournament.</desc>
+    <desc lang="en">Iga Swiatek takes on Caty McNally on Centre Court.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/74cba053-4481-4459-afaf-19206364db94/cover"/>
   </programme>
   <programme channel="BBCOneSouth.uk" start="20250703190000 +0100" stop="20250703193000 +0100">
@@ -13955,7 +13958,7 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20250703093000 +0100" stop="20250703104500 +0100">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin Jones and Louise Minchin talk to Rav Wilding about the rules for lost property.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4643a6c8-b007-4fb3-968a-b66fd18a7321/cover"/>
     <episode-num system="xmltv_ns">6.51.0</episode-num>
     <episode-num system="onscreen">S7E52</episode-num>
@@ -13988,7 +13991,7 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20250703140000 +0100" stop="20250703190000 +0100">
     <title lang="en">Wimbledon</title>
-    <desc lang="en">Live tennis from the famous grass lawns of Wimbledon continues, with players now beginning to think about making it to the second week of the tournament.</desc>
+    <desc lang="en">Jack Draper takes on Marin Cilic on No.1 Court.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/74cba053-4481-4459-afaf-19206364db94/cover"/>
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20250703190000 +0100" stop="20250703193000 +0100">
@@ -14271,7 +14274,7 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20250703093000 +0100" stop="20250703104500 +0100">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin Jones and Louise Minchin talk to Rav Wilding about the rules for lost property.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4643a6c8-b007-4fb3-968a-b66fd18a7321/cover"/>
     <episode-num system="xmltv_ns">6.51.0</episode-num>
     <episode-num system="onscreen">S7E52</episode-num>
@@ -14304,7 +14307,7 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20250703140000 +0100" stop="20250703190000 +0100">
     <title lang="en">Wimbledon</title>
-    <desc lang="en">Live tennis from the famous grass lawns of Wimbledon continues, with players now beginning to think about making it to the second week of the tournament.</desc>
+    <desc lang="en">Jack Draper takes on Marin Cilic on No.1 Court.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/74cba053-4481-4459-afaf-19206364db94/cover"/>
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20250703190000 +0100" stop="20250703193000 +0100">
@@ -14587,7 +14590,7 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20250703093000 +0100" stop="20250703104500 +0100">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin Jones and Louise Minchin talk to Rav Wilding about the rules for lost property.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4643a6c8-b007-4fb3-968a-b66fd18a7321/cover"/>
     <episode-num system="xmltv_ns">6.51.0</episode-num>
     <episode-num system="onscreen">S7E52</episode-num>
@@ -14625,7 +14628,7 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20250703140000 +0100" stop="20250703190000 +0100">
     <title lang="en">Wimbledon</title>
-    <desc lang="en">Live tennis from the famous grass lawns of Wimbledon continues, with players now beginning to think about making it to the second week of the tournament.</desc>
+    <desc lang="en">Iga Swiatek takes on Caty McNally on Centre Court.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/74cba053-4481-4459-afaf-19206364db94/cover"/>
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20250703190000 +0100" stop="20250703193000 +0100">
@@ -14929,7 +14932,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20250703093000 +0100" stop="20250703104500 +0100">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin Jones and Louise Minchin talk to Rav Wilding about the rules for lost property.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4643a6c8-b007-4fb3-968a-b66fd18a7321/cover"/>
     <episode-num system="xmltv_ns">6.51.0</episode-num>
     <episode-num system="onscreen">S7E52</episode-num>
@@ -14962,7 +14965,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20250703140000 +0100" stop="20250703190000 +0100">
     <title lang="en">Wimbledon</title>
-    <desc lang="en">Live tennis from the famous grass lawns of Wimbledon continues, with players now beginning to think about making it to the second week of the tournament.</desc>
+    <desc lang="en">Iga Swiatek takes on Caty McNally on Centre Court.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/74cba053-4481-4459-afaf-19206364db94/cover"/>
   </programme>
   <programme channel="BBCOneWest.uk" start="20250703190000 +0100" stop="20250703193000 +0100">
@@ -15245,7 +15248,7 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20250703093000 +0100" stop="20250703104500 +0100">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin Jones and Louise Minchin talk to Rav Wilding about the rules for lost property.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4643a6c8-b007-4fb3-968a-b66fd18a7321/cover"/>
     <episode-num system="xmltv_ns">6.51.0</episode-num>
     <episode-num system="onscreen">S7E52</episode-num>
@@ -15278,7 +15281,7 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20250703140000 +0100" stop="20250703190000 +0100">
     <title lang="en">Wimbledon</title>
-    <desc lang="en">Live tennis from the famous grass lawns of Wimbledon continues, with players now beginning to think about making it to the second week of the tournament.</desc>
+    <desc lang="en">Iga Swiatek takes on Caty McNally on Centre Court.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/74cba053-4481-4459-afaf-19206364db94/cover"/>
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20250703190000 +0100" stop="20250703193000 +0100">
@@ -15561,7 +15564,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20250703093000 +0100" stop="20250703104500 +0100">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin Jones and Louise Minchin talk to Rav Wilding about the rules for lost property.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4643a6c8-b007-4fb3-968a-b66fd18a7321/cover"/>
     <episode-num system="xmltv_ns">6.51.0</episode-num>
     <episode-num system="onscreen">S7E52</episode-num>
@@ -15594,7 +15597,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20250703140000 +0100" stop="20250703190000 +0100">
     <title lang="en">Wimbledon</title>
-    <desc lang="en">Live tennis from the famous grass lawns of Wimbledon continues, with players now beginning to think about making it to the second week of the tournament.</desc>
+    <desc lang="en">Iga Swiatek takes on Caty McNally on Centre Court.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/74cba053-4481-4459-afaf-19206364db94/cover"/>
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20250703190000 +0100" stop="20250703193000 +0100">
@@ -15877,7 +15880,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20250703093000 +0100" stop="20250703104500 +0100">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin Jones and Louise Minchin talk to Rav Wilding about the rules for lost property.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4643a6c8-b007-4fb3-968a-b66fd18a7321/cover"/>
     <episode-num system="xmltv_ns">6.51.0</episode-num>
     <episode-num system="onscreen">S7E52</episode-num>
@@ -15910,7 +15913,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20250703140000 +0100" stop="20250703190000 +0100">
     <title lang="en">Wimbledon</title>
-    <desc lang="en">Live tennis from the famous grass lawns of Wimbledon continues, with players now beginning to think about making it to the second week of the tournament.</desc>
+    <desc lang="en">Iga Swiatek takes on Caty McNally on Centre Court.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/74cba053-4481-4459-afaf-19206364db94/cover"/>
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20250703190000 +0100" stop="20250703193000 +0100">
@@ -16231,40 +16234,70 @@
     <desc lang="en">Coverage of the announcement of future Commons business and questions to Lucy Powell, the leader of the Commons, on Thursday 3 July.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e6ac6734-90b0-45cb-a4cc-ecae51e35c50/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250703113000 +0100" stop="20250703173000 +0100">
+  <programme channel="BBCParliament.uk" start="20250703113000 +0100" stop="20250703123000 +0100">
+    <title lang="en">Live Ten Year Health Plan for England Statement</title>
+    <desc lang="en">Coverage of the statement in the House of Commons by health secretary Wes Streeting on the government's ten year health plan for England, on Thursday 3 July.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6d4d33a4-9085-4ba2-a85e-dc3904d52daf/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20250703123000 +0100" stop="20250703173000 +0100">
     <title lang="en">Live House of Commons</title>
-    <desc lang="en">Coverage of proceedings in the Commons, including a motion on financial redress for 1950s women affected by the changes to the state pension age, on Thursday 3 July.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/6df168c8-6870-47c5-9faf-93cffb040ac5/cover"/>
+    <desc lang="en">Coverage of the day's proceedings in the House of Commons on Thursday 3 July.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/29caccb0-98f3-47d0-86a1-0522b4d160fb/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20250703173000 +0100" stop="20250703181500 +0100">
     <title lang="en">Lords Questions</title>
     <desc lang="en">Questions in the Lords covering the mitigation of job losses following the closure of Grangemouth oil refinery, on Thursday 3 July.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9a930fb0-4191-4ccb-be57-eac677f888df/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250703181500 +0100" stop="20250704013000 +0100">
-    <title lang="en">House of Lords</title>
-    <desc lang="en">Business in the House of Lords including the fourth day of the committee stage of the Children's Wellbeing and Schools Bill, on Thursday 3 July.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/310d7cd5-be44-4cbb-85b4-c0492b4066c1/cover"/>
+  <programme channel="BBCParliament.uk" start="20250703181500 +0100" stop="20250703182500 +0100">
+    <title lang="en">House of Lords - Chagos Islands Deal Statement</title>
+    <desc lang="en">Statement on the ratification of the treaty with Mauritius on the Chagos Islands.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/10ffacb2-7fec-470f-ac6e-8eb9821bd6a6/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250704013000 +0100" stop="20250704021000 +0100">
+  <programme channel="BBCParliament.uk" start="20250703182500 +0100" stop="20250703202500 +0100">
+    <title lang="en">House of Lords - Children's...</title>
+    <desc lang="en">...Wellbeing and Schools Bill, Part 1. Coverage of the fourth day of debate in the House of Lords on the committee stage of the Children's Wellbeing and Schools Bill, on Thursday 3 July.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/aef0ffed-9ac1-4af1-9e7a-f90a72ea5551/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20250703202500 +0100" stop="20250703222500 +0100">
+    <title lang="en">House of Lords - Children's...</title>
+    <desc lang="en">...Wellbeing and Schools Bill, Part 2. Coverage of the fourth day of debate in the House of Lords on the committee stage of the Children's Wellbeing and Schools Bill, on Thursday 3 July.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/238113be-e1df-4d77-873c-13a9b4e91187/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20250703222500 +0100" stop="20250704002500 +0100">
+    <title lang="en">House of Lords - Children's...</title>
+    <desc lang="en">...Wellbeing and Schools Bill, Part 3. Coverage of the fourth day of debate in the House of Lords on the committee stage of the Children's Wellbeing and Schools Bill, on Thursday 3 July.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a7fc9fd9-a330-4ece-b629-4dc686600fd2/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20250704002500 +0100" stop="20250704022500 +0100">
+    <title lang="en">House of Lords - Children's...</title>
+    <desc lang="en">...Wellbeing and Schools Bill, Part 4. Coverage of the fourth day of debate in the House of Lords on the committee stage of the Children's Wellbeing and Schools Bill, on Thursday 3 July.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/df3c4df9-8983-4b61-8392-d9fe5eaaee76/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20250704022500 +0100" stop="20250704032500 +0100">
+    <title lang="en">House of Lords - Proscription of Palestine Action</title>
+    <desc lang="en">Coverage of the motion in the House of Lords to proscribe Palestine Action and other groups under anti-terror law, on Thursday 3 July.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/13d151fd-b7ba-48eb-9e9e-18bb0f4492d6/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20250704032500 +0100" stop="20250704040500 +0100">
     <title lang="en">Culture, Media and Sport Questions</title>
     <desc lang="en">Coverage of questions in the House of Commons to Lisa Nandy, the culture, media and sport secretary, and her team of ministers on Thursday 3 July.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/303f811e-ad81-437e-84b3-725a1c4c2488/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250704021000 +0100" stop="20250704023000 +0100">
+  <programme channel="BBCParliament.uk" start="20250704040500 +0100" stop="20250704042500 +0100">
     <title lang="en">Commissioners Questions</title>
     <desc lang="en">Coverage of Commissioners Questions in the House of Commons, on Thursday 3 July.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4d164541-9ac9-44d4-8f7c-6657f37dbbea/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250704023000 +0100" stop="20250704033000 +0100">
+  <programme channel="BBCParliament.uk" start="20250704042500 +0100" stop="20250704052500 +0100">
     <title lang="en">Commons Business Questions</title>
     <desc lang="en">Coverage of the announcement of future Commons business and questions to Lucy Powell, the leader of the Commons, on Thursday 3 July.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e6ac6734-90b0-45cb-a4cc-ecae51e35c50/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250704033000 +0100" stop="20250704063000 +0100">
+  <programme channel="BBCParliament.uk" start="20250704052500 +0100" stop="20250704063000 +0100">
     <title lang="en">House of Commons</title>
     <desc lang="en">Highlights of proceedings in the House of Commons from Thursday 3 July.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9061b9c5-265b-4e35-b77e-e20ce068cf8c/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/41dd08c5-b1e4-44ec-abc4-409475cd9f3c/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20250704063000 +0100" stop="20250704093000 +0100">
     <title lang="en">Westminster Hall</title>
@@ -16421,7 +16454,7 @@
   </programme>
   <programme channel="BBCRedButton1.uk" start="20250703110000 +0100" stop="20250703213000 +0100">
     <title lang="en">Wimbledon - Day 4, Extra</title>
-    <desc lang="en">Continuous live coverage from the 2025 Championships at Wimbledon.</desc>
+    <desc lang="en">Barbora Krejcikova takes on Caroline Dolehide on No.2 Court.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/be823e0d-cdf1-4887-a344-f2d9ec0b1efd/cover"/>
   </programme>
   <programme channel="BBCRedButton1.uk" start="20250703213000 +0100" stop="20250703223000 +0100">
@@ -16880,17 +16913,17 @@
   </programme>
   <programme channel="BBCThreeHD.uk" start="20250703230000 +0100" stop="20250704000000 +0100">
     <title lang="en">Glastonbury Highlights 2025: Volume 1</title>
-    <desc lang="en">Watch a selection of tracks from the biggest and most talked-about performances from the main stages of Glastonbury 2025.</desc>
+    <desc lang="en">Watch a selection of tracks from the biggest and most talked-about performances. Contains very strong language and scenes of flashing images.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9b2445d2-a712-4ca0-8bd5-26bc17be7e8c/cover"/>
-    <episode-num system="xmltv_ns">2024.269.0</episode-num>
-    <episode-num system="onscreen">S2025E270</episode-num>
+    <episode-num system="xmltv_ns">2024.270.0</episode-num>
+    <episode-num system="onscreen">S2025E271</episode-num>
   </programme>
   <programme channel="BBCThreeHD.uk" start="20250704000000 +0100" stop="20250704010000 +0100">
     <title lang="en">Glastonbury Highlights 2025: Volume 2</title>
-    <desc lang="en">Watch a selection of tracks from the biggest and most talked-about performances from the main stages of Glastonbury 2025.</desc>
+    <desc lang="en">Watch a selection of tracks from the biggest and most talked-about performances. Contains some strong language and scenes of flashing images.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/626c5710-fe72-45a9-b068-5d19f3dd4bb2/cover"/>
-    <episode-num system="xmltv_ns">2024.270.0</episode-num>
-    <episode-num system="onscreen">S2025E271</episode-num>
+    <episode-num system="xmltv_ns">2024.271.0</episode-num>
+    <episode-num system="onscreen">S2025E272</episode-num>
   </programme>
   <programme channel="BBCThreeHD.uk" start="20250704010000 +0100" stop="20250704015000 +0100">
     <title lang="en">What It Feels Like for a Girl</title>
@@ -17087,8 +17120,8 @@
     <title lang="en">Glastonbury Highlights 2025: Volume 3</title>
     <desc lang="en">Watch a selection of tracks from the biggest and most talked-about performances from the main stages of Glastonbury 2025.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c6e5ff18-f70c-41ef-ba98-b993146b1d34/cover"/>
-    <episode-num system="xmltv_ns">2024.272.0</episode-num>
-    <episode-num system="onscreen">S2025E273</episode-num>
+    <episode-num system="xmltv_ns">2024.273.0</episode-num>
+    <episode-num system="onscreen">S2025E274</episode-num>
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20250702223000 +0100" stop="20250702230000 +0100">
     <title lang="en">Newsnight, followed by Weather</title>
@@ -17165,17 +17198,17 @@
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20250703101500 +0100" stop="20250703110000 +0100">
     <title lang="en">Politics Live</title>
-    <desc lang="en">The big political issues of the day.</desc>
+    <desc lang="en">The prime minister is standing by his chancellor; a ten-year plan for the NHS; and MPs have voted to proscribe Palestine Action as a terrorist group.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c8fdc17b-b8bc-40e6-a921-5914e204064a/cover"/>
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20250703110000 +0100" stop="20250703150000 +0100">
     <title lang="en">Wimbledon</title>
-    <desc lang="en">Isa Guha introduces live coverage from day four of Wimbledon, one of the highlights of the sporting summer.</desc>
+    <desc lang="en">Matches including Cobolli v GB's Pinnington Jones and GB's Evans v Djokovic. Meanwhile, Arthur Fery takes on Luciano Darderi on No 2 Court.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/145fa7e1-a340-4aa2-8f86-9454d69f1274/cover"/>
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20250703150000 +0100" stop="20250703163000 +0100">
     <title lang="en">Wimbledon</title>
-    <desc lang="en">Live coverage from the championships at Wimbledon continues. Presented by Clare Balding.</desc>
+    <desc lang="en">BBC Two Afternoon &amp; Evening coverage of Grigor Dimitrov on the No.3 Court.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2263e1de-1f18-43c1-9c8d-c7ba054abac4/cover"/>
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20250703163000 +0100" stop="20250703190000 +0100">
@@ -17219,24 +17252,24 @@
     <desc lang="en">Qasa Alom looks back at the day's play at Wimbledon, with highlights from the big matches.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/433e5c99-429c-4ca8-90e6-d347f05c3420/cover"/>
   </programme>
-  <programme channel="BBCTwoEngland.uk" start="20250704000000 +0100" stop="20250704010000 +0100">
+  <programme channel="BBCTwoEngland.uk" start="20250704000000 +0100" stop="20250704010500 +0100">
     <title lang="en">Today at the Test: England v India</title>
     <desc lang="en">Day two highlights from the second Test match between England and India.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/252e39fc-359d-44ba-93fa-f5f1b939fad7/cover"/>
   </programme>
-  <programme channel="BBCTwoEngland.uk" start="20250704010000 +0100" stop="20250704020000 +0100">
+  <programme channel="BBCTwoEngland.uk" start="20250704010500 +0100" stop="20250704020500 +0100">
     <title lang="en">Murder 24/7</title>
     <desc lang="en">4/6. A domestic stabbing leaves one woman dead and another critically injured. Contains some strong language and disturbing scenes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/cb5dd6f3-4103-462a-b32c-e0aa5fffd282/cover"/>
     <episode-num system="xmltv_ns">1.3.0</episode-num>
     <episode-num system="onscreen">S2E4</episode-num>
   </programme>
-  <programme channel="BBCTwoEngland.uk" start="20250704020000 +0100" stop="20250704030000 +0100">
+  <programme channel="BBCTwoEngland.uk" start="20250704020500 +0100" stop="20250704030500 +0100">
     <title lang="en">Why Cities Flood: Spain's Deadly Disaster</title>
     <desc lang="en">Dramatic video and eyewitness accounts of the 2024 Valencia floods that killed 228 people.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/978f3968-4490-410c-809a-d62482b7439d/cover"/>
   </programme>
-  <programme channel="BBCTwoEngland.uk" start="20250704030000 +0100" stop="20250704033000 +0100">
+  <programme channel="BBCTwoEngland.uk" start="20250704030500 +0100" stop="20250704033000 +0100">
     <title lang="en">The Power of Parker</title>
     <desc lang="en">5/6. Diane is stressing about Alison's 18th, Martin lets Mic down gently, and Kath is left questioning her life choices when Ash turns up. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/53ce5d77-be22-49df-806f-f389cce27752/cover"/>
@@ -17328,8 +17361,8 @@
     <title lang="en">Best of Glastonbury 2025</title>
     <desc lang="en">A look back on all the biggest and most talked-about performances from this year's Glastonbury Festival.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/cd174361-a8e7-4ad6-af7f-e5502d4fa95c/cover"/>
-    <episode-num system="xmltv_ns">2024.271.0</episode-num>
-    <episode-num system="onscreen">S2025E272</episode-num>
+    <episode-num system="xmltv_ns">2024.272.0</episode-num>
+    <episode-num system="onscreen">S2025E273</episode-num>
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20250705010500 +0100" stop="20250705020500 +0100">
     <title lang="en">Today at the Test: England v India</title>
@@ -17549,17 +17582,17 @@
   </programme>
   <programme channel="BBCTwoHD.uk" start="20250703101500 +0100" stop="20250703110000 +0100">
     <title lang="en">Politics Live</title>
-    <desc lang="en">The big political issues of the day.</desc>
+    <desc lang="en">The prime minister is standing by his chancellor; a ten-year plan for the NHS; and MPs have voted to proscribe Palestine Action as a terrorist group.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c8fdc17b-b8bc-40e6-a921-5914e204064a/cover"/>
   </programme>
   <programme channel="BBCTwoHD.uk" start="20250703110000 +0100" stop="20250703150000 +0100">
     <title lang="en">Wimbledon</title>
-    <desc lang="en">Isa Guha introduces live coverage from day four of Wimbledon, one of the highlights of the sporting summer.</desc>
+    <desc lang="en">Matches including Cobolli v GB's Pinnington Jones and GB's Evans v Djokovic. Meanwhile, Arthur Fery takes on Luciano Darderi on No 2 Court.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/145fa7e1-a340-4aa2-8f86-9454d69f1274/cover"/>
   </programme>
   <programme channel="BBCTwoHD.uk" start="20250703150000 +0100" stop="20250703163000 +0100">
     <title lang="en">Wimbledon</title>
-    <desc lang="en">Live coverage from the championships at Wimbledon continues. Presented by Clare Balding.</desc>
+    <desc lang="en">BBC Two Afternoon &amp; Evening coverage of Grigor Dimitrov on the No.3 Court.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2263e1de-1f18-43c1-9c8d-c7ba054abac4/cover"/>
   </programme>
   <programme channel="BBCTwoHD.uk" start="20250703163000 +0100" stop="20250703190000 +0100">
@@ -17603,24 +17636,24 @@
     <desc lang="en">Qasa Alom looks back at the day's play at Wimbledon, with highlights from the big matches.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/433e5c99-429c-4ca8-90e6-d347f05c3420/cover"/>
   </programme>
-  <programme channel="BBCTwoHD.uk" start="20250704000000 +0100" stop="20250704010000 +0100">
+  <programme channel="BBCTwoHD.uk" start="20250704000000 +0100" stop="20250704010500 +0100">
     <title lang="en">Today at the Test: England v India</title>
     <desc lang="en">Day two highlights from the second Test match between England and India.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/252e39fc-359d-44ba-93fa-f5f1b939fad7/cover"/>
   </programme>
-  <programme channel="BBCTwoHD.uk" start="20250704010000 +0100" stop="20250704020000 +0100">
+  <programme channel="BBCTwoHD.uk" start="20250704010500 +0100" stop="20250704020500 +0100">
     <title lang="en">Murder 24/7</title>
     <desc lang="en">4/6. A domestic stabbing leaves one woman dead and another critically injured. Contains some strong language and disturbing scenes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/cb5dd6f3-4103-462a-b32c-e0aa5fffd282/cover"/>
     <episode-num system="xmltv_ns">1.3.0</episode-num>
     <episode-num system="onscreen">S2E4</episode-num>
   </programme>
-  <programme channel="BBCTwoHD.uk" start="20250704020000 +0100" stop="20250704030000 +0100">
+  <programme channel="BBCTwoHD.uk" start="20250704020500 +0100" stop="20250704030500 +0100">
     <title lang="en">Why Cities Flood: Spain's Deadly Disaster</title>
     <desc lang="en">Dramatic video and eyewitness accounts of the 2024 Valencia floods that killed 228 people.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/978f3968-4490-410c-809a-d62482b7439d/cover"/>
   </programme>
-  <programme channel="BBCTwoHD.uk" start="20250704030000 +0100" stop="20250704033000 +0100">
+  <programme channel="BBCTwoHD.uk" start="20250704030500 +0100" stop="20250704033000 +0100">
     <title lang="en">The Power of Parker</title>
     <desc lang="en">5/6. Diane is stressing about Alison's 18th, Martin lets Mic down gently, and Kath is left questioning her life choices when Ash turns up. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/53ce5d77-be22-49df-806f-f389cce27752/cover"/>
@@ -17712,8 +17745,8 @@
     <title lang="en">Best of Glastonbury 2025</title>
     <desc lang="en">A look back on all the biggest and most talked-about performances from this year's Glastonbury Festival.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/cd174361-a8e7-4ad6-af7f-e5502d4fa95c/cover"/>
-    <episode-num system="xmltv_ns">2024.271.0</episode-num>
-    <episode-num system="onscreen">S2025E272</episode-num>
+    <episode-num system="xmltv_ns">2024.272.0</episode-num>
+    <episode-num system="onscreen">S2025E273</episode-num>
   </programme>
   <programme channel="BBCTwoHD.uk" start="20250705010500 +0100" stop="20250705020500 +0100">
     <title lang="en">Today at the Test: England v India</title>
@@ -17933,17 +17966,17 @@
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20250703101500 +0100" stop="20250703110000 +0100">
     <title lang="en">Politics Live</title>
-    <desc lang="en">The big political issues of the day.</desc>
+    <desc lang="en">The prime minister is standing by his chancellor; a ten-year plan for the NHS; and MPs have voted to proscribe Palestine Action as a terrorist group.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c8fdc17b-b8bc-40e6-a921-5914e204064a/cover"/>
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20250703110000 +0100" stop="20250703150000 +0100">
     <title lang="en">Wimbledon</title>
-    <desc lang="en">Isa Guha introduces live coverage from day four of Wimbledon, one of the highlights of the sporting summer.</desc>
+    <desc lang="en">Matches including Cobolli v GB's Pinnington Jones and GB's Evans v Djokovic. Meanwhile, Arthur Fery takes on Luciano Darderi on No 2 Court.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/145fa7e1-a340-4aa2-8f86-9454d69f1274/cover"/>
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20250703150000 +0100" stop="20250703163000 +0100">
     <title lang="en">Wimbledon</title>
-    <desc lang="en">Live coverage from the championships at Wimbledon continues. Presented by Clare Balding.</desc>
+    <desc lang="en">BBC Two Afternoon &amp; Evening coverage of Grigor Dimitrov on the No.3 Court.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2263e1de-1f18-43c1-9c8d-c7ba054abac4/cover"/>
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20250703163000 +0100" stop="20250703190000 +0100">
@@ -17994,24 +18027,24 @@
     <desc lang="en">Qasa Alom looks back at the day's play at Wimbledon, with highlights from the big matches.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/433e5c99-429c-4ca8-90e6-d347f05c3420/cover"/>
   </programme>
-  <programme channel="BBCTwoNorthernIreland.uk" start="20250704000000 +0100" stop="20250704010000 +0100">
+  <programme channel="BBCTwoNorthernIreland.uk" start="20250704000000 +0100" stop="20250704010500 +0100">
     <title lang="en">Today at the Test: England v India</title>
     <desc lang="en">Day two highlights from the second Test match between England and India.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/252e39fc-359d-44ba-93fa-f5f1b939fad7/cover"/>
   </programme>
-  <programme channel="BBCTwoNorthernIreland.uk" start="20250704010000 +0100" stop="20250704020000 +0100">
+  <programme channel="BBCTwoNorthernIreland.uk" start="20250704010500 +0100" stop="20250704020500 +0100">
     <title lang="en">Murder 24/7</title>
     <desc lang="en">4/6. A domestic stabbing leaves one woman dead and another critically injured. Contains some strong language and disturbing scenes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/cb5dd6f3-4103-462a-b32c-e0aa5fffd282/cover"/>
     <episode-num system="xmltv_ns">1.3.0</episode-num>
     <episode-num system="onscreen">S2E4</episode-num>
   </programme>
-  <programme channel="BBCTwoNorthernIreland.uk" start="20250704020000 +0100" stop="20250704030000 +0100">
+  <programme channel="BBCTwoNorthernIreland.uk" start="20250704020500 +0100" stop="20250704030500 +0100">
     <title lang="en">Why Cities Flood: Spain's Deadly Disaster</title>
     <desc lang="en">Dramatic video and eyewitness accounts of the 2024 Valencia floods that killed 228 people.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/978f3968-4490-410c-809a-d62482b7439d/cover"/>
   </programme>
-  <programme channel="BBCTwoNorthernIreland.uk" start="20250704030000 +0100" stop="20250704033000 +0100">
+  <programme channel="BBCTwoNorthernIreland.uk" start="20250704030500 +0100" stop="20250704033000 +0100">
     <title lang="en">The Power of Parker</title>
     <desc lang="en">5/6. Diane is stressing about Alison's 18th, Martin lets Mic down gently, and Kath is left questioning her life choices when Ash turns up. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/53ce5d77-be22-49df-806f-f389cce27752/cover"/>
@@ -18103,8 +18136,8 @@
     <title lang="en">Best of Glastonbury 2025</title>
     <desc lang="en">A look back on all the biggest and most talked-about performances from this year's Glastonbury Festival.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/cd174361-a8e7-4ad6-af7f-e5502d4fa95c/cover"/>
-    <episode-num system="xmltv_ns">2024.271.0</episode-num>
-    <episode-num system="onscreen">S2025E272</episode-num>
+    <episode-num system="xmltv_ns">2024.272.0</episode-num>
+    <episode-num system="onscreen">S2025E273</episode-num>
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20250705010500 +0100" stop="20250705020500 +0100">
     <title lang="en">Today at the Test: England v India</title>
@@ -18334,17 +18367,17 @@
   </programme>
   <programme channel="BBCTwoWales.uk" start="20250703101500 +0100" stop="20250703110000 +0100">
     <title lang="en">Politics Live</title>
-    <desc lang="en">The big political issues of the day.</desc>
+    <desc lang="en">The prime minister is standing by his chancellor; a ten-year plan for the NHS; and MPs have voted to proscribe Palestine Action as a terrorist group.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c8fdc17b-b8bc-40e6-a921-5914e204064a/cover"/>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20250703110000 +0100" stop="20250703150000 +0100">
     <title lang="en">Wimbledon</title>
-    <desc lang="en">Isa Guha introduces live coverage from day four of Wimbledon, one of the highlights of the sporting summer.</desc>
+    <desc lang="en">Matches including Cobolli v GB's Pinnington Jones and GB's Evans v Djokovic. Meanwhile, Arthur Fery takes on Luciano Darderi on No 2 Court.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/145fa7e1-a340-4aa2-8f86-9454d69f1274/cover"/>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20250703150000 +0100" stop="20250703163000 +0100">
     <title lang="en">Wimbledon</title>
-    <desc lang="en">Live coverage from the championships at Wimbledon continues. Presented by Clare Balding.</desc>
+    <desc lang="en">BBC Two Afternoon &amp; Evening coverage of Grigor Dimitrov on the No.3 Court.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2263e1de-1f18-43c1-9c8d-c7ba054abac4/cover"/>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20250703163000 +0100" stop="20250703190000 +0100">
@@ -18388,24 +18421,24 @@
     <desc lang="en">Qasa Alom looks back at the day's play at Wimbledon, with highlights from the big matches.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/433e5c99-429c-4ca8-90e6-d347f05c3420/cover"/>
   </programme>
-  <programme channel="BBCTwoWales.uk" start="20250704000000 +0100" stop="20250704010000 +0100">
+  <programme channel="BBCTwoWales.uk" start="20250704000000 +0100" stop="20250704010500 +0100">
     <title lang="en">Today at the Test: England v India</title>
     <desc lang="en">Day two highlights from the second Test match between England and India.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/252e39fc-359d-44ba-93fa-f5f1b939fad7/cover"/>
   </programme>
-  <programme channel="BBCTwoWales.uk" start="20250704010000 +0100" stop="20250704020000 +0100">
+  <programme channel="BBCTwoWales.uk" start="20250704010500 +0100" stop="20250704020500 +0100">
     <title lang="en">Murder 24/7</title>
     <desc lang="en">4/6. A domestic stabbing leaves one woman dead and another critically injured. Contains some strong language and disturbing scenes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/cb5dd6f3-4103-462a-b32c-e0aa5fffd282/cover"/>
     <episode-num system="xmltv_ns">1.3.0</episode-num>
     <episode-num system="onscreen">S2E4</episode-num>
   </programme>
-  <programme channel="BBCTwoWales.uk" start="20250704020000 +0100" stop="20250704030000 +0100">
+  <programme channel="BBCTwoWales.uk" start="20250704020500 +0100" stop="20250704030500 +0100">
     <title lang="en">Why Cities Flood: Spain's Deadly Disaster</title>
     <desc lang="en">Dramatic video and eyewitness accounts of the 2024 Valencia floods that killed 228 people.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/978f3968-4490-410c-809a-d62482b7439d/cover"/>
   </programme>
-  <programme channel="BBCTwoWales.uk" start="20250704030000 +0100" stop="20250704033000 +0100">
+  <programme channel="BBCTwoWales.uk" start="20250704030500 +0100" stop="20250704033000 +0100">
     <title lang="en">The Power of Parker</title>
     <desc lang="en">5/6. Diane is stressing about Alison's 18th, Martin lets Mic down gently, and Kath is left questioning her life choices when Ash turns up. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/53ce5d77-be22-49df-806f-f389cce27752/cover"/>
@@ -18497,8 +18530,8 @@
     <title lang="en">Best of Glastonbury 2025</title>
     <desc lang="en">A look back on all the biggest and most talked-about performances from this year's Glastonbury Festival.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/cd174361-a8e7-4ad6-af7f-e5502d4fa95c/cover"/>
-    <episode-num system="xmltv_ns">2024.271.0</episode-num>
-    <episode-num system="onscreen">S2025E272</episode-num>
+    <episode-num system="xmltv_ns">2024.272.0</episode-num>
+    <episode-num system="onscreen">S2025E273</episode-num>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20250705010500 +0100" stop="20250705020500 +0100">
     <title lang="en">Today at the Test: England v India</title>
@@ -22737,7 +22770,7 @@
   </programme>
   <programme channel="Channel4.uk" start="20250704210000 +0100" stop="20250704220000 +0100">
     <title lang="en">New: Celebrity Gogglebox</title>
-    <desc lang="en">A rolling cast of famous faces, some of Britain's favourite personalities, hit the sofa for the week's big shows, sharing their funny points of view.</desc>
+    <desc lang="en">This time the celebs watched Squid Game, Glastonbury, Open House: The Great Sex Experiment, Celebrity Bridge of Lies, Trainwreck: Poop Cruise and Millionaire Hoarders.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/972b87e2-5148-4585-a0ef-179989b2595d/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">6.4.0</episode-num>
@@ -23350,7 +23383,7 @@
   </programme>
   <programme channel="Channel4Plus1.uk" start="20250704220000 +0100" stop="20250704230000 +0100">
     <title lang="en">New: Celebrity Gogglebox</title>
-    <desc lang="en">A rolling cast of famous faces, some of Britain's favourite personalities, hit the sofa for the week's big shows, sharing their funny points of view.</desc>
+    <desc lang="en">This time the celebs watched Squid Game, Glastonbury, Open House: The Great Sex Experiment, Celebrity Bridge of Lies, Trainwreck: Poop Cruise and Millionaire Hoarders.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/972b87e2-5148-4585-a0ef-179989b2595d/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">6.4.0</episode-num>
@@ -25662,55 +25695,47 @@
     <premiere/>
   </programme>
   <programme channel="CNNInternational.uk" start="20250704230000 +0100" stop="20250705000000 +0100">
-    <title lang="en">The Brief with Jim Sciutto</title>
-    <desc lang="en">Friday, July 4, 2025 6pm ET.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1f82fa78-58af-4751-a459-44ec5050092e/cover"/>
+    <title lang="en">The Lead with Jake Tapper</title>
+    <desc lang="en">Friday, July 4, 2025 6PM. Jake Tapper covers all the day's top stories around the country and the globe, from politics to money, sports to popular culture.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7f94d18b-6fb3-4316-88d6-e80ca71930c9/cover"/>
     <premiere/>
+    <episode-num system="xmltv_ns">2024.265.0</episode-num>
+    <episode-num system="onscreen">S2025E266</episode-num>
   </programme>
   <programme channel="CNNInternational.uk" start="20250705000000 +0100" stop="20250705010000 +0100">
-    <title lang="en">Erin Burnett OutFront</title>
-    <desc lang="en">Friday, July 4, 2025 7PM. Erin Burnett stays ahead of the headlines, delivering a show that's in-depth and informative.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e1812b88-c15e-4fad-b585-ca810d9ed4d5/cover"/>
+    <title lang="en">The Fourth In America</title>
+    <desc lang="en">Friday, July 4, 2025 7PM.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ebb9b5c7-48ad-412a-80ee-a1cfc843f607/cover"/>
     <premiere/>
   </programme>
   <programme channel="CNNInternational.uk" start="20250705010000 +0100" stop="20250705020000 +0100">
-    <title lang="en">Anderson Cooper 360</title>
-    <desc lang="en">Friday, July 4, 2025 8PM. Anderson Cooper takes you beyond the headlines with in-depth reporting and investigations.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/76e9c54d-2817-4d5d-ae60-99df726d5354/cover"/>
+    <title lang="en">The Fourth In America</title>
+    <desc lang="en">Friday, July 4, 2025 8PM.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ebb9b5c7-48ad-412a-80ee-a1cfc843f607/cover"/>
     <premiere/>
   </programme>
   <programme channel="CNNInternational.uk" start="20250705020000 +0100" stop="20250705030000 +0100">
-    <title lang="en">The Source with Kaitlan Collins</title>
-    <desc lang="en">Friday, July 4, 2025 9PM. Kaitlan Collins goes straight to the source for the best reporting on the day's biggest stories.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1043d278-e522-407e-9a7c-6e7c363a9181/cover"/>
+    <title lang="en">The Fourth In America</title>
+    <desc lang="en">Friday, July 4, 2025 9PM.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ebb9b5c7-48ad-412a-80ee-a1cfc843f607/cover"/>
     <premiere/>
-    <episode-num system="xmltv_ns">2024.135.0</episode-num>
-    <episode-num system="onscreen">S2025E136</episode-num>
   </programme>
   <programme channel="CNNInternational.uk" start="20250705030000 +0100" stop="20250705040000 +0100">
-    <title lang="en">CNN NewsNight</title>
-    <desc lang="en">Friday, July 4, 2025 10PM. Abby Phillip leads a roundtable discussion on the day's biggest stories and issues shaping our world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3bcc4698-ba77-4249-a72f-b3e14f3959e9/cover"/>
+    <title lang="en">The Fourth In America</title>
+    <desc lang="en">Friday, July 4, 2025 10PM.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ebb9b5c7-48ad-412a-80ee-a1cfc843f607/cover"/>
     <premiere/>
-    <episode-num system="xmltv_ns">2024.136.0</episode-num>
-    <episode-num system="onscreen">S2025E137</episode-num>
   </programme>
   <programme channel="CNNInternational.uk" start="20250705040000 +0100" stop="20250705050000 +0100">
-    <title lang="en">Laura Coates Live</title>
-    <desc lang="en">Friday, July 4, 2025 11PM. Laura Coates goes inside the story with a relentless pursuit of the facts.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/24d004e5-a77a-4fa8-920e-cd9f2b31bafd/cover"/>
+    <title lang="en">The Fourth In America</title>
+    <desc lang="en">Friday, July 4, 2025 11PM.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/37c8e578-9307-4c85-bc49-7b9afee6c4c6/cover"/>
     <premiere/>
   </programme>
-  <programme channel="CNNInternational.uk" start="20250705050000 +0100" stop="20250705053000 +0100">
-    <title lang="en">CNN Newsroom (CNNI)</title>
-    <desc lang="en">Saturday, July 5, 2025 12am ET. Live context and clarity to the day's top stories from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/cba672fa-3364-4a08-bfbb-df2d32ebd0af/cover"/>
-    <premiere/>
-  </programme>
-  <programme channel="CNNInternational.uk" start="20250705053000 +0100" stop="20250705060000 +0100">
-    <title lang="en">Connecting Africa</title>
-    <desc lang="en">Programming to be determined.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/489ffc78-5883-4daa-9f13-8cde268d7ad3/cover"/>
+  <programme channel="CNNInternational.uk" start="20250705050000 +0100" stop="20250705060000 +0100">
+    <title lang="en">The Fourth In America</title>
+    <desc lang="en">Saturday, July 5, 2025 12AM.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/5b0e6cdd-08b3-4742-bbca-bf8697ca1ba5/cover"/>
     <premiere/>
   </programme>
   <programme channel="CNNInternational.uk" start="20250705060000 +0100" stop="20250705063000 +0100">
@@ -25721,7 +25746,7 @@
   </programme>
   <programme channel="CNNInternational.uk" start="20250705063000 +0100" stop="20250705070000 +0100">
     <title lang="en">One Square Meter</title>
-    <desc lang="en">Abu Dhabi.</desc>
+    <desc lang="en">Abu Dhabi. How some of the emirate's most ambitious and inspiring architectural development projects are propelling Abu Dhabi into a city of the future.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7d42f2f0-6255-44ed-b8be-9a0838d616cc/cover"/>
     <premiere/>
   </programme>
@@ -25749,10 +25774,16 @@
     <icon src="https://images.metadata.sky.com/pd-image/819b23fc-cbcd-481a-98cc-4ead4af8b65d/cover"/>
     <premiere/>
   </programme>
-  <programme channel="CNNInternational.uk" start="20250705090000 +0100" stop="20250705100000 +0100">
+  <programme channel="CNNInternational.uk" start="20250705090000 +0100" stop="20250705093000 +0100">
     <title lang="en">CNN Newsroom (CNNI)</title>
     <desc lang="en">Saturday, July 5, 2025 4am ET. Live context and clarity to the day's top stories from around the world.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7cddfab6-4d48-4b53-866a-2555e9be2dfc/cover"/>
+    <premiere/>
+  </programme>
+  <programme channel="CNNInternational.uk" start="20250705093000 +0100" stop="20250705100000 +0100">
+    <title lang="en">Connecting Africa</title>
+    <desc lang="en">Transforming Africa's Fintech Sector. Trailblazing entrepreneurs look to ease cross-border payments; how the continent's digitally savvy population is transforming Africa's financial services sector.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/9c1d830f-207a-424b-9314-a8e827f5abbc/cover"/>
     <premiere/>
   </programme>
   <programme channel="CNNInternational.uk" start="20250705100000 +0100" stop="20250705110000 +0100">
@@ -25769,7 +25800,7 @@
   </programme>
   <programme channel="CNNInternational.uk" start="20250705113000 +0100" stop="20250705120000 +0100">
     <title lang="en">One Square Meter</title>
-    <desc lang="en">Abu Dhabi.</desc>
+    <desc lang="en">Abu Dhabi. How some of the emirate's most ambitious and inspiring architectural development projects are propelling Abu Dhabi into a city of the future.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/20456043-625f-4c99-8dde-11c30ffb17e6/cover"/>
     <premiere/>
   </programme>
@@ -25782,9 +25813,9 @@
     <episode-num system="onscreen">S2025E110</episode-num>
   </programme>
   <programme channel="CNNInternational.uk" start="20250705130000 +0100" stop="20250705140000 +0100">
-    <title lang="en">First Of All With Victor Blackwell</title>
-    <desc lang="en">Saturday, July 5, 2025 8AM. Victor Blackwell brings a fresh perspective on the week's news with a focus on stories affecting communities of color.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/bc36aff7-ba39-45d2-a42e-43f2377a2edd/cover"/>
+    <title lang="en">CNN This Morning Weekend</title>
+    <desc lang="en">Saturday, July 5, 2025 8AM. Start your day with Victor Blackwell bringing you the latest headlines and analysis.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/93c876b3-2733-4343-b3cf-5a4ef527ad71/cover"/>
     <premiere/>
   </programme>
   <programme channel="CNNInternational.uk" start="20250705140000 +0100" stop="20250705150000 +0100">
@@ -25794,8 +25825,8 @@
     <premiere/>
   </programme>
   <programme channel="CNNInternational.uk" start="20250705150000 +0100" stop="20250705160000 +0100">
-    <title lang="en">CNN Saturday Morning Table For Five</title>
-    <desc lang="en">July 5, 2025 10AM. Join CNN Saturday Morning for an insightful and provocative discussion of the week's biggest stories.</desc>
+    <title lang="en">CNN Newsroom Saturday</title>
+    <desc lang="en">Saturday, July 5, 2025 10AM. Updates of the latest news from around the world.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a09ad593-852c-410f-8bfd-c245ed79f1b7/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">2024.26.0</episode-num>
@@ -25815,7 +25846,7 @@
   </programme>
   <programme channel="CNNInternational.uk" start="20250705173000 +0100" stop="20250705174500 +0100">
     <title lang="en">Marketplace Middle East</title>
-    <desc lang="en">Marketplace Middle East July 2025.</desc>
+    <desc lang="en">Economic Ripple Effects. Tensions in the Gulf are spilling over, with effects shaking up the economy.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/961b68bc-cf59-4d2a-ae43-2e6d98dd54dd/cover"/>
     <premiere/>
   </programme>
@@ -25838,9 +25869,9 @@
     <premiere/>
   </programme>
   <programme channel="CNNInternational.uk" start="20250705200000 +0100" stop="20250705210000 +0100">
-    <title lang="en">TBD</title>
-    <desc lang="en">This is CNN HD</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/6880cf48-630e-42d1-bbe6-32f0a77b4bac/cover"/>
+    <title lang="en">Smerconish</title>
+    <desc lang="en">Saturday, July 5, 2025 9AM. Michael Smerconish tackles the American political and news stories of the week, offering only one kind of talking points: his own.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7290d8c6-62b1-4634-bbc5-747b52ee4af9/cover"/>
     <premiere/>
   </programme>
   <programme channel="CNNInternational.uk" start="20250705210000 +0100" stop="20250705220000 +0100">
@@ -25857,7 +25888,7 @@
   </programme>
   <programme channel="CNNInternational.uk" start="20250705223000 +0100" stop="20250705230000 +0100">
     <title lang="en">Inside Africa</title>
-    <desc lang="en">Inside Africa LIAFR703. Inside Africa takes its viewers on a journey across Africa, exploring the true diversity and depth of different cultures, countries and regions.</desc>
+    <desc lang="en">Maram Kaire: Making Senegal a Space Nation. Astronomer Maram Kaire is on a mission to democratize space science in Africa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bdd30af8-ad73-4df5-8a3c-a4b39f3973f3/cover"/>
     <premiere/>
   </programme>
