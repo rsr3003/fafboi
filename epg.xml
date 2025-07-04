@@ -495,7 +495,7 @@
   </programme>
   <programme channel="sky.main.uk" start="20250704220000 +0100" stop="20250705000000 +0100">
     <title lang="en">Live PGA Tour Golf</title>
-    <desc lang="en">Day two of the John Deere Classic, a PGA Tour event held at TPC Deere Run in Silvis, Illinois. The United States' Davis Thompson earned his first win here in 2024.</desc>
+    <desc lang="en">Day two of the John Deere Classic, a PGA Tour event held at TPC Deere Run in Silvis, Illinois. Doug Ghim set the pace Thursday for an early lead over Max Homa and Austin Eckroat.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fd9c8ff4-80c2-43c9-96fc-b7582db8e7de/cover"/>
   </programme>
   <programme channel="sky.main.uk" start="20250705000000 +0100" stop="20250705010000 +0100">
@@ -570,7 +570,7 @@
   </programme>
   <programme channel="sky.main.uk" start="20250705185500 +0100" stop="20250705203000 +0100">
     <title lang="en">Live T20 Blast: Sussex v Hampshire</title>
-    <desc lang="en">Sussex meet Hampshire in the Vitality Blast.</desc>
+    <desc lang="en">Sussex meet Hampshire in the Vitality Blast. James Vince's Hampshire have gone a month without tasting victory, losing four of their last five contests.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/14031704-54f3-414b-9746-cba907760c0c/cover"/>
   </programme>
   <programme channel="sky.main.uk" start="20250705203000 +0100" stop="20250705224000 +0100">
@@ -2310,7 +2310,7 @@
   <programme channel="sky.tennis.uk" start="20250706190000 +0100" stop="20250706204500 +0100">
     <title lang="en">Indian Wells Final: Draper v Rune</title>
     <desc lang="en">Britain's Jack Draper competes in his maiden ATP Masters 1000 final at Indian Wells as the top-10 bound Brit faces Holger Rune. Draper knocked out Carlos Alcaraz in the last four. (16.03)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1b9cf676-01e0-460e-99b7-48a014f52adc/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/f3d46f28-4a5b-4a85-8b4e-181141ac3b5c/cover"/>
   </programme>
   <programme channel="sky.tennis.uk" start="20250706204500 +0100" stop="20250706214500 +0100">
     <title lang="en">ATP Indian Wells 2025 Review</title>
@@ -2484,7 +2484,7 @@
   </programme>
   <programme channel="sky.f1.uk" start="20250704153500 +0100" stop="20250704171500 +0100">
     <title lang="en">Live British F1 GP: Practice 2</title>
-    <desc lang="en">The second hour of Formula 1 practice in preparation for Sunday's British Grand Prix at Silverstone.</desc>
+    <desc lang="en">The second hour of F1 practice on British Grand Prix weekend at Silverstone. Seven-time world champion Lewis Hamilton topped the timesheets earlier for the first time this season.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/de898f74-9141-4f62-87ec-c5faa7749e41/cover"/>
   </programme>
   <programme channel="sky.f1.uk" start="20250704171500 +0100" stop="20250704181500 +0100">
@@ -2504,7 +2504,7 @@
   </programme>
   <programme channel="sky.f1.uk" start="20250704184500 +0100" stop="20250704201500 +0100">
     <title lang="en">British F1 GP: Practice 2</title>
-    <desc lang="en">The second hour of Formula 1 practice in preparation for Sunday's British Grand Prix at Silverstone.</desc>
+    <desc lang="en">The second hour of F1 practice on British Grand Prix weekend at Silverstone. Seven-time world champion Lewis Hamilton topped the timesheets earlier for the first time this season.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bfbcd893-ee8a-4648-86be-e85102a8e129/cover"/>
   </programme>
   <programme channel="sky.f1.uk" start="20250704201500 +0100" stop="20250704211500 +0100">
@@ -2539,7 +2539,7 @@
   </programme>
   <programme channel="sky.f1.uk" start="20250705011500 +0100" stop="20250705023000 +0100">
     <title lang="en">British F1 GP: Practice 2</title>
-    <desc lang="en">The second hour of Formula 1 practice in preparation for Sunday's British Grand Prix at Silverstone. (04.07)</desc>
+    <desc lang="en">The second hour of F1 practice on British Grand Prix weekend at Silverstone. Seven-time world champion Lewis Hamilton topped the timesheets earlier for the first time this season. (04.07)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bfbcd893-ee8a-4648-86be-e85102a8e129/cover"/>
   </programme>
   <programme channel="sky.f1.uk" start="20250705023000 +0100" stop="20250705024000 +0100">
@@ -2594,7 +2594,7 @@
   </programme>
   <programme channel="sky.f1.uk" start="20250705064500 +0100" stop="20250705080000 +0100">
     <title lang="en">British F1 GP: Practice 2</title>
-    <desc lang="en">The second hour of Formula 1 practice in preparation for Sunday's British Grand Prix at Silverstone. (04.07)</desc>
+    <desc lang="en">The second hour of F1 practice on British Grand Prix weekend at Silverstone. Seven-time world champion Lewis Hamilton topped the timesheets earlier for the first time this season. (04.07)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bfbcd893-ee8a-4648-86be-e85102a8e129/cover"/>
   </programme>
   <programme channel="sky.f1.uk" start="20250705080000 +0100" stop="20250705090000 +0100">
@@ -2766,6 +2766,8 @@
     <title lang="en">Chasing The Dream</title>
     <desc lang="en">In this captivating series, step behind the scenes of Formula 2. Here, a look at the seventh race meet of the 2025 campaign in Spielberg, Austria.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a5c3a535-d2cf-445c-85d0-00cae7ea8d18/cover"/>
+    <episode-num system="xmltv_ns">0.68.0</episode-num>
+    <episode-num system="onscreen">S1E69</episode-num>
   </programme>
   <programme channel="sky.f1.uk" start="20250706104500 +0100" stop="20250706105000 +0100">
     <title lang="en">F1 Explained: Cadillac</title>
@@ -2786,6 +2788,8 @@
     <title lang="en">Chasing The Dream</title>
     <desc lang="en">In this captivating series, step behind the scenes of Formula 2. Here, a look at the seventh race meet of the 2025 campaign in Spielberg, Austria.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a5c3a535-d2cf-445c-85d0-00cae7ea8d18/cover"/>
+    <episode-num system="xmltv_ns">0.68.0</episode-num>
+    <episode-num system="onscreen">S1E69</episode-num>
   </programme>
   <programme channel="sky.f1.uk" start="20250706124000 +0100" stop="20250706125500 +0100">
     <title lang="en">Russell &amp; the Typhoons</title>
@@ -3364,7 +3368,7 @@
     <desc lang="en">Live French racing from Deauville where the G1 Prix Jean Prat is the feature race. Greyhound racing also features.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3f67495e-3c24-4f8d-8475-5e7e93050fbb/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20250706180000 +0100" stop="20250707020000 +0100">
+  <programme channel="sky.racing.uk" start="20250706180000 +0100" stop="20250707013000 +0100">
     <title lang="en">Stateside Live</title>
     <desc lang="en">Live US racing from Saratoga, Woodbine, Gulfstream, Monmouth, Los Alamitos, Lone Star Park, Hawthorne and Mountaineer.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0b777796-52cb-4bfd-aace-b6103d599232/cover"/>
@@ -3508,6 +3512,7 @@
   </programme>
   <programme channel="sky.mix.uk" start="20250704143000 +0100" stop="20250704150000 +0100">
     <title lang="en">Live Team Principal Press Conf'</title>
+    <desc lang="en">Formula 1 team bosses sit down to answer questions from the media ahead of the British Grand Prix.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f3503119-342a-44a5-90f5-2a646c32083f/cover"/>
   </programme>
   <programme channel="sky.mix.uk" start="20250704150000 +0100" stop="20250704153000 +0100">
@@ -3530,14 +3535,15 @@
     <desc lang="en">Day two of the second Test between England and India at Edgbaston. Having been inserted once more by Ben Stokes, the tourists answered with 310 runs for the loss of five yesterday. (03.07)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4fcc1f16-d0c1-42e5-ad23-4d8e36aee671/cover"/>
   </programme>
-  <programme channel="sky.mix.uk" start="20250704183000 +0100" stop="20250704220000 +0100">
+  <programme channel="sky.mix.uk" start="20250704183000 +0100" stop="20250704220001 +0100">
     <title lang="en">Live Women's 3rd T20: ENG v IND</title>
     <desc lang="en">Stand-in skipper Tammy Beaumont and England go in search of a series-saving win as Charlotte Edwards' side trail 2-0 to tourists India ahead of this women's T20I at the Oval.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1dc41bfb-07b2-4acc-af89-3f7856999e5a/cover"/>
   </programme>
-  <programme channel="sky.mix.uk" start="20250704220000 +0100" stop="20250704223000 +0100">
-    <title lang="en">Spirit of Yachting</title>
-    <icon src="https://images.metadata.sky.com/pd-image/4a7e2713-f2e5-3171-948b-68bfcdca6e93/cover"/>
+  <programme channel="sky.mix.uk" start="20250704220001 +0100" stop="20250704223000 +0100">
+    <title lang="en">Best of England v West Indies</title>
+    <desc lang="en">After being set 322 for victory at Headingley, West Indies were looking for their first Test win in England since 2000.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/2e66e686-dbab-466c-bd56-433f2bc380ef/cover"/>
   </programme>
   <programme channel="sky.mix.uk" start="20250704223000 +0100" stop="20250704233000 +0100">
     <title lang="en">Ladies European Tour Golf Hlts</title>
@@ -3650,10 +3656,30 @@
     <desc lang="en">The 2025 NTT IndyCar Series arrives in Ohio as race day preparations continue for the Honda Indy 200 at Mid-Ohio with practice two.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5f42c5d8-5877-49a5-a836-493c0ed0ad46/cover"/>
   </programme>
+  <programme channel="sky.mix.uk" start="20250705163000 +0100" stop="20250705164500 +0100">
+    <title lang="en">Jenson &amp; the FW22</title>
+    <desc lang="en">Jenson Button takes a trip down memory lane with his first-ever Formula 1 car - the FW22  - as the former world champion gets to take it out at Silverstone. Extended cut.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/4d83956c-f2dc-3e13-9b17-ba8f573a82e9/cover"/>
+  </programme>
+  <programme channel="sky.mix.uk" start="20250705164500 +0100" stop="20250705165500 +0100">
+    <title lang="en">Nico &amp; Naomi</title>
+    <desc lang="en">Ahead of the Hungarian Grand Prix, Naomi Schiff speaks to Haas driver Nico Hulkenberg after two successive top-six finishes.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ed0510c3-048e-4c59-8a45-d796f4df0f54/cover"/>
+  </programme>
   <programme channel="sky.mix.uk" start="20250705165500 +0100" stop="20250705174000 +0100">
     <title lang="en">Live British F4: Race 1</title>
     <desc lang="en">Twenty drivers, including the top 12 in the standings, from the current 2025 grid of the F4 British Championship line up at Silverstone for the first of two non-points-paying races.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/38448a6a-3b76-46ea-9173-294a9134a04f/cover"/>
+  </programme>
+  <programme channel="sky.mix.uk" start="20250705174000 +0100" stop="20250705175000 +0100">
+    <title lang="en">Luke Browning IV</title>
+    <desc lang="en">Formula 2 star Luke Browning discusses his season so far and hopes for an F1 drive.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a76d730b-d550-43e6-8661-adbde295ffc1/cover"/>
+  </programme>
+  <programme channel="sky.mix.uk" start="20250705175000 +0100" stop="20250705180000 +0100">
+    <title lang="en">Natalie &amp; George Drive into Monaco</title>
+    <desc lang="en">Sky F1's Natalie Pinkham joins Mercedes' George Russell for a tour of Monaco.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/c9f45b24-0bac-484a-b0b0-fe8e0945f970/cover"/>
   </programme>
   <programme channel="sky.mix.uk" start="20250705180000 +0100" stop="20250705204500 +0100">
     <title lang="en">S/Lge: Leigh v Wigan</title>
@@ -3825,6 +3851,7 @@
   </programme>
   <programme channel="sky.mix.uk" start="20250706213000 +0100" stop="20250706220000 +0100">
     <title lang="en">Spirit of Yachting</title>
+    <desc lang="en">Six events into the 2025 SailGP season, reflect on the campaign so far at the halfway point.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4a7e2713-f2e5-3171-948b-68bfcdca6e93/cover"/>
   </programme>
   <programme channel="sky.mix.uk" start="20250706220000 +0100" stop="20250706223000 +0100">
@@ -4049,7 +4076,7 @@
   </programme>
   <programme channel="sky.cricket.uk" start="20250705185500 +0100" stop="20250705221500 +0100">
     <title lang="en">Live T20 Blast: Sussex v Hampshire</title>
-    <desc lang="en">Sussex meet Hampshire in the Vitality Blast.</desc>
+    <desc lang="en">Sussex meet Hampshire in the Vitality Blast. James Vince's Hampshire have gone a month without tasting victory, losing four of their last five contests.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/14031704-54f3-414b-9746-cba907760c0c/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20250705221500 +0100" stop="20250705223000 +0100">
@@ -4343,14 +4370,9 @@
     <episode-num system="xmltv_ns">23.11.0</episode-num>
     <episode-num system="onscreen">S24E12</episode-num>
   </programme>
-  <programme channel="tnt1" start="20250704180000 +0100" stop="20250704183000 +0100">
-    <title lang="en">2025 UEFA Europa League Final</title>
-    <desc lang="en">Action from the 2025 UEFA Europa League final between Tottenham Hotspur and Manchester United at San Mames Stadium in Bilbao.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3fc87bd8-b3fc-45f2-a93b-b33247750ba1/cover"/>
-  </programme>
-  <programme channel="tnt1" start="20250704183000 +0100" stop="20250704190000 +0100">
+  <programme channel="tnt1" start="20250704180000 +0100" stop="20250704190000 +0100">
     <title lang="en">WRC Mid-Season Review</title>
-    <desc lang="en">A mid-season review of the 2025 World Rally Championship, including events in Kenya, Italy and Monte Carlo.</desc>
+    <desc lang="en">A mid-season review of the 2025 World Rally Championship, including action from events in Kenya, Italy and Monte Carlo.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f75d2f28-6666-497e-aa28-9af6110ebd2c/cover"/>
     <episode-num system="xmltv_ns">24.18.0</episode-num>
     <episode-num system="onscreen">S25E19</episode-num>
@@ -4444,12 +4466,12 @@
   </programme>
   <programme channel="tnt1" start="20250705173000 +0100" stop="20250705210000 +0100">
     <title lang="en">Live: FIM Speedway Grand Prix</title>
-    <desc lang="en">Action from round seven the 2025 FIM Speedway Grand Prix at Malilla's Skrotfrag Arena.</desc>
+    <desc lang="en">Action from round seven the 2025 FIM Speedway Grand Prix at Malilla's Skrotfrag Arena. Bartosz Zmarzlik is searching for his fifth GP win at this iconic venue.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bd1b867f-266a-42a1-8dc8-d50c66c19507/cover"/>
   </programme>
   <programme channel="tnt1" start="20250705210000 +0100" stop="20250706001500 +0100">
     <title lang="en">Live MLB: Yankees @ Mets</title>
-    <desc lang="en">Action from Major League Baseball as New York Yankees face New York Mets.</desc>
+    <desc lang="en">Action from Major League Baseball as New York Yankees face New York Mets in the second contest of this three-game Subway Series at Citi Field.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8b611bf9-3ace-4604-8462-272598595ea5/cover"/>
   </programme>
   <programme channel="tnt1" start="20250706001500 +0100" stop="20250706003000 +0100">
@@ -4478,7 +4500,7 @@
   </programme>
   <programme channel="tnt1" start="20250706020000 +0100" stop="20250706033000 +0100">
     <title lang="en">Wimbledon</title>
-    <desc lang="en">Highlights from day six at Wimbledon.</desc>
+    <desc lang="en">Highlights from day six at Wimbledon, as world no.1 Jannik Sinner and seven-time champion Novak Djokovic looked to progress to the Round of 16.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d7832741-431b-42e5-be3f-f81215af8706/cover"/>
   </programme>
   <programme channel="tnt1" start="20250706033000 +0100" stop="20250706040000 +0100">
@@ -4488,7 +4510,7 @@
   </programme>
   <programme channel="tnt1" start="20250706040000 +0100" stop="20250706070000 +0100">
     <title lang="en">Live AFL: Sydney Swans v Fremantle</title>
-    <desc lang="en">Action from the Australian Football League as Sydney Swans face Fremantle.</desc>
+    <desc lang="en">Action from the Australian Football League as Sydney Swans face Fremantle at the SCG. Can the Dockers extend their winning streak to seven games?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5218bbc2-d6a7-4a5f-a2de-0923360bbbb0/cover"/>
   </programme>
   <programme channel="tnt1" start="20250706070000 +0100" stop="20250706080000 +0100">
@@ -4500,7 +4522,7 @@
   </programme>
   <programme channel="tnt1" start="20250706080000 +0100" stop="20250706093000 +0100">
     <title lang="en">Wimbledon</title>
-    <desc lang="en">Highlights from day six at Wimbledon.</desc>
+    <desc lang="en">Highlights from day six at Wimbledon, as world no.1 Jannik Sinner and seven-time champion Novak Djokovic looked to progress to the Round of 16.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d7832741-431b-42e5-be3f-f81215af8706/cover"/>
   </programme>
   <programme channel="tnt1" start="20250706093000 +0100" stop="20250706100000 +0100">
@@ -4515,12 +4537,12 @@
     <desc lang="en">Highlights from the opening stage of the 2025 Tour de France, as the riders set off on a 184km route around Lille Metropole.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/23b4a2c8-b332-4eb2-8774-339a04745d1c/cover"/>
   </programme>
-  <programme channel="tnt1" start="20250706110000 +0100" stop="20250706171600 +0100">
+  <programme channel="tnt1" start="20250706110000 +0100" stop="20250706171500 +0100">
     <title lang="en">Live: Tour de France - Stage 2</title>
     <desc lang="en">Stage two of the 2025 Tour de France sees the riders set off from Lauwin-Planque on a hilly 209km route to the port city of Boulogne-sur-Mer.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1423b489-b96a-43bb-b321-df18c2a62af1/cover"/>
   </programme>
-  <programme channel="tnt1" start="20250706171600 +0100" stop="20250706181500 +0100">
+  <programme channel="tnt1" start="20250706171500 +0100" stop="20250706181500 +0100">
     <title lang="en">Giro d'Italia Women - Stage 1</title>
     <desc lang="en">The 2025 Giro d'Italia Women gets underway as the riders tackle a 14.km individual time trial around the city of Bergamo.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2b3ac475-1df3-4843-8eaf-ec7e82247b7a/cover"/>
@@ -4534,18 +4556,13 @@
   </programme>
   <programme channel="tnt1" start="20250706183000 +0100" stop="20250706214500 +0100">
     <title lang="en">Live MLB: Yankees @ Mets</title>
-    <desc lang="en">Major League Baseball as New York Yankees take on New York Mets.</desc>
+    <desc lang="en">Action from Major League Baseball as New York Yankees take on New York Mets in the third and final game of this Subway Series at Citi Field.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9aca3d1a-b710-4b35-9ddb-d83b4fbc810e/cover"/>
   </programme>
   <programme channel="tnt1" start="20250706214500 +0100" stop="20250707001500 +0100">
     <title lang="en">Live MLB: Astros @ Dodgers</title>
-    <desc lang="en">Action from Major League Baseball as Houston Astros face Los Angeles Dodgers.</desc>
+    <desc lang="en">Action from Major League Baseball as Houston Astros face Los Angeles Dodgers in the third and final contest of this three-game series at Dodger Stadium.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7c11926a-7ee6-474e-aad3-f827bfd575a3/cover"/>
-  </programme>
-  <programme channel="tnt2" start="20250703144500 +0100" stop="20250703230000 +0100">
-    <title lang="en">Live Test: West Indies v Australia</title>
-    <desc lang="en">Day one of the second Test between West Indies and Australia at National Cricket Stadium in Grenada. The Aussies hold a 1-0 lead in the battle for the Frank Worrell Trophy.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/66b39abf-2597-4732-8fd9-2845efb26382/cover"/>
   </programme>
   <programme channel="tnt2" start="20250703230000 +0100" stop="20250703233000 +0100">
     <title lang="en">Henley Royal Regatta Highlights</title>
@@ -4642,16 +4659,9 @@
     <episode-num system="xmltv_ns">24.15.0</episode-num>
     <episode-num system="onscreen">S25E16</episode-num>
   </programme>
-  <programme channel="tnt2" start="20250704143000 +0100" stop="20250704144500 +0100">
-    <title lang="en">Playing For Our Future - Cricket</title>
-    <desc lang="en">What does the future hold for cricket in the battle against global warming? Reshmin Chowdhury meets people at all levels to discuss how cricket can be a positive force for change.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/bea08cee-31bd-4bdf-881a-fb70a11863ff/cover"/>
-    <episode-num system="xmltv_ns">1.56.0</episode-num>
-    <episode-num system="onscreen">S2E57</episode-num>
-  </programme>
-  <programme channel="tnt2" start="20250704144500 +0100" stop="20250704230000 +0100">
+  <programme channel="tnt2" start="20250704143000 +0100" stop="20250704230000 +0100">
     <title lang="en">Live Test: West Indies v Australia</title>
-    <desc lang="en">Action from day two of the second Test between West Indies and Australia at National Cricket Stadium.</desc>
+    <desc lang="en">Day two of the second Test between West Indies and Australia at National Cricket Stadium in Grenada. After electing to bat, the Aussies were bowled out for 286 on day one.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9e0e5355-9d34-4ed5-84dc-eb4e89bbf022/cover"/>
   </programme>
   <programme channel="tnt2" start="20250704230000 +0100" stop="20250704233000 +0100">
@@ -4687,7 +4697,7 @@
   </programme>
   <programme channel="tnt2" start="20250705020000 +0100" stop="20250705033000 +0100">
     <title lang="en">Wimbledon</title>
-    <desc lang="en">Highlights from day five at Wimbledon.</desc>
+    <desc lang="en">Highlights from day five at Wimbledon, as Britain's Emma Raducanu faced world no.1 Aryna Sabalenka. Plus, Carlos Alcaraz and Cameron Norrie were in third round action.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/45decd06-5e6f-48b6-a795-1cbc6425356c/cover"/>
   </programme>
   <programme channel="tnt2" start="20250705033000 +0100" stop="20250705043000 +0100">
@@ -4728,15 +4738,13 @@
   </programme>
   <programme channel="tnt2" start="20250705090000 +0100" stop="20250705100000 +0100">
     <title lang="en">West Indies v Australia - 2nd Test</title>
-    <desc lang="en">Action from day two of the second Test between West Indies and Australia at National Cricket Stadium.</desc>
+    <desc lang="en">Day two of the second Test between West Indies and Australia at National Cricket Stadium in Grenada. After electing to bat, the Aussies were bowled out for 286 on day one.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b4166d95-8c57-49e7-87a4-731d8e576990/cover"/>
   </programme>
   <programme channel="tnt2" start="20250705100000 +0100" stop="20250705103000 +0100">
-    <title lang="en">WRC Mid-Season Review</title>
-    <desc lang="en">A mid-season review of the 2025 World Rally Championship, including events in Kenya, Italy and Monte Carlo.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f75d2f28-6666-497e-aa28-9af6110ebd2c/cover"/>
-    <episode-num system="xmltv_ns">24.18.0</episode-num>
-    <episode-num system="onscreen">S25E19</episode-num>
+    <title lang="en">2025 UEFA Europa League Final</title>
+    <desc lang="en">Action from the 2025 UEFA Europa League final between Tottenham Hotspur and Manchester United at San Mames Stadium in Bilbao.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f35855f0-1522-4b39-b7cb-7435305c53dc/cover"/>
   </programme>
   <programme channel="tnt2" start="20250705103000 +0100" stop="20250705133000 +0100">
     <title lang="en">Live AFL: Brisbane L v P Adelaide</title>
@@ -4750,7 +4758,7 @@
   </programme>
   <programme channel="tnt2" start="20250705134500 +0100" stop="20250705144500 +0100">
     <title lang="en">West Indies v Australia - 2nd Test</title>
-    <desc lang="en">Action from day two of the second Test between West Indies and Australia at National Cricket Stadium.</desc>
+    <desc lang="en">Day two of the second Test between West Indies and Australia at National Cricket Stadium in Grenada. After electing to bat, the Aussies were bowled out for 286 on day one.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b4166d95-8c57-49e7-87a4-731d8e576990/cover"/>
   </programme>
   <programme channel="tnt2" start="20250705144500 +0100" stop="20250705230000 +0100">
@@ -4770,7 +4778,7 @@
   </programme>
   <programme channel="tnt2" start="20250706000000 +0100" stop="20250706031500 +0100">
     <title lang="en">Live MLB: Astros @ Dodgers</title>
-    <desc lang="en">Action from Major League Baseball as Houston Astros face Los Angeles Dodgers.</desc>
+    <desc lang="en">Major League Baseball action from the second contest in this three-game series between Houston Astros and Los Angeles Dodgers at Dodger Stadium.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3922418f-b71b-4785-bf63-10c9d813c299/cover"/>
   </programme>
   <programme channel="tnt2" start="20250706031500 +0100" stop="20250706034500 +0100">
@@ -4827,7 +4835,7 @@
   </programme>
   <programme channel="tnt2" start="20250706100000 +0100" stop="20250706110000 +0100">
     <title lang="en">Sri Lanka v Bangladesh - 2nd ODI</title>
-    <desc lang="en">Cricket action from the second One Day International between Sri Lanka and Bangladesh at R Premadasa International Stadium.</desc>
+    <desc lang="en">Action from the second One Day International between Sri Lanka and Bangladesh at R Premadasa International Stadium in Colombo. The Lions hold a 1-0 lead in the series.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/34ef257f-4e4c-4a44-b2aa-90979c075d91/cover"/>
   </programme>
   <programme channel="tnt2" start="20250706110000 +0100" stop="20250706111500 +0100">
@@ -5010,7 +5018,7 @@
   </programme>
   <programme channel="tnt3" start="20250704220000 +0100" stop="20250704233000 +0100">
     <title lang="en">Wimbledon</title>
-    <desc lang="en">Highlights from day five at Wimbledon.</desc>
+    <desc lang="en">Highlights from day five at Wimbledon, as Britain's Emma Raducanu faced world no.1 Aryna Sabalenka. Plus, Carlos Alcaraz and Cameron Norrie were in third round action.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/45decd06-5e6f-48b6-a795-1cbc6425356c/cover"/>
   </programme>
   <programme channel="tnt3" start="20250704233000 +0100" stop="20250705003000 +0100">
@@ -5082,18 +5090,16 @@
   </programme>
   <programme channel="tnt3" start="20250705094500 +0100" stop="20250705183000 +0100">
     <title lang="en">Live ODI: Sri Lanka v Bangladesh</title>
-    <desc lang="en">Cricket action from the second One Day International between Sri Lanka and Bangladesh at R Premadasa International Stadium.</desc>
+    <desc lang="en">Action from the second One Day International between Sri Lanka and Bangladesh at R Premadasa International Stadium in Colombo. The Lions hold a 1-0 lead in the series.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6ecd00a3-3050-4996-a8bd-fcf5467ea02e/cover"/>
   </programme>
   <programme channel="tnt3" start="20250705183000 +0100" stop="20250705190000 +0100">
-    <title lang="en">WRC Mid-Season Review</title>
-    <desc lang="en">A mid-season review of the 2025 World Rally Championship, including events in Kenya, Italy and Monte Carlo.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f75d2f28-6666-497e-aa28-9af6110ebd2c/cover"/>
-    <episode-num system="xmltv_ns">24.18.0</episode-num>
-    <episode-num system="onscreen">S25E19</episode-num>
+    <title lang="en">Discovery Golf</title>
+    <desc lang="en">We preview the John Deere Classic and get some tips from Davis Thompson, who defends his title against the likes of Rickie Fowler, Max Homa and Tom Kim.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/4575bd10-bd3f-4380-8440-ac365b7e0b3d/cover"/>
   </programme>
   <programme channel="tnt3" start="20250705190000 +0100" stop="20250705214500 +0100">
-    <title lang="en">Longines Global Champions Tour</title>
+    <title lang="en">Live: Global Champions Tour</title>
     <desc lang="en">Coverage of the Longines Global Champions Tour and the 2025 Grand Prix of Monaco, as the best riders in the world compete in a breathtaking waterfront setting.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/35d2ae11-d362-47cc-a92b-93df06bf2eb1/cover"/>
   </programme>
@@ -5104,7 +5110,7 @@
   </programme>
   <programme channel="tnt3" start="20250705220000 +0100" stop="20250705233000 +0100">
     <title lang="en">Wimbledon</title>
-    <desc lang="en">Highlights from day six at Wimbledon.</desc>
+    <desc lang="en">Highlights from day six at Wimbledon, as world no.1 Jannik Sinner and seven-time champion Novak Djokovic looked to progress to the Round of 16.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d7832741-431b-42e5-be3f-f81215af8706/cover"/>
   </programme>
   <programme channel="tnt3" start="20250705233000 +0100" stop="20250705234500 +0100">
@@ -5149,7 +5155,7 @@
   </programme>
   <programme channel="tnt3" start="20250706054500 +0100" stop="20250706060000 +0100">
     <title lang="en">TNT Sports Cricket Reload</title>
-    <desc lang="en">A look back at the third One Day International between Ireland and West Indies at Clontarf Cricket Club.</desc>
+    <desc lang="en">A look back at the third One Day International between Ireland and West Indies at Clontarf Cricket Club, as Keacy Carty was in blistering form with the bat.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/65550e1c-3fdf-4201-a62e-b16b7510aae4/cover"/>
     <episode-num system="xmltv_ns">2.2.0</episode-num>
     <episode-num system="onscreen">S3E3</episode-num>
@@ -5181,7 +5187,7 @@
   </programme>
   <programme channel="tnt3" start="20250706100000 +0100" stop="20250706110000 +0100">
     <title lang="en">Live: European Rally Championship</title>
-    <desc lang="en">Action from Rally Rome and Special Stage 10 of the 2025 European Rally Championship.</desc>
+    <desc lang="en">Action from Rally di Roma Capitale and Special Stage 10 of the 2025 European Rally Championship.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1a62421a-cd4a-457a-b422-18e79c744162/cover"/>
   </programme>
   <programme channel="tnt3" start="20250706110000 +0100" stop="20250706113000 +0100">
@@ -5207,15 +5213,13 @@
     <episode-num system="onscreen">S25E27</episode-num>
   </programme>
   <programme channel="tnt3" start="20250706153000 +0100" stop="20250706160000 +0100">
-    <title lang="en">WRC Mid-Season Review</title>
-    <desc lang="en">A mid-season review of the 2025 World Rally Championship, including events in Kenya, Italy and Monte Carlo.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f75d2f28-6666-497e-aa28-9af6110ebd2c/cover"/>
-    <episode-num system="xmltv_ns">24.18.0</episode-num>
-    <episode-num system="onscreen">S25E19</episode-num>
+    <title lang="en">Discovery Golf</title>
+    <desc lang="en">We preview the John Deere Classic and get some tips from Davis Thompson, who defends his title against the likes of Rickie Fowler, Max Homa and Tom Kim.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ebb7ed4d-05e7-4577-9c24-42a8b31279a2/cover"/>
   </programme>
   <programme channel="tnt3" start="20250706160000 +0100" stop="20250706170000 +0100">
     <title lang="en">Live: European Rally Championship</title>
-    <desc lang="en">Action from Special Stage 13 of Rally Rome and the 2025 European Rally Championship.</desc>
+    <desc lang="en">Action from Special Stage 13 of Rally di Roma Capitale and the 2025 European Rally Championship.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e29049af-d9f6-4009-a83a-23f15237214f/cover"/>
   </programme>
   <programme channel="tnt3" start="20250706170000 +0100" stop="20250706180000 +0100">
@@ -5227,7 +5231,7 @@
   </programme>
   <programme channel="tnt3" start="20250706180000 +0100" stop="20250706200000 +0100">
     <title lang="en">Live WNBA: Storm @ Liberty</title>
-    <desc lang="en">Action from the Women's National Basketball Association as Seattle Storm travel to face New York Liberty.</desc>
+    <desc lang="en">Action from the Women's National Basketball Association as Seattle Storm travel to face New York Liberty at the Barclays Center. The Storm beat Liberty 89-79 back in June.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/48f9843c-2f8f-4450-9791-a08ae2e37181/cover"/>
   </programme>
   <programme channel="tnt3" start="20250706200000 +0100" stop="20250706210000 +0100">
@@ -5247,12 +5251,12 @@
   </programme>
   <programme channel="tnt3" start="20250706220000 +0100" stop="20250706233000 +0100">
     <title lang="en">Wimbledon</title>
-    <desc lang="en">Highlights from Wimbledon. (06.07)</desc>
+    <desc lang="en">Highlights from day seven at Wimbledon, as the Round of 16 gets underway.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e0af02a2-a071-4a36-a095-593cc8840094/cover"/>
   </programme>
   <programme channel="tnt3" start="20250706233000 +0100" stop="20250707010000 +0100">
     <title lang="en">AFL: Sydney Swans v Fremantle</title>
-    <desc lang="en">Action from the Australian Football League as Sydney Swans face Fremantle.</desc>
+    <desc lang="en">Action from the Australian Football League as Sydney Swans face Fremantle at the SCG. Can the Dockers extend their winning streak to seven games?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d0478754-7cdb-493f-95b4-9ec4523c48a1/cover"/>
   </programme>
   <programme channel="tnt4" start="20250703210000 +0100" stop="20250704000000 +0100">
@@ -5346,7 +5350,7 @@
   <programme channel="tnt4" start="20250704170000 +0100" stop="20250704180000 +0100">
     <title lang="en">UTMB World Series Highlights</title>
     <desc lang="en">UTMB World Series highlights from the 2025 Salzburg Ultra Trail, taking participants through beautiful Austrian scenery and ending in the world-famous city of Mozart.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/8a201f60-65d8-4f1b-9d02-761aa85d3f69/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/8584de13-ac74-499a-8929-34d9c4beace3/cover"/>
   </programme>
   <programme channel="tnt4" start="20250704180000 +0100" stop="20250704183000 +0100">
     <title lang="en">TNT Sports Reload</title>
@@ -5374,24 +5378,20 @@
     <desc lang="en">AFL action as Carlton go head-to-head with Collingwood at the MCG. The Magpies have an opportunity to pick up another win and all but end their rival's season at the same time.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0d256fb5-6095-4b95-9384-37c98fb06a73/cover"/>
   </programme>
-  <programme channel="tnt4" start="20250704213000 +0100" stop="20250704230000 +0100">
-    <title lang="en">AFL: WC Eagles v GWS Giants</title>
-    <desc lang="en">AFL action as West Coast Eagles take on GWS Giants at Optus Stadium. Can finals hopefuls the Giants avoid a slip up against the bottom-placed Eagles?</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9b516e49-e5dd-489e-9bc7-f1fdb817a405/cover"/>
+  <programme channel="tnt4" start="20250704213000 +0100" stop="20250704223000 +0100">
+    <title lang="en">WRC Mid-Season Review</title>
+    <desc lang="en">A mid-season review of the 2025 World Rally Championship, including action from events in Kenya, Italy and Monte Carlo.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/bcfd5f06-b33b-4724-a542-898e0644a3c9/cover"/>
   </programme>
-  <programme channel="tnt4" start="20250704230000 +0100" stop="20250704233000 +0100">
-    <title lang="en">Manchester City v Tottenham</title>
-    <desc lang="en">Relive Man City and Tottenham's 2018/19 Champions League quarter-final. Seven goals, five of them coming in 17 pulsating minutes, and late VAR drama, made this a classic.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/02fda3ab-4fd1-4bd9-854c-b7053ee407c5/cover"/>
-    <episode-num system="xmltv_ns">2017.173.0</episode-num>
-    <episode-num system="onscreen">S2018E174</episode-num>
+  <programme channel="tnt4" start="20250704223000 +0100" stop="20250704233000 +0100">
+    <title lang="en">UTMB World Series Highlights</title>
+    <desc lang="en">UTMB World Series highlights from the 2025 Salzburg Ultra Trail, taking participants through beautiful Austrian scenery and ending in the world-famous city of Mozart.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8a201f60-65d8-4f1b-9d02-761aa85d3f69/cover"/>
   </programme>
   <programme channel="tnt4" start="20250704233000 +0100" stop="20250705000000 +0100">
-    <title lang="en">Ajax v Tottenham 2018/19</title>
-    <desc lang="en">Revisit Tottenham's sensational UEFA Champions League semi-final second leg with Ajax at the Amsterdam Arena. Spurs' final hopes hung in the balance after a 1-0 first-leg defeat.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/be1c92fb-7b0d-4bf9-86d1-34eb943ceb88/cover"/>
-    <episode-num system="xmltv_ns">2017.178.0</episode-num>
-    <episode-num system="onscreen">S2018E179</episode-num>
+    <title lang="en">Manchester City v Tottenham</title>
+    <desc lang="en">Relive Man City and Tottenham's 2018/19 Champions League quarter-final. Seven goals, five of them coming in 17 pulsating minutes, and late VAR drama, made this a classic.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/deec432a-c0e5-4909-b5cd-1d5656c73654/cover"/>
   </programme>
   <programme channel="tnt4" start="20250705000000 +0100" stop="20250705030000 +0100">
     <title lang="en">UFC 317 - Topuria vs Oliveira</title>
@@ -5431,7 +5431,7 @@
   </programme>
   <programme channel="tnt4" start="20250705080000 +0100" stop="20250705093000 +0100">
     <title lang="en">Wimbledon</title>
-    <desc lang="en">Highlights from day five at Wimbledon.</desc>
+    <desc lang="en">Highlights from day five at Wimbledon, as Britain's Emma Raducanu faced world no.1 Aryna Sabalenka. Plus, Carlos Alcaraz and Cameron Norrie were in third round action.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/45decd06-5e6f-48b6-a795-1cbc6425356c/cover"/>
   </programme>
   <programme channel="tnt4" start="20250705093000 +0100" stop="20250705110000 +0100">
@@ -5478,40 +5478,30 @@
     <desc lang="en">Highlights from the opening stage of the 2025 Tour de France, as the riders set off on a 184km route around Lille Metropole.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8e1624be-76f1-4fe7-9709-0fac08ecd8c0/cover"/>
   </programme>
-  <programme channel="tnt4" start="20250705210000 +0100" stop="20250705223000 +0100">
+  <programme channel="tnt4" start="20250705210000 +0100" stop="20250706001500 +0100">
+    <title lang="en">Live MLB: Yankees @ Mets</title>
+    <desc lang="en">Action from Major League Baseball as New York Yankees face New York Mets in the second contest of this three-game Subway Series at Citi Field.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7ac43ced-e41b-46af-9f8c-5ef563f8ccda/cover"/>
+  </programme>
+  <programme channel="tnt4" start="20250706001500 +0100" stop="20250706014500 +0100">
     <title lang="en">AFL: Essendon v Gold Coast Suns</title>
     <desc lang="en">Action from the Australian Football League as Essendon face Gold Coast Suns at Marvel Stadium. Can the injury-hit Bombers put a dent in the Suns' top-eight push?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8c478066-b35b-493a-aedc-ecfc5c410f69/cover"/>
   </programme>
-  <programme channel="tnt4" start="20250705223000 +0100" stop="20250706000000 +0100">
+  <programme channel="tnt4" start="20250706014500 +0100" stop="20250706031500 +0100">
     <title lang="en">AFL: Geelong Cats v Richmond</title>
     <desc lang="en">Action from the Australian Football League as Geelong Cats take on Richmond at GMHBA Stadium. The Tigers have not won on the Cats' home deck since 2006.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3d34ded6-d568-4207-90a1-7945cf8f6613/cover"/>
   </programme>
-  <programme channel="tnt4" start="20250706000000 +0100" stop="20250706013000 +0100">
+  <programme channel="tnt4" start="20250706031500 +0100" stop="20250706044500 +0100">
     <title lang="en">AFL: St Kilda v Hawthorn</title>
-    <desc lang="en">AFL action between St Kilda and Hawthorn at Marvel Stadium.</desc>
+    <desc lang="en">AFL action between St Kilda and Hawthorn at Marvel Stadium. The Hawks have not lost at this venue for almost two years.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e849c50c-6291-4eb7-aba8-312affbd375d/cover"/>
   </programme>
-  <programme channel="tnt4" start="20250706013000 +0100" stop="20250706020000 +0100">
-    <title lang="en">Henley Royal Regatta Highlights</title>
-    <desc lang="en">Highlights from day five of the 2025 Henley Royal Regatta, including the semi-finals of the Grand Challenge Cup, Remenham Challenge Cup and Princess Royal Challenge Cup.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/945fa285-a4c3-4bdb-ac74-c762fbb917d9/cover"/>
-  </programme>
-  <programme channel="tnt4" start="20250706020000 +0100" stop="20250706033000 +0100">
-    <title lang="en">Story of the Premiership</title>
-    <desc lang="en">A look back at the story of the 2024/25 Gallagher Premiership Rugby season, as Bath claimed the title for the first time since 1996.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0d7499ca-5cf7-44b0-ad59-d9ebbe138806/cover"/>
-  </programme>
-  <programme channel="tnt4" start="20250706033000 +0100" stop="20250706043000 +0100">
-    <title lang="en">Tour de France Highlights Stage 1</title>
-    <desc lang="en">Highlights from the opening stage of the 2025 Tour de France, as the riders set off on a 184km route around Lille Metropole.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/8e1624be-76f1-4fe7-9709-0fac08ecd8c0/cover"/>
-  </programme>
-  <programme channel="tnt4" start="20250706043000 +0100" stop="20250706050000 +0100">
-    <title lang="en">British Superbikes</title>
-    <desc lang="en">Action from race one of the fourth round of the 2025 British Superbike Championship, taking place at Knockhill Racing Circuit in Scotland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/ce9565f5-aae7-4299-bb73-647a41a931a8/cover"/>
+  <programme channel="tnt4" start="20250706044500 +0100" stop="20250706050000 +0100">
+    <title lang="en">MotoGP Rewind: Netherlands 2025</title>
+    <desc lang="en">A look back at the best action from the 2025 Grand Prix of Netherlands at the iconic TT Circuit Assen, as title-chasing Marc Marquez looked for a 68th MotoGP victory.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/42cceef3-a725-4fab-abf9-a7aa83e0f3dc/cover"/>
   </programme>
   <programme channel="tnt4" start="20250706050000 +0100" stop="20250706060000 +0100">
     <title lang="en">MotoGP Highlights: Netherlands</title>
@@ -5520,7 +5510,7 @@
   </programme>
   <programme channel="tnt4" start="20250706060000 +0100" stop="20250706073000 +0100">
     <title lang="en">Crystal Palace v Liverpool</title>
-    <desc lang="en">Action from the Premier League as Crystal Palace face Liverpool at Selhurst Park.</desc>
+    <desc lang="en">Action from the Premier League as Crystal Palace face Liverpool at Selhurst Park. Could Arne Slot's side extend their lead at the top of the table?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1998730d-8640-3620-922c-c00649e26567/cover"/>
     <episode-num system="xmltv_ns">2022.524.0</episode-num>
     <episode-num system="onscreen">S2023E525</episode-num>
@@ -5534,7 +5524,7 @@
   </programme>
   <programme channel="tnt4" start="20250706090000 +0100" stop="20250706103000 +0100">
     <title lang="en">Luton Town v Chelsea</title>
-    <desc lang="en">Action from the Premier League as Luton Town host Chelsea at Kenilworth Road.</desc>
+    <desc lang="en">Action from the Premier League as Luton Town face Chelsea at Kenilworth Road. This five-goal thriller saw the Hatters give the Blues an almighty scare.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e5cb9304-81d3-38ca-a842-0784a71d1ed7/cover"/>
     <episode-num system="xmltv_ns">2022.566.0</episode-num>
     <episode-num system="onscreen">S2023E567</episode-num>
@@ -5587,7 +5577,7 @@
   </programme>
   <programme channel="tnt4" start="20250706210000 +0100" stop="20250707001500 +0100">
     <title lang="en">Live MLB: Astros @ Dodgers</title>
-    <desc lang="en">Action from Major League Baseball as Houston Astros face Los Angeles Dodgers.</desc>
+    <desc lang="en">Action from Major League Baseball as Houston Astros face Los Angeles Dodgers in the third and final contest of this three-game series at Dodger Stadium.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7c11926a-7ee6-474e-aad3-f827bfd575a3/cover"/>
   </programme>
   <programme channel="4seven.uk" start="20250703220000 +0100" stop="20250703230500 +0100">
@@ -6895,7 +6885,7 @@
     <episode-num system="onscreen">S4E1</episode-num>
   </programme>
   <programme channel="5Select.uk" start="20250705190000 +0100" stop="20250705200000 +0100">
-    <title lang="en">New; World War II: Secrets From...</title>
+    <title lang="en">World War II: Secrets From Above</title>
     <desc lang="en">In 1942, Hitler wants revenge for the relentless bombing of German cities; in a secret research facility, his scientists are developing the world's first cruise and ballistic missiles.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b17d81d5-d27e-3b3f-90e5-4f4147de1f81/cover"/>
     <episode-num system="xmltv_ns">0.1.0</episode-num>
@@ -10217,6 +10207,9 @@
     <title lang="en">This is BBC Four</title>
     <desc lang="en">Programmes start at 7.00pm.</desc>
   </programme>
+  <programme channel="BBCFourHD.uk" start="20250705053000 +0100" stop="20250705113000 +0100">
+    <title lang="en">..programmes start at 7.00pm</title>
+  </programme>
   <programme channel="BBCFourHD.uk" start="20250705113000 +0100" stop="20250705173000 +0100">
     <title lang="en">..programmes start at 7.00pm</title>
   </programme>
@@ -10589,7 +10582,7 @@
   </programme>
   <programme channel="BBCNews.uk" start="20250704233000 +0100" stop="20250705000000 +0100">
     <title lang="en">The President's Path</title>
-    <desc lang="en">Join Caitríona Perry and Sumi Somaskanda for a dynamic weekly discussion on the US presidency.</desc>
+    <desc lang="en">President Trump tours 'Alligator Alcatraz' immigration detention centre in Florida.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0fa9733e-9d7e-4adb-ae87-9fd83522f29b/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20250705000000 +0100" stop="20250705003000 +0100">
@@ -10609,7 +10602,7 @@
   </programme>
   <programme channel="BBCNews.uk" start="20250705013000 +0100" stop="20250705020000 +0100">
     <title lang="en">Tech Now</title>
-    <desc lang="en">Ione Wells explores how tech is helping Chile's kidnapped children trace their birth families. Alasdair Keane meets the Rotterdam start-up producing a greener alternative to cement.</desc>
+    <desc lang="en">Ione Wells explores the search for Chile's stolen children, decades after they were taken during the country's military dictatorship, and asks if tech can help families find answers.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f90c032b-e0a7-4c14-900a-48044255e5a1/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20250705020000 +0100" stop="20250705023000 +0100">
@@ -10631,7 +10624,7 @@
   </programme>
   <programme channel="BBCNews.uk" start="20250705033000 +0100" stop="20250705040000 +0100">
     <title lang="en">Ukrainecast</title>
-    <desc lang="en">In-depth coverage and analysis of the ongoing war in Ukraine.</desc>
+    <desc lang="en">Your questions answered as Washington pauses arms deliveries.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/39dd18f0-d153-41e0-8c7c-b52498508ebc/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20250705040000 +0100" stop="20250705043000 +0100">
@@ -10641,7 +10634,7 @@
   </programme>
   <programme channel="BBCNews.uk" start="20250705043000 +0100" stop="20250705050000 +0100">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+    <desc lang="en">Gaza documentary pulled by BBC over impartiality concerns; Glastonbury coverage criticised; Tim Franks speaks on bias and identity; Formula One's media legacy and missing archive revisited.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/05785425-fdc5-4a7e-8421-5fbe367b3951/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20250705050000 +0100" stop="20250705053000 +0100">
@@ -10711,7 +10704,7 @@
   </programme>
   <programme channel="BBCNews.uk" start="20250705143000 +0100" stop="20250705150000 +0100">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.</desc>
+    <desc lang="en">How long will it take before we reach Artificial General Intelligence (AGI)? The moment an AI can reason independently, invent new concepts, and adapt as flexibly as we do.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9a0e0b55-11c2-4513-9908-45629c9be238/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20250705150000 +0100" stop="20250705153000 +0100">
@@ -10736,13 +10729,18 @@
   </programme>
   <programme channel="BBCNews.uk" start="20250705163000 +0100" stop="20250705170000 +0100">
     <title lang="en">Ukrainecast</title>
-    <desc lang="en">In-depth coverage and analysis of the ongoing war in Ukraine.</desc>
+    <desc lang="en">Your questions answered as Washington pauses arms deliveries.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/39dd18f0-d153-41e0-8c7c-b52498508ebc/cover"/>
   </programme>
-  <programme channel="BBCNews.uk" start="20250705170000 +0100" stop="20250705180000 +0100">
+  <programme channel="BBCNews.uk" start="20250705170000 +0100" stop="20250705173000 +0100">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/42832f98-2dac-41ec-a4dd-50644fb51d0f/cover"/>
+  </programme>
+  <programme channel="BBCNews.uk" start="20250705173000 +0100" stop="20250705180000 +0100">
+    <title lang="en">Political Thinking with Nick Robinson</title>
+    <desc lang="en">The prime minister sits down with Nick Robinson in Downing Street to mark a year in power.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/9edd2ad0-0265-4bbd-9b7d-33f432bc7785/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20250705180000 +0100" stop="20250705183000 +0100">
     <title lang="en">BBC News</title>
@@ -10803,7 +10801,7 @@
   </programme>
   <programme channel="BBCNews.uk" start="20250706003000 +0100" stop="20250706010000 +0100">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+    <desc lang="en">Gaza documentary pulled by BBC over impartiality concerns; Glastonbury coverage criticised; Tim Franks speaks on bias and identity; Formula One's media legacy and missing archive revisited.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/05785425-fdc5-4a7e-8421-5fbe367b3951/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20250706010000 +0100" stop="20250706013000 +0100">
@@ -10835,7 +10833,7 @@
   </programme>
   <programme channel="BBCNews.uk" start="20250706033000 +0100" stop="20250706040000 +0100">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.</desc>
+    <desc lang="en">How long will it take before we reach Artificial General Intelligence (AGI)? The moment an AI can reason independently, invent new concepts, and adapt as flexibly as we do.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9a0e0b55-11c2-4513-9908-45629c9be238/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20250706040000 +0100" stop="20250706043000 +0100">
@@ -10855,7 +10853,7 @@
   </programme>
   <programme channel="BBCNews.uk" start="20250706053000 +0100" stop="20250706060000 +0100">
     <title lang="en">Tech Now</title>
-    <desc lang="en">Ione Wells explores how tech is helping Chile's kidnapped children trace their birth families. Alasdair Keane meets the Rotterdam start-up producing a greener alternative to cement.</desc>
+    <desc lang="en">Ione Wells explores the search for Chile's stolen children, decades after they were taken during the country's military dictatorship, and asks if tech can help families find answers.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f90c032b-e0a7-4c14-900a-48044255e5a1/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20250706060000 +0100" stop="20250706090000 +0100">
@@ -10887,7 +10885,7 @@
   </programme>
   <programme channel="BBCNews.uk" start="20250706113000 +0100" stop="20250706120000 +0100">
     <title lang="en">The President's Path</title>
-    <desc lang="en">Join Caitríona Perry and Sumi Somaskanda for a dynamic weekly discussion on the US presidency.</desc>
+    <desc lang="en">President Trump tours 'Alligator Alcatraz' immigration detention centre in Florida.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0fa9733e-9d7e-4adb-ae87-9fd83522f29b/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20250706120000 +0100" stop="20250706123000 +0100">
@@ -10917,7 +10915,7 @@
   </programme>
   <programme channel="BBCNews.uk" start="20250706143000 +0100" stop="20250706150000 +0100">
     <title lang="en">Tech Now</title>
-    <desc lang="en">Ione Wells explores how tech is helping Chile's kidnapped children trace their birth families. Alasdair Keane meets the Rotterdam start-up producing a greener alternative to cement.</desc>
+    <desc lang="en">Ione Wells explores the search for Chile's stolen children, decades after they were taken during the country's military dictatorship, and asks if tech can help families find answers.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f90c032b-e0a7-4c14-900a-48044255e5a1/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20250706150000 +0100" stop="20250706153000 +0100">
@@ -10972,7 +10970,7 @@
   </programme>
   <programme channel="BBCNews.uk" start="20250706203000 +0100" stop="20250706210000 +0100">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.</desc>
+    <desc lang="en">How long will it take before we reach Artificial General Intelligence (AGI)? The moment an AI can reason independently, invent new concepts, and adapt as flexibly as we do.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9a0e0b55-11c2-4513-9908-45629c9be238/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20250706210000 +0100" stop="20250706220000 +0100">
@@ -10997,7 +10995,7 @@
   </programme>
   <programme channel="BBCNews.uk" start="20250706233000 +0100" stop="20250707000000 +0100">
     <title lang="en">Ukrainecast</title>
-    <desc lang="en">In-depth coverage and analysis of the ongoing war in Ukraine.</desc>
+    <desc lang="en">Your questions answered as Washington pauses arms deliveries.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/39dd18f0-d153-41e0-8c7c-b52498508ebc/cover"/>
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20250703224000 +0100" stop="20250703234000 +0100">
@@ -11043,7 +11041,7 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20250704093000 +0100" stop="20250704104500 +0100">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rav Wilding and Gaby Roslin discuss a drop in car insurance costs with Louise Minchin. Dr Kiran Morjaria has advice for weight loss jabs, and gardener Mark Lane is back for Grow Along Live!</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b6a1afd0-9d5f-4eaf-94f2-734f54754a87/cover"/>
     <episode-num system="xmltv_ns">6.52.0</episode-num>
     <episode-num system="onscreen">S7E53</episode-num>
@@ -11369,7 +11367,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20250704093000 +0100" stop="20250704104500 +0100">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rav Wilding and Gaby Roslin discuss a drop in car insurance costs with Louise Minchin. Dr Kiran Morjaria has advice for weight loss jabs, and gardener Mark Lane is back for Grow Along Live!</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b6a1afd0-9d5f-4eaf-94f2-734f54754a87/cover"/>
     <episode-num system="xmltv_ns">6.52.0</episode-num>
     <episode-num system="onscreen">S7E53</episode-num>
@@ -11695,7 +11693,7 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20250704093000 +0100" stop="20250704104500 +0100">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rav Wilding and Gaby Roslin discuss a drop in car insurance costs with Louise Minchin. Dr Kiran Morjaria has advice for weight loss jabs, and gardener Mark Lane is back for Grow Along Live!</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b6a1afd0-9d5f-4eaf-94f2-734f54754a87/cover"/>
     <episode-num system="xmltv_ns">6.52.0</episode-num>
     <episode-num system="onscreen">S7E53</episode-num>
@@ -12021,7 +12019,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20250704093000 +0100" stop="20250704104500 +0100">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rav Wilding and Gaby Roslin discuss a drop in car insurance costs with Louise Minchin. Dr Kiran Morjaria has advice for weight loss jabs, and gardener Mark Lane is back for Grow Along Live!</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b6a1afd0-9d5f-4eaf-94f2-734f54754a87/cover"/>
     <episode-num system="xmltv_ns">6.52.0</episode-num>
     <episode-num system="onscreen">S7E53</episode-num>
@@ -12347,7 +12345,7 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20250704093000 +0100" stop="20250704104500 +0100">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rav Wilding and Gaby Roslin discuss a drop in car insurance costs with Louise Minchin. Dr Kiran Morjaria has advice for weight loss jabs, and gardener Mark Lane is back for Grow Along Live!</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b6a1afd0-9d5f-4eaf-94f2-734f54754a87/cover"/>
     <episode-num system="xmltv_ns">6.52.0</episode-num>
     <episode-num system="onscreen">S7E53</episode-num>
@@ -12673,7 +12671,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20250704093000 +0100" stop="20250704104500 +0100">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rav Wilding and Gaby Roslin discuss a drop in car insurance costs with Louise Minchin. Dr Kiran Morjaria has advice for weight loss jabs, and gardener Mark Lane is back for Grow Along Live!</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b6a1afd0-9d5f-4eaf-94f2-734f54754a87/cover"/>
     <episode-num system="xmltv_ns">6.52.0</episode-num>
     <episode-num system="onscreen">S7E53</episode-num>
@@ -13001,7 +12999,7 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20250704093000 +0100" stop="20250704104500 +0100">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rav Wilding and Gaby Roslin discuss a drop in car insurance costs with Louise Minchin. Dr Kiran Morjaria has advice for weight loss jabs, and gardener Mark Lane is back for Grow Along Live!</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b6a1afd0-9d5f-4eaf-94f2-734f54754a87/cover"/>
     <episode-num system="xmltv_ns">6.52.0</episode-num>
     <episode-num system="onscreen">S7E53</episode-num>
@@ -13327,7 +13325,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20250704093000 +0100" stop="20250704104500 +0100">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rav Wilding and Gaby Roslin discuss a drop in car insurance costs with Louise Minchin. Dr Kiran Morjaria has advice for weight loss jabs, and gardener Mark Lane is back for Grow Along Live!</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b6a1afd0-9d5f-4eaf-94f2-734f54754a87/cover"/>
     <episode-num system="xmltv_ns">6.52.0</episode-num>
     <episode-num system="onscreen">S7E53</episode-num>
@@ -13655,7 +13653,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20250704093000 +0100" stop="20250704104500 +0100">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rav Wilding and Gaby Roslin discuss a drop in car insurance costs with Louise Minchin. Dr Kiran Morjaria has advice for weight loss jabs, and gardener Mark Lane is back for Grow Along Live!</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b6a1afd0-9d5f-4eaf-94f2-734f54754a87/cover"/>
     <episode-num system="xmltv_ns">6.52.0</episode-num>
     <episode-num system="onscreen">S7E53</episode-num>
@@ -13981,7 +13979,7 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20250704093000 +0100" stop="20250704104500 +0100">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rav Wilding and Gaby Roslin discuss a drop in car insurance costs with Louise Minchin. Dr Kiran Morjaria has advice for weight loss jabs, and gardener Mark Lane is back for Grow Along Live!</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b6a1afd0-9d5f-4eaf-94f2-734f54754a87/cover"/>
     <episode-num system="xmltv_ns">6.52.0</episode-num>
     <episode-num system="onscreen">S7E53</episode-num>
@@ -14307,7 +14305,7 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20250704093000 +0100" stop="20250704104500 +0100">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rav Wilding and Gaby Roslin discuss a drop in car insurance costs with Louise Minchin. Dr Kiran Morjaria has advice for weight loss jabs, and gardener Mark Lane is back for Grow Along Live!</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b6a1afd0-9d5f-4eaf-94f2-734f54754a87/cover"/>
     <episode-num system="xmltv_ns">6.52.0</episode-num>
     <episode-num system="onscreen">S7E53</episode-num>
@@ -14633,7 +14631,7 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20250704093000 +0100" stop="20250704104500 +0100">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rav Wilding and Gaby Roslin discuss a drop in car insurance costs with Louise Minchin. Dr Kiran Morjaria has advice for weight loss jabs, and gardener Mark Lane is back for Grow Along Live!</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b6a1afd0-9d5f-4eaf-94f2-734f54754a87/cover"/>
     <episode-num system="xmltv_ns">6.52.0</episode-num>
     <episode-num system="onscreen">S7E53</episode-num>
@@ -14985,7 +14983,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20250704093000 +0100" stop="20250704104500 +0100">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rav Wilding and Gaby Roslin discuss a drop in car insurance costs with Louise Minchin. Dr Kiran Morjaria has advice for weight loss jabs, and gardener Mark Lane is back for Grow Along Live!</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b6a1afd0-9d5f-4eaf-94f2-734f54754a87/cover"/>
     <episode-num system="xmltv_ns">6.52.0</episode-num>
     <episode-num system="onscreen">S7E53</episode-num>
@@ -15311,7 +15309,7 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20250704093000 +0100" stop="20250704104500 +0100">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rav Wilding and Gaby Roslin discuss a drop in car insurance costs with Louise Minchin. Dr Kiran Morjaria has advice for weight loss jabs, and gardener Mark Lane is back for Grow Along Live!</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b6a1afd0-9d5f-4eaf-94f2-734f54754a87/cover"/>
     <episode-num system="xmltv_ns">6.52.0</episode-num>
     <episode-num system="onscreen">S7E53</episode-num>
@@ -15637,7 +15635,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20250704093000 +0100" stop="20250704104500 +0100">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rav Wilding and Gaby Roslin discuss a drop in car insurance costs with Louise Minchin. Dr Kiran Morjaria has advice for weight loss jabs, and gardener Mark Lane is back for Grow Along Live!</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b6a1afd0-9d5f-4eaf-94f2-734f54754a87/cover"/>
     <episode-num system="xmltv_ns">6.52.0</episode-num>
     <episode-num system="onscreen">S7E53</episode-num>
@@ -15963,7 +15961,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20250704093000 +0100" stop="20250704104500 +0100">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rav Wilding and Gaby Roslin discuss a drop in car insurance costs with Louise Minchin. Dr Kiran Morjaria has advice for weight loss jabs, and gardener Mark Lane is back for Grow Along Live!</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b6a1afd0-9d5f-4eaf-94f2-734f54754a87/cover"/>
     <episode-num system="xmltv_ns">6.52.0</episode-num>
     <episode-num system="onscreen">S7E53</episode-num>
@@ -16306,189 +16304,205 @@
     <desc lang="en">Coverage of proceedings in the House of Commons including the debate on the remaining stages of the Animal Welfare (Import of Dogs, Cats and Ferrets) Bill, on Friday 4 July.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/53807ea3-c4d8-47cb-a37b-0026c19db25d/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250704150000 +0100" stop="20250704153000 +0100">
+  <programme channel="BBCParliament.uk" start="20250704150000 +0100" stop="20250704150500 +0100">
     <title lang="en">House of Lords - Mortgage Prisoners Inquiry Bill</title>
     <desc lang="en">Business in the House of Lords including the debate on the third reading of the Mortgage Prisoners Inquiry Bill, on Friday 4 July.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/34800369-681c-4e91-9fd1-d13dbebbf045/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250704153000 +0100" stop="20250704170000 +0100">
-    <title lang="en">House of Lords - UK Constitution Debate</title>
-    <desc lang="en">Coverage of the debate on the report from the Lords Constitution committee.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0b2090be-418b-4644-96e5-8f7b8bf48241/cover"/>
+  <programme channel="BBCParliament.uk" start="20250704150500 +0100" stop="20250704165500 +0100">
+    <title lang="en">House of Lords - UK...</title>
+    <desc lang="en">...Constitution Debate, Part 1. The debate on 'executive oversight and responsibility for the UK constitution'.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/22aba515-83f8-4e1b-837a-f55acdaf5d39/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250704170000 +0100" stop="20250704183000 +0100">
+  <programme channel="BBCParliament.uk" start="20250704165500 +0100" stop="20250704174500 +0100">
+    <title lang="en">House of Lords - UK...</title>
+    <desc lang="en">...Constitution Debate, Part 2. The debate on 'executive oversight and responsibility for the UK constitution'.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/bb6cd7fe-cfd5-473e-9947-4ef8b8a6599a/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20250704174500 +0100" stop="20250704183500 +0100">
     <title lang="en">House of Lords - Still-Birth (Definition) Bill</title>
     <desc lang="en">Coverage of the debate in the House of Lords on the second reading of the Still-Birth (Definition) Bill, on Friday 4 July.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5c992525-7094-44b3-80fd-bc0bbc80b0f6/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250704183000 +0100" stop="20250704195000 +0100">
+  <programme channel="BBCParliament.uk" start="20250704183500 +0100" stop="20250704203500 +0100">
     <title lang="en">Lords - Imprisonment for Public...</title>
     <desc lang="en">...Protection (Resentencing) Bill. Coverage of the debate in the House of Lords on the committee stage of the Imprisonment for Public Protection (Resentencing) Bill, on Friday 4 July.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b0ad6ea2-99de-4483-b77f-5aac13beb5b7/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250704195000 +0100" stop="20250704220000 +0100">
+  <programme channel="BBCParliament.uk" start="20250704203500 +0100" stop="20250704224500 +0100">
     <title lang="en">Defence Select Committee with John Healey</title>
     <desc lang="en">Coverage of the defence select committee session with evidence from the defence secretary, John Healey, from Wednesday 3 July.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0313cd2e-f182-43bd-90a9-59a6bba26727/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250704220000 +0100" stop="20250704230500 +0100">
+  <programme channel="BBCParliament.uk" start="20250704224500 +0100" stop="20250704235000 +0100">
     <title lang="en">Welsh First Minister's Questions</title>
     <desc lang="en">Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesday 1 July.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/17457a6d-103b-467a-9328-cc8738500cd3/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250704230500 +0100" stop="20250704234000 +0100">
+  <programme channel="BBCParliament.uk" start="20250704235000 +0100" stop="20250705002500 +0100">
     <title lang="en">Senedd Cymru - Welsh Parliament - Children's Oral Health</title>
     <desc lang="en">Coverage of the statement in the Senedd, the Welsh Parliament, on children's oral health in Wales, from Tuesday 1 July.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/51f89d96-191f-4cd0-b320-38cc179adc24/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250704234000 +0100" stop="20250705001500 +0100">
+  <programme channel="BBCParliament.uk" start="20250705002500 +0100" stop="20250705010500 +0100">
     <title lang="en">Senedd Cymru - Welsh Parliament - 2026-27 Budget</title>
     <desc lang="en">Coverage of the statement in the Senedd, the Welsh Parliament, on the approach to the 2026-27 budget, from Tuesday 1 July.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1c20b99a-2be2-499d-ad29-d484d8cab86e/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250705001500 +0100" stop="20250705011000 +0100">
+  <programme channel="BBCParliament.uk" start="20250705010500 +0100" stop="20250705020000 +0100">
     <title lang="en">Senedd Cymru - Welsh Parliament...</title>
     <desc lang="en">...- Transport and North Wales Questions. Coverage of questions in the Senedd, the Welsh Parliament, to the cabinet secretary for transport and North Wales, from Tuesday 1 July.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/cc382f6c-2331-4c5b-8df1-eb14dc8b5d85/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250705011000 +0100" stop="20250705020500 +0100">
+  <programme channel="BBCParliament.uk" start="20250705020000 +0100" stop="20250705025000 +0100">
     <title lang="en">Senedd Cymru - Welsh Parliament...</title>
     <desc lang="en">...- Social Justice Questions. Coverage of questions in the Senedd, the Welsh Parliament, to the cabinet secretary for social justice, Jane Hutt, from Tuesday 1 July.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/11162315-1e79-499d-bbd4-63be54e6ad16/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250705020500 +0100" stop="20250705023000 +0100">
+  <programme channel="BBCParliament.uk" start="20250705025000 +0100" stop="20250705031500 +0100">
     <title lang="en">Senedd Cymru - Welsh Parliament - Brain Tissue Debate</title>
     <desc lang="en">Coverage of the debate in the Senedd, the Welsh Parliament, on 'Owain's law' on the handling, use and storage of brain tissue, from Tuesday 1 July.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/cf70cb01-6df0-43a7-ac9c-c9628f7aaa8e/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250705023000 +0100" stop="20250705031000 +0100">
+  <programme channel="BBCParliament.uk" start="20250705031500 +0100" stop="20250705035500 +0100">
     <title lang="en">Senedd Cymru - Welsh Parliament...</title>
     <desc lang="en">...- Holyhead Harbour Storm Damage. Coverage of the debate in the Senedd, the Welsh Parliament, on the report on storm damage to Holyhead harbour, from Tuesday 1 July.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/afa3be32-07eb-4699-9bcd-f59c4e865c7d/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250705031000 +0100" stop="20250705035500 +0100">
+  <programme channel="BBCParliament.uk" start="20250705035500 +0100" stop="20250705044500 +0100">
     <title lang="en">Northern Ireland Assembly -...</title>
     <desc lang="en">...Agriculture and Environment Questions. Coverage of questions in Stormont to the agriculture, environment and rural affairs minister Andrew Muir, on Monday 30 June.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c2e50baa-9704-4829-b678-c1b1f359e2c5/cover"/>
-  </programme>
-  <programme channel="BBCParliament.uk" start="20250705035500 +0100" stop="20250705043500 +0100">
-    <title lang="en">Northern Ireland Assembly - Communities Questions</title>
-    <desc lang="en">Coverage of questions in Stormont to the communities minister, Gordon Lyons, on Monday 30 June.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/cee3ca63-8e48-44aa-a80f-a68842860932/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20250705043500 +0100" stop="20250705052000 +0100">
     <title lang="en">Northern Ireland Assembly - Agriculture Bill</title>
     <desc lang="en">Coverage of the debate in the Northern Ireland Assembly in Stormont on the final stage of the Agriculture Bill, from Monday 30 June.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/48df3cf9-3bb5-4078-b028-869d092e3709/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250705052000 +0100" stop="20250705055500 +0100">
+  <programme channel="BBCParliament.uk" start="20250705044500 +0100" stop="20250705052500 +0100">
+    <title lang="en">Northern Ireland Assembly - Communities Questions</title>
+    <desc lang="en">Coverage of questions in Stormont to the communities minister, Gordon Lyons, on Monday 30 June.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/cee3ca63-8e48-44aa-a80f-a68842860932/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20250705052500 +0100" stop="20250705060000 +0100">
     <title lang="en">Northern Ireland Assembly -...</title>
     <desc lang="en">...North South Ministerial Council Statement. Coverage of the statement on the latest meeting of the North South Ministerial Council.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6bb6173e-5eae-4f3d-a3cf-cb9f28e5af5e/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250705055500 +0100" stop="20250705060000 +0100">
-    <title lang="en">This is BBC Parliament</title>
-    <desc lang="en">The top political and parliamentary stories from BBC News.</desc>
-  </programme>
-  <programme channel="BBCParliament.uk" start="20250705060000 +0100" stop="20250705110000 +0100">
+  <programme channel="BBCParliament.uk" start="20250705060000 +0100" stop="20250705101500 +0100">
     <title lang="en">Westminster Hall</title>
-    <desc lang="en">House of Commons proceedings in Westminster Hall from Tuesday 1 July.</desc>
+    <desc lang="en">Proceedings on 1 July, including debates on regulatory powers over the billing of the energy supply to businesses, the impact of ADHD on rehabilitation and reoffending in the prison system.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fe02c0ca-78c5-4126-a368-e85248e125dc/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20250705101500 +0100" stop="20250705110000 +0100">
+    <title lang="en">Glastonbury and the BBC Statement</title>
+    <desc lang="en">Coverage of the statement in the House of Commons by Lisa Nandy on the BBC's Glastonbury coverage and the live broadcast of Bob Vylan's performance, on Monday 30 June.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6b72e660-43cb-4327-ae8f-bde8e0706348/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20250705110000 +0100" stop="20250705113500 +0100">
     <title lang="en">Prime Minister's Questions</title>
     <desc lang="en">Coverage of questions in the House of Commons to Keir Starmer, the prime minister, on Wednesday 2 July.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8dad316b-2fb8-41b3-819f-3f71cf522dcd/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250705113500 +0100" stop="20250705122500 +0100">
+  <programme channel="BBCParliament.uk" start="20250705113500 +0100" stop="20250705124000 +0100">
     <title lang="en">Welsh First Minister's Questions</title>
     <desc lang="en">Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesday 1 July.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/17457a6d-103b-467a-9328-cc8738500cd3/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250705122500 +0100" stop="20250705131000 +0100">
+  <programme channel="BBCParliament.uk" start="20250705124000 +0100" stop="20250705133000 +0100">
     <title lang="en">Northern Ireland Assembly -...</title>
-    <desc lang="en">...Executive Office Questions. Coverage of questions in Stormont to the agriculture, environment and rural affairs minister Andrew Muir, on Monday 30 June.</desc>
+    <desc lang="en">...Agriculture, Environment and Rural Affairs. Coverage of questions in Stormont to the agriculture, environment and rural affairs minister Andrew Muir, on Monday 30 June.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c2e50baa-9704-4829-b678-c1b1f359e2c5/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250705131000 +0100" stop="20250705135500 +0100">
-    <title lang="en">House of Commons</title>
-    <desc lang="en">Coverage of a statement in the House of Commons.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/116f4474-d7d6-462d-9629-ed9bf6c57cf2/cover"/>
+  <programme channel="BBCParliament.uk" start="20250705133000 +0100" stop="20250705141500 +0100">
+    <title lang="en">Lords Questions - Monday</title>
+    <desc lang="en">Questions in the Lords covering deep-sea mining in international waters, the Index on Censorship and school libraries, and on the subsidised arts sector, on Monday 30 June.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/81ad466e-2258-41ea-ba63-390adcca65bd/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250705135500 +0100" stop="20250705144000 +0100">
-    <title lang="en">House of Lords</title>
-    <desc lang="en">Coverage of a statement in the House of Lords.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/fd30c04a-df9f-43de-8321-88ced88a3248/cover"/>
+  <programme channel="BBCParliament.uk" start="20250705141500 +0100" stop="20250705150000 +0100">
+    <title lang="en">Lords Questions - Tuesday</title>
+    <desc lang="en">Questions in the House of Lords to government ministers covering asylum hotels, a global treaty on plastic pollution, and on control over UK weapon systems, on Tuesday 1 July.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/e2f6b1ec-7d40-4301-9240-ca76182924e1/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250705144000 +0100" stop="20250705153000 +0100">
-    <title lang="en">Senedd Cymru - Welsh Parliament</title>
-    <desc lang="en">Coverage of a statement in the Welsh Parliament.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/77000034-3aba-4048-b504-9848344f2609/cover"/>
+  <programme channel="BBCParliament.uk" start="20250705150000 +0100" stop="20250705154500 +0100">
+    <title lang="en">Lords Questions - Wednesday</title>
+    <desc lang="en">Questions in the Lords covering the use of facial recognition technology by the police, and on the cost of the security door at Peers' entrance, on Wednesday 2 July.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/85254557-565a-40a1-87ac-7b33b353b260/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250705153000 +0100" stop="20250705161500 +0100">
-    <title lang="en">House of Commons</title>
-    <desc lang="en">Coverage of an urgent question in the House of Commons.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d0f673ff-7108-4e95-a20c-1b68649398da/cover"/>
+  <programme channel="BBCParliament.uk" start="20250705154500 +0100" stop="20250705163000 +0100">
+    <title lang="en">Lords Questions - Thursday</title>
+    <desc lang="en">Questions in the Lords covering the mitigation of job losses following the closure of Grangemouth oil refinery, on Thursday 3 July.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d1ab9cd4-7c5d-4ab3-a6d5-9e01a25472d4/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250705161500 +0100" stop="20250705170000 +0100">
-    <title lang="en">House of Lords</title>
-    <desc lang="en">Coverage of a debate in the House of Lords.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/aa57c636-187a-41b3-aba1-4ce9c1e8f6bc/cover"/>
+  <programme channel="BBCParliament.uk" start="20250705163000 +0100" stop="20250705180500 +0100">
+    <title lang="en">Proscribed Organisations Motion</title>
+    <desc lang="en">Debate in the House of Commons on a motion to proscribe three groups, including Palestine Action, as terrorist organisations, on Wednesday 2 July.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/edee823c-510b-4b61-8c0c-fb213cbed28e/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250705170000 +0100" stop="20250705180000 +0100">
-    <title lang="en">Senedd Cymru - Welsh Parliament</title>
-    <desc lang="en">Coverage of a debate in the Welsh Parliament.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/6f3d29d1-ee67-4a57-81cf-46109b375fb2/cover"/>
+  <programme channel="BBCParliament.uk" start="20250705180500 +0100" stop="20250705202000 +0100">
+    <title lang="en">Education Committee on SEND</title>
+    <desc lang="en">Coverage of the Education select committee session on the crisis in special educational needs and disabilities education, on Tuesday 1 July.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/58169314-67e8-484b-95d1-574962f11f6b/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250705180000 +0100" stop="20250706000500 +0100">
-    <title lang="en">Select Committees</title>
-    <desc lang="en">Recorded coverage of select committee proceedings.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/749de9d0-e7b6-44da-bdba-c9ada0fb29ed/cover"/>
+  <programme channel="BBCParliament.uk" start="20250705202000 +0100" stop="20250705222500 +0100">
+    <title lang="en">Health and Social Care Committee</title>
+    <desc lang="en">Coverage of the Health and Social Care select committee session on the 'first 1000 days of life', from Wednesday 2 July.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/9dfb3afe-72fd-412c-8e66-3eaf451d9a57/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250706000500 +0100" stop="20250706004000 +0100">
+  <programme channel="BBCParliament.uk" start="20250705222500 +0100" stop="20250705235000 +0100">
+    <title lang="en">Environmental Sustainability Committee</title>
+    <desc lang="en">Environmental Audit Committee session on environmental sustainability and housing growth, on Monday 30 June.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/2932ee5e-754b-4d79-ad1e-838a2e98d840/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20250705235000 +0100" stop="20250706002500 +0100">
     <title lang="en">Prime Minister's Questions</title>
     <desc lang="en">Coverage of questions in the House of Commons to Keir Starmer, the prime minister, on Wednesday 2 July.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8dad316b-2fb8-41b3-819f-3f71cf522dcd/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250706004000 +0100" stop="20250706013000 +0100">
+  <programme channel="BBCParliament.uk" start="20250706002500 +0100" stop="20250706013000 +0100">
     <title lang="en">Welsh First Minister's Questions</title>
     <desc lang="en">Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesday 1 July.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/17457a6d-103b-467a-9328-cc8738500cd3/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250706013000 +0100" stop="20250706023000 +0100">
+  <programme channel="BBCParliament.uk" start="20250706013000 +0100" stop="20250706023500 +0100">
     <title lang="en">Defence Questions</title>
     <desc lang="en">Coverage of questions in the House of Commons to John Healey, the defence secretary, and his team of ministers on Monday 30 June.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fb8e0f63-c375-4a7a-bae6-3ed8d126b0c9/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250706023000 +0100" stop="20250706033000 +0100">
+  <programme channel="BBCParliament.uk" start="20250706023500 +0100" stop="20250706034500 +0100">
     <title lang="en">Treasury Questions</title>
     <desc lang="en">Coverage of questions in the House of Commons to Rachel Reeves, the chancellor of the exchequer, and her team of ministers on Tuesday 1 July.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f56d8f51-dc16-4350-a2c7-ecc47ed30e22/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250706033000 +0100" stop="20250706040000 +0100">
+  <programme channel="BBCParliament.uk" start="20250706034500 +0100" stop="20250706041500 +0100">
     <title lang="en">Northern Ireland Office Questions</title>
     <desc lang="en">Coverage of questions in the House of Commons to Hilary Benn, the Northern Ireland secretary, and his team of ministers on Wednesday 2 July.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d07f71d8-22d4-46af-bcb3-f985639689b3/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250706040000 +0100" stop="20250706044000 +0100">
+  <programme channel="BBCParliament.uk" start="20250706041500 +0100" stop="20250706045500 +0100">
     <title lang="en">Culture, Media and Sport Questions</title>
     <desc lang="en">Coverage of questions in the House of Commons to Lisa Nandy, the culture, media and sport secretary, and her team of ministers on Thursday 3 July.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/303f811e-ad81-437e-84b3-725a1c4c2488/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250706044000 +0100" stop="20250706050000 +0100">
+  <programme channel="BBCParliament.uk" start="20250706045500 +0100" stop="20250706052000 +0100">
     <title lang="en">Commissioners Questions</title>
     <desc lang="en">Coverage of Commissioners Questions in the House of Commons, on Thursday 3 July.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4d164541-9ac9-44d4-8f7c-6657f37dbbea/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250706050000 +0100" stop="20250706060000 +0100">
-    <title lang="en">Commons Business Questions</title>
-    <desc lang="en">Coverage of the announcement of future Commons business and questions to Lucy Powell, the leader of the Commons, on Thursday 3 July.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e6ac6734-90b0-45cb-a4cc-ecae51e35c50/cover"/>
+  <programme channel="BBCParliament.uk" start="20250706052000 +0100" stop="20250706060000 +0100">
+    <title lang="en">House of Lords - Welfare Reform Statement</title>
+    <desc lang="en">Coverage of the statement by work and pensions minister Baroness Sherlock on the government's welfare reform plans, on Wednesday 2 July.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/aa62029e-8cca-4fe7-9bcd-6042fde3ca4a/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250706060000 +0100" stop="20250706110000 +0100">
+  <programme channel="BBCParliament.uk" start="20250706060000 +0100" stop="20250706103000 +0100">
     <title lang="en">Westminster Hall</title>
-    <desc lang="en">House of Commons proceedings in Westminster Hall from Wednesday 2 July.</desc>
+    <desc lang="en">Proceedings on 2 July, including debates on the impact of the Spending Review 2025 on Scotland, redress under the ECO 4 scheme, and the contribution of whistleblowers.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4880b4d7-d36e-4833-926a-a71ff8a008a7/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20250706103000 +0100" stop="20250706123000 +0100">
+    <title lang="en">Ten Year Health Plan for England Statement</title>
+    <desc lang="en">Coverage of the statement in the House of Commons by health secretary Wes Streeting on the government's ten year health plan for England, on Thursday 3 July.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f7200fb6-75d4-4ec2-8389-3ea59d792ec7/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20250706110000 +0100" stop="20250706114500 +0100">
     <title lang="en">House of Commons</title>
@@ -16500,10 +16514,10 @@
     <desc lang="en">Coverage of a statement in the House of Lords.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fd30c04a-df9f-43de-8321-88ced88a3248/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250706123000 +0100" stop="20250706132000 +0100">
-    <title lang="en">Senedd Cymru - Welsh Parliament</title>
-    <desc lang="en">Coverage of a statement in the Welsh Parliament.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/77000034-3aba-4048-b504-9848344f2609/cover"/>
+  <programme channel="BBCParliament.uk" start="20250706123000 +0100" stop="20250706143500 +0100">
+    <title lang="en">House of Lords - Proscription of Palestine Action</title>
+    <desc lang="en">Coverage of the motion in the House of Lords to proscribe Palestine Action and other groups under anti-terror law, on Thursday 3 July.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/bc8620e1-dbfc-4ab3-ae19-5200c75bfca1/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20250706132000 +0100" stop="20250706140500 +0100">
     <title lang="en">House of Commons</title>
@@ -16515,25 +16529,25 @@
     <desc lang="en">Coverage of a debate in the House of Lords.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/aa57c636-187a-41b3-aba1-4ce9c1e8f6bc/cover"/>
   </programme>
+  <programme channel="BBCParliament.uk" start="20250706143500 +0100" stop="20250706152500 +0100">
+    <title lang="en">Lords Questions - Monday</title>
+    <desc lang="en">Questions in the Lords covering deep-sea mining in international waters, the Index on Censorship and school libraries, and on the subsidised arts sector, on Monday 30 June.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/27dbe5ea-ae4e-4319-aef7-3e43e68ec695/cover"/>
+  </programme>
   <programme channel="BBCParliament.uk" start="20250706145000 +0100" stop="20250706155000 +0100">
     <title lang="en">Senedd Cymru - Welsh Parliament</title>
     <desc lang="en">Coverage of a debate in the Welsh Parliament.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6f3d29d1-ee67-4a57-81cf-46109b375fb2/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250706155000 +0100" stop="20250706162500 +0100">
+  <programme channel="BBCParliament.uk" start="20250706152500 +0100" stop="20250706160000 +0100">
     <title lang="en">Prime Minister's Questions</title>
     <desc lang="en">Coverage of questions in the House of Commons to Keir Starmer, the prime minister, on Wednesday 2 July.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8dad316b-2fb8-41b3-819f-3f71cf522dcd/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250706162500 +0100" stop="20250706171500 +0100">
+  <programme channel="BBCParliament.uk" start="20250706160000 +0100" stop="20250706170500 +0100">
     <title lang="en">Welsh First Minister's Questions</title>
     <desc lang="en">Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesday 1 July.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/17457a6d-103b-467a-9328-cc8738500cd3/cover"/>
-  </programme>
-  <programme channel="BBCParliament.uk" start="20250706171500 +0100" stop="20250706180000 +0100">
-    <title lang="en">Northern Ireland Assembly -...</title>
-    <desc lang="en">...Executive Office Questions. Coverage of questions in Stormont to the agriculture, environment and rural affairs minister Andrew Muir, on Monday 30 June.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c2e50baa-9704-4829-b678-c1b1f359e2c5/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20250706180000 +0100" stop="20250707000500 +0100">
     <title lang="en">Select Committees</title>
@@ -16573,7 +16587,7 @@
   </programme>
   <programme channel="BBCRedButton1.uk" start="20250704110000 +0100" stop="20250704213000 +0100">
     <title lang="en">Wimbledon - Day 5, Extra</title>
-    <desc lang="en">Continuous live coverage from the 2025 Championships at Wimbledon.</desc>
+    <desc lang="en">Nicolas Jarry takes on Joao Fonseca on No.2 Court.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b1d91d18-7f1d-480b-bddd-3e98637f9bfe/cover"/>
   </programme>
   <programme channel="BBCRedButton1.uk" start="20250704213000 +0100" stop="20250704230000 +0100">
@@ -16782,18 +16796,21 @@
     <icon src="https://images.metadata.sky.com/pd-image/f42d6ed8-b39e-40b5-8751-53551be664d4/cover"/>
   </programme>
   <programme channel="BBCScotland.uk" start="20250705191500 +0100" stop="20250705194500 +0100">
+    <title lang="en">Icons of Football</title>
+    <desc lang="en">3/6. How Rose Reilly became the only Scot to win the Mundialito 'World Cup', in the face of unfairness, sexism and misogyny.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/440e5b49-c843-4447-9a67-c435f89c71bc/cover"/>
+  </programme>
+  <programme channel="BBCScotland.uk" start="20250705194500 +0100" stop="20250705201500 +0100">
     <title lang="en">The Forest</title>
     <desc lang="en">Mark Bonnar narrates a series revealing the world of Galloway Forest. The programme follows three truckers as they track down, load and ferry timber to mills in the UK.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/641f33c6-0044-43c1-8d05-36509aab0b36/cover"/>
     <episode-num system="xmltv_ns">0.3.0</episode-num>
     <episode-num system="onscreen">S1E4</episode-num>
   </programme>
-  <programme channel="BBCScotland.uk" start="20250705194500 +0100" stop="20250705204500 +0100">
-    <title lang="en">Hebrides - Islands on the Edge</title>
-    <desc lang="en">1/4. Series focusing on wildlife in the Hebrides. The arrival of autumn sees young swallows, otters and grey seals face the biggest storms and highest tides of the year.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/71199927-8c45-442c-a788-37179c8398c8/cover"/>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
+  <programme channel="BBCScotland.uk" start="20250705201500 +0100" stop="20250705210000 +0100">
+    <title lang="en">Escape to the Country</title>
+    <desc lang="en">16/55. Wanting to escape south London, a mother and son meet up with Sonali Shah in the Lothians, where they want to find their ideal rural retreat, complete with an art studio.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/4f4ff721-7192-47f3-a6ac-c01468a9c405/cover"/>
   </programme>
   <programme channel="BBCScotland.uk" start="20250705204500 +0100" stop="20250705210000 +0100">
     <title lang="en">Grand Tours of Scotland's Lochs</title>
@@ -17043,6 +17060,9 @@
   <programme channel="BBCThreeHD.uk" start="20250705040000 +0100" stop="20250705053000 +0100">
     <title lang="en">This is BBC Three</title>
     <desc lang="en">Programmes start at 7.00pm.</desc>
+  </programme>
+  <programme channel="BBCThreeHD.uk" start="20250705053000 +0100" stop="20250705113000 +0100">
+    <title lang="en">..programmes start at 7.00pm</title>
   </programme>
   <programme channel="BBCThreeHD.uk" start="20250705113000 +0100" stop="20250705173000 +0100">
     <title lang="en">..programmes start at 7.00pm</title>
@@ -17333,7 +17353,7 @@
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20250704230000 +0100" stop="20250705010500 +0100">
     <title lang="en">Best of Glastonbury 2025</title>
-    <desc lang="en">A look back on all the biggest and most talked-about performances from this year's Glastonbury Festival.</desc>
+    <desc lang="en">A look back on all the biggest and most talked-about performances from this year's Glastonbury Festival. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/cd174361-a8e7-4ad6-af7f-e5502d4fa95c/cover"/>
     <episode-num system="xmltv_ns">2024.275.0</episode-num>
     <episode-num system="onscreen">S2025E276</episode-num>
@@ -17714,7 +17734,7 @@
   </programme>
   <programme channel="BBCTwoHD.uk" start="20250704230000 +0100" stop="20250705010500 +0100">
     <title lang="en">Best of Glastonbury 2025</title>
-    <desc lang="en">A look back on all the biggest and most talked-about performances from this year's Glastonbury Festival.</desc>
+    <desc lang="en">A look back on all the biggest and most talked-about performances from this year's Glastonbury Festival. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/cd174361-a8e7-4ad6-af7f-e5502d4fa95c/cover"/>
     <episode-num system="xmltv_ns">2024.275.0</episode-num>
     <episode-num system="onscreen">S2025E276</episode-num>
@@ -18095,7 +18115,7 @@
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20250704230000 +0100" stop="20250705010500 +0100">
     <title lang="en">Best of Glastonbury 2025</title>
-    <desc lang="en">A look back on all the biggest and most talked-about performances from this year's Glastonbury Festival.</desc>
+    <desc lang="en">A look back on all the biggest and most talked-about performances from this year's Glastonbury Festival. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/cd174361-a8e7-4ad6-af7f-e5502d4fa95c/cover"/>
     <episode-num system="xmltv_ns">2024.275.0</episode-num>
     <episode-num system="onscreen">S2025E276</episode-num>
@@ -18503,7 +18523,7 @@
   </programme>
   <programme channel="BBCTwoWales.uk" start="20250704230000 +0100" stop="20250705010500 +0100">
     <title lang="en">Best of Glastonbury 2025</title>
-    <desc lang="en">A look back on all the biggest and most talked-about performances from this year's Glastonbury Festival.</desc>
+    <desc lang="en">A look back on all the biggest and most talked-about performances from this year's Glastonbury Festival. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/cd174361-a8e7-4ad6-af7f-e5502d4fa95c/cover"/>
     <episode-num system="xmltv_ns">2024.275.0</episode-num>
     <episode-num system="onscreen">S2025E276</episode-num>
@@ -20299,6 +20319,9 @@
     <episode-num system="xmltv_ns">1.2909.0</episode-num>
     <episode-num system="onscreen">S2E2910</episode-num>
   </programme>
+  <programme channel="CBBC.uk" start="20250704185800 +0100" stop="20250705005800 +0100">
+    <title lang="en">.programmes start at 7.00am</title>
+  </programme>
   <programme channel="CBBC.uk" start="20250705005800 +0100" stop="20250705052959 +0100">
     <title lang="en">.programmes start at 7.00am</title>
   </programme>
@@ -21468,6 +21491,9 @@
     <desc lang="en">04/07/2025. A different story read each night just before bedtime.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e12e7450-4900-4efc-afcd-5d59c768a64c/cover"/>
     <premiere/>
+  </programme>
+  <programme channel="CBeebies.uk" start="20250704185800 +0100" stop="20250705005800 +0100">
+    <title lang="en">..programmes start at 6.00am</title>
   </programme>
   <programme channel="CBeebies.uk" start="20250705005800 +0100" stop="20250705052959 +0100">
     <title lang="en">..programmes start at 6.00am</title>
@@ -22719,7 +22745,9 @@
   <programme channel="Channel4.uk" start="20250705060500 +0100" stop="20250705063000 +0100">
     <title lang="en">Cheers</title>
     <desc lang="en">The Last Picture Show: Frasier, Cliff, Norm and Woody try to relive the drive-in movie experiences of their youth. Sam puts Gus in charge of the bar for a night.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/56d5716e-98c8-4f69-9805-6f1c17d94ce9/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/41fe22e4-920b-4fe7-b47c-d52bcb8a27be/cover"/>
+    <episode-num system="xmltv_ns">10.17.0</episode-num>
+    <episode-num system="onscreen">S11E18</episode-num>
   </programme>
   <programme channel="Channel4.uk" start="20250705063000 +0100" stop="20250705070000 +0100">
     <title lang="en">Cheers</title>
@@ -22741,7 +22769,9 @@
   <programme channel="Channel4.uk" start="20250705075000 +0100" stop="20250705082000 +0100">
     <title lang="en">Everybody Loves Raymond</title>
     <desc lang="en">Frank, the Writer: Frank submits ideas for a column to Ray's editor after getting published in Reader's Digest. But Ray's editor thinks it's the worst writing he's ever read.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3ffdfdb9-6a31-4749-9faf-27092cb53a57/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/62656d79-04f9-405c-aa16-581567560eab/cover"/>
+    <episode-num system="xmltv_ns">0.5.0</episode-num>
+    <episode-num system="onscreen">S1E6</episode-num>
   </programme>
   <programme channel="Channel4.uk" start="20250705082000 +0100" stop="20250705085500 +0100">
     <title lang="en">Frasier</title>
@@ -22751,12 +22781,16 @@
   <programme channel="Channel4.uk" start="20250705085500 +0100" stop="20250705092500 +0100">
     <title lang="en">Frasier</title>
     <desc lang="en">Our Father Whose Art Ain't Heaven: Martin buys Frasier an expensive piece of art, but Frasier hates it.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/45aa0a5c-152e-4710-a208-098229aa48c4/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/37dc00ac-0938-4e62-a218-e17a369b8615/cover"/>
+    <episode-num system="xmltv_ns">3.7.0</episode-num>
+    <episode-num system="onscreen">S4E8</episode-num>
   </programme>
   <programme channel="Channel4.uk" start="20250705092500 +0100" stop="20250705095500 +0100">
     <title lang="en">The Simpsons</title>
     <desc lang="en">I'm Goin' to Praiseland: Ned opens a Christian amusement park. At first, the tame religious attractions are unpopular. But then visitors start having visions...</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/4ef5ed55-246c-4212-a77d-fcb8e4492818/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/4fa679c4-dbd6-4233-b8ad-3c7a88ca0390/cover"/>
+    <episode-num system="xmltv_ns">11.18.0</episode-num>
+    <episode-num system="onscreen">S12E19</episode-num>
   </programme>
   <programme channel="Channel4.uk" start="20250705095500 +0100" stop="20250705102500 +0100">
     <title lang="en">The Simpsons</title>
@@ -22775,7 +22809,9 @@
   <programme channel="Channel4.uk" start="20250705105500 +0100" stop="20250705112500 +0100">
     <title lang="en">The Simpsons</title>
     <desc lang="en">Bart the General: Bart and his friends stand up to Nelson the bully, with a little bit of help from Grampa and Herman.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/27de58cf-1ba0-45b6-8d01-a49049474b74/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/137488ad-f908-405c-9bc1-8273ebf5ecce/cover"/>
+    <episode-num system="xmltv_ns">0.4.0</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme channel="Channel4.uk" start="20250705112500 +0100" stop="20250705130000 +0100">
     <title lang="en">Live: F1 British GP Practice 3</title>
@@ -22785,7 +22821,9 @@
   <programme channel="Channel4.uk" start="20250705130000 +0100" stop="20250705140000 +0100">
     <title lang="en">Narrow Escapes</title>
     <desc lang="en">Jack and Gabby take their boat for its first cruise. Ed shows off his cooking skills at a rooftop party. Peter and Noni take their narrowboat across the sea!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/220602ef-4203-495f-a183-224a1f9fe55d/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/a26014ab-bac7-3432-82c7-2b44b3f5c30e/cover"/>
+    <episode-num system="xmltv_ns">0.19.0</episode-num>
+    <episode-num system="onscreen">S1E20</episode-num>
   </programme>
   <programme channel="Channel4.uk" start="20250705140000 +0100" stop="20250705171000 +0100">
     <title lang="en">Live: F1 British GP Qualifying</title>
@@ -22795,12 +22833,14 @@
   <programme channel="Channel4.uk" start="20250705171000 +0100" stop="20250705181000 +0100">
     <title lang="en">Supercruising: Life at Sea</title>
     <desc lang="en">A peek through the portholes onboard two of Holland America's luxurious cruise ships. Setting sail from Florida, passengers enjoy their first stop: a private island in the Bahamas. (Ep1)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/70503c94-69f8-4a01-9927-cfe3da33d170/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/65faa128-04f8-4432-a868-2e46e7f76a74/cover"/>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme channel="Channel4.uk" start="20250705181000 +0100" stop="20250705191000 +0100">
     <title lang="en">The World's Biggest Cruise Ship</title>
     <desc lang="en">At 20 decks high and almost a quarter of a mile long, Icon of the Seas is the world's biggest cruise ship. What does it take to entertain guests on this floating metropolis?</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/ba2b328b-c95b-4889-a392-be713b08bb5e/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/6044279a-d198-34f4-a19a-9086ffc053ad/cover"/>
   </programme>
   <programme channel="Channel4.uk" start="20250705191000 +0100" stop="20250705194000 +0100">
     <title lang="en">Channel 4 News</title>
@@ -22810,7 +22850,7 @@
   <programme channel="Channel4.uk" start="20250705194000 +0100" stop="20250705220000 +0100">
     <title lang="en">The Day After Tomorrow</title>
     <desc lang="en">(2004) Tense sci-fi thriller starring Jake Gyllenhaal and Dennis Quaid. A scientist sets out to save his son when global warming plunges the world into a sudden climatic catastrophe.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/8df1b6e5-e200-479e-a680-8ac171e687a2/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/a11ede52-e6ba-4ffc-83e8-cf407e17d158/cover"/>
   </programme>
   <programme channel="Channel4.uk" start="20250705220000 +0100" stop="20250706003000 +0100">
     <title lang="en">Oasis: Supersonic</title>
@@ -23280,7 +23320,9 @@
   <programme channel="Channel4Plus1.uk" start="20250705070500 +0100" stop="20250705073000 +0100">
     <title lang="en">Cheers</title>
     <desc lang="en">The Last Picture Show: Frasier, Cliff, Norm and Woody try to relive the drive-in movie experiences of their youth. Sam puts Gus in charge of the bar for a night.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/56d5716e-98c8-4f69-9805-6f1c17d94ce9/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/41fe22e4-920b-4fe7-b47c-d52bcb8a27be/cover"/>
+    <episode-num system="xmltv_ns">10.17.0</episode-num>
+    <episode-num system="onscreen">S11E18</episode-num>
   </programme>
   <programme channel="Channel4Plus1.uk" start="20250705073000 +0100" stop="20250705080000 +0100">
     <title lang="en">Cheers</title>
@@ -23302,7 +23344,9 @@
   <programme channel="Channel4Plus1.uk" start="20250705085000 +0100" stop="20250705092000 +0100">
     <title lang="en">Everybody Loves Raymond</title>
     <desc lang="en">Frank, the Writer: Frank submits ideas for a column to Ray's editor after getting published in Reader's Digest. But Ray's editor thinks it's the worst writing he's ever read.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3ffdfdb9-6a31-4749-9faf-27092cb53a57/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/62656d79-04f9-405c-aa16-581567560eab/cover"/>
+    <episode-num system="xmltv_ns">0.5.0</episode-num>
+    <episode-num system="onscreen">S1E6</episode-num>
   </programme>
   <programme channel="Channel4Plus1.uk" start="20250705092000 +0100" stop="20250705095500 +0100">
     <title lang="en">Frasier</title>
@@ -23312,12 +23356,16 @@
   <programme channel="Channel4Plus1.uk" start="20250705095500 +0100" stop="20250705102500 +0100">
     <title lang="en">Frasier</title>
     <desc lang="en">Our Father Whose Art Ain't Heaven: Martin buys Frasier an expensive piece of art, but Frasier hates it.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/45aa0a5c-152e-4710-a208-098229aa48c4/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/37dc00ac-0938-4e62-a218-e17a369b8615/cover"/>
+    <episode-num system="xmltv_ns">3.7.0</episode-num>
+    <episode-num system="onscreen">S4E8</episode-num>
   </programme>
   <programme channel="Channel4Plus1.uk" start="20250705102500 +0100" stop="20250705105500 +0100">
     <title lang="en">The Simpsons</title>
     <desc lang="en">I'm Goin' to Praiseland: Ned opens a Christian amusement park. At first, the tame religious attractions are unpopular. But then visitors start having visions...</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/4ef5ed55-246c-4212-a77d-fcb8e4492818/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/4fa679c4-dbd6-4233-b8ad-3c7a88ca0390/cover"/>
+    <episode-num system="xmltv_ns">11.18.0</episode-num>
+    <episode-num system="onscreen">S12E19</episode-num>
   </programme>
   <programme channel="Channel4Plus1.uk" start="20250705105500 +0100" stop="20250705112500 +0100">
     <title lang="en">The Simpsons</title>
@@ -23336,7 +23384,9 @@
   <programme channel="Channel4Plus1.uk" start="20250705115500 +0100" stop="20250705122500 +0100">
     <title lang="en">The Simpsons</title>
     <desc lang="en">Bart the General: Bart and his friends stand up to Nelson the bully, with a little bit of help from Grampa and Herman.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/27de58cf-1ba0-45b6-8d01-a49049474b74/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/137488ad-f908-405c-9bc1-8273ebf5ecce/cover"/>
+    <episode-num system="xmltv_ns">0.4.0</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme channel="Channel4Plus1.uk" start="20250705122500 +0100" stop="20250705140000 +0100">
     <title lang="en">Live: F1 British GP Practice 3</title>
@@ -23346,7 +23396,9 @@
   <programme channel="Channel4Plus1.uk" start="20250705140000 +0100" stop="20250705150000 +0100">
     <title lang="en">Narrow Escapes</title>
     <desc lang="en">Jack and Gabby take their boat for its first cruise. Ed shows off his cooking skills at a rooftop party. Peter and Noni take their narrowboat across the sea!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/220602ef-4203-495f-a183-224a1f9fe55d/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/a26014ab-bac7-3432-82c7-2b44b3f5c30e/cover"/>
+    <episode-num system="xmltv_ns">0.19.0</episode-num>
+    <episode-num system="onscreen">S1E20</episode-num>
   </programme>
   <programme channel="Channel4Plus1.uk" start="20250705150000 +0100" stop="20250705181000 +0100">
     <title lang="en">Live: F1 British GP Qualifying</title>
@@ -23356,12 +23408,14 @@
   <programme channel="Channel4Plus1.uk" start="20250705181000 +0100" stop="20250705191000 +0100">
     <title lang="en">Supercruising: Life at Sea</title>
     <desc lang="en">A peek through the portholes onboard two of Holland America's luxurious cruise ships. Setting sail from Florida, passengers enjoy their first stop: a private island in the Bahamas. (Ep1)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/70503c94-69f8-4a01-9927-cfe3da33d170/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/65faa128-04f8-4432-a868-2e46e7f76a74/cover"/>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme channel="Channel4Plus1.uk" start="20250705191000 +0100" stop="20250705201000 +0100">
     <title lang="en">The World's Biggest Cruise Ship</title>
     <desc lang="en">At 20 decks high and almost a quarter of a mile long, Icon of the Seas is the world's biggest cruise ship. What does it take to entertain guests on this floating metropolis?</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/ba2b328b-c95b-4889-a392-be713b08bb5e/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/6044279a-d198-34f4-a19a-9086ffc053ad/cover"/>
   </programme>
   <programme channel="Channel4Plus1.uk" start="20250705201000 +0100" stop="20250705204000 +0100">
     <title lang="en">Channel 4 News</title>
@@ -23371,7 +23425,7 @@
   <programme channel="Channel4Plus1.uk" start="20250705204000 +0100" stop="20250705230000 +0100">
     <title lang="en">The Day After Tomorrow</title>
     <desc lang="en">(2004) Tense sci-fi thriller starring Jake Gyllenhaal and Dennis Quaid. A scientist sets out to save his son when global warming plunges the world into a sudden climatic catastrophe.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/8df1b6e5-e200-479e-a680-8ac171e687a2/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/a11ede52-e6ba-4ffc-83e8-cf407e17d158/cover"/>
   </programme>
   <programme channel="Channel4Plus1.uk" start="20250705230000 +0100" stop="20250706013000 +0100">
     <title lang="en">Oasis: Supersonic</title>
@@ -24046,21 +24100,21 @@
   </programme>
   <programme channel="Channel5.uk" start="20250705130500 +0100" stop="20250705140500 +0100">
     <title lang="en">Dogs Behaving (Very) Badly</title>
-    <desc lang="en">Graeme Hall tackles a retriever with bad breath, thanks to its preferred all-you-can-eat buffet from the dog poo bin. And Coco goes loco over inanimate objects when out for walks.</desc>
+    <desc lang="en">Dog trainer Graeme Hall finds long-lasting solutions for scene-stealing canines. Karen finds it too stressful to have people over because of Rocco the Cocker Spaniel's kleptomania.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7621ac2e-2583-4591-8173-35fcf44d25e0/cover"/>
     <episode-num system="xmltv_ns">6.3.0</episode-num>
     <episode-num system="onscreen">S7E4</episode-num>
   </programme>
   <programme channel="Channel5.uk" start="20250705140500 +0100" stop="20250705150500 +0100">
     <title lang="en">Dogs Behaving (Very) Badly</title>
-    <desc lang="en">Frenchie Bingo is stopping Alan from finding romance. Can Graeme Hall help Alan find love? And Cockerpoo Molly cries at the top of her voice. Sleep deprived mum Amy is at her wit's end.</desc>
+    <desc lang="en">Dog trainer Graeme Hall finds long-lasting solutions for a host of scene-stealing canines. Professional dog walker Julie's Afghan hound Esta has proved to be too much to handle.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/74fa923f-6765-4898-a99b-0931c8e48ffd/cover"/>
     <episode-num system="xmltv_ns">6.4.0</episode-num>
     <episode-num system="onscreen">S7E5</episode-num>
   </programme>
   <programme channel="Channel5.uk" start="20250705150500 +0100" stop="20250705160500 +0100">
     <title lang="en">Dogs Behaving (Very) Badly</title>
-    <desc lang="en">Graeme Hall tackles seemingly immoveable 60-kilo mountain dog Oakley whose obstinance leads to traffic jams when he plonks himself in the middle of the road.</desc>
+    <desc lang="en">Graeme Hall finds solutions for a host of scene-stealing canines. Sam and Laura's move to the countryside has been blighted by their over-exuberant dogs Maddie and Bisley.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3fc68619-ef27-41c9-a813-e7c7baa1054f/cover"/>
     <episode-num system="xmltv_ns">6.5.0</episode-num>
     <episode-num system="onscreen">S7E6</episode-num>
@@ -24130,9 +24184,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/3f3b00d1-352d-47da-85cc-5762f1737990/cover"/>
   </programme>
   <programme channel="Channel5.uk" start="20250706043500 +0100" stop="20250706053000 +0100">
-    <title lang="en">** Visually Signed**Paul...</title>
-    <desc lang="en">...Martin's Antiques Showdown. Paul takes on antique expert Paul Hayes in a race to find hidden treasures. Will the auctioneers prefer mediaeval coins or a jewellery box? (VS) (Ep6)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/083b9bd6-f9c6-4820-aa7d-8387ac89a6a4/cover"/>
+    <title lang="en">**Visually Signed* The...</title>
+    <desc lang="en">...Wonderful World of Chocolate. Documentary series featuring chocolate history and eye-popping factory tours. In this episode, the Milky Bar Kid recalls his time in the spotlight. (VS) (Ep1)</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d6ad54de-15e9-4519-8514-40a82c9197ef/cover"/>
   </programme>
   <programme channel="Channel5.uk" start="20250706053000 +0100" stop="20250706054000 +0100">
     <title lang="en">Entertainment News on 5</title>
@@ -24276,7 +24330,7 @@
   <programme channel="Channel5.uk" start="20250706090500 +0100" stop="20250706091500 +0100">
     <title lang="en">Entertainment News on 5</title>
     <desc lang="en">A daily round-up of showbiz news and gossip from around the world, focusing on celebrities, movies, music and entertainment.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0a4aa91d-ead2-4617-b4f9-2588f7e1cc3f/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/5d7a2a86-7706-442e-870e-f7f5fe0571cb/cover"/>
   </programme>
   <programme channel="Channel5.uk" start="20250706091500 +0100" stop="20250706100500 +0100">
     <title lang="en">Cruising with Jane McDonald</title>
@@ -24372,9 +24426,9 @@
     <premiere/>
   </programme>
   <programme channel="Channel5.uk" start="20250706233000 +0100" stop="20250707011000 +0100">
-    <title lang="en">New: The Ruby Franke Story:...</title>
-    <desc lang="en">Devil Mum. A seemingly perfect family's life turns dark when the mother's marriage counsellor moves in, creating a toxic environment, forcing the husband out, and leading to child abuse. (2024)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c193ecf7-acb8-4751-afd2-8ca9c687fa31/cover"/>
+    <title lang="en">New: The Ruby Franke Story: Devil Mum</title>
+    <desc lang="en">A seemingly perfect family's life turns dark when the mother's marriage counsellor moves in, creating a toxic environment, forcing the husband out, leading to child abuse. (2024)</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a1ce0dd6-f3dc-466f-8dc5-9c41d0cbc8fc/cover"/>
     <premiere/>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20250703210000 +0100" stop="20250703230000 +0100">
@@ -24903,21 +24957,21 @@
   </programme>
   <programme channel="Channel5Plus1.uk" start="20250705140500 +0100" stop="20250705150500 +0100">
     <title lang="en">Dogs Behaving (Very) Badly</title>
-    <desc lang="en">Graeme Hall tackles a retriever with bad breath, thanks to its preferred all-you-can-eat buffet from the dog poo bin. And Coco goes loco over inanimate objects when out for walks.</desc>
+    <desc lang="en">Dog trainer Graeme Hall finds long-lasting solutions for scene-stealing canines. Karen finds it too stressful to have people over because of Rocco the Cocker Spaniel's kleptomania.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7621ac2e-2583-4591-8173-35fcf44d25e0/cover"/>
     <episode-num system="xmltv_ns">6.3.0</episode-num>
     <episode-num system="onscreen">S7E4</episode-num>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20250705150500 +0100" stop="20250705160500 +0100">
     <title lang="en">Dogs Behaving (Very) Badly</title>
-    <desc lang="en">Frenchie Bingo is stopping Alan from finding romance. Can Graeme Hall help Alan find love? And Cockerpoo Molly cries at the top of her voice. Sleep deprived mum Amy is at her wit's end.</desc>
+    <desc lang="en">Dog trainer Graeme Hall finds long-lasting solutions for a host of scene-stealing canines. Professional dog walker Julie's Afghan hound Esta has proved to be too much to handle.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/74fa923f-6765-4898-a99b-0931c8e48ffd/cover"/>
     <episode-num system="xmltv_ns">6.4.0</episode-num>
     <episode-num system="onscreen">S7E5</episode-num>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20250705160500 +0100" stop="20250705170500 +0100">
     <title lang="en">Dogs Behaving (Very) Badly</title>
-    <desc lang="en">Graeme Hall tackles seemingly immoveable 60-kilo mountain dog Oakley whose obstinance leads to traffic jams when he plonks himself in the middle of the road.</desc>
+    <desc lang="en">Graeme Hall finds solutions for a host of scene-stealing canines. Sam and Laura's move to the countryside has been blighted by their over-exuberant dogs Maddie and Bisley.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3fc68619-ef27-41c9-a813-e7c7baa1054f/cover"/>
     <episode-num system="xmltv_ns">6.5.0</episode-num>
     <episode-num system="onscreen">S7E6</episode-num>
@@ -24987,14 +25041,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/3f3b00d1-352d-47da-85cc-5762f1737990/cover"/>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20250706053500 +0100" stop="20250706062900 +0100">
-    <title lang="en">** Visually Signed**Paul...</title>
-    <desc lang="en">...Martin's Antiques Showdown. Paul takes on antique expert Paul Hayes in a race to find hidden treasures. Will the auctioneers prefer mediaeval coins or a jewellery box? (VS) (Ep6)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/083b9bd6-f9c6-4820-aa7d-8387ac89a6a4/cover"/>
-  </programme>
-  <programme channel="Channel5Plus1.uk" start="20250706062900 +0100" stop="20250706063000 +0100">
-    <title lang="en">This is Channel 5 +1</title>
-    <desc lang="en">This is Channel 5 +1</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/36df981e-78fc-469b-9ddf-522f0932dcb8/cover"/>
+    <title lang="en">**Visually Signed* The...</title>
+    <desc lang="en">...Wonderful World of Chocolate. Documentary series featuring chocolate history and eye-popping factory tours. In this episode, the Milky Bar Kid recalls his time in the spotlight. (VS) (Ep1)</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d6ad54de-15e9-4519-8514-40a82c9197ef/cover"/>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20250706063000 +0100" stop="20250706064000 +0100">
     <title lang="en">Entertainment News on 5</title>
@@ -25138,7 +25187,7 @@
   <programme channel="Channel5Plus1.uk" start="20250706100500 +0100" stop="20250706101500 +0100">
     <title lang="en">Entertainment News on 5</title>
     <desc lang="en">A daily round-up of showbiz news and gossip from around the world, focusing on celebrities, movies, music and entertainment.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0a4aa91d-ead2-4617-b4f9-2588f7e1cc3f/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/5d7a2a86-7706-442e-870e-f7f5fe0571cb/cover"/>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20250706101500 +0100" stop="20250706110500 +0100">
     <title lang="en">Cruising with Jane McDonald</title>
@@ -42169,19 +42218,19 @@
     <episode-num system="xmltv_ns">1.0.0</episode-num>
     <episode-num system="onscreen">S2E1</episode-num>
   </programme>
-  <programme channel="ITV4.uk" start="20250704230000 +0100" stop="20250705005500 +0100">
+  <programme channel="ITV4.uk" start="20250704230000 +0100" stop="20250705010000 +0100">
     <title lang="en">All Elite Wrestling: Dynamite</title>
     <desc lang="en">Hard-hitting action from the world of All Elite Wrestling - the roster features world-class talent including Jon Moxley, Chris Jericho, Bryan Danielson and Claudio Castagnoli.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0c14219e-fc1d-46ab-a20c-4b24a78799c0/cover"/>
   </programme>
-  <programme channel="ITV4.uk" start="20250705005500 +0100" stop="20250705015000 +0100">
+  <programme channel="ITV4.uk" start="20250705010000 +0100" stop="20250705015500 +0100">
     <title lang="en">Dark Side of the Ring</title>
     <desc lang="en">Cocaine and Cowboy Boots: The Herb Abrams Story: Wrestling documentary series. One man's fanatical bid to build a wrestling empire to rival Vince McMahon's goes tragically haywire.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/10b7b9ea-c64c-4d14-9b05-d8406880ba5e/cover"/>
     <episode-num system="xmltv_ns">1.7.0</episode-num>
     <episode-num system="onscreen">S2E8</episode-num>
   </programme>
-  <programme channel="ITV4.uk" start="20250705015000 +0100" stop="20250705025000 +0100">
+  <programme channel="ITV4.uk" start="20250705015500 +0100" stop="20250705025000 +0100">
     <title lang="en">Minder</title>
     <desc lang="en">Willesden Suite: Drama series about the dealings of a rogue. Terry's job as security for the local Rotary Club offers Arthur a chance to gain some much-needed respectability.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9a4f06f0-c94f-48fd-be17-9acfcd958029/cover"/>
@@ -42292,14 +42341,14 @@
     <desc lang="en">Hard-hitting action from the world of All Elite Wrestling - the roster features world-class talent including Jon Moxley, Chris Jericho, Bryan Danielson and Claudio Castagnoli.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0c14219e-fc1d-46ab-a20c-4b24a78799c0/cover"/>
   </programme>
-  <programme channel="ITV4.uk" start="20250706015500 +0100" stop="20250706024500 +0100">
+  <programme channel="ITV4.uk" start="20250706015500 +0100" stop="20250706025000 +0100">
     <title lang="en">Dark Side of the Ring</title>
     <desc lang="en">Cocaine and Cowboy Boots: The Herb Abrams Story: Wrestling documentary series. One man's fanatical bid to build a wrestling empire to rival Vince McMahon's goes tragically haywire.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/10b7b9ea-c64c-4d14-9b05-d8406880ba5e/cover"/>
     <episode-num system="xmltv_ns">1.7.0</episode-num>
     <episode-num system="onscreen">S2E8</episode-num>
   </programme>
-  <programme channel="ITV4.uk" start="20250706024500 +0100" stop="20250706030000 +0100">
+  <programme channel="ITV4.uk" start="20250706025000 +0100" stop="20250706030000 +0100">
     <title lang="en">Unwind with ITV</title>
     <desc lang="en">Your daily escape designed to calm the mind and encourage relaxation and reflection.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f16478fe-f92c-4ff1-96c3-6f52c8e76482/cover"/>
@@ -42565,19 +42614,19 @@
     <episode-num system="xmltv_ns">1.0.0</episode-num>
     <episode-num system="onscreen">S2E1</episode-num>
   </programme>
-  <programme channel="ITV4Plus1.uk" start="20250705000000 +0100" stop="20250705015500 +0100">
+  <programme channel="ITV4Plus1.uk" start="20250705000000 +0100" stop="20250705020000 +0100">
     <title lang="en">All Elite Wrestling: Dynamite</title>
     <desc lang="en">Hard-hitting action from the world of All Elite Wrestling - the roster features world-class talent including Jon Moxley, Chris Jericho, Bryan Danielson and Claudio Castagnoli.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0c14219e-fc1d-46ab-a20c-4b24a78799c0/cover"/>
   </programme>
-  <programme channel="ITV4Plus1.uk" start="20250705015500 +0100" stop="20250705025000 +0100">
+  <programme channel="ITV4Plus1.uk" start="20250705020000 +0100" stop="20250705025500 +0100">
     <title lang="en">Dark Side of the Ring</title>
     <desc lang="en">Cocaine and Cowboy Boots: The Herb Abrams Story: Wrestling documentary series. One man's fanatical bid to build a wrestling empire to rival Vince McMahon's goes tragically haywire.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/10b7b9ea-c64c-4d14-9b05-d8406880ba5e/cover"/>
     <episode-num system="xmltv_ns">1.7.0</episode-num>
     <episode-num system="onscreen">S2E8</episode-num>
   </programme>
-  <programme channel="ITV4Plus1.uk" start="20250705025000 +0100" stop="20250705035000 +0100">
+  <programme channel="ITV4Plus1.uk" start="20250705025500 +0100" stop="20250705035000 +0100">
     <title lang="en">Minder</title>
     <desc lang="en">Willesden Suite: Drama series about the dealings of a rogue. Terry's job as security for the local Rotary Club offers Arthur a chance to gain some much-needed respectability.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9a4f06f0-c94f-48fd-be17-9acfcd958029/cover"/>
@@ -42688,14 +42737,14 @@
     <desc lang="en">Hard-hitting action from the world of All Elite Wrestling - the roster features world-class talent including Jon Moxley, Chris Jericho, Bryan Danielson and Claudio Castagnoli.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0c14219e-fc1d-46ab-a20c-4b24a78799c0/cover"/>
   </programme>
-  <programme channel="ITV4Plus1.uk" start="20250706025500 +0100" stop="20250706034500 +0100">
+  <programme channel="ITV4Plus1.uk" start="20250706025500 +0100" stop="20250706035000 +0100">
     <title lang="en">Dark Side of the Ring</title>
     <desc lang="en">Cocaine and Cowboy Boots: The Herb Abrams Story: Wrestling documentary series. One man's fanatical bid to build a wrestling empire to rival Vince McMahon's goes tragically haywire.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/10b7b9ea-c64c-4d14-9b05-d8406880ba5e/cover"/>
     <episode-num system="xmltv_ns">1.7.0</episode-num>
     <episode-num system="onscreen">S2E8</episode-num>
   </programme>
-  <programme channel="ITV4Plus1.uk" start="20250706034500 +0100" stop="20250706040000 +0100">
+  <programme channel="ITV4Plus1.uk" start="20250706035000 +0100" stop="20250706040000 +0100">
     <title lang="en">Unwind with ITV</title>
     <desc lang="en">Your daily escape designed to calm the mind and encourage relaxation and reflection.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f16478fe-f92c-4ff1-96c3-6f52c8e76482/cover"/>
@@ -45784,7 +45833,6 @@
   </programme>
   <programme channel="STVCentral.uk" start="20250704060000 +0100" stop="20250704090000 +0100">
     <title lang="en">Good Morning Britain</title>
-    <desc lang="en">Morning magazine featuring a lively mix of news and current affairs, plus health, entertainment and lifestyle features</desc>
     <icon src="https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/5134efd9-0546-5d25-b298-e10b085785bd.jpg"/>
   </programme>
   <programme channel="STVCentral.uk" start="20250704090000 +0100" stop="20250704100000 +0100">
@@ -46127,7 +46175,6 @@
   </programme>
   <programme channel="STVCentralPlus1.uk" start="20250704070000 +0100" stop="20250704100000 +0100">
     <title lang="en">Good Morning Britain</title>
-    <desc lang="en">Morning magazine featuring a lively mix of news and current affairs, plus health, entertainment and lifestyle features</desc>
     <icon src="https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/5134efd9-0546-5d25-b298-e10b085785bd.jpg"/>
   </programme>
   <programme channel="STVCentralPlus1.uk" start="20250704100000 +0100" stop="20250704110000 +0100">
@@ -46466,7 +46513,6 @@
   </programme>
   <programme channel="STVNorth.uk" start="20250704060000 +0100" stop="20250704090000 +0100">
     <title lang="en">Good Morning Britain</title>
-    <desc lang="en">Morning magazine featuring a lively mix of news and current affairs, plus health, entertainment and lifestyle features</desc>
     <icon src="https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/5134efd9-0546-5d25-b298-e10b085785bd.jpg"/>
   </programme>
   <programme channel="STVNorth.uk" start="20250704090000 +0100" stop="20250704100000 +0100">
@@ -46809,7 +46855,6 @@
   </programme>
   <programme channel="STVNorthPlus1.uk" start="20250704070000 +0100" stop="20250704100000 +0100">
     <title lang="en">Good Morning Britain</title>
-    <desc lang="en">Morning magazine featuring a lively mix of news and current affairs, plus health, entertainment and lifestyle features</desc>
     <icon src="https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/5134efd9-0546-5d25-b298-e10b085785bd.jpg"/>
   </programme>
   <programme channel="STVNorthPlus1.uk" start="20250704100000 +0100" stop="20250704110000 +0100">
