@@ -1,6 +1,7 @@
 import json
 import math
 import re
+from functools import reduce
 from datetime import datetime, timedelta, time, timezone
 
 import pandas as pd
