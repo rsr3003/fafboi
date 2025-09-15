@@ -10,7 +10,7 @@ import unicodedata
 from lxml import etree
 
 bt_dt_format = '%Y-%m-%dT%H:%M:%SZ'
-tz = pytz.timezone('Europe/London')
+tz = pytz.timezone('UTC')
 
 def clean_text(text: str) -> str:
     """
