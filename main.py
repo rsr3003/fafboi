@@ -5,6 +5,7 @@ from functools import reduce
 from datetime import datetime, timedelta, time, timezone
 
 import pandas as pd
+from pandas.core.base import np
 import pytz
 import requests
 import unicodedata
