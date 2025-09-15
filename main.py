@@ -124,8 +124,10 @@ Performs validation of and removes any duplicate programming data (e.g. if both 
     """
     df = pd.DataFrame(programmes)
     df.drop_duplicates(subset=['title', 'start'], keep="last", inplace=True)
-    df["season"] = df["season"].replace({np.nan: None})
-    df["episode"] = df["episode"].replace({np.nan: None})
+    if "season" in df.columns:
+        df["season"] = df["season"].replace({np.nan: None})
+    if "episode" in df.columns:
+        df["episode"] = df["episode"].replace({np.nan: None})
     clean_data = df.to_dict("records")
 
     programme_data.extend(clean_data)
