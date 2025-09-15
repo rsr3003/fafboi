@@ -235,8 +235,8 @@ for channel in channels_data:
                 ch_programme_data.append({
                     "title": title,
                     "description": desc,
-                    "start": start,
-                    "stop": end,
+                    "start": start * 1000,
+                    "stop": end * 1000,
                     "icon": icon,
                     "channel": ch_name,
                     "premiere": item['new'] or item['t'].startswith("New:"),
