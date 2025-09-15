@@ -408,6 +408,14 @@ for channel in channels_data:
 
     validate_programmes_list(ch_programme_data)
 
+programs_dicts = reduce(
+    lambda acc, d: acc.update({d["channel"]: acc.get(d["channel"], []) + [d]}) or acc,
+    programme_data,
+    {},
+)
+with open("pg.json", "w", encoding="utf-8") as f:
+    json.dump(programs_dicts, f, ensure_ascii=False, indent=2)
+
 channel_xml = build_xmltv(channels_data, programme_data)
 
 # Write some XML
