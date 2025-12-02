@@ -472,29 +472,22 @@
     <desc lang="en">Sit down with Sky Sports News as the team break down all the sports stories making the headlines this lunchtime.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/accc17ca-403c-41d7-aceb-04707c7ef2e2/cover"/>
   </programme>
-  <programme channel="sky.main.uk" start="20251202130000 +0000" stop="20251202140000 +0000">
+  <programme channel="sky.main.uk" start="20251202130000 +0000" stop="20251202143000 +0000">
     <title lang="en">Lunchtime Live</title>
     <desc lang="en">Sit down with Sky Sports News as the team break down all the sports stories making the headlines this lunchtime.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/77c356ab-4a39-436f-93a6-963b11e2db70/cover"/>
   </programme>
-  <programme channel="sky.main.uk" start="20251202140000 +0000" stop="20251202143000 +0000">
+  <programme channel="sky.main.uk" start="20251202143001 +0000" stop="20251202150001 +0000">
     <title lang="en">Sports Desk</title>
     <desc lang="en">A breakdown of the stories hitting the news desk this afternoon, with live analysis and comment plus extended interviews with the headline makers.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/08ef0e3a-4886-4063-a706-97931901d9b1/cover"/>
   </programme>
-  <programme channel="sky.main.uk" start="20251202143000 +0000" stop="20251202174500 +0000">
+  <programme channel="sky.main.uk" start="20251202150001 +0000" stop="20251202183000 +0000">
     <title lang="en">Live ILT20</title>
     <desc lang="en">The fourth season of the DP World ILT20 begins with a season three final rematch between David Willey's Dubai Capitals - the defending champions - and Sam Curran's Desert Vipers.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bc00d6ad-0aeb-4ab2-b123-0e4c726cf7ac/cover"/>
   </programme>
-  <programme channel="sky.main.uk" start="20251202174500 +0000" stop="20251202180000 +0000">
-    <title lang="en">Live: The Premier League Show</title>
-    <desc lang="en">Your essential daily guide to the Premier League. With exclusive interviews, topical debate and the latest news from all 20 top-flight clubs.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c36b3be2-0cdc-4f20-86ca-d20e89a5e51f/cover"/>
-    <episode-num system="xmltv_ns">2024.63.0</episode-num>
-    <episode-num system="onscreen">S2025E64</episode-num>
-  </programme>
-  <programme channel="sky.main.uk" start="20251202180000 +0000" stop="20251202190000 +0000">
+  <programme channel="sky.main.uk" start="20251202183000 +0000" stop="20251202190000 +0000">
     <title lang="en">Live: The Premier League Show</title>
     <desc lang="en">Your essential daily guide to the Premier League. With exclusive interviews, topical debate and the latest news from all 20 top-flight clubs.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c36b3be2-0cdc-4f20-86ca-d20e89a5e51f/cover"/>
@@ -533,12 +526,12 @@
   </programme>
   <programme channel="sky.main.uk" start="20251203070000 +0000" stop="20251203080500 +0000">
     <title lang="en">Live WBBL Melbourne S v Sydney S</title>
-    <desc lang="en">Melbourne Stars take on Sydney Sixers in the WBBL.</desc>
+    <desc lang="en">Two games remain for the Melbourne Stars, whose winning run came to an end against WBBL pacesetters Hobart, as Elyse Villani and co take on Ellyse Perry's Sydney Sixers.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/96859dab-6bcc-43f3-9ede-618354e39981/cover"/>
   </programme>
   <programme channel="sky.main.uk" start="20251203080500 +0000" stop="20251203112500 +0000">
     <title lang="en">Live WBBL Sydney T v Brisbane H</title>
-    <desc lang="en">Sydney Thunder take on Brisbane Heat in the WBBL.</desc>
+    <desc lang="en">With qualification hopes all but over, Phoebe Litchfield and the Sydney Thunder take on bottom side Brisbane Heat - who are still without a WBBL win to their name this campaign.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/80325875-1ee8-45be-bea0-e343f04f8348/cover"/>
   </programme>
   <programme channel="sky.main.uk" start="20251203112500 +0000" stop="20251203113000 +0000">
@@ -745,12 +738,16 @@
   <programme channel="sky.premier.uk" start="20251202080000 +0000" stop="20251202083000 +0000">
     <title lang="en">PL: Nott'm Forest v Brighton Hlts</title>
     <desc lang="en">Picking up from a 3-0 dismantling of the Premier League champions, Nottingham Forest entertain Fabian Hurzeler's in-form Brighton at the City Ground on Super Sunday. (30.11)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/cd223382-dde3-4445-9342-1b95aad97815/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/4f2802a3-80ac-48ef-8162-1633166681ec/cover"/>
+    <episode-num system="xmltv_ns">2024.357.0</episode-num>
+    <episode-num system="onscreen">S2025E358</episode-num>
   </programme>
   <programme channel="sky.premier.uk" start="20251202083000 +0000" stop="20251202090000 +0000">
     <title lang="en">PL: Chelsea v Arsenal Hlts</title>
     <desc lang="en">Six points adrift from their league-leading rivals, Chelsea host Arsenal on Super Sunday. The Gunners saw a resounding win over north London neighbours Spurs last time out. (30.11)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1e7f7047-216f-4752-a658-e39941a36753/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/3ce14811-44ab-4333-b010-8b2e86779151/cover"/>
+    <episode-num system="xmltv_ns">2024.358.0</episode-num>
+    <episode-num system="onscreen">S2025E359</episode-num>
   </programme>
   <programme channel="sky.premier.uk" start="20251202090000 +0000" stop="20251202100000 +0000">
     <title lang="en">Premier League Review</title>
@@ -806,12 +803,16 @@
   <programme channel="sky.premier.uk" start="20251202153000 +0000" stop="20251202160000 +0000">
     <title lang="en">PL: Nott'm Forest v Brighton Hlts</title>
     <desc lang="en">Picking up from a 3-0 dismantling of the Premier League champions, Nottingham Forest entertain Fabian Hurzeler's in-form Brighton at the City Ground on Super Sunday. (30.11)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/cd223382-dde3-4445-9342-1b95aad97815/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/4f2802a3-80ac-48ef-8162-1633166681ec/cover"/>
+    <episode-num system="xmltv_ns">2024.357.0</episode-num>
+    <episode-num system="onscreen">S2025E358</episode-num>
   </programme>
   <programme channel="sky.premier.uk" start="20251202160000 +0000" stop="20251202163000 +0000">
     <title lang="en">PL: Chelsea v Arsenal Hlts</title>
     <desc lang="en">Six points adrift from their league-leading rivals, Chelsea host Arsenal on Super Sunday. The Gunners saw a resounding win over north London neighbours Spurs last time out. (30.11)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1e7f7047-216f-4752-a658-e39941a36753/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/3ce14811-44ab-4333-b010-8b2e86779151/cover"/>
+    <episode-num system="xmltv_ns">2024.358.0</episode-num>
+    <episode-num system="onscreen">S2025E359</episode-num>
   </programme>
   <programme channel="sky.premier.uk" start="20251202163000 +0000" stop="20251202170000 +0000">
     <title lang="en">Premier League Netbusters</title>
@@ -1332,7 +1333,7 @@
   </programme>
   <programme channel="sky.premier.uk" start="20251204224500 +0000" stop="20251204231500 +0000">
     <title lang="en">The Big Interview: Gianfranco Zola</title>
-    <desc lang="en">Since joining Old Trafford in 2019 for a then-world record fee, Harry Maguire has been at the heart of Manchester United's recent highs and lows. Here, he discusses his journey.</desc>
+    <desc lang="en">Join Gianfranco Zola as the Chelsea and Premier League legend discusses his childhood, learning his trade under Diego Maradona at Napoli and his glittering top-flight career.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3514f92b-8dba-4ed0-8350-7fdf1b5ec94c/cover"/>
   </programme>
   <programme channel="sky.premier.uk" start="20251204231500 +0000" stop="20251204234500 +0000">
@@ -1705,7 +1706,7 @@
   <programme channel="sky.football.uk" start="20251203084500 +0000" stop="20251203090000 +0000">
     <title lang="en">EFL 06/07: N. Forest v Yeovil</title>
     <desc lang="en">Relive a classic clash from the English Football League. Here, Nottingham Forest face Yeovil in their Sky Bet League One play-off semi-final second leg at the City Ground in 2007.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3fadae0f-ce56-4a31-81a8-4272f9cc0f4b/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/b08d69d5-4d53-4634-8d64-d2ea82509f32/cover"/>
   </programme>
   <programme channel="sky.football.uk" start="20251203090000 +0000" stop="20251203091500 +0000">
     <title lang="en">EFL 08/09: Cardiff v Swansea</title>
@@ -3400,7 +3401,7 @@
   </programme>
   <programme channel="sky.racing.uk" start="20251202103000 +0000" stop="20251202190000 +0000">
     <title lang="en">Raceday Live</title>
-    <desc lang="en">Live Racing: Early action from Lingfield alongside jumps racing from Southwell with Luke Harvey and Ffos Las with Zoey Bird. Floodlit Newcastle card with Simon Mapletoft</desc>
+    <desc lang="en">Live Racing: Early action from Lingfield alongside jumps racing from Southwell with Luke Harvey. Floodlit Newcastle card with Simon Mapletoft later.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b03ad165-892d-440e-b414-7f97a3eb64ba/cover"/>
   </programme>
   <programme channel="sky.racing.uk" start="20251202190000 +0000" stop="20251202220000 +0000">
@@ -3441,7 +3442,7 @@
   <programme channel="sky.racing.uk" start="20251203070000 +0000" stop="20251203100000 +0000">
     <title lang="en">Sky Sports Breakfast</title>
     <desc lang="en">Stay across the biggest sports stories this morning with a wrap-up of the headlines.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/6c459404-a3c9-4e3a-bf98-19ede4bc84b6/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/4cf06763-6c00-4d57-b27d-642aecb6e6b1/cover"/>
   </programme>
   <programme channel="sky.racing.uk" start="20251203100000 +0000" stop="20251203103000 +0000">
     <title lang="en">Racing To Win</title>
@@ -3493,10 +3494,15 @@
     <desc lang="en">Stay across the biggest sports stories this morning with a wrap-up of the headlines.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ad59c243-86bb-474a-b19b-ed7033710c7d/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20251204100000 +0000" stop="20251204103000 +0000">
-    <title lang="en">Harry Derham: Progression</title>
-    <desc lang="en">It was a turbulent yet successful 2024/25 season for 31-year-old trainer Harry Derham who is looking to the future with a dream of one day becoming Champion Jumps Trainer.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/43b19802-1be5-45f2-8b4d-47db581441a7/cover"/>
+  <programme channel="sky.racing.uk" start="20251204100000 +0000" stop="20251204101500 +0000">
+    <title lang="en">British Racing: Welfare Commitment</title>
+    <desc lang="en">Alex Hammond visits Newbury Racecourse and Lambourn Training Grounds to find out what measures British Racing is implementing to help improve horse welfare.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/52a54f99-3c8a-3f89-9525-737d68b874eb/cover"/>
+  </programme>
+  <programme channel="sky.racing.uk" start="20251204101500 +0000" stop="20251204103000 +0000">
+    <title lang="en">The Murphy-Bowen Match-Up</title>
+    <desc lang="en">Trainer-jockey partnerships don't come much better than Olly Murphy and Sean Bowen at the moment, with the prolific pair picking up where they left off last season and setting sights high.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/4db35af7-79f1-4fc6-81b9-97dd75f009a2/cover"/>
   </programme>
   <programme channel="sky.racing.uk" start="20251204103000 +0000" stop="20251204130000 +0000">
     <title lang="en">International Raceday Live</title>
@@ -3508,10 +3514,25 @@
     <desc lang="en">Live French racing from Pau as well as double greyhounds throughout the day</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b9166192-907c-4753-87de-486b4445724e/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20251204170000 +0000" stop="20251204230000 +0000">
+  <programme channel="sky.racing.uk" start="20251204170000 +0000" stop="20251204220000 +0000">
     <title lang="en">Stateside Live</title>
     <desc lang="en">Live US racing from Aqueduct, Gulfstream, Mahoning Valley, Fair Grounds and Turf Paradise. Greyhound racing also features</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4f4b7008-e1f6-461a-bcec-3ff4b01aa12c/cover"/>
+  </programme>
+  <programme channel="sky.racing.uk" start="20251204220000 +0000" stop="20251204221500 +0000">
+    <title lang="en">The Murphy-Bowen Match-Up</title>
+    <desc lang="en">Trainer-jockey partnerships don't come much better than Olly Murphy and Sean Bowen at the moment, with the prolific pair picking up where they left off last season and setting sights high.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/4db35af7-79f1-4fc6-81b9-97dd75f009a2/cover"/>
+  </programme>
+  <programme channel="sky.racing.uk" start="20251204221500 +0000" stop="20251204224500 +0000">
+    <title lang="en">Harry Derham: Progression</title>
+    <desc lang="en">It was a turbulent yet successful 2024/25 season for 31-year-old trainer Harry Derham who is looking to the future with a dream of one day becoming Champion Jumps Trainer.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/43b19802-1be5-45f2-8b4d-47db581441a7/cover"/>
+  </programme>
+  <programme channel="sky.racing.uk" start="20251204224500 +0000" stop="20251204230000 +0000">
+    <title lang="en">British Racing: Welfare Commitment</title>
+    <desc lang="en">Alex Hammond visits Newbury Racecourse and Lambourn Training Grounds to find out what measures British Racing is implementing to help improve horse welfare.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/52a54f99-3c8a-3f89-9525-737d68b874eb/cover"/>
   </programme>
   <programme channel="sky.racing.uk" start="20251204230000 +0000" stop="20251205020000 +0000">
     <title lang="en">Sky Sports News</title>
@@ -3735,7 +3756,7 @@
   </programme>
   <programme channel="sky.mix.uk" start="20251202210000 +0000" stop="20251202220000 +0000">
     <title lang="en">WBBL Perth S v Melbourne R Hlts</title>
-    <desc lang="en">Perth Scorchers and Melbourne Renegades meet in the WBBL. (02.12)</desc>
+    <desc lang="en">Perth Scorchers take on the reigning champions Melbourne Renegades - who are well off the form that took them to last season's title. Both teams are locked on eight points. (02.12)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/96f95b34-ec2d-4f84-88c9-1f88990ada30/cover"/>
   </programme>
   <programme channel="sky.mix.uk" start="20251202220000 +0000" stop="20251202230000 +0000">
@@ -3857,7 +3878,7 @@
   </programme>
   <programme channel="sky.mix.uk" start="20251203070000 +0000" stop="20251203080000 +0000">
     <title lang="en">WBBL Perth S v Melbourne R Hlts</title>
-    <desc lang="en">Perth Scorchers and Melbourne Renegades meet in the WBBL. (02.12)</desc>
+    <desc lang="en">Perth Scorchers take on the reigning champions Melbourne Renegades - who are well off the form that took them to last season's title. Both teams are locked on eight points. (02.12)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/96f95b34-ec2d-4f84-88c9-1f88990ada30/cover"/>
   </programme>
   <programme channel="sky.mix.uk" start="20251203080000 +0000" stop="20251203090000 +0000">
@@ -3901,7 +3922,7 @@
   </programme>
   <programme channel="sky.mix.uk" start="20251203170000 +0000" stop="20251203180000 +0000">
     <title lang="en">WBBL Perth S v Melbourne R Hlts</title>
-    <desc lang="en">Perth Scorchers and Melbourne Renegades meet in the WBBL. (02.12)</desc>
+    <desc lang="en">Perth Scorchers take on the reigning champions Melbourne Renegades - who are well off the form that took them to last season's title. Both teams are locked on eight points. (02.12)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/96f95b34-ec2d-4f84-88c9-1f88990ada30/cover"/>
   </programme>
   <programme channel="sky.mix.uk" start="20251203180000 +0000" stop="20251203183000 +0000">
@@ -4021,12 +4042,12 @@
   </programme>
   <programme channel="sky.mix.uk" start="20251204070000 +0000" stop="20251204080000 +0000">
     <title lang="en">WBBL Melbourne S v Sydney S Hlts</title>
-    <desc lang="en">Melbourne Stars take on Sydney Sixers in the WBBL. (02.12)</desc>
+    <desc lang="en">Two games remain for the Melbourne Stars, whose winning run came to an end against WBBL pacesetters Hobart, as Elyse Villani and co take on Ellyse Perry's Sydney Sixers. (02.12)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/83e9719c-811c-4f07-910c-cc01c06355de/cover"/>
   </programme>
   <programme channel="sky.mix.uk" start="20251204080000 +0000" stop="20251204090000 +0000">
     <title lang="en">WBBL Sydney T v Brisbane H Hlts</title>
-    <desc lang="en">Sydney Thunder take on Brisbane Heat in the WBBL. (02.12)</desc>
+    <desc lang="en">With qualification hopes all but over, Phoebe Litchfield and the Sydney Thunder take on bottom side Brisbane Heat - who are still without a WBBL win to their name this campaign. (02.12)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f3f5bf52-0bb3-4bd2-8bed-74157fa8bbec/cover"/>
   </programme>
   <programme channel="sky.mix.uk" start="20251204090000 +0000" stop="20251204120000 +0000">
@@ -4071,7 +4092,7 @@
   </programme>
   <programme channel="sky.mix.uk" start="20251204170000 +0000" stop="20251204180000 +0000">
     <title lang="en">WBBL Melbourne S v Sydney S Hlts</title>
-    <desc lang="en">Melbourne Stars take on Sydney Sixers in the WBBL. (02.12)</desc>
+    <desc lang="en">Two games remain for the Melbourne Stars, whose winning run came to an end against WBBL pacesetters Hobart, as Elyse Villani and co take on Ellyse Perry's Sydney Sixers. (02.12)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/83e9719c-811c-4f07-910c-cc01c06355de/cover"/>
   </programme>
   <programme channel="sky.mix.uk" start="20251204180000 +0000" stop="20251204183000 +0000">
@@ -4181,25 +4202,40 @@
     <desc lang="en">A look at some of the best moments from the world of England cricket. Here, take a look as Jimmy Anderson claims his 500th England wicket during the 2017 Test against the Windies at Lord's.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/146146ac-0d4d-3292-84cf-16270be9d04c/cover"/>
   </programme>
-  <programme channel="sky.cricket.uk" start="20251202141000 +0000" stop="20251202142500 +0000">
+  <programme channel="sky.cricket.uk" start="20251202141000 +0000" stop="20251202142501 +0000">
     <title lang="en">ICC Women's WC: ENG v AUS 2017</title>
     <desc lang="en">At the 2017 ICC Women's Cricket World Cup in England, the hosts would meet Australia in the fifth round of group stage matches.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/34f0051a-2000-3d61-be19-7966a848ea20/cover"/>
   </programme>
-  <programme channel="sky.cricket.uk" start="20251202142500 +0000" stop="20251202174500 +0000">
+  <programme channel="sky.cricket.uk" start="20251202142501 +0000" stop="20251202143001 +0000">
+    <title lang="en">Lords Pavilion</title>
+    <desc lang="en">Former England star Michael Atherton takes a look around the Lord's Pavilion to take a look at some of the cricketing luminaries immortalised on its walls.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/985d9346-70db-4dae-8196-775500a371ce/cover"/>
+  </programme>
+  <programme channel="sky.cricket.uk" start="20251202143001 +0000" stop="20251202144501 +0000">
+    <title lang="en">Best of ICC Women's ENG v IND</title>
+    <desc lang="en">Revisit the final of the 2017 ICC Women's Cricket World Cup, as England - hosts of the tournament - clashed with 2005 runners-up India at Lord's. England were targeting title number four.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/de310511-7c96-4d3e-bf66-ed2715759de2/cover"/>
+  </programme>
+  <programme channel="sky.cricket.uk" start="20251202144501 +0000" stop="20251202145000 +0000">
+    <title lang="en">Lords Pavilion</title>
+    <desc lang="en">Former England star Michael Atherton takes a look around the Lord's Pavilion to take a look at some of the cricketing luminaries immortalised on its walls.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/cbc82c93-4e28-4dc7-8b25-7fd158900c67/cover"/>
+  </programme>
+  <programme channel="sky.cricket.uk" start="20251202145000 +0000" stop="20251202183001 +0000">
     <title lang="en">Live ILT20</title>
     <desc lang="en">The fourth season of the DP World ILT20 begins with a season three final rematch between David Willey's Dubai Capitals - the defending champions - and Sam Curran's Desert Vipers.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bc00d6ad-0aeb-4ab2-b123-0e4c726cf7ac/cover"/>
   </programme>
-  <programme channel="sky.cricket.uk" start="20251202174500 +0000" stop="20251202180000 +0000">
-    <title lang="en">ICC Women's WC: ENG v SA 2017</title>
+  <programme channel="sky.cricket.uk" start="20251202183001 +0000" stop="20251202184501 +0000">
+    <title lang="en">Best of ICC Women's ENG v IND</title>
+    <desc lang="en">Revisit the final of the 2017 ICC Women's Cricket World Cup, as England - hosts of the tournament - clashed with 2005 runners-up India at Lord's. England were targeting title number four.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f1fa745e-8da5-45f9-bc7c-ea41a866fc3e/cover"/>
+  </programme>
+  <programme channel="sky.cricket.uk" start="20251202184501 +0000" stop="20251202190000 +0000">
+    <title lang="en">Best of ICC Women's ENG v IND</title>
     <desc lang="en">At the 2017 ICC Women's Cricket World Cup in England, the hosts met South Africa in the semi-final.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/38a2968f-ca12-49fe-861d-6f322901eae6/cover"/>
-  </programme>
-  <programme channel="sky.cricket.uk" start="20251202180000 +0000" stop="20251202190000 +0000">
-    <title lang="en">WBBL Perth S v Melbourne R Hlts</title>
-    <desc lang="en">Perth Scorchers and Melbourne Renegades meet in the WBBL. (02.12)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/96f95b34-ec2d-4f84-88c9-1f88990ada30/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20251202190000 +0000" stop="20251202200000 +0000">
     <title lang="en">WBBL Hobart H v Melbourne S Hlts</title>
@@ -4208,7 +4244,7 @@
   </programme>
   <programme channel="sky.cricket.uk" start="20251202200000 +0000" stop="20251202210000 +0000">
     <title lang="en">WBBL Perth S v Melbourne R Hlts</title>
-    <desc lang="en">Perth Scorchers and Melbourne Renegades meet in the WBBL. (02.12)</desc>
+    <desc lang="en">Perth Scorchers take on the reigning champions Melbourne Renegades - who are well off the form that took them to last season's title. Both teams are locked on eight points. (02.12)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/96f95b34-ec2d-4f84-88c9-1f88990ada30/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20251202210000 +0000" stop="20251202220000 +0000">
@@ -4218,7 +4254,7 @@
   </programme>
   <programme channel="sky.cricket.uk" start="20251202220000 +0000" stop="20251202230000 +0000">
     <title lang="en">WBBL Perth S v Melbourne R Hlts</title>
-    <desc lang="en">Perth Scorchers and Melbourne Renegades meet in the WBBL. (02.12)</desc>
+    <desc lang="en">Perth Scorchers take on the reigning champions Melbourne Renegades - who are well off the form that took them to last season's title. Both teams are locked on eight points. (02.12)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/96f95b34-ec2d-4f84-88c9-1f88990ada30/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20251202230000 +0000" stop="20251203022000 +0000">
@@ -4253,22 +4289,22 @@
   </programme>
   <programme channel="sky.cricket.uk" start="20251203033500 +0000" stop="20251203043500 +0000">
     <title lang="en">WBBL Perth S v Melbourne R Hlts</title>
-    <desc lang="en">Perth Scorchers and Melbourne Renegades meet in the WBBL. (02.12)</desc>
+    <desc lang="en">Perth Scorchers take on the reigning champions Melbourne Renegades - who are well off the form that took them to last season's title. Both teams are locked on eight points. (02.12)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/96f95b34-ec2d-4f84-88c9-1f88990ada30/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20251203043500 +0000" stop="20251203060000 +0000">
     <title lang="en">Live WBBL Melbourne S v Sydney S</title>
-    <desc lang="en">Melbourne Stars take on Sydney Sixers in the WBBL.</desc>
+    <desc lang="en">Two games remain for the Melbourne Stars, whose winning run came to an end against WBBL pacesetters Hobart, as Elyse Villani and co take on Ellyse Perry's Sydney Sixers.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/96859dab-6bcc-43f3-9ede-618354e39981/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20251203060000 +0000" stop="20251203080500 +0000">
     <title lang="en">Live WBBL Melbourne S v Sydney S</title>
-    <desc lang="en">Melbourne Stars take on Sydney Sixers in the WBBL.</desc>
+    <desc lang="en">Two games remain for the Melbourne Stars, whose winning run came to an end against WBBL pacesetters Hobart, as Elyse Villani and co take on Ellyse Perry's Sydney Sixers.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/96859dab-6bcc-43f3-9ede-618354e39981/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20251203080500 +0000" stop="20251203112500 +0000">
     <title lang="en">Live WBBL Sydney T v Brisbane H</title>
-    <desc lang="en">Sydney Thunder take on Brisbane Heat in the WBBL.</desc>
+    <desc lang="en">With qualification hopes all but over, Phoebe Litchfield and the Sydney Thunder take on bottom side Brisbane Heat - who are still without a WBBL win to their name this campaign.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/80325875-1ee8-45be-bea0-e343f04f8348/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20251203112500 +0000" stop="20251203113000 +0000">
@@ -4293,7 +4329,7 @@
   </programme>
   <programme channel="sky.cricket.uk" start="20251203130000 +0000" stop="20251203140000 +0000">
     <title lang="en">WBBL Melbourne S v Sydney S Hlts</title>
-    <desc lang="en">Melbourne Stars take on Sydney Sixers in the WBBL. (02.12)</desc>
+    <desc lang="en">Two games remain for the Melbourne Stars, whose winning run came to an end against WBBL pacesetters Hobart, as Elyse Villani and co take on Ellyse Perry's Sydney Sixers. (02.12)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/83e9719c-811c-4f07-910c-cc01c06355de/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20251203140000 +0000" stop="20251203141000 +0000">
@@ -4307,7 +4343,7 @@
     <icon src="https://images.metadata.sky.com/pd-image/34f0051a-2000-3d61-be19-7966a848ea20/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20251203142500 +0000" stop="20251203174500 +0000">
-    <title lang="en">Live ILT20</title>
+    <title lang="en">Live ILT20 Sharjah W v Abu Dhabi</title>
     <desc lang="en">The Abu Dhabi Knight Riders, featuring English batsman Alex Hales - the leading DP World ILT20 run scorer - get their campaign underway in Sharjah against the Warriorz.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/77527be2-2279-437f-b644-57889d1fd017/cover"/>
   </programme>
@@ -4333,7 +4369,7 @@
   </programme>
   <programme channel="sky.cricket.uk" start="20251203230000 +0000" stop="20251204000000 +0000">
     <title lang="en">WBBL Sydney T v Brisbane H Hlts</title>
-    <desc lang="en">Sydney Thunder take on Brisbane Heat in the WBBL. (02.12)</desc>
+    <desc lang="en">With qualification hopes all but over, Phoebe Litchfield and the Sydney Thunder take on bottom side Brisbane Heat - who are still without a WBBL win to their name this campaign. (02.12)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f3f5bf52-0bb3-4bd2-8bed-74157fa8bbec/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20251204000000 +0000" stop="20251204032000 +0000">
@@ -4358,12 +4394,12 @@
   </programme>
   <programme channel="sky.cricket.uk" start="20251204040000 +0000" stop="20251204050000 +0000">
     <title lang="en">WBBL Melbourne S v Sydney S Hlts</title>
-    <desc lang="en">Melbourne Stars take on Sydney Sixers in the WBBL. (02.12)</desc>
+    <desc lang="en">Two games remain for the Melbourne Stars, whose winning run came to an end against WBBL pacesetters Hobart, as Elyse Villani and co take on Ellyse Perry's Sydney Sixers. (02.12)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/83e9719c-811c-4f07-910c-cc01c06355de/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20251204050000 +0000" stop="20251204060000 +0000">
     <title lang="en">WBBL Sydney T v Brisbane H Hlts</title>
-    <desc lang="en">Sydney Thunder take on Brisbane Heat in the WBBL. (02.12)</desc>
+    <desc lang="en">With qualification hopes all but over, Phoebe Litchfield and the Sydney Thunder take on bottom side Brisbane Heat - who are still without a WBBL win to their name this campaign. (02.12)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/83e9719c-811c-4f07-910c-cc01c06355de/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20251204060000 +0000" stop="20251204070000 +0000">
@@ -4404,7 +4440,7 @@
   <programme channel="sky.cricket.uk" start="20251204130000 +0000" stop="20251204140000 +0000">
     <title lang="en">WBBL Sydney S v Sydney T Hlts</title>
     <desc lang="en">An all-Sydney WBBL contest between the Sixers and Thunder. The last time the two met earlier this month, Caoimhe Bray's hat-trick helped the Sixers on their way to victory. (29.11)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b7fd820d-47ce-4e80-ac31-dfee7909f1e5/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/fdac53b3-bdb5-4327-93ad-61e40009e5e8/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20251204140000 +0000" stop="20251204141000 +0000">
     <title lang="en">Anderson 500th Wicket</title>
@@ -4429,21 +4465,21 @@
   <programme channel="sky.cricket.uk" start="20251204180000 +0000" stop="20251204190000 +0000">
     <title lang="en">WBBL Brisbane H v Adelaide S Hlts</title>
     <desc lang="en">Last season's runners-up Brisbane Heat face Tammy Beaumont and the Adelaide Strikers in the WBBL. The two teams met earlier this week, with Adelaide coming out on top. (29.11)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/76feab9c-3a8e-4102-95b4-28460f1617e6/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/a3b8dbfb-bb2a-4bd2-b1c6-0817187254a4/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20251204190000 +0000" stop="20251204200000 +0000">
     <title lang="en">WBBL Hobart H v Melbourne S Hlts</title>
     <desc lang="en">Table toppers Hobart Hurricanes go up against second-in-the-standings Melbourne again, looking to avenge Wednesday's defeat. The Stars are on a four-game winning run in the WBBL. (01.12)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/962c67f7-b5ad-425c-ab4f-00a4411a176e/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/8b2454c5-676a-4912-b55d-b91cdf62889c/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20251204200000 +0000" stop="20251204210000 +0000">
     <title lang="en">WBBL Perth S v Melbourne R Hlts</title>
-    <desc lang="en">Perth Scorchers and Melbourne Renegades meet in the WBBL. (02.12)</desc>
+    <desc lang="en">Perth Scorchers take on the reigning champions Melbourne Renegades - who are well off the form that took them to last season's title. Both teams are locked on eight points. (02.12)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/96f95b34-ec2d-4f84-88c9-1f88990ada30/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20251204210000 +0000" stop="20251204220000 +0000">
     <title lang="en">WBBL Sydney T v Brisbane H Hlts</title>
-    <desc lang="en">Sydney Thunder take on Brisbane Heat in the WBBL. (02.12)</desc>
+    <desc lang="en">With qualification hopes all but over, Phoebe Litchfield and the Sydney Thunder take on bottom side Brisbane Heat - who are still without a WBBL win to their name this campaign. (02.12)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/83e9719c-811c-4f07-910c-cc01c06355de/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20251204220000 +0000" stop="20251204223000 +0000">
@@ -4458,7 +4494,7 @@
   </programme>
   <programme channel="sky.cricket.uk" start="20251204223500 +0000" stop="20251204233500 +0000">
     <title lang="en">WBBL Melbourne S v Sydney S Hlts</title>
-    <desc lang="en">Melbourne Stars take on Sydney Sixers in the WBBL. (02.12)</desc>
+    <desc lang="en">Two games remain for the Melbourne Stars, whose winning run came to an end against WBBL pacesetters Hobart, as Elyse Villani and co take on Ellyse Perry's Sydney Sixers. (02.12)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/83e9719c-811c-4f07-910c-cc01c06355de/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20251204233500 +0000" stop="20251205030500 +0000">
@@ -4521,7 +4557,7 @@
   </programme>
   <programme channel="tnt1" start="20251202124500 +0000" stop="20251202163000 +0000">
     <title lang="en">Live Snooker: UK Championship</title>
-    <desc lang="en">Snooker action from the UK Championship.</desc>
+    <desc lang="en">Action from round one of the Victorian Plumbing UK Championship 2025 as seven-time world champion Ronnie O'Sullivan takes on China's Zhou Yuelong at the York Barbican.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/10eefbd8-6f54-488c-81aa-ed4857257f3e/cover"/>
   </programme>
   <programme channel="tnt1" start="20251202163000 +0000" stop="20251202173000 +0000">
@@ -4543,7 +4579,7 @@
   </programme>
   <programme channel="tnt1" start="20251202184500 +0000" stop="20251202223000 +0000">
     <title lang="en">Live Snooker: UK Championship</title>
-    <desc lang="en">Snooker action from the UK Championship.</desc>
+    <desc lang="en">Action from round one of the Victorian Plumbing UK Championship 2025 as world number two Kyren Wilson faces Elliot Slessor at the York Barbican.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b9c45138-a1b8-4dae-b3a0-178a071bf36b/cover"/>
   </programme>
   <programme channel="tnt1" start="20251202223000 +0000" stop="20251203060000 +0000">
@@ -4612,7 +4648,7 @@
   </programme>
   <programme channel="tnt1" start="20251203104500 +0000" stop="20251203124500 +0000">
     <title lang="en">Snooker UK Championship</title>
-    <desc lang="en">Snooker highlights from the UK Championship. (02.12)</desc>
+    <desc lang="en">Snooker highlights from round one of the Victorian Plumbing UK Championship 2025, featuring Ronnie O'Sullivan v Zhou Yuelong and Kyren Wilson v Elliot Slessor.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f65903bc-763e-41e8-9672-25cc3b59c015/cover"/>
   </programme>
   <programme channel="tnt1" start="20251203124500 +0000" stop="20251203163000 +0000">
@@ -4701,8 +4737,8 @@
   </programme>
   <programme channel="tnt1" start="20251204180000 +0000" stop="20251204183000 +0000">
     <title lang="en">The Big Interview: Gianfranco Zola</title>
-    <desc lang="en">We sit down for an in-depth chat with legendary Chelsea midfielder Gianfranco Zola.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/8e710469-6416-4e68-a0de-dadecde12bd8/cover"/>
+    <desc lang="en">Legendary Chelsea midfielder Gianfranco Zola discusses his childhood, learning his trade under Diego Maradona at Napoli, and his glittering Premier League career.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ccc00428-9243-4542-8ff6-385ceef6ba53/cover"/>
   </programme>
   <programme channel="tnt1" start="20251204183000 +0000" stop="20251204184500 +0000">
     <title lang="en">UCL Stories of the Finals</title>
@@ -4778,7 +4814,7 @@
   <programme channel="tnt2" start="20251202140000 +0000" stop="20251202150000 +0000">
     <title lang="en">Cricket: Super50 Cup Final</title>
     <desc lang="en">Action from the final of the 2025 CG United Super50 Cup between Barbados Pride and reigning champions Trinidad and Tobago Red Force at the Brian Lara Cricket Academy.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d743fde6-8e0c-436f-932b-5e6557bd0a85/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/71cd46a5-1a79-4ea7-a3d9-81e7b2e85125/cover"/>
   </programme>
   <programme channel="tnt2" start="20251202150000 +0000" stop="20251202160000 +0000">
     <title lang="en">MLB Plays of the Year</title>
@@ -4909,7 +4945,7 @@
   <programme channel="tnt2" start="20251203200000 +0000" stop="20251203203000 +0000">
     <title lang="en">The Breakdown: UCL Special</title>
     <desc lang="en">Darren Fletcher sits down with Owen Hargreaves, Joe Cole and Joleon Lescott to assess the strengths of all the main contenders to win this season's Champions League.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/cbda58b9-fbf2-4567-91b8-688848bc6f4e/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/3a6d32a1-a33e-472a-b94b-d73edcb5f4b0/cover"/>
   </programme>
   <programme channel="tnt2" start="20251203203000 +0000" stop="20251203213000 +0000">
     <title lang="en">India v South Africa - 2nd ODI</title>
@@ -5196,7 +5232,7 @@
   <programme channel="tnt3" start="20251202231500 +0000" stop="20251202234500 +0000">
     <title lang="en">The Breakdown: UCL Special</title>
     <desc lang="en">Darren Fletcher sits down with Owen Hargreaves, Joe Cole and Joleon Lescott to assess the strengths of all the main contenders to win this season's Champions League.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/2b610212-d09a-4ff5-8966-9cbeddcd6f36/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/3a6d32a1-a33e-472a-b94b-d73edcb5f4b0/cover"/>
   </programme>
   <programme channel="tnt3" start="20251202234500 +0000" stop="20251203003000 +0000">
     <title lang="en">Fight Week: UFC 323 Preview Show</title>
@@ -5209,15 +5245,13 @@
     <icon src="https://images.metadata.sky.com/pd-image/f3ba0013-00e1-4e5e-aff0-2dbae08e1c2f/cover"/>
   </programme>
   <programme channel="tnt3" start="20251203010000 +0000" stop="20251203020000 +0000">
-    <title lang="en">Premier League Review</title>
-    <desc lang="en">A look back at the matchday 13 of the Premier League, including Crystal Palace v Man United, Spurs v Fulham, and Chelsea v Arsenal.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e5bb748f-53a4-4b86-bf5c-e832f76536fb/cover"/>
-    <episode-num system="xmltv_ns">24.12.0</episode-num>
-    <episode-num system="onscreen">S25E13</episode-num>
+    <title lang="en">MLB Plays of the Year</title>
+    <desc lang="en">We relive some of the best plays of the 2025 MLB season, as the Los Angeles Dodgers enjoyed another incredible campaign.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/11aa1f34-375b-4afe-8a30-d463eeefa87c/cover"/>
   </programme>
   <programme channel="tnt3" start="20251203020000 +0000" stop="20251203040000 +0000">
     <title lang="en">Snooker UK Championship</title>
-    <desc lang="en">Snooker highlights from the UK Championship. (02.12)</desc>
+    <desc lang="en">Snooker highlights from round one of the Victorian Plumbing UK Championship 2025, featuring Ronnie O'Sullivan v Zhou Yuelong and Kyren Wilson v Elliot Slessor.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f65903bc-763e-41e8-9672-25cc3b59c015/cover"/>
   </programme>
   <programme channel="tnt3" start="20251203040000 +0000" stop="20251203050000 +0000">
@@ -5243,7 +5277,7 @@
   </programme>
   <programme channel="tnt3" start="20251203060000 +0000" stop="20251203080000 +0000">
     <title lang="en">Snooker UK Championship</title>
-    <desc lang="en">Snooker highlights from the UK Championship. (02.12)</desc>
+    <desc lang="en">Snooker highlights from round one of the Victorian Plumbing UK Championship 2025, featuring Ronnie O'Sullivan v Zhou Yuelong and Kyren Wilson v Elliot Slessor.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f65903bc-763e-41e8-9672-25cc3b59c015/cover"/>
   </programme>
   <programme channel="tnt3" start="20251203080000 +0000" stop="20251203090000 +0000">
@@ -5281,7 +5315,7 @@
   </programme>
   <programme channel="tnt3" start="20251203130000 +0000" stop="20251203140000 +0000">
     <title lang="en">1st Test: New Zealand v WI</title>
-    <desc lang="en">Day two of the first Test between New Zealand and West Indies.</desc>
+    <desc lang="en">Day two of the first Test between New Zealand and West Indies at Hagley Oval. The Black Caps resume on 231 for 9 after a strong opening day for the Windies' bowling attack.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9dce44f9-f53b-4df0-a4b2-f519699e2c06/cover"/>
   </programme>
   <programme channel="tnt3" start="20251203140000 +0000" stop="20251203141500 +0000">
@@ -5312,7 +5346,7 @@
   </programme>
   <programme channel="tnt3" start="20251203171500 +0000" stop="20251203181500 +0000">
     <title lang="en">1st Test: New Zealand v WI</title>
-    <desc lang="en">Day two of the first Test between New Zealand and West Indies.</desc>
+    <desc lang="en">Day two of the first Test between New Zealand and West Indies at Hagley Oval. The Black Caps resume on 231 for 9 after a strong opening day for the Windies' bowling attack.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9dce44f9-f53b-4df0-a4b2-f519699e2c06/cover"/>
   </programme>
   <programme channel="tnt3" start="20251203181500 +0000" stop="20251203191500 +0000">
@@ -5538,7 +5572,9 @@
   <programme channel="tnt4" start="20251202000000 +0000" stop="20251202003000 +0000">
     <title lang="en">UEFA Champions League Magazine</title>
     <desc lang="en">Eberechi Eze opens up about his move to Arsenal and using his journey to inspire others. And, Benfica manager Jose Mourinho reflects on his greatest Champions League moments.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/ced791d2-9bfc-4ec4-b1b0-b2b1e0c144f3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/a35c4b51-e890-44b9-a7d2-1779b4e50ae2/cover"/>
+    <episode-num system="xmltv_ns">24.12.0</episode-num>
+    <episode-num system="onscreen">S25E13</episode-num>
   </programme>
   <programme channel="tnt4" start="20251202003000 +0000" stop="20251202010000 +0000">
     <title lang="en">The Breakdown: UCL Special</title>
@@ -5555,7 +5591,9 @@
   <programme channel="tnt4" start="20251202013000 +0000" stop="20251202020000 +0000">
     <title lang="en">PL Stories: Eden Hazard</title>
     <desc lang="en">Chelsea legend Eden Hazard reflects on his rise to the top, the moments that defined his career, and the pride he feels at being inducted into the Premier League Hall of Fame.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c0d5218a-8854-4a96-a203-3a807ba576d3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/acd23f1a-795d-496a-9b41-7c74e9e1ef23/cover"/>
+    <episode-num system="xmltv_ns">4.25.0</episode-num>
+    <episode-num system="onscreen">S5E26</episode-num>
   </programme>
   <programme channel="tnt4" start="20251202020000 +0000" stop="20251202024500 +0000">
     <title lang="en">Fight Week: UFC 323 Preview Show</title>
@@ -10986,19 +11024,19 @@
     <icon src="https://images.metadata.sky.com/pd-image/5db8e776-64ea-4d65-8fdc-3ec4ac1a4713/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20251202123000 +0000" stop="20251202130000 +0000">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/32983676-052a-4ec2-9dff-033de4d2812a/cover"/>
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/01b54a14-a251-422a-ad85-1293aba4ee00/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20251202130000 +0000" stop="20251202140000 +0000">
     <title lang="en">Signed: BBC News at One</title>
     <desc lang="en">The latest national and international news from the BBC.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2987c517-4789-40e1-9c92-4a5af59768c7/cover"/>
   </programme>
-  <programme channel="BBCNews.uk" start="20251202140000 +0000" stop="20251202143000 +0000">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d415dd94-b71d-492c-a703-bbb2c7e0dc65/cover"/>
+  <programme channel="BBCNews.uk" start="20251202140000 +0000" stop="20251202150000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3318a23f-f0d6-4083-be71-f59cf879bbd2/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20251202143000 +0000" stop="20251202144500 +0000">
     <title lang="en">Business Today - NYSE Opening Bell</title>
@@ -11641,7 +11679,7 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20251202093000 +0000" stop="20251202104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Louise and Rav are joined by Matt Allwright to look at appliance insurance, while finance expert Iona Bain investigates Family Protection Trusts and shares seasonal savings.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1b600ba7-f522-484c-9fb7-27cb05f339a2/cover"/>
     <episode-num system="xmltv_ns">6.124.0</episode-num>
     <episode-num system="onscreen">S7E125</episode-num>
@@ -11726,7 +11764,7 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20251202190000 +0000" stop="20251202193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Lauren Laverne bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Comedy actors Guz Khan and Morgana Robinson and Strictly Come Dancing quarter-finalists Lewis Cope and Katya Jones join Alex Jones and Lauren Laverne.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a7998173-13bb-47a0-917a-b95e153d5779/cover"/>
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20251202193000 +0000" stop="20251202200000 +0000">
@@ -11900,7 +11938,7 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20251203210000 +0000" stop="20251203220000 +0000">
     <title lang="en">Shetland</title>
-    <desc lang="en">5/6. Tosh finally confronts Billy about his relationship with Robert Tulloch. Fuelled by guilt over Louden, Calder goes after the people responsible.</desc>
+    <desc lang="en">5/6. Tosh confronts Billy about Robert Tulloch. Calder retraces Louden's steps. Contains some strong language and some upsetting scenes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/40dfc2f3-531a-42b5-9b06-915346196240/cover"/>
     <episode-num system="xmltv_ns">9.4.0</episode-num>
     <episode-num system="onscreen">S10E5</episode-num>
@@ -12106,7 +12144,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20251202093000 +0000" stop="20251202104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Louise and Rav are joined by Matt Allwright to look at appliance insurance, while finance expert Iona Bain investigates Family Protection Trusts and shares seasonal savings.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1b600ba7-f522-484c-9fb7-27cb05f339a2/cover"/>
     <episode-num system="xmltv_ns">6.124.0</episode-num>
     <episode-num system="onscreen">S7E125</episode-num>
@@ -12191,7 +12229,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20251202190000 +0000" stop="20251202193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Lauren Laverne bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Comedy actors Guz Khan and Morgana Robinson and Strictly Come Dancing quarter-finalists Lewis Cope and Katya Jones join Alex Jones and Lauren Laverne.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a7998173-13bb-47a0-917a-b95e153d5779/cover"/>
   </programme>
   <programme channel="BBCOneEast.uk" start="20251202193000 +0000" stop="20251202200000 +0000">
@@ -12365,7 +12403,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20251203210000 +0000" stop="20251203220000 +0000">
     <title lang="en">Shetland</title>
-    <desc lang="en">5/6. Tosh finally confronts Billy about his relationship with Robert Tulloch. Fuelled by guilt over Louden, Calder goes after the people responsible.</desc>
+    <desc lang="en">5/6. Tosh confronts Billy about Robert Tulloch. Calder retraces Louden's steps. Contains some strong language and some upsetting scenes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/40dfc2f3-531a-42b5-9b06-915346196240/cover"/>
     <episode-num system="xmltv_ns">9.4.0</episode-num>
     <episode-num system="onscreen">S10E5</episode-num>
@@ -12571,7 +12609,7 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20251202093000 +0000" stop="20251202104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Louise and Rav are joined by Matt Allwright to look at appliance insurance, while finance expert Iona Bain investigates Family Protection Trusts and shares seasonal savings.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1b600ba7-f522-484c-9fb7-27cb05f339a2/cover"/>
     <episode-num system="xmltv_ns">6.124.0</episode-num>
     <episode-num system="onscreen">S7E125</episode-num>
@@ -12656,7 +12694,7 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20251202190000 +0000" stop="20251202193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Lauren Laverne bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Comedy actors Guz Khan and Morgana Robinson and Strictly Come Dancing quarter-finalists Lewis Cope and Katya Jones join Alex Jones and Lauren Laverne.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a7998173-13bb-47a0-917a-b95e153d5779/cover"/>
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20251202193000 +0000" stop="20251202200000 +0000">
@@ -12830,7 +12868,7 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20251203210000 +0000" stop="20251203220000 +0000">
     <title lang="en">Shetland</title>
-    <desc lang="en">5/6. Tosh finally confronts Billy about his relationship with Robert Tulloch. Fuelled by guilt over Louden, Calder goes after the people responsible.</desc>
+    <desc lang="en">5/6. Tosh confronts Billy about Robert Tulloch. Calder retraces Louden's steps. Contains some strong language and some upsetting scenes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/40dfc2f3-531a-42b5-9b06-915346196240/cover"/>
     <episode-num system="xmltv_ns">9.4.0</episode-num>
     <episode-num system="onscreen">S10E5</episode-num>
@@ -13036,7 +13074,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20251202093000 +0000" stop="20251202104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Louise and Rav are joined by Matt Allwright to look at appliance insurance, while finance expert Iona Bain investigates Family Protection Trusts and shares seasonal savings.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1b600ba7-f522-484c-9fb7-27cb05f339a2/cover"/>
     <episode-num system="xmltv_ns">6.124.0</episode-num>
     <episode-num system="onscreen">S7E125</episode-num>
@@ -13121,7 +13159,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20251202190000 +0000" stop="20251202193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Lauren Laverne bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Comedy actors Guz Khan and Morgana Robinson and Strictly Come Dancing quarter-finalists Lewis Cope and Katya Jones join Alex Jones and Lauren Laverne.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a7998173-13bb-47a0-917a-b95e153d5779/cover"/>
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20251202193000 +0000" stop="20251202200000 +0000">
@@ -13295,7 +13333,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20251203210000 +0000" stop="20251203220000 +0000">
     <title lang="en">Shetland</title>
-    <desc lang="en">5/6. Tosh finally confronts Billy about his relationship with Robert Tulloch. Fuelled by guilt over Louden, Calder goes after the people responsible.</desc>
+    <desc lang="en">5/6. Tosh confronts Billy about Robert Tulloch. Calder retraces Louden's steps. Contains some strong language and some upsetting scenes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/40dfc2f3-531a-42b5-9b06-915346196240/cover"/>
     <episode-num system="xmltv_ns">9.4.0</episode-num>
     <episode-num system="onscreen">S10E5</episode-num>
@@ -13501,7 +13539,7 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20251202093000 +0000" stop="20251202104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Louise and Rav are joined by Matt Allwright to look at appliance insurance, while finance expert Iona Bain investigates Family Protection Trusts and shares seasonal savings.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1b600ba7-f522-484c-9fb7-27cb05f339a2/cover"/>
     <episode-num system="xmltv_ns">6.124.0</episode-num>
     <episode-num system="onscreen">S7E125</episode-num>
@@ -13586,7 +13624,7 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20251202190000 +0000" stop="20251202193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Lauren Laverne bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Comedy actors Guz Khan and Morgana Robinson and Strictly Come Dancing quarter-finalists Lewis Cope and Katya Jones join Alex Jones and Lauren Laverne.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a7998173-13bb-47a0-917a-b95e153d5779/cover"/>
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20251202193000 +0000" stop="20251202200000 +0000">
@@ -13760,7 +13798,7 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20251203210000 +0000" stop="20251203220000 +0000">
     <title lang="en">Shetland</title>
-    <desc lang="en">5/6. Tosh finally confronts Billy about his relationship with Robert Tulloch. Fuelled by guilt over Louden, Calder goes after the people responsible.</desc>
+    <desc lang="en">5/6. Tosh confronts Billy about Robert Tulloch. Calder retraces Louden's steps. Contains some strong language and some upsetting scenes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/40dfc2f3-531a-42b5-9b06-915346196240/cover"/>
     <episode-num system="xmltv_ns">9.4.0</episode-num>
     <episode-num system="onscreen">S10E5</episode-num>
@@ -13966,7 +14004,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20251202093000 +0000" stop="20251202104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Louise and Rav are joined by Matt Allwright to look at appliance insurance, while finance expert Iona Bain investigates Family Protection Trusts and shares seasonal savings.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1b600ba7-f522-484c-9fb7-27cb05f339a2/cover"/>
     <episode-num system="xmltv_ns">6.124.0</episode-num>
     <episode-num system="onscreen">S7E125</episode-num>
@@ -14051,7 +14089,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20251202190000 +0000" stop="20251202193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Lauren Laverne bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Comedy actors Guz Khan and Morgana Robinson and Strictly Come Dancing quarter-finalists Lewis Cope and Katya Jones join Alex Jones and Lauren Laverne.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a7998173-13bb-47a0-917a-b95e153d5779/cover"/>
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20251202193000 +0000" stop="20251202200000 +0000">
@@ -14225,7 +14263,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20251203210000 +0000" stop="20251203220000 +0000">
     <title lang="en">Shetland</title>
-    <desc lang="en">5/6. Tosh finally confronts Billy about his relationship with Robert Tulloch. Fuelled by guilt over Louden, Calder goes after the people responsible.</desc>
+    <desc lang="en">5/6. Tosh confronts Billy about Robert Tulloch. Calder retraces Louden's steps. Contains some strong language and some upsetting scenes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/40dfc2f3-531a-42b5-9b06-915346196240/cover"/>
     <episode-num system="xmltv_ns">9.4.0</episode-num>
     <episode-num system="onscreen">S10E5</episode-num>
@@ -14431,7 +14469,7 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20251202093000 +0000" stop="20251202104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Louise and Rav are joined by Matt Allwright to look at appliance insurance, while finance expert Iona Bain investigates Family Protection Trusts and shares seasonal savings.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1b600ba7-f522-484c-9fb7-27cb05f339a2/cover"/>
     <episode-num system="xmltv_ns">6.124.0</episode-num>
     <episode-num system="onscreen">S7E125</episode-num>
@@ -14521,7 +14559,7 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20251202190000 +0000" stop="20251202193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Lauren Laverne bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Comedy actors Guz Khan and Morgana Robinson and Strictly Come Dancing quarter-finalists Lewis Cope and Katya Jones join Alex Jones and Lauren Laverne.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a7998173-13bb-47a0-917a-b95e153d5779/cover"/>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20251202193000 +0000" stop="20251202200000 +0000">
@@ -14557,7 +14595,7 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20251202224000 +0000" stop="20251202231000 +0000">
     <title lang="en">Broken Trust: A Church in Crisis - Spotlight</title>
-    <desc lang="en">Mandy McAuley investigates the abuse cases behind the crisis gripping the Presbyterian Church, uncovering the early warnings given to the Church.</desc>
+    <desc lang="en">Investigating abuse cases behind the crisis gripping the Presbyterian Church. Contains some scenes which some viewers may find upsetting.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/765508fa-28f4-4ef8-ba1f-ddebed30db0e/cover"/>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20251202231000 +0000" stop="20251202234000 +0000">
@@ -14705,7 +14743,7 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20251203210000 +0000" stop="20251203220000 +0000">
     <title lang="en">Shetland</title>
-    <desc lang="en">5/6. Tosh finally confronts Billy about his relationship with Robert Tulloch. Fuelled by guilt over Louden, Calder goes after the people responsible.</desc>
+    <desc lang="en">5/6. Tosh confronts Billy about Robert Tulloch. Calder retraces Louden's steps. Contains some strong language and some upsetting scenes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/40dfc2f3-531a-42b5-9b06-915346196240/cover"/>
     <episode-num system="xmltv_ns">9.4.0</episode-num>
     <episode-num system="onscreen">S10E5</episode-num>
@@ -14924,7 +14962,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20251202093000 +0000" stop="20251202104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Louise and Rav are joined by Matt Allwright to look at appliance insurance, while finance expert Iona Bain investigates Family Protection Trusts and shares seasonal savings.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1b600ba7-f522-484c-9fb7-27cb05f339a2/cover"/>
     <episode-num system="xmltv_ns">6.124.0</episode-num>
     <episode-num system="onscreen">S7E125</episode-num>
@@ -15186,7 +15224,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20251203210000 +0000" stop="20251203220000 +0000">
     <title lang="en">Shetland</title>
-    <desc lang="en">5/6. Tosh finally confronts Billy about his relationship with Robert Tulloch. Fuelled by guilt over Louden, Calder goes after the people responsible.</desc>
+    <desc lang="en">5/6. Tosh confronts Billy about Robert Tulloch. Calder retraces Louden's steps. Contains some strong language and some upsetting scenes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/40dfc2f3-531a-42b5-9b06-915346196240/cover"/>
     <episode-num system="xmltv_ns">9.4.0</episode-num>
     <episode-num system="onscreen">S10E5</episode-num>
@@ -15204,7 +15242,7 @@
   <programme channel="BBCOneScotHD.uk" start="20251203224000 +0000" stop="20251203235500 +0000">
     <title lang="en">Sportscene: Premiership Highlights</title>
     <desc lang="en">Action and reaction to the evening's five Scottish Premiership matches, including Hearts against Kilmarnock.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3cac6386-fb9f-4890-bbc4-923c4f5ee5e9/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/0675cb5b-d864-45e2-b72c-64f547bc3c4e/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20251203235500 +0000" stop="20251204013000 +0000">
     <title lang="en">Match of the Day</title>
@@ -15219,12 +15257,12 @@
   <programme channel="BBCOneScotHD.uk" start="20251204020000 +0000" stop="20251204020500 +0000">
     <title lang="en">Weather for the Week Ahead</title>
     <desc lang="en">Detailed weather forecast.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/40e4f652-69d1-41e9-bb1e-49115c362a0f/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/6abdf14c-f3b8-4e94-8f0b-c92329ac2b05/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20251204020500 +0000" stop="20251204060000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">BBC One joins the BBC's rolling news channel for a night of news.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b6961ddd-4322-3081-b084-d33df356fe41/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/c5b32a48-c9bc-4d16-b172-42bb81ed7229/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20251204060000 +0000" stop="20251204093000 +0000">
     <title lang="en">Breakfast</title>
@@ -15393,7 +15431,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20251202093000 +0000" stop="20251202104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Louise and Rav are joined by Matt Allwright to look at appliance insurance, while finance expert Iona Bain investigates Family Protection Trusts and shares seasonal savings.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1b600ba7-f522-484c-9fb7-27cb05f339a2/cover"/>
     <episode-num system="xmltv_ns">6.124.0</episode-num>
     <episode-num system="onscreen">S7E125</episode-num>
@@ -15478,7 +15516,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20251202190000 +0000" stop="20251202193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Lauren Laverne bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Comedy actors Guz Khan and Morgana Robinson and Strictly Come Dancing quarter-finalists Lewis Cope and Katya Jones join Alex Jones and Lauren Laverne.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a7998173-13bb-47a0-917a-b95e153d5779/cover"/>
   </programme>
   <programme channel="BBCOneSouth.uk" start="20251202193000 +0000" stop="20251202200000 +0000">
@@ -15652,7 +15690,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20251203210000 +0000" stop="20251203220000 +0000">
     <title lang="en">Shetland</title>
-    <desc lang="en">5/6. Tosh finally confronts Billy about his relationship with Robert Tulloch. Fuelled by guilt over Louden, Calder goes after the people responsible.</desc>
+    <desc lang="en">5/6. Tosh confronts Billy about Robert Tulloch. Calder retraces Louden's steps. Contains some strong language and some upsetting scenes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/40dfc2f3-531a-42b5-9b06-915346196240/cover"/>
     <episode-num system="xmltv_ns">9.4.0</episode-num>
     <episode-num system="onscreen">S10E5</episode-num>
@@ -15858,7 +15896,7 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20251202093000 +0000" stop="20251202104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Louise and Rav are joined by Matt Allwright to look at appliance insurance, while finance expert Iona Bain investigates Family Protection Trusts and shares seasonal savings.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1b600ba7-f522-484c-9fb7-27cb05f339a2/cover"/>
     <episode-num system="xmltv_ns">6.124.0</episode-num>
     <episode-num system="onscreen">S7E125</episode-num>
@@ -15943,7 +15981,7 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20251202190000 +0000" stop="20251202193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Lauren Laverne bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Comedy actors Guz Khan and Morgana Robinson and Strictly Come Dancing quarter-finalists Lewis Cope and Katya Jones join Alex Jones and Lauren Laverne.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a7998173-13bb-47a0-917a-b95e153d5779/cover"/>
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20251202193000 +0000" stop="20251202200000 +0000">
@@ -16117,7 +16155,7 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20251203210000 +0000" stop="20251203220000 +0000">
     <title lang="en">Shetland</title>
-    <desc lang="en">5/6. Tosh finally confronts Billy about his relationship with Robert Tulloch. Fuelled by guilt over Louden, Calder goes after the people responsible.</desc>
+    <desc lang="en">5/6. Tosh confronts Billy about Robert Tulloch. Calder retraces Louden's steps. Contains some strong language and some upsetting scenes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/40dfc2f3-531a-42b5-9b06-915346196240/cover"/>
     <episode-num system="xmltv_ns">9.4.0</episode-num>
     <episode-num system="onscreen">S10E5</episode-num>
@@ -16323,7 +16361,7 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20251202093000 +0000" stop="20251202104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Louise and Rav are joined by Matt Allwright to look at appliance insurance, while finance expert Iona Bain investigates Family Protection Trusts and shares seasonal savings.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1b600ba7-f522-484c-9fb7-27cb05f339a2/cover"/>
     <episode-num system="xmltv_ns">6.124.0</episode-num>
     <episode-num system="onscreen">S7E125</episode-num>
@@ -16408,7 +16446,7 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20251202190000 +0000" stop="20251202193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Lauren Laverne bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Comedy actors Guz Khan and Morgana Robinson and Strictly Come Dancing quarter-finalists Lewis Cope and Katya Jones join Alex Jones and Lauren Laverne.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a7998173-13bb-47a0-917a-b95e153d5779/cover"/>
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20251202193000 +0000" stop="20251202200000 +0000">
@@ -16582,7 +16620,7 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20251203210000 +0000" stop="20251203220000 +0000">
     <title lang="en">Shetland</title>
-    <desc lang="en">5/6. Tosh finally confronts Billy about his relationship with Robert Tulloch. Fuelled by guilt over Louden, Calder goes after the people responsible.</desc>
+    <desc lang="en">5/6. Tosh confronts Billy about Robert Tulloch. Calder retraces Louden's steps. Contains some strong language and some upsetting scenes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/40dfc2f3-531a-42b5-9b06-915346196240/cover"/>
     <episode-num system="xmltv_ns">9.4.0</episode-num>
     <episode-num system="onscreen">S10E5</episode-num>
@@ -16788,7 +16826,7 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20251202093000 +0000" stop="20251202104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Louise and Rav are joined by Matt Allwright to look at appliance insurance, while finance expert Iona Bain investigates Family Protection Trusts and shares seasonal savings.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1b600ba7-f522-484c-9fb7-27cb05f339a2/cover"/>
     <episode-num system="xmltv_ns">6.124.0</episode-num>
     <episode-num system="onscreen">S7E125</episode-num>
@@ -16873,7 +16911,7 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20251202190000 +0000" stop="20251202193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Lauren Laverne bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Comedy actors Guz Khan and Morgana Robinson and Strictly Come Dancing quarter-finalists Lewis Cope and Katya Jones join Alex Jones and Lauren Laverne.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a7998173-13bb-47a0-917a-b95e153d5779/cover"/>
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20251202193000 +0000" stop="20251202200000 +0000">
@@ -17040,7 +17078,7 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20251203210000 +0000" stop="20251203220000 +0000">
     <title lang="en">Shetland</title>
-    <desc lang="en">5/6. Tosh finally confronts Billy about his relationship with Robert Tulloch. Fuelled by guilt over Louden, Calder goes after the people responsible.</desc>
+    <desc lang="en">5/6. Tosh confronts Billy about Robert Tulloch. Calder retraces Louden's steps. Contains some strong language and some upsetting scenes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/40dfc2f3-531a-42b5-9b06-915346196240/cover"/>
     <episode-num system="xmltv_ns">9.4.0</episode-num>
     <episode-num system="onscreen">S10E5</episode-num>
@@ -17058,7 +17096,7 @@
   <programme channel="BBCOneWalesHD.uk" start="20251203224000 +0000" stop="20251203234000 +0000">
     <title lang="en">Walescast: Your Voice</title>
     <desc lang="en">With a busy election year on the horizon, Walescast is hitting the road. Felicity Evans and James Williams are in Newport.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/eef39665-a0c6-46f6-a4fc-fcacd40b4329/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/bdf679b7-38fb-4029-89d3-528da75542e6/cover"/>
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20251203234000 +0000" stop="20251204001000 +0000">
     <title lang="en">Tommy: The Good. The Bad. The Fury</title>
@@ -17255,7 +17293,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20251202093000 +0000" stop="20251202104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Louise and Rav are joined by Matt Allwright to look at appliance insurance, while finance expert Iona Bain investigates Family Protection Trusts and shares seasonal savings.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1b600ba7-f522-484c-9fb7-27cb05f339a2/cover"/>
     <episode-num system="xmltv_ns">6.124.0</episode-num>
     <episode-num system="onscreen">S7E125</episode-num>
@@ -17340,7 +17378,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20251202190000 +0000" stop="20251202193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Lauren Laverne bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Comedy actors Guz Khan and Morgana Robinson and Strictly Come Dancing quarter-finalists Lewis Cope and Katya Jones join Alex Jones and Lauren Laverne.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a7998173-13bb-47a0-917a-b95e153d5779/cover"/>
   </programme>
   <programme channel="BBCOneWest.uk" start="20251202193000 +0000" stop="20251202200000 +0000">
@@ -17514,7 +17552,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20251203210000 +0000" stop="20251203220000 +0000">
     <title lang="en">Shetland</title>
-    <desc lang="en">5/6. Tosh finally confronts Billy about his relationship with Robert Tulloch. Fuelled by guilt over Louden, Calder goes after the people responsible.</desc>
+    <desc lang="en">5/6. Tosh confronts Billy about Robert Tulloch. Calder retraces Louden's steps. Contains some strong language and some upsetting scenes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/40dfc2f3-531a-42b5-9b06-915346196240/cover"/>
     <episode-num system="xmltv_ns">9.4.0</episode-num>
     <episode-num system="onscreen">S10E5</episode-num>
@@ -17720,7 +17758,7 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20251202093000 +0000" stop="20251202104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Louise and Rav are joined by Matt Allwright to look at appliance insurance, while finance expert Iona Bain investigates Family Protection Trusts and shares seasonal savings.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1b600ba7-f522-484c-9fb7-27cb05f339a2/cover"/>
     <episode-num system="xmltv_ns">6.124.0</episode-num>
     <episode-num system="onscreen">S7E125</episode-num>
@@ -17805,7 +17843,7 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20251202190000 +0000" stop="20251202193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Lauren Laverne bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Comedy actors Guz Khan and Morgana Robinson and Strictly Come Dancing quarter-finalists Lewis Cope and Katya Jones join Alex Jones and Lauren Laverne.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a7998173-13bb-47a0-917a-b95e153d5779/cover"/>
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20251202193000 +0000" stop="20251202200000 +0000">
@@ -17979,7 +18017,7 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20251203210000 +0000" stop="20251203220000 +0000">
     <title lang="en">Shetland</title>
-    <desc lang="en">5/6. Tosh finally confronts Billy about his relationship with Robert Tulloch. Fuelled by guilt over Louden, Calder goes after the people responsible.</desc>
+    <desc lang="en">5/6. Tosh confronts Billy about Robert Tulloch. Calder retraces Louden's steps. Contains some strong language and some upsetting scenes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/40dfc2f3-531a-42b5-9b06-915346196240/cover"/>
     <episode-num system="xmltv_ns">9.4.0</episode-num>
     <episode-num system="onscreen">S10E5</episode-num>
@@ -18185,7 +18223,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20251202093000 +0000" stop="20251202104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Louise and Rav are joined by Matt Allwright to look at appliance insurance, while finance expert Iona Bain investigates Family Protection Trusts and shares seasonal savings.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1b600ba7-f522-484c-9fb7-27cb05f339a2/cover"/>
     <episode-num system="xmltv_ns">6.124.0</episode-num>
     <episode-num system="onscreen">S7E125</episode-num>
@@ -18270,7 +18308,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20251202190000 +0000" stop="20251202193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Lauren Laverne bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Comedy actors Guz Khan and Morgana Robinson and Strictly Come Dancing quarter-finalists Lewis Cope and Katya Jones join Alex Jones and Lauren Laverne.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a7998173-13bb-47a0-917a-b95e153d5779/cover"/>
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20251202193000 +0000" stop="20251202200000 +0000">
@@ -18444,7 +18482,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20251203210000 +0000" stop="20251203220000 +0000">
     <title lang="en">Shetland</title>
-    <desc lang="en">5/6. Tosh finally confronts Billy about his relationship with Robert Tulloch. Fuelled by guilt over Louden, Calder goes after the people responsible.</desc>
+    <desc lang="en">5/6. Tosh confronts Billy about Robert Tulloch. Calder retraces Louden's steps. Contains some strong language and some upsetting scenes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/40dfc2f3-531a-42b5-9b06-915346196240/cover"/>
     <episode-num system="xmltv_ns">9.4.0</episode-num>
     <episode-num system="onscreen">S10E5</episode-num>
@@ -18650,7 +18688,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20251202093000 +0000" stop="20251202104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Louise and Rav are joined by Matt Allwright to look at appliance insurance, while finance expert Iona Bain investigates Family Protection Trusts and shares seasonal savings.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1b600ba7-f522-484c-9fb7-27cb05f339a2/cover"/>
     <episode-num system="xmltv_ns">6.124.0</episode-num>
     <episode-num system="onscreen">S7E125</episode-num>
@@ -18735,7 +18773,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20251202190000 +0000" stop="20251202193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Lauren Laverne bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Comedy actors Guz Khan and Morgana Robinson and Strictly Come Dancing quarter-finalists Lewis Cope and Katya Jones join Alex Jones and Lauren Laverne.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a7998173-13bb-47a0-917a-b95e153d5779/cover"/>
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20251202193000 +0000" stop="20251202200000 +0000">
@@ -18909,7 +18947,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20251203210000 +0000" stop="20251203220000 +0000">
     <title lang="en">Shetland</title>
-    <desc lang="en">5/6. Tosh finally confronts Billy about his relationship with Robert Tulloch. Fuelled by guilt over Louden, Calder goes after the people responsible.</desc>
+    <desc lang="en">5/6. Tosh confronts Billy about Robert Tulloch. Calder retraces Louden's steps. Contains some strong language and some upsetting scenes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/40dfc2f3-531a-42b5-9b06-915346196240/cover"/>
     <episode-num system="xmltv_ns">9.4.0</episode-num>
     <episode-num system="onscreen">S10E5</episode-num>
@@ -19118,8 +19156,8 @@
   </programme>
   <programme channel="BBCParliament.uk" start="20251202064000 +0000" stop="20251202070000 +0000">
     <title lang="en">Northern Ireland Assembly -...</title>
-    <desc lang="en">...Painting Vandalisation Urgent Question. Urgent question, tabled by DUP MLA Phillip Brett, on the defacing of a portrait of a former DUP lord mayor of Belfast last year.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/5b6a1499-36fc-408f-bd03-02e0cbe97909/cover"/>
+    <desc lang="en">...Painting Vandalism Urgent Question. Question on the defacing of a portrait of a former DUP lord mayor of Belfast last year.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/36d25fd9-99cf-4967-a8ab-2cda8eada91f/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20251202070000 +0000" stop="20251202080000 +0000">
     <title lang="en">Education Questions</title>
@@ -19136,15 +19174,25 @@
     <desc lang="en">Coverage of the Treasury select committee session on the Budget, with evidence from the Office for Budget Responsibility, on Tuesday 2 December.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8ab80892-37bb-49f1-81f0-c7ea42aad8c1/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20251202113000 +0000" stop="20251202123000 +0000">
+  <programme channel="BBCParliament.uk" start="20251202113000 +0000" stop="20251202124000 +0000">
     <title lang="en">Live Foreign, Commonwealth and...</title>
     <desc lang="en">...Development Office Questions. Coverage of questions in the House of Commons to Yvette Cooper, the foreign secretary, and her team of ministers on Tuesday 2 December.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f5f04335-a864-4fa5-86ac-7a5558962811/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/a58c27b0-819c-4021-9a20-ed104ebe0948/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20251202123000 +0000" stop="20251202193000 +0000">
-    <title lang="en">Live House of Commons - Budget Debate, Day 4</title>
+  <programme channel="BBCParliament.uk" start="20251202124000 +0000" stop="20251202135000 +0000">
+    <title lang="en">House of Commons - Criminal Court Reform Statement</title>
+    <desc lang="en">Statement by justice secretary David Lammy on jury trials in England and Wales.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d64f32f1-e7d7-43cd-bc04-e96f46b6c150/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20251202135000 +0000" stop="20251202145000 +0000">
+    <title lang="en">House of Commons - Police...</title>
+    <desc lang="en">...Culture Inquiry Report Statement. Statement on the inquiry into the murder of Sarah Everard and the crimes of David Carrick.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/88efe303-be2c-45d7-81b4-c5094a428641/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20251202145000 +0000" stop="20251202193000 +0000">
+    <title lang="en">House of Commons - Budget Debate, Day 4</title>
     <desc lang="en">Coverage of day four of the budget debate in the House of Commons on Tuesday 2 December.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e40545dc-ca28-4b09-94d7-537a74f6e913/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/7ded44ec-30d6-4130-96d1-674a9af790dc/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20251202193000 +0000" stop="20251202220000 +0000">
     <title lang="en">Live House of Lords</title>
@@ -19161,10 +19209,30 @@
     <desc lang="en">Questions in the House of Lords to government ministers covering subscription contracts for cultural and heritage institutions, and on the British Embassy in Damascus, on Tuesday 2 December.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6ffaea73-db44-4c0b-843e-dd390f9a4e77/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20251202233500 +0000" stop="20251203070000 +0000">
-    <title lang="en">House of Lords</title>
-    <desc lang="en">Business in the House of Lords on Tuesday 2 December.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/5042f92a-b186-4b0d-82de-d2b89c20e6f3/cover"/>
+  <programme channel="BBCParliament.uk" start="20251202233500 +0000" stop="20251202235000 +0000">
+    <title lang="en">House of Lords - NHS Industrial Action Question</title>
+    <desc lang="en">Private notice question on the planned strike action by resident doctors, on 2 December.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7634ded7-9136-475c-b5d3-dd0e81586e85/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20251202235000 +0000" stop="20251203015000 +0000">
+    <title lang="en">House of Lords - Biodiversity...</title>
+    <desc lang="en">...Beyond National Jurisdiction Bill. Coverage of the debate in the House of Lords on the second reading of the Biodiversity Beyond National Jurisdiction Bill, on Tuesday 2 December.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1cd10d68-7e15-4505-8dc4-1f4f2a451659/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20251203015000 +0000" stop="20251203025000 +0000">
+    <title lang="en">House of Lords - Football Governance Act Motion</title>
+    <desc lang="en">Coverage of the debate on the Football Governance Act 2025, on Tuesday 2 December.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/009f0cab-ae3d-4b3e-9aea-9392fb645825/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20251203025000 +0000" stop="20251203033000 +0000">
+    <title lang="en">House of Lords - Criminal Court Reform Statement</title>
+    <desc lang="en">Statement on government plans to scrap jury trials in England and Wales for some cases.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/fa4bd11a-d782-45ed-a7b0-ec62b691e066/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20251203033000 +0000" stop="20251203070000 +0000">
+    <title lang="en">House of Lords - Motion on...</title>
+    <desc lang="en">...Foreign Ownership of Newspapers. Coverage of the debate in the House of Lords on the regulations applied to the foreign ownership of newspapers, on Tuesday 2 December.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1c4c7627-7bfe-4dae-9405-45c4d617bdc3/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20251203070000 +0000" stop="20251203080000 +0000">
     <title lang="en">Foreign, Commonwealth and...</title>
@@ -19578,7 +19646,7 @@
   </programme>
   <programme channel="BBCScotland.uk" start="20251204193000 +0000" stop="20251204200000 +0000">
     <title lang="en">New: The Entertainment Mix</title>
-    <desc lang="en">7/16. Michelle McManus serves up big name interviews, features and the latest in entertainment and culture news from across Scotland.</desc>
+    <desc lang="en">7/16. Rab C. Nesbitt star Gregor Fisher chats about his new live show, Russell Howard talks fatherhood and his latest tour, and Cally Beaton shares stories from her upcoming tour.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9fd9f245-59f5-4012-a6c5-40404640fce1/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">1.6.0</episode-num>
@@ -19605,7 +19673,7 @@
   </programme>
   <programme channel="BBCScotland.uk" start="20251204220000 +0000" stop="20251204230000 +0000">
     <title lang="en">Shetland</title>
-    <desc lang="en">5/6. Tosh finally confronts Billy about his relationship with Robert Tulloch. Fuelled by guilt over Louden, Calder goes after the people responsible.</desc>
+    <desc lang="en">5/6. Tosh confronts Billy about Robert Tulloch. Calder retraces Louden's steps. Contains some strong language and some upsetting scenes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/40dfc2f3-531a-42b5-9b06-915346196240/cover"/>
     <episode-num system="xmltv_ns">9.4.0</episode-num>
     <episode-num system="onscreen">S10E5</episode-num>
@@ -19974,7 +20042,7 @@
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20251202121500 +0000" stop="20251202130000 +0000">
     <title lang="en">Politics Live</title>
-    <desc lang="en">The big political issues of the day.</desc>
+    <desc lang="en">Actor Sophie Winkleman explains why she thinks smartphones should be banned for under-16s.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/251a13f0-7531-4d62-9f94-731f8bcae811/cover"/>
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20251202130000 +0000" stop="20251202171500 +0000">
@@ -20334,7 +20402,7 @@
   </programme>
   <programme channel="BBCTwoHD.uk" start="20251202121500 +0000" stop="20251202130000 +0000">
     <title lang="en">Politics Live</title>
-    <desc lang="en">The big political issues of the day.</desc>
+    <desc lang="en">Actor Sophie Winkleman explains why she thinks smartphones should be banned for under-16s.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/251a13f0-7531-4d62-9f94-731f8bcae811/cover"/>
   </programme>
   <programme channel="BBCTwoHD.uk" start="20251202130000 +0000" stop="20251202171500 +0000">
@@ -20710,7 +20778,7 @@
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20251202121500 +0000" stop="20251202130000 +0000">
     <title lang="en">Politics Live</title>
-    <desc lang="en">The big political issues of the day.</desc>
+    <desc lang="en">Actor Sophie Winkleman explains why she thinks smartphones should be banned for under-16s.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/251a13f0-7531-4d62-9f94-731f8bcae811/cover"/>
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20251202130000 +0000" stop="20251202171500 +0000">
@@ -20896,15 +20964,15 @@
     <desc lang="en">With powerful testimonies from Nazanin Zaghari-Ratcliffe, Anoosheh Ashoori and other hostages, this documentary exposes the dark world of hostage diplomacy. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4b97744c-71e5-4c4c-9850-50f73359da6f/cover"/>
   </programme>
-  <programme channel="BBCTwoNorthernIreland.uk" start="20251203223000 +0000" stop="20251203230500 +0000">
+  <programme channel="BBCTwoNorthernIreland.uk" start="20251203223000 +0000" stop="20251203230000 +0000">
     <title lang="en">Newsnight, followed by Weather</title>
-    <desc lang="en">Insights and global interviews on the crucial news stories of the day.   Followed by Weather.</desc>
+    <desc lang="en">Insights and global interviews on the crucial news stories of the day.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3eead846-5b13-4b5a-8e66-9c40ba0c254a/cover"/>
   </programme>
-  <programme channel="BBCTwoNorthernIreland.uk" start="20251203230500 +0000" stop="20251203233500 +0000">
-    <title lang="en">Spotlight</title>
-    <desc lang="en">Mandy McAuley investigates the abuse cases behind the crisis gripping the Presbyterian Church, uncovering the early warnings given to the Church.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/4cff656c-a622-469b-9460-552cd0810887/cover"/>
+  <programme channel="BBCTwoNorthernIreland.uk" start="20251203230000 +0000" stop="20251203233500 +0000">
+    <title lang="en">Broken Trust: A Church in Crisis - Spotlight</title>
+    <desc lang="en">Investigating abuse cases behind the crisis gripping the Presbyterian Church. Contains some scenes which some viewers may find upsetting.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f25fd53c-c5f5-497e-acda-be4d723544dc/cover"/>
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20251203233500 +0000" stop="20251204000500 +0000">
     <title lang="en">Mortimer &amp; Whitehouse: Gone Fishing</title>
@@ -21089,7 +21157,7 @@
   </programme>
   <programme channel="BBCTwoWales.uk" start="20251202121500 +0000" stop="20251202130000 +0000">
     <title lang="en">Politics Live</title>
-    <desc lang="en">The big political issues of the day.</desc>
+    <desc lang="en">Actor Sophie Winkleman explains why she thinks smartphones should be banned for under-16s.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/251a13f0-7531-4d62-9f94-731f8bcae811/cover"/>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20251202130000 +0000" stop="20251202171500 +0000">
@@ -25048,7 +25116,9 @@
   <programme channel="Channel4.uk" start="20251202034500 +0000" stop="20251202035000 +0000">
     <title lang="en">Chloe's Story: Stand Up To Cancer</title>
     <desc lang="en">A short film for Stand Up To Cancer. After a harrowing year of life-changing treatment for stomach cancer, Chloe awaits the most important call of her life: is she finally cancer-free?</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/4288c4f4-702e-4435-9e1a-4cc05023b6a5/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/179faf2b-2c94-434a-8ef5-76ddbbc5be97/cover"/>
+    <episode-num system="xmltv_ns">2024.0.0</episode-num>
+    <episode-num system="onscreen">S2025E1</episode-num>
   </programme>
   <programme channel="Channel4.uk" start="20251202035000 +0000" stop="20251202044500 +0000">
     <title lang="en">Couples Come Dine with Me</title>
@@ -25204,7 +25274,9 @@
   <programme channel="Channel4.uk" start="20251202195500 +0000" stop="20251202200000 +0000">
     <title lang="en">Yuvraj's Story: Stand Up To Cancer</title>
     <desc lang="en">A short film for Stand Up To Cancer. After beating blood cancer, 10-year-old Yuvraj faces a new battle with life-changing complications - and incredible courage.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d44a0376-9e79-448c-916b-7e03e1c86b38/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/7b4ebd64-55e8-4140-8773-3220eb796c94/cover"/>
+    <episode-num system="xmltv_ns">2024.1.0</episode-num>
+    <episode-num system="onscreen">S2025E2</episode-num>
   </programme>
   <programme channel="Channel4.uk" start="20251202200000 +0000" stop="20251202210000 +0000">
     <title lang="en">The Great Celebrity Bake Off...</title>
@@ -25267,7 +25339,9 @@
   <programme channel="Channel4.uk" start="20251203032500 +0000" stop="20251203033000 +0000">
     <title lang="en">Yuvraj's Story: Stand Up To Cancer</title>
     <desc lang="en">A short film for Stand Up To Cancer. After beating blood cancer, 10-year-old Yuvraj faces a new battle with life-changing complications - and incredible courage.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/dd15b1d2-b1ec-4277-916e-88e7e9ad3a6a/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/7b4ebd64-55e8-4140-8773-3220eb796c94/cover"/>
+    <episode-num system="xmltv_ns">2024.1.0</episode-num>
+    <episode-num system="onscreen">S2025E2</episode-num>
   </programme>
   <programme channel="Channel4.uk" start="20251203033000 +0000" stop="20251203042500 +0000">
     <title lang="en">Couples Come Dine with Me</title>
@@ -25663,7 +25737,9 @@
   <programme channel="Channel4.uk" start="20251204195500 +0000" stop="20251204200000 +0000">
     <title lang="en">Morgan's Story: Stand Up To Cancer</title>
     <desc lang="en">A short film for Stand Up To Cancer. When he was just two years old, Morgan - a happy little boy who loved football, cars and his family - was diagnosed with a rare form of cancer.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d473ace6-bb70-45ef-883f-fe102fbcc1d2/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/3138f2c6-8576-43c0-952b-290354608dcd/cover"/>
+    <episode-num system="xmltv_ns">2024.2.0</episode-num>
+    <episode-num system="onscreen">S2025E3</episode-num>
   </programme>
   <programme channel="Channel4.uk" start="20251204200000 +0000" stop="20251204210000 +0000">
     <title lang="en">New: Kirstie's Handmade Christmas</title>
@@ -25733,7 +25809,9 @@
   <programme channel="Channel4Plus1.uk" start="20251202044500 +0000" stop="20251202045000 +0000">
     <title lang="en">Chloe's Story: Stand Up To Cancer</title>
     <desc lang="en">A short film for Stand Up To Cancer. After a harrowing year of life-changing treatment for stomach cancer, Chloe awaits the most important call of her life: is she finally cancer-free?</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/4288c4f4-702e-4435-9e1a-4cc05023b6a5/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/179faf2b-2c94-434a-8ef5-76ddbbc5be97/cover"/>
+    <episode-num system="xmltv_ns">2024.0.0</episode-num>
+    <episode-num system="onscreen">S2025E1</episode-num>
   </programme>
   <programme channel="Channel4Plus1.uk" start="20251202045000 +0000" stop="20251202054500 +0000">
     <title lang="en">Couples Come Dine with Me</title>
@@ -25889,7 +25967,9 @@
   <programme channel="Channel4Plus1.uk" start="20251202205500 +0000" stop="20251202210000 +0000">
     <title lang="en">Yuvraj's Story: Stand Up To Cancer</title>
     <desc lang="en">A short film for Stand Up To Cancer. After beating blood cancer, 10-year-old Yuvraj faces a new battle with life-changing complications - and incredible courage.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d44a0376-9e79-448c-916b-7e03e1c86b38/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/7b4ebd64-55e8-4140-8773-3220eb796c94/cover"/>
+    <episode-num system="xmltv_ns">2024.1.0</episode-num>
+    <episode-num system="onscreen">S2025E2</episode-num>
   </programme>
   <programme channel="Channel4Plus1.uk" start="20251202210000 +0000" stop="20251202220000 +0000">
     <title lang="en">The Great Celebrity Bake Off...</title>
@@ -25952,7 +26032,9 @@
   <programme channel="Channel4Plus1.uk" start="20251203042500 +0000" stop="20251203043000 +0000">
     <title lang="en">Yuvraj's Story: Stand Up To Cancer</title>
     <desc lang="en">A short film for Stand Up To Cancer. After beating blood cancer, 10-year-old Yuvraj faces a new battle with life-changing complications - and incredible courage.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/dd15b1d2-b1ec-4277-916e-88e7e9ad3a6a/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/7b4ebd64-55e8-4140-8773-3220eb796c94/cover"/>
+    <episode-num system="xmltv_ns">2024.1.0</episode-num>
+    <episode-num system="onscreen">S2025E2</episode-num>
   </programme>
   <programme channel="Channel4Plus1.uk" start="20251203043000 +0000" stop="20251203052500 +0000">
     <title lang="en">Couples Come Dine with Me</title>
@@ -26348,7 +26430,9 @@
   <programme channel="Channel4Plus1.uk" start="20251204205500 +0000" stop="20251204210000 +0000">
     <title lang="en">Morgan's Story: Stand Up To Cancer</title>
     <desc lang="en">A short film for Stand Up To Cancer. When he was just two years old, Morgan - a happy little boy who loved football, cars and his family - was diagnosed with a rare form of cancer.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d473ace6-bb70-45ef-883f-fe102fbcc1d2/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/3138f2c6-8576-43c0-952b-290354608dcd/cover"/>
+    <episode-num system="xmltv_ns">2024.2.0</episode-num>
+    <episode-num system="onscreen">S2025E3</episode-num>
   </programme>
   <programme channel="Channel4Plus1.uk" start="20251204210000 +0000" stop="20251204220000 +0000">
     <title lang="en">New: Kirstie's Handmade Christmas</title>
@@ -27061,6 +27145,8 @@
     <desc lang="en">Mix dreams about giving the moon a Mix makeover. Rubble and the pups make her dream a reality with a new boardwalk ride!</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7f31c86c-892c-4b77-acfa-58e6066e3ef7/cover"/>
     <premiere/>
+    <episode-num system="xmltv_ns">1.31.0</episode-num>
+    <episode-num system="onscreen">S2E32</episode-num>
   </programme>
   <programme channel="Channel5.uk" start="20251204071000 +0000" stop="20251204071500 +0000">
     <title lang="en">Pip and Posy</title>
@@ -27938,6 +28024,8 @@
     <desc lang="en">Mix dreams about giving the moon a Mix makeover. Rubble and the pups make her dream a reality with a new boardwalk ride!</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7f31c86c-892c-4b77-acfa-58e6066e3ef7/cover"/>
     <premiere/>
+    <episode-num system="xmltv_ns">1.31.0</episode-num>
+    <episode-num system="onscreen">S2E32</episode-num>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20251204081000 +0000" stop="20251204081500 +0000">
     <title lang="en">Pip and Posy</title>
@@ -48779,7 +48867,7 @@
   </programme>
   <programme channel="SkyMix.uk" start="20251203200000 +0000" stop="20251203210000 +0000">
     <title lang="en">New: Portrait Artist Of The Year 2025</title>
-    <desc lang="en">New. Brian Fox: The remaining aspiring UK artists vie for the coveted 2025 Portrait Artist of the Year title, with Brian Cox as the celebrity sitter. (S12, ep 10)</desc>
+    <desc lang="en">New. Brian Cox: The remaining artists vie for the coveted 2025 Portrait Artist of the Year title, with Brian Cox as the celebrity sitter. (S12, ep 10)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0cd27f94-7f9e-4475-99ca-52e0a63984d3/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">11.9.0</episode-num>
