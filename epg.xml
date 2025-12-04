@@ -1305,7 +1305,7 @@
   </programme>
   <programme channel="sky.premier.uk" start="20251206100000 +0000" stop="20251206110000 +0000">
     <title lang="en">Saturday Social</title>
-    <desc lang="en">A fresh take on the beautiful game. Hear about football's hot topics on social media and look at footballers' lives off the pitch, with YouTubers, influencers and more giving their take.</desc>
+    <desc lang="en">Fuad Cadani and Faysal join Smithy and Joe this week. Plus, Manchester United 'keeper Senne Lammens sits down for a Fan Q&amp;A and Arsenal duo Beth Mead and Steph Catley try to Beat the Clock.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a7618c20-b81d-499f-8222-fd6826127589/cover"/>
     <episode-num system="xmltv_ns">2024.17.0</episode-num>
     <episode-num system="onscreen">S2025E18</episode-num>
@@ -1766,7 +1766,9 @@
   <programme channel="sky.football.uk" start="20251205100000 +0000" stop="20251205110000 +0000">
     <title lang="en">EFL Cup 08/09: Man Utd v Tottenham</title>
     <desc lang="en">A look back at the 2009 Carling Cup final at Wembley Stadium. Manchester United and Tottenham battled for the trophy in a game that went all the way to penalties.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c9756621-dc5e-3ec4-b93c-5fdfcdbfdaaf/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/af8248cd-206a-4af8-bad7-8a0e2f18bc97/cover"/>
+    <episode-num system="xmltv_ns">2009.2.0</episode-num>
+    <episode-num system="onscreen">S2010E3</episode-num>
   </programme>
   <programme channel="sky.football.uk" start="20251205110000 +0000" stop="20251205113000 +0000">
     <title lang="en">Scottish Premiership Goals 2021/22</title>
@@ -2031,7 +2033,7 @@
   </programme>
   <programme channel="sky.football.uk" start="20251206100000 +0000" stop="20251206110000 +0000">
     <title lang="en">New: Saturday Social</title>
-    <desc lang="en">A fresh take on the beautiful game. Hear about football's hot topics on social media and look at footballers' lives off the pitch, with YouTubers, influencers and more giving their take.</desc>
+    <desc lang="en">Fuad Cadani and Faysal join Smithy and Joe this week. Plus, Manchester United 'keeper Senne Lammens sits down for a Fan Q&amp;A and Arsenal duo Beth Mead and Steph Catley try to Beat the Clock.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a7618c20-b81d-499f-8222-fd6826127589/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">2024.17.0</episode-num>
@@ -2707,7 +2709,7 @@
   <programme channel="sky.f1.uk" start="20251205151500 +0000" stop="20251205161500 +0000">
     <title lang="en">Abu Dhabi F2: Qualifying</title>
     <desc lang="en">F2 qualifying commences in Abu Dhabi as the grid for the Sprint and Feature Race is set. The fastest driver starts Sunday's race in pole position.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/ff0cfe10-1b7e-4bf4-8b65-cee80cab4819/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/e080a313-ff26-4271-b28a-5a75da564c95/cover"/>
   </programme>
   <programme channel="sky.f1.uk" start="20251205161500 +0000" stop="20251205163000 +0000">
     <title lang="en">Brad Pitt Drives a McLaren F1 Car</title>
@@ -3413,22 +3415,27 @@
     <desc lang="en">Stay across the biggest sports stories this morning with a wrap-up of the headlines.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e9a7eb3f-2b51-46fb-a07d-3bbf91a338af/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20251205100000 +0000" stop="20251205103000 +0000">
-    <title lang="en">Harry Derham: Progression</title>
-    <desc lang="en">It was a turbulent yet successful 2024/25 season for 31-year-old trainer Harry Derham who is looking to the future with a dream of one day becoming Champion Jumps Trainer.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/43b19802-1be5-45f2-8b4d-47db581441a7/cover"/>
+  <programme channel="sky.racing.uk" start="20251205100000 +0000" stop="20251205101500 +0000">
+    <title lang="en">British Racing: Welfare Commitment</title>
+    <desc lang="en">Alex Hammond visits Newbury Racecourse and Lambourn Training Grounds to find out what measures British Racing is implementing to help improve horse welfare.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/52a54f99-3c8a-3f89-9525-737d68b874eb/cover"/>
+  </programme>
+  <programme channel="sky.racing.uk" start="20251205101500 +0000" stop="20251205103000 +0000">
+    <title lang="en">The Murphy-Bowen Match-Up</title>
+    <desc lang="en">Trainer-jockey partnerships don't come much better than Olly Murphy and Sean Bowen at the moment, with the prolific pair picking up where they left off last season and setting sights high.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/4db35af7-79f1-4fc6-81b9-97dd75f009a2/cover"/>
   </programme>
   <programme channel="sky.racing.uk" start="20251205103000 +0000" stop="20251205113000 +0000">
     <title lang="en">Raceday Preview</title>
     <desc lang="en">We look ahead to UK Jumps and Flat action as well as French and selected races from Meydan</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a5923ab2-f5c1-4e6c-b717-9fa180c99783/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20251205113000 +0000" stop="20251205190000 +0000">
+  <programme channel="sky.racing.uk" start="20251205113000 +0000" stop="20251205200000 +0000">
     <title lang="en">Raceday Live</title>
     <desc lang="en">Live Racing: Early action from Sedgefield with Andrew Thornton. International racing from Meydan including the Listed Al Garhoud Sprint. Newcastle with Simon Mapletoft</desc>
     <icon src="https://images.metadata.sky.com/pd-image/360e5cbd-7194-45fe-9cc4-fd68b931787a/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20251205190000 +0000" stop="20251206020000 +0000">
+  <programme channel="sky.racing.uk" start="20251205200000 +0000" stop="20251206020000 +0000">
     <title lang="en">Stateside Live</title>
     <desc lang="en">Live US racing from Laurel Park, Aqueduct, Gulfstream, Tampa, Fair Grounds, Los Alamitos, Woodbine, Penn National, Turfway, Charles Town and Remington Park</desc>
     <icon src="https://images.metadata.sky.com/pd-image/13fb2223-86cf-43bd-b4ba-ac533cb19a67/cover"/>
@@ -3438,15 +3445,10 @@
     <desc lang="en">Live Australian racing from Rosehill, Newcastle and Doomben</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c58a239a-95bc-4af9-9fab-2df807aa3dd6/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20251206060000 +0000" stop="20251206090000 +0000">
+  <programme channel="sky.racing.uk" start="20251206060000 +0000" stop="20251206091500 +0000">
     <title lang="en">Australian Racing Live</title>
     <desc lang="en">Live Australian racing from Rosehill, Newcastle and Doomben</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c58a239a-95bc-4af9-9fab-2df807aa3dd6/cover"/>
-  </programme>
-  <programme channel="sky.racing.uk" start="20251206090000 +0000" stop="20251206091500 +0000">
-    <title lang="en">British Racing: Welfare Commitment</title>
-    <desc lang="en">Alex Hammond visits Newbury Racecourse and Lambourn Training Grounds to find out what measures British Racing is implementing to help improve horse welfare.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/52a54f99-3c8a-3f89-9525-737d68b874eb/cover"/>
   </programme>
   <programme channel="sky.racing.uk" start="20251206091500 +0000" stop="20251206094500 +0000">
     <title lang="en">Racing To Win</title>
@@ -3640,7 +3642,7 @@
   </programme>
   <programme channel="sky.mix.uk" start="20251204183000 +0000" stop="20251204230000 +0000">
     <title lang="en">Live Mosconi Cup Pool</title>
-    <desc lang="en">The race for the prestigious Mosconi Cup continues with the second day of nine-ball action between Team Europe and Team USA at the iconic Alexandra Palace in London.</desc>
+    <desc lang="en">The race for the prestigious Mosconi Cup continues with the second day of nine-ball action at Alexandra Palace. Europe launched their title defence with a dominant 4-0 whitewash of the USA.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3bb10fc2-e161-4649-a271-ba565bf5f047/cover"/>
   </programme>
   <programme channel="sky.mix.uk" start="20251204230000 +0000" stop="20251205000000 +0000">
@@ -3850,9 +3852,9 @@
   <programme channel="sky.mix.uk" start="20251206010000 +0000" stop="20251206020000 +0000">
     <title lang="en">NFL Cowboys @ Lions Highlights</title>
     <desc lang="en">The Chiefs go to Dallas for a Thanksgiving contest in the NFL. Two-time MVP Patrick Mahomes helped rally the Chiefs from an 11-point deficit in victory over the Colts previously. (27.11)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e5a0e719-169a-45ee-8e55-44b86e9327cf/cover"/>
-    <episode-num system="xmltv_ns">2024.412.0</episode-num>
-    <episode-num system="onscreen">S2025E413</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/043706f5-1c3d-4b56-8e9c-889bc8d738e3/cover"/>
+    <episode-num system="xmltv_ns">2024.395.0</episode-num>
+    <episode-num system="onscreen">S2025E396</episode-num>
   </programme>
   <programme channel="sky.mix.uk" start="20251206020000 +0000" stop="20251206060000 +0000">
     <title lang="en">Live MMA One Fight Night</title>
@@ -4366,7 +4368,7 @@
   </programme>
   <programme channel="tnt1" start="20251204120000 +0000" stop="20251204121500 +0000">
     <title lang="en">TNT Sports Cricket Reload</title>
-    <desc lang="en">We look back at the best bowling action from the first Ashes Test between Australia and England at Optus Stadium, as Mitchell Starc took ten wickets for the hosts.</desc>
+    <desc lang="en">We look back at the best bowling action from the first Ashes Test between Australia and England at Optus Stadium, where Mitchell Starc took ten wickets for the hosts.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b3114f6e-e21d-404d-86b5-d17cfb388081/cover"/>
     <episode-num system="xmltv_ns">24.97.0</episode-num>
     <episode-num system="onscreen">S25E98</episode-num>
@@ -4387,7 +4389,7 @@
   </programme>
   <programme channel="tnt1" start="20251204124500 +0000" stop="20251204163000 +0000">
     <title lang="en">Live Snooker: UK Championship</title>
-    <desc lang="en">Snooker action from the UK Championship.</desc>
+    <desc lang="en">Action from round two of the Victorian Plumbing UK Championship 2025 as world champion Zhao Xintong takes on world number 23 Zhang Anda at the York Barbican.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/757af1c7-287d-4085-91da-f71eae6e3ffa/cover"/>
   </programme>
   <programme channel="tnt1" start="20251204163000 +0000" stop="20251204170000 +0000">
@@ -4397,7 +4399,7 @@
   </programme>
   <programme channel="tnt1" start="20251204170000 +0000" stop="20251204173000 +0000">
     <title lang="en">Isuzu UTE A-League Highlights</title>
-    <desc lang="en">Highlights from the round six of the Isuzu UTE A-League, including Brisbane Roar v Melbourne Victory, Auckland v Newcastle Jets, and Macarthur v Perth Glory.</desc>
+    <desc lang="en">Highlights from round six of the Isuzu UTE A-League, including Brisbane Roar v Melbourne Victory, Auckland v Newcastle Jets, and Macarthur v Perth Glory.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/34da403d-8ec4-4966-aa51-3baede76e806/cover"/>
     <episode-num system="xmltv_ns">2024.5.0</episode-num>
     <episode-num system="onscreen">S2025E6</episode-num>
@@ -4423,18 +4425,18 @@
   </programme>
   <programme channel="tnt1" start="20251204184500 +0000" stop="20251204223000 +0000">
     <title lang="en">Live Snooker: UK Championship</title>
-    <desc lang="en">Snooker action from the UK Championship.</desc>
+    <desc lang="en">Action from round two of the Victorian Plumbing UK Championship 2025. John Higgins faces off against Shaun Murphy with both players progressing from round one with 6-2 victories.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c0656ead-ff9f-45e4-af31-6857a4ef4188/cover"/>
   </programme>
   <programme channel="tnt1" start="20251204223000 +0000" stop="20251205033000 +0000">
     <title lang="en">Live 1st Test: New Zealand v WI</title>
-    <desc lang="en">Day four of the first Test between New Zealand and West Indies.</desc>
+    <desc lang="en">New Zealand begin day four in a commanding position, holding a second-innings lead of 481 runs. Can the West Indies salvage anything from this first Test in Christchurch?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2b270bd4-280f-434a-a379-c16d932f84b0/cover"/>
   </programme>
   <programme channel="tnt1" start="20251205033000 +0000" stop="20251205120000 +0000">
     <title lang="en">Live The Ashes: 2nd Test - Day 2</title>
-    <desc lang="en">Day two of the second Ashes Test between Australia and England at the Gabba in Brisbane.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1535be21-e280-447e-91c1-ed66be1887fc/cover"/>
+    <desc lang="en">England begin day two on 325 for nine, with Joe Root and Jofra Archer looking to add vital runs before the Three Lions' bowling attack take their turn with the pink ball.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/2a5550fd-1985-4d7b-b186-b8b087cf32ed/cover"/>
   </programme>
   <programme channel="tnt1" start="20251205120000 +0000" stop="20251205123000 +0000">
     <title lang="en">The A-Z of the Ashes</title>
@@ -4536,7 +4538,7 @@
   </programme>
   <programme channel="tnt2" start="20251204060000 +0000" stop="20251204063000 +0000">
     <title lang="en">Isuzu UTE A-League Highlights</title>
-    <desc lang="en">Highlights from the round six of the Isuzu UTE A-League, including Brisbane Roar v Melbourne Victory, Auckland v Newcastle Jets, and Macarthur v Perth Glory.</desc>
+    <desc lang="en">Highlights from round six of the Isuzu UTE A-League, including Brisbane Roar v Melbourne Victory, Auckland v Newcastle Jets, and Macarthur v Perth Glory.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/34da403d-8ec4-4966-aa51-3baede76e806/cover"/>
     <episode-num system="xmltv_ns">2024.5.0</episode-num>
     <episode-num system="onscreen">S2025E6</episode-num>
@@ -4585,8 +4587,8 @@
   </programme>
   <programme channel="tnt2" start="20251204150000 +0000" stop="20251204160000 +0000">
     <title lang="en">The Ashes: 2nd Test - Day 1</title>
-    <desc lang="en">After Australia's emphatic win in the Ashes opener, England head to the Gabba in Brisbane - where they haven't won since 1986 - seeking redemption in this crucial day-night Test.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b8d3d536-e1f4-49a2-98f2-96ae3c0afc08/cover"/>
+    <desc lang="en">Highlights from day one of the second Ashes Test at the Gabba, where Mitchell Starc was in lethal form with the pink ball and Joe Root scored his first century in Australia.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/27953a45-ef43-4b9b-9fcc-b97934a1604e/cover"/>
   </programme>
   <programme channel="tnt2" start="20251204160000 +0000" stop="20251204174500 +0000">
     <title lang="en">Live: Ski Jumping World Cup</title>
@@ -4601,11 +4603,9 @@
     <episode-num system="onscreen">S25E49</episode-num>
   </programme>
   <programme channel="tnt2" start="20251204181500 +0000" stop="20251204191500 +0000">
-    <title lang="en">MLB Plays of the Year</title>
-    <desc lang="en">We relive some of the best plays of the 2025 MLB season, as the Los Angeles Dodgers enjoyed another incredible campaign.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/7da09ba9-bc71-46be-975f-bbc73c232938/cover"/>
-    <episode-num system="xmltv_ns">2024.27.0</episode-num>
-    <episode-num system="onscreen">S2025E28</episode-num>
+    <title lang="en">The Ashes: 2nd Test - Day 1</title>
+    <desc lang="en">Highlights from day one of the second Ashes Test at the Gabba, where Mitchell Starc was in lethal form with the pink ball and Joe Root scored his first century in Australia.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3c026c27-11b5-48a9-bbbe-9daeb5d39638/cover"/>
   </programme>
   <programme channel="tnt2" start="20251204191500 +0000" stop="20251204193000 +0000">
     <title lang="en">UEFA Europa League Goals Reload</title>
@@ -4631,7 +4631,7 @@
   </programme>
   <programme channel="tnt2" start="20251204213000 +0000" stop="20251205060000 +0000">
     <title lang="en">Live 1st Test: New Zealand v WI</title>
-    <desc lang="en">Day four of the first Test between New Zealand and West Indies.</desc>
+    <desc lang="en">New Zealand begin day four in a commanding position, holding a second-innings lead of 481 runs. Can the West Indies salvage anything from this first Test in Christchurch?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2b270bd4-280f-434a-a379-c16d932f84b0/cover"/>
   </programme>
   <programme channel="tnt2" start="20251205060000 +0000" stop="20251205070000 +0000">
@@ -4655,7 +4655,7 @@
   </programme>
   <programme channel="tnt2" start="20251205080000 +0000" stop="20251205083000 +0000">
     <title lang="en">Isuzu UTE A-League Highlights</title>
-    <desc lang="en">Highlights from the round six of the Isuzu UTE A-League, including Brisbane Roar v Melbourne Victory, Auckland v Newcastle Jets, and Macarthur v Perth Glory.</desc>
+    <desc lang="en">Highlights from round six of the Isuzu UTE A-League, including Brisbane Roar v Melbourne Victory, Auckland v Newcastle Jets, and Macarthur v Perth Glory.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/34da403d-8ec4-4966-aa51-3baede76e806/cover"/>
     <episode-num system="xmltv_ns">2024.5.0</episode-num>
     <episode-num system="onscreen">S2025E6</episode-num>
@@ -4686,7 +4686,7 @@
   </programme>
   <programme channel="tnt2" start="20251205130000 +0000" stop="20251205140000 +0000">
     <title lang="en">1st Test: New Zealand v WI</title>
-    <desc lang="en">Day four of the first Test between New Zealand and West Indies.</desc>
+    <desc lang="en">New Zealand begin day four in a commanding position, holding a second-innings lead of 481 runs. Can the West Indies salvage anything from this first Test in Christchurch?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/cefbb1f7-957b-4389-9e90-e7524631bffb/cover"/>
   </programme>
   <programme channel="tnt2" start="20251205140000 +0000" stop="20251205141500 +0000">
@@ -4719,8 +4719,8 @@
   </programme>
   <programme channel="tnt2" start="20251205150000 +0000" stop="20251205160000 +0000">
     <title lang="en">The Ashes: 2nd Test - Day 2</title>
-    <desc lang="en">Day two of the second Ashes Test between Australia and England at the Gabba in Brisbane.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f3c4d09c-1c41-4bc4-8cd0-bc8aaaf36748/cover"/>
+    <desc lang="en">England begin day two on 325 for nine, with Joe Root and Jofra Archer looking to add vital runs before the Three Lions' bowling attack take their turn with the pink ball.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/5d72dc85-aa70-4d96-a434-2805d10b7b2b/cover"/>
   </programme>
   <programme channel="tnt2" start="20251205160000 +0000" stop="20251205170000 +0000">
     <title lang="en">Premier League Review</title>
@@ -4731,7 +4731,7 @@
   </programme>
   <programme channel="tnt2" start="20251205170000 +0000" stop="20251205173000 +0000">
     <title lang="en">Inside Serie A</title>
-    <desc lang="en">A round up of all the latest news from Serie A.</desc>
+    <desc lang="en">We pick the brains of tactical mastermind and Lazio coach Maurizio Sarri. Plus, former Arsenal defender Brooke Norton-Cuffy talks about life at Genoa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/95ae6814-35a6-4bae-9cce-21da7bec68a9/cover"/>
     <episode-num system="xmltv_ns">2024.13.0</episode-num>
     <episode-num system="onscreen">S2025E14</episode-num>
@@ -4779,7 +4779,7 @@
   </programme>
   <programme channel="tnt2" start="20251206020000 +0000" stop="20251206023000 +0000">
     <title lang="en">Inside Serie A</title>
-    <desc lang="en">A round up of all the latest news from Serie A.</desc>
+    <desc lang="en">We pick the brains of tactical mastermind and Lazio coach Maurizio Sarri. Plus, former Arsenal defender Brooke Norton-Cuffy talks about life at Genoa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/95ae6814-35a6-4bae-9cce-21da7bec68a9/cover"/>
     <episode-num system="xmltv_ns">2024.13.0</episode-num>
     <episode-num system="onscreen">S2025E14</episode-num>
@@ -4805,7 +4805,7 @@
   </programme>
   <programme channel="tnt2" start="20251206120000 +0000" stop="20251206163000 +0000">
     <title lang="en">Live 3rd ODI: India v South Africa</title>
-    <desc lang="en">Action from the third One Day International between India and South Africa.</desc>
+    <desc lang="en">Action from the third One Day International between India and South Africa at ACA-VDCA Cricket Stadium. Who will hold their nerve in this series-decider?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9ddb0791-af75-4d74-8e16-08041c64a4ab/cover"/>
   </programme>
   <programme channel="tnt2" start="20251206163000 +0000" stop="20251206164500 +0000">
@@ -4968,40 +4968,43 @@
     <icon src="https://images.metadata.sky.com/pd-image/908848cf-ca9a-48d0-bfe3-b542c1aa5e79/cover"/>
   </programme>
   <programme channel="tnt3" start="20251204150000 +0000" stop="20251204153000 +0000">
+    <title lang="en">Serie A - Full Impact</title>
+    <desc lang="en">All the best moments from matchday 13 of Serie A, including Pisa v Inter, Roma v Napoli, and Milan v Lazio.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/40004fcc-41a0-454a-8965-3fc25c9e24a9/cover"/>
+  </programme>
+  <programme channel="tnt3" start="20251204153000 +0000" stop="20251204154500 +0000">
+    <title lang="en">TNT Sports Reload</title>
+    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7f4e16e1-e2d0-46a3-ae34-e4b57785e11f/cover"/>
+  </programme>
+  <programme channel="tnt3" start="20251204154500 +0000" stop="20251204161500 +0000">
     <title lang="en">Mass Participation World</title>
     <desc lang="en">Coverage of the Handi MDS as the participants embark on a gruelling multi-stage race through a stretch of the Sahara Desert in Morocco.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c04631b2-aec0-4c08-9b5b-545df66ca66f/cover"/>
-    <episode-num system="xmltv_ns">2024.29.0</episode-num>
-    <episode-num system="onscreen">S2025E30</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/43cb43e0-ea73-454d-8635-10fb570e4e1a/cover"/>
   </programme>
-  <programme channel="tnt3" start="20251204153000 +0000" stop="20251204160000 +0000">
+  <programme channel="tnt3" start="20251204161500 +0000" stop="20251204164500 +0000">
     <title lang="en">TCR World Tour Review</title>
     <desc lang="en">A review of the best action from rounds 16, 17 and 18 of the 2025 FIA TCR World Tour at the Zhuzhou International Circuit in Macau, China.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0e30d6c2-f183-43ca-be06-c51abc2e5c1a/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/677488de-89db-4aad-896f-3267ed85576f/cover"/>
   </programme>
-  <programme channel="tnt3" start="20251204160000 +0000" stop="20251204170000 +0000">
-    <title lang="en">Cricket: Super50 Cup Final</title>
-    <desc lang="en">Action from the final of the 2025 CG United Super50 Cup between Barbados Pride and reigning champions Trinidad and Tobago Red Force at the Brian Lara Cricket Academy.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/71cd46a5-1a79-4ea7-a3d9-81e7b2e85125/cover"/>
-  </programme>
-  <programme channel="tnt3" start="20251204170000 +0000" stop="20251204180000 +0000">
-    <title lang="en">1st Test: New Zealand v WI</title>
-    <desc lang="en">Day three of the first Test between New Zealand and West Indies at Hagley Oval in Christchurch. The Black Caps resume on 32 without loss, looking to build on their 96-run lead.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a0bd8495-bfdf-4bc4-8554-af113846bc2c/cover"/>
-  </programme>
-  <programme channel="tnt3" start="20251204180000 +0000" stop="20251204190000 +0000">
+  <programme channel="tnt3" start="20251204164500 +0000" stop="20251204174500 +0000">
     <title lang="en">India v South Africa - 2nd ODI</title>
     <desc lang="en">Following Virat Kohli's heroics in the series opener, India hunt for back-to-back wins as they take on South Africa at Shaheed Veer Narayan Singh International Cricket Stadium.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/48d87fbe-5e22-4710-8315-e96c7f7e8b72/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/ad514800-1f68-47ea-a400-213cce5beab5/cover"/>
   </programme>
-  <programme channel="tnt3" start="20251204190000 +0000" stop="20251204200000 +0000">
-    <title lang="en">The Ashes: 2nd Test - Day 1</title>
-    <desc lang="en">After Australia's emphatic win in the Ashes opener, England head to the Gabba in Brisbane - where they haven't won since 1986 - seeking redemption in this crucial day-night Test.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b8d3d536-e1f4-49a2-98f2-96ae3c0afc08/cover"/>
+  <programme channel="tnt3" start="20251204174500 +0000" stop="20251204193000 +0000">
+    <title lang="en">Live: Men's Alpine Skiing WC</title>
+    <desc lang="en">Coverage of day two of the Downhill, part of the Men's FIS Alpine Skiing World Cup in Beaver Creek, Colorado.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ed57ebbf-ca1d-448b-8cb4-957d54741804/cover"/>
+  </programme>
+  <programme channel="tnt3" start="20251204193000 +0000" stop="20251204200000 +0000">
+    <title lang="en">TCR World Tour Review</title>
+    <desc lang="en">A review of the best action from rounds 16, 17 and 18 of the 2025 FIA TCR World Tour at the Zhuzhou International Circuit in Macau, China.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/0e827098-2c71-4874-ada4-45d88fa53519/cover"/>
   </programme>
   <programme channel="tnt3" start="20251204200000 +0000" stop="20251204210000 +0000">
     <title lang="en">WRC Review</title>
-    <desc lang="en">A look back at Rally Saudi Arabia, part of the 2025 World Rally Championship.</desc>
+    <desc lang="en">A look back at all the thrilling action from the Rally Saudi Arabia, part of the 2025 World Rally Championship.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/eb1f38c0-dcfa-48bf-8a56-fda358ce2b5c/cover"/>
     <episode-num system="xmltv_ns">24.13.0</episode-num>
     <episode-num system="onscreen">S25E14</episode-num>
@@ -5013,23 +5016,23 @@
   </programme>
   <programme channel="tnt3" start="20251204220000 +0000" stop="20251204230000 +0000">
     <title lang="en">The Ashes: 2nd Test - Day 1</title>
-    <desc lang="en">After Australia's emphatic win in the Ashes opener, England head to the Gabba in Brisbane - where they haven't won since 1986 - seeking redemption in this crucial day-night Test.</desc>
+    <desc lang="en">Highlights from day one of the second Ashes Test at the Gabba, where Mitchell Starc was in lethal form with the pink ball and Joe Root scored his first century in Australia.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b8d3d536-e1f4-49a2-98f2-96ae3c0afc08/cover"/>
   </programme>
-  <programme channel="tnt3" start="20251204230000 +0000" stop="20251204233000 +0000">
-    <title lang="en">Ski Jumping World Cup</title>
-    <desc lang="en">Day one of the Women's Large Hill HS134, part of the FIS Ski Jumping World Cup in Wisla, Poland. Can Nozomi Maruyama claim a fourth win of the season so far?</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a91039f5-3948-4b95-b68a-c678324afa41/cover"/>
-  </programme>
-  <programme channel="tnt3" start="20251204233000 +0000" stop="20251205000000 +0000">
-    <title lang="en">TCR World Tour Review</title>
-    <desc lang="en">A review of the best action from rounds 16, 17 and 18 of the 2025 FIA TCR World Tour at the Zhuzhou International Circuit in Macau, China.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0e30d6c2-f183-43ca-be06-c51abc2e5c1a/cover"/>
-  </programme>
-  <programme channel="tnt3" start="20251205000000 +0000" stop="20251205010000 +0000">
+  <programme channel="tnt3" start="20251204230000 +0000" stop="20251205000000 +0000">
     <title lang="en">MotoGP Breakdown Show: Season Review</title>
     <desc lang="en">We review the biggest stories and most thrilling moments from the 2025 MotoGP season, as Marc Marquez claimed his first world title in six years.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/71fbf7bf-7652-4ac8-84c6-c4bd714f1bf1/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9c337147-9029-4123-87bb-d456c0f6e3cb/cover"/>
+  </programme>
+  <programme channel="tnt3" start="20251205000000 +0000" stop="20251205003000 +0000">
+    <title lang="en">Ski Jumping World Cup</title>
+    <desc lang="en">Day one of the Women's Large Hill HS134, part of the FIS Ski Jumping World Cup in Wisla, Poland. Can Nozomi Maruyama claim a fourth win of the season so far?</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/4668dc08-aed0-45f3-be73-a07d9b0535ca/cover"/>
+  </programme>
+  <programme channel="tnt3" start="20251205003000 +0000" stop="20251205010000 +0000">
+    <title lang="en">Alpine Skiing World Cup - Men's</title>
+    <desc lang="en">Coverage of day two of the Downhill, part of the Men's FIS Alpine Skiing World Cup in Beaver Creek, Colorado.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/9f5e3d86-b014-46da-bc7f-638dc9c2959c/cover"/>
   </programme>
   <programme channel="tnt3" start="20251205010000 +0000" stop="20251205013000 +0000">
     <title lang="en">Mass Participation World</title>
@@ -5045,18 +5048,18 @@
   </programme>
   <programme channel="tnt3" start="20251205020000 +0000" stop="20251205040000 +0000">
     <title lang="en">Snooker UK Championship</title>
-    <desc lang="en">Snooker highlights from the UK Championship. (04.12)</desc>
+    <desc lang="en">Highlights from round two of the Victorian Plumbing UK Championship 2025, featuring Zhang Anda v Zhao Xintong and John Higgins v Shaun Murphy.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4a377796-7f85-454f-97e0-2d56f32d42bd/cover"/>
   </programme>
   <programme channel="tnt3" start="20251205040000 +0000" stop="20251205043000 +0000">
-    <title lang="en">Serie A - Full Impact</title>
-    <desc lang="en">All the best moments from matchday 13 of Serie A, including Pisa v Inter, Roma v Napoli, and Milan v Lazio.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/8f20f012-9456-4290-886f-179efea90580/cover"/>
-  </programme>
-  <programme channel="tnt3" start="20251205043000 +0000" stop="20251205050000 +0000">
     <title lang="en">Ski Jumping World Cup</title>
     <desc lang="en">Day one of the Women's Large Hill HS134, part of the FIS Ski Jumping World Cup in Wisla, Poland. Can Nozomi Maruyama claim a fourth win of the season so far?</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a91039f5-3948-4b95-b68a-c678324afa41/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/62cae25a-369c-44ab-9e10-c4e252b479fb/cover"/>
+  </programme>
+  <programme channel="tnt3" start="20251205043000 +0000" stop="20251205050000 +0000">
+    <title lang="en">Alpine Skiing World Cup - Men's</title>
+    <desc lang="en">Coverage of day two of the Downhill, part of the Men's FIS Alpine Skiing World Cup in Beaver Creek, Colorado.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/beac7afa-c8ef-4c88-b71d-da9d16162f5f/cover"/>
   </programme>
   <programme channel="tnt3" start="20251205050000 +0000" stop="20251205060000 +0000">
     <title lang="en">FIA World Endurance Championship</title>
@@ -5065,7 +5068,7 @@
   </programme>
   <programme channel="tnt3" start="20251205060000 +0000" stop="20251205080000 +0000">
     <title lang="en">Snooker UK Championship</title>
-    <desc lang="en">Snooker highlights from the UK Championship. (04.12)</desc>
+    <desc lang="en">Highlights from round two of the Victorian Plumbing UK Championship 2025, featuring Zhang Anda v Zhao Xintong and John Higgins v Shaun Murphy.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4a377796-7f85-454f-97e0-2d56f32d42bd/cover"/>
   </programme>
   <programme channel="tnt3" start="20251205080000 +0000" stop="20251205100000 +0000">
@@ -5121,38 +5124,56 @@
     <episode-num system="xmltv_ns">24.48.0</episode-num>
     <episode-num system="onscreen">S25E49</episode-num>
   </programme>
-  <programme channel="tnt3" start="20251205163000 +0000" stop="20251205173000 +0000">
-    <title lang="en">Live: Luge World Cup</title>
-    <desc lang="en">Coverage of the Mixed Single, part of the Luge World Cup in Winterberg, Germany.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/59377487-3c33-44d7-8478-82ad7fc87e9d/cover"/>
+  <programme channel="tnt3" start="20251205163000 +0000" stop="20251205170000 +0000">
+    <title lang="en">Mass Participation World</title>
+    <desc lang="en">Coverage of the Handi MDS as the participants embark on a gruelling multi-stage race through a stretch of the Sahara Desert in Morocco.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/c78a6600-0e78-432b-950d-697b0cc604b5/cover"/>
   </programme>
-  <programme channel="tnt3" start="20251205173000 +0000" stop="20251205180000 +0000">
+  <programme channel="tnt3" start="20251205170000 +0000" stop="20251205171500 +0000">
+    <title lang="en">UEFA Champions League Goals Reload</title>
+    <desc lang="en">The pick of the goals from matchday five of the UEFA Champions League, including PSG v Spurs, Man City v Leverkusen, and Arsenal v Bayern Munich.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/07e765e3-c46b-4d26-b7ec-ecd81a19ebdb/cover"/>
+  </programme>
+  <programme channel="tnt3" start="20251205171500 +0000" stop="20251205174500 +0000">
+    <title lang="en">Alpine Skiing World Cup - Men's</title>
+    <desc lang="en">Coverage of day two of the Downhill, part of the Men's FIS Alpine Skiing World Cup in Beaver Creek, Colorado.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/39ac5aad-7f34-4f02-b40d-4671f9a4fb5c/cover"/>
+  </programme>
+  <programme channel="tnt3" start="20251205174500 +0000" stop="20251205184500 +0000">
+    <title lang="en">SailGP Highlights</title>
+    <desc lang="en">Highlights from the Championship-deciding Mubadala Abu Dhabi Sail Grand Prix 2025 Season Grand Final. Can Spain retain their title, or will another team take the crown?</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a5626018-aa01-4f88-bf2f-961a6171b13d/cover"/>
+  </programme>
+  <programme channel="tnt3" start="20251205184500 +0000" stop="20251205190000 +0000">
+    <title lang="en">UEFA Champions League Goals Reload</title>
+    <desc lang="en">The pick of the goals from matchday five of the UEFA Champions League, including PSG v Spurs, Man City v Leverkusen, and Arsenal v Bayern Munich.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3ee6a802-e7f5-4bb8-b2c2-2146d810aa6a/cover"/>
+  </programme>
+  <programme channel="tnt3" start="20251205190000 +0000" stop="20251205193000 +0000">
+    <title lang="en">Inside Serie A</title>
+    <desc lang="en">We pick the brains of tactical mastermind and Lazio coach Maurizio Sarri. Plus, former Arsenal defender Brooke Norton-Cuffy talks about life at Genoa.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/9e05dc17-a046-4cb4-aa28-b2822f3e3ab1/cover"/>
+  </programme>
+  <programme channel="tnt3" start="20251205193000 +0000" stop="20251205200000 +0000">
     <title lang="en">IBSF World Cup 2025/26</title>
     <desc lang="en">We relive all the best action from the 2025/26 International Bobsleigh and Skeleton Federation World Cup in Innsbruck, Austria.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/893ea18d-2cb0-4957-81e3-2c95ccadb285/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/c4a2ccfa-a0f2-48f6-b6c3-8399ed055684/cover"/>
   </programme>
-  <programme channel="tnt3" start="20251205180000 +0000" stop="20251205194500 +0000">
-    <title lang="en">Live: Men's Alpine Skiing WC</title>
-    <desc lang="en">Coverage of day two of the Downhill, part of the Men's FIS Alpine Skiing World Cup in Beaver Creek, Colorado.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/ac9fc8fe-5190-45a6-9ef3-b0c5d8613af5/cover"/>
-  </programme>
-  <programme channel="tnt3" start="20251205194500 +0000" stop="20251205201500 +0000">
-    <title lang="en">Inside Serie A</title>
-    <desc lang="en">A round up of all the latest news from Serie A.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/95ae6814-35a6-4bae-9cce-21da7bec68a9/cover"/>
-    <episode-num system="xmltv_ns">2024.13.0</episode-num>
-    <episode-num system="onscreen">S2025E14</episode-num>
+  <programme channel="tnt3" start="20251205200000 +0000" stop="20251205201500 +0000">
+    <title lang="en">TNT Sports Cricket Reload</title>
+    <desc lang="en">We look back at the best bowling action from the first Ashes Test between Australia and England at Optus Stadium, where Mitchell Starc took ten wickets for the hosts.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/58a473e5-1671-48be-9dc2-d8156dd3c767/cover"/>
   </programme>
   <programme channel="tnt3" start="20251205201500 +0000" stop="20251205203000 +0000">
     <title lang="en">TNT Sports Cricket Reload</title>
-    <desc lang="en">A look back at the second ODI between India and South Africa.</desc>
+    <desc lang="en">Relive the best batting action from the first Ashes Test between Australia and England at Optus Stadium, featuring a match-winning century by Travis Head.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/030c08bd-c64b-49b1-83ef-d23e9c143364/cover"/>
     <episode-num system="xmltv_ns">24.89.0</episode-num>
     <episode-num system="onscreen">S25E90</episode-num>
   </programme>
   <programme channel="tnt3" start="20251205203000 +0000" stop="20251205213000 +0000">
     <title lang="en">1st Test: New Zealand v WI</title>
-    <desc lang="en">Day four of the first Test between New Zealand and West Indies.</desc>
+    <desc lang="en">New Zealand begin day four in a commanding position, holding a second-innings lead of 481 runs. Can the West Indies salvage anything from this first Test in Christchurch?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/cefbb1f7-957b-4389-9e90-e7524631bffb/cover"/>
   </programme>
   <programme channel="tnt3" start="20251205213000 +0000" stop="20251206060000 +0000">
@@ -5274,7 +5295,7 @@
   </programme>
   <programme channel="tnt4" start="20251204060000 +0000" stop="20251204070000 +0000">
     <title lang="en">WRC Review</title>
-    <desc lang="en">A look back at Rally Saudi Arabia, part of the 2025 World Rally Championship.</desc>
+    <desc lang="en">A look back at all the thrilling action from the Rally Saudi Arabia, part of the 2025 World Rally Championship.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/eb1f38c0-dcfa-48bf-8a56-fda358ce2b5c/cover"/>
     <episode-num system="xmltv_ns">24.13.0</episode-num>
     <episode-num system="onscreen">S25E14</episode-num>
@@ -5335,7 +5356,7 @@
   </programme>
   <programme channel="tnt4" start="20251204110000 +0000" stop="20251204120000 +0000">
     <title lang="en">WRC Review</title>
-    <desc lang="en">A look back at Rally Saudi Arabia, part of the 2025 World Rally Championship.</desc>
+    <desc lang="en">A look back at all the thrilling action from the Rally Saudi Arabia, part of the 2025 World Rally Championship.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/eb1f38c0-dcfa-48bf-8a56-fda358ce2b5c/cover"/>
     <episode-num system="xmltv_ns">24.13.0</episode-num>
     <episode-num system="onscreen">S25E14</episode-num>
@@ -5630,7 +5651,7 @@
   </programme>
   <programme channel="tnt4" start="20251206080000 +0000" stop="20251206083000 +0000">
     <title lang="en">Inside Serie A</title>
-    <desc lang="en">A round up of all the latest news from Serie A.</desc>
+    <desc lang="en">We pick the brains of tactical mastermind and Lazio coach Maurizio Sarri. Plus, former Arsenal defender Brooke Norton-Cuffy talks about life at Genoa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/95ae6814-35a6-4bae-9cce-21da7bec68a9/cover"/>
     <episode-num system="xmltv_ns">2024.13.0</episode-num>
     <episode-num system="onscreen">S2025E14</episode-num>
@@ -5686,7 +5707,7 @@
   </programme>
   <programme channel="tnt4" start="20251206154500 +0000" stop="20251206173000 +0000">
     <title lang="en">Live: Women's Alpine Skiing WC</title>
-    <desc lang="en">Coverage of day one and run one of the Giant Slalom at the Women's FIS Alpine Skiing World Cup in Tremblant, Canada.</desc>
+    <desc lang="en">Coverage of run one on day one of the Giant Slalom at the Women's FIS Alpine Skiing World Cup in Tremblant, Canada.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/aa5220a3-dfef-4cda-8d1f-54a0e3ea9c91/cover"/>
   </programme>
   <programme channel="tnt4" start="20251206173000 +0000" stop="20251206190000 +0000">
@@ -5696,7 +5717,7 @@
   </programme>
   <programme channel="tnt4" start="20251206190000 +0000" stop="20251206200000 +0000">
     <title lang="en">Live: Women's Alpine Skiing WC</title>
-    <desc lang="en">Coverage of day one and run two of the Giant Slalom at the Women's FIS Alpine Skiing World Cup in Tremblant, Canada.</desc>
+    <desc lang="en">Coverage of run two on day one of the Giant Slalom at the Women's FIS Alpine Skiing World Cup in Tremblant, Canada.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3c8b608f-400b-4a03-9f80-bccfec8d446b/cover"/>
   </programme>
   <programme channel="tnt4" start="20251206200000 +0000" stop="20251206210000 +0000">
@@ -5992,8 +6013,8 @@
     <title lang="en">A Place in the Sun</title>
     <desc lang="en">Sisters Ros and Elizabeth look for a magnifique place in Bergerac for £350k. Will a grand country home, picture-perfection or a place ticking boxes by the minute have the je ne sais quoi?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c61bf484-755e-4457-9353-101680e2ae77/cover"/>
-    <episode-num system="xmltv_ns">2024.121.0</episode-num>
-    <episode-num system="onscreen">S2025E122</episode-num>
+    <episode-num system="xmltv_ns">2024.21.0</episode-num>
+    <episode-num system="onscreen">S2025E22</episode-num>
   </programme>
   <programme channel="4seven.uk" start="20251205180000 +0000" stop="20251205190000 +0000">
     <title lang="en">Kirstie and Phil's Love It or...</title>
@@ -6114,8 +6135,8 @@
     <title lang="en">A Place in the Sun</title>
     <desc lang="en">Sisters Ros and Elizabeth look for a magnifique place in Bergerac for £350k. Will a grand country home, picture-perfection or a place ticking boxes by the minute have the je ne sais quoi?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c61bf484-755e-4457-9353-101680e2ae77/cover"/>
-    <episode-num system="xmltv_ns">2024.121.0</episode-num>
-    <episode-num system="onscreen">S2025E122</episode-num>
+    <episode-num system="xmltv_ns">2024.21.0</episode-num>
+    <episode-num system="onscreen">S2025E22</episode-num>
   </programme>
   <programme channel="4seven.uk" start="20251206150000 +0000" stop="20251206160000 +0000">
     <title lang="en">A Place in the Sun</title>
@@ -6452,22 +6473,22 @@
     <desc lang="en">A daily round-up of showbiz news and gossip from around the world, focusing on celebrities, movies, music and entertainment.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6dffa119-948e-49d4-bcf7-9b9c1790286a/cover"/>
   </programme>
-  <programme channel="5Action.uk" start="20251205125000 +0000" stop="20251205134500 +0000">
+  <programme channel="5Action.uk" start="20251205125000 +0000" stop="20251205135000 +0000">
     <title lang="en">The Last Hunt</title>
     <desc lang="en">Western with Robert Taylor. In 1883 South Dakota, two buffalo hunters start a personal feud over a captured squaw and a stand-off with a Dakota raiding party over some stolen horses. (1956)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/34926234-aa3d-4446-bbea-0447b41f9444/cover"/>
   </programme>
-  <programme channel="5Action.uk" start="20251205134500 +0000" stop="20251205144500 +0000">
+  <programme channel="5Action.uk" start="20251205135000 +0000" stop="20251205145000 +0000">
     <title lang="en">Lawman</title>
     <desc lang="en">Western. A lawman from Bannock arrives in Sabbath to arrest all the cattlemen whose wild celebration the year before resulted in the accidental death of an old man. With Burt Lancaster. (1971)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8ff708a7-9ea0-463f-beb6-1f4c766465ac/cover"/>
   </programme>
-  <programme channel="5Action.uk" start="20251205144500 +0000" stop="20251205145000 +0000">
+  <programme channel="5Action.uk" start="20251205145000 +0000" stop="20251205145500 +0000">
     <title lang="en">Entertainment News on 5</title>
     <desc lang="en">A daily round-up of showbiz news and gossip from around the world, focusing on celebrities, movies, music and entertainment.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e87c0c61-7c4c-43da-81d5-e8fd95b010ac/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/b44498ec-5534-4870-a5c3-24cdc0d1919d/cover"/>
   </programme>
-  <programme channel="5Action.uk" start="20251205145000 +0000" stop="20251205160000 +0000">
+  <programme channel="5Action.uk" start="20251205145500 +0000" stop="20251205160000 +0000">
     <title lang="en">Lawman</title>
     <desc lang="en">Western. A lawman from Bannock arrives in Sabbath to arrest all the cattlemen whose wild celebration the year before resulted in the accidental death of an old man. With Burt Lancaster. (1971)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8ff708a7-9ea0-463f-beb6-1f4c766465ac/cover"/>
@@ -9552,7 +9573,7 @@
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20251205120000 +0000" stop="20251205123000 +0000">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Ep.49 Al Jazeera English gets to the bottom line on US politics and policies and how they affect the world.</desc>
+    <desc lang="en">Ep.49 Can the Trumpian style of peacemaking - long on ceremony, short on substance - achieve a lasting peace between Russia &amp; Ukraine?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/12ce6127-6fe3-40a2-b841-cd5acba19085/cover"/>
     <episode-num system="xmltv_ns">2024.48.0</episode-num>
     <episode-num system="onscreen">S2025E49</episode-num>
@@ -9726,7 +9747,7 @@
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20251206063000 +0000" stop="20251206070000 +0000">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Ep.49 Al Jazeera English gets to the bottom line on US politics and policies and how they affect the world.</desc>
+    <desc lang="en">Ep.49 Can the Trumpian style of peacemaking - long on ceremony, short on substance - achieve a lasting peace between Russia &amp; Ukraine?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/12ce6127-6fe3-40a2-b841-cd5acba19085/cover"/>
     <episode-num system="xmltv_ns">2024.48.0</episode-num>
     <episode-num system="onscreen">S2025E49</episode-num>
@@ -10537,8 +10558,8 @@
     <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="BBCFourHD.uk" start="20251206235500 +0000" stop="20251207005500 +0000">
-    <title lang="en">Parkinson with Judi Dench,...</title>
-    <desc lang="en">...Peter Kay, Charlotte Uhlenbroek and Will Young. Michael Parkinson talks to Dame Judi Dench, comedian Peter Kay and zoologist and TV presenter Charlotte Uhlenbroek. With music from Will Young.</desc>
+    <title lang="en">Parkinson</title>
+    <desc lang="en">Michael Parkinson talks to Dame Judi Dench, comedian Peter Kay and zoologist and TV presenter Charlotte Uhlenbroek. With music from Will Young.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/13c75f17-becb-347c-a9c6-26612927abc6/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20251203223000 +0000" stop="20251203230000 +0000">
@@ -10686,15 +10707,10 @@
     <desc lang="en">Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c08877c9-9d77-4bd0-b8da-c7cfab93f134/cover"/>
   </programme>
-  <programme channel="BBCNews.uk" start="20251204114500 +0000" stop="20251204120000 +0000">
+  <programme channel="BBCNews.uk" start="20251204114500 +0000" stop="20251204123000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/18f1578b-0ef4-49e7-a0bb-7a6b3fc12d9a/cover"/>
-  </programme>
-  <programme channel="BBCNews.uk" start="20251204120000 +0000" stop="20251204123000 +0000">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/4bed0c54-00b1-4227-925c-2fe5687111d4/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/4dfb39a2-21dd-4b92-b14c-59346d41ffe0/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20251204123000 +0000" stop="20251204130000 +0000">
     <title lang="en">BBC News Now</title>
@@ -11099,7 +11115,7 @@
   </programme>
   <programme channel="BBCNews.uk" start="20251206023000 +0000" stop="20251206030000 +0000">
     <title lang="en">Bribes, Lies and the British Politician</title>
-    <desc lang="en">A politician is stopped by police on his way to Russia. His texts reveal a web of deceit.</desc>
+    <desc lang="en">athan Gill, a politician close to Nigel Farage, takes bribes in support of Russia. His texts reveal pro-Russian interference reaching right to the heart of Europe's democracy.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/64df3347-ecee-4900-8058-3562b9511e54/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20251206030000 +0000" stop="20251206033000 +0000">
@@ -11214,8 +11230,8 @@
   </programme>
   <programme channel="BBCNews.uk" start="20251206163000 +0000" stop="20251206170000 +0000">
     <title lang="en">The Big Cases: Bribes, Lies and the British Politician</title>
-    <desc lang="en">A politician is stopped by police on his way to Russia. His texts reveal a web of deceit.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b03035e9-6f64-4597-b29d-ac97d58723f7/cover"/>
+    <desc lang="en">Politician Nathan Gill is stopped on his way to Russia. His texts reveal a web of deceit.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/64df3347-ecee-4900-8058-3562b9511e54/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20251206170000 +0000" stop="20251206180000 +0000">
     <title lang="en">BBC News</title>
@@ -11301,7 +11317,7 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20251204093000 +0000" stop="20251204104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Greg Rutherford and Sara Cox are joined by consumer journalist Rebecca Wilcox to discuss the dangers of dodgy streaming sticks.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/841e6d28-6bd9-4bcf-b036-dde67c605fe9/cover"/>
     <episode-num system="xmltv_ns">6.126.0</episode-num>
     <episode-num system="onscreen">S7E127</episode-num>
@@ -11386,7 +11402,7 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20251204190000 +0000" stop="20251204193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and JB Gill bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Timothy Spall, Toni Colette and Joe Wicks join Alex Jones and JB Gill on the sofa. Plus JLS surprise two inspirational sisters with a One Big Thank You.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1a7112e0-20c3-48bc-9589-045e22e20472/cover"/>
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20251204193000 +0000" stop="20251204200000 +0000">
@@ -11555,7 +11571,7 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20251205210000 +0000" stop="20251205213500 +0000">
     <title lang="en">Have I Got News for You</title>
-    <desc lang="en">9/10. Professor Hannah Fry is host, with guest panellist comedian Finlay Christie joining team captains Paul Merton and Ian Hislop.</desc>
+    <desc lang="en">9/10. Professor Hannah Fry is host, with guest panellists the Rev Richard Coles and comedian Finlay Christie joining team captains Paul Merton and Ian Hislop.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d7d27abd-009b-477d-9076-c4e027472568/cover"/>
     <episode-num system="xmltv_ns">69.8.0</episode-num>
     <episode-num system="onscreen">S70E9</episode-num>
@@ -11606,7 +11622,7 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20251206100000 +0000" stop="20251206113000 +0000">
     <title lang="en">Saturday Kitchen Live: Countdown to Christmas</title>
-    <desc lang="en">Matt is joined by Ben Lippett, Andi Oliver, Tasha Marriker, Ed Gamble and James Acaster.</desc>
+    <desc lang="en">Matt is joined by Ben Lippett, Andi Oliver, Tasha Marrikar, Ed Gamble and James Acaster.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2852898e-95f5-4522-80c2-827d13c49748/cover"/>
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20251206113000 +0000" stop="20251206120000 +0000">
@@ -11740,7 +11756,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20251204093000 +0000" stop="20251204104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Greg Rutherford and Sara Cox are joined by consumer journalist Rebecca Wilcox to discuss the dangers of dodgy streaming sticks.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/841e6d28-6bd9-4bcf-b036-dde67c605fe9/cover"/>
     <episode-num system="xmltv_ns">6.126.0</episode-num>
     <episode-num system="onscreen">S7E127</episode-num>
@@ -11825,7 +11841,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20251204190000 +0000" stop="20251204193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and JB Gill bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Timothy Spall, Toni Colette and Joe Wicks join Alex Jones and JB Gill on the sofa. Plus JLS surprise two inspirational sisters with a One Big Thank You.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1a7112e0-20c3-48bc-9589-045e22e20472/cover"/>
   </programme>
   <programme channel="BBCOneEast.uk" start="20251204193000 +0000" stop="20251204200000 +0000">
@@ -11994,7 +12010,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20251205210000 +0000" stop="20251205213500 +0000">
     <title lang="en">Have I Got News for You</title>
-    <desc lang="en">9/10. Professor Hannah Fry is host, with guest panellist comedian Finlay Christie joining team captains Paul Merton and Ian Hislop.</desc>
+    <desc lang="en">9/10. Professor Hannah Fry is host, with guest panellists the Rev Richard Coles and comedian Finlay Christie joining team captains Paul Merton and Ian Hislop.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d7d27abd-009b-477d-9076-c4e027472568/cover"/>
     <episode-num system="xmltv_ns">69.8.0</episode-num>
     <episode-num system="onscreen">S70E9</episode-num>
@@ -12045,7 +12061,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20251206100000 +0000" stop="20251206113000 +0000">
     <title lang="en">Saturday Kitchen Live: Countdown to Christmas</title>
-    <desc lang="en">Matt is joined by Ben Lippett, Andi Oliver, Tasha Marriker, Ed Gamble and James Acaster.</desc>
+    <desc lang="en">Matt is joined by Ben Lippett, Andi Oliver, Tasha Marrikar, Ed Gamble and James Acaster.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2852898e-95f5-4522-80c2-827d13c49748/cover"/>
   </programme>
   <programme channel="BBCOneEast.uk" start="20251206113000 +0000" stop="20251206120000 +0000">
@@ -12179,7 +12195,7 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20251204093000 +0000" stop="20251204104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Greg Rutherford and Sara Cox are joined by consumer journalist Rebecca Wilcox to discuss the dangers of dodgy streaming sticks.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/841e6d28-6bd9-4bcf-b036-dde67c605fe9/cover"/>
     <episode-num system="xmltv_ns">6.126.0</episode-num>
     <episode-num system="onscreen">S7E127</episode-num>
@@ -12264,7 +12280,7 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20251204190000 +0000" stop="20251204193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and JB Gill bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Timothy Spall, Toni Colette and Joe Wicks join Alex Jones and JB Gill on the sofa. Plus JLS surprise two inspirational sisters with a One Big Thank You.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1a7112e0-20c3-48bc-9589-045e22e20472/cover"/>
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20251204193000 +0000" stop="20251204200000 +0000">
@@ -12433,7 +12449,7 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20251205210000 +0000" stop="20251205213500 +0000">
     <title lang="en">Have I Got News for You</title>
-    <desc lang="en">9/10. Professor Hannah Fry is host, with guest panellist comedian Finlay Christie joining team captains Paul Merton and Ian Hislop.</desc>
+    <desc lang="en">9/10. Professor Hannah Fry is host, with guest panellists the Rev Richard Coles and comedian Finlay Christie joining team captains Paul Merton and Ian Hislop.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d7d27abd-009b-477d-9076-c4e027472568/cover"/>
     <episode-num system="xmltv_ns">69.8.0</episode-num>
     <episode-num system="onscreen">S70E9</episode-num>
@@ -12484,7 +12500,7 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20251206100000 +0000" stop="20251206113000 +0000">
     <title lang="en">Saturday Kitchen Live: Countdown to Christmas</title>
-    <desc lang="en">Matt is joined by Ben Lippett, Andi Oliver, Tasha Marriker, Ed Gamble and James Acaster.</desc>
+    <desc lang="en">Matt is joined by Ben Lippett, Andi Oliver, Tasha Marrikar, Ed Gamble and James Acaster.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2852898e-95f5-4522-80c2-827d13c49748/cover"/>
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20251206113000 +0000" stop="20251206120000 +0000">
@@ -12618,7 +12634,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20251204093000 +0000" stop="20251204104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Greg Rutherford and Sara Cox are joined by consumer journalist Rebecca Wilcox to discuss the dangers of dodgy streaming sticks.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/841e6d28-6bd9-4bcf-b036-dde67c605fe9/cover"/>
     <episode-num system="xmltv_ns">6.126.0</episode-num>
     <episode-num system="onscreen">S7E127</episode-num>
@@ -12703,7 +12719,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20251204190000 +0000" stop="20251204193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and JB Gill bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Timothy Spall, Toni Colette and Joe Wicks join Alex Jones and JB Gill on the sofa. Plus JLS surprise two inspirational sisters with a One Big Thank You.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1a7112e0-20c3-48bc-9589-045e22e20472/cover"/>
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20251204193000 +0000" stop="20251204200000 +0000">
@@ -12872,7 +12888,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20251205210000 +0000" stop="20251205213500 +0000">
     <title lang="en">Have I Got News for You</title>
-    <desc lang="en">9/10. Professor Hannah Fry is host, with guest panellist comedian Finlay Christie joining team captains Paul Merton and Ian Hislop.</desc>
+    <desc lang="en">9/10. Professor Hannah Fry is host, with guest panellists the Rev Richard Coles and comedian Finlay Christie joining team captains Paul Merton and Ian Hislop.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d7d27abd-009b-477d-9076-c4e027472568/cover"/>
     <episode-num system="xmltv_ns">69.8.0</episode-num>
     <episode-num system="onscreen">S70E9</episode-num>
@@ -12923,7 +12939,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20251206100000 +0000" stop="20251206113000 +0000">
     <title lang="en">Saturday Kitchen Live: Countdown to Christmas</title>
-    <desc lang="en">Matt is joined by Ben Lippett, Andi Oliver, Tasha Marriker, Ed Gamble and James Acaster.</desc>
+    <desc lang="en">Matt is joined by Ben Lippett, Andi Oliver, Tasha Marrikar, Ed Gamble and James Acaster.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2852898e-95f5-4522-80c2-827d13c49748/cover"/>
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20251206113000 +0000" stop="20251206120000 +0000">
@@ -13057,7 +13073,7 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20251204093000 +0000" stop="20251204104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Greg Rutherford and Sara Cox are joined by consumer journalist Rebecca Wilcox to discuss the dangers of dodgy streaming sticks.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/841e6d28-6bd9-4bcf-b036-dde67c605fe9/cover"/>
     <episode-num system="xmltv_ns">6.126.0</episode-num>
     <episode-num system="onscreen">S7E127</episode-num>
@@ -13142,7 +13158,7 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20251204190000 +0000" stop="20251204193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and JB Gill bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Timothy Spall, Toni Colette and Joe Wicks join Alex Jones and JB Gill on the sofa. Plus JLS surprise two inspirational sisters with a One Big Thank You.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1a7112e0-20c3-48bc-9589-045e22e20472/cover"/>
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20251204193000 +0000" stop="20251204200000 +0000">
@@ -13311,7 +13327,7 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20251205210000 +0000" stop="20251205213500 +0000">
     <title lang="en">Have I Got News for You</title>
-    <desc lang="en">9/10. Professor Hannah Fry is host, with guest panellist comedian Finlay Christie joining team captains Paul Merton and Ian Hislop.</desc>
+    <desc lang="en">9/10. Professor Hannah Fry is host, with guest panellists the Rev Richard Coles and comedian Finlay Christie joining team captains Paul Merton and Ian Hislop.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d7d27abd-009b-477d-9076-c4e027472568/cover"/>
     <episode-num system="xmltv_ns">69.8.0</episode-num>
     <episode-num system="onscreen">S70E9</episode-num>
@@ -13362,7 +13378,7 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20251206100000 +0000" stop="20251206113000 +0000">
     <title lang="en">Saturday Kitchen Live: Countdown to Christmas</title>
-    <desc lang="en">Matt is joined by Ben Lippett, Andi Oliver, Tasha Marriker, Ed Gamble and James Acaster.</desc>
+    <desc lang="en">Matt is joined by Ben Lippett, Andi Oliver, Tasha Marrikar, Ed Gamble and James Acaster.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2852898e-95f5-4522-80c2-827d13c49748/cover"/>
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20251206113000 +0000" stop="20251206120000 +0000">
@@ -13496,7 +13512,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20251204093000 +0000" stop="20251204104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Greg Rutherford and Sara Cox are joined by consumer journalist Rebecca Wilcox to discuss the dangers of dodgy streaming sticks.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/841e6d28-6bd9-4bcf-b036-dde67c605fe9/cover"/>
     <episode-num system="xmltv_ns">6.126.0</episode-num>
     <episode-num system="onscreen">S7E127</episode-num>
@@ -13581,7 +13597,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20251204190000 +0000" stop="20251204193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and JB Gill bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Timothy Spall, Toni Colette and Joe Wicks join Alex Jones and JB Gill on the sofa. Plus JLS surprise two inspirational sisters with a One Big Thank You.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1a7112e0-20c3-48bc-9589-045e22e20472/cover"/>
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20251204193000 +0000" stop="20251204200000 +0000">
@@ -13748,7 +13764,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20251205210000 +0000" stop="20251205213500 +0000">
     <title lang="en">Have I Got News for You</title>
-    <desc lang="en">9/10. Professor Hannah Fry is host, with guest panellist comedian Finlay Christie joining team captains Paul Merton and Ian Hislop.</desc>
+    <desc lang="en">9/10. Professor Hannah Fry is host, with guest panellists the Rev Richard Coles and comedian Finlay Christie joining team captains Paul Merton and Ian Hislop.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d7d27abd-009b-477d-9076-c4e027472568/cover"/>
     <episode-num system="xmltv_ns">69.8.0</episode-num>
     <episode-num system="onscreen">S70E9</episode-num>
@@ -13799,7 +13815,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20251206100000 +0000" stop="20251206113000 +0000">
     <title lang="en">Saturday Kitchen Live: Countdown to Christmas</title>
-    <desc lang="en">Matt is joined by Ben Lippett, Andi Oliver, Tasha Marriker, Ed Gamble and James Acaster.</desc>
+    <desc lang="en">Matt is joined by Ben Lippett, Andi Oliver, Tasha Marrikar, Ed Gamble and James Acaster.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2852898e-95f5-4522-80c2-827d13c49748/cover"/>
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20251206113000 +0000" stop="20251206120000 +0000">
@@ -13933,7 +13949,7 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20251204093000 +0000" stop="20251204104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Greg Rutherford and Sara Cox are joined by consumer journalist Rebecca Wilcox to discuss the dangers of dodgy streaming sticks.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/841e6d28-6bd9-4bcf-b036-dde67c605fe9/cover"/>
     <episode-num system="xmltv_ns">6.126.0</episode-num>
     <episode-num system="onscreen">S7E127</episode-num>
@@ -14023,7 +14039,7 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20251204190000 +0000" stop="20251204193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and JB Gill bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Timothy Spall, Toni Colette and Joe Wicks join Alex Jones and JB Gill on the sofa. Plus JLS surprise two inspirational sisters with a One Big Thank You.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1a7112e0-20c3-48bc-9589-045e22e20472/cover"/>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20251204193000 +0000" stop="20251204200000 +0000">
@@ -14192,7 +14208,7 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20251205210000 +0000" stop="20251205213500 +0000">
     <title lang="en">Have I Got News for You</title>
-    <desc lang="en">9/10. Professor Hannah Fry is host, with guest panellist comedian Finlay Christie joining team captains Paul Merton and Ian Hislop.</desc>
+    <desc lang="en">9/10. Professor Hannah Fry is host, with guest panellists the Rev Richard Coles and comedian Finlay Christie joining team captains Paul Merton and Ian Hislop.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d7d27abd-009b-477d-9076-c4e027472568/cover"/>
     <episode-num system="xmltv_ns">69.8.0</episode-num>
     <episode-num system="onscreen">S70E9</episode-num>
@@ -14245,7 +14261,7 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20251206100000 +0000" stop="20251206113000 +0000">
     <title lang="en">Saturday Kitchen Live: Countdown to Christmas</title>
-    <desc lang="en">Matt is joined by Ben Lippett, Andi Oliver, Tasha Marriker, Ed Gamble and James Acaster.</desc>
+    <desc lang="en">Matt is joined by Ben Lippett, Andi Oliver, Tasha Marrikar, Ed Gamble and James Acaster.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2852898e-95f5-4522-80c2-827d13c49748/cover"/>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20251206113000 +0000" stop="20251206120000 +0000">
@@ -14377,7 +14393,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20251204093000 +0000" stop="20251204104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Greg Rutherford and Sara Cox are joined by consumer journalist Rebecca Wilcox to discuss the dangers of dodgy streaming sticks.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/841e6d28-6bd9-4bcf-b036-dde67c605fe9/cover"/>
     <episode-num system="xmltv_ns">6.126.0</episode-num>
     <episode-num system="onscreen">S7E127</episode-num>
@@ -14634,7 +14650,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20251205210000 +0000" stop="20251205213500 +0000">
     <title lang="en">Have I Got News for You</title>
-    <desc lang="en">9/10. Professor Hannah Fry is host, with guest panellist comedian Finlay Christie joining team captains Paul Merton and Ian Hislop.</desc>
+    <desc lang="en">9/10. Professor Hannah Fry is host, with guest panellists the Rev Richard Coles and comedian Finlay Christie joining team captains Paul Merton and Ian Hislop.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d7d27abd-009b-477d-9076-c4e027472568/cover"/>
     <episode-num system="xmltv_ns">69.8.0</episode-num>
     <episode-num system="onscreen">S70E9</episode-num>
@@ -14685,7 +14701,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20251206100000 +0000" stop="20251206113000 +0000">
     <title lang="en">Saturday Kitchen Live: Countdown to Christmas</title>
-    <desc lang="en">Matt is joined by Ben Lippett, Andi Oliver, Tasha Marriker, Ed Gamble and James Acaster.</desc>
+    <desc lang="en">Matt is joined by Ben Lippett, Andi Oliver, Tasha Marrikar, Ed Gamble and James Acaster.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2852898e-95f5-4522-80c2-827d13c49748/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20251206113000 +0000" stop="20251206120000 +0000">
@@ -14817,7 +14833,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20251204093000 +0000" stop="20251204104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Greg Rutherford and Sara Cox are joined by consumer journalist Rebecca Wilcox to discuss the dangers of dodgy streaming sticks.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/841e6d28-6bd9-4bcf-b036-dde67c605fe9/cover"/>
     <episode-num system="xmltv_ns">6.126.0</episode-num>
     <episode-num system="onscreen">S7E127</episode-num>
@@ -14902,7 +14918,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20251204190000 +0000" stop="20251204193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and JB Gill bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Timothy Spall, Toni Colette and Joe Wicks join Alex Jones and JB Gill on the sofa. Plus JLS surprise two inspirational sisters with a One Big Thank You.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1a7112e0-20c3-48bc-9589-045e22e20472/cover"/>
   </programme>
   <programme channel="BBCOneSouth.uk" start="20251204193000 +0000" stop="20251204200000 +0000">
@@ -15071,7 +15087,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20251205210000 +0000" stop="20251205213500 +0000">
     <title lang="en">Have I Got News for You</title>
-    <desc lang="en">9/10. Professor Hannah Fry is host, with guest panellist comedian Finlay Christie joining team captains Paul Merton and Ian Hislop.</desc>
+    <desc lang="en">9/10. Professor Hannah Fry is host, with guest panellists the Rev Richard Coles and comedian Finlay Christie joining team captains Paul Merton and Ian Hislop.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d7d27abd-009b-477d-9076-c4e027472568/cover"/>
     <episode-num system="xmltv_ns">69.8.0</episode-num>
     <episode-num system="onscreen">S70E9</episode-num>
@@ -15122,7 +15138,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20251206100000 +0000" stop="20251206113000 +0000">
     <title lang="en">Saturday Kitchen Live: Countdown to Christmas</title>
-    <desc lang="en">Matt is joined by Ben Lippett, Andi Oliver, Tasha Marriker, Ed Gamble and James Acaster.</desc>
+    <desc lang="en">Matt is joined by Ben Lippett, Andi Oliver, Tasha Marrikar, Ed Gamble and James Acaster.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2852898e-95f5-4522-80c2-827d13c49748/cover"/>
   </programme>
   <programme channel="BBCOneSouth.uk" start="20251206113000 +0000" stop="20251206120000 +0000">
@@ -15256,7 +15272,7 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20251204093000 +0000" stop="20251204104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Greg Rutherford and Sara Cox are joined by consumer journalist Rebecca Wilcox to discuss the dangers of dodgy streaming sticks.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/841e6d28-6bd9-4bcf-b036-dde67c605fe9/cover"/>
     <episode-num system="xmltv_ns">6.126.0</episode-num>
     <episode-num system="onscreen">S7E127</episode-num>
@@ -15341,7 +15357,7 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20251204190000 +0000" stop="20251204193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and JB Gill bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Timothy Spall, Toni Colette and Joe Wicks join Alex Jones and JB Gill on the sofa. Plus JLS surprise two inspirational sisters with a One Big Thank You.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1a7112e0-20c3-48bc-9589-045e22e20472/cover"/>
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20251204193000 +0000" stop="20251204200000 +0000">
@@ -15510,7 +15526,7 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20251205210000 +0000" stop="20251205213500 +0000">
     <title lang="en">Have I Got News for You</title>
-    <desc lang="en">9/10. Professor Hannah Fry is host, with guest panellist comedian Finlay Christie joining team captains Paul Merton and Ian Hislop.</desc>
+    <desc lang="en">9/10. Professor Hannah Fry is host, with guest panellists the Rev Richard Coles and comedian Finlay Christie joining team captains Paul Merton and Ian Hislop.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d7d27abd-009b-477d-9076-c4e027472568/cover"/>
     <episode-num system="xmltv_ns">69.8.0</episode-num>
     <episode-num system="onscreen">S70E9</episode-num>
@@ -15561,7 +15577,7 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20251206100000 +0000" stop="20251206113000 +0000">
     <title lang="en">Saturday Kitchen Live: Countdown to Christmas</title>
-    <desc lang="en">Matt is joined by Ben Lippett, Andi Oliver, Tasha Marriker, Ed Gamble and James Acaster.</desc>
+    <desc lang="en">Matt is joined by Ben Lippett, Andi Oliver, Tasha Marrikar, Ed Gamble and James Acaster.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2852898e-95f5-4522-80c2-827d13c49748/cover"/>
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20251206113000 +0000" stop="20251206120000 +0000">
@@ -15695,7 +15711,7 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20251204093000 +0000" stop="20251204104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Greg Rutherford and Sara Cox are joined by consumer journalist Rebecca Wilcox to discuss the dangers of dodgy streaming sticks.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/841e6d28-6bd9-4bcf-b036-dde67c605fe9/cover"/>
     <episode-num system="xmltv_ns">6.126.0</episode-num>
     <episode-num system="onscreen">S7E127</episode-num>
@@ -15780,7 +15796,7 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20251204190000 +0000" stop="20251204193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and JB Gill bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Timothy Spall, Toni Colette and Joe Wicks join Alex Jones and JB Gill on the sofa. Plus JLS surprise two inspirational sisters with a One Big Thank You.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1a7112e0-20c3-48bc-9589-045e22e20472/cover"/>
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20251204193000 +0000" stop="20251204200000 +0000">
@@ -15949,7 +15965,7 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20251205210000 +0000" stop="20251205213500 +0000">
     <title lang="en">Have I Got News for You</title>
-    <desc lang="en">9/10. Professor Hannah Fry is host, with guest panellist comedian Finlay Christie joining team captains Paul Merton and Ian Hislop.</desc>
+    <desc lang="en">9/10. Professor Hannah Fry is host, with guest panellists the Rev Richard Coles and comedian Finlay Christie joining team captains Paul Merton and Ian Hislop.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d7d27abd-009b-477d-9076-c4e027472568/cover"/>
     <episode-num system="xmltv_ns">69.8.0</episode-num>
     <episode-num system="onscreen">S70E9</episode-num>
@@ -16000,7 +16016,7 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20251206100000 +0000" stop="20251206113000 +0000">
     <title lang="en">Saturday Kitchen Live: Countdown to Christmas</title>
-    <desc lang="en">Matt is joined by Ben Lippett, Andi Oliver, Tasha Marriker, Ed Gamble and James Acaster.</desc>
+    <desc lang="en">Matt is joined by Ben Lippett, Andi Oliver, Tasha Marrikar, Ed Gamble and James Acaster.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2852898e-95f5-4522-80c2-827d13c49748/cover"/>
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20251206113000 +0000" stop="20251206120000 +0000">
@@ -16143,7 +16159,7 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20251204093000 +0000" stop="20251204104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Greg Rutherford and Sara Cox are joined by consumer journalist Rebecca Wilcox to discuss the dangers of dodgy streaming sticks.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/841e6d28-6bd9-4bcf-b036-dde67c605fe9/cover"/>
     <episode-num system="xmltv_ns">6.126.0</episode-num>
     <episode-num system="onscreen">S7E127</episode-num>
@@ -16228,7 +16244,7 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20251204190000 +0000" stop="20251204193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and JB Gill bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Timothy Spall, Toni Colette and Joe Wicks join Alex Jones and JB Gill on the sofa. Plus JLS surprise two inspirational sisters with a One Big Thank You.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1a7112e0-20c3-48bc-9589-045e22e20472/cover"/>
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20251204193000 +0000" stop="20251204200000 +0000">
@@ -16397,7 +16413,7 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20251205210000 +0000" stop="20251205213500 +0000">
     <title lang="en">Have I Got News for You</title>
-    <desc lang="en">9/10. Professor Hannah Fry is host, with guest panellist comedian Finlay Christie joining team captains Paul Merton and Ian Hislop.</desc>
+    <desc lang="en">9/10. Professor Hannah Fry is host, with guest panellists the Rev Richard Coles and comedian Finlay Christie joining team captains Paul Merton and Ian Hislop.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d7d27abd-009b-477d-9076-c4e027472568/cover"/>
     <episode-num system="xmltv_ns">69.8.0</episode-num>
     <episode-num system="onscreen">S70E9</episode-num>
@@ -16450,7 +16466,7 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20251206100000 +0000" stop="20251206113000 +0000">
     <title lang="en">Saturday Kitchen Live: Countdown to Christmas</title>
-    <desc lang="en">Matt is joined by Ben Lippett, Andi Oliver, Tasha Marriker, Ed Gamble and James Acaster.</desc>
+    <desc lang="en">Matt is joined by Ben Lippett, Andi Oliver, Tasha Marrikar, Ed Gamble and James Acaster.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2852898e-95f5-4522-80c2-827d13c49748/cover"/>
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20251206113000 +0000" stop="20251206120000 +0000">
@@ -16584,7 +16600,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20251204093000 +0000" stop="20251204104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Greg Rutherford and Sara Cox are joined by consumer journalist Rebecca Wilcox to discuss the dangers of dodgy streaming sticks.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/841e6d28-6bd9-4bcf-b036-dde67c605fe9/cover"/>
     <episode-num system="xmltv_ns">6.126.0</episode-num>
     <episode-num system="onscreen">S7E127</episode-num>
@@ -16669,7 +16685,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20251204190000 +0000" stop="20251204193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and JB Gill bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Timothy Spall, Toni Colette and Joe Wicks join Alex Jones and JB Gill on the sofa. Plus JLS surprise two inspirational sisters with a One Big Thank You.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1a7112e0-20c3-48bc-9589-045e22e20472/cover"/>
   </programme>
   <programme channel="BBCOneWest.uk" start="20251204193000 +0000" stop="20251204200000 +0000">
@@ -16838,7 +16854,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20251205210000 +0000" stop="20251205213500 +0000">
     <title lang="en">Have I Got News for You</title>
-    <desc lang="en">9/10. Professor Hannah Fry is host, with guest panellist comedian Finlay Christie joining team captains Paul Merton and Ian Hislop.</desc>
+    <desc lang="en">9/10. Professor Hannah Fry is host, with guest panellists the Rev Richard Coles and comedian Finlay Christie joining team captains Paul Merton and Ian Hislop.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d7d27abd-009b-477d-9076-c4e027472568/cover"/>
     <episode-num system="xmltv_ns">69.8.0</episode-num>
     <episode-num system="onscreen">S70E9</episode-num>
@@ -16889,7 +16905,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20251206100000 +0000" stop="20251206113000 +0000">
     <title lang="en">Saturday Kitchen Live: Countdown to Christmas</title>
-    <desc lang="en">Matt is joined by Ben Lippett, Andi Oliver, Tasha Marriker, Ed Gamble and James Acaster.</desc>
+    <desc lang="en">Matt is joined by Ben Lippett, Andi Oliver, Tasha Marrikar, Ed Gamble and James Acaster.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2852898e-95f5-4522-80c2-827d13c49748/cover"/>
   </programme>
   <programme channel="BBCOneWest.uk" start="20251206113000 +0000" stop="20251206120000 +0000">
@@ -17023,7 +17039,7 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20251204093000 +0000" stop="20251204104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Greg Rutherford and Sara Cox are joined by consumer journalist Rebecca Wilcox to discuss the dangers of dodgy streaming sticks.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/841e6d28-6bd9-4bcf-b036-dde67c605fe9/cover"/>
     <episode-num system="xmltv_ns">6.126.0</episode-num>
     <episode-num system="onscreen">S7E127</episode-num>
@@ -17108,7 +17124,7 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20251204190000 +0000" stop="20251204193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and JB Gill bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Timothy Spall, Toni Colette and Joe Wicks join Alex Jones and JB Gill on the sofa. Plus JLS surprise two inspirational sisters with a One Big Thank You.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1a7112e0-20c3-48bc-9589-045e22e20472/cover"/>
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20251204193000 +0000" stop="20251204200000 +0000">
@@ -17277,7 +17293,7 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20251205210000 +0000" stop="20251205213500 +0000">
     <title lang="en">Have I Got News for You</title>
-    <desc lang="en">9/10. Professor Hannah Fry is host, with guest panellist comedian Finlay Christie joining team captains Paul Merton and Ian Hislop.</desc>
+    <desc lang="en">9/10. Professor Hannah Fry is host, with guest panellists the Rev Richard Coles and comedian Finlay Christie joining team captains Paul Merton and Ian Hislop.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d7d27abd-009b-477d-9076-c4e027472568/cover"/>
     <episode-num system="xmltv_ns">69.8.0</episode-num>
     <episode-num system="onscreen">S70E9</episode-num>
@@ -17328,7 +17344,7 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20251206100000 +0000" stop="20251206113000 +0000">
     <title lang="en">Saturday Kitchen Live: Countdown to Christmas</title>
-    <desc lang="en">Matt is joined by Ben Lippett, Andi Oliver, Tasha Marriker, Ed Gamble and James Acaster.</desc>
+    <desc lang="en">Matt is joined by Ben Lippett, Andi Oliver, Tasha Marrikar, Ed Gamble and James Acaster.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2852898e-95f5-4522-80c2-827d13c49748/cover"/>
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20251206113000 +0000" stop="20251206120000 +0000">
@@ -17462,7 +17478,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20251204093000 +0000" stop="20251204104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Greg Rutherford and Sara Cox are joined by consumer journalist Rebecca Wilcox to discuss the dangers of dodgy streaming sticks.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/841e6d28-6bd9-4bcf-b036-dde67c605fe9/cover"/>
     <episode-num system="xmltv_ns">6.126.0</episode-num>
     <episode-num system="onscreen">S7E127</episode-num>
@@ -17547,7 +17563,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20251204190000 +0000" stop="20251204193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and JB Gill bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Timothy Spall, Toni Colette and Joe Wicks join Alex Jones and JB Gill on the sofa. Plus JLS surprise two inspirational sisters with a One Big Thank You.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1a7112e0-20c3-48bc-9589-045e22e20472/cover"/>
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20251204193000 +0000" stop="20251204200000 +0000">
@@ -17716,7 +17732,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20251205210000 +0000" stop="20251205213500 +0000">
     <title lang="en">Have I Got News for You</title>
-    <desc lang="en">9/10. Professor Hannah Fry is host, with guest panellist comedian Finlay Christie joining team captains Paul Merton and Ian Hislop.</desc>
+    <desc lang="en">9/10. Professor Hannah Fry is host, with guest panellists the Rev Richard Coles and comedian Finlay Christie joining team captains Paul Merton and Ian Hislop.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d7d27abd-009b-477d-9076-c4e027472568/cover"/>
     <episode-num system="xmltv_ns">69.8.0</episode-num>
     <episode-num system="onscreen">S70E9</episode-num>
@@ -17767,7 +17783,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20251206100000 +0000" stop="20251206113000 +0000">
     <title lang="en">Saturday Kitchen Live: Countdown to Christmas</title>
-    <desc lang="en">Matt is joined by Ben Lippett, Andi Oliver, Tasha Marriker, Ed Gamble and James Acaster.</desc>
+    <desc lang="en">Matt is joined by Ben Lippett, Andi Oliver, Tasha Marrikar, Ed Gamble and James Acaster.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2852898e-95f5-4522-80c2-827d13c49748/cover"/>
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20251206113000 +0000" stop="20251206120000 +0000">
@@ -17901,7 +17917,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20251204093000 +0000" stop="20251204104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Greg Rutherford and Sara Cox are joined by consumer journalist Rebecca Wilcox to discuss the dangers of dodgy streaming sticks.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/841e6d28-6bd9-4bcf-b036-dde67c605fe9/cover"/>
     <episode-num system="xmltv_ns">6.126.0</episode-num>
     <episode-num system="onscreen">S7E127</episode-num>
@@ -17986,7 +18002,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20251204190000 +0000" stop="20251204193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and JB Gill bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Timothy Spall, Toni Colette and Joe Wicks join Alex Jones and JB Gill on the sofa. Plus JLS surprise two inspirational sisters with a One Big Thank You.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1a7112e0-20c3-48bc-9589-045e22e20472/cover"/>
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20251204193000 +0000" stop="20251204200000 +0000">
@@ -18155,7 +18171,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20251205210000 +0000" stop="20251205213500 +0000">
     <title lang="en">Have I Got News for You</title>
-    <desc lang="en">9/10. Professor Hannah Fry is host, with guest panellist comedian Finlay Christie joining team captains Paul Merton and Ian Hislop.</desc>
+    <desc lang="en">9/10. Professor Hannah Fry is host, with guest panellists the Rev Richard Coles and comedian Finlay Christie joining team captains Paul Merton and Ian Hislop.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d7d27abd-009b-477d-9076-c4e027472568/cover"/>
     <episode-num system="xmltv_ns">69.8.0</episode-num>
     <episode-num system="onscreen">S70E9</episode-num>
@@ -18206,7 +18222,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20251206100000 +0000" stop="20251206113000 +0000">
     <title lang="en">Saturday Kitchen Live: Countdown to Christmas</title>
-    <desc lang="en">Matt is joined by Ben Lippett, Andi Oliver, Tasha Marriker, Ed Gamble and James Acaster.</desc>
+    <desc lang="en">Matt is joined by Ben Lippett, Andi Oliver, Tasha Marrikar, Ed Gamble and James Acaster.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2852898e-95f5-4522-80c2-827d13c49748/cover"/>
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20251206113000 +0000" stop="20251206120000 +0000">
@@ -18371,15 +18387,30 @@
     <desc lang="en">Coverage of questions in the House of Commons to Darren Jones, the cabinet office minister, and his team on Thursday 4 December.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0391ac9b-b63b-4196-b2aa-16d280e0d341/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20251204103000 +0000" stop="20251204113000 +0000">
+  <programme channel="BBCParliament.uk" start="20251204103000 +0000" stop="20251204111500 +0000">
+    <title lang="en">Live Cancellation of Local...</title>
+    <desc lang="en">...Elections Urgent Question. An urgent question on the cancellation of some local elections set for next year.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/0cae4bce-82dd-4efc-b5b0-fd1d7b64be07/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20251204111500 +0000" stop="20251204121500 +0000">
     <title lang="en">Live Commons Business Questions</title>
     <desc lang="en">Coverage of the announcement of future Commons business and questions to Alan Campbell, the leader of the Commons, on Thursday 4 December.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/2d54e2cb-fa1f-468f-9f2a-26e7574260d6/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/6430b437-3ccf-4958-8652-4713bcdef15b/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20251204113000 +0000" stop="20251204173000 +0000">
+  <programme channel="BBCParliament.uk" start="20251204121500 +0000" stop="20251204131500 +0000">
+    <title lang="en">Live Camden Nursery Sexual Abuse Case Statement</title>
+    <desc lang="en">Coverage of a statement on a nursery worker pleading guilty to sexually abusing young children in his care in North London, on Thursday 4 December.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/26161f4d-7a76-4718-a279-59b1a8e4c1c7/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20251204131500 +0000" stop="20251204141500 +0000">
+    <title lang="en">Live Dawn Sturgess Inquiry Statement</title>
+    <desc lang="en">Coverage of a statement on the outcome of the inquiry into the death of Dawn Sturgess, who was poisoned by the nerve agent Novichok in Salisbury in 2018, on Thursday 4 December.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/75bf4906-b767-4a5a-8409-ceae86117562/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20251204141500 +0000" stop="20251204173000 +0000">
     <title lang="en">Live House of Commons</title>
-    <desc lang="en">Coverage of the day's proceedings in the House of Commons including backbench business debates on the war in Ukraine and on St Andrew's Day, on Thursday 4 December.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d1395d02-01d9-443b-8ef0-49205ce4de0e/cover"/>
+    <desc lang="en">Proceedings include a select committee statement on a report from the NI Affairs committee on the government's Northern Ireland legacy legislation, on Thursday 4 December.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f883553c-e3c1-4cda-8aee-f87f913c8dcc/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20251204173000 +0000" stop="20251204181500 +0000">
     <title lang="en">Scottish First Minister's Questions</title>
@@ -18391,10 +18422,25 @@
     <desc lang="en">Questions in the House of Lords to government ministers on Thursday 4 December.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6abbf710-ee3d-429b-8d24-5e6b8dcc12f2/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20251204190000 +0000" stop="20251205021500 +0000">
-    <title lang="en">House of Lords</title>
-    <desc lang="en">Business in the House of Lords including the debate on the autumn budget, on Thursday 4 December.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c70c74fd-fa6c-4e5c-bd45-73e143296484/cover"/>
+  <programme channel="BBCParliament.uk" start="20251204190000 +0000" stop="20251204210000 +0000">
+    <title lang="en">House of Lords - Budget Debate, Part 1</title>
+    <desc lang="en">Coverage of a debate in the House of Lords on the Autumn Budget, on Thursday 4 December.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/2cc91f7b-db93-469d-86c2-9708abb57743/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20251204210000 +0000" stop="20251204230000 +0000">
+    <title lang="en">House of Lords - Budget Debate, Part 2</title>
+    <desc lang="en">Coverage of a debate in the House of Lords on the Autumn Budget, on Thursday 4 December.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f995b562-2f9e-41b0-b536-51b7d4df4708/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20251204230000 +0000" stop="20251205010000 +0000">
+    <title lang="en">House of Lords - Budget Debate, Part 3</title>
+    <desc lang="en">Coverage of a debate in the House of Lords on the Autumn Budget, on Thursday 4 December.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/81037ebe-cd50-4e73-b39d-5cc6405fffcc/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20251205010000 +0000" stop="20251205021500 +0000">
+    <title lang="en">House of Lords - Budget Debate, Part 4</title>
+    <desc lang="en">Coverage of a debate in the House of Lords on the Autumn Budget, on Thursday 4 December.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/78336649-d96c-45d3-bd20-fff20f34f91c/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20251205021500 +0000" stop="20251205031500 +0000">
     <title lang="en">Cabinet Office Questions</title>
@@ -19220,7 +19266,7 @@
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20251204121500 +0000" stop="20251204130000 +0000">
     <title lang="en">Politics Live</title>
-    <desc lang="en">The big political issues of the day.</desc>
+    <desc lang="en">Is facial recognition a threat to civil liberties? And will there be a Tory-Reform electoral pact?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/760aa6ca-9da8-49b9-9b38-6381e79a62fc/cover"/>
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20251204130000 +0000" stop="20251204171500 +0000">
@@ -19326,7 +19372,9 @@
   <programme channel="BBCTwoEngland.uk" start="20251205080000 +0000" stop="20251205083000 +0000">
     <title lang="en">The Social Knitwork - Our Lives</title>
     <desc lang="en">Northern Irish fashion designer Hope Macaulay and a team of home knitters gear up to open their first ever shop in Los Angeles. Will this handmade label make it in Hollywood?</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0ae3e3c3-b69a-46bd-95ca-ae1c51af1dc4/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/d3aa30bb-1294-447a-9d4f-32b756c89a1e/cover"/>
+    <episode-num system="xmltv_ns">8.0.0</episode-num>
+    <episode-num system="onscreen">S9E1</episode-num>
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20251205083000 +0000" stop="20251205090000 +0000">
     <title lang="en">The Best of Weatherman Walking: Welsh Islands</title>
@@ -19556,7 +19604,7 @@
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20251206170000 +0000" stop="20251206193000 +0000">
     <title lang="en">MOTD Live: Sutton United v Shrewsbury Town</title>
-    <desc lang="en">Live coverage from the second round of the FA Cup as Sutton United play Shrewsbury Town.</desc>
+    <desc lang="en">Sutton United of the National League take on League Two Shrewsbury Town in a live second-round FA Cup tie, with the EFL side looking to avoid an upset in south London.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f9f65542-f87c-423e-8891-1ab98284b132/cover"/>
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20251206193000 +0000" stop="20251206220000 +0000">
@@ -19640,7 +19688,7 @@
   </programme>
   <programme channel="BBCTwoHD.uk" start="20251204121500 +0000" stop="20251204130000 +0000">
     <title lang="en">Politics Live</title>
-    <desc lang="en">The big political issues of the day.</desc>
+    <desc lang="en">Is facial recognition a threat to civil liberties? And will there be a Tory-Reform electoral pact?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/760aa6ca-9da8-49b9-9b38-6381e79a62fc/cover"/>
   </programme>
   <programme channel="BBCTwoHD.uk" start="20251204130000 +0000" stop="20251204171500 +0000">
@@ -19746,7 +19794,9 @@
   <programme channel="BBCTwoHD.uk" start="20251205080000 +0000" stop="20251205083000 +0000">
     <title lang="en">The Social Knitwork - Our Lives</title>
     <desc lang="en">Northern Irish fashion designer Hope Macaulay and a team of home knitters gear up to open their first ever shop in Los Angeles. Will this handmade label make it in Hollywood?</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0ae3e3c3-b69a-46bd-95ca-ae1c51af1dc4/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/d3aa30bb-1294-447a-9d4f-32b756c89a1e/cover"/>
+    <episode-num system="xmltv_ns">8.0.0</episode-num>
+    <episode-num system="onscreen">S9E1</episode-num>
   </programme>
   <programme channel="BBCTwoHD.uk" start="20251205083000 +0000" stop="20251205090000 +0000">
     <title lang="en">The Best of Weatherman Walking: Welsh Islands</title>
@@ -19976,7 +20026,7 @@
   </programme>
   <programme channel="BBCTwoHD.uk" start="20251206170000 +0000" stop="20251206193000 +0000">
     <title lang="en">MOTD Live: Sutton United v Shrewsbury Town</title>
-    <desc lang="en">Live coverage from the second round of the FA Cup as Sutton United play Shrewsbury Town.</desc>
+    <desc lang="en">Sutton United of the National League take on League Two Shrewsbury Town in a live second-round FA Cup tie, with the EFL side looking to avoid an upset in south London.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f9f65542-f87c-423e-8891-1ab98284b132/cover"/>
   </programme>
   <programme channel="BBCTwoHD.uk" start="20251206193000 +0000" stop="20251206220000 +0000">
@@ -20065,7 +20115,7 @@
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20251204121500 +0000" stop="20251204130000 +0000">
     <title lang="en">Politics Live</title>
-    <desc lang="en">The big political issues of the day.</desc>
+    <desc lang="en">Is facial recognition a threat to civil liberties? And will there be a Tory-Reform electoral pact?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/760aa6ca-9da8-49b9-9b38-6381e79a62fc/cover"/>
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20251204130000 +0000" stop="20251204171500 +0000">
@@ -20171,7 +20221,9 @@
   <programme channel="BBCTwoNorthernIreland.uk" start="20251205080000 +0000" stop="20251205083000 +0000">
     <title lang="en">The Social Knitwork - Our Lives</title>
     <desc lang="en">Northern Irish fashion designer Hope Macaulay and a team of home knitters gear up to open their first ever shop in Los Angeles. Will this handmade label make it in Hollywood?</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/bd295c37-bfd3-43aa-aa42-ce2e9ddf9fc8/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/d3aa30bb-1294-447a-9d4f-32b756c89a1e/cover"/>
+    <episode-num system="xmltv_ns">8.0.0</episode-num>
+    <episode-num system="onscreen">S9E1</episode-num>
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20251205083000 +0000" stop="20251205090000 +0000">
     <title lang="en">The Best of Weatherman Walking: Welsh Islands</title>
@@ -20399,7 +20451,7 @@
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20251206170000 +0000" stop="20251206193000 +0000">
     <title lang="en">MOTD Live: Sutton United v Shrewsbury Town</title>
-    <desc lang="en">Live coverage from the second round of the FA Cup as Sutton United play Shrewsbury Town.</desc>
+    <desc lang="en">Sutton United of the National League take on League Two Shrewsbury Town in a live second-round FA Cup tie, with the EFL side looking to avoid an upset in south London.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f9f65542-f87c-423e-8891-1ab98284b132/cover"/>
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20251206193000 +0000" stop="20251206220000 +0000">
@@ -20481,7 +20533,7 @@
   </programme>
   <programme channel="BBCTwoWales.uk" start="20251204121500 +0000" stop="20251204130000 +0000">
     <title lang="en">Politics Live</title>
-    <desc lang="en">The big political issues of the day.</desc>
+    <desc lang="en">Is facial recognition a threat to civil liberties? And will there be a Tory-Reform electoral pact?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/760aa6ca-9da8-49b9-9b38-6381e79a62fc/cover"/>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20251204130000 +0000" stop="20251204171500 +0000">
@@ -20592,7 +20644,9 @@
   <programme channel="BBCTwoWales.uk" start="20251205080000 +0000" stop="20251205083000 +0000">
     <title lang="en">The Social Knitwork - Our Lives</title>
     <desc lang="en">Northern Irish fashion designer Hope Macaulay and a team of home knitters gear up to open their first ever shop in Los Angeles. Will this handmade label make it in Hollywood?</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e288f8d1-a156-44ae-8257-a165de591180/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/d3aa30bb-1294-447a-9d4f-32b756c89a1e/cover"/>
+    <episode-num system="xmltv_ns">8.0.0</episode-num>
+    <episode-num system="onscreen">S9E1</episode-num>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20251205083000 +0000" stop="20251205090000 +0000">
     <title lang="en">The Best of Weatherman Walking: Welsh Islands</title>
@@ -20822,7 +20876,7 @@
   </programme>
   <programme channel="BBCTwoWales.uk" start="20251206170000 +0000" stop="20251206193000 +0000">
     <title lang="en">MOTD Live: Sutton United v Shrewsbury Town</title>
-    <desc lang="en">Live coverage from the second round of the FA Cup as Sutton United play Shrewsbury Town.</desc>
+    <desc lang="en">Sutton United of the National League take on League Two Shrewsbury Town in a live second-round FA Cup tie, with the EFL side looking to avoid an upset in south London.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f9f65542-f87c-423e-8891-1ab98284b132/cover"/>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20251206193000 +0000" stop="20251206220000 +0000">
@@ -22128,7 +22182,9 @@
   <programme channel="CBBC.uk" start="20251204144500 +0000" stop="20251204145500 +0000">
     <title lang="en">Grizzy and the Lemmings: World Tour</title>
     <desc lang="en">Yeti Cabin. After the Yeti's house is destroyed, the Lemmings are quick to point the finger at Grizzy.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1faac0c0-a946-4764-994c-65773372ee54/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/f5d5d02c-416e-3d7a-95d5-0fdd4d1cdb47/cover"/>
+    <episode-num system="xmltv_ns">3.25.0</episode-num>
+    <episode-num system="onscreen">S4E26</episode-num>
   </programme>
   <programme channel="CBBC.uk" start="20251204145500 +0000" stop="20251204150000 +0000">
     <title lang="en">Shaun the Sheep</title>
@@ -22175,7 +22231,9 @@
   <programme channel="CBBC.uk" start="20251204160000 +0000" stop="20251204160500 +0000">
     <title lang="en">Grizzy and the Lemmings: World Tour</title>
     <desc lang="en">Grizzy Academy. Grizzy decides to teach the Lemmings how to behave in his presence.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/5e93c388-2061-4be4-9334-aa659fe9aa80/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/8d5754c2-53e5-31c3-82b5-8cb1a4335948/cover"/>
+    <episode-num system="xmltv_ns">3.13.0</episode-num>
+    <episode-num system="onscreen">S4E14</episode-num>
   </programme>
   <programme channel="CBBC.uk" start="20251204160500 +0000" stop="20251204162000 +0000">
     <title lang="en">SpongeBob SquarePants</title>
@@ -22223,7 +22281,9 @@
   <programme channel="CBBC.uk" start="20251204172500 +0000" stop="20251204174500 +0000">
     <title lang="en">Pokémon Horizons: Rising Hope</title>
     <desc lang="en">Eyes to the Skies Once Again, Part 2. After a year apart, Roy visits Liko at Indigo Academy to ask for her help.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/bd442345-8c59-4104-b80e-08baf2591e85/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/0505ac5e-bcb2-4caa-9d88-06e092829b4d/cover"/>
+    <episode-num system="xmltv_ns">2.1.0</episode-num>
+    <episode-num system="onscreen">S3E2</episode-num>
   </programme>
   <programme channel="CBBC.uk" start="20251204174500 +0000" stop="20251204180000 +0000">
     <title lang="en">New: Bro's in Control</title>
@@ -22664,7 +22724,7 @@
   </programme>
   <programme channel="CBBC.uk" start="20251206090000 +0000" stop="20251206113000 +0000">
     <title lang="en">New: Saturday Mash-Up! Live</title>
-    <desc lang="en">Episode 16. Live Saturday morning fun, filled with mayhem and celebrity guests.</desc>
+    <desc lang="en">Dexter Procter, Jordan North, Bradley Riches and Sabrina &amp; Amber-Rose. Joe, Shereen and Stanley turn on the Christmas lights, ready for a morning of festive fun!</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0b49183f-5c2a-4a9d-9de4-2d1b8442002b/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">7.15.0</episode-num>
@@ -24408,8 +24468,8 @@
     <title lang="en">A Place in the Sun</title>
     <desc lang="en">Sisters Ros and Elizabeth look for a magnifique place in Bergerac for £350k. Will a grand country home, picture-perfection or a place ticking boxes by the minute have the je ne sais quoi?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c61bf484-755e-4457-9353-101680e2ae77/cover"/>
-    <episode-num system="xmltv_ns">2024.121.0</episode-num>
-    <episode-num system="onscreen">S2025E122</episode-num>
+    <episode-num system="xmltv_ns">2024.21.0</episode-num>
+    <episode-num system="onscreen">S2025E22</episode-num>
   </programme>
   <programme channel="Channel4.uk" start="20251204190000 +0000" stop="20251204195500 +0000">
     <title lang="en">Channel 4 News</title>
@@ -25114,8 +25174,8 @@
     <title lang="en">A Place in the Sun</title>
     <desc lang="en">Sisters Ros and Elizabeth look for a magnifique place in Bergerac for £350k. Will a grand country home, picture-perfection or a place ticking boxes by the minute have the je ne sais quoi?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c61bf484-755e-4457-9353-101680e2ae77/cover"/>
-    <episode-num system="xmltv_ns">2024.121.0</episode-num>
-    <episode-num system="onscreen">S2025E122</episode-num>
+    <episode-num system="xmltv_ns">2024.21.0</episode-num>
+    <episode-num system="onscreen">S2025E22</episode-num>
   </programme>
   <programme channel="Channel4Plus1.uk" start="20251204200000 +0000" stop="20251204205500 +0000">
     <title lang="en">Channel 4 News</title>
@@ -25182,7 +25242,9 @@
   <programme channel="Channel4Plus1.uk" start="20251205042500 +0000" stop="20251205043000 +0000">
     <title lang="en">Morgan's Story: Stand Up To Cancer</title>
     <desc lang="en">A short film for Stand Up To Cancer. When he was just two years old, Morgan - a happy little boy who loved football, cars and his family - was diagnosed with a rare form of cancer.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/5c7a0bb9-8f14-4904-b234-9cc01479bc68/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/3138f2c6-8576-43c0-952b-290354608dcd/cover"/>
+    <episode-num system="xmltv_ns">2024.2.0</episode-num>
+    <episode-num system="onscreen">S2025E3</episode-num>
   </programme>
   <programme channel="Channel4Plus1.uk" start="20251205043000 +0000" stop="20251205052500 +0000">
     <title lang="en">Couples Come Dine with Me</title>
@@ -26434,7 +26496,7 @@
   <programme channel="Channel5.uk" start="20251206172000 +0000" stop="20251206182000 +0000">
     <title lang="en">A Very English Christmas</title>
     <desc lang="en">Emma finds herself unexpectedly in the English countryside and has to team up with a Christmas market owner to bring order to her sister's whirlwind wedding. (2023)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d10772dd-19be-4887-ad4f-7a5234e7f84f/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/1205d88b-3469-3705-b224-464b33e920ad/cover"/>
   </programme>
   <programme channel="Channel5.uk" start="20251206182000 +0000" stop="20251206182500 +0000">
     <title lang="en">5 News Weekend</title>
@@ -26444,7 +26506,7 @@
   <programme channel="Channel5.uk" start="20251206182500 +0000" stop="20251206190500 +0000">
     <title lang="en">A Very English Christmas</title>
     <desc lang="en">Emma finds herself unexpectedly in the English countryside and has to team up with a Christmas market owner to bring order to her sister's whirlwind wedding. (2023)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3d2c05f8-4549-4ada-9268-100615ec4a63/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/1205d88b-3469-3705-b224-464b33e920ad/cover"/>
   </programme>
   <programme channel="Channel5.uk" start="20251206190500 +0000" stop="20251206200500 +0000">
     <title lang="en">Christmas at Hampton Court Palace</title>
@@ -27301,7 +27363,7 @@
   <programme channel="Channel5Plus1.uk" start="20251206182000 +0000" stop="20251206192000 +0000">
     <title lang="en">A Very English Christmas</title>
     <desc lang="en">Emma finds herself unexpectedly in the English countryside and has to team up with a Christmas market owner to bring order to her sister's whirlwind wedding. (2023)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d10772dd-19be-4887-ad4f-7a5234e7f84f/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/1205d88b-3469-3705-b224-464b33e920ad/cover"/>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20251206192000 +0000" stop="20251206192500 +0000">
     <title lang="en">5 News Weekend</title>
@@ -27311,7 +27373,7 @@
   <programme channel="Channel5Plus1.uk" start="20251206192500 +0000" stop="20251206200500 +0000">
     <title lang="en">A Very English Christmas</title>
     <desc lang="en">Emma finds herself unexpectedly in the English countryside and has to team up with a Christmas market owner to bring order to her sister's whirlwind wedding. (2023)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3d2c05f8-4549-4ada-9268-100615ec4a63/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/1205d88b-3469-3705-b224-464b33e920ad/cover"/>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20251206200500 +0000" stop="20251206210500 +0000">
     <title lang="en">Christmas at Hampton Court Palace</title>
@@ -28543,7 +28605,9 @@
   <programme channel="UAndDavejavu.uk" start="20251204140000 +0000" stop="20251204150000 +0000">
     <title lang="en">Border Force America's Gatekeepers</title>
     <desc lang="en">A refugee from Venezuela tells officers how she paid human traffickers to smuggle her to the Mexico-US border. In Laredo, an American couple are caught smuggling methamphetamine.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/124d13f9-4500-442d-960a-266e0851cd6e/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/2826e1dc-f102-4e65-8e41-980a0eb24888/cover"/>
+    <episode-num system="xmltv_ns">1.7.0</episode-num>
+    <episode-num system="onscreen">S2E8</episode-num>
   </programme>
   <programme channel="UAndDavejavu.uk" start="20251204150000 +0000" stop="20251204160000 +0000">
     <title lang="en">Train Rescue Down Under</title>
@@ -28675,12 +28739,16 @@
   <programme channel="UAndDavejavu.uk" start="20251205090000 +0000" stop="20251205100000 +0000">
     <title lang="en">Border Force America's Gatekeepers</title>
     <desc lang="en">Officers in Progreso detain a man who made a dash back toward Mexico, and the team in Laredo uncovers methamphetamine concealed in a shipment of landscaping stone.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/30b9bc7a-34ab-4eac-a266-11b70dbfed91/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/b03a7e53-5011-4e9a-9282-717140c7c342/cover"/>
+    <episode-num system="xmltv_ns">5.6.0</episode-num>
+    <episode-num system="onscreen">S6E7</episode-num>
   </programme>
   <programme channel="UAndDavejavu.uk" start="20251205100000 +0000" stop="20251205110000 +0000">
     <title lang="en">Border Force America's Gatekeepers</title>
     <desc lang="en">A man wanted for serious sexual offences is apprehended in Progreso, and agents intercept a group of migrants moments after they cross the Rio Grande river.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1121d06a-0883-45ef-ae3a-f8d1e056e047/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/42487304-8247-4c68-8be5-d1d57c9aff91/cover"/>
+    <episode-num system="xmltv_ns">5.7.0</episode-num>
+    <episode-num system="onscreen">S6E8</episode-num>
   </programme>
   <programme channel="UAndDavejavu.uk" start="20251205110000 +0000" stop="20251205120000 +0000">
     <title lang="en">Speed with Guy Martin: F1 Special</title>
@@ -28695,12 +28763,16 @@
   <programme channel="UAndDavejavu.uk" start="20251205130000 +0000" stop="20251205140000 +0000">
     <title lang="en">Border Force America's Gatekeepers</title>
     <desc lang="en">A family from Venezuela plead with officers to enter America. In Progreso, a suspected drug dealer is caught smuggling pills in his underpants.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/4580205e-8eda-4b82-92fb-b6d2db33e7a8/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/87f63265-aa98-43e3-a836-a22c40c873af/cover"/>
+    <episode-num system="xmltv_ns">1.8.0</episode-num>
+    <episode-num system="onscreen">S2E9</episode-num>
   </programme>
   <programme channel="UAndDavejavu.uk" start="20251205140000 +0000" stop="20251205150000 +0000">
     <title lang="en">Border Force America's Gatekeepers</title>
     <desc lang="en">More than 100 boxes full of drugs are discovered inside an unlikely vehicle at the World Trade Bridge. In Progreso, a suspected gang member attempts to cross into the US.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/8ac4a077-4772-484b-8350-b64f9b2546d8/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/11ea3f27-c539-4bd4-9247-ac61b39b3881/cover"/>
+    <episode-num system="xmltv_ns">1.9.0</episode-num>
+    <episode-num system="onscreen">S2E10</episode-num>
   </programme>
   <programme channel="UAndDavejavu.uk" start="20251205150000 +0000" stop="20251205160000 +0000">
     <title lang="en">Train Rescue Down Under</title>
@@ -28845,7 +28917,9 @@
   <programme channel="UAndDavejavu.uk" start="20251206102000 +0000" stop="20251206120000 +0000">
     <title lang="en">Top Gear: Bolivia Special</title>
     <desc lang="en">The boys are dropped deep into the Bolivian rainforest armed only with three 4x4s. They must drive all the way to the Chilean coast - via drug lords and debilitating altitude.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0ca98b16-507d-414c-8ebd-3baaef5cf1fc/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/a7bcfd23-387d-4bb4-ba7e-96faaeebc54d/cover"/>
+    <episode-num system="xmltv_ns">13.5.0</episode-num>
+    <episode-num system="onscreen">S14E6</episode-num>
   </programme>
   <programme channel="UAndDavejavu.uk" start="20251206120000 +0000" stop="20251206150000 +0000">
     <title lang="en">Red Bull Soapbox Race 2017: London</title>
@@ -44850,7 +44924,7 @@
   <programme channel="ITV4.uk" start="20251204225500 +0000" stop="20251204232500 +0000">
     <title lang="en">Ligue 1 Highlights</title>
     <desc lang="en">Action from the top flight of French football, including Monaco v PSG, Marseille v Toulouse, Le Havre v Lille, Lorient v Nice and Lyon v Nantes.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e3c419e6-9a26-4f05-b69c-ab220203305b/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/2cf288e8-1720-4dc6-9766-2ac5ab8664fc/cover"/>
   </programme>
   <programme channel="ITV4.uk" start="20251204232500 +0000" stop="20251205002500 +0000">
     <title lang="en">Jaws 2</title>
@@ -45056,6 +45130,8 @@
     <title lang="en">ITV Racing: The Opening Show</title>
     <desc lang="en">Rishi Persad and the team are at Sandown ahead of a superb day of racing.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/11d75e52-00c0-4c1a-abd2-6e727e497f1d/cover"/>
+    <episode-num system="xmltv_ns">8.58.0</episode-num>
+    <episode-num system="onscreen">S9E59</episode-num>
   </programme>
   <programme channel="ITV4.uk" start="20251206103000 +0000" stop="20251206113500 +0000">
     <title lang="en">The Big Match Revisited</title>
@@ -45294,7 +45370,7 @@
   <programme channel="ITV4Plus1.uk" start="20251204235500 +0000" stop="20251205002500 +0000">
     <title lang="en">Ligue 1 Highlights</title>
     <desc lang="en">Action from the top flight of French football, including Monaco v PSG, Marseille v Toulouse, Le Havre v Lille, Lorient v Nice and Lyon v Nantes.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/2b500abf-df8f-4e08-9d9c-84a71d5054b7/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/2cf288e8-1720-4dc6-9766-2ac5ab8664fc/cover"/>
   </programme>
   <programme channel="ITV4Plus1.uk" start="20251205002500 +0000" stop="20251205012500 +0000">
     <title lang="en">Jaws 2</title>
@@ -45499,7 +45575,9 @@
   <programme channel="ITV4Plus1.uk" start="20251206103000 +0000" stop="20251206113000 +0000">
     <title lang="en">ITV Racing: The Opening Show</title>
     <desc lang="en">Rishi Persad and the team are at Sandown ahead of a superb day of racing.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f4fd68ad-eef6-488d-8b2a-ef295ce80836/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/11d75e52-00c0-4c1a-abd2-6e727e497f1d/cover"/>
+    <episode-num system="xmltv_ns">8.58.0</episode-num>
+    <episode-num system="onscreen">S9E59</episode-num>
   </programme>
   <programme channel="ITV4Plus1.uk" start="20251206113000 +0000" stop="20251206123500 +0000">
     <title lang="en">The Big Match Revisited</title>
@@ -45523,12 +45601,12 @@
   <programme channel="ITV4Plus1.uk" start="20251206140000 +0000" stop="20251206170000 +0000">
     <title lang="en">ITV Racing: Live from Sandown</title>
     <desc lang="en">Ed Chamberlin presents coverage of racing from Sandown and Aintree - the feature race is at Sandown where the Tingle Creek Chase includes some top two-milers in action.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/184d287e-7c82-4a93-82e5-a58f283dce84/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9dbf6b93-f18e-4419-8c83-4dde74a5f496/cover"/>
   </programme>
   <programme channel="ITV4Plus1.uk" start="20251206170000 +0000" stop="20251206193500 +0000">
     <title lang="en">Formula E Live: Sao Paulo E-Prix</title>
     <desc lang="en">Coverage as a new season of the FIA Formula E World Championship gets under way in Brazil with the first race in a 17-race calendar taking place at the Sao Paulo street circuit.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/60e31e4d-2a15-4e8d-ac7c-b29186c76227/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/8931dbe6-839c-41b6-aa42-4aee0b05be94/cover"/>
   </programme>
   <programme channel="ITV4Plus1.uk" start="20251206193500 +0000" stop="20251206200000 +0000">
     <title lang="en">River Monsters</title>
