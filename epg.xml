@@ -481,7 +481,7 @@
   </programme>
   <programme channel="sky.main.uk" start="20251208143000 +0000" stop="20251208174500 +0000">
     <title lang="en">Live ILT20</title>
-    <desc lang="en">Desert Vipers face Gulf Giants in the ILT20.</desc>
+    <desc lang="en">The unbeaten DP World ILT20 pair of Sam Curran's Desert Vipers and Moeen Ali's Gulf Giants collide with both teams eyeing a third win in three. The Vipers wound up runners-up last season.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ff5cc22c-8f36-46a6-a336-3ff0c070ef2f/cover"/>
   </programme>
   <programme channel="sky.main.uk" start="20251208174500 +0000" stop="20251208180000 +0000">
@@ -538,25 +538,22 @@
     <desc lang="en">Stay across the biggest sports stories this morning with a wrap-up of the headlines.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8fe91792-74d9-4bc6-b212-0711d8a79644/cover"/>
   </programme>
-  <programme channel="sky.main.uk" start="20251209080000 +0000" stop="20251209080500 +0000">
-    <title lang="en">The Best of The WBBL</title>
-    <desc lang="en">Revisit batting superstar Alyssa Healy's unbeaten ton - her fifth WBBL century at the time - against the Perth Scorchers during the 2022 season.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1c646709-71e8-364e-88da-a0a64b8bf2f1/cover"/>
+  <programme channel="sky.main.uk" start="20251209080000 +0000" stop="20251209083000 +0000">
+    <title lang="en">Sky Sports Breakfast</title>
+    <desc lang="en">Stay across the biggest sports stories this morning with a wrap-up of the headlines.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8fe91792-74d9-4bc6-b212-0711d8a79644/cover"/>
   </programme>
-  <programme channel="sky.main.uk" start="20251209080500 +0000" stop="20251209112500 +0000">
+  <programme channel="sky.main.uk" start="20251209083000 +0000" stop="20251209084000 +0000">
+    <title lang="en">My Icon: Michael Holding</title>
+    <desc lang="en">In the next episode of this special series, West Indian cricketing legend Michael Holding discusses the individuals that have inspired him during his life and career.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7517f6b4-ab25-43fa-a77a-98457b620e16/cover"/>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme channel="sky.main.uk" start="20251209084000 +0000" stop="20251209120000 +0000">
     <title lang="en">Live WBBL Eliminator1</title>
-    <desc lang="en">In the WBBL Knockout, a place in the Challenger is up for grabs.</desc>
+    <desc lang="en">The Women's Big Bash League finals commence with the Knockout at the Waca as Perth Scorchers compete with Melbourne Stars. Ellyse Perry and the second-placed Sixers lie in wait.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6536e1a4-4a3d-4d09-aefb-e2e6fd81ad4f/cover"/>
-  </programme>
-  <programme channel="sky.main.uk" start="20251209112500 +0000" stop="20251209113000 +0000">
-    <title lang="en">The Best of The WBBL</title>
-    <desc lang="en">A look back at a memorable encounter from the 2022 season of the Women's Big Bash League, as the Adelaide Strikers went toe to toe with the Brisbane Heat.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/5fdb5337-7a4a-3714-9669-3a87c5793560/cover"/>
-  </programme>
-  <programme channel="sky.main.uk" start="20251209113000 +0000" stop="20251209120000 +0000">
-    <title lang="en">Live: Sky Sports FC</title>
-    <desc lang="en">Have your say on the big talking points in this interactive show covering the major football headlines.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f8e6b437-62b8-466a-b7e6-3f9310674a49/cover"/>
   </programme>
   <programme channel="sky.main.uk" start="20251209120000 +0000" stop="20251209130000 +0000">
     <title lang="en">Lunchtime Live</title>
@@ -989,7 +986,7 @@
   </programme>
   <programme channel="sky.premier.uk" start="20251209063000 +0000" stop="20251209070000 +0000">
     <title lang="en">PL: Bournemouth v Chelsea Hlts</title>
-    <desc lang="en">Bournemouth play host to Chelsea at the Vitality Stadium in the Premier League. (06.12)</desc>
+    <desc lang="en">It's Bournemouth next for Enzo Maresca's Chelsea after defeat at Elland Road. The Cherries' poor Premier League run of form continued with a midweek defeat at home to Everton. (06.12)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3400346d-ca6e-4a4a-8aad-0b53f5161052/cover"/>
     <episode-num system="xmltv_ns">2024.372.0</episode-num>
     <episode-num system="onscreen">S2025E373</episode-num>
@@ -1423,6 +1420,8 @@
     <title lang="en">SPFL Round-Up</title>
     <desc lang="en">A round-up of the goals from the latest weekend of Scottish Premiership action during the 2025-26 season.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4e4a5e34-4762-4dcc-a0d9-18bf97c86c0b/cover"/>
+    <episode-num system="xmltv_ns">10.19.0</episode-num>
+    <episode-num system="onscreen">S11E20</episode-num>
   </programme>
   <programme channel="sky.football.uk" start="20251208091500 +0000" stop="20251208093000 +0000">
     <title lang="en">SPFL 25/26: Celtic v Hearts</title>
@@ -1463,6 +1462,8 @@
     <title lang="en">SPFL Round-Up</title>
     <desc lang="en">A round-up of the goals from the latest weekend of Scottish Premiership action during the 2025-26 season.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4e4a5e34-4762-4dcc-a0d9-18bf97c86c0b/cover"/>
+    <episode-num system="xmltv_ns">10.19.0</episode-num>
+    <episode-num system="onscreen">S11E20</episode-num>
   </programme>
   <programme channel="sky.football.uk" start="20251208141500 +0000" stop="20251208143000 +0000">
     <title lang="en">SPFL 25/26: Kilmarnock v Rangers</title>
@@ -1479,25 +1480,25 @@
     <desc lang="en">Aiming to maintain their pace near the top of the Sky Bet Championship table, Middlesbrough face a Friday night test at the MKM Stadium, facing Hull City. (05.12)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/cecd0fd4-6b90-4b8c-88ab-d6b583817647/cover"/>
   </programme>
-  <programme channel="sky.football.uk" start="20251208150000 +0000" stop="20251208151500 +0000">
+  <programme channel="sky.football.uk" start="20251208150000 +0000" stop="20251208151501 +0000">
     <title lang="en">EFL 25/26: Derby v Leicester</title>
     <desc lang="en">Derby County play host to Leicester City at Pride Park in the Sky Bet Championship. Can the Foxes and an under-pressure Marco Cifuentes turn their fortunes around here? (06.12)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/10cb4c52-ef21-4aaa-8b9a-ab385568e909/cover"/>
   </programme>
-  <programme channel="sky.football.uk" start="20251208151500 +0000" stop="20251208153000 +0000">
-    <title lang="en">EFL 25/26: Charlton v Portsmouth</title>
-    <desc lang="en">Charlton Athletic play host to Portsmouth at the Valley in the Sky Bet Championship. (06.12)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/88fc42a9-d362-4dac-9c24-42f39d633072/cover"/>
+  <programme channel="sky.football.uk" start="20251208151501 +0000" stop="20251208153000 +0000">
+    <title lang="en">Efl C'Ship Rd19: Ipswich Town V Coventry</title>
+    <desc lang="en">Ipswich Town play host to Coventry City at Portman Road in the Sky Bet Championship. (06.12)</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ae74e39d-9196-4269-b640-da79216842a3/cover"/>
   </programme>
-  <programme channel="sky.football.uk" start="20251208153000 +0000" stop="20251208154500 +0000">
+  <programme channel="sky.football.uk" start="20251208153000 +0000" stop="20251208154501 +0000">
     <title lang="en">EFL 25/26: Watford v Norwich City</title>
     <desc lang="en">Hot off their first home win of the season, Norwich head to Vicarage Road for their next Sky Bet Championship clash, facing a Watford side who lost in Birmingham last week. (06.12)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ef7531d5-dd2b-4dde-b299-1bc6c1d4722d/cover"/>
   </programme>
-  <programme channel="sky.football.uk" start="20251208154500 +0000" stop="20251208160000 +0000">
-    <title lang="en">EFL 25/26: Blackburn v Sheff Weds</title>
-    <desc lang="en">Blackburn Rovers play host to Sheffield Wednesday at Ewood Park in the Sky Bet Championship. (06.12)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/89fedb90-9842-4d55-8bbb-ef58db76e46a/cover"/>
+  <programme channel="sky.football.uk" start="20251208154501 +0000" stop="20251208160000 +0000">
+    <title lang="en">EFL 25/26: Soton v Birmingham</title>
+    <desc lang="en">Southampton play host to Birmingham City at St Mary's in the Sky Bet Championship. (06.12)</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/83475b94-d996-42fc-9533-803d65b9200a/cover"/>
   </programme>
   <programme channel="sky.football.uk" start="20251208160000 +0000" stop="20251208161500 +0000">
     <title lang="en">EFL 25/26: Bristol City v Millwall</title>
@@ -1538,6 +1539,8 @@
     <title lang="en">SPFL Round-Up</title>
     <desc lang="en">A round-up of the goals from the latest weekend of Scottish Premiership action during the 2025-26 season.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4e4a5e34-4762-4dcc-a0d9-18bf97c86c0b/cover"/>
+    <episode-num system="xmltv_ns">10.19.0</episode-num>
+    <episode-num system="onscreen">S11E20</episode-num>
   </programme>
   <programme channel="sky.football.uk" start="20251208181500 +0000" stop="20251208183000 +0000">
     <title lang="en">SPFL 25/26: Celtic v Hearts</title>
@@ -1574,31 +1577,33 @@
     <title lang="en">SPFL Round-Up</title>
     <desc lang="en">A round-up of the goals from the latest weekend of Scottish Premiership action during the 2025-26 season.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4e4a5e34-4762-4dcc-a0d9-18bf97c86c0b/cover"/>
+    <episode-num system="xmltv_ns">10.19.0</episode-num>
+    <episode-num system="onscreen">S11E20</episode-num>
   </programme>
   <programme channel="sky.football.uk" start="20251208211500 +0000" stop="20251208213000 +0000">
     <title lang="en">SPFL 25/26: Kilmarnock v Rangers</title>
     <desc lang="en">In the Scottish Premiership, the out-of-form Kilmarnock - still searching for their first win since October - face Rangers. Danny Rohl's side drew with Dundee United midweek. (06.12)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8349270d-bc23-4f58-9410-e94cb372c564/cover"/>
   </programme>
-  <programme channel="sky.football.uk" start="20251208213000 +0000" stop="20251208214500 +0000">
+  <programme channel="sky.football.uk" start="20251208213000 +0000" stop="20251208214501 +0000">
     <title lang="en">EFL 25/26: Derby v Leicester</title>
     <desc lang="en">Derby County play host to Leicester City at Pride Park in the Sky Bet Championship. Can the Foxes and an under-pressure Marco Cifuentes turn their fortunes around here? (06.12)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/10cb4c52-ef21-4aaa-8b9a-ab385568e909/cover"/>
   </programme>
-  <programme channel="sky.football.uk" start="20251208214500 +0000" stop="20251208220000 +0000">
-    <title lang="en">EFL 25/26: Charlton v Portsmouth</title>
-    <desc lang="en">Charlton Athletic play host to Portsmouth at the Valley in the Sky Bet Championship. (06.12)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/88fc42a9-d362-4dac-9c24-42f39d633072/cover"/>
+  <programme channel="sky.football.uk" start="20251208214501 +0000" stop="20251208220000 +0000">
+    <title lang="en">Efl C'Ship Rd19: Ipswich Town V Coventry</title>
+    <desc lang="en">Ipswich Town play host to Coventry City at Portman Road in the Sky Bet Championship. (06.12)</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ae74e39d-9196-4269-b640-da79216842a3/cover"/>
   </programme>
-  <programme channel="sky.football.uk" start="20251208220000 +0000" stop="20251208221500 +0000">
+  <programme channel="sky.football.uk" start="20251208220000 +0000" stop="20251208221501 +0000">
     <title lang="en">EFL 25/26: Watford v Norwich City</title>
     <desc lang="en">Hot off their first home win of the season, Norwich head to Vicarage Road for their next Sky Bet Championship clash, facing a Watford side who lost in Birmingham last week. (06.12)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ef7531d5-dd2b-4dde-b299-1bc6c1d4722d/cover"/>
   </programme>
-  <programme channel="sky.football.uk" start="20251208221500 +0000" stop="20251208223000 +0000">
-    <title lang="en">EFL 25/26: Blackburn v Sheff Weds</title>
-    <desc lang="en">Blackburn Rovers play host to Sheffield Wednesday at Ewood Park in the Sky Bet Championship. (06.12)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/89fedb90-9842-4d55-8bbb-ef58db76e46a/cover"/>
+  <programme channel="sky.football.uk" start="20251208221501 +0000" stop="20251208223000 +0000">
+    <title lang="en">EFL 25/26: Soton v Birmingham</title>
+    <desc lang="en">Southampton play host to Birmingham City at St Mary's in the Sky Bet Championship. (06.12)</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/83475b94-d996-42fc-9533-803d65b9200a/cover"/>
   </programme>
   <programme channel="sky.football.uk" start="20251208223000 +0000" stop="20251208233000 +0000">
     <title lang="en">Bundesliga Highlights</title>
@@ -1689,6 +1694,8 @@
     <title lang="en">SPFL Round-Up</title>
     <desc lang="en">A round-up of the goals from the latest weekend of Scottish Premiership action during the 2025-26 season.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4e4a5e34-4762-4dcc-a0d9-18bf97c86c0b/cover"/>
+    <episode-num system="xmltv_ns">10.19.0</episode-num>
+    <episode-num system="onscreen">S11E20</episode-num>
   </programme>
   <programme channel="sky.football.uk" start="20251209121500 +0000" stop="20251209123000 +0000">
     <title lang="en">SPFL 25/26: Celtic v Hearts</title>
@@ -1724,6 +1731,8 @@
     <title lang="en">SPFL Round-Up</title>
     <desc lang="en">A round-up of the goals from the latest weekend of Scottish Premiership action during the 2025-26 season.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4e4a5e34-4762-4dcc-a0d9-18bf97c86c0b/cover"/>
+    <episode-num system="xmltv_ns">10.19.0</episode-num>
+    <episode-num system="onscreen">S11E20</episode-num>
   </programme>
   <programme channel="sky.football.uk" start="20251209151500 +0000" stop="20251209153000 +0000">
     <title lang="en">SPFL 25/26: Celtic v Hearts</title>
@@ -1794,6 +1803,8 @@
     <title lang="en">SPFL Round-Up</title>
     <desc lang="en">A round-up of the goals from the latest weekend of Scottish Premiership action during the 2025-26 season.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4e4a5e34-4762-4dcc-a0d9-18bf97c86c0b/cover"/>
+    <episode-num system="xmltv_ns">10.19.0</episode-num>
+    <episode-num system="onscreen">S11E20</episode-num>
   </programme>
   <programme channel="sky.football.uk" start="20251209224500 +0000" stop="20251209230000 +0000">
     <title lang="en">SPFL 25/26: Celtic v Hearts</title>
@@ -1929,6 +1940,8 @@
     <title lang="en">SPFL Round-Up</title>
     <desc lang="en">A round-up of the goals from the latest weekend of Scottish Premiership action during the 2025-26 season.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4e4a5e34-4762-4dcc-a0d9-18bf97c86c0b/cover"/>
+    <episode-num system="xmltv_ns">10.19.0</episode-num>
+    <episode-num system="onscreen">S11E20</episode-num>
   </programme>
   <programme channel="sky.football.uk" start="20251210161500 +0000" stop="20251210163000 +0000">
     <title lang="en">SPFL 25/26: Celtic v Hearts</title>
@@ -2638,87 +2651,67 @@
     <desc lang="en">It's lights out for the title decider. Starting behind polesitter Max Verstappen, Lando Norris will become world champion with a podium. Oscar Piastri has it all to do from third. (07.12)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e21dfc9a-4731-4c17-b7b6-1331ced9801b/cover"/>
   </programme>
-  <programme channel="sky.f1.uk" start="20251209081500 +0000" stop="20251209091500 +0000">
+  <programme channel="sky.f1.uk" start="20251209081500 +0000" stop="20251209092500 +0000">
     <title lang="en">Abu Dhabi F2: Sprint</title>
     <desc lang="en">Lining up in reverse-grid pole for the final Formula 2 Sprint Race of the season in Abu Dhabi is Formula 1-bound Arvid Lindblad. This year's champion Leonardo Fornaroli starts from eighth.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/eb41320c-208d-4adc-bdd9-49f0eb59b655/cover"/>
   </programme>
-  <programme channel="sky.f1.uk" start="20251209091500 +0000" stop="20251209093000 +0000">
-    <title lang="en">Brad Pitt Drives a McLaren F1 Car</title>
-    <desc lang="en">At the Circuit of The Americas, star of the F1: Movie Brad Pitt enters the cockpit of Lando Norris' MCL60, with Sky F1's Martin Brundle also taking to the track in the 2023 machinery.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/32dc6ad9-7aab-44e2-b1af-247a7272838d/cover"/>
-  </programme>
-  <programme channel="sky.f1.uk" start="20251209093000 +0000" stop="20251209105000 +0000">
+  <programme channel="sky.f1.uk" start="20251209092500 +0000" stop="20251209110000 +0000">
     <title lang="en">Abu Dhabi F2: Feature Race</title>
     <desc lang="en">The F2 season concludes with a Yas Marina Feature Race. With the drivers' championship settled, Invicta Racing can scoop the teams' title here as their man Roman Stanek holds pole.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/76ce81ec-544f-4059-adca-7015b1f81d9e/cover"/>
   </programme>
-  <programme channel="sky.f1.uk" start="20251209105000 +0000" stop="20251209105500 +0000">
-    <title lang="en">Oscar Piastri Chats to Glen Powell</title>
-    <desc lang="en">McLaren's Oscar Piastri chats to Hollywood actor Glen Powell.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a09bca49-08c0-4fb4-b228-de9f462e2f7b/cover"/>
-  </programme>
-  <programme channel="sky.f1.uk" start="20251209105500 +0000" stop="20251209110000 +0000">
-    <title lang="en">Franco Colapinto IV</title>
-    <desc lang="en">Sky Sports News' Craig Slater catches up with Alpine driver Franco Colapinto.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/68d1326c-87f5-44b7-a681-a1e3dcf15906/cover"/>
-  </programme>
-  <programme channel="sky.f1.uk" start="20251209110000 +0000" stop="20251209130000 +0000">
+  <programme channel="sky.f1.uk" start="20251209110000 +0000" stop="20251209130500 +0000">
     <title lang="en">Abu Dhabi F1 GP: Qualifying</title>
     <desc lang="en">During the season's final qualifying session, the title protagonists - Lando Norris, Max Verstappen and Oscar Piastri - vie for Sunday's Abu Dhabi Grand Prix pole position. (06.12)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5ab84d59-ba85-4efe-ac14-62aae5f47aca/cover"/>
   </programme>
-  <programme channel="sky.f1.uk" start="20251209130000 +0000" stop="20251209133000 +0000">
+  <programme channel="sky.f1.uk" start="20251209130500 +0000" stop="20251209134000 +0000">
     <title lang="en">Ted's Quali Notebook: Abu Dhabi</title>
     <desc lang="en">Ted Kravitz is live as he gathers reaction from inside the paddock and reviews all the biggest stories from qualifying at the Abu Dhabi Grand Prix.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b7c94994-4bbb-49d0-8cd8-ae01c02877ba/cover"/>
   </programme>
-  <programme channel="sky.f1.uk" start="20251209133000 +0000" stop="20251209152500 +0000">
+  <programme channel="sky.f1.uk" start="20251209134000 +0000" stop="20251209153500 +0000">
     <title lang="en">Grand Prix Sunday: Abu Dhabi</title>
     <desc lang="en">Join Sky Sports F1 on the grid ahead of the start of the race at the season-ending Abu Dhabi Grand Prix at Yas Marina Circuit.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/79e12e17-3815-49bb-af8b-b9a45efc7e0f/cover"/>
   </programme>
-  <programme channel="sky.f1.uk" start="20251209152500 +0000" stop="20251209173000 +0000">
+  <programme channel="sky.f1.uk" start="20251209153500 +0000" stop="20251209181000 +0000">
     <title lang="en">Abu Dhabi F1 Grand Prix</title>
     <desc lang="en">It's lights out for the Abu Dhabi title decider. Starting behind polesitter Max Verstappen, Lando Norris will become world champion with a podium. Oscar Piastri has it all to do from third.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f151026d-c315-42aa-8001-ffe7de9cdb61/cover"/>
   </programme>
-  <programme channel="sky.f1.uk" start="20251209173000 +0000" stop="20251209190000 +0000">
+  <programme channel="sky.f1.uk" start="20251209181000 +0000" stop="20251209192000 +0000">
     <title lang="en">Chequered Flag: Abu Dhabi</title>
     <desc lang="en">As the chequered flag comes down on the 2025 season, join Sky Sports F1 for all the reaction and analysis to the Abu Dhabi Grand Prix.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c528f31e-a3de-417f-9a7f-307400ba50db/cover"/>
   </programme>
-  <programme channel="sky.f1.uk" start="20251209190000 +0000" stop="20251209193000 +0000">
+  <programme channel="sky.f1.uk" start="20251209192000 +0000" stop="20251209200500 +0000">
     <title lang="en">Ted's Notebook: Abu Dhabi</title>
     <desc lang="en">Ted Kravitz is live following the season-ending Abu Dhabi Grand Prix, as he shares his thoughts on the race while gathering reaction from the paddock.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9dc2d961-c9a5-441b-8833-a56aef5d69f2/cover"/>
   </programme>
-  <programme channel="sky.f1.uk" start="20251209193000 +0000" stop="20251209210000 +0000">
+  <programme channel="sky.f1.uk" start="20251209200500 +0000" stop="20251209201500 +0000">
+    <title lang="en">F1 Forest Feature</title>
+    <desc lang="en">Sky F1's Ted Kravitz chats to four-time Formula 1 world champion Sebastian Vettel about his new green initiative.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/be7f3641-a4fa-426c-9c21-0578b9680ea2/cover"/>
+  </programme>
+  <programme channel="sky.f1.uk" start="20251209201500 +0000" stop="20251209214500 +0000">
     <title lang="en">Abu Dhabi F1 GP Highlights</title>
     <desc lang="en">It's lights out for the title decider. Starting behind polesitter Max Verstappen, Lando Norris will become world champion with a podium. Oscar Piastri has it all to do from third. (07.12)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/dbe7fab4-952d-4a2c-8875-69e0d2807866/cover"/>
   </programme>
-  <programme channel="sky.f1.uk" start="20251209210000 +0000" stop="20251209213000 +0000">
-    <title lang="en">Ted's Notebook: Abu Dhabi</title>
-    <desc lang="en">Ted Kravitz is live following the season-ending Abu Dhabi Grand Prix, as he shares his thoughts on the race while gathering reaction from the paddock.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9dc2d961-c9a5-441b-8833-a56aef5d69f2/cover"/>
-  </programme>
-  <programme channel="sky.f1.uk" start="20251209213000 +0000" stop="20251209214500 +0000">
+  <programme channel="sky.f1.uk" start="20251209214500 +0000" stop="20251209220000 +0000">
     <title lang="en">Brad Pitt Drives a McLaren F1 Car</title>
     <desc lang="en">At the Circuit of The Americas, star of the F1: Movie Brad Pitt enters the cockpit of Lando Norris' MCL60, with Sky F1's Martin Brundle also taking to the track in the 2023 machinery.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/32dc6ad9-7aab-44e2-b1af-247a7272838d/cover"/>
   </programme>
-  <programme channel="sky.f1.uk" start="20251209214500 +0000" stop="20251209221500 +0000">
-    <title lang="en">Ted's Quali Notebook: Abu Dhabi</title>
-    <desc lang="en">Ted Kravitz is live as he gathers reaction from inside the paddock and reviews all the biggest stories from qualifying at the Abu Dhabi Grand Prix.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b7c94994-4bbb-49d0-8cd8-ae01c02877ba/cover"/>
-  </programme>
-  <programme channel="sky.f1.uk" start="20251209221500 +0000" stop="20251210003000 +0000">
+  <programme channel="sky.f1.uk" start="20251209220000 +0000" stop="20251210001500 +0000">
     <title lang="en">Abu Dhabi F1 Grand Prix</title>
     <desc lang="en">It's lights out for the title decider. Starting behind polesitter Max Verstappen, Lando Norris will become world champion with a podium. Oscar Piastri has it all to do from third. (07.12)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e21dfc9a-4731-4c17-b7b6-1331ced9801b/cover"/>
   </programme>
-  <programme channel="sky.f1.uk" start="20251210003000 +0000" stop="20251210010000 +0000">
+  <programme channel="sky.f1.uk" start="20251210001500 +0000" stop="20251210010000 +0000">
     <title lang="en">Ted's Notebook: Abu Dhabi</title>
     <desc lang="en">Ted Kravitz is live following the season-ending Abu Dhabi Grand Prix, as he shares his thoughts on the race while gathering reaction from the paddock.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9dc2d961-c9a5-441b-8833-a56aef5d69f2/cover"/>
@@ -3044,7 +3037,12 @@
     <desc lang="en">Stay across the biggest sports stories this morning with a wrap-up of the headlines.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8fe91792-74d9-4bc6-b212-0711d8a79644/cover"/>
   </programme>
-  <programme channel="sky.news.uk" start="20251209080000 +0000" stop="20251209090000 +0000">
+  <programme channel="sky.news.uk" start="20251209080000 +0000" stop="20251209083000 +0000">
+    <title lang="en">Sky Sports Breakfast</title>
+    <desc lang="en">Stay across the biggest sports stories this morning with a wrap-up of the headlines.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8fe91792-74d9-4bc6-b212-0711d8a79644/cover"/>
+  </programme>
+  <programme channel="sky.news.uk" start="20251209083000 +0000" stop="20251209090000 +0000">
     <title lang="en">Sky Sports Breakfast</title>
     <desc lang="en">Stay across the biggest sports stories this morning with a wrap-up of the headlines.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8fe91792-74d9-4bc6-b212-0711d8a79644/cover"/>
@@ -3325,12 +3323,7 @@
     <desc lang="en">Stay across the biggest sports stories this morning with a wrap-up of the headlines.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8fe91792-74d9-4bc6-b212-0711d8a79644/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20251209100000 +0000" stop="20251209103000 +0000">
-    <title lang="en">Harry Derham: Progression</title>
-    <desc lang="en">It was a turbulent yet successful 2024/25 season for 31-year-old trainer Harry Derham who is looking to the future with a dream of one day becoming Champion Jumps Trainer.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/43b19802-1be5-45f2-8b4d-47db581441a7/cover"/>
-  </programme>
-  <programme channel="sky.racing.uk" start="20251209103000 +0000" stop="20251209123000 +0000">
+  <programme channel="sky.racing.uk" start="20251209100000 +0000" stop="20251209123000 +0000">
     <title lang="en">International Raceday Live</title>
     <desc lang="en">Live French racing from Chantilly and Fontainebleau. A look ahead to today's UK racing at Uttoxeter and Newcastle.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/39180b2d-8c46-47c0-95ad-82986314165a/cover"/>
@@ -3375,20 +3368,30 @@
     <desc lang="en">The latest in the series, a comprehensive preview show for Hong Kong racing. With form analysis, trackwork highlights and interviews, an expert team of presenters will also provide their selections.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c43ebc14-e269-4d15-aeed-506a7f3b2ba3/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20251210100000 +0000" stop="20251210123000 +0000">
+  <programme channel="sky.racing.uk" start="20251210100000 +0000" stop="20251210120000 +0000">
     <title lang="en">International Raceday Live</title>
     <desc lang="en">Live international racing from Happy Valley and Pau. A look ahead to this afternoon's UK Jumps racing at Hexham and Hereford.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c5fbea68-fcc0-405c-bfe1-9631830accc2/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20251210123000 +0000" stop="20251210170000 +0000">
+  <programme channel="sky.racing.uk" start="20251210120000 +0000" stop="20251210170000 +0000">
     <title lang="en">Raceday Live</title>
     <desc lang="en">Live Racing: Jumps racing from Hexham and Hereford. It's the International Jockey's Championship at Happy Valley with Ryan Moore, Hollie Doyle and William Buick all competing.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/798b293a-3ec6-48d1-b5a9-e2e07bab0c00/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20251210170000 +0000" stop="20251210223000 +0000">
+  <programme channel="sky.racing.uk" start="20251210170000 +0000" stop="20251210220000 +0000">
     <title lang="en">Stateside Live</title>
     <desc lang="en">Live US racing from Mahoning Valley, Tampa and Turf Paradise. Greyhound racing also features.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7e5bf1fd-6829-4b5a-96f6-19362bfdcebd/cover"/>
+  </programme>
+  <programme channel="sky.racing.uk" start="20251210220000 +0000" stop="20251210221500 +0000">
+    <title lang="en">The Murphy-Bowen Match-Up</title>
+    <desc lang="en">Trainer-jockey partnerships don't come much better than Olly Murphy and Sean Bowen at the moment, with the prolific pair picking up where they left off last season and setting sights high.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/4db35af7-79f1-4fc6-81b9-97dd75f009a2/cover"/>
+  </programme>
+  <programme channel="sky.racing.uk" start="20251210221500 +0000" stop="20251210223000 +0000">
+    <title lang="en">British Racing: Welfare Commitment</title>
+    <desc lang="en">Alex Hammond visits Newbury Racecourse and Lambourn Training Grounds to find out what measures British Racing is implementing to help improve horse welfare.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/52a54f99-3c8a-3f89-9525-737d68b874eb/cover"/>
   </programme>
   <programme channel="sky.racing.uk" start="20251210223000 +0000" stop="20251210230000 +0000">
     <title lang="en">Harry Derham: Progression</title>
@@ -3687,13 +3690,13 @@
   </programme>
   <programme channel="sky.mix.uk" start="20251209180000 +0000" stop="20251209203000 +0000">
     <title lang="en">NBA: Suns @ Timberwolves</title>
-    <desc lang="en">The Phoenix Suns go to the Minnesota Timberwolves in the NBA.</desc>
+    <desc lang="en">The Phoenix Suns go to the Minnesota Timberwolves in the NBA. Minnesota registered a season-high fifth straight win Saturday night against Los Angeles Clippers.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/559d4228-1fca-4782-b230-967d400b45c7/cover"/>
   </programme>
   <programme channel="sky.mix.uk" start="20251209203000 +0000" stop="20251209235000 +0000">
     <title lang="en">WBBL Eliminator1</title>
-    <desc lang="en">In the WBBL Knockout, a place in the Challenger is up for grabs.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/6532d5f3-9ed7-45a2-971a-21548544ccd1/cover"/>
+    <desc lang="en">The Women's Big Bash League finals commence with the Knockout at the Waca as Perth Scorchers compete with Melbourne Stars. Ellyse Perry and the second-placed Sixers lie in wait.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6536e1a4-4a3d-4d09-aefb-e2e6fd81ad4f/cover"/>
   </programme>
   <programme channel="sky.mix.uk" start="20251209235000 +0000" stop="20251210000000 +0000">
     <title lang="en">The Best of ENG v AUS</title>
@@ -3818,7 +3821,7 @@
   </programme>
   <programme channel="sky.mix.uk" start="20251210070000 +0000" stop="20251210080000 +0000">
     <title lang="en">WBBL Eliminator1</title>
-    <desc lang="en">In the WBBL Knockout, a place in the Challenger is up for grabs.</desc>
+    <desc lang="en">The Women's Big Bash League finals commence with the Knockout at the Waca as Perth Scorchers compete with Melbourne Stars. Ellyse Perry and the second-placed Sixers lie in wait. (09.12)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5f97cde4-adfe-4731-9abb-39c361f25aea/cover"/>
   </programme>
   <programme channel="sky.mix.uk" start="20251210080000 +0000" stop="20251210090000 +0000">
@@ -3847,7 +3850,7 @@
   </programme>
   <programme channel="sky.mix.uk" start="20251210130000 +0000" stop="20251210140000 +0000">
     <title lang="en">WBBL Eliminator1</title>
-    <desc lang="en">In the WBBL Knockout, a place in the Challenger is up for grabs.</desc>
+    <desc lang="en">The Women's Big Bash League finals commence with the Knockout at the Waca as Perth Scorchers compete with Melbourne Stars. Ellyse Perry and the second-placed Sixers lie in wait. (09.12)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5f97cde4-adfe-4731-9abb-39c361f25aea/cover"/>
   </programme>
   <programme channel="sky.mix.uk" start="20251210140000 +0000" stop="20251210141500 +0000">
@@ -3877,7 +3880,7 @@
   </programme>
   <programme channel="sky.mix.uk" start="20251210170000 +0000" stop="20251210180000 +0000">
     <title lang="en">WBBL Eliminator1</title>
-    <desc lang="en">In the WBBL Knockout, a place in the Challenger is up for grabs.</desc>
+    <desc lang="en">The Women's Big Bash League finals commence with the Knockout at the Waca as Perth Scorchers compete with Melbourne Stars. Ellyse Perry and the second-placed Sixers lie in wait. (09.12)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5f97cde4-adfe-4731-9abb-39c361f25aea/cover"/>
   </programme>
   <programme channel="sky.mix.uk" start="20251210180000 +0000" stop="20251210190000 +0000">
@@ -4006,7 +4009,7 @@
   </programme>
   <programme channel="sky.cricket.uk" start="20251208142500 +0000" stop="20251208174500 +0000">
     <title lang="en">Live ILT20</title>
-    <desc lang="en">Desert Vipers face Gulf Giants in the ILT20.</desc>
+    <desc lang="en">The unbeaten DP World ILT20 pair of Sam Curran's Desert Vipers and Moeen Ali's Gulf Giants collide with both teams eyeing a third win in three. The Vipers wound up runners-up last season.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ff5cc22c-8f36-46a6-a336-3ff0c070ef2f/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20251208174500 +0000" stop="20251208180000 +0000">
@@ -4079,40 +4082,42 @@
     <desc lang="en">Last season's runners-up Brisbane Heat, in the midst of a miserable campaign, go to Adelaide for a meeting with the Strikers, who are also struggling having lost their last three. (25.11)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7197691e-2fe8-4ff8-8e44-d6429df0d621/cover"/>
   </programme>
-  <programme channel="sky.cricket.uk" start="20251209070000 +0000" stop="20251209070500 +0000">
-    <title lang="en">Lord's Pavilion</title>
-    <desc lang="en">Former England star Michael Atherton takes a look around the Lord's Pavilion to take a look at some of the cricketing luminaries immortalised on its walls.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/338bdac2-0891-3aef-ac24-e3e366e3ae83/cover"/>
-  </programme>
-  <programme channel="sky.cricket.uk" start="20251209070500 +0000" stop="20251209080500 +0000">
+  <programme channel="sky.cricket.uk" start="20251209070000 +0000" stop="20251209080000 +0000">
     <title lang="en">WBBL Sydney S v Adelaide S Hlts</title>
     <desc lang="en">It's all on the line at North Sydney Oval as the Sixers compete with the Adelaide Strikers for the last remaining place in the WBBL play-offs, marking an end to the regular season. (06.12)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9b772c7c-7e92-4738-8f22-5a30977c7175/cover"/>
   </programme>
-  <programme channel="sky.cricket.uk" start="20251209080500 +0000" stop="20251209112500 +0000">
-    <title lang="en">Live WBBL Eliminator1</title>
-    <desc lang="en">In the WBBL Knockout, a place in the Challenger is up for grabs.</desc>
+  <programme channel="sky.cricket.uk" start="20251209080000 +0000" stop="20251209083000 +0000">
+    <title lang="en">Ashes Memories</title>
+    <desc lang="en">Former England captain Charlotte Edwards remembers her experiences of playing in the Women's Ashes. During her captaincy, England won the Ashes on three occasions.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a5fa3bcb-9dbf-40bb-bfe2-4e7672d36ebf/cover"/>
+  </programme>
+  <programme channel="sky.cricket.uk" start="20251209083000 +0000" stop="20251209084000 +0000">
+    <title lang="en">My Icon: Michael Holding</title>
+    <desc lang="en">In the next episode of this special series, West Indian cricketing legend Michael Holding discusses the individuals that have inspired him during his life and career.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7517f6b4-ab25-43fa-a77a-98457b620e16/cover"/>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme channel="sky.cricket.uk" start="20251209084000 +0000" stop="20251209120000 +0000">
+    <title lang="en">Live WBBL Perth S v Melbourne S</title>
+    <desc lang="en">The Women's Big Bash League finals commence with the Knockout at the Waca as Perth Scorchers compete with Melbourne Stars. Ellyse Perry and the second-placed Sixers lie in wait.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6536e1a4-4a3d-4d09-aefb-e2e6fd81ad4f/cover"/>
   </programme>
-  <programme channel="sky.cricket.uk" start="20251209112500 +0000" stop="20251209113000 +0000">
-    <title lang="en">Lord's Pavilion</title>
-    <desc lang="en">Former England star Michael Atherton takes a look around the Lord's Pavilion to take a look at some of the cricketing luminaries immortalised on its walls.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/338bdac2-0891-3aef-ac24-e3e366e3ae83/cover"/>
-  </programme>
-  <programme channel="sky.cricket.uk" start="20251209113000 +0000" stop="20251209114500 +0000">
+  <programme channel="sky.cricket.uk" start="20251209120000 +0000" stop="20251209121500 +0000">
     <title lang="en">ICC Women's WC: ENG v IND 2017</title>
     <desc lang="en">Revisit the final of the 2017 ICC Women's Cricket World Cup, as England - hosts of the tournament - clashed with 2005 runners-up India at Lord's. England were targeting title number four.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f1fa745e-8da5-45f9-bc7c-ea41a866fc3e/cover"/>
   </programme>
-  <programme channel="sky.cricket.uk" start="20251209114500 +0000" stop="20251209120000 +0000">
+  <programme channel="sky.cricket.uk" start="20251209121500 +0000" stop="20251209123000 +0000">
     <title lang="en">ICC Women's WC: ENG v AUS 2017</title>
     <desc lang="en">At the 2017 ICC Women's Cricket World Cup in England, the hosts would meet Australia in the fifth round of group stage matches.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/34f0051a-2000-3d61-be19-7966a848ea20/cover"/>
   </programme>
-  <programme channel="sky.cricket.uk" start="20251209120000 +0000" stop="20251209130000 +0000">
-    <title lang="en">WBBL Sydney S v Adelaide S Hlts</title>
-    <desc lang="en">It's all on the line at North Sydney Oval as the Sixers compete with the Adelaide Strikers for the last remaining place in the WBBL play-offs, marking an end to the regular season. (06.12)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9b772c7c-7e92-4738-8f22-5a30977c7175/cover"/>
+  <programme channel="sky.cricket.uk" start="20251209123000 +0000" stop="20251209130000 +0000">
+    <title lang="en">Ashes Memories</title>
+    <desc lang="en">Former England captain Charlotte Edwards remembers her experiences of playing in the Women's Ashes. During her captaincy, England won the Ashes on three occasions.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a5fa3bcb-9dbf-40bb-bfe2-4e7672d36ebf/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20251209130000 +0000" stop="20251209140000 +0000">
     <title lang="en">WBBL Sydney S v Sydney T Hlts</title>
@@ -4140,8 +4145,8 @@
     <icon src="https://images.metadata.sky.com/pd-image/38a2968f-ca12-49fe-861d-6f322901eae6/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20251209180000 +0000" stop="20251209190000 +0000">
-    <title lang="en">WBBL Eliminator1</title>
-    <desc lang="en">In the WBBL Knockout, a place in the Challenger is up for grabs.</desc>
+    <title lang="en">WBBL Perth S v Melbourne S Hlts</title>
+    <desc lang="en">The Women's Big Bash League finals commence with the Knockout at the Waca as Perth Scorchers compete with Melbourne Stars. Ellyse Perry and the second-placed Sixers lie in wait. (09.12)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5f97cde4-adfe-4731-9abb-39c361f25aea/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20251209190000 +0000" stop="20251209200000 +0000">
@@ -4150,8 +4155,8 @@
     <icon src="https://images.metadata.sky.com/pd-image/f3f5bf52-0bb3-4bd2-8bed-74157fa8bbec/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20251209200000 +0000" stop="20251209210000 +0000">
-    <title lang="en">WBBL Eliminator1</title>
-    <desc lang="en">In the WBBL Knockout, a place in the Challenger is up for grabs.</desc>
+    <title lang="en">WBBL Perth S v Melbourne S Hlts</title>
+    <desc lang="en">The Women's Big Bash League finals commence with the Knockout at the Waca as Perth Scorchers compete with Melbourne Stars. Ellyse Perry and the second-placed Sixers lie in wait. (09.12)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5f97cde4-adfe-4731-9abb-39c361f25aea/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20251209210000 +0000" stop="20251209220000 +0000">
@@ -4166,8 +4171,8 @@
   </programme>
   <programme channel="sky.cricket.uk" start="20251209230000 +0000" stop="20251210022000 +0000">
     <title lang="en">WBBL Eliminator1</title>
-    <desc lang="en">In the WBBL Knockout, a place in the Challenger is up for grabs.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/6532d5f3-9ed7-45a2-971a-21548544ccd1/cover"/>
+    <desc lang="en">The Women's Big Bash League finals commence with the Knockout at the Waca as Perth Scorchers compete with Melbourne Stars. Ellyse Perry and the second-placed Sixers lie in wait.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6536e1a4-4a3d-4d09-aefb-e2e6fd81ad4f/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20251210022000 +0000" stop="20251210023000 +0000">
     <title lang="en">Anderson 500th Wicket</title>
@@ -4211,8 +4216,8 @@
   </programme>
   <programme channel="sky.cricket.uk" start="20251210080000 +0000" stop="20251210112000 +0000">
     <title lang="en">WBBL Eliminator1</title>
-    <desc lang="en">In the WBBL Knockout, a place in the Challenger is up for grabs.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/6532d5f3-9ed7-45a2-971a-21548544ccd1/cover"/>
+    <desc lang="en">The Women's Big Bash League finals commence with the Knockout at the Waca as Perth Scorchers compete with Melbourne Stars. Ellyse Perry and the second-placed Sixers lie in wait.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6536e1a4-4a3d-4d09-aefb-e2e6fd81ad4f/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20251210112000 +0000" stop="20251210113000 +0000">
     <title lang="en">Anderson 500th Wicket</title>
@@ -4270,8 +4275,8 @@
     <icon src="https://images.metadata.sky.com/pd-image/83e9719c-811c-4f07-910c-cc01c06355de/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20251210200000 +0000" stop="20251210210000 +0000">
-    <title lang="en">WBBL Eliminator1</title>
-    <desc lang="en">In the WBBL Knockout, a place in the Challenger is up for grabs.</desc>
+    <title lang="en">WBBL Perth S v Melbourne S Hlts</title>
+    <desc lang="en">The Women's Big Bash League finals commence with the Knockout at the Waca as Perth Scorchers compete with Melbourne Stars. Ellyse Perry and the second-placed Sixers lie in wait. (09.12)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5f97cde4-adfe-4731-9abb-39c361f25aea/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20251210210000 +0000" stop="20251210220000 +0000">
@@ -4286,8 +4291,8 @@
   </programme>
   <programme channel="sky.cricket.uk" start="20251210230000 +0000" stop="20251211022000 +0000">
     <title lang="en">WBBL Eliminator1</title>
-    <desc lang="en">In the WBBL Knockout, a place in the Challenger is up for grabs.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/6532d5f3-9ed7-45a2-971a-21548544ccd1/cover"/>
+    <desc lang="en">The Women's Big Bash League finals commence with the Knockout at the Waca as Perth Scorchers compete with Melbourne Stars. Ellyse Perry and the second-placed Sixers lie in wait.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6536e1a4-4a3d-4d09-aefb-e2e6fd81ad4f/cover"/>
   </programme>
   <programme channel="tnt1" start="20251207214500 +0000" stop="20251208004500 +0000">
     <title lang="en">UFC 323 - Dvalishvili vs Yan 2</title>
@@ -4649,22 +4654,22 @@
   <programme channel="tnt2" start="20251207220000 +0000" stop="20251207230000 +0000">
     <title lang="en">FA Cup: Slough Town v Macclesfield</title>
     <desc lang="en">Action from the second round of the Emirates FA Cup as sixth-tier side Slough Town host John Rooney's Macclesfield FC at Arbour Park.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/31de3956-4b8d-40ce-82d6-76bc47028332/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/c33c596a-fd01-459b-ab13-fa7391ce438c/cover"/>
   </programme>
   <programme channel="tnt2" start="20251207230000 +0000" stop="20251208000000 +0000">
     <title lang="en">FA Cup: Boreham Wood v Newport County</title>
     <desc lang="en">Action from the second round of the Emirates FA Cup as National League side Boreham Wood take on League Two strugglers Newport County at Mangata Developments Stadium.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/8eea1b8d-f3b2-402c-b9ca-c8f4d3eb2669/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/951eda89-cd5f-4a98-989c-5311f3a055ce/cover"/>
   </programme>
   <programme channel="tnt2" start="20251208000000 +0000" stop="20251208010000 +0000">
     <title lang="en">FA Cup: Gateshead v Walsall</title>
     <desc lang="en">Action from the second round of the Emirates FA Cup as National League side Gateshead meet Mat Sadler's high-flying League Two Saddlers at Gateshead International Stadium.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/5d095ea6-81ae-4bfe-8b37-87e8a4db3595/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/10b2df0a-a2fe-4074-ac1d-aeaad2dceb85/cover"/>
   </programme>
   <programme channel="tnt2" start="20251208010000 +0000" stop="20251208020000 +0000">
     <title lang="en">FA Cup: Blackpool v Carlisle</title>
     <desc lang="en">Action from the Emirates FA Cup second-round clash between Ian Evatt's Blackpool and Mark Hughes' National League side Carlisle United at Bloomfield Road.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e0d977e7-d430-49cc-9912-feac94ce9595/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/dc98a0d6-00c7-4bd7-9117-08b5a54da256/cover"/>
   </programme>
   <programme channel="tnt2" start="20251208020000 +0000" stop="20251208030000 +0000">
     <title lang="en">Serie A: Napoli v Juventus</title>
@@ -4674,7 +4679,9 @@
   <programme channel="tnt2" start="20251208030000 +0000" stop="20251208040000 +0000">
     <title lang="en">UEL &amp; UECL Magazine</title>
     <desc lang="en">Oliver Glasner reflects on his successes with Frankfurt and Crystal Palace. Plus, former Liverpool midfielder Tyler Morton talks about his new start at Lyon.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c81c16df-d9e7-40ea-b94f-444f8e40db5c/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/205cbdbc-be88-4c9d-8e23-1a3b355b7996/cover"/>
+    <episode-num system="xmltv_ns">24.5.0</episode-num>
+    <episode-num system="onscreen">S25E6</episode-num>
   </programme>
   <programme channel="tnt2" start="20251208040000 +0000" stop="20251208043000 +0000">
     <title lang="en">UEFA Champions League Magazine</title>
@@ -4735,7 +4742,7 @@
   <programme channel="tnt2" start="20251208090000 +0000" stop="20251208100000 +0000">
     <title lang="en">FA Cup: Salford v Leyton Orient</title>
     <desc lang="en">Richie Wellens returns to the Peninsula Stadium as his Leyton Orient side take on Karl Robinson's Salford City in the second round of the Emirates FA Cup.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/54c9f0e2-25e7-4370-b148-7e6812cfbecb/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/cc5cd9a7-f73c-4f6f-bd9d-821ef68cc649/cover"/>
   </programme>
   <programme channel="tnt2" start="20251208100000 +0000" stop="20251208110000 +0000">
     <title lang="en">FA Cup: Sutton United v Shrewsbury Town</title>
@@ -4780,12 +4787,12 @@
   <programme channel="tnt2" start="20251208213000 +0000" stop="20251208223000 +0000">
     <title lang="en">MotoGP: 2025 Season Review</title>
     <desc lang="en">We review the biggest stories and most thrilling races from the 2025 FIM MotoGP World Championship, which saw Marc Marquez complete a remarkable comeback.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9a3f02c2-9196-46fb-bea6-f5a150220fbb/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/469a4d66-6bd5-4e0d-a069-41d4bb666bc2/cover"/>
   </programme>
   <programme channel="tnt2" start="20251208223000 +0000" stop="20251208233000 +0000">
     <title lang="en">Moto2/3: 2025 Season Review</title>
     <desc lang="en">We review the biggest stories and most thrilling races from the 2025 FIM Moto2 and Moto3 World Championships, as Brazilian Diogo Moreira made history.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3e92bde5-caac-4a17-a207-92fcf6abe73a/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/a3efffb2-60de-46cf-be1d-fdc6a618b8b9/cover"/>
   </programme>
   <programme channel="tnt2" start="20251208233000 +0000" stop="20251208234500 +0000">
     <title lang="en">TNT Sports Cricket Reload</title>
@@ -4834,12 +4841,12 @@
   <programme channel="tnt2" start="20251209060000 +0000" stop="20251209070000 +0000">
     <title lang="en">Moto2/3: 2025 Season Review</title>
     <desc lang="en">We review the biggest stories and most thrilling races from the 2025 FIM Moto2 and Moto3 World Championships, as Brazilian Diogo Moreira made history.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/108930e5-584f-44fa-88e0-024b5e1db0a1/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/a3efffb2-60de-46cf-be1d-fdc6a618b8b9/cover"/>
   </programme>
   <programme channel="tnt2" start="20251209070000 +0000" stop="20251209080000 +0000">
     <title lang="en">MotoGP: 2025 Season Review</title>
     <desc lang="en">We review the biggest stories and most thrilling races from the 2025 FIM MotoGP World Championship, which saw Marc Marquez complete a remarkable comeback.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/59fc9026-6f17-4ae1-89c6-bb7fa0449138/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/469a4d66-6bd5-4e0d-a069-41d4bb666bc2/cover"/>
   </programme>
   <programme channel="tnt2" start="20251209080000 +0000" stop="20251209083000 +0000">
     <title lang="en">The Breakdown: UCL Special</title>
@@ -4856,7 +4863,9 @@
   <programme channel="tnt2" start="20251209090000 +0000" stop="20251209100000 +0000">
     <title lang="en">UEL &amp; UECL Magazine</title>
     <desc lang="en">Oliver Glasner reflects on his successes with Frankfurt and Crystal Palace. Plus, former Liverpool midfielder Tyler Morton talks about his new start at Lyon.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/243d526a-095a-4958-830a-c1789e5984e9/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/205cbdbc-be88-4c9d-8e23-1a3b355b7996/cover"/>
+    <episode-num system="xmltv_ns">24.5.0</episode-num>
+    <episode-num system="onscreen">S25E6</episode-num>
   </programme>
   <programme channel="tnt2" start="20251209100000 +0000" stop="20251209110000 +0000">
     <title lang="en">Serie A: Inter v Como</title>
@@ -4878,7 +4887,9 @@
   <programme channel="tnt2" start="20251209130000 +0000" stop="20251209140000 +0000">
     <title lang="en">UEL &amp; UECL Magazine</title>
     <desc lang="en">Oliver Glasner reflects on his successes with Frankfurt and Crystal Palace. Plus, former Liverpool midfielder Tyler Morton talks about his new start at Lyon.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/2d40683e-e520-49fc-acfc-43632692e255/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/205cbdbc-be88-4c9d-8e23-1a3b355b7996/cover"/>
+    <episode-num system="xmltv_ns">24.5.0</episode-num>
+    <episode-num system="onscreen">S25E6</episode-num>
   </programme>
   <programme channel="tnt2" start="20251209140000 +0000" stop="20251209144500 +0000">
     <title lang="en">Sign Up - Into Football</title>
@@ -4952,7 +4963,7 @@
   <programme channel="tnt2" start="20251210011500 +0000" stop="20251210014500 +0000">
     <title lang="en">Fight Week: UFC 323 Review Show</title>
     <desc lang="en">We review the biggest stories coming out of UFC 323 in Las Vegas, as Merab Dvalishvili put his bantamweight title against Petr Yan.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/261df4ce-dad8-40f6-a3f5-859c556f18c0/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/260aa649-d94c-4c2f-b65c-5a1865bf0548/cover"/>
   </programme>
   <programme channel="tnt2" start="20251210014500 +0000" stop="20251210020000 +0000">
     <title lang="en">Premier League Reload</title>
@@ -5152,7 +5163,7 @@
   <programme channel="tnt3" start="20251208190000 +0000" stop="20251208210000 +0000">
     <title lang="en">NZ v WI - 1st Test Review</title>
     <desc lang="en">A review of the epic first Test between New Zealand and West Indies in Christchurch, where Justin Greaves and Shai Hope helped the visitors secure a remarkable draw.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/7a533cc8-a7b4-4dfb-98af-c71fd815ab41/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/bb698b01-988b-490e-bed5-4f16ee2b6493/cover"/>
   </programme>
   <programme channel="tnt3" start="20251208210000 +0000" stop="20251208220000 +0000">
     <title lang="en">Fishing: On The Bank - 2024</title>
@@ -5164,7 +5175,7 @@
   <programme channel="tnt3" start="20251208220000 +0000" stop="20251208223000 +0000">
     <title lang="en">Fight Week: UFC 323 Review Show</title>
     <desc lang="en">We review the biggest stories coming out of UFC 323 in Las Vegas, as Merab Dvalishvili put his bantamweight title against Petr Yan.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/2c6e1653-9a63-4a13-9c4a-f0c0a34475f2/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/260aa649-d94c-4c2f-b65c-5a1865bf0548/cover"/>
   </programme>
   <programme channel="tnt3" start="20251208223000 +0000" stop="20251208230000 +0000">
     <title lang="en">UFC Connected</title>
@@ -5188,7 +5199,7 @@
   <programme channel="tnt3" start="20251209010000 +0000" stop="20251209020000 +0000">
     <title lang="en">FA Cup: Brackley Town v Burton Albion</title>
     <desc lang="en">National League side Brackley Town seek to reach the Emirates FA Cup third round for the first time in their history as they host League One's Burton Albion.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/52bcc07b-060c-4a65-aae1-3f919304de91/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/e4bbab38-49fb-4599-9614-9160a0b45c80/cover"/>
   </programme>
   <programme channel="tnt3" start="20251209020000 +0000" stop="20251209030000 +0000">
     <title lang="en">FA Cup: Salford v Leyton Orient</title>
@@ -6365,9 +6376,9 @@
     <episode-num system="onscreen">S6E7</episode-num>
   </programme>
   <programme channel="5Action.uk" start="20251207210000 +0000" stop="20251208003000 +0000">
-    <title lang="en">5NFL Live: Los Angeles @ Arizona</title>
-    <desc lang="en">Live coverage of Los Angeles Rams @ Arizona Cardinals from State Farm Stadium, Arizona.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/bea1726f-9ad4-43ca-ba85-dc04008966b8/cover"/>
+    <title lang="en">5NFL Live: Green Bay Packers @ Chicago B</title>
+    <desc lang="en">Live coverage of Green Bay Packers @ Chicago Bears.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/b44c014f-712a-4fa8-91ed-8501c9827811/cover"/>
   </programme>
   <programme channel="5Action.uk" start="20251208003000 +0000" stop="20251208010000 +0000">
     <title lang="en">Cops</title>
@@ -7077,9 +7088,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/cd69d587-e4a6-4339-9fbc-f1d90976d9de/cover"/>
   </programme>
   <programme channel="5Select.uk" start="20251209090000 +0000" stop="20251209100000 +0000">
-    <title lang="en">World's Most Expensive Christmas Cruise</title>
-    <desc lang="en">On board the world's most expensive cruise ship, a Caribbean Christmas includes six-star dining and entertainment, and passengers have paid up to 9000 pound a night.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/cd3c5b93-a12a-430b-94b4-d3560ecddf63/cover"/>
+    <title lang="en">Jane McDonald's Highland Fling</title>
+    <desc lang="en">The singer returns to her roots, visiting Edinburgh's spectacular Christmas market, then travels north for whisky-tasting, bauble-making and candlelit carols with children.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/15d10f00-6a05-41af-acff-1586e4ded421/cover"/>
   </programme>
   <programme channel="5Select.uk" start="20251209100000 +0000" stop="20251209110000 +0000">
     <title lang="en">World's Most Expensive Christmas Cruise</title>
@@ -10759,17 +10770,17 @@
   <programme channel="BBCNews.uk" start="20251208103000 +0000" stop="20251208110000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c34594a5-c1a3-4d8a-92da-3df87159a18b/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/0bcb0d1f-2db9-4226-aa47-aeb3ec095e1d/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20251208110000 +0000" stop="20251208113000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9f3ceb4a-8402-41cb-976b-86a8d09e6047/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/395f8246-5287-4122-b986-53c9dfd0854f/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20251208113000 +0000" stop="20251208114500 +0000">
-    <title lang="en">Business Today</title>
-    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c150c4c8-0144-4a4f-9c5e-167cd8a89f11/cover"/>
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/5f86e14e-64e1-44e7-8552-973320a030c0/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20251208114500 +0000" stop="20251208120000 +0000">
     <title lang="en">BBC News</title>
@@ -10786,10 +10797,20 @@
     <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a8cde5a4-1269-45fa-8ac8-8940c766043d/cover"/>
   </programme>
-  <programme channel="BBCNews.uk" start="20251208130000 +0000" stop="20251208140000 +0000">
-    <title lang="en">Signed: BBC News at One</title>
-    <desc lang="en">The latest national and international news from the BBC.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/7a801fdc-c26c-43ce-b965-d24545667d1d/cover"/>
+  <programme channel="BBCNews.uk" start="20251208130000 +0000" stop="20251208133000 +0000">
+    <title lang="en">BBC News Now</title>
+    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/aa44dd75-8ec2-4aa2-84f4-00883a0f0098/cover"/>
+  </programme>
+  <programme channel="BBCNews.uk" start="20251208133000 +0000" stop="20251208135500 +0000">
+    <title lang="en">BBC News Now</title>
+    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ade5c4de-2804-43f3-a1b2-6fbbcbae70e1/cover"/>
+  </programme>
+  <programme channel="BBCNews.uk" start="20251208135500 +0000" stop="20251208140000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6bb37ac2-142e-433c-83e4-34f26dcafa94/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20251208140000 +0000" stop="20251208143000 +0000">
     <title lang="en">BBC News Now</title>
@@ -10888,7 +10909,7 @@
   </programme>
   <programme channel="BBCNews.uk" start="20251208223000 +0000" stop="20251208230000 +0000">
     <title lang="en">Newsnight</title>
-    <desc lang="en">Insights and global interviews on the crucial news stories of the day. With Katie Razzall.</desc>
+    <desc lang="en">Insights and global interviews on the crucial news stories of the day. With Nick Watt.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c20b53b1-0901-487e-a65a-afe129de2385/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20251208230000 +0000" stop="20251209000000 +0000">
@@ -11445,7 +11466,7 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20251208093000 +0000" stop="20251208104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Financial support available this winter, burn-treatment advice and parcel delivery issues.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d1af1bbd-e952-4a81-9fa5-f561cc6e9693/cover"/>
     <episode-num system="xmltv_ns">6.128.0</episode-num>
     <episode-num system="onscreen">S7E129</episode-num>
@@ -11530,7 +11551,7 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20251208190000 +0000" stop="20251208193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Popstar Chesney Hawkes, choirmaster Gareth Malone, presenter Angela Scanlon and Paralympian Kadeena Cox join Alex Jones and Roman Kemp.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4bca7de0-4856-4e37-86b5-5ad607793501/cover"/>
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20251208193000 +0000" stop="20251208200000 +0000">
@@ -11578,7 +11599,7 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20251208231500 +0000" stop="20251209001500 +0000">
     <title lang="en">Matthew Perry and the Ketamine Queen</title>
-    <desc lang="en">Documentary examining actor Matthew Perry's death and Hollywood's ketamine drug network. Contains some strong language and some upsetting scenes.</desc>
+    <desc lang="en">Documentary examining actor Matthew Perry's death and Hollywood's ketamine drug network. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ba393b49-682f-4dfc-9604-a4e7c7bd237e/cover"/>
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20251209001500 +0000" stop="20251209002000 +0000">
@@ -11909,7 +11930,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20251208093000 +0000" stop="20251208104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Financial support available this winter, burn-treatment advice and parcel delivery issues.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d1af1bbd-e952-4a81-9fa5-f561cc6e9693/cover"/>
     <episode-num system="xmltv_ns">6.128.0</episode-num>
     <episode-num system="onscreen">S7E129</episode-num>
@@ -11994,7 +12015,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20251208190000 +0000" stop="20251208193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Popstar Chesney Hawkes, choirmaster Gareth Malone, presenter Angela Scanlon and Paralympian Kadeena Cox join Alex Jones and Roman Kemp.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4bca7de0-4856-4e37-86b5-5ad607793501/cover"/>
   </programme>
   <programme channel="BBCOneEast.uk" start="20251208193000 +0000" stop="20251208200000 +0000">
@@ -12042,7 +12063,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20251208231500 +0000" stop="20251209001500 +0000">
     <title lang="en">Matthew Perry and the Ketamine Queen</title>
-    <desc lang="en">Documentary examining actor Matthew Perry's death and Hollywood's ketamine drug network. Contains some strong language and some upsetting scenes.</desc>
+    <desc lang="en">Documentary examining actor Matthew Perry's death and Hollywood's ketamine drug network. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ba393b49-682f-4dfc-9604-a4e7c7bd237e/cover"/>
   </programme>
   <programme channel="BBCOneEast.uk" start="20251209001500 +0000" stop="20251209002000 +0000">
@@ -12373,7 +12394,7 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20251208093000 +0000" stop="20251208104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Financial support available this winter, burn-treatment advice and parcel delivery issues.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d1af1bbd-e952-4a81-9fa5-f561cc6e9693/cover"/>
     <episode-num system="xmltv_ns">6.128.0</episode-num>
     <episode-num system="onscreen">S7E129</episode-num>
@@ -12458,7 +12479,7 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20251208190000 +0000" stop="20251208193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Popstar Chesney Hawkes, choirmaster Gareth Malone, presenter Angela Scanlon and Paralympian Kadeena Cox join Alex Jones and Roman Kemp.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4bca7de0-4856-4e37-86b5-5ad607793501/cover"/>
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20251208193000 +0000" stop="20251208200000 +0000">
@@ -12506,7 +12527,7 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20251208231500 +0000" stop="20251209001500 +0000">
     <title lang="en">Matthew Perry and the Ketamine Queen</title>
-    <desc lang="en">Documentary examining actor Matthew Perry's death and Hollywood's ketamine drug network. Contains some strong language and some upsetting scenes.</desc>
+    <desc lang="en">Documentary examining actor Matthew Perry's death and Hollywood's ketamine drug network. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ba393b49-682f-4dfc-9604-a4e7c7bd237e/cover"/>
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20251209001500 +0000" stop="20251209002000 +0000">
@@ -12837,7 +12858,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20251208093000 +0000" stop="20251208104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Financial support available this winter, burn-treatment advice and parcel delivery issues.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d1af1bbd-e952-4a81-9fa5-f561cc6e9693/cover"/>
     <episode-num system="xmltv_ns">6.128.0</episode-num>
     <episode-num system="onscreen">S7E129</episode-num>
@@ -12922,7 +12943,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20251208190000 +0000" stop="20251208193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Popstar Chesney Hawkes, choirmaster Gareth Malone, presenter Angela Scanlon and Paralympian Kadeena Cox join Alex Jones and Roman Kemp.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4bca7de0-4856-4e37-86b5-5ad607793501/cover"/>
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20251208193000 +0000" stop="20251208200000 +0000">
@@ -12970,7 +12991,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20251208231500 +0000" stop="20251209001500 +0000">
     <title lang="en">Matthew Perry and the Ketamine Queen</title>
-    <desc lang="en">Documentary examining actor Matthew Perry's death and Hollywood's ketamine drug network. Contains some strong language and some upsetting scenes.</desc>
+    <desc lang="en">Documentary examining actor Matthew Perry's death and Hollywood's ketamine drug network. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ba393b49-682f-4dfc-9604-a4e7c7bd237e/cover"/>
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20251209001500 +0000" stop="20251209002000 +0000">
@@ -13301,7 +13322,7 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20251208093000 +0000" stop="20251208104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Financial support available this winter, burn-treatment advice and parcel delivery issues.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d1af1bbd-e952-4a81-9fa5-f561cc6e9693/cover"/>
     <episode-num system="xmltv_ns">6.128.0</episode-num>
     <episode-num system="onscreen">S7E129</episode-num>
@@ -13386,7 +13407,7 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20251208190000 +0000" stop="20251208193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Popstar Chesney Hawkes, choirmaster Gareth Malone, presenter Angela Scanlon and Paralympian Kadeena Cox join Alex Jones and Roman Kemp.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4bca7de0-4856-4e37-86b5-5ad607793501/cover"/>
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20251208193000 +0000" stop="20251208200000 +0000">
@@ -13434,7 +13455,7 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20251208231500 +0000" stop="20251209001500 +0000">
     <title lang="en">Matthew Perry and the Ketamine Queen</title>
-    <desc lang="en">Documentary examining actor Matthew Perry's death and Hollywood's ketamine drug network. Contains some strong language and some upsetting scenes.</desc>
+    <desc lang="en">Documentary examining actor Matthew Perry's death and Hollywood's ketamine drug network. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ba393b49-682f-4dfc-9604-a4e7c7bd237e/cover"/>
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20251209001500 +0000" stop="20251209002000 +0000">
@@ -13765,7 +13786,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20251208093000 +0000" stop="20251208104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Financial support available this winter, burn-treatment advice and parcel delivery issues.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d1af1bbd-e952-4a81-9fa5-f561cc6e9693/cover"/>
     <episode-num system="xmltv_ns">6.128.0</episode-num>
     <episode-num system="onscreen">S7E129</episode-num>
@@ -13850,7 +13871,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20251208190000 +0000" stop="20251208193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Popstar Chesney Hawkes, choirmaster Gareth Malone, presenter Angela Scanlon and Paralympian Kadeena Cox join Alex Jones and Roman Kemp.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4bca7de0-4856-4e37-86b5-5ad607793501/cover"/>
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20251208193000 +0000" stop="20251208200000 +0000">
@@ -13898,7 +13919,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20251208231500 +0000" stop="20251209001500 +0000">
     <title lang="en">Matthew Perry and the Ketamine Queen</title>
-    <desc lang="en">Documentary examining actor Matthew Perry's death and Hollywood's ketamine drug network. Contains some strong language and some upsetting scenes.</desc>
+    <desc lang="en">Documentary examining actor Matthew Perry's death and Hollywood's ketamine drug network. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ba393b49-682f-4dfc-9604-a4e7c7bd237e/cover"/>
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20251209001500 +0000" stop="20251209002000 +0000">
@@ -14229,7 +14250,7 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20251208093000 +0000" stop="20251208104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Financial support available this winter, burn-treatment advice and parcel delivery issues.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d1af1bbd-e952-4a81-9fa5-f561cc6e9693/cover"/>
     <episode-num system="xmltv_ns">6.128.0</episode-num>
     <episode-num system="onscreen">S7E129</episode-num>
@@ -14358,20 +14379,15 @@
     <desc lang="en">A woman becomes pregnant from a one-night stand, much to the shame of her teen daughter. Contains strong language and adult humour. [2025]</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0e0db0f6-5743-4d7f-8eda-0a563970039f/cover"/>
   </programme>
-  <programme channel="BBCOneNorthernIreland.uk" start="20251209001500 +0000" stop="20251209003000 +0000">
-    <title lang="en">Rough</title>
-    <desc lang="en">Belfast gangsters pass a death sentence on a dog, leading the owner to offer himself to be shot instead. Contains strong language and some violent scenes. [2025]</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d6c17059-826b-40bc-affb-73ef33d95461/cover"/>
-  </programme>
-  <programme channel="BBCOneNorthernIreland.uk" start="20251209003000 +0000" stop="20251209013000 +0000">
+  <programme channel="BBCOneNorthernIreland.uk" start="20251209001500 +0000" stop="20251209011500 +0000">
     <title lang="en">Matthew Perry and the Ketamine Queen</title>
-    <desc lang="en">Documentary examining actor Matthew Perry's death and Hollywood's ketamine drug network. Contains some strong language and some upsetting scenes.</desc>
+    <desc lang="en">Documentary examining actor Matthew Perry's death and Hollywood's ketamine drug network. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ba393b49-682f-4dfc-9604-a4e7c7bd237e/cover"/>
   </programme>
-  <programme channel="BBCOneNorthernIreland.uk" start="20251209013000 +0000" stop="20251209060000 +0000">
+  <programme channel="BBCOneNorthernIreland.uk" start="20251209011500 +0000" stop="20251209060000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">BBC One joins the BBC's rolling news channel for a night of news.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b6961ddd-4322-3081-b084-d33df356fe41/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/fed1679f-7dbc-45b5-9254-a301a836d7a2/cover"/>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20251209060000 +0000" stop="20251209093000 +0000">
     <title lang="en">Breakfast</title>
@@ -14703,7 +14719,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20251208093000 +0000" stop="20251208104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Financial support available this winter, burn-treatment advice and parcel delivery issues.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d1af1bbd-e952-4a81-9fa5-f561cc6e9693/cover"/>
     <episode-num system="xmltv_ns">6.128.0</episode-num>
     <episode-num system="onscreen">S7E129</episode-num>
@@ -14788,7 +14804,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20251208190000 +0000" stop="20251208193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Popstar Chesney Hawkes, choirmaster Gareth Malone, presenter Angela Scanlon and Paralympian Kadeena Cox join Alex Jones and Roman Kemp.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4bca7de0-4856-4e37-86b5-5ad607793501/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20251208193000 +0000" stop="20251208200000 +0000">
@@ -14836,7 +14852,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20251208231500 +0000" stop="20251209001500 +0000">
     <title lang="en">Matthew Perry and the Ketamine Queen</title>
-    <desc lang="en">Documentary examining actor Matthew Perry's death and Hollywood's ketamine drug network. Contains some strong language and some upsetting scenes.</desc>
+    <desc lang="en">Documentary examining actor Matthew Perry's death and Hollywood's ketamine drug network. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ba393b49-682f-4dfc-9604-a4e7c7bd237e/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20251209001500 +0000" stop="20251209004500 +0000">
@@ -14995,7 +15011,7 @@
   <programme channel="BBCOneScotHD.uk" start="20251209234000 +0000" stop="20251210001000 +0000">
     <title lang="en">Scotcast</title>
     <desc lang="en">Conversation about Scotland's biggest news stories, hosted by Martin Geissler.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/2fb17df9-d88e-4715-aa2f-6735cf589c09/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/82537e87-c4e8-44bf-9e24-e645d889b995/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20251210001000 +0000" stop="20251210021500 +0000">
     <title lang="en">BlacKkKlansman</title>
@@ -15005,7 +15021,7 @@
   <programme channel="BBCOneScotHD.uk" start="20251210021500 +0000" stop="20251210022000 +0000">
     <title lang="en">Weather for the Week Ahead</title>
     <desc lang="en">Detailed weather forecast.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d492dfa5-5ac9-428e-b472-3ad1f60d6e47/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/a0e52d86-7b81-49ee-a271-f2dc38f400c5/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20251210022000 +0000" stop="20251210060000 +0000">
     <title lang="en">BBC News</title>
@@ -15175,7 +15191,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20251208093000 +0000" stop="20251208104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Financial support available this winter, burn-treatment advice and parcel delivery issues.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d1af1bbd-e952-4a81-9fa5-f561cc6e9693/cover"/>
     <episode-num system="xmltv_ns">6.128.0</episode-num>
     <episode-num system="onscreen">S7E129</episode-num>
@@ -15260,7 +15276,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20251208190000 +0000" stop="20251208193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Popstar Chesney Hawkes, choirmaster Gareth Malone, presenter Angela Scanlon and Paralympian Kadeena Cox join Alex Jones and Roman Kemp.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4bca7de0-4856-4e37-86b5-5ad607793501/cover"/>
   </programme>
   <programme channel="BBCOneSouth.uk" start="20251208193000 +0000" stop="20251208200000 +0000">
@@ -15308,7 +15324,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20251208231500 +0000" stop="20251209001500 +0000">
     <title lang="en">Matthew Perry and the Ketamine Queen</title>
-    <desc lang="en">Documentary examining actor Matthew Perry's death and Hollywood's ketamine drug network. Contains some strong language and some upsetting scenes.</desc>
+    <desc lang="en">Documentary examining actor Matthew Perry's death and Hollywood's ketamine drug network. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ba393b49-682f-4dfc-9604-a4e7c7bd237e/cover"/>
   </programme>
   <programme channel="BBCOneSouth.uk" start="20251209001500 +0000" stop="20251209002000 +0000">
@@ -15639,7 +15655,7 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20251208093000 +0000" stop="20251208104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Financial support available this winter, burn-treatment advice and parcel delivery issues.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d1af1bbd-e952-4a81-9fa5-f561cc6e9693/cover"/>
     <episode-num system="xmltv_ns">6.128.0</episode-num>
     <episode-num system="onscreen">S7E129</episode-num>
@@ -15724,7 +15740,7 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20251208190000 +0000" stop="20251208193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Popstar Chesney Hawkes, choirmaster Gareth Malone, presenter Angela Scanlon and Paralympian Kadeena Cox join Alex Jones and Roman Kemp.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4bca7de0-4856-4e37-86b5-5ad607793501/cover"/>
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20251208193000 +0000" stop="20251208200000 +0000">
@@ -15772,7 +15788,7 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20251208231500 +0000" stop="20251209001500 +0000">
     <title lang="en">Matthew Perry and the Ketamine Queen</title>
-    <desc lang="en">Documentary examining actor Matthew Perry's death and Hollywood's ketamine drug network. Contains some strong language and some upsetting scenes.</desc>
+    <desc lang="en">Documentary examining actor Matthew Perry's death and Hollywood's ketamine drug network. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ba393b49-682f-4dfc-9604-a4e7c7bd237e/cover"/>
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20251209001500 +0000" stop="20251209002000 +0000">
@@ -16103,7 +16119,7 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20251208093000 +0000" stop="20251208104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Financial support available this winter, burn-treatment advice and parcel delivery issues.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d1af1bbd-e952-4a81-9fa5-f561cc6e9693/cover"/>
     <episode-num system="xmltv_ns">6.128.0</episode-num>
     <episode-num system="onscreen">S7E129</episode-num>
@@ -16188,7 +16204,7 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20251208190000 +0000" stop="20251208193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Popstar Chesney Hawkes, choirmaster Gareth Malone, presenter Angela Scanlon and Paralympian Kadeena Cox join Alex Jones and Roman Kemp.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4bca7de0-4856-4e37-86b5-5ad607793501/cover"/>
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20251208193000 +0000" stop="20251208200000 +0000">
@@ -16236,7 +16252,7 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20251208231500 +0000" stop="20251209001500 +0000">
     <title lang="en">Matthew Perry and the Ketamine Queen</title>
-    <desc lang="en">Documentary examining actor Matthew Perry's death and Hollywood's ketamine drug network. Contains some strong language and some upsetting scenes.</desc>
+    <desc lang="en">Documentary examining actor Matthew Perry's death and Hollywood's ketamine drug network. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ba393b49-682f-4dfc-9604-a4e7c7bd237e/cover"/>
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20251209001500 +0000" stop="20251209002000 +0000">
@@ -16567,7 +16583,7 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20251208093000 +0000" stop="20251208104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Financial support available this winter, burn-treatment advice and parcel delivery issues.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d1af1bbd-e952-4a81-9fa5-f561cc6e9693/cover"/>
     <episode-num system="xmltv_ns">6.128.0</episode-num>
     <episode-num system="onscreen">S7E129</episode-num>
@@ -16662,7 +16678,7 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20251208190000 +0000" stop="20251208193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Popstar Chesney Hawkes, choirmaster Gareth Malone, presenter Angela Scanlon and Paralympian Kadeena Cox join Alex Jones and Roman Kemp.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4bca7de0-4856-4e37-86b5-5ad607793501/cover"/>
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20251208193000 +0000" stop="20251208200000 +0000">
@@ -16717,7 +16733,7 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20251209001000 +0000" stop="20251209011000 +0000">
     <title lang="en">Matthew Perry and the Ketamine Queen</title>
-    <desc lang="en">Documentary examining actor Matthew Perry's death and Hollywood's ketamine drug network. Contains some strong language and some upsetting scenes.</desc>
+    <desc lang="en">Documentary examining actor Matthew Perry's death and Hollywood's ketamine drug network. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ba393b49-682f-4dfc-9604-a4e7c7bd237e/cover"/>
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20251209011000 +0000" stop="20251209060000 +0000">
@@ -17054,7 +17070,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20251208093000 +0000" stop="20251208104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Financial support available this winter, burn-treatment advice and parcel delivery issues.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d1af1bbd-e952-4a81-9fa5-f561cc6e9693/cover"/>
     <episode-num system="xmltv_ns">6.128.0</episode-num>
     <episode-num system="onscreen">S7E129</episode-num>
@@ -17139,7 +17155,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20251208190000 +0000" stop="20251208193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Popstar Chesney Hawkes, choirmaster Gareth Malone, presenter Angela Scanlon and Paralympian Kadeena Cox join Alex Jones and Roman Kemp.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4bca7de0-4856-4e37-86b5-5ad607793501/cover"/>
   </programme>
   <programme channel="BBCOneWest.uk" start="20251208193000 +0000" stop="20251208200000 +0000">
@@ -17187,7 +17203,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20251208231500 +0000" stop="20251209001500 +0000">
     <title lang="en">Matthew Perry and the Ketamine Queen</title>
-    <desc lang="en">Documentary examining actor Matthew Perry's death and Hollywood's ketamine drug network. Contains some strong language and some upsetting scenes.</desc>
+    <desc lang="en">Documentary examining actor Matthew Perry's death and Hollywood's ketamine drug network. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ba393b49-682f-4dfc-9604-a4e7c7bd237e/cover"/>
   </programme>
   <programme channel="BBCOneWest.uk" start="20251209001500 +0000" stop="20251209002000 +0000">
@@ -17518,7 +17534,7 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20251208093000 +0000" stop="20251208104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Financial support available this winter, burn-treatment advice and parcel delivery issues.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d1af1bbd-e952-4a81-9fa5-f561cc6e9693/cover"/>
     <episode-num system="xmltv_ns">6.128.0</episode-num>
     <episode-num system="onscreen">S7E129</episode-num>
@@ -17603,7 +17619,7 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20251208190000 +0000" stop="20251208193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Popstar Chesney Hawkes, choirmaster Gareth Malone, presenter Angela Scanlon and Paralympian Kadeena Cox join Alex Jones and Roman Kemp.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4bca7de0-4856-4e37-86b5-5ad607793501/cover"/>
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20251208193000 +0000" stop="20251208200000 +0000">
@@ -17651,7 +17667,7 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20251208231500 +0000" stop="20251209001500 +0000">
     <title lang="en">Matthew Perry and the Ketamine Queen</title>
-    <desc lang="en">Documentary examining actor Matthew Perry's death and Hollywood's ketamine drug network. Contains some strong language and some upsetting scenes.</desc>
+    <desc lang="en">Documentary examining actor Matthew Perry's death and Hollywood's ketamine drug network. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ba393b49-682f-4dfc-9604-a4e7c7bd237e/cover"/>
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20251209001500 +0000" stop="20251209002000 +0000">
@@ -17982,7 +17998,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20251208093000 +0000" stop="20251208104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Financial support available this winter, burn-treatment advice and parcel delivery issues.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d1af1bbd-e952-4a81-9fa5-f561cc6e9693/cover"/>
     <episode-num system="xmltv_ns">6.128.0</episode-num>
     <episode-num system="onscreen">S7E129</episode-num>
@@ -18067,7 +18083,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20251208190000 +0000" stop="20251208193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Popstar Chesney Hawkes, choirmaster Gareth Malone, presenter Angela Scanlon and Paralympian Kadeena Cox join Alex Jones and Roman Kemp.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4bca7de0-4856-4e37-86b5-5ad607793501/cover"/>
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20251208193000 +0000" stop="20251208200000 +0000">
@@ -18115,7 +18131,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20251208231500 +0000" stop="20251209001500 +0000">
     <title lang="en">Matthew Perry and the Ketamine Queen</title>
-    <desc lang="en">Documentary examining actor Matthew Perry's death and Hollywood's ketamine drug network. Contains some strong language and some upsetting scenes.</desc>
+    <desc lang="en">Documentary examining actor Matthew Perry's death and Hollywood's ketamine drug network. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ba393b49-682f-4dfc-9604-a4e7c7bd237e/cover"/>
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20251209001500 +0000" stop="20251209002000 +0000">
@@ -18446,7 +18462,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20251208093000 +0000" stop="20251208104500 +0000">
     <title lang="en">Morning Live at Christmas</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Financial support available this winter, burn-treatment advice and parcel delivery issues.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d1af1bbd-e952-4a81-9fa5-f561cc6e9693/cover"/>
     <episode-num system="xmltv_ns">6.128.0</episode-num>
     <episode-num system="onscreen">S7E129</episode-num>
@@ -18531,7 +18547,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20251208190000 +0000" stop="20251208193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Popstar Chesney Hawkes, choirmaster Gareth Malone, presenter Angela Scanlon and Paralympian Kadeena Cox join Alex Jones and Roman Kemp.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4bca7de0-4856-4e37-86b5-5ad607793501/cover"/>
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20251208193000 +0000" stop="20251208200000 +0000">
@@ -18579,7 +18595,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20251208231500 +0000" stop="20251209001500 +0000">
     <title lang="en">Matthew Perry and the Ketamine Queen</title>
-    <desc lang="en">Documentary examining actor Matthew Perry's death and Hollywood's ketamine drug network. Contains some strong language and some upsetting scenes.</desc>
+    <desc lang="en">Documentary examining actor Matthew Perry's death and Hollywood's ketamine drug network. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ba393b49-682f-4dfc-9604-a4e7c7bd237e/cover"/>
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20251209001500 +0000" stop="20251209002000 +0000">
@@ -18929,12 +18945,12 @@
   <programme channel="BBCParliament.uk" start="20251208085000 +0000" stop="20251208091000 +0000">
     <title lang="en">Scottish Parliament - General Questions</title>
     <desc lang="en">General questions to ministers in the Scottish government, from Thursday 4 December.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/48d32db5-189d-42f5-bcf8-23301fe0b1f7/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/d9ccbfaa-80ac-4472-935e-d8d64741155c/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20251208091000 +0000" stop="20251208100000 +0000">
     <title lang="en">Northern Ireland Assembly - Economy Questions</title>
     <desc lang="en">Questions in the Northern Ireland Assembly to the economy minister, Caoimhe Archibald, on Monday 1 December.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/04566ec6-676e-425c-99db-2252a059a81d/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/a84589d3-3fbc-48dc-bd60-e85bb11416de/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20251208100000 +0000" stop="20251208105500 +0000">
     <title lang="en">Welsh First Minister's Questions</title>
@@ -18954,7 +18970,7 @@
   <programme channel="BBCParliament.uk" start="20251208122000 +0000" stop="20251208130500 +0000">
     <title lang="en">Senedd Cymru - Economy, Energy and Planning Questions</title>
     <desc lang="en">Coverage of questions in the Senedd, the Welsh Parliament, to the cabinet secretary for economy, energy and planning, Rebecca Evans, on Wednesday 3 December.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/20520e21-1c73-4cf7-b9b1-b3b67a022984/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/237d236f-57b3-448a-9595-9703e287c399/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20251208130500 +0000" stop="20251208134500 +0000">
     <title lang="en">Senedd Cymru - Welsh Parliament...</title>
@@ -19547,7 +19563,7 @@
   </programme>
   <programme channel="BBCThreeHD.uk" start="20251208210000 +0000" stop="20251208220000 +0000">
     <title lang="en">Matthew Perry and the Ketamine Queen</title>
-    <desc lang="en">Documentary examining actor Matthew Perry's death and Hollywood's ketamine drug network. Contains some strong language and some upsetting scenes.</desc>
+    <desc lang="en">Documentary examining actor Matthew Perry's death and Hollywood's ketamine drug network. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ba393b49-682f-4dfc-9604-a4e7c7bd237e/cover"/>
   </programme>
   <programme channel="BBCThreeHD.uk" start="20251208220000 +0000" stop="20251208230000 +0000">
@@ -19562,7 +19578,7 @@
   </programme>
   <programme channel="BBCThreeHD.uk" start="20251209005000 +0000" stop="20251209015000 +0000">
     <title lang="en">Matthew Perry and the Ketamine Queen</title>
-    <desc lang="en">Documentary examining actor Matthew Perry's death and Hollywood's ketamine drug network. Contains some strong language and some upsetting scenes.</desc>
+    <desc lang="en">Documentary examining actor Matthew Perry's death and Hollywood's ketamine drug network. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ba393b49-682f-4dfc-9604-a4e7c7bd237e/cover"/>
   </programme>
   <programme channel="BBCThreeHD.uk" start="20251209015000 +0000" stop="20251209022000 +0000">
@@ -19647,7 +19663,7 @@
   </programme>
   <programme channel="BBCThreeHD.uk" start="20251209220000 +0000" stop="20251209230000 +0000">
     <title lang="en">Matthew Perry and the Ketamine Queen</title>
-    <desc lang="en">Documentary examining actor Matthew Perry's death and Hollywood's ketamine drug network. Contains some strong language and some upsetting scenes.</desc>
+    <desc lang="en">Documentary examining actor Matthew Perry's death and Hollywood's ketamine drug network. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ba393b49-682f-4dfc-9604-a4e7c7bd237e/cover"/>
   </programme>
   <programme channel="BBCThreeHD.uk" start="20251209230000 +0000" stop="20251210000000 +0000">
@@ -19667,7 +19683,7 @@
   </programme>
   <programme channel="BBCThreeHD.uk" start="20251210025500 +0000" stop="20251210035500 +0000">
     <title lang="en">Matthew Perry and the Ketamine Queen</title>
-    <desc lang="en">Documentary examining actor Matthew Perry's death and Hollywood's ketamine drug network.</desc>
+    <desc lang="en">Documentary examining actor Matthew Perry's death and Hollywood's ketamine drug network. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ba393b49-682f-4dfc-9604-a4e7c7bd237e/cover"/>
   </programme>
   <programme channel="BBCThreeHD.uk" start="20251210035500 +0000" stop="20251210053000 +0000">
@@ -19706,7 +19722,7 @@
   </programme>
   <programme channel="BBCThreeHD.uk" start="20251210211500 +0000" stop="20251210221500 +0000">
     <title lang="en">Matthew Perry and the Ketamine Queen</title>
-    <desc lang="en">Documentary examining actor Matthew Perry's death and Hollywood's ketamine drug network. Contains some strong language and some upsetting scenes.</desc>
+    <desc lang="en">Documentary examining actor Matthew Perry's death and Hollywood's ketamine drug network. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ba393b49-682f-4dfc-9604-a4e7c7bd237e/cover"/>
   </programme>
   <programme channel="BBCThreeHD.uk" start="20251210221500 +0000" stop="20251210224500 +0000">
@@ -19740,17 +19756,17 @@
   <programme channel="BBCTwoEngland.uk" start="20251207190000 +0000" stop="20251207232000 +0000">
     <title lang="en">Snooker: UK Championship</title>
     <desc lang="en">Live coverage from day 9 of the 2025 UK Snooker Championship.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/ceecffd0-d12e-489f-9af4-0c7b03c38c27/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/398b0c36-53dc-47a3-ac32-d856b8e1c51d/cover"/>
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20251207232000 +0000" stop="20251208011500 +0000">
     <title lang="en">Sicario</title>
     <desc lang="en">FBI special agent Kate Macer is recruited to help flush out a cartel drug lord. Contains very strong language, prolonged violence and disturbing scenes. [2015]</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/04352369-e63b-42e8-89f5-bbcfc4f23dd2/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/e3f9c663-ca33-4b24-89a6-4c64c34115a5/cover"/>
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20251208011500 +0000" stop="20251208022500 +0000">
     <title lang="en">A Christmas Carol</title>
     <desc lang="en">Simon Callow's acclaimed one-man adaptation of the Charles Dickens classic for the small screen. Viewers can listen in stereo or binaural via headphones.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/98bb71e6-2d88-4ecf-af8d-bc83c33f96c1/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/b99eb5f6-ef0b-4081-bbd4-1736d8dbb71a/cover"/>
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20251208022500 +0000" stop="20251208032500 +0000">
     <title lang="en">Question Time</title>
@@ -19803,7 +19819,7 @@
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20251208121500 +0000" stop="20251208130000 +0000">
     <title lang="en">Politics Live</title>
-    <desc lang="en">The big political issues of the day.</desc>
+    <desc lang="en">Can Keir Starmer deliver his election pledge to build 1.5 million homes?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e494aca1-dcfc-440b-9a98-361c0efa4523/cover"/>
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20251208130000 +0000" stop="20251208134500 +0000">
@@ -19893,7 +19909,7 @@
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20251208223000 +0000" stop="20251208230000 +0000">
     <title lang="en">Newsnight, followed by Weather</title>
-    <desc lang="en">Insights and global interviews on the crucial news stories of the day. With Katie Razzall.   Followed by Weather.</desc>
+    <desc lang="en">Insights and global interviews on the crucial news stories of the day. With Nick Watt.   Followed by Weather.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c20b53b1-0901-487e-a65a-afe129de2385/cover"/>
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20251208230000 +0000" stop="20251209004500 +0000">
@@ -20210,17 +20226,17 @@
   <programme channel="BBCTwoHD.uk" start="20251207190000 +0000" stop="20251207232000 +0000">
     <title lang="en">Snooker: UK Championship</title>
     <desc lang="en">Live coverage from day 9 of the 2025 UK Snooker Championship.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/ceecffd0-d12e-489f-9af4-0c7b03c38c27/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/398b0c36-53dc-47a3-ac32-d856b8e1c51d/cover"/>
   </programme>
   <programme channel="BBCTwoHD.uk" start="20251207232000 +0000" stop="20251208011500 +0000">
     <title lang="en">Sicario</title>
     <desc lang="en">FBI special agent Kate Macer is recruited to help flush out a cartel drug lord. Contains very strong language, prolonged violence and disturbing scenes. [2015]</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/04352369-e63b-42e8-89f5-bbcfc4f23dd2/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/e3f9c663-ca33-4b24-89a6-4c64c34115a5/cover"/>
   </programme>
   <programme channel="BBCTwoHD.uk" start="20251208011500 +0000" stop="20251208022500 +0000">
     <title lang="en">A Christmas Carol</title>
     <desc lang="en">Simon Callow's acclaimed one-man adaptation of the Charles Dickens classic for the small screen. Viewers can listen in stereo or binaural via headphones.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/98bb71e6-2d88-4ecf-af8d-bc83c33f96c1/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/b99eb5f6-ef0b-4081-bbd4-1736d8dbb71a/cover"/>
   </programme>
   <programme channel="BBCTwoHD.uk" start="20251208022500 +0000" stop="20251208032500 +0000">
     <title lang="en">Question Time</title>
@@ -20273,7 +20289,7 @@
   </programme>
   <programme channel="BBCTwoHD.uk" start="20251208121500 +0000" stop="20251208130000 +0000">
     <title lang="en">Politics Live</title>
-    <desc lang="en">The big political issues of the day.</desc>
+    <desc lang="en">Can Keir Starmer deliver his election pledge to build 1.5 million homes?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e494aca1-dcfc-440b-9a98-361c0efa4523/cover"/>
   </programme>
   <programme channel="BBCTwoHD.uk" start="20251208130000 +0000" stop="20251208134500 +0000">
@@ -20363,7 +20379,7 @@
   </programme>
   <programme channel="BBCTwoHD.uk" start="20251208223000 +0000" stop="20251208230000 +0000">
     <title lang="en">Newsnight, followed by Weather</title>
-    <desc lang="en">Insights and global interviews on the crucial news stories of the day. With Katie Razzall.   Followed by Weather.</desc>
+    <desc lang="en">Insights and global interviews on the crucial news stories of the day. With Nick Watt.   Followed by Weather.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c20b53b1-0901-487e-a65a-afe129de2385/cover"/>
   </programme>
   <programme channel="BBCTwoHD.uk" start="20251208230000 +0000" stop="20251209004500 +0000">
@@ -20680,7 +20696,7 @@
   <programme channel="BBCTwoNorthernIreland.uk" start="20251207190000 +0000" stop="20251207232000 +0000">
     <title lang="en">Snooker: UK Championship</title>
     <desc lang="en">Live coverage from day 9 of the 2025 UK Snooker Championship.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9b899252-1b5e-4790-b3c5-900a10e6bb7a/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/398b0c36-53dc-47a3-ac32-d856b8e1c51d/cover"/>
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20251207232000 +0000" stop="20251207235000 +0000">
     <title lang="en">The Blame Game</title>
@@ -20707,7 +20723,7 @@
   <programme channel="BBCTwoNorthernIreland.uk" start="20251208011500 +0000" stop="20251208022500 +0000">
     <title lang="en">A Christmas Carol</title>
     <desc lang="en">Simon Callow's acclaimed one-man adaptation of the Charles Dickens classic for the small screen. Viewers can listen in stereo or binaural via headphones.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e09bdd7c-4655-40c3-a123-2cb00bc0e75f/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/b99eb5f6-ef0b-4081-bbd4-1736d8dbb71a/cover"/>
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20251208022500 +0000" stop="20251208032500 +0000">
     <title lang="en">Question Time</title>
@@ -20760,7 +20776,7 @@
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20251208121500 +0000" stop="20251208130000 +0000">
     <title lang="en">Politics Live</title>
-    <desc lang="en">The big political issues of the day.</desc>
+    <desc lang="en">Can Keir Starmer deliver his election pledge to build 1.5 million homes?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e494aca1-dcfc-440b-9a98-361c0efa4523/cover"/>
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20251208130000 +0000" stop="20251208134500 +0000">
@@ -20850,7 +20866,7 @@
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20251208223000 +0000" stop="20251208230000 +0000">
     <title lang="en">Newsnight, followed by Weather</title>
-    <desc lang="en">Insights and global interviews on the crucial news stories of the day. With Katie Razzall.   Followed by Weather.</desc>
+    <desc lang="en">Insights and global interviews on the crucial news stories of the day. With Nick Watt.   Followed by Weather.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c20b53b1-0901-487e-a65a-afe129de2385/cover"/>
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20251208230000 +0000" stop="20251208233000 +0000">
@@ -21195,17 +21211,17 @@
   <programme channel="BBCTwoWales.uk" start="20251207190000 +0000" stop="20251207232000 +0000">
     <title lang="en">Snooker: UK Championship</title>
     <desc lang="en">Live coverage from day 9 of the 2025 UK Snooker Championship.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/58ca5270-cf89-424d-9c7a-1f47f488d604/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/398b0c36-53dc-47a3-ac32-d856b8e1c51d/cover"/>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20251207232000 +0000" stop="20251208011500 +0000">
     <title lang="en">Sicario</title>
     <desc lang="en">FBI special agent Kate Macer is recruited to help flush out a cartel drug lord. Contains very strong language, prolonged violence and disturbing scenes. [2015]</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/66d079ba-2b58-47ab-9641-2a061a8d811d/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/e3f9c663-ca33-4b24-89a6-4c64c34115a5/cover"/>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20251208011500 +0000" stop="20251208022500 +0000">
     <title lang="en">A Christmas Carol</title>
     <desc lang="en">Simon Callow's acclaimed one-man adaptation of the Charles Dickens classic for the small screen. Viewers can listen in stereo or binaural via headphones.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/fee41436-4e4b-45d5-9cb5-59b310d3529b/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/b99eb5f6-ef0b-4081-bbd4-1736d8dbb71a/cover"/>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20251208022500 +0000" stop="20251208032500 +0000">
     <title lang="en">Question Time</title>
@@ -21258,7 +21274,7 @@
   </programme>
   <programme channel="BBCTwoWales.uk" start="20251208121500 +0000" stop="20251208130000 +0000">
     <title lang="en">Politics Live</title>
-    <desc lang="en">The big political issues of the day.</desc>
+    <desc lang="en">Can Keir Starmer deliver his election pledge to build 1.5 million homes?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e494aca1-dcfc-440b-9a98-361c0efa4523/cover"/>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20251208130000 +0000" stop="20251208134500 +0000">
@@ -21348,7 +21364,7 @@
   </programme>
   <programme channel="BBCTwoWales.uk" start="20251208223000 +0000" stop="20251208230000 +0000">
     <title lang="en">Newsnight, followed by Weather</title>
-    <desc lang="en">Insights and global interviews on the crucial news stories of the day. With Katie Razzall.   Followed by Weather.</desc>
+    <desc lang="en">Insights and global interviews on the crucial news stories of the day. With Nick Watt.   Followed by Weather.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c20b53b1-0901-487e-a65a-afe129de2385/cover"/>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20251208230000 +0000" stop="20251209004500 +0000">
@@ -23363,7 +23379,7 @@
   <programme channel="CBBC.uk" start="20251210074500 +0000" stop="20251210075500 +0000">
     <title lang="en">Newsround</title>
     <desc lang="en">10/12/2025. Topical news magazine for children.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/fe3608c1-b909-4393-9139-3746db33ffbc/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/c3755b6e-4dac-4b84-8476-06dccb50d863/cover"/>
   </programme>
   <programme channel="CBBC.uk" start="20251210075500 +0000" stop="20251210080500 +0000">
     <title lang="en">Grizzy and the Lemmings: World Tour</title>
@@ -23375,7 +23391,9 @@
   <programme channel="CBBC.uk" start="20251210080500 +0000" stop="20251210081000 +0000">
     <title lang="en">Grizzy and the Lemmings: World Tour</title>
     <desc lang="en">Firefly Party. The Lemmings find a jewel that gives them total control over the fireflies.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/5bb1000c-b728-4be8-a77e-2da217d0fdb0/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/225da55f-9213-453e-b9d3-cf21f2447e7c/cover"/>
+    <episode-num system="xmltv_ns">3.50.0</episode-num>
+    <episode-num system="onscreen">S4E51</episode-num>
   </programme>
   <programme channel="CBBC.uk" start="20251210081000 +0000" stop="20251210082500 +0000">
     <title lang="en">SpongeBob SquarePants</title>
@@ -32413,7 +32431,9 @@
   <programme channel="E4.uk" start="20251209053000 +0000" stop="20251209055500 +0000">
     <title lang="en">The Big Bang Theory</title>
     <desc lang="en">The Proton Displacement: Sheldon is jealous when Professor Proton asks Leonard to read his latest publication, so he befriends a TV personality from a rival science show.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3e19bfcb-4698-4849-ab7c-59ac35193c11/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/ae6eaca8-ce3f-464d-82d6-a1ba5b6359ba/cover"/>
+    <episode-num system="xmltv_ns">6.6.0</episode-num>
+    <episode-num system="onscreen">S7E7</episode-num>
   </programme>
   <programme channel="E4.uk" start="20251209055500 +0000" stop="20251209060000 +0000">
     <title lang="en">E4 Preview</title>
@@ -32730,7 +32750,9 @@
   <programme channel="E4.uk" start="20251210060000 +0000" stop="20251210063000 +0000">
     <title lang="en">Hollyoaks</title>
     <desc lang="en">Theresa risks her own safety to help a spiralling Mercedes. And a resident worries about what a scorned ex is capable of...</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e9cd92a6-0d29-4b92-baf5-cae7730bbc28/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/d5884454-99e2-4d29-b48d-ba3826c904e9/cover"/>
+    <episode-num system="xmltv_ns">2024.145.0</episode-num>
+    <episode-num system="onscreen">S2025E146</episode-num>
   </programme>
   <programme channel="E4.uk" start="20251210063000 +0000" stop="20251210065500 +0000">
     <title lang="en">Hollyoaks</title>
@@ -33904,7 +33926,9 @@
   <programme channel="E4Plus1.uk" start="20251209063000 +0000" stop="20251209065500 +0000">
     <title lang="en">The Big Bang Theory</title>
     <desc lang="en">The Proton Displacement: Sheldon is jealous when Professor Proton asks Leonard to read his latest publication, so he befriends a TV personality from a rival science show.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3e19bfcb-4698-4849-ab7c-59ac35193c11/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/ae6eaca8-ce3f-464d-82d6-a1ba5b6359ba/cover"/>
+    <episode-num system="xmltv_ns">6.6.0</episode-num>
+    <episode-num system="onscreen">S7E7</episode-num>
   </programme>
   <programme channel="E4Plus1.uk" start="20251209065500 +0000" stop="20251209070000 +0000">
     <title lang="en">E4 Preview</title>
@@ -34221,7 +34245,9 @@
   <programme channel="E4Plus1.uk" start="20251210070000 +0000" stop="20251210073000 +0000">
     <title lang="en">Hollyoaks</title>
     <desc lang="en">Theresa risks her own safety to help a spiralling Mercedes. And a resident worries about what a scorned ex is capable of...</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e9cd92a6-0d29-4b92-baf5-cae7730bbc28/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/d5884454-99e2-4d29-b48d-ba3826c904e9/cover"/>
+    <episode-num system="xmltv_ns">2024.145.0</episode-num>
+    <episode-num system="onscreen">S2025E146</episode-num>
   </programme>
   <programme channel="E4Plus1.uk" start="20251210073000 +0000" stop="20251210075500 +0000">
     <title lang="en">Hollyoaks</title>
@@ -41885,7 +41911,7 @@
   <programme channel="ITV1Wales.uk" start="20251209220000 +0000" stop="20251209223000 +0000">
     <title lang="en">ITV News at Ten</title>
     <desc lang="en">ITV News provides a fresh perspective on the major stories of the day with national and international news with reports and analysis from ITV's Correspondents.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d1ff5625-37de-4c52-880f-b3efd8d5738d/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/09765521-a8dd-426e-9650-43db50518146/cover"/>
   </programme>
   <programme channel="ITV1Wales.uk" start="20251209223000 +0000" stop="20251209224500 +0000">
     <title lang="en">ITV News Cymru Wales</title>
@@ -41894,8 +41920,8 @@
   </programme>
   <programme channel="ITV1Wales.uk" start="20251209224500 +0000" stop="20251209234500 +0000">
     <title lang="en">New: Sharp End</title>
-    <desc lang="en">Andrea Byrne and her panel of guests discuss the biggest talking points in Welsh politics.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/cf513df1-f922-4d18-9a46-60cb1cdb5f78/cover"/>
+    <desc lang="en">Rob Osborne and his panel of guests discuss the biggest talking points in Welsh politics.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/b2dae139-d9b7-4860-aa71-a5d17e2a82da/cover"/>
     <premiere/>
   </programme>
   <programme channel="ITV1Wales.uk" start="20251209234500 +0000" stop="20251210004000 +0000">
@@ -41913,7 +41939,7 @@
   <programme channel="ITV1Wales.uk" start="20251210005000 +0000" stop="20251210030000 +0000">
     <title lang="en">Shop on TV</title>
     <desc lang="en">Teleshopping.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/08958430-48d3-4137-9caa-61dae5fe99e3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/6659c01c-2769-4610-9922-80500077f88a/cover"/>
   </programme>
   <programme channel="ITV1Wales.uk" start="20251210030000 +0000" stop="20251210035000 +0000">
     <title lang="en">Joanna Lumley's Danube</title>
@@ -49277,32 +49303,32 @@
   <programme channel="SkyNews.uk" start="20251208100000 +0000" stop="20251208103000 +0000">
     <title lang="en">Sky News Today with Gareth Barlow</title>
     <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/58c6154d-74de-4a87-873f-1908adbb5e46/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/756de3e7-025c-4dca-9176-9b363447164d/cover"/>
   </programme>
   <programme channel="SkyNews.uk" start="20251208103000 +0000" stop="20251208110000 +0000">
     <title lang="en">Sky News Today with Gareth Barlow</title>
     <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/4f145416-1c6e-42c5-8920-1955431cd1c7/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/69be0d57-c899-4565-8394-24ca4e5908c7/cover"/>
   </programme>
   <programme channel="SkyNews.uk" start="20251208110000 +0000" stop="20251208113000 +0000">
     <title lang="en">Sky News Today with Gareth Barlow</title>
     <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/67b45a63-a0f5-42a3-909c-fb6b7fc0e37a/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/b4b61466-01df-4082-8125-3319fe1901b4/cover"/>
   </programme>
   <programme channel="SkyNews.uk" start="20251208113000 +0000" stop="20251208120000 +0000">
     <title lang="en">Sky News Today with Gareth Barlow</title>
     <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b2e8719f-ce60-4fe6-9a52-8f880d25b7f1/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/546a31fe-44c4-461a-9f94-85512d5e10ac/cover"/>
   </programme>
   <programme channel="SkyNews.uk" start="20251208120000 +0000" stop="20251208123000 +0000">
     <title lang="en">Sky News Today with Gareth Barlow</title>
     <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/99a7a579-16c7-4638-ad25-b2c6698fb75f/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/efaf5379-d6e7-4ea2-b935-a1914326e84a/cover"/>
   </programme>
   <programme channel="SkyNews.uk" start="20251208123000 +0000" stop="20251208130000 +0000">
     <title lang="en">Sky News Today with Gareth Barlow</title>
     <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/4d0082a7-46d1-4c4f-8f41-0ab66cef34cf/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/7c6e93d8-464e-4d94-9fd2-9399abb1ac1d/cover"/>
   </programme>
   <programme channel="SkyNews.uk" start="20251208130000 +0000" stop="20251208133000 +0000">
     <title lang="en">Sky News Today with Jayne Secker</title>
@@ -49487,32 +49513,32 @@
   <programme channel="SkyNews.uk" start="20251209100000 +0000" stop="20251209103000 +0000">
     <title lang="en">Sky News Today with Gareth Barlow</title>
     <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/dbc36d9f-c870-4c43-85d8-6b4b786d2714/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/81eb6452-8a46-4d4d-b5d6-45f7468b09bb/cover"/>
   </programme>
   <programme channel="SkyNews.uk" start="20251209103000 +0000" stop="20251209110000 +0000">
     <title lang="en">Sky News Today with Gareth Barlow</title>
     <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a64820d2-d071-4f00-81b3-e73fed8bc94a/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/0c1aee38-52b7-4def-a087-8b4460cced03/cover"/>
   </programme>
   <programme channel="SkyNews.uk" start="20251209110000 +0000" stop="20251209113000 +0000">
     <title lang="en">Sky News Today with Gareth Barlow</title>
     <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9b53f4e1-c78d-4483-af12-ba75922813c2/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/4d1c252b-5fba-4c54-b77e-b37043d05d90/cover"/>
   </programme>
   <programme channel="SkyNews.uk" start="20251209113000 +0000" stop="20251209120000 +0000">
     <title lang="en">Sky News Today with Gareth Barlow</title>
     <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/616e6c90-ed07-4bba-9cd0-2f7eb32d8399/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/ade886cf-23a6-41aa-94fe-41574643b901/cover"/>
   </programme>
   <programme channel="SkyNews.uk" start="20251209120000 +0000" stop="20251209123000 +0000">
     <title lang="en">Sky News Today with Gareth Barlow</title>
     <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/4a87b2c6-0459-4a2c-aeec-e57528d50123/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/b8bd3ef7-d304-4ec6-b51c-05f77fd34506/cover"/>
   </programme>
   <programme channel="SkyNews.uk" start="20251209123000 +0000" stop="20251209130000 +0000">
     <title lang="en">Sky News Today with Gareth Barlow</title>
     <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3e5abe49-5d8d-413e-a748-63cba7456e17/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/071bfd57-b295-472b-b502-d67f0dc945d8/cover"/>
   </programme>
   <programme channel="SkyNews.uk" start="20251209130000 +0000" stop="20251209133000 +0000">
     <title lang="en">Sky News Today with Jayne Secker</title>
@@ -49697,22 +49723,22 @@
   <programme channel="SkyNews.uk" start="20251210100000 +0000" stop="20251210103000 +0000">
     <title lang="en">Sky News Today with Gareth Barlow</title>
     <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d7f21db4-3200-475a-b425-e75d4f1f1265/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/b9c740f6-9d14-4b17-ac21-b40cd3c5ab8f/cover"/>
   </programme>
   <programme channel="SkyNews.uk" start="20251210103000 +0000" stop="20251210110000 +0000">
     <title lang="en">Sky News Today with Gareth Barlow</title>
     <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/350ec733-677a-41a3-b432-97254ff3d269/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/33ffa1b2-6920-4c18-84f1-fe8c6028494d/cover"/>
   </programme>
   <programme channel="SkyNews.uk" start="20251210110000 +0000" stop="20251210113000 +0000">
     <title lang="en">Sky News Today with Gareth Barlow</title>
     <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a90fdc57-2a52-43bc-9301-3b14a235bf04/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/a9ed45f3-d624-4e31-9c8b-dc1b0cca5e94/cover"/>
   </programme>
   <programme channel="SkyNews.uk" start="20251210113000 +0000" stop="20251210120000 +0000">
     <title lang="en">Sky News Today with Gareth Barlow</title>
     <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/cc52b68e-7a59-4491-80b2-898d7da0f0a2/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/11c03e29-d51c-41bd-b872-6b1cbcaf0c96/cover"/>
   </programme>
   <programme channel="SkyNews.uk" start="20251210120000 +0000" stop="20251210123000 +0000">
     <title lang="en">Sky News Today with Jayne Secker</title>
