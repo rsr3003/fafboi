@@ -11060,9 +11060,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/f1d19b89-c797-4ed2-bca2-37762d0eec11/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20251214223000 +0000" stop="20251214230000 +0000">
-    <title lang="en">AI Decoded</title>
-    <desc lang="en">Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/56ad456f-1440-456e-ab93-e0ed058e2d1d/cover"/>
+    <title lang="en">The Interview: María Corina Machado</title>
+    <desc lang="en">Lucy Hockings speaks exclusively to María Corina Machado, winner of the Nobel Peace Prize.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/95673836-abc2-4430-b0ee-657116e1d33d/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20251214230000 +0000" stop="20251214233000 +0000">
     <title lang="en">BBC News</title>
@@ -22462,10 +22462,17 @@
     <desc lang="en">Extraordinary Life Stories is the programme in which host John Reynolds talks to some of the UK's and the world's most extraordinary individuals.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c0ff6701-419d-4bab-9e95-619a5c9ec732/cover"/>
   </programme>
-  <programme channel="BloombergTVEurope.uk" start="20251213100000 +0000" stop="20251213110000 +0000">
-    <title lang="en">Bloomberg Wall Street Week</title>
-    <desc lang="en">A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c984bddd-773d-4810-9762-5a627f12bf31/cover"/>
+  <programme channel="BloombergTVEurope.uk" start="20251213100000 +0000" stop="20251213103000 +0000">
+    <title lang="en">The Deal with Alex Rodriguez and Jason Kelly</title>
+    <desc lang="en">Super Bowl winner and Goldman Sachs Managing Director Justin Tuck talks about the pressure of playing in New York and his transition from football to finance. S3, Ep9</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/068698cd-3b6e-47c9-a402-7cb94395d6ce/cover"/>
+  </programme>
+  <programme channel="BloombergTVEurope.uk" start="20251213103000 +0000" stop="20251213110000 +0000">
+    <title lang="en">The Deal with Alex Rodriguez and Jason Kelly</title>
+    <desc lang="en">USC Annenberg School for Communication and Journalism Dean Willow Bayspeaks about her investment in Angel City Football Club and her tenure on 'NBA Inside Stuff.' S3, Ep13</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6f19402c-ca65-488b-8240-a0a4630a1e65/cover"/>
+    <episode-num system="xmltv_ns">2.12.0</episode-num>
+    <episode-num system="onscreen">S3E13</episode-num>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20251213110000 +0000" stop="20251213120000 +0000">
     <title lang="en">Bloomberg Wall Street Week</title>
@@ -22477,15 +22484,18 @@
     <desc lang="en">Promotional programme.</desc>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20251213120000 +0000" stop="20251213123000 +0000">
-    <title lang="en">Bloomberg Studio 1.0</title>
-    <desc lang="en">Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/6b1a78ca-46d9-43b2-8a45-e8164273ce1f/cover"/>
-    <episode-num system="xmltv_ns">2021.4.0</episode-num>
-    <episode-num system="onscreen">S2022E5</episode-num>
+    <title lang="en">The Future with Hannah Fry</title>
+    <desc lang="en">For some, pain is excruciating and inescapable. But amid the continuing fallout of the opioid crisis, new technologies are being developed to limit and even eliminate pain. S2, Ep5</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/bc167529-8a3d-3893-ac31-731aaed9bb7e/cover"/>
+    <episode-num system="xmltv_ns">1.4.0</episode-num>
+    <episode-num system="onscreen">S2E5</episode-num>
   </programme>
-  <programme channel="BloombergTVEurope.uk" start="20251213123000 +0000" stop="20251213133000 +0000">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">Promotional programme.</desc>
+  <programme channel="BloombergTVEurope.uk" start="20251213123000 +0000" stop="20251213130000 +0000">
+    <title lang="en">The Future with Hannah Fry</title>
+    <desc lang="en">Soon, another billion people will be online. How will these new users embrace this technology to transform their lives, and what will it mean for the rest of the world? S2, Ep6</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/bf478963-acfc-3eee-a55f-f73fd846f0c4/cover"/>
+    <episode-num system="xmltv_ns">1.5.0</episode-num>
+    <episode-num system="onscreen">S2E6</episode-num>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20251213130000 +0000" stop="20251213133000 +0000">
     <title lang="en">The Mishal Husain Show</title>
@@ -22503,8 +22513,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/ea812785-c769-496a-b6d3-7c162c5f13cc/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20251213143000 +0000" stop="20251213150000 +0000">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">Promotional programme.</desc>
+    <title lang="en">The Circuit</title>
+    <desc lang="en">Emily meets Disney Entertainment Co-Chair Dana Walden and a cast of Disney stars for an inside look at the entertainment giant's global streaming and TV operations. S4, Ep5</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a7de4fa4-6d1f-4eb6-9710-46201391a5c4/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20251213150000 +0000" stop="20251213160000 +0000">
     <title lang="en">Bloomberg Wall Street Week</title>
@@ -22514,6 +22525,20 @@
   <programme channel="BloombergTVEurope.uk" start="20251213153000 +0000" stop="20251213170000 +0000">
     <title lang="en">Teleshopping</title>
     <desc lang="en">Promotional programme.</desc>
+  </programme>
+  <programme channel="BloombergTVEurope.uk" start="20251213160000 +0000" stop="20251213163000 +0000">
+    <title lang="en">LEADERS with Francine Lacqua</title>
+    <desc lang="en">Former UK Prime Minister Theresa May speaks with Francine Lacqua about Vladimir Putin, and her approach to leadership in a world seeing a rise in 'strongmen.' S1, Ep4</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d103d8a5-31cc-48ab-8af6-51d6e2ff56b2/cover"/>
+    <episode-num system="xmltv_ns">0.3.0</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme channel="BloombergTVEurope.uk" start="20251213163000 +0000" stop="20251213170000 +0000">
+    <title lang="en">The Deal with Alex Rodriguez and Jason Kelly</title>
+    <desc lang="en">USC Annenberg School for Communication and Journalism Dean Willow Bayspeaks about her investment in Angel City Football Club and her tenure on 'NBA Inside Stuff.' S3, Ep13</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6f19402c-ca65-488b-8240-a0a4630a1e65/cover"/>
+    <episode-num system="xmltv_ns">2.12.0</episode-num>
+    <episode-num system="onscreen">S3E13</episode-num>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20251213170000 +0000" stop="20251213173000 +0000">
     <title lang="en">Bloomberg Next Africa</title>
@@ -22525,16 +22550,27 @@
     <desc lang="en">Exploring every angle of climate change, technology, finance, sports and beyond, Bloomberg Originals is business as you've never seen it.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/aef391cd-7f40-4634-8505-ce291ba0fb64/cover"/>
   </programme>
-  <programme channel="BloombergTVEurope.uk" start="20251213180000 +0000" stop="20251213193000 +0000">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">Promotional programme.</desc>
+  <programme channel="BloombergTVEurope.uk" start="20251213180000 +0000" stop="20251213183000 +0000">
+    <title lang="en">The David Rubenstein Show</title>
+    <desc lang="en">Ynon Kreiz Mattel Chairman &amp; CEO. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business. S11, Ep8</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/c767f604-844e-4f13-8906-3a431592eaa9/cover"/>
+    <episode-num system="xmltv_ns">10.7.0</episode-num>
+    <episode-num system="onscreen">S11E8</episode-num>
+  </programme>
+  <programme channel="BloombergTVEurope.uk" start="20251213183000 +0000" stop="20251213190000 +0000">
+    <title lang="en">The Circuit</title>
+    <desc lang="en">Emily meets Disney Entertainment Co-Chair Dana Walden and a cast of Disney stars for an inside look at the entertainment giant's global streaming and TV operations. S4, Ep5</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a7de4fa4-6d1f-4eb6-9710-46201391a5c4/cover"/>
+  </programme>
+  <programme channel="BloombergTVEurope.uk" start="20251213190000 +0000" stop="20251213193000 +0000">
+    <title lang="en">Longevity with David Rubenstein</title>
+    <desc lang="en">David Rubenstein explores the science of living longer by interviewing leading experts and examining the key barriers that still affect it: obesity, neurodegenerative diseases and cancer.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/79f890b4-2ed3-43d7-baeb-e35907818fce/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20251213193000 +0000" stop="20251213200000 +0000">
-    <title lang="en">Bloomberg Studio 1.0</title>
-    <desc lang="en">Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/6b1a78ca-46d9-43b2-8a45-e8164273ce1f/cover"/>
-    <episode-num system="xmltv_ns">2021.4.0</episode-num>
-    <episode-num system="onscreen">S2022E5</episode-num>
+    <title lang="en">Longevity with David Rubenstein</title>
+    <desc lang="en">David Rubenstein explores the science of living longer by interviewing leading experts and examining the key barriers that still affect it: obesity, neurodegenerative diseases and cancer.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/cd318055-63a2-4c4b-86db-56342b3203d3/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20251213200000 +0000" stop="20251213210000 +0000">
     <title lang="en">Bloomberg Investigates</title>
@@ -22546,10 +22582,10 @@
     <desc lang="en">Chief Financial Officers now play a critical role in shaping corporate strategy and positioning organisations to meet future challenges - this programme profiles them.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/498d136e-aa76-428e-add5-1eeab37d4d99/cover"/>
   </programme>
-  <programme channel="BloombergTVEurope.uk" start="20251213210000 +0000" stop="20251213213000 +0000">
-    <title lang="en">Beyond Innovation</title>
-    <desc lang="en">Beyond Innovation uncovers the world's new and emerging technologies, changing the way we live and do business.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/626cbb3e-6a67-4d56-9759-cb89f18515f5/cover"/>
+  <programme channel="BloombergTVEurope.uk" start="20251213210000 +0000" stop="20251213220000 +0000">
+    <title lang="en">Is Europe Too Late to Compete...</title>
+    <desc lang="en">...in the Chip War? Bloomberg hosts a debate taking a close look at Europe's role in the global chip race. Hosted by Caroline Hyde. In partnership with Open to Debate.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/72674a60-ffae-4632-a84e-ba2ef2f5f0e6/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20251213213000 +0000" stop="20251213220000 +0000">
     <title lang="en">From The Ground Up</title>
@@ -22562,9 +22598,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/4e116ccb-d77f-46d0-b633-1446aac08ba8/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20251213223000 +0000" stop="20251213230000 +0000">
-    <title lang="en">Bloomberg Chief Future Officer</title>
-    <desc lang="en">Chief Financial Officers now play a critical role in shaping corporate strategy and positioning organisations to meet future challenges - this programme profiles them.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/59380762-6086-4b79-98c3-fb18e13c557a/cover"/>
+    <title lang="en">Bloomberg Screentime: The Business of Pop Culture</title>
+    <desc lang="en">The icons and innovators behind today's entertainment revolution take the stage. The agenda: AI's creative takeover, the streaming wars, and what's next for legacy media.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/11157b65-75fa-497e-9b31-c65252d48e8a/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20251213230000 +0000" stop="20251213233000 +0000">
     <title lang="en">The Mishal Husain Show</title>
@@ -22577,26 +22613,28 @@
     <icon src="https://images.metadata.sky.com/pd-image/9cb44f60-d4e3-42cc-8c3e-4b2fe3d5d3d0/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20251214000000 +0000" stop="20251214003000 +0000">
-    <title lang="en">Bloomberg Chief Future Officer</title>
-    <desc lang="en">Chief Financial Officers now play a critical role in shaping corporate strategy and positioning organisations to meet future challenges - this programme profiles them.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/274e46bf-4085-4d04-ada5-20510b14226c/cover"/>
+    <title lang="en">The Deal with Alex Rodriguez and Jason Kelly</title>
+    <desc lang="en">Super Bowl winner and Goldman Sachs Managing Director Justin Tuck talks about the pressure of playing in New York and his transition from football to finance. S3, Ep9</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/068698cd-3b6e-47c9-a402-7cb94395d6ce/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20251214003000 +0000" stop="20251214010000 +0000">
-    <title lang="en">Emma Barnett Meets...</title>
-    <desc lang="en">In a series of one to one interviews award-winning journalist Emma Barnett meets leaders in their fields who are advancing and reshaping the global debate.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/04ed6429-87ba-4cfe-b37c-e00c0ebb4924/cover"/>
+    <title lang="en">The Deal with Alex Rodriguez and Jason Kelly</title>
+    <desc lang="en">USC Annenberg School for Communication and Journalism Dean Willow Bayspeaks about her investment in Angel City Football Club and her tenure on 'NBA Inside Stuff.' S3, Ep13</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6f19402c-ca65-488b-8240-a0a4630a1e65/cover"/>
+    <episode-num system="xmltv_ns">2.12.0</episode-num>
+    <episode-num system="onscreen">S3E13</episode-num>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20251214010000 +0000" stop="20251214013000 +0000">
-    <title lang="en">Bloomberg Studio 1.0</title>
-    <desc lang="en">Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/6b1a78ca-46d9-43b2-8a45-e8164273ce1f/cover"/>
-    <episode-num system="xmltv_ns">2021.4.0</episode-num>
-    <episode-num system="onscreen">S2022E5</episode-num>
+    <title lang="en">LEADERS with Francine Lacqua</title>
+    <desc lang="en">Former UK Prime Minister Theresa May speaks with Francine Lacqua about Vladimir Putin, and her approach to leadership in a world seeing a rise in 'strongmen.' S1, Ep4</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d103d8a5-31cc-48ab-8af6-51d6e2ff56b2/cover"/>
+    <episode-num system="xmltv_ns">0.3.0</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20251214013000 +0000" stop="20251214020000 +0000">
-    <title lang="en">Best of The Earthshot Prize 2022</title>
-    <desc lang="en">The Earthshot Prize 2022 is a global prize designed to incentivise change and help to repair our planet by awarding five winners each year for their contributions to environmentalism.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/035bcbb6-47bf-41be-9985-c562c4596e91/cover"/>
+    <title lang="en">LEADERS with Francine Lacqua</title>
+    <desc lang="en">Francine talks with Franklin Templeton CEO Jenny Johnson about how to steer a $1.6 trillion business amid the rise of AI, shifting politics and booming private markets. S1, Ep3</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/07a02583-f61d-484c-979c-7b5a84d32dfc/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20251214020000 +0000" stop="20251214023000 +0000">
     <title lang="en">Bloomberg Originals</title>
@@ -22604,21 +22642,19 @@
     <icon src="https://images.metadata.sky.com/pd-image/7ab66137-03f3-447a-aab1-a7d19e575626/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20251214023000 +0000" stop="20251214030000 +0000">
-    <title lang="en">Bloomberg Chief Future Officer</title>
-    <desc lang="en">Chief Financial Officers now play a critical role in shaping corporate strategy and positioning organisations to meet future challenges - this programme profiles them.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0bbf07aa-641e-4327-9df7-0b4f9a1d04b2/cover"/>
+    <title lang="en">Longevity with David Rubenstein</title>
+    <desc lang="en">David Rubenstein explores the science of living longer by interviewing leading experts and examining the key barriers that still affect it: obesity, neurodegenerative diseases and cancer.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/e697dfbc-18c9-4332-857a-94ffa02923b4/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20251214030000 +0000" stop="20251214033000 +0000">
-    <title lang="en">Bloomberg Chief Future Officer</title>
-    <desc lang="en">Chief Financial Officers now play a critical role in shaping corporate strategy and positioning organisations to meet future challenges - this programme profiles them.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/8038d144-110d-4468-8668-aaa26a733baf/cover"/>
+    <title lang="en">The Circuit</title>
+    <desc lang="en">Emily meets Disney Entertainment Co-Chair Dana Walden and a cast of Disney stars for an inside look at the entertainment giant's global streaming and TV operations. S4, Ep5</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a7de4fa4-6d1f-4eb6-9710-46201391a5c4/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20251214033000 +0000" stop="20251214040000 +0000">
-    <title lang="en">Bloomberg Studio 1.0</title>
-    <desc lang="en">Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/6b1a78ca-46d9-43b2-8a45-e8164273ce1f/cover"/>
-    <episode-num system="xmltv_ns">2021.4.0</episode-num>
-    <episode-num system="onscreen">S2022E5</episode-num>
+    <title lang="en">Longevity with David Rubenstein</title>
+    <desc lang="en">David Rubenstein explores the science of living longer by interviewing leading experts and examining the key barriers that still affect it: obesity, neurodegenerative diseases and cancer.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3e477d69-b400-4b21-89b0-6967ead38e8d/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20251214040000 +0000" stop="20251214050000 +0000">
     <title lang="en">Bloomberg Investigates</title>
@@ -22626,16 +22662,14 @@
     <icon src="https://images.metadata.sky.com/pd-image/1db7f1c2-47de-42cf-9dd6-8432cb62549c/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20251214050000 +0000" stop="20251214053000 +0000">
-    <title lang="en">Bloomberg Studio 1.0</title>
-    <desc lang="en">Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/6b1a78ca-46d9-43b2-8a45-e8164273ce1f/cover"/>
-    <episode-num system="xmltv_ns">2021.4.0</episode-num>
-    <episode-num system="onscreen">S2022E5</episode-num>
+    <title lang="en">Longevity with David Rubenstein</title>
+    <desc lang="en">David Rubenstein explores the science of living longer by interviewing leading experts and examining the key barriers that still affect it: obesity, neurodegenerative diseases and cancer.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/955eb7d6-f948-46c1-ad94-028ec41ab9c3/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20251214053000 +0000" stop="20251214060000 +0000">
-    <title lang="en">Bloomberg Front Row</title>
-    <desc lang="en">Providing key news and information through in-depth analysis along with exclusive interviews with some of the most influential names in finance.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d7f94312-63ca-4edf-9d2d-2f616e56fee4/cover"/>
+    <title lang="en">Longevity with David Rubenstein</title>
+    <desc lang="en">David Rubenstein explores the science of living longer by interviewing leading experts and examining the key barriers that still affect it: obesity, neurodegenerative diseases and cancer.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/88906ddc-fb7e-499b-8634-10e2a9df1d57/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20251214060000 +0000" stop="20251214063000 +0000">
     <title lang="en">Bloomberg Next Africa</title>
@@ -22643,11 +22677,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/9bf1ab17-3870-40f0-8170-fe85e10ef0ac/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20251214063000 +0000" stop="20251214070000 +0000">
-    <title lang="en">Bloomberg Studio 1.0</title>
-    <desc lang="en">Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/6b1a78ca-46d9-43b2-8a45-e8164273ce1f/cover"/>
-    <episode-num system="xmltv_ns">2021.4.0</episode-num>
-    <episode-num system="onscreen">S2022E5</episode-num>
+    <title lang="en">The Circuit</title>
+    <desc lang="en">Emily meets Disney Entertainment Co-Chair Dana Walden and a cast of Disney stars for an inside look at the entertainment giant's global streaming and TV operations. S4, Ep5</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a7de4fa4-6d1f-4eb6-9710-46201391a5c4/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20251214070000 +0000" stop="20251214073000 +0000">
     <title lang="en">The Mishal Husain Show</title>
@@ -22664,24 +22696,29 @@
     <desc lang="en">Bloomberg Investigates takes viewers on an immersive journey to the heart of our most powerful reporting. Each investigation is recounted by award-winning journalists.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4a542f3f-df4b-43ce-800e-f7c665d75d1f/cover"/>
   </programme>
-  <programme channel="BloombergTVEurope.uk" start="20251214083000 +0000" stop="20251214090000 +0000">
-    <title lang="en">From The Ground Up</title>
-    <desc lang="en">Bloomberg's Francine Lacqua speaks to chief executives and business leaders about what motivates them, the lessons they have learned and the challenges they face in their industries.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a9080cff-00e2-495b-b545-eec049904c2a/cover"/>
+  <programme channel="BloombergTVEurope.uk" start="20251214090000 +0000" stop="20251214093000 +0000">
+    <title lang="en">LEADERS with Francine Lacqua</title>
+    <desc lang="en">Former UK Prime Minister Theresa May speaks with Francine Lacqua about Vladimir Putin, and her approach to leadership in a world seeing a rise in 'strongmen.' S1, Ep4</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d103d8a5-31cc-48ab-8af6-51d6e2ff56b2/cover"/>
+    <episode-num system="xmltv_ns">0.3.0</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
   </programme>
-  <programme channel="BloombergTVEurope.uk" start="20251214090000 +0000" stop="20251214100000 +0000">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">Promotional programme.</desc>
+  <programme channel="BloombergTVEurope.uk" start="20251214093000 +0000" stop="20251214100000 +0000">
+    <title lang="en">Property Matters</title>
+    <desc lang="en">Property Matters is the programme in which host Stephen Galpin JP discusses key property matters with some of the UK's most prominent individuals from the industry.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/243fd5e5-b7c7-4e6d-b89f-82fadb503c2e/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20251214100000 +0000" stop="20251214103000 +0000">
-    <title lang="en">Best of The Earthshot Prize 2022</title>
-    <desc lang="en">The Earthshot Prize 2022 is a global prize designed to incentivise change and help to repair our planet by awarding five winners each year for their contributions to environmentalism.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/035bcbb6-47bf-41be-9985-c562c4596e91/cover"/>
+    <title lang="en">The Deal with Alex Rodriguez and Jason Kelly</title>
+    <desc lang="en">Super Bowl winner and Goldman Sachs Managing Director Justin Tuck talks about the pressure of playing in New York and his transition from football to finance. S3, Ep9</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/068698cd-3b6e-47c9-a402-7cb94395d6ce/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20251214103000 +0000" stop="20251214110000 +0000">
-    <title lang="en">Leaders with Lacqua Goes Green</title>
-    <desc lang="en">Francine Lacqua interviews key decisions makers across a range of industries to see how they're navigating the climate transition.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3d2b473d-15f7-4716-8a07-a4ed75c2f4bf/cover"/>
+    <title lang="en">The Deal with Alex Rodriguez and Jason Kelly</title>
+    <desc lang="en">USC Annenberg School for Communication and Journalism Dean Willow Bayspeaks about her investment in Angel City Football Club and her tenure on 'NBA Inside Stuff.' S3, Ep13</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6f19402c-ca65-488b-8240-a0a4630a1e65/cover"/>
+    <episode-num system="xmltv_ns">2.12.0</episode-num>
+    <episode-num system="onscreen">S3E13</episode-num>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20251214110000 +0000" stop="20251214113000 +0000">
     <title lang="en">The Mishal Husain Show</title>
@@ -22694,45 +22731,43 @@
     <icon src="https://images.metadata.sky.com/pd-image/1acc7990-ecf6-4db3-93e9-2fc739e41dc6/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20251214120000 +0000" stop="20251214123000 +0000">
-    <title lang="en">Athlete | Empire: Chase Griffin</title>
-    <desc lang="en">Chase Griffin isn't the starting quarterback for UCLA. But in the first year that college athletics have allowed students to profit, he's making a bid to be the president of name, image, and likeness.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/178706f8-b385-4eea-b209-150b55d25381/cover"/>
+    <title lang="en">LEADERS with Francine Lacqua</title>
+    <desc lang="en">Francine talks with Franklin Templeton CEO Jenny Johnson about how to steer a $1.6 trillion business amid the rise of AI, shifting politics and booming private markets. S1, Ep3</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/07a02583-f61d-484c-979c-7b5a84d32dfc/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20251214123000 +0000" stop="20251214130000 +0000">
-    <title lang="en">Athlete | Empire: Azzi Fudd</title>
-    <desc lang="en">Azzi Fudd is starting her sophomore year for the University of Connecticut Huskies, following in the footsteps of basketball's best while trailblazing a new path to profit.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0380c666-28a9-4fa9-993b-85ecda67519a/cover"/>
+    <title lang="en">The David Rubenstein Show</title>
+    <desc lang="en">Ynon Kreiz Mattel Chairman &amp; CEO. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business. S11, Ep8</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/c767f604-844e-4f13-8906-3a431592eaa9/cover"/>
+    <episode-num system="xmltv_ns">10.7.0</episode-num>
+    <episode-num system="onscreen">S11E8</episode-num>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20251214130000 +0000" stop="20251214140000 +0000">
     <title lang="en">Bloomberg Investigates</title>
     <desc lang="en">Bloomberg Investigates takes viewers on an immersive journey to the heart of our most powerful reporting. Each investigation is recounted by award-winning journalists.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e21bdfdf-8bd1-46e1-b1b3-697335036d4c/cover"/>
   </programme>
-  <programme channel="BloombergTVEurope.uk" start="20251214133000 +0000" stop="20251214140000 +0000">
-    <title lang="en">Emma Barnett Meets...</title>
-    <desc lang="en">In a series of one to one interviews award-winning journalist Emma Barnett meets leaders in their fields who are advancing and reshaping the global debate.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/519ed7f5-0c6f-4c1c-8380-f30b1f178c3e/cover"/>
-  </programme>
   <programme channel="BloombergTVEurope.uk" start="20251214140000 +0000" stop="20251214150000 +0000">
     <title lang="en">Bloomberg Wall Street Week</title>
     <desc lang="en">A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/81aa731b-f12a-4052-8d50-a1c1445e1db1/cover"/>
   </programme>
-  <programme channel="BloombergTVEurope.uk" start="20251214143000 +0000" stop="20251214150000 +0000">
-    <title lang="en">Bloomberg Studio 1.0</title>
-    <desc lang="en">Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/6b1a78ca-46d9-43b2-8a45-e8164273ce1f/cover"/>
-    <episode-num system="xmltv_ns">2021.4.0</episode-num>
-    <episode-num system="onscreen">S2022E5</episode-num>
-  </programme>
   <programme channel="BloombergTVEurope.uk" start="20251214150000 +0000" stop="20251214153000 +0000">
-    <title lang="en">Leaders with Lacqua Goes Green</title>
-    <desc lang="en">Francine Lacqua interviews key decisions makers across a range of industries to see how they're navigating the climate transition.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d371e793-d58a-4eba-8fbf-e33460c8c303/cover"/>
+    <title lang="en">LEADERS with Francine Lacqua</title>
+    <desc lang="en">Francine talks with Franklin Templeton CEO Jenny Johnson about how to steer a $1.6 trillion business amid the rise of AI, shifting politics and booming private markets. S1, Ep3</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8905335a-ae42-4021-8339-dbc99e3d9c1c/cover"/>
   </programme>
-  <programme channel="BloombergTVEurope.uk" start="20251214153000 +0000" stop="20251214173000 +0000">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">Promotional programme.</desc>
+  <programme channel="BloombergTVEurope.uk" start="20251214153000 +0000" stop="20251214160000 +0000">
+    <title lang="en">LEADERS with Francine Lacqua</title>
+    <desc lang="en">Former UK Prime Minister Theresa May speaks with Francine Lacqua about Vladimir Putin, and her approach to leadership in a world seeing a rise in 'strongmen.' S1, Ep4</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d103d8a5-31cc-48ab-8af6-51d6e2ff56b2/cover"/>
+    <episode-num system="xmltv_ns">0.3.0</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme channel="BloombergTVEurope.uk" start="20251214160000 +0000" stop="20251214163000 +0000">
+    <title lang="en">The Circuit</title>
+    <desc lang="en">Emily meets Disney Entertainment Co-Chair Dana Walden and a cast of Disney stars for an inside look at the entertainment giant's global streaming and TV operations. S4, Ep5</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a7de4fa4-6d1f-4eb6-9710-46201391a5c4/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20251214163000 +0000" stop="20251214170000 +0000">
     <title lang="en">Bloomberg Originals</title>
@@ -22744,24 +22779,33 @@
     <desc lang="en">A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f264d079-bffc-4b6d-a00e-854df7202d7a/cover"/>
   </programme>
-  <programme channel="BloombergTVEurope.uk" start="20251214173000 +0000" stop="20251214180000 +0000">
-    <title lang="en">Business Of Sports</title>
-    <desc lang="en">Atlanta. Atlanta, Georgia, became one of the most important voting areas in the US during the 2020 election. This is the story of how Atlanta's sports players and owners helped get out the vote.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/13b41b35-db25-3486-8267-41c33959e806/cover"/>
-  </programme>
   <programme channel="BloombergTVEurope.uk" start="20251214180000 +0000" stop="20251214183000 +0000">
-    <title lang="en">The David Rubenstein Show</title>
-    <desc lang="en">Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/bab6467a-92cd-4963-8169-f4dd7b190c7b/cover"/>
+    <title lang="en">The Future with Hannah Fry</title>
+    <desc lang="en">For some, pain is excruciating and inescapable. But amid the continuing fallout of the opioid crisis, new technologies are being developed to limit and even eliminate pain. S2, Ep5</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/bc167529-8a3d-3893-ac31-731aaed9bb7e/cover"/>
+    <episode-num system="xmltv_ns">1.4.0</episode-num>
+    <episode-num system="onscreen">S2E5</episode-num>
   </programme>
-  <programme channel="BloombergTVEurope.uk" start="20251214183000 +0000" stop="20251214193000 +0000">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">Promotional programme.</desc>
+  <programme channel="BloombergTVEurope.uk" start="20251214183000 +0000" stop="20251214190000 +0000">
+    <title lang="en">The Future with Hannah Fry</title>
+    <desc lang="en">Soon, another billion people will be online. How will these new users embrace this technology to transform their lives, and what will it mean for the rest of the world? S2, Ep6</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/bf478963-acfc-3eee-a55f-f73fd846f0c4/cover"/>
+    <episode-num system="xmltv_ns">1.5.0</episode-num>
+    <episode-num system="onscreen">S2E6</episode-num>
+  </programme>
+  <programme channel="BloombergTVEurope.uk" start="20251214190000 +0000" stop="20251214193000 +0000">
+    <title lang="en">The David Rubenstein Show</title>
+    <desc lang="en">Ynon Kreiz Mattel Chairman &amp; CEO. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business. S11, Ep8</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/c767f604-844e-4f13-8906-3a431592eaa9/cover"/>
+    <episode-num system="xmltv_ns">10.7.0</episode-num>
+    <episode-num system="onscreen">S11E8</episode-num>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20251214193000 +0000" stop="20251214200000 +0000">
-    <title lang="en">From The Ground Up</title>
-    <desc lang="en">Bloomberg's Francine Lacqua speaks to chief executives and business leaders about what motivates them, the lessons they have learned and the challenges they face in their industries.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f9157392-fabf-46cb-a46b-6771becd31cf/cover"/>
+    <title lang="en">Power Players</title>
+    <desc lang="en">Jason Kelly heads to Maranello, Italy, to speak with Ferrari's leadership about the coming regulatory changes for Formula 1 and how Ferrari's racing technology informs the road cars of today. S3, Ep2</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/b3c63c92-b491-4cb2-8eaa-a663b7047187/cover"/>
+    <episode-num system="xmltv_ns">2.1.0</episode-num>
+    <episode-num system="onscreen">S3E2</episode-num>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20251214200000 +0000" stop="20251214203000 +0000">
     <title lang="en">The Mishal Husain Show</title>
@@ -22773,10 +22817,10 @@
     <desc lang="en">Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f0035df6-75f8-4ad8-8191-06ef4f4577f9/cover"/>
   </programme>
-  <programme channel="BloombergTVEurope.uk" start="20251214210000 +0000" stop="20251214220000 +0000">
-    <title lang="en">Bloomberg Daybreak: Australia</title>
-    <desc lang="en">From New York and Sydney, the latest news impacting markets, business and finance around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e3b49c38-d969-4ea4-a563-611bdc6c73a5/cover"/>
+  <programme channel="BloombergTVEurope.uk" start="20251214210000 +0000" stop="20251214213000 +0000">
+    <title lang="en">The Circuit</title>
+    <desc lang="en">Emily meets Snap CEO Evan Spiegel in Los Angeles for a conversation about his entrepreneurial journey, building Snap and his latest consumer hardware bet. S4, Ep2</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1a159732-a956-4119-a347-5cbac1e8cb80/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20251214213000 +0000" stop="20251214220000 +0000">
     <title lang="en">Bloomberg Originals</title>
@@ -23370,7 +23414,9 @@
   <programme channel="CBBC.uk" start="20251214082000 +0000" stop="20251214082500 +0000">
     <title lang="en">Grizzy and the Lemmings: World Tour</title>
     <desc lang="en">Iced Grizzy. The Lemmings try to destroy the statues of Grizzy, but he will not let them ruin his art.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/72e48ce3-2f26-4693-a79e-d315ba32dee4/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/af97abc0-8807-3635-ab67-816c8b9bd4ad/cover"/>
+    <episode-num system="xmltv_ns">3.23.0</episode-num>
+    <episode-num system="onscreen">S4E24</episode-num>
   </programme>
   <programme channel="CBBC.uk" start="20251214082500 +0000" stop="20251214083500 +0000">
     <title lang="en">Grizzy and the Lemmings</title>
@@ -23404,12 +23450,12 @@
   <programme channel="CBBC.uk" start="20251214121500 +0000" stop="20251214124500 +0000">
     <title lang="en">Malory Towers: The Ghost of Christmas Present</title>
     <desc lang="en">The Ghost of Christmas Present. Darrell has to hold her nerve when she's stranded at an empty Malory Towers for Christmas!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9fccf0c9-7a3c-4bb5-b61f-96351d272da7/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/a42e52ed-eaed-4994-a5d6-47f97ab9bc70/cover"/>
   </programme>
   <programme channel="CBBC.uk" start="20251214124500 +0000" stop="20251214131000 +0000">
     <title lang="en">Malory Towers: The Ghost of Christmas Past</title>
     <desc lang="en">The Ghost of Christmas Past. The girls have to find Gwen when she disappears on Christmas morning!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/4c03a635-4c9d-4343-a487-74ab8fe87238/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/b95d73a7-dfdd-4077-be1a-233009375091/cover"/>
   </programme>
   <programme channel="CBBC.uk" start="20251214131000 +0000" stop="20251214133500 +0000">
     <title lang="en">Horrible Histories: Horrible Christmas</title>
@@ -23504,17 +23550,23 @@
   <programme channel="CBBC.uk" start="20251214161500 +0000" stop="20251214162500 +0000">
     <title lang="en">Grizzy and the Lemmings: World Tour</title>
     <desc lang="en">Nocturnal Din. The Lemmings organise a mega-party, leading to the cabin being invaded by bats.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/07d15d64-9250-4638-97c9-39895abd1d3c/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/dd3b6c6b-7c49-3cbe-b6ef-fbde539fd639/cover"/>
+    <episode-num system="xmltv_ns">3.44.0</episode-num>
+    <episode-num system="onscreen">S4E45</episode-num>
   </programme>
   <programme channel="CBBC.uk" start="20251214162500 +0000" stop="20251214163000 +0000">
     <title lang="en">Grizzy and the Lemmings: World Tour</title>
     <desc lang="en">A Love for Fridges. The Lemmings activate the air conditioner's AI, causing it to fall in love with the fridge.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0965ac9f-74c4-425c-b559-9926f570e91e/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/3ff28842-a642-3177-a5c4-a4aad6be087b/cover"/>
+    <episode-num system="xmltv_ns">3.45.0</episode-num>
+    <episode-num system="onscreen">S4E46</episode-num>
   </programme>
   <programme channel="CBBC.uk" start="20251214163000 +0000" stop="20251214164000 +0000">
     <title lang="en">Grizzy and the Lemmings: World Tour</title>
     <desc lang="en">Bear Family. Grizzy finds a polar bear and realises they are from the same species.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/8460db4a-25d3-4c72-8489-7aa3d948b608/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/7988c04d-4998-3cac-9aa2-5153413b5560/cover"/>
+    <episode-num system="xmltv_ns">3.46.0</episode-num>
+    <episode-num system="onscreen">S4E47</episode-num>
   </programme>
   <programme channel="CBBC.uk" start="20251214164000 +0000" stop="20251214170000 +0000">
     <title lang="en">Dragons: The Nine Realms</title>
