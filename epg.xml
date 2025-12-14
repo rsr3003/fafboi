@@ -447,36 +447,15 @@
     <desc lang="en">Take a moment to catch-up with the all biggest sports stories hitting the headlines.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ffc3b80e-0e32-4269-bcf5-210ae519354f/cover"/>
   </programme>
-  <programme channel="sky.main.uk" start="20251214060000 +0000" stop="20251214070000 +0000">
-    <title lang="en">Sky Sports Catch-Up</title>
-    <desc lang="en">Take a moment to catch-up with the all biggest sports stories hitting the headlines.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/ffc3b80e-0e32-4269-bcf5-210ae519354f/cover"/>
-  </programme>
-  <programme channel="sky.main.uk" start="20251214070000 +0000" stop="20251214080000 +0000">
-    <title lang="en">Goals On Sunday</title>
-    <desc lang="en">A round-up of all the latest goals and major talking points from around the world of football.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e8e990ca-7fa6-4123-baa6-2b0999e2b771/cover"/>
-    <episode-num system="xmltv_ns">2024.20.0</episode-num>
-    <episode-num system="onscreen">S2025E21</episode-num>
-  </programme>
-  <programme channel="sky.main.uk" start="20251214080000 +0000" stop="20251214090000 +0000">
-    <title lang="en">Goals On Sunday</title>
-    <desc lang="en">A round-up of all the latest goals and major talking points from around the world of football.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e8e990ca-7fa6-4123-baa6-2b0999e2b771/cover"/>
-    <episode-num system="xmltv_ns">2024.20.0</episode-num>
-    <episode-num system="onscreen">S2025E21</episode-num>
-  </programme>
-  <programme channel="sky.main.uk" start="20251214090000 +0000" stop="20251214093000 +0000">
-    <title lang="en">Sunday Supplement</title>
-    <desc lang="en">The UK's top sports journalists dissect the stories in the Sunday newspapers, offering insight, opinion and in-depth analysis. Essential viewing for fans who want more than just the score.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/49d554b7-7b87-48de-a253-9157e24e4afd/cover"/>
-    <episode-num system="xmltv_ns">2024.18.0</episode-num>
-    <episode-num system="onscreen">S2025E19</episode-num>
-  </programme>
-  <programme channel="sky.main.uk" start="20251214093000 +0000" stop="20251214110000 +0000">
+  <programme channel="sky.main.uk" start="20251214060001 +0000" stop="20251214103000 +0000">
     <title lang="en">Live DP World Tour Golf</title>
     <desc lang="en">The concluding round of the Alfred Dunhill Championship, a DP World Tour event held at Royal Johannesburg Club in South Africa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/76836e3a-fb89-47dc-b8fc-daede3165949/cover"/>
+  </programme>
+  <programme channel="sky.main.uk" start="20251214103000 +0000" stop="20251214110000 +0000">
+    <title lang="en">Sunday Supplement</title>
+    <desc lang="en">The UK's top sports journalists dissect the stories in the Sunday newspapers, offering insight, opinion and in-depth analysis. Essential viewing for fans who want more than just the score.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3222b2c7-a039-4cdc-a80a-753765a80888/cover"/>
   </programme>
   <programme channel="sky.main.uk" start="20251214110000 +0000" stop="20251214130000 +0000">
     <title lang="en">Live WSL: Brighton v Chelsea</title>
@@ -22593,11 +22572,6 @@
     <desc lang="en">Live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping markets. Ep1</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bef03b81-439b-41c6-b135-d552ef869593/cover"/>
   </programme>
-  <programme channel="BloombergTVEurope.uk" start="20251215000000 +0000" stop="20251215010000 +0000">
-    <title lang="en">Bloomberg Markets: China Open</title>
-    <desc lang="en">The definitive guide to the markets in Hong Kong and on the mainland. Rishaad Salamat, David Ingles, Tom Mackenzie and Yvonne Man bring you the latest analysis to get you ready for the trading day.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d4c67bbb-1b3f-47e4-a93b-531ed85c4f1e/cover"/>
-  </programme>
   <programme channel="BloombergTVEurope.uk" start="20251215010000 +0000" stop="20251215030000 +0000">
     <title lang="en">Bloomberg: The China Show</title>
     <desc lang="en">Your definitive source for news and analysis on the world's second-biggest economy. Hosted by Yvonne Man and David Ingles. Ep1</desc>
@@ -22614,19 +22588,14 @@
     <icon src="https://images.metadata.sky.com/pd-image/87b991f6-40d7-4400-b5d4-da19fe7c24bb/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20251215060000 +0000" stop="20251215070000 +0000">
-    <title lang="en">Bloomberg Markets: Europe</title>
-    <desc lang="en">Anchored by Anna Edwards and Mark Cudmore, a fast-paced show of news and analysis, building towards the drama and excitement of the start of trading across the Continent.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/bef33caf-f368-4d4f-87d1-e9fd9de748a9/cover"/>
+    <title lang="en">Bloomberg Daybreak: Europe</title>
+    <desc lang="en">Live from London, we catch you up with overnight markets news from the US and Asia. Plus, we'll tell you what matters for investors in Europe, giving you insight before trading begins.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/29813e45-e9e3-4f4e-8d88-0bc7cbf56a73/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20251215070000 +0000" stop="20251215090000 +0000">
     <title lang="en">Bloomberg: The Opening Trade</title>
     <desc lang="en">Everything you need to know as markets open across Europe. We break down today's biggest stories and speak to guests with skin in the game. Hosted by Anna Edwards, Guy Johnson and Kriti Gupta.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1b4a0a5f-0125-4611-be0b-6447f00a14e4/cover"/>
-  </programme>
-  <programme channel="BloombergTVEurope.uk" start="20251215080000 +0000" stop="20251215090000 +0000">
-    <title lang="en">Bloomberg Surveillance: Early Edition</title>
-    <desc lang="en">Bloomberg Surveillance: Early Edition with Francine Lacqua live from London, bringing insight on global markets and the top business stories of the day.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/989e805c-308d-4250-9221-6c2624febf2a/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20251215090000 +0000" stop="20251215100000 +0000">
     <title lang="en">The Pulse with Francine Lacqua</title>
@@ -22643,20 +22612,10 @@
     <desc lang="en">Daily conversations with leaders and decision makers from Wall Street to Washington and beyond. Hosted by Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3df75bff-f9de-44f8-8209-2db28834a8af/cover"/>
   </programme>
-  <programme channel="BloombergTVEurope.uk" start="20251215130000 +0000" stop="20251215140000 +0000">
-    <title lang="en">Bloomberg: The Open</title>
-    <desc lang="en">Jonathan Ferro hosts this programme showcasing the most insightful and informative Bloomberg charts to help position a global audience for the trading day.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/64242bd6-2251-4ca1-b294-373853bbb1ff/cover"/>
-  </programme>
   <programme channel="BloombergTVEurope.uk" start="20251215140000 +0000" stop="20251215160000 +0000">
     <title lang="en">Bloomberg Open Interest</title>
     <desc lang="en">Bloomberg Open Interest with Matt Miller and Dani Burger - delivers the market-moving news you need to know to get a jump start on the US trading day.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d2a02972-81ed-4b44-91db-cc0915c086fc/cover"/>
-  </programme>
-  <programme channel="BloombergTVEurope.uk" start="20251215150000 +0000" stop="20251215160000 +0000">
-    <title lang="en">Bloomberg Markets: European Close</title>
-    <desc lang="en">Analysing the major market moving stories across the day in Europe, hearing from the biggest newsmakers, and showcasing the unrivalled expertise of Bloomberg News.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/dc3441d6-79d7-4d3c-ac79-4654c4f4b9a9/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20251215160000 +0000" stop="20251215170000 +0000">
     <title lang="en">Bloomberg Tech</title>
@@ -22687,11 +22646,6 @@
     <title lang="en">Bloomberg The Close</title>
     <desc lang="en">Romaine Bostick and Katie Greifeld break down the day's top market-moving stories and trading action around the closing bell.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e2d46b0a-39f9-4a2d-8850-35c353e543cf/cover"/>
-  </programme>
-  <programme channel="BloombergTVEurope.uk" start="20251215210000 +0000" stop="20251215220000 +0000">
-    <title lang="en">Bloomberg Daybreak: Australia</title>
-    <desc lang="en">From New York and Sydney, the latest news impacting markets, business and finance around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/aee1edfd-8a54-46e3-bfb7-baf212c88c88/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20251215220000 +0000" stop="20251215230000 +0000">
     <title lang="en">Bloomberg: Balance of Power</title>
