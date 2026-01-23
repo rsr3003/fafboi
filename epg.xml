@@ -3746,22 +3746,17 @@
     <desc lang="en">Rewind to the 2011 ICC Cricket World Cup in India, Sri Lanka and Bangladesh and enjoy a classic match between England and South Africa. It was a clash that went right to the wire.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c1d0858f-081f-42b6-92cc-a7898d6e2dbe/cover"/>
   </programme>
-  <programme channel="sky.cricket.uk" start="20260123061500 +0000" stop="20260123063000 +0000">
-    <title lang="en">ICC Men's T20 WC: ENG v SA 2016</title>
-    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit England's 2016 clash with South Africa.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/2ab84dac-99e4-4cb0-b71c-7bd37d361203/cover"/>
-  </programme>
-  <programme channel="sky.cricket.uk" start="20260123063000 +0000" stop="20260123073000 +0000">
+  <programme channel="sky.cricket.uk" start="20260123061501 +0000" stop="20260123071501 +0000">
     <title lang="en">BBL Hobart H v Melbourne S Hlts</title>
     <desc lang="en">The third-placed Hobart Hurricanes take on Melbourne Stars, who finished the season fourth, in a do-or-die Big Bash League Knockout. A spot in the Challenger is up for grabs here. (21.01)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/65ad2578-9fa4-4f29-93d4-270428a4b7bd/cover"/>
   </programme>
-  <programme channel="sky.cricket.uk" start="20260123073000 +0000" stop="20260123082500 +0000">
+  <programme channel="sky.cricket.uk" start="20260123071501 +0000" stop="20260123081001 +0000">
     <title lang="en">BBL: Perth S v Sydney S</title>
     <desc lang="en">Mitchell Starc and Steve Smith fire Sydney Sixers into the double-chance BBL Qualifier where table toppers Perth await. The winner of this encounter will host Sunday's final. (20.01)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f4ba7da0-e538-4646-95d8-4582ea21557c/cover"/>
   </programme>
-  <programme channel="sky.cricket.uk" start="20260123082500 +0000" stop="20260123114500 +0000">
+  <programme channel="sky.cricket.uk" start="20260123081001 +0000" stop="20260123114425 +0000">
     <title lang="en">Live BBL: Sydney S v Hobart H</title>
     <desc lang="en">A place in the Big Bash League final is on the line as the Knockout winners Hobart Hurricanes look to keep their title defence alive against Sydney Sixers in this Challenger match-up.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/403560fd-c753-42a4-b209-9d1e86bc0992/cover"/>
@@ -4016,7 +4011,9 @@
   <programme channel="tnt1" start="20260122233000 +0000" stop="20260123000000 +0000">
     <title lang="en">Match Officials Mic'd Up</title>
     <desc lang="en">PGMOL chief Howard Webb reviews recent incidents from the Premier League, including Diogo Dalot's tackle on Jeremy Doku and Michael Keane's red card for a hair pull.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9526ddd6-1eae-4bb3-8257-fdfe4147bcce/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/92703da9-bcce-4c93-b86c-7503ffa61bff/cover"/>
+    <episode-num system="xmltv_ns">24.4.0</episode-num>
+    <episode-num system="onscreen">S25E5</episode-num>
   </programme>
   <programme channel="tnt1" start="20260123000000 +0000" stop="20260123003000 +0000">
     <title lang="en">The Big Interview: Harry Wilson</title>
@@ -9980,15 +9977,15 @@
     <title lang="en">TOTP: 1999</title>
     <desc lang="en">Kate Thornton presents the pop chart programme, first broadcast on 19 February 1999 and featuring Blondie, Next of Kin, Unkle ft Ian Brown, The Moffats, Blur and Lenny Kravitz.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7a54a556-994e-4a31-9a2b-c0bc16c0dbae/cover"/>
-    <episode-num system="xmltv_ns">1998.33.0</episode-num>
-    <episode-num system="onscreen">S1999E34</episode-num>
+    <episode-num system="xmltv_ns">1998.32.0</episode-num>
+    <episode-num system="onscreen">S1999E33</episode-num>
   </programme>
   <programme channel="BBCFourHD.uk" start="20260123193000 +0000" stop="20260123200000 +0000">
     <title lang="en">TOTP: 1999</title>
     <desc lang="en">Jayne Middlemiss presents the pop chart programme, first broadcast on 26 February 1999 and featuring The Corrs, NSYNC, Lauryn Hill, Lucid, Lenny Kravitz and Britney Spears.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0c1b303f-53b8-429d-8636-f73589234166/cover"/>
-    <episode-num system="xmltv_ns">1998.34.0</episode-num>
-    <episode-num system="onscreen">S1999E35</episode-num>
+    <episode-num system="xmltv_ns">1998.33.0</episode-num>
+    <episode-num system="onscreen">S1999E34</episode-num>
   </programme>
   <programme channel="BBCFourHD.uk" start="20260123200000 +0000" stop="20260123203000 +0000">
     <title lang="en">TOTP: 1981</title>
@@ -10042,6 +10039,12 @@
   <programme channel="BBCFourHD.uk" start="20260124033000 +0000" stop="20260124053000 +0000">
     <title lang="en">This is BBC Four</title>
     <desc lang="en">Programmes start at 7.00pm.</desc>
+  </programme>
+  <programme channel="BBCFourHD.uk" start="20260124053000 +0000" stop="20260124113000 +0000">
+    <title lang="en">..programmes start at 7.00pm</title>
+  </programme>
+  <programme channel="BBCFourHD.uk" start="20260124113000 +0000" stop="20260124113046 +0000">
+    <title lang="en">..programmes start at 7.00pm</title>
   </programme>
   <programme channel="BBCFourHD.uk" start="20260124113047 +0000" stop="20260124173047 +0000">
     <title lang="en">..programmes start at 7.00pm</title>
@@ -32686,7 +32689,9 @@
   <programme channel="E4Extra.uk" start="20260125001000 +0000" stop="20260125010000 +0000">
     <title lang="en">8 Out of 10 Cats: More Best Bits</title>
     <desc lang="en">A compilation of the best bits from the series. Jimmy, Rob and Aisling are joined by a host of celebrities including Pamela Anderson, Ella Eyre, Ant Middleton, James Acaster and Joe Swash.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/59cddc3a-0484-488c-a69b-ce43e262bb32/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/2e61afbf-9905-485f-98c3-582d9f3a5ba4/cover"/>
+    <episode-num system="xmltv_ns">19.10.0</episode-num>
+    <episode-num system="onscreen">S20E11</episode-num>
   </programme>
   <programme channel="E4Extra.uk" start="20260125010000 +0000" stop="20260125013500 +0000">
     <title lang="en">8 Out of 10 Cats</title>
