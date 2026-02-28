@@ -4558,7 +4558,7 @@
   </programme>
   <programme channel="tnt2" start="20260228124500 +0000" stop="20260228163000 +0000">
     <title lang="en">Live Snooker: Welsh Open</title>
-    <desc lang="en">Snooker action from the Welsh Open, part of the Home Nations Series.</desc>
+    <desc lang="en">England's Barry Hawkins looks to make the Welsh Open final for the second time in his career as he takes on China's Wu Yize in the semi-finals.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8f2f1046-e2f2-4d97-80bf-f6fe9aa5b4d2/cover"/>
   </programme>
   <programme channel="tnt2" start="20260228163000 +0000" stop="20260228170000 +0000">
@@ -4589,7 +4589,7 @@
   </programme>
   <programme channel="tnt2" start="20260228184500 +0000" stop="20260228223000 +0000">
     <title lang="en">Live Snooker: Welsh Open</title>
-    <desc lang="en">Snooker action from the Welsh Open, part of the Home Nations Series.</desc>
+    <desc lang="en">John Higgins continues his quest for a record-extending sixth Welsh Open title as he goes head-to-head with England's Jack Lisowski in the semi-finals.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/21befac2-efc7-45ae-85b1-c679d32e5eb1/cover"/>
   </programme>
   <programme channel="tnt2" start="20260228223000 +0000" stop="20260301000000 +0000">
@@ -4980,7 +4980,7 @@
   </programme>
   <programme channel="tnt3" start="20260301040000 +0000" stop="20260301060000 +0000">
     <title lang="en">Snooker: Welsh Open Highlights</title>
-    <desc lang="en">Snooker highlights from the Welsh Open. (28.02)</desc>
+    <desc lang="en">Snooker highlights from the semi-finals of the BetVictor Welsh Open 2026, featuring Wu Yize v Barry Hawkins and John Higgins v Jack Lisowski.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9b39cc8a-d2c8-4e14-bd14-5d478c430511/cover"/>
   </programme>
   <programme channel="tnt3" start="20260301060000 +0000" stop="20260301070000 +0000">
@@ -5298,7 +5298,7 @@
   </programme>
   <programme channel="tnt4" start="20260228141500 +0000" stop="20260228143000 +0000">
     <title lang="en">TNT Sports Cricket Reload</title>
-    <desc lang="en">A look back at the second Women's ODI between Australia and India.</desc>
+    <desc lang="en">A look back at the second Women's ODI between Australia and India at Ninja Stadium in Hobart, featuring a player-of-the-match performance by Georgia Voll.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b7fce593-b46b-4db5-afa6-5008dec87818/cover"/>
     <episode-num system="xmltv_ns">24.130.0</episode-num>
     <episode-num system="onscreen">S25E131</episode-num>
@@ -5332,7 +5332,7 @@
   </programme>
   <programme channel="tnt4" start="20260228180000 +0000" stop="20260228181500 +0000">
     <title lang="en">TNT Sports Cricket Reload</title>
-    <desc lang="en">We revisit the best action from the first T20 between Sri Lanka and Pakistan.</desc>
+    <desc lang="en">We revisit the best action from the first T20 between Sri Lanka and Pakistan, featuring a player-of-the-match display by Shadab Khan.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c0a20ba7-2e5e-4478-9534-1548370f5905/cover"/>
     <episode-num system="xmltv_ns">24.132.0</episode-num>
     <episode-num system="onscreen">S25E133</episode-num>
@@ -10536,10 +10536,25 @@
     <desc lang="en">Tracey Emin talks to Laura Kuenssberg about her life after cancer and her new exhibition at Tate Modern.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/88381e4f-7d4d-49a6-bf74-64f32cee7238/cover"/>
   </programme>
-  <programme channel="BBCNews.uk" start="20260228060000 +0000" stop="20260228090000 +0000">
+  <programme channel="BBCNews.uk" start="20260228060000 +0000" stop="20260228063000 +0000">
     <title lang="en">Breakfast</title>
     <desc lang="en">The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a7800deb-5557-4cc4-a6d6-c5096e86dfdf/cover"/>
+  </programme>
+  <programme channel="BBCNews.uk" start="20260228063000 +0000" stop="20260228070000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/9a1d623a-75ba-492f-9d59-b6523455c125/cover"/>
+  </programme>
+  <programme channel="BBCNews.uk" start="20260228070000 +0000" stop="20260228080000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1df52aca-3ac6-4705-988e-ad9f28dfd432/cover"/>
+  </programme>
+  <programme channel="BBCNews.uk" start="20260228080000 +0000" stop="20260228090000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a037513d-a137-4feb-b8d6-2c69505de4be/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260228090000 +0000" stop="20260228100000 +0000">
     <title lang="en">BBC News</title>
@@ -10556,17 +10571,10 @@
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/dfc05ec0-447f-41ae-9d31-6427000d8442/cover"/>
   </programme>
-  <programme channel="BBCNews.uk" start="20260228110000 +0000" stop="20260228113000 +0000">
+  <programme channel="BBCNews.uk" start="20260228110000 +0000" stop="20260228120000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2e1fba89-e862-4f0e-a8d5-32e18ba107d6/cover"/>
-  </programme>
-  <programme channel="BBCNews.uk" start="20260228113000 +0000" stop="20260228120000 +0000">
-    <title lang="en">Unspun World with John Simpson</title>
-    <desc lang="en">John Simpson explores the mood in Ukraine after four years of war, examines how the war has changed Russia, and looks at whether Russia's long sporting isolation is coming to an end.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/fa133721-fd9d-4a64-b3e5-3a43e69afbf2/cover"/>
-    <episode-num system="xmltv_ns">4.25.0</episode-num>
-    <episode-num system="onscreen">S5E26</episode-num>
   </programme>
   <programme channel="BBCNews.uk" start="20260228120000 +0000" stop="20260228123000 +0000">
     <title lang="en">BBC News</title>
@@ -10710,7 +10718,7 @@
   <programme channel="BBCNews.uk" start="20260301023000 +0000" stop="20260301030000 +0000">
     <title lang="en">Tracey Emin: The Laura Kuenssberg Interview</title>
     <desc lang="en">Tracey Emin talks to Laura Kuenssberg about her life after cancer and her new exhibition at Tate Modern.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/afffb68c-5254-4c9f-9be9-6d9e5890aaed/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/88381e4f-7d4d-49a6-bf74-64f32cee7238/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260301030000 +0000" stop="20260301033000 +0000">
     <title lang="en">BBC News</title>
