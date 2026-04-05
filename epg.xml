@@ -10139,10 +10139,20 @@
     <episode-num system="xmltv_ns">0.1.0</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
   </programme>
-  <programme channel="BBCNews.uk" start="20260405050000 +0000" stop="20260405080000 +0000">
-    <title lang="en">Breakfast</title>
-    <desc lang="en">The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c49ae38c-9f17-4be7-ba07-25e89c790e56/cover"/>
+  <programme channel="BBCNews.uk" start="20260405050000 +0000" stop="20260405060000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/57238256-5285-41e1-994e-d02d900c3198/cover"/>
+  </programme>
+  <programme channel="BBCNews.uk" start="20260405060000 +0000" stop="20260405070000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/887e6bfb-bed1-44db-8fa9-15c7eb8aa55a/cover"/>
+  </programme>
+  <programme channel="BBCNews.uk" start="20260405070000 +0000" stop="20260405080000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a0868b01-2b64-400c-9b5a-c38fbca04fff/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260405080000 +0000" stop="20260405090000 +0000">
     <title lang="en">BBC News</title>
