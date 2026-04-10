@@ -481,7 +481,7 @@
   </programme>
   <programme channel="sky.main.uk" start="20260410130000 +0000" stop="20260410183000 +0000">
     <title lang="en">Live Masters Round 2</title>
-    <desc lang="en">Round two of The Masters from Augusta National Golf Club.</desc>
+    <desc lang="en">Round two of The Masters from Augusta National. Rory McIlroy held a share of Thursday's lead with Sam Burns, while past winners Patrick Reed and Scottie Scheffler enjoyed strong starts.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/feb3d23c-10de-4a75-b5cb-eb50acf9ec83/cover"/>
   </programme>
   <programme channel="sky.main.uk" start="20260410183000 +0000" stop="20260410210000 +0000">
@@ -491,7 +491,7 @@
   </programme>
   <programme channel="sky.main.uk" start="20260410210000 +0000" stop="20260410233000 +0000">
     <title lang="en">Live Masters Round 2</title>
-    <desc lang="en">Round two of The Masters from Augusta National Golf Club.</desc>
+    <desc lang="en">Round two of The Masters from Augusta National. Rory McIlroy held a share of Thursday's lead with Sam Burns, while past winners Patrick Reed and Scottie Scheffler enjoyed strong starts.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/feb3d23c-10de-4a75-b5cb-eb50acf9ec83/cover"/>
   </programme>
   <programme channel="sky.main.uk" start="20260410233000 +0000" stop="20260411000000 +0000">
@@ -526,7 +526,7 @@
   </programme>
   <programme channel="sky.main.uk" start="20260411050000 +0000" stop="20260411063000 +0000">
     <title lang="en">Masters Round 2 Highlights</title>
-    <desc lang="en">Round two of The Masters from Augusta National Golf Club. (10.04)</desc>
+    <desc lang="en">Round two of The Masters from Augusta National. Rory McIlroy held a share of Thursday's lead with Sam Burns as past winners Patrick Reed and Scottie Scheffler enjoyed strong starts. (10.04)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/20d5d935-00eb-456c-88ef-fb7fe77c97da/cover"/>
   </programme>
   <programme channel="sky.main.uk" start="20260411063000 +0000" stop="20260411070000 +0000">
@@ -2004,12 +2004,12 @@
   </programme>
   <programme channel="sky.tennis.uk" start="20260410210000 +0000" stop="20260410230000 +0000">
     <title lang="en">Tennis Highlights</title>
-    <desc lang="en">Revisit a standout match from today's action on the WTA and ATP Tours.</desc>
+    <desc lang="en">Finally dropping a set at Masters 1000 level, Jannik Sinner's Monte-Carlo bid remains intact as the world number two plays Felix Auger-Aliassime for a semi-final spot. (10.04)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/cff526cf-2998-4ab9-b8b7-b2d46361295e/cover"/>
   </programme>
   <programme channel="sky.tennis.uk" start="20260410230000 +0000" stop="20260411010000 +0000">
     <title lang="en">Tennis Highlights</title>
-    <desc lang="en">Revisit a standout match from today's action on the WTA and ATP Tours.</desc>
+    <desc lang="en">On a seven-match winning streak at the Monte-Carlo Masters, defending champion Carlos Alcaraz eyes a place in the final four as the Spanish world number one meets Alexander Bublik. (10.04)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c688aa28-c494-47b3-859d-dd2e9f215443/cover"/>
   </programme>
   <programme channel="sky.tennis.uk" start="20260411010000 +0000" stop="20260411011500 +0000">
@@ -2049,12 +2049,12 @@
   </programme>
   <programme channel="sky.tennis.uk" start="20260411050000 +0000" stop="20260411070000 +0000">
     <title lang="en">Tennis Highlights</title>
-    <desc lang="en">Revisit a standout match from today's action on the WTA and ATP Tours.</desc>
+    <desc lang="en">Finally dropping a set at Masters 1000 level, Jannik Sinner's Monte-Carlo bid remains intact as the world number two plays Felix Auger-Aliassime for a semi-final spot. (10.04)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/cff526cf-2998-4ab9-b8b7-b2d46361295e/cover"/>
   </programme>
   <programme channel="sky.tennis.uk" start="20260411070000 +0000" stop="20260411090000 +0000">
     <title lang="en">Tennis Highlights</title>
-    <desc lang="en">Revisit a standout match from today's action on the WTA and ATP Tours.</desc>
+    <desc lang="en">On a seven-match winning streak at the Monte-Carlo Masters, defending champion Carlos Alcaraz eyes a place in the final four as the Spanish world number one meets Alexander Bublik. (10.04)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c688aa28-c494-47b3-859d-dd2e9f215443/cover"/>
   </programme>
   <programme channel="sky.tennis.uk" start="20260411090000 +0000" stop="20260411103000 +0000">
@@ -2448,6 +2448,11 @@
     <desc lang="en">The F2 weekend concludes as Albert Park Circuit in Melbourne with Dino Beganovic staring in pole for the Feature Race. Martinius Stenshorne and Alexander Dunne settle for second and third.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/943966f5-00bd-478b-a6fb-afb9649a1633/cover"/>
   </programme>
+  <programme channel="sky.f1.uk" start="20260411095000 +0000" stop="20260411111500 +0000">
+    <title lang="en">Live GTWC Paul Ricard: Qualifying</title>
+    <desc lang="en">The opening round of the 2026 GT World Challenge Europe campaign commences with Endurance Cup qualifying, taking place at Circuit Paul Ricard in France.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/9ea50178-c175-4c26-bbd1-d8ec44c5ab59/cover"/>
+  </programme>
   <programme channel="sky.f1.uk" start="20260411111500 +0000" stop="20260411113000 +0000">
     <title lang="en">Oscar Piastri Drives a V8 Supercar</title>
     <desc lang="en">McLaren's Oscar Piastri drives V8 supercars in Australia ahead of his fourth home race in Melbourne, while chatting to Sky F1's Rachel Brookes about his hopes for the season.</desc>
@@ -2457,6 +2462,21 @@
     <title lang="en">Australian F1 GP Highlights</title>
     <desc lang="en">It's lights out for the season-opening Australian Grand Prix. George Russell leads a Mercedes front-row lockout with Red Bull's Isack Hadjar third. Lando Norris starts from P6. (08.03)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/34b79a51-9c34-40d4-b927-ea5137219e31/cover"/>
+  </programme>
+  <programme channel="sky.f1.uk" start="20260411123000 +0000" stop="20260411135000 +0000">
+    <title lang="en">Live Lamborghini Super Trofeo R1</title>
+    <desc lang="en">The world-class GT action continues at Circuit Paul Ricard in France with the opening race of the weekend in the Lamborghini Super Trofeo category.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/78883b57-1569-4def-8793-d7c4c3d382f2/cover"/>
+  </programme>
+  <programme channel="sky.f1.uk" start="20260411135000 +0000" stop="20260411144000 +0000">
+    <title lang="en">Live GT4 Paul Ricard: Qualifying</title>
+    <desc lang="en">The world-class GT action continues at Circuit Paul Ricard in France with qualifying from the GT4 European Series.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7c5ba319-0d1b-44fb-9457-0b2c31496129/cover"/>
+  </programme>
+  <programme channel="sky.f1.uk" start="20260411144000 +0000" stop="20260411153000 +0000">
+    <title lang="en">Live GT3 Paul Ricard: Qualifying</title>
+    <desc lang="en">The world-class GT action continues at Circuit Paul Ricard in France with GT3 qualifying.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/50e89a18-e6ec-4caf-baa8-71bd9cc4b907/cover"/>
   </programme>
   <programme channel="sky.f1.uk" start="20260411153000 +0000" stop="20260411223000 +0000">
     <title lang="en">Live GTWC Endurance Race</title>
@@ -2528,10 +2548,25 @@
     <desc lang="en">Sky F1's Ted Kravitz points out five things to look out for in 2026.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2c8c0dd3-662f-4e13-b042-4357fde8a519/cover"/>
   </programme>
+  <programme channel="sky.f1.uk" start="20260412071500 +0000" stop="20260412083500 +0000">
+    <title lang="en">Live GT3 Paul Ricard: Race</title>
+    <desc lang="en">The world-class GT action continues at Circuit Paul Ricard in France with GT3 racing.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/13687ea1-0d74-4c85-aaab-aeb2edb41610/cover"/>
+  </programme>
   <programme channel="sky.f1.uk" start="20260412083500 +0000" stop="20260412084500 +0000">
     <title lang="en">Charles Leclerc IV</title>
     <desc lang="en">Sky F1's Simon Lazenby sits down with Charles Leclerc to discuss the start of his 2026 season.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2b932682-3d27-4044-acb8-7b28485a0789/cover"/>
+  </programme>
+  <programme channel="sky.f1.uk" start="20260412084500 +0000" stop="20260412101500 +0000">
+    <title lang="en">Live GT4 Paul Ricard: Race</title>
+    <desc lang="en">The world-class GT action continues at Circuit Paul Ricard in France with the weekend's GT4 European Series race.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7501a928-f543-4e7e-8987-a9d7f54772e7/cover"/>
+  </programme>
+  <programme channel="sky.f1.uk" start="20260412101500 +0000" stop="20260412113500 +0000">
+    <title lang="en">Live Lamborghini Super Trofeo R2</title>
+    <desc lang="en">The world-class GT action continues at Circuit Paul Ricard in France with the second race of the weekend in the Lamborghini Super Trofeo category.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/c1e58e69-ee54-47f6-8b92-c18489e732e7/cover"/>
   </programme>
   <programme channel="sky.f1.uk" start="20260412113500 +0000" stop="20260412114500 +0000">
     <title lang="en">Valtteri Bottas IV</title>
@@ -3586,7 +3621,7 @@
   </programme>
   <programme channel="sky.mix.uk" start="20260412083000 +0000" stop="20260412100000 +0000">
     <title lang="en">Masters Round 2 Highlights</title>
-    <desc lang="en">Round two of The Masters from Augusta National Golf Club. (10.04)</desc>
+    <desc lang="en">Round two of The Masters from Augusta National. Rory McIlroy held a share of Thursday's lead with Sam Burns as past winners Patrick Reed and Scottie Scheffler enjoyed strong starts. (10.04)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/20d5d935-00eb-456c-88ef-fb7fe77c97da/cover"/>
   </programme>
   <programme channel="sky.mix.uk" start="20260412100000 +0000" stop="20260412113000 +0000">
@@ -9213,7 +9248,7 @@
   <programme channel="AlJazeeraEnglish.qa" start="20260411040000 +0000" stop="20260411043000 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/92b930d5-5495-446a-82a1-6a6be6ee0c55/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/0f0abc8e-55d2-4370-b2c5-8397b5ea0677/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260411043000 +0000" stop="20260411050000 +0000">
     <title lang="en">UpFront</title>
@@ -9225,7 +9260,7 @@
   <programme channel="AlJazeeraEnglish.qa" start="20260411050000 +0000" stop="20260411053000 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/25551265-a199-463d-9ad8-0cbd3eb2fb80/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/0f0abc8e-55d2-4370-b2c5-8397b5ea0677/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260411053000 +0000" stop="20260411060000 +0000">
     <title lang="en">Inside Story</title>
@@ -9255,7 +9290,7 @@
   <programme channel="AlJazeeraEnglish.qa" start="20260411080000 +0000" stop="20260411083000 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0ba41bbf-b6fa-4434-b150-41b3d985e3e8/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/0f0abc8e-55d2-4370-b2c5-8397b5ea0677/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260411083000 +0000" stop="20260411090000 +0000">
     <title lang="en">The Stream</title>
@@ -9282,7 +9317,7 @@
   <programme channel="AlJazeeraEnglish.qa" start="20260411110000 +0000" stop="20260411113000 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f145e706-2166-44b7-86c7-b55012dbd41e/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/0f0abc8e-55d2-4370-b2c5-8397b5ea0677/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260411113000 +0000" stop="20260411120000 +0000">
     <title lang="en">Inside Story</title>
@@ -9304,7 +9339,7 @@
   <programme channel="AlJazeeraEnglish.qa" start="20260411140000 +0000" stop="20260411143000 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9217f1d9-8c1a-48ce-ae46-db315ca15a82/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/0f0abc8e-55d2-4370-b2c5-8397b5ea0677/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260411143000 +0000" stop="20260411150000 +0000">
     <title lang="en">UpFront</title>
@@ -9321,7 +9356,7 @@
   <programme channel="AlJazeeraEnglish.qa" start="20260411160000 +0000" stop="20260411163000 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/19627fae-9351-4b8c-a1c7-b8c2096ce78d/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/0f0abc8e-55d2-4370-b2c5-8397b5ea0677/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260411163000 +0000" stop="20260411170000 +0000">
     <title lang="en">The Global Population Bust</title>
@@ -9331,7 +9366,7 @@
   <programme channel="AlJazeeraEnglish.qa" start="20260411170000 +0000" stop="20260411173000 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/33a6ca2f-7dc6-4918-8981-ff857a402596/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/0f0abc8e-55d2-4370-b2c5-8397b5ea0677/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260411173000 +0000" stop="20260411180000 +0000">
     <title lang="en">Inside Story</title>
@@ -9370,7 +9405,7 @@
   <programme channel="AlJazeeraEnglish.qa" start="20260411220000 +0000" stop="20260411223000 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c1f7c664-4442-41c6-b48b-34ce1d05f098/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/0f0abc8e-55d2-4370-b2c5-8397b5ea0677/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260411223000 +0000" stop="20260411230000 +0000">
     <title lang="en">The Bottom Line</title>
@@ -9382,7 +9417,7 @@
   <programme channel="AlJazeeraEnglish.qa" start="20260411230000 +0000" stop="20260411233000 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/58ff03dc-527e-469e-842f-4ab1ae6e118c/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/933e240c-c80e-4f04-a956-2427706a2059/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260411233000 +0000" stop="20260412000000 +0000">
     <title lang="en">Inside Story</title>
@@ -9416,7 +9451,7 @@
   <programme channel="AlJazeeraEnglish.qa" start="20260412030000 +0000" stop="20260412033000 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/6e1e3f5a-a328-4b69-8daa-8459be1cf364/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/321da991-f6fe-408e-b9f1-3f6921c19083/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260412033000 +0000" stop="20260412040000 +0000">
     <title lang="en">Counting the Cost</title>
@@ -9426,7 +9461,7 @@
   <programme channel="AlJazeeraEnglish.qa" start="20260412040000 +0000" stop="20260412043000 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/efec6c76-5702-4a0f-b18a-4774db5500fc/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/321da991-f6fe-408e-b9f1-3f6921c19083/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260412043000 +0000" stop="20260412050000 +0000">
     <title lang="en">The Listening Post</title>
@@ -9438,7 +9473,7 @@
   <programme channel="AlJazeeraEnglish.qa" start="20260412050000 +0000" stop="20260412053000 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d395bb9c-1f8f-41f7-98c0-0eb22c820965/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/25d4ab21-d9c9-44c0-91b7-e550ee56775c/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260412053000 +0000" stop="20260412060000 +0000">
     <title lang="en">Inside Story</title>
@@ -9450,7 +9485,7 @@
   <programme channel="AlJazeeraEnglish.qa" start="20260412060000 +0000" stop="20260412063000 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/8100d7f8-6237-47b1-8d57-bf3319b0a38f/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/321da991-f6fe-408e-b9f1-3f6921c19083/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260412063000 +0000" stop="20260412070000 +0000">
     <title lang="en">The Global Population Bust</title>
@@ -9460,7 +9495,7 @@
   <programme channel="AlJazeeraEnglish.qa" start="20260412070000 +0000" stop="20260412073000 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/296ad57c-ccb4-4af5-89d2-7210ab1ca49c/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/321da991-f6fe-408e-b9f1-3f6921c19083/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260412073000 +0000" stop="20260412080000 +0000">
     <title lang="en">101 East</title>
@@ -9472,7 +9507,7 @@
   <programme channel="AlJazeeraEnglish.qa" start="20260412080000 +0000" stop="20260412083000 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/673f9200-7f4d-4ae0-9dfc-32a4e4f04572/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/321da991-f6fe-408e-b9f1-3f6921c19083/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260412083000 +0000" stop="20260412090000 +0000">
     <title lang="en">UpFront</title>
@@ -9484,7 +9519,7 @@
   <programme channel="AlJazeeraEnglish.qa" start="20260412090000 +0000" stop="20260412093000 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c5e2bac1-af40-4ca4-8d05-bf350359aae7/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/321da991-f6fe-408e-b9f1-3f6921c19083/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260412093000 +0000" stop="20260412100000 +0000">
     <title lang="en">The Bottom Line</title>
@@ -9501,7 +9536,7 @@
   <programme channel="AlJazeeraEnglish.qa" start="20260412110000 +0000" stop="20260412113000 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9d619e55-f815-4e88-88ce-7dec5bfc121d/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/321da991-f6fe-408e-b9f1-3f6921c19083/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260412113000 +0000" stop="20260412120000 +0000">
     <title lang="en">Inside Story</title>
@@ -9521,7 +9556,7 @@
   <programme channel="AlJazeeraEnglish.qa" start="20260412140000 +0000" stop="20260412143000 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1125d5f6-f122-4a50-a28c-e3ecaf61562e/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/321da991-f6fe-408e-b9f1-3f6921c19083/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260412143000 +0000" stop="20260412150000 +0000">
     <title lang="en">The Listening Post</title>
@@ -9538,7 +9573,7 @@
   <programme channel="AlJazeeraEnglish.qa" start="20260412160000 +0000" stop="20260412163000 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d82ebf26-8dec-400f-b9be-d5c5576d760a/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/321da991-f6fe-408e-b9f1-3f6921c19083/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260412163000 +0000" stop="20260412170000 +0000">
     <title lang="en">People and Power</title>
@@ -9548,7 +9583,7 @@
   <programme channel="AlJazeeraEnglish.qa" start="20260412170000 +0000" stop="20260412173000 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/ec335e28-e9f1-48c6-b9d2-b97c5bf39498/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/321da991-f6fe-408e-b9f1-3f6921c19083/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260412173000 +0000" stop="20260412180000 +0000">
     <title lang="en">Inside Story</title>
@@ -9563,7 +9598,7 @@
   <programme channel="AlJazeeraEnglish.qa" start="20260412190000 +0000" stop="20260412193000 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f18a5d93-9b61-417e-9ad5-528a9a24f475/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/321da991-f6fe-408e-b9f1-3f6921c19083/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260412193000 +0000" stop="20260412200000 +0000">
     <title lang="en">Talk to Al Jazeera</title>
@@ -9583,7 +9618,7 @@
   <programme channel="AlJazeeraEnglish.qa" start="20260412220000 +0000" stop="20260412223000 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a039fff1-739e-4bff-8bd2-52ecd3a65ed2/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/321da991-f6fe-408e-b9f1-3f6921c19083/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260412223000 +0000" stop="20260412230000 +0000">
     <title lang="en">Reframe</title>
@@ -16050,9 +16085,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/bfa597ec-1eae-4f2b-a395-59d1ed72bfa2/cover"/>
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20260410175500 +0000" stop="20260410180000 +0000">
-    <title lang="en">Party Election Broadcasts: Reform UK</title>
+    <title lang="en">Party Election Broadcast by Reform UK</title>
     <desc lang="en">A party election broadcast by Reform UK, broadcast in Wales.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b6ff2c36-0a10-4cd1-8bde-d75c64d80b91/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/bc13af76-d795-4a10-b395-23c236662785/cover"/>
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20260410180000 +0000" stop="20260410183000 +0000">
     <title lang="en">Women's Six Nations Preview</title>
@@ -27084,7 +27119,7 @@
   </programme>
   <programme channel="CNNInternational.uk" start="20260411083000 +0000" stop="20260411090000 +0000">
     <title lang="en">CNN Creators</title>
-    <desc lang="en">Thursday, April 9, 2026 1130am ET.</desc>
+    <desc lang="en">Thursday, April 9, 2026 1130am ET. CNN Creators discuss the global disruption caused by the war with Iran, after six weeks of conflict.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e60f9198-8c22-488c-b7a9-8505efb9dd2f/cover"/>
   </programme>
   <programme channel="CNNInternational.uk" start="20260411090000 +0000" stop="20260411100000 +0000">
@@ -27130,7 +27165,7 @@
   </programme>
   <programme channel="CNNInternational.uk" start="20260411140000 +0000" stop="20260411143000 +0000">
     <title lang="en">CNN Creators</title>
-    <desc lang="en">Thursday, April 9, 2026 1130am ET.</desc>
+    <desc lang="en">Thursday, April 9, 2026 1130am ET. CNN Creators discuss the global disruption caused by the war with Iran, after six weeks of conflict.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2950173e-b62a-4f34-9133-ad0fac23a67a/cover"/>
   </programme>
   <programme channel="CNNInternational.uk" start="20260411143000 +0000" stop="20260411150000 +0000">
@@ -27190,7 +27225,7 @@
   </programme>
   <programme channel="CNNInternational.uk" start="20260411213000 +0000" stop="20260411220000 +0000">
     <title lang="en">CNN Creators</title>
-    <desc lang="en">Thursday, April 9, 2026 1130am ET.</desc>
+    <desc lang="en">Thursday, April 9, 2026 1130am ET. CNN Creators discuss the global disruption caused by the war with Iran, after six weeks of conflict.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7c385c45-2961-47cd-b663-31dd2b778791/cover"/>
   </programme>
   <programme channel="CNNInternational.uk" start="20260411220000 +0000" stop="20260411230000 +0000">
