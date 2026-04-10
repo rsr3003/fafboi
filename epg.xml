@@ -407,11 +407,6 @@
     <display-name lang="en">U&amp;Yesterday+1</display-name>
     <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/U%26YESTERDAYPlus1.png"></icon>
   </channel>
-  <programme channel="sky.main.uk" start="20260409130000 +0000" stop="20260409233000 +0000">
-    <title lang="en">Live Masters Round 1</title>
-    <desc lang="en">Round one of The Masters from Augusta National Golf Club. Last year, Rory McIlroy completed his masterpiece, defeating Justin Rose in a play-off to achieve the career Grand Slam.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b9ba8a9e-e2d8-4d40-9eca-25fec5b2cbcb/cover"/>
-  </programme>
   <programme channel="sky.main.uk" start="20260409233000 +0000" stop="20260410000000 +0000">
     <title lang="en">Sky Sports News</title>
     <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
@@ -471,12 +466,12 @@
   </programme>
   <programme channel="sky.main.uk" start="20260410090000 +0000" stop="20260410110000 +0000">
     <title lang="en">Live: ATP Monte Carlo</title>
-    <desc lang="en">Enjoy live action from the WTA and ATP Tours.</desc>
+    <desc lang="en">Breaking new ground in Monte-Carlo, Brazilian teenager Joao Fonseca enters his first Masters 1000 quarter-final, going up against German world number three Alexander Zverev.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/729a38cd-8d63-4bdf-9766-fbcfaebe0548/cover"/>
   </programme>
   <programme channel="sky.main.uk" start="20260410110000 +0000" stop="20260410130000 +0000">
     <title lang="en">Live: ATP Monte Carlo &amp; WTA Linz</title>
-    <desc lang="en">Enjoy live action from the WTA and ATP Tours.</desc>
+    <desc lang="en">Defending champion Carlos Alcaraz takes on Alexander Bublik as second seed Jannik Sinner encounters Felix Auger-Aliassime. Valentin Vacherot's historic run continues against Alex de Minaur.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/881592f3-5b99-4d1b-89f9-4070e6c8a3ec/cover"/>
   </programme>
   <programme channel="sky.main.uk" start="20260410130000 +0000" stop="20260410183000 +0000">
@@ -546,7 +541,7 @@
   </programme>
   <programme channel="sky.main.uk" start="20260411100000 +0000" stop="20260411140000 +0000">
     <title lang="en">Live EFL: Norwich City v Ipswich</title>
-    <desc lang="en">Norwich City play host to Ipswich Town at Carrow Road in the Sky Bet Championship.</desc>
+    <desc lang="en">Overseeing a remarkable recovery, Norwich boss Philippe Clement pits his in-form side up against East Anglian rivals, promotion-chasing Ipswich Town.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b90132ae-5ce2-4400-8090-99a5e246e307/cover"/>
   </programme>
   <programme channel="sky.main.uk" start="20260411140000 +0000" stop="20260411153000 +0000">
@@ -632,7 +627,7 @@
   </programme>
   <programme channel="sky.main.uk" start="20260412103000 +0000" stop="20260412120000 +0000">
     <title lang="en">Live EFL: Birmingham v Wrexham</title>
-    <desc lang="en">Birmingham City play host to Wrexham at St Andrew's in the Sky Bet Championship.</desc>
+    <desc lang="en">Put to the sword by play-off rivals Southampton earlier in the week, Wrexham look to mount a response here at St Andrew's against Birmingham in the Sky Bet Championship.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ecebcbe3-fd0e-48b0-95e8-735d2db17b5a/cover"/>
   </programme>
   <programme channel="sky.main.uk" start="20260412120000 +0000" stop="20260412152500 +0000">
@@ -959,7 +954,7 @@
   </programme>
   <programme channel="sky.premier.uk" start="20260411090000 +0000" stop="20260411100000 +0000">
     <title lang="en">New: Saturday Social - Live</title>
-    <desc lang="en">A fresh take on the beautiful game. Hear about football's hot topics on social media and look at footballers' lives off the pitch, with YouTubers, influencers and more giving their take.</desc>
+    <desc lang="en">Paul Machin and Dougie Critchley join Smithy and Joe this week. Plus, teenage Liverpool star Rio Ngumoha sits down for a Fan Q&amp;A, while Niko Omilana and Tobi Brown try to Beat the Clock.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9c1da860-6387-44cd-a745-4fc2cac03db7/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">2024.35.0</episode-num>
@@ -1457,7 +1452,7 @@
   </programme>
   <programme channel="sky.football.uk" start="20260410183000 +0000" stop="20260410213000 +0000">
     <title lang="en">Live EFL: West Brom v Millwall</title>
-    <desc lang="en">West Brom play host to Millwall at the Hawthorns in the Sky Bet Championship.</desc>
+    <desc lang="en">A chance for Millwall to bounce back from Easter Monday defeat as Alex Neil's men pay a visit to West Brom. A result here for the visitors would take them back up to second.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/443d137e-dd41-47d3-9863-d5076e7c75a3/cover"/>
   </programme>
   <programme channel="sky.football.uk" start="20260410213000 +0000" stop="20260410220000 +0000">
@@ -1527,7 +1522,7 @@
   </programme>
   <programme channel="sky.football.uk" start="20260411050000 +0000" stop="20260411051500 +0000">
     <title lang="en">EFL 25/26: West Brom v Millwall</title>
-    <desc lang="en">West Brom play host to Millwall at the Hawthorns in the Sky Bet Championship. (10.04)</desc>
+    <desc lang="en">A chance for Millwall to bounce back from Easter Monday defeat as Alex Neil's men pay a visit to West Brom. A result here for the visitors would take them back up to second. (10.04)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/51fe0cb6-438a-4f29-8757-0f76764f1fa7/cover"/>
   </programme>
   <programme channel="sky.football.uk" start="20260411051500 +0000" stop="20260411061500 +0000">
@@ -1547,7 +1542,7 @@
   </programme>
   <programme channel="sky.football.uk" start="20260411074500 +0000" stop="20260411080000 +0000">
     <title lang="en">EFL 25/26: West Brom v Millwall</title>
-    <desc lang="en">West Brom play host to Millwall at the Hawthorns in the Sky Bet Championship. (10.04)</desc>
+    <desc lang="en">A chance for Millwall to bounce back from Easter Monday defeat as Alex Neil's men pay a visit to West Brom. A result here for the visitors would take them back up to second. (10.04)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/51fe0cb6-438a-4f29-8757-0f76764f1fa7/cover"/>
   </programme>
   <programme channel="sky.football.uk" start="20260411080000 +0000" stop="20260411083000 +0000">
@@ -1562,7 +1557,7 @@
   </programme>
   <programme channel="sky.football.uk" start="20260411090000 +0000" stop="20260411100000 +0000">
     <title lang="en">New: Saturday Social - Live</title>
-    <desc lang="en">A fresh take on the beautiful game. Hear about football's hot topics on social media and look at footballers' lives off the pitch, with YouTubers, influencers and more giving their take.</desc>
+    <desc lang="en">Paul Machin and Dougie Critchley join Smithy and Joe this week. Plus, teenage Liverpool star Rio Ngumoha sits down for a Fan Q&amp;A, while Niko Omilana and Tobi Brown try to Beat the Clock.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9c1da860-6387-44cd-a745-4fc2cac03db7/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">2024.35.0</episode-num>
@@ -1570,7 +1565,7 @@
   </programme>
   <programme channel="sky.football.uk" start="20260411100000 +0000" stop="20260411140000 +0000">
     <title lang="en">Live EFL: Norwich City v Ipswich</title>
-    <desc lang="en">Norwich City play host to Ipswich Town at Carrow Road in the Sky Bet Championship.</desc>
+    <desc lang="en">Overseeing a remarkable recovery, Norwich boss Philippe Clement pits his in-form side up against East Anglian rivals, promotion-chasing Ipswich Town.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b90132ae-5ce2-4400-8090-99a5e246e307/cover"/>
   </programme>
   <programme channel="sky.football.uk" start="20260411140000 +0000" stop="20260411160000 +0000">
@@ -1585,12 +1580,12 @@
   </programme>
   <programme channel="sky.football.uk" start="20260411162000 +0000" stop="20260411183000 +0000">
     <title lang="en">Live B'Liga: St. Pauli v B. Munich</title>
-    <desc lang="en">Vincent Kompany's reigning Bundesliga champions Bayern Munich pay a visit to St. Pauli's Millerntor-Stadion.</desc>
+    <desc lang="en">Vincent Kompany's reigning champions Bayern Munich, unbeaten in 23 Bundesliga away games, pay a visit to St. Pauli's Millerntor-Stadion. Bayern come from a midweek win over Real Madrid.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/baa3f3f1-ff0f-42c8-a848-2173db1908fc/cover"/>
   </programme>
   <programme channel="sky.football.uk" start="20260411183000 +0000" stop="20260411203000 +0000">
     <title lang="en">EFL: Norwich City v Ipswich</title>
-    <desc lang="en">Norwich City play host to Ipswich Town at Carrow Road in the Sky Bet Championship.</desc>
+    <desc lang="en">Overseeing a remarkable recovery, Norwich boss Philippe Clement pits his in-form side up against East Anglian rivals, promotion-chasing Ipswich Town.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b90132ae-5ce2-4400-8090-99a5e246e307/cover"/>
   </programme>
   <programme channel="sky.football.uk" start="20260411203000 +0000" stop="20260411210000 +0000">
@@ -1605,12 +1600,12 @@
   </programme>
   <programme channel="sky.football.uk" start="20260411213000 +0000" stop="20260411214500 +0000">
     <title lang="en">EFL 25/26: West Brom v Millwall</title>
-    <desc lang="en">West Brom play host to Millwall at the Hawthorns in the Sky Bet Championship. (10.04)</desc>
+    <desc lang="en">A chance for Millwall to bounce back from Easter Monday defeat as Alex Neil's men pay a visit to West Brom. A result here for the visitors would take them back up to second. (10.04)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/51fe0cb6-438a-4f29-8757-0f76764f1fa7/cover"/>
   </programme>
   <programme channel="sky.football.uk" start="20260411214500 +0000" stop="20260411220000 +0000">
     <title lang="en">EFL 25/26: Norwich City v Ipswich</title>
-    <desc lang="en">Norwich City play host to Ipswich Town at Carrow Road in the Sky Bet Championship. (11.04)</desc>
+    <desc lang="en">Overseeing a remarkable recovery, Norwich boss Philippe Clement pits his in-form side up against East Anglian rivals, promotion-chasing Ipswich Town. (11.04)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/89b0dc01-421b-41ca-9027-6ae642139da2/cover"/>
   </programme>
   <programme channel="sky.football.uk" start="20260411220000 +0000" stop="20260411221500 +0000">
@@ -1665,12 +1660,12 @@
   </programme>
   <programme channel="sky.football.uk" start="20260412003000 +0000" stop="20260412004500 +0000">
     <title lang="en">EFL 25/26: West Brom v Millwall</title>
-    <desc lang="en">West Brom play host to Millwall at the Hawthorns in the Sky Bet Championship. (10.04)</desc>
+    <desc lang="en">A chance for Millwall to bounce back from Easter Monday defeat as Alex Neil's men pay a visit to West Brom. A result here for the visitors would take them back up to second. (10.04)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/51fe0cb6-438a-4f29-8757-0f76764f1fa7/cover"/>
   </programme>
   <programme channel="sky.football.uk" start="20260412004500 +0000" stop="20260412010000 +0000">
     <title lang="en">EFL 25/26: Norwich City v Ipswich</title>
-    <desc lang="en">Norwich City play host to Ipswich Town at Carrow Road in the Sky Bet Championship. (11.04)</desc>
+    <desc lang="en">Overseeing a remarkable recovery, Norwich boss Philippe Clement pits his in-form side up against East Anglian rivals, promotion-chasing Ipswich Town. (11.04)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/89b0dc01-421b-41ca-9027-6ae642139da2/cover"/>
   </programme>
   <programme channel="sky.football.uk" start="20260412010000 +0000" stop="20260412011500 +0000">
@@ -1765,12 +1760,12 @@
   </programme>
   <programme channel="sky.football.uk" start="20260412064500 +0000" stop="20260412070000 +0000">
     <title lang="en">EFL 25/26: West Brom v Millwall</title>
-    <desc lang="en">West Brom play host to Millwall at the Hawthorns in the Sky Bet Championship. (10.04)</desc>
+    <desc lang="en">A chance for Millwall to bounce back from Easter Monday defeat as Alex Neil's men pay a visit to West Brom. A result here for the visitors would take them back up to second. (10.04)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/51fe0cb6-438a-4f29-8757-0f76764f1fa7/cover"/>
   </programme>
   <programme channel="sky.football.uk" start="20260412070000 +0000" stop="20260412071500 +0000">
     <title lang="en">EFL 25/26: Norwich City v Ipswich</title>
-    <desc lang="en">Norwich City play host to Ipswich Town at Carrow Road in the Sky Bet Championship. (11.04)</desc>
+    <desc lang="en">Overseeing a remarkable recovery, Norwich boss Philippe Clement pits his in-form side up against East Anglian rivals, promotion-chasing Ipswich Town. (11.04)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/89b0dc01-421b-41ca-9027-6ae642139da2/cover"/>
   </programme>
   <programme channel="sky.football.uk" start="20260412071500 +0000" stop="20260412073000 +0000">
@@ -1820,7 +1815,7 @@
   </programme>
   <programme channel="sky.football.uk" start="20260412100000 +0000" stop="20260412133000 +0000">
     <title lang="en">Live SPFL: Falkirk v Rangers</title>
-    <desc lang="en">Falkirk and Rangers compete in a Scottish Premiership clash.</desc>
+    <desc lang="en">Danny Rohl's Rangers, who briefly occupied top spot in the Scottish Premiership last weekend, eye a fourth consecutive league win with a trip away to Falkirk.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/df5062e6-59ee-4c8a-86d2-6bbefe08afd5/cover"/>
   </programme>
   <programme channel="sky.football.uk" start="20260412133000 +0000" stop="20260412170000 +0000">
@@ -1835,12 +1830,12 @@
   </programme>
   <programme channel="sky.football.uk" start="20260412171500 +0000" stop="20260412173000 +0000">
     <title lang="en">EFL 25/26: West Brom v Millwall</title>
-    <desc lang="en">West Brom play host to Millwall at the Hawthorns in the Sky Bet Championship. (10.04)</desc>
+    <desc lang="en">A chance for Millwall to bounce back from Easter Monday defeat as Alex Neil's men pay a visit to West Brom. A result here for the visitors would take them back up to second. (10.04)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/51fe0cb6-438a-4f29-8757-0f76764f1fa7/cover"/>
   </programme>
   <programme channel="sky.football.uk" start="20260412173000 +0000" stop="20260412174500 +0000">
     <title lang="en">EFL 25/26: Norwich City v Ipswich</title>
-    <desc lang="en">Norwich City play host to Ipswich Town at Carrow Road in the Sky Bet Championship. (11.04)</desc>
+    <desc lang="en">Overseeing a remarkable recovery, Norwich boss Philippe Clement pits his in-form side up against East Anglian rivals, promotion-chasing Ipswich Town. (11.04)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/89b0dc01-421b-41ca-9027-6ae642139da2/cover"/>
   </programme>
   <programme channel="sky.football.uk" start="20260412174500 +0000" stop="20260412180000 +0000">
@@ -1870,7 +1865,7 @@
   </programme>
   <programme channel="sky.football.uk" start="20260412193000 +0000" stop="20260412194500 +0000">
     <title lang="en">SPFL 25/26: Falkirk v Rangers</title>
-    <desc lang="en">Falkirk play host to Rangers in the Scottish Premiership. (12.04)</desc>
+    <desc lang="en">Danny Rohl's Rangers, who briefly occupied top spot in the Scottish Premiership last weekend, eye a fourth consecutive league win with a trip away to Falkirk. (12.04)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/250f694e-5ee6-48a4-b641-35e2058c747c/cover"/>
   </programme>
   <programme channel="sky.football.uk" start="20260412194500 +0000" stop="20260412200000 +0000">
@@ -1967,17 +1962,17 @@
   </programme>
   <programme channel="sky.tennis.uk" start="20260410090000 +0000" stop="20260410110000 +0000">
     <title lang="en">Live: ATP Monte Carlo</title>
-    <desc lang="en">Enjoy live action from the WTA and ATP Tours.</desc>
+    <desc lang="en">Breaking new ground in Monte-Carlo, Brazilian teenager Joao Fonseca enters his first Masters 1000 quarter-final, going up against German world number three Alexander Zverev.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/729a38cd-8d63-4bdf-9766-fbcfaebe0548/cover"/>
   </programme>
   <programme channel="sky.tennis.uk" start="20260410110000 +0000" stop="20260410170000 +0000">
     <title lang="en">Live: ATP Monte Carlo &amp; WTA Linz</title>
-    <desc lang="en">Enjoy live action from the WTA and ATP Tours.</desc>
+    <desc lang="en">Defending champion Carlos Alcaraz takes on Alexander Bublik as second seed Jannik Sinner encounters Felix Auger-Aliassime. Valentin Vacherot's historic run continues against Alex de Minaur.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/881592f3-5b99-4d1b-89f9-4070e6c8a3ec/cover"/>
   </programme>
   <programme channel="sky.tennis.uk" start="20260410170000 +0000" stop="20260410190000 +0000">
     <title lang="en">Live: WTA Linz</title>
-    <desc lang="en">Enjoy live action from the WTA and ATP Tours.</desc>
+    <desc lang="en">Former world number one Karolína Pliskova continues in Linz following her first top-20 win in nearly two years, taking on Croatia's Donna Vekic in the quarter-finals.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/29b33c10-8d2c-42a4-aad8-1f241a77166e/cover"/>
   </programme>
   <programme channel="sky.tennis.uk" start="20260410190000 +0000" stop="20260410193000 +0000">
@@ -3113,18 +3108,18 @@
   </programme>
   <programme channel="sky.racing.uk" start="20260411010000 +0000" stop="20260411050000 +0000">
     <title lang="en">Australian Racing Live</title>
-    <desc lang="en">Live Australian racing from Newcastle, Randwick and Doomben.</desc>
+    <desc lang="en">Live Australian racing from Cauldfield, Randwick and Doomben.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/89fb5b4b-b387-4209-8ad8-29f9fd37d8b0/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20260411050000 +0000" stop="20260411071500 +0000">
+  <programme channel="sky.racing.uk" start="20260411050000 +0000" stop="20260411073000 +0000">
     <title lang="en">Australian Racing Live</title>
-    <desc lang="en">Live Australian racing from Newcastle, Randwick and Doomben.</desc>
+    <desc lang="en">Live Australian racing from Cauldfield, Randwick and Doomben.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/89fb5b4b-b387-4209-8ad8-29f9fd37d8b0/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20260411071500 +0000" stop="20260411074500 +0000">
-    <title lang="en">Racing To Win</title>
-    <desc lang="en">The latest in the series a comprehensive preview show for Hong Kong racing. With form analysis trackwork highlights and interviews an expert team of presenters will also provide their selections.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/966571f5-5e0b-42f6-90ba-014512c426e5/cover"/>
+  <programme channel="sky.racing.uk" start="20260411073000 +0000" stop="20260411074500 +0000">
+    <title lang="en">British Racing: Welfare Commitment</title>
+    <desc lang="en">Alex Hammond visits Newbury Racecourse and Lambourn Training Grounds to find out what measures British Racing is implementing to help improve horse welfare.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/52a54f99-3c8a-3f89-9525-737d68b874eb/cover"/>
   </programme>
   <programme channel="sky.racing.uk" start="20260411074500 +0000" stop="20260411080000 +0000">
     <title lang="en">Unbridled With Matt And Paddy</title>
@@ -3162,7 +3157,7 @@
   </programme>
   <programme channel="sky.racing.uk" start="20260412010000 +0000" stop="20260412041500 +0000">
     <title lang="en">Australian Racing Live</title>
-    <desc lang="en">Live Australian racing from Gundagai, Wellington and Sunshine Coast.</desc>
+    <desc lang="en">Live Australian racing from Hobart,Gundagai, Wellington, Terang, Swan Hill, Port Augusta and Sunshine Coast.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ebe19cf5-0a75-42f2-90e9-5f7c6cc9216c/cover"/>
   </programme>
   <programme channel="sky.racing.uk" start="20260412041500 +0000" stop="20260412050000 +0000">
@@ -3175,20 +3170,25 @@
     <desc lang="en">Live racing action from Sha Tin.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/94b2a55e-4f86-4074-8318-727dab49139a/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20260412100000 +0000" stop="20260412130000 +0000">
+  <programme channel="sky.racing.uk" start="20260412100000 +0000" stop="20260412124500 +0000">
     <title lang="en">International Raceday Live</title>
     <desc lang="en">Live international racing from Sha Tin and Parislongchamp as well as selected greyhound racing. A look ahead to this afternoon's UK racing.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7e88c22d-871f-4896-ac81-5cc79f6cfe38/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20260412130000 +0000" stop="20260412170000 +0000">
+  <programme channel="sky.racing.uk" start="20260412124500 +0000" stop="20260412170000 +0000">
     <title lang="en">Raceday Live</title>
     <desc lang="en">Live Racing: Katherine Ford brings you Group action from ParisLongchamp headlined by the G3 Prix De La Grotte and G3 Prix Noailles. Jumps racing from Ffos Las with Zoey Bird.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c918d334-906c-4a79-814d-22071bb17d46/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20260412170000 +0000" stop="20260413010000 +0000">
+  <programme channel="sky.racing.uk" start="20260412170000 +0000" stop="20260412221500 +0000">
     <title lang="en">Stateside Live</title>
     <desc lang="en">Live US racing from Aqueduct, Keeneland, Gulfstream, Oaklawn, Laurel Park, Tampa, Hawthorne and Mountaineer.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4e8a8f1d-cdc7-4552-a9ee-e59eca5f2f29/cover"/>
+  </programme>
+  <programme channel="sky.racing.uk" start="20260412221500 +0000" stop="20260412230000 +0000">
+    <title lang="en">Chester Williams: Recovery Road</title>
+    <desc lang="en">It's been a fast start to the training ranks for Chester Williams, but life has been a journey of recovery in recent years - battling bereavement and serious injury to make it to where he is today.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/afd4b61d-5543-44b8-bf16-dbbebc79f487/cover"/>
   </programme>
   <programme channel="sky.mix.uk" start="20260409210000 +0000" stop="20260409220000 +0000">
     <title lang="en">IPL 2026 Highlights</title>
@@ -3761,7 +3761,7 @@
   </programme>
   <programme channel="sky.cricket.uk" start="20260410135000 +0000" stop="20260410180000 +0000">
     <title lang="en">Live IPL Rajasthan.R v RC.Bengaluru</title>
-    <desc lang="en">Rajasthan Royals face Royal Challengers Bengaluru in the IPL.</desc>
+    <desc lang="en">In a battle for top spot, Rajasthan Royals face Royal Challengers Bengaluru in the IPL. Whose unbeaten start will fall here in Guwahati?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c9a8ca57-328a-49df-8f5d-99fd28a34036/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20260410180000 +0000" stop="20260410181500 +0000">
@@ -3791,7 +3791,7 @@
   </programme>
   <programme channel="sky.cricket.uk" start="20260410200000 +0000" stop="20260410210000 +0000">
     <title lang="en">IPL Rajasthan.R v RC.Bengaluru Hlts</title>
-    <desc lang="en">Rajasthan Royals face Royal Challengers Bengaluru in the IPL. (10.04)</desc>
+    <desc lang="en">In a battle for top spot, Rajasthan Royals face Royal Challengers Bengaluru in the IPL. Whose unbeaten start will fall here in Guwahati? (10.04)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d3b1fda7-adcd-49f0-b354-e60fc3471998/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20260410210000 +0000" stop="20260410220000 +0000">
@@ -3801,7 +3801,7 @@
   </programme>
   <programme channel="sky.cricket.uk" start="20260410220000 +0000" stop="20260410230000 +0000">
     <title lang="en">IPL Rajasthan.R v RC.Bengaluru Hlts</title>
-    <desc lang="en">Rajasthan Royals face Royal Challengers Bengaluru in the IPL. (10.04)</desc>
+    <desc lang="en">In a battle for top spot, Rajasthan Royals face Royal Challengers Bengaluru in the IPL. Whose unbeaten start will fall here in Guwahati? (10.04)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d3b1fda7-adcd-49f0-b354-e60fc3471998/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20260410230000 +0000" stop="20260410231500 +0000">
@@ -3816,7 +3816,7 @@
   </programme>
   <programme channel="sky.cricket.uk" start="20260410233000 +0000" stop="20260411034500 +0000">
     <title lang="en">IPL Rajasthan.R v RCB</title>
-    <desc lang="en">Rajasthan Royals face Royal Challengers Bengaluru in the IPL.</desc>
+    <desc lang="en">In a battle for top spot, Rajasthan Royals face Royal Challengers Bengaluru in the IPL. Whose unbeaten start will fall here in Guwahati?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c9a8ca57-328a-49df-8f5d-99fd28a34036/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20260411034500 +0000" stop="20260411040000 +0000">
@@ -3866,7 +3866,7 @@
   </programme>
   <programme channel="sky.cricket.uk" start="20260411085500 +0000" stop="20260411095000 +0000">
     <title lang="en">IPL Rajasthan.R v RC.Bengaluru Hlts</title>
-    <desc lang="en">Rajasthan Royals face Royal Challengers Bengaluru in the IPL. (10.04)</desc>
+    <desc lang="en">In a battle for top spot, Rajasthan Royals face Royal Challengers Bengaluru in the IPL. Whose unbeaten start will fall here in Guwahati? (10.04)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d3b1fda7-adcd-49f0-b354-e60fc3471998/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20260411095000 +0000" stop="20260411135000 +0000">
@@ -3971,7 +3971,7 @@
   </programme>
   <programme channel="sky.cricket.uk" start="20260412070000 +0000" stop="20260412080000 +0000">
     <title lang="en">IPL Rajasthan.R v RC.Bengaluru Hlts</title>
-    <desc lang="en">Rajasthan Royals face Royal Challengers Bengaluru in the IPL. (10.04)</desc>
+    <desc lang="en">In a battle for top spot, Rajasthan Royals face Royal Challengers Bengaluru in the IPL. Whose unbeaten start will fall here in Guwahati? (10.04)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d3b1fda7-adcd-49f0-b354-e60fc3471998/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20260412080000 +0000" stop="20260412085500 +0000">
@@ -5673,11 +5673,9 @@
     <episode-num system="onscreen">S34E5</episode-num>
   </programme>
   <programme channel="4seven.uk" start="20260410210000 +0000" stop="20260410220500 +0000">
-    <title lang="en">24 Hours in A&amp;E</title>
-    <desc lang="en">A stressed 76-year-old is rushed to St George's with a deep head cut. And a mother remembers learning to love the colour of her skin after suffering racial abuse growing up.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b072a4a4-43a2-4ba8-a256-83d125675ce2/cover"/>
-    <episode-num system="xmltv_ns">23.2.0</episode-num>
-    <episode-num system="onscreen">S24E3</episode-num>
+    <title lang="en">Emergency Helicopter Medics</title>
+    <desc lang="en">Headteacher Andy has had a cardiac arrest. Rob's trapped under a pallet of granite in Ipswich. Thirteen-week pregnant Katie's having seizures and the air medics are on their way.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8529487c-1218-40cf-a6de-0f47413ede54/cover"/>
   </programme>
   <programme channel="4seven.uk" start="20260410220500 +0000" stop="20260410230500 +0000">
     <title lang="en">Gogglebox</title>
@@ -5879,11 +5877,9 @@
     <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="4seven.uk" start="20260412023500 +0000" stop="20260412033000 +0000">
-    <title lang="en">24 Hours in A&amp;E</title>
-    <desc lang="en">A stressed 76-year-old is rushed to St George's with a deep head cut. And a mother remembers learning to love the colour of her skin after suffering racial abuse growing up.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b072a4a4-43a2-4ba8-a256-83d125675ce2/cover"/>
-    <episode-num system="xmltv_ns">23.2.0</episode-num>
-    <episode-num system="onscreen">S24E3</episode-num>
+    <title lang="en">Emergency Helicopter Medics</title>
+    <desc lang="en">Headteacher Andy has had a cardiac arrest. Rob's trapped under a pallet of granite in Ipswich. Thirteen-week pregnant Katie's having seizures and the air medics are on their way.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1dcf6b7e-cff9-44f9-89b1-2fce8182cc9f/cover"/>
   </programme>
   <programme channel="4seven.uk" start="20260412033000 +0000" stop="20260412040000 +0000">
     <title lang="en">Devon and Cornwall</title>
@@ -9060,47 +9056,25 @@
     <episode-num system="xmltv_ns">20.98.0</episode-num>
     <episode-num system="onscreen">S21E99</episode-num>
   </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260410060000 +0000" stop="20260410063000 +0000">
-    <title lang="en">News Live</title>
-    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/25d4ab21-d9c9-44c0-91b7-e550ee56775c/cover"/>
-  </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260410063000 +0000" stop="20260410070000 +0000">
-    <title lang="en">Reframe</title>
-    <desc lang="en">Emily Feng: Do China's violations of human rights extend beyond its borders &amp; represent a threat on a global scale? Kenneth Roth interviews journalist &amp; author Emily Feng.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/2c51350a-951a-413d-acc9-79e235264e76/cover"/>
-  </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260410070000 +0000" stop="20260410073000 +0000">
-    <title lang="en">News Live</title>
-    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/25d4ab21-d9c9-44c0-91b7-e550ee56775c/cover"/>
-  </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260410073000 +0000" stop="20260410080000 +0000">
-    <title lang="en">The Global Population Bust</title>
-    <desc lang="en">Baby Boomers: As birthrates crash worldwide, the hidden forces reshaping family, fertility, and the future of humanity are explored.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b9244128-8296-48de-bbeb-8e2e8bed4f8d/cover"/>
-  </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260410080000 +0000" stop="20260410083000 +0000">
+  <programme channel="AlJazeeraEnglish.qa" start="20260410060000 +0000" stop="20260410070000 +0000">
     <title lang="en">Newshour</title>
-    <desc lang="en">V1 1part Live: Latest news and in-depth analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/933e240c-c80e-4f04-a956-2427706a2059/cover"/>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/20ed435e-ba3b-4653-b43c-ffba60d0a3ee/cover"/>
   </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260410083000 +0000" stop="20260410090000 +0000">
-    <title lang="en">Talk to Al Jazeera</title>
-    <desc lang="en">David Keen: If war isn't meant to end, who benefits? A conflict expert on power, profit and the systems driving the US-Israel war on Iran.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/03b9fe12-d632-4237-a2a2-75c8f9096c6f/cover"/>
+  <programme channel="AlJazeeraEnglish.qa" start="20260410070000 +0000" stop="20260410080000 +0000">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1b0b421d-ec41-47ea-96b7-7ba47f4399d9/cover"/>
   </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260410090000 +0000" stop="20260410093000 +0000">
-    <title lang="en">News Live</title>
-    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/25d4ab21-d9c9-44c0-91b7-e550ee56775c/cover"/>
+  <programme channel="AlJazeeraEnglish.qa" start="20260410080000 +0000" stop="20260410090000 +0000">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/fb7fe8a5-d3a6-468a-bec4-83f0d989cdc6/cover"/>
   </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260410093000 +0000" stop="20260410100000 +0000">
-    <title lang="en">101 East</title>
-    <desc lang="en">Reef Rescue: 101 East investigates if the small Micronesian nation of Palau could hold the key to saving the world's coral reefs from climate-induced destruction.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/2d153c2c-0930-4434-a913-43ccede5231c/cover"/>
-    <episode-num system="xmltv_ns">2025.4.0</episode-num>
-    <episode-num system="onscreen">S2026E5</episode-num>
+  <programme channel="AlJazeeraEnglish.qa" start="20260410090000 +0000" stop="20260410100000 +0000">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6dfac805-6386-49e7-a35d-7594ca6116b2/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260410100000 +0000" stop="20260410110000 +0000">
     <title lang="en">Newshour</title>
@@ -9119,42 +9093,35 @@
     <episode-num system="xmltv_ns">20.98.0</episode-num>
     <episode-num system="onscreen">S21E99</episode-num>
   </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260410120000 +0000" stop="20260410130000 +0000">
-    <title lang="en">Global Warning</title>
-    <desc lang="en">Into the Storm: The escalating effects of climate change - extreme weather, melting of the ice sheet, rising sea levels and disruption to ocean currents in the Atlantic Ocean.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f130df1b-8077-4fa9-89ed-69a63a79ffa6/cover"/>
+  <programme channel="AlJazeeraEnglish.qa" start="20260410120000 +0000" stop="20260410123700 +0000">
+    <title lang="en">News Live</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/25d4ab21-d9c9-44c0-91b7-e550ee56775c/cover"/>
+  </programme>
+  <programme channel="AlJazeeraEnglish.qa" start="20260410123700 +0000" stop="20260410130000 +0000">
+    <title lang="en">Talk to Al Jazeera</title>
+    <desc lang="en">Ep.465 Zohran Mamdani: New York City's mayor reflects on his first 100 days in office, from childcare to affordability, bigotry, war and the future of Democrats.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/19ebc567-458e-4054-8644-55985c217204/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260410130000 +0000" stop="20260410140000 +0000">
     <title lang="en">Newshour</title>
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0d5e0bf8-ead5-4c66-a0a2-543eb1d45960/cover"/>
   </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260410140000 +0000" stop="20260410143000 +0000">
-    <title lang="en">News Live</title>
-    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/933e240c-c80e-4f04-a956-2427706a2059/cover"/>
-  </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260410143000 +0000" stop="20260410150000 +0000">
-    <title lang="en">The Stream</title>
-    <desc lang="en">Ep.25 Powered by social media, The Stream brings fresh perspectives and new voices, beyond the headlines.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/4f4d4bec-6d17-4d20-b807-1efa316da748/cover"/>
-    <episode-num system="xmltv_ns">2025.24.0</episode-num>
-    <episode-num system="onscreen">S2026E25</episode-num>
+  <programme channel="AlJazeeraEnglish.qa" start="20260410140000 +0000" stop="20260410150000 +0000">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3c6fb5f5-acf8-47c3-9434-c34856517634/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260410150000 +0000" stop="20260410160000 +0000">
     <title lang="en">Newshour</title>
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0d5e0bf8-ead5-4c66-a0a2-543eb1d45960/cover"/>
   </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260410160000 +0000" stop="20260410163000 +0000">
-    <title lang="en">News Live</title>
-    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/933e240c-c80e-4f04-a956-2427706a2059/cover"/>
-  </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260410163000 +0000" stop="20260410170000 +0000">
-    <title lang="en">Witness</title>
-    <desc lang="en">06042026: Inspirational and provocative stories providing a fresh and informative insight into the world's key events as they impact on the lives of ordinary people.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/5978211d-6070-4376-81c9-f1c8ba2a8d51/cover"/>
+  <programme channel="AlJazeeraEnglish.qa" start="20260410160000 +0000" stop="20260410170000 +0000">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/c289b5b6-7fea-4ffd-9b91-f60f05743463/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260410170000 +0000" stop="20260410173000 +0000">
     <title lang="en">News Live</title>
@@ -9184,9 +9151,9 @@
     <episode-num system="onscreen">S2026E10</episode-num>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260410200000 +0000" stop="20260410210000 +0000">
-    <title lang="en">Al Jazeera World</title>
-    <desc lang="en">Ep.404 06042026: A series of one-hour documentaries showcasing films from across the Al Jazeera Network.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/96ca59e3-4bf6-4e7a-ad02-b4509e1425ac/cover"/>
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/94898e93-5d2f-4c99-ae40-205881bf7684/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260410210000 +0000" stop="20260410220000 +0000">
     <title lang="en">Newshour</title>
@@ -9219,31 +9186,24 @@
     <icon src="https://images.metadata.sky.com/pd-image/1ddaa605-a58c-42b6-a267-c6db40018953/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260411010000 +0000" stop="20260411020000 +0000">
-    <title lang="en">Global Warning</title>
-    <desc lang="en">Into the Storm: The escalating effects of climate change - extreme weather, melting of the ice sheet, rising sea levels and disruption to ocean currents in the Atlantic Ocean.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f130df1b-8077-4fa9-89ed-69a63a79ffa6/cover"/>
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/293d12d1-9da1-47df-bf0e-ddb990f0dfba/cover"/>
   </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260411020000 +0000" stop="20260411023000 +0000">
-    <title lang="en">News Live</title>
-    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0f0abc8e-55d2-4370-b2c5-8397b5ea0677/cover"/>
-  </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260411023000 +0000" stop="20260411030000 +0000">
-    <title lang="en">The Global Population Bust</title>
-    <desc lang="en">Baby Boomers: As birthrates crash worldwide, the hidden forces reshaping family, fertility, and the future of humanity are explored.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b9244128-8296-48de-bbeb-8e2e8bed4f8d/cover"/>
-  </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260411030000 +0000" stop="20260411033000 +0000">
+  <programme channel="AlJazeeraEnglish.qa" start="20260411020000 +0000" stop="20260411023700 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/933e240c-c80e-4f04-a956-2427706a2059/cover"/>
   </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260411033000 +0000" stop="20260411040000 +0000">
-    <title lang="en">101 East</title>
-    <desc lang="en">Reef Rescue: 101 East investigates if the small Micronesian nation of Palau could hold the key to saving the world's coral reefs from climate-induced destruction.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/2d153c2c-0930-4434-a913-43ccede5231c/cover"/>
-    <episode-num system="xmltv_ns">2025.4.0</episode-num>
-    <episode-num system="onscreen">S2026E5</episode-num>
+  <programme channel="AlJazeeraEnglish.qa" start="20260411023700 +0000" stop="20260411030000 +0000">
+    <title lang="en">Talk to Al Jazeera</title>
+    <desc lang="en">Ep.465 Zohran Mamdani: New York City's mayor reflects on his first 100 days in office, from childcare to affordability, bigotry, war and the future of Democrats.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/34b57cb5-c809-476b-8570-373c69453c12/cover"/>
+  </programme>
+  <programme channel="AlJazeeraEnglish.qa" start="20260411030000 +0000" stop="20260411040000 +0000">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1f8cc63a-d1c3-4e68-89ad-4669c5048b21/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260411040000 +0000" stop="20260411043000 +0000">
     <title lang="en">News Live</title>
@@ -9267,37 +9227,20 @@
     <desc lang="en">Ep.100 Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b132c645-2026-4b69-8925-bacef8caed83/cover"/>
   </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260411060000 +0000" stop="20260411063000 +0000">
-    <title lang="en">News Live</title>
-    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/933e240c-c80e-4f04-a956-2427706a2059/cover"/>
+  <programme channel="AlJazeeraEnglish.qa" start="20260411060000 +0000" stop="20260411070000 +0000">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/72858470-b7f9-4862-81f7-a2cbbaf54e7e/cover"/>
   </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260411063000 +0000" stop="20260411070000 +0000">
-    <title lang="en">Witness</title>
-    <desc lang="en">06042026: Inspirational and provocative stories providing a fresh and informative insight into the world's key events as they impact on the lives of ordinary people.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/5978211d-6070-4376-81c9-f1c8ba2a8d51/cover"/>
+  <programme channel="AlJazeeraEnglish.qa" start="20260411070000 +0000" stop="20260411080000 +0000">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/98aacbf3-60bb-4006-94da-efdd03c7a474/cover"/>
   </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260411070000 +0000" stop="20260411073000 +0000">
-    <title lang="en">News Live</title>
-    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/933e240c-c80e-4f04-a956-2427706a2059/cover"/>
-  </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260411073000 +0000" stop="20260411080000 +0000">
-    <title lang="en">People and Power</title>
-    <desc lang="en">06042026: Investigative documentary series examining the use and abuse of power.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/8d18f87c-94a4-4ce7-a000-7129db522d16/cover"/>
-  </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260411080000 +0000" stop="20260411083000 +0000">
-    <title lang="en">News Live</title>
-    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0f0abc8e-55d2-4370-b2c5-8397b5ea0677/cover"/>
-  </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260411083000 +0000" stop="20260411090000 +0000">
-    <title lang="en">The Stream</title>
-    <desc lang="en">Ep.25 Powered by social media, The Stream brings fresh perspectives and new voices, beyond the headlines.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/4f4d4bec-6d17-4d20-b807-1efa316da748/cover"/>
-    <episode-num system="xmltv_ns">2025.24.0</episode-num>
-    <episode-num system="onscreen">S2026E25</episode-num>
+  <programme channel="AlJazeeraEnglish.qa" start="20260411080000 +0000" stop="20260411090000 +0000">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/543a5669-9d83-43c4-a0a2-92d1884bd154/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260411090000 +0000" stop="20260411093000 +0000">
     <title lang="en">News Live</title>
@@ -9327,9 +9270,9 @@
     <episode-num system="onscreen">S21E100</episode-num>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260411120000 +0000" stop="20260411130000 +0000">
-    <title lang="en">Al Jazeera World</title>
-    <desc lang="en">Ep.404 06042026: A series of one-hour documentaries showcasing films from across the Al Jazeera Network.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/96ca59e3-4bf6-4e7a-ad02-b4509e1425ac/cover"/>
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7b86b521-b00a-4aaf-bd9c-300e39b619a2/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260411130000 +0000" stop="20260411140000 +0000">
     <title lang="en">Newshour</title>
@@ -9353,15 +9296,10 @@
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1ddaa605-a58c-42b6-a267-c6db40018953/cover"/>
   </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260411160000 +0000" stop="20260411163000 +0000">
-    <title lang="en">News Live</title>
-    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0f0abc8e-55d2-4370-b2c5-8397b5ea0677/cover"/>
-  </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260411163000 +0000" stop="20260411170000 +0000">
-    <title lang="en">The Global Population Bust</title>
-    <desc lang="en">Baby Boomers: As birthrates crash worldwide, the hidden forces reshaping family, fertility, and the future of humanity are explored.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b9244128-8296-48de-bbeb-8e2e8bed4f8d/cover"/>
+  <programme channel="AlJazeeraEnglish.qa" start="20260411160000 +0000" stop="20260411170000 +0000">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/aeedb407-69d7-4cbd-8198-2efee240479c/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260411170000 +0000" stop="20260411173000 +0000">
     <title lang="en">News Live</title>
@@ -9393,9 +9331,9 @@
     <episode-num system="onscreen">S2026E15</episode-num>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260411200000 +0000" stop="20260411210000 +0000">
-    <title lang="en">Witness</title>
-    <desc lang="en">My Maysoon: Batoul Karbijha decides to make a film about her disappeared sister to find out what happened and as a way of dealing with the pain of her loss.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d0060822-c36b-3819-8edf-e1854fb8e154/cover"/>
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/283708ed-806e-4095-88f0-3cd7f9b46cd4/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260411210000 +0000" stop="20260411220000 +0000">
     <title lang="en">Newshour</title>
@@ -9432,21 +9370,14 @@
     <icon src="https://images.metadata.sky.com/pd-image/1ddaa605-a58c-42b6-a267-c6db40018953/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260412010000 +0000" stop="20260412020000 +0000">
-    <title lang="en">Al Jazeera World</title>
-    <desc lang="en">Ep.404 06042026: A series of one-hour documentaries showcasing films from across the Al Jazeera Network.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/96ca59e3-4bf6-4e7a-ad02-b4509e1425ac/cover"/>
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7e9c7695-4242-4193-a751-5768ae257dbb/cover"/>
   </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260412020000 +0000" stop="20260412023000 +0000">
-    <title lang="en">News Live</title>
-    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/321da991-f6fe-408e-b9f1-3f6921c19083/cover"/>
-  </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260412023000 +0000" stop="20260412030000 +0000">
-    <title lang="en">The Stream</title>
-    <desc lang="en">Ep.25 Powered by social media, The Stream brings fresh perspectives and new voices, beyond the headlines.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/4f4d4bec-6d17-4d20-b807-1efa316da748/cover"/>
-    <episode-num system="xmltv_ns">2025.24.0</episode-num>
-    <episode-num system="onscreen">S2026E25</episode-num>
+  <programme channel="AlJazeeraEnglish.qa" start="20260412020000 +0000" stop="20260412030000 +0000">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/08fc50d9-d6ad-46d6-b085-a8124054deb8/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260412030000 +0000" stop="20260412033000 +0000">
     <title lang="en">News Live</title>
@@ -9482,27 +9413,15 @@
     <episode-num system="xmltv_ns">21.100.0</episode-num>
     <episode-num system="onscreen">S22E101</episode-num>
   </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260412060000 +0000" stop="20260412063000 +0000">
-    <title lang="en">News Live</title>
-    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/321da991-f6fe-408e-b9f1-3f6921c19083/cover"/>
+  <programme channel="AlJazeeraEnglish.qa" start="20260412060000 +0000" stop="20260412070000 +0000">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/eb59a7ad-ae3d-4e53-8447-6ea138f65077/cover"/>
   </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260412063000 +0000" stop="20260412070000 +0000">
-    <title lang="en">The Global Population Bust</title>
-    <desc lang="en">Baby Boomers: As birthrates crash worldwide, the hidden forces reshaping family, fertility, and the future of humanity are explored.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b9244128-8296-48de-bbeb-8e2e8bed4f8d/cover"/>
-  </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260412070000 +0000" stop="20260412073000 +0000">
-    <title lang="en">News Live</title>
-    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/321da991-f6fe-408e-b9f1-3f6921c19083/cover"/>
-  </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260412073000 +0000" stop="20260412080000 +0000">
-    <title lang="en">101 East</title>
-    <desc lang="en">Reef Rescue: 101 East investigates if the small Micronesian nation of Palau could hold the key to saving the world's coral reefs from climate-induced destruction.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/2d153c2c-0930-4434-a913-43ccede5231c/cover"/>
-    <episode-num system="xmltv_ns">2025.4.0</episode-num>
-    <episode-num system="onscreen">S2026E5</episode-num>
+  <programme channel="AlJazeeraEnglish.qa" start="20260412070000 +0000" stop="20260412080000 +0000">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/b00cdb32-3d73-4c7f-923b-62437bcb41b9/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260412080000 +0000" stop="20260412083000 +0000">
     <title lang="en">News Live</title>
@@ -9544,9 +9463,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/bf156136-94e6-49f7-809e-6ffee0ecdd77/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260412120000 +0000" stop="20260412130000 +0000">
-    <title lang="en">Witness</title>
-    <desc lang="en">My Maysoon: Batoul Karbijha decides to make a film about her disappeared sister to find out what happened and as a way of dealing with the pain of her loss.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d0060822-c36b-3819-8edf-e1854fb8e154/cover"/>
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/dd0a983e-306b-4898-a963-00ee40889327/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260412130000 +0000" stop="20260412140000 +0000">
     <title lang="en">Newshour</title>
@@ -9570,15 +9489,10 @@
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5696f455-ad61-4ef3-9193-5062e9e15e3b/cover"/>
   </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260412160000 +0000" stop="20260412163000 +0000">
-    <title lang="en">News Live</title>
-    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/321da991-f6fe-408e-b9f1-3f6921c19083/cover"/>
-  </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260412163000 +0000" stop="20260412170000 +0000">
-    <title lang="en">People and Power</title>
-    <desc lang="en">06042026: Investigative documentary series examining the use and abuse of power.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/8d18f87c-94a4-4ce7-a000-7129db522d16/cover"/>
+  <programme channel="AlJazeeraEnglish.qa" start="20260412160000 +0000" stop="20260412170000 +0000">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/353d8b7f-2e5e-485d-919d-ea12172dace9/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260412170000 +0000" stop="20260412173000 +0000">
     <title lang="en">News Live</title>
@@ -9602,28 +9516,23 @@
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260412193000 +0000" stop="20260412200000 +0000">
     <title lang="en">Talk to Al Jazeera</title>
-    <desc lang="en">Ep.464 06042026: One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <desc lang="en">Ep.465 Zohran Mamdani: New York City's mayor reflects on his first 100 days in office, from childcare to affordability, bigotry, war and the future of Democrats.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/03b9fe12-d632-4237-a2a2-75c8f9096c6f/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260412200000 +0000" stop="20260412210000 +0000">
-    <title lang="en">Global Warning</title>
-    <desc lang="en">Into the Storm: The escalating effects of climate change - extreme weather, melting of the ice sheet, rising sea levels and disruption to ocean currents in the Atlantic Ocean.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f130df1b-8077-4fa9-89ed-69a63a79ffa6/cover"/>
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/806b4c5e-8a52-47c2-bd80-b800aa116caf/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260412210000 +0000" stop="20260412220000 +0000">
     <title lang="en">Newshour</title>
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5696f455-ad61-4ef3-9193-5062e9e15e3b/cover"/>
   </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260412220000 +0000" stop="20260412223000 +0000">
-    <title lang="en">News Live</title>
-    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/321da991-f6fe-408e-b9f1-3f6921c19083/cover"/>
-  </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260412223000 +0000" stop="20260412230000 +0000">
-    <title lang="en">Reframe</title>
-    <desc lang="en">Silvia Fernandez: Will the International Criminal Court see a greater or more diminished role in the future? Kenneth Roth interviews former ICC President Silvia Fernandez.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/50551302-09cc-4346-883a-d1501da95745/cover"/>
+  <programme channel="AlJazeeraEnglish.qa" start="20260412220000 +0000" stop="20260412230000 +0000">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/dde068ec-0356-41bc-b897-29cc96b4ce76/cover"/>
   </programme>
   <programme channel="BBCAlba.uk" start="20260409213000 +0000" stop="20260409223000 +0000">
     <title lang="en">Around Scotland: Hebrides</title>
@@ -9853,19 +9762,19 @@
     <episode-num system="xmltv_ns">0.7.0</episode-num>
     <episode-num system="onscreen">S1E8</episode-num>
   </programme>
-  <programme channel="BBCAlba.uk" start="20260411193000 +0000" stop="20260411200000 +0000">
+  <programme channel="BBCAlba.uk" start="20260411193000 +0000" stop="20260411195500 +0000">
     <title lang="en">Immigration Tracks - Canada, le Anne NicAilpein</title>
     <desc lang="en">2/7. The journey continues to Nova Scotia via a vineyard on the edge of the Bras d'Or Lake.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3cfbbc66-69e9-3887-a3e3-898a747c039d/cover"/>
     <episode-num system="xmltv_ns">0.1.0</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
   </programme>
-  <programme channel="BBCAlba.uk" start="20260411200000 +0000" stop="20260411210000 +0000">
+  <programme channel="BBCAlba.uk" start="20260411195500 +0000" stop="20260411205500 +0000">
     <title lang="en">Cuirm@Celtic Connections: Niteworks &amp; The BBC SSO</title>
     <desc lang="en">1/3. Niteworks and The BBC SSO collaborate in a performance at Glasgow Royal Concert Hall.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f6fb1294-ce31-4f5f-87cb-d9f2c4092945/cover"/>
   </programme>
-  <programme channel="BBCAlba.uk" start="20260411210000 +0000" stop="20260411215000 +0000">
+  <programme channel="BBCAlba.uk" start="20260411205500 +0000" stop="20260411215000 +0000">
     <title lang="en">Fàsach na h-Eòrpa/Europe's Wilderness</title>
     <desc lang="en">2/4. A look at the golden jackal - a shy predator, whose territory used to be in the Balkans.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2a08608d-741f-3134-b189-4cd79cde581d/cover"/>
@@ -9950,14 +9859,14 @@
     <episode-num system="xmltv_ns">0.17.0</episode-num>
     <episode-num system="onscreen">S1E18</episode-num>
   </programme>
-  <programme channel="BBCAlba.uk" start="20260412160500 +0000" stop="20260412161500 +0000">
+  <programme channel="BBCAlba.uk" start="20260412160500 +0000" stop="20260412161000 +0000">
     <title lang="en">Peicein/Petit</title>
     <desc lang="en">9/26. While the kids are racing outside, Petit's mum asks them to take care of Tina for a while.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e7450257-25bb-3eb3-b691-b14267014052/cover"/>
     <episode-num system="xmltv_ns">0.8.0</episode-num>
     <episode-num system="onscreen">S1E9</episode-num>
   </programme>
-  <programme channel="BBCAlba.uk" start="20260412161500 +0000" stop="20260412162500 +0000">
+  <programme channel="BBCAlba.uk" start="20260412161000 +0000" stop="20260412162500 +0000">
     <title lang="en">An Saoghal Droil aig Pol...</title>
     <desc lang="en">...Ploc/The Rubbish World of Dave Spud. 1/26. The Spuds take the camper van on holiday and end up at the bottom of the sea.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7dd52ff2-82a4-4f37-8556-e37269ff68b3/cover"/>
@@ -10555,12 +10464,7 @@
     <desc lang="en">Insights and global interviews on the crucial news stories of the day. With Nick Watt.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f033be4f-0a4f-4f1e-8850-a34ac52d7977/cover"/>
   </programme>
-  <programme channel="BBCNews.uk" start="20260410220000 +0000" stop="20260410223000 +0000">
-    <title lang="en">BBC World News America</title>
-    <desc lang="en">The BBC presents in-depth reports on the major international and US news of the day presented from Washington DC.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d53abbd1-1543-4587-883f-21204731414b/cover"/>
-  </programme>
-  <programme channel="BBCNews.uk" start="20260410223000 +0000" stop="20260411003000 +0000">
+  <programme channel="BBCNews.uk" start="20260410220000 +0000" stop="20260411003000 +0000">
     <title lang="en">BBC News Special: Artemis II - Crew Returns to Earth</title>
     <desc lang="en">Live coverage as Artemis II's crew returns...   Followed by BBC News Special; Live coverage as Artemis II's crew returns to Earth after their journey around the Moon.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3932d1cf-8454-4d1e-b968-fef8faaf6513/cover"/>
@@ -10659,7 +10563,7 @@
   </programme>
   <programme channel="BBCNews.uk" start="20260411123000 +0000" stop="20260411130000 +0000">
     <title lang="en">The President's Path</title>
-    <desc lang="en">Join Caitríona Perry and Sumi Somaskanda for a dynamic weekly discussion on the US presidency.</desc>
+    <desc lang="en">Sumi Somaskanda, Caitriona Perry and Bernd Debusmann discuss the ongoing war in Iran.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/875805ec-c9ba-46d5-975d-0efd775a0c72/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260411130000 +0000" stop="20260411133000 +0000">
@@ -10668,9 +10572,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/ad3f58f6-f43e-45f9-b2d2-2448ea727b6a/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260411133000 +0000" stop="20260411140000 +0000">
-    <title lang="en">AI Decoded</title>
-    <desc lang="en">A look at the rise of US tele-healthcare company Medvi, delivering on a prediction made by Sam Altman that a single person could be the sole employee of a billion dollar company.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/32384a24-e357-459b-9246-0c63efb079e6/cover"/>
+    <title lang="en">The Climate Question</title>
+    <desc lang="en">Why our oceans are crucial for life on Earth and help protect us from climate change.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/4574c3cf-772a-4cdd-b738-f6bd16d3070d/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260411140000 +0000" stop="20260411143000 +0000">
     <title lang="en">BBC News</title>
@@ -10684,7 +10588,7 @@
   </programme>
   <programme channel="BBCNews.uk" start="20260411144500 +0000" stop="20260411150000 +0000">
     <title lang="en">Newswatch</title>
-    <desc lang="en">Your views on the coverage of events by BBC News, answered by the editors and decision makers in charge.</desc>
+    <desc lang="en">Was the excitement shown by BBC News science editor Rebecca Morelle at the launch of Artemis II inspiring, or did it lack journalistic objectivity?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3d57dd5b-2ae1-42ba-b792-9cde3c4d56ee/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260411150000 +0000" stop="20260411153000 +0000">
@@ -10754,7 +10658,7 @@
   </programme>
   <programme channel="BBCNews.uk" start="20260411223000 +0000" stop="20260411230000 +0000">
     <title lang="en">Talking Business</title>
-    <desc lang="en">While oil and gas prices rocket, so does the cost of fertiliser stuck in transit due to the war in Iran. Ben Thompson asks what this means for the cost for farmers and the food we buy.</desc>
+    <desc lang="en">Changing business model is one of the big priorities for business leaders in 2026, but how do you manage that in the age of Artificial Intelligence?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f925bca3-56b7-4a56-b2e2-9fd4e96191eb/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260411230000 +0000" stop="20260411233000 +0000">
@@ -10793,9 +10697,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/f9f488fa-2ca2-491a-9498-6e298a67f1cf/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260412023000 +0000" stop="20260412030000 +0000">
-    <title lang="en">AI Decoded</title>
-    <desc lang="en">A look at the rise of US tele-healthcare company Medvi, delivering on a prediction made by Sam Altman that a single person could be the sole employee of a billion dollar company.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/32384a24-e357-459b-9246-0c63efb079e6/cover"/>
+    <title lang="en">The Climate Question</title>
+    <desc lang="en">Why our oceans are crucial for life on Earth and help protect us from climate change.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/e01e7eb2-e5ff-4446-92ca-20d2ec4f747b/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260412030000 +0000" stop="20260412033000 +0000">
     <title lang="en">BBC News</title>
@@ -10824,17 +10728,17 @@
     <desc lang="en">The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a83b05d0-bd06-44e5-9977-3b08eb08a821/cover"/>
   </programme>
-  <programme channel="BBCNews.uk" start="20260412080000 +0000" stop="20260412090000 +0000">
+  <programme channel="BBCNews.uk" start="20260412080000 +0000" stop="20260412091000 +0000">
     <title lang="en">Sunday with Laura Kuenssberg</title>
     <desc lang="en">The big names behind the big stories. Laura Kuenssberg talks to those making the news, inside and outside politics.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/df830a10-6c39-4ebc-ab7e-deba259e2075/cover"/>
     <episode-num system="xmltv_ns">2025.41.0</episode-num>
     <episode-num system="onscreen">S2026E42</episode-num>
   </programme>
-  <programme channel="BBCNews.uk" start="20260412090000 +0000" stop="20260412093000 +0000">
+  <programme channel="BBCNews.uk" start="20260412091000 +0000" stop="20260412093000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1a59d453-e59b-4ab2-bdaf-deaf5f091833/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/d698b036-8e0e-4837-87a8-51f1d926f187/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260412093000 +0000" stop="20260412100000 +0000">
     <title lang="en">BBC News</title>
@@ -10848,7 +10752,7 @@
   </programme>
   <programme channel="BBCNews.uk" start="20260412103000 +0000" stop="20260412110000 +0000">
     <title lang="en">The President's Path</title>
-    <desc lang="en">Join Caitríona Perry and Sumi Somaskanda for a dynamic weekly discussion on the US presidency.</desc>
+    <desc lang="en">Sumi Somaskanda, Caitriona Perry and Bernd Debusmann discuss the ongoing war in Iran.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/875805ec-c9ba-46d5-975d-0efd775a0c72/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260412110000 +0000" stop="20260412113000 +0000">
@@ -10947,9 +10851,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/948ea86f-4918-4fc7-b7ff-e302a8a4983b/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260412223000 +0000" stop="20260412230000 +0000">
-    <title lang="en">AI Decoded</title>
-    <desc lang="en">A look at the rise of US tele-healthcare company Medvi, delivering on a prediction made by Sam Altman that a single person could be the sole employee of a billion dollar company.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/32384a24-e357-459b-9246-0c63efb079e6/cover"/>
+    <title lang="en">The Climate Question</title>
+    <desc lang="en">Why our oceans are crucial for life on Earth and help protect us from climate change.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7a5faadd-003a-4d6f-9575-74c9f824af4a/cover"/>
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260409214000 +0000" stop="20260409224000 +0000">
     <title lang="en">Cannabis Cove: Operation Seal Bay</title>
@@ -11073,7 +10977,7 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260410180000 +0000" stop="20260410183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and JB Gill bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Nick Mohammed, Jane Krakowski and Jack Savoretti join Alex Jones and JB Gill on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b3499a2e-6ee3-4c8f-b5be-a0b138b71fc8/cover"/>
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260410183000 +0000" stop="20260410190000 +0000">
@@ -11092,7 +10996,7 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260410200000 +0000" stop="20260410203000 +0000">
     <title lang="en">Have I Got News for You</title>
-    <desc lang="en">2/10. Monty Don hosts, with guest panellists comedian Chris McCausland and journalist Helen Lewis joining team captains Paul Merton and Ian Hislop.</desc>
+    <desc lang="en">2/10. Monty Don hosts, with guest panellists comedian Chris McCausland and journalist Helen Lewis joining team captains Paul Merton and Ian Hislop. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a756d6d7-2a06-4578-8427-93d38fb74054/cover"/>
     <episode-num system="xmltv_ns">70.1.0</episode-num>
     <episode-num system="onscreen">S71E2</episode-num>
@@ -11116,7 +11020,7 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260410214000 +0000" stop="20260410222500 +0000">
     <title lang="en">The Claudia Winkleman Show</title>
-    <desc lang="en">Claudia is joined by actors Ralph Fiennes, Anna Faris, Olivia Cooke and comedian Michelle de Swarte.</desc>
+    <desc lang="en">Claudia is joined by actors Ralph Fiennes, Anna Faris, Olivia Cooke and comedian Michelle de Swarte. Contains some strong language and adult humour.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6ea5480d-856c-487b-a217-14d66a5026bd/cover"/>
     <episode-num system="xmltv_ns">0.4.0</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
@@ -11387,7 +11291,7 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260412200000 +0000" stop="20260412211500 +0000">
     <title lang="en">The Capture</title>
-    <desc lang="en">6/6. Carey has regained control of SO15, but after Figgis makes a bold move, she faces an impossible choice - just how far is she willing to go to protect the truth?</desc>
+    <desc lang="en">6/6. Carey is drawn deeper into Simon's insidious plan, with devastating consequences. Contains strong language, graphic violence and upsetting scenes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4e704fe8-c586-4def-897a-890f06a1e952/cover"/>
     <episode-num system="xmltv_ns">2.5.0</episode-num>
     <episode-num system="onscreen">S3E6</episode-num>
@@ -11529,7 +11433,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20260410180000 +0000" stop="20260410183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and JB Gill bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Nick Mohammed, Jane Krakowski and Jack Savoretti join Alex Jones and JB Gill on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b3499a2e-6ee3-4c8f-b5be-a0b138b71fc8/cover"/>
   </programme>
   <programme channel="BBCOneEast.uk" start="20260410183000 +0000" stop="20260410190000 +0000">
@@ -11548,7 +11452,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20260410200000 +0000" stop="20260410203000 +0000">
     <title lang="en">Have I Got News for You</title>
-    <desc lang="en">2/10. Monty Don hosts, with guest panellists comedian Chris McCausland and journalist Helen Lewis joining team captains Paul Merton and Ian Hislop.</desc>
+    <desc lang="en">2/10. Monty Don hosts, with guest panellists comedian Chris McCausland and journalist Helen Lewis joining team captains Paul Merton and Ian Hislop. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a756d6d7-2a06-4578-8427-93d38fb74054/cover"/>
     <episode-num system="xmltv_ns">70.1.0</episode-num>
     <episode-num system="onscreen">S71E2</episode-num>
@@ -11572,7 +11476,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20260410214000 +0000" stop="20260410222500 +0000">
     <title lang="en">The Claudia Winkleman Show</title>
-    <desc lang="en">Claudia is joined by actors Ralph Fiennes, Anna Faris, Olivia Cooke and comedian Michelle de Swarte.</desc>
+    <desc lang="en">Claudia is joined by actors Ralph Fiennes, Anna Faris, Olivia Cooke and comedian Michelle de Swarte. Contains some strong language and adult humour.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6ea5480d-856c-487b-a217-14d66a5026bd/cover"/>
     <episode-num system="xmltv_ns">0.4.0</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
@@ -11843,7 +11747,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20260412200000 +0000" stop="20260412211500 +0000">
     <title lang="en">The Capture</title>
-    <desc lang="en">6/6. Carey has regained control of SO15, but after Figgis makes a bold move, she faces an impossible choice - just how far is she willing to go to protect the truth?</desc>
+    <desc lang="en">6/6. Carey is drawn deeper into Simon's insidious plan, with devastating consequences. Contains strong language, graphic violence and upsetting scenes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4e704fe8-c586-4def-897a-890f06a1e952/cover"/>
     <episode-num system="xmltv_ns">2.5.0</episode-num>
     <episode-num system="onscreen">S3E6</episode-num>
@@ -11985,7 +11889,7 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260410180000 +0000" stop="20260410183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and JB Gill bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Nick Mohammed, Jane Krakowski and Jack Savoretti join Alex Jones and JB Gill on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b3499a2e-6ee3-4c8f-b5be-a0b138b71fc8/cover"/>
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260410183000 +0000" stop="20260410190000 +0000">
@@ -12004,7 +11908,7 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260410200000 +0000" stop="20260410203000 +0000">
     <title lang="en">Have I Got News for You</title>
-    <desc lang="en">2/10. Monty Don hosts, with guest panellists comedian Chris McCausland and journalist Helen Lewis joining team captains Paul Merton and Ian Hislop.</desc>
+    <desc lang="en">2/10. Monty Don hosts, with guest panellists comedian Chris McCausland and journalist Helen Lewis joining team captains Paul Merton and Ian Hislop. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a756d6d7-2a06-4578-8427-93d38fb74054/cover"/>
     <episode-num system="xmltv_ns">70.1.0</episode-num>
     <episode-num system="onscreen">S71E2</episode-num>
@@ -12028,7 +11932,7 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260410214000 +0000" stop="20260410222500 +0000">
     <title lang="en">The Claudia Winkleman Show</title>
-    <desc lang="en">Claudia is joined by actors Ralph Fiennes, Anna Faris, Olivia Cooke and comedian Michelle de Swarte.</desc>
+    <desc lang="en">Claudia is joined by actors Ralph Fiennes, Anna Faris, Olivia Cooke and comedian Michelle de Swarte. Contains some strong language and adult humour.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6ea5480d-856c-487b-a217-14d66a5026bd/cover"/>
     <episode-num system="xmltv_ns">0.4.0</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
@@ -12299,7 +12203,7 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260412200000 +0000" stop="20260412211500 +0000">
     <title lang="en">The Capture</title>
-    <desc lang="en">6/6. Carey has regained control of SO15, but after Figgis makes a bold move, she faces an impossible choice - just how far is she willing to go to protect the truth?</desc>
+    <desc lang="en">6/6. Carey is drawn deeper into Simon's insidious plan, with devastating consequences. Contains strong language, graphic violence and upsetting scenes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4e704fe8-c586-4def-897a-890f06a1e952/cover"/>
     <episode-num system="xmltv_ns">2.5.0</episode-num>
     <episode-num system="onscreen">S3E6</episode-num>
@@ -12441,7 +12345,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260410180000 +0000" stop="20260410183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and JB Gill bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Nick Mohammed, Jane Krakowski and Jack Savoretti join Alex Jones and JB Gill on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b3499a2e-6ee3-4c8f-b5be-a0b138b71fc8/cover"/>
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260410183000 +0000" stop="20260410190000 +0000">
@@ -12460,7 +12364,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260410200000 +0000" stop="20260410203000 +0000">
     <title lang="en">Have I Got News for You</title>
-    <desc lang="en">2/10. Monty Don hosts, with guest panellists comedian Chris McCausland and journalist Helen Lewis joining team captains Paul Merton and Ian Hislop.</desc>
+    <desc lang="en">2/10. Monty Don hosts, with guest panellists comedian Chris McCausland and journalist Helen Lewis joining team captains Paul Merton and Ian Hislop. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a756d6d7-2a06-4578-8427-93d38fb74054/cover"/>
     <episode-num system="xmltv_ns">70.1.0</episode-num>
     <episode-num system="onscreen">S71E2</episode-num>
@@ -12484,7 +12388,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260410214000 +0000" stop="20260410222500 +0000">
     <title lang="en">The Claudia Winkleman Show</title>
-    <desc lang="en">Claudia is joined by actors Ralph Fiennes, Anna Faris, Olivia Cooke and comedian Michelle de Swarte.</desc>
+    <desc lang="en">Claudia is joined by actors Ralph Fiennes, Anna Faris, Olivia Cooke and comedian Michelle de Swarte. Contains some strong language and adult humour.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6ea5480d-856c-487b-a217-14d66a5026bd/cover"/>
     <episode-num system="xmltv_ns">0.4.0</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
@@ -12755,7 +12659,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260412200000 +0000" stop="20260412211500 +0000">
     <title lang="en">The Capture</title>
-    <desc lang="en">6/6. Carey has regained control of SO15, but after Figgis makes a bold move, she faces an impossible choice - just how far is she willing to go to protect the truth?</desc>
+    <desc lang="en">6/6. Carey is drawn deeper into Simon's insidious plan, with devastating consequences. Contains strong language, graphic violence and upsetting scenes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4e704fe8-c586-4def-897a-890f06a1e952/cover"/>
     <episode-num system="xmltv_ns">2.5.0</episode-num>
     <episode-num system="onscreen">S3E6</episode-num>
@@ -12897,7 +12801,7 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260410180000 +0000" stop="20260410183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and JB Gill bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Nick Mohammed, Jane Krakowski and Jack Savoretti join Alex Jones and JB Gill on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b3499a2e-6ee3-4c8f-b5be-a0b138b71fc8/cover"/>
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260410183000 +0000" stop="20260410190000 +0000">
@@ -12916,7 +12820,7 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260410200000 +0000" stop="20260410203000 +0000">
     <title lang="en">Have I Got News for You</title>
-    <desc lang="en">2/10. Monty Don hosts, with guest panellists comedian Chris McCausland and journalist Helen Lewis joining team captains Paul Merton and Ian Hislop.</desc>
+    <desc lang="en">2/10. Monty Don hosts, with guest panellists comedian Chris McCausland and journalist Helen Lewis joining team captains Paul Merton and Ian Hislop. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a756d6d7-2a06-4578-8427-93d38fb74054/cover"/>
     <episode-num system="xmltv_ns">70.1.0</episode-num>
     <episode-num system="onscreen">S71E2</episode-num>
@@ -12940,7 +12844,7 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260410214000 +0000" stop="20260410222500 +0000">
     <title lang="en">The Claudia Winkleman Show</title>
-    <desc lang="en">Claudia is joined by actors Ralph Fiennes, Anna Faris, Olivia Cooke and comedian Michelle de Swarte.</desc>
+    <desc lang="en">Claudia is joined by actors Ralph Fiennes, Anna Faris, Olivia Cooke and comedian Michelle de Swarte. Contains some strong language and adult humour.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6ea5480d-856c-487b-a217-14d66a5026bd/cover"/>
     <episode-num system="xmltv_ns">0.4.0</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
@@ -13211,7 +13115,7 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260412200000 +0000" stop="20260412211500 +0000">
     <title lang="en">The Capture</title>
-    <desc lang="en">6/6. Carey has regained control of SO15, but after Figgis makes a bold move, she faces an impossible choice - just how far is she willing to go to protect the truth?</desc>
+    <desc lang="en">6/6. Carey is drawn deeper into Simon's insidious plan, with devastating consequences. Contains strong language, graphic violence and upsetting scenes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4e704fe8-c586-4def-897a-890f06a1e952/cover"/>
     <episode-num system="xmltv_ns">2.5.0</episode-num>
     <episode-num system="onscreen">S3E6</episode-num>
@@ -13353,7 +13257,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260410180000 +0000" stop="20260410183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and JB Gill bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Nick Mohammed, Jane Krakowski and Jack Savoretti join Alex Jones and JB Gill on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b3499a2e-6ee3-4c8f-b5be-a0b138b71fc8/cover"/>
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260410183000 +0000" stop="20260410190000 +0000">
@@ -13372,7 +13276,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260410200000 +0000" stop="20260410203000 +0000">
     <title lang="en">Have I Got News for You</title>
-    <desc lang="en">2/10. Monty Don hosts, with guest panellists comedian Chris McCausland and journalist Helen Lewis joining team captains Paul Merton and Ian Hislop.</desc>
+    <desc lang="en">2/10. Monty Don hosts, with guest panellists comedian Chris McCausland and journalist Helen Lewis joining team captains Paul Merton and Ian Hislop. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a756d6d7-2a06-4578-8427-93d38fb74054/cover"/>
     <episode-num system="xmltv_ns">70.1.0</episode-num>
     <episode-num system="onscreen">S71E2</episode-num>
@@ -13396,7 +13300,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260410214000 +0000" stop="20260410222500 +0000">
     <title lang="en">The Claudia Winkleman Show</title>
-    <desc lang="en">Claudia is joined by actors Ralph Fiennes, Anna Faris, Olivia Cooke and comedian Michelle de Swarte.</desc>
+    <desc lang="en">Claudia is joined by actors Ralph Fiennes, Anna Faris, Olivia Cooke and comedian Michelle de Swarte. Contains some strong language and adult humour.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6ea5480d-856c-487b-a217-14d66a5026bd/cover"/>
     <episode-num system="xmltv_ns">0.4.0</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
@@ -13667,7 +13571,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260412200000 +0000" stop="20260412211500 +0000">
     <title lang="en">The Capture</title>
-    <desc lang="en">6/6. Carey has regained control of SO15, but after Figgis makes a bold move, she faces an impossible choice - just how far is she willing to go to protect the truth?</desc>
+    <desc lang="en">6/6. Carey is drawn deeper into Simon's insidious plan, with devastating consequences. Contains strong language, graphic violence and upsetting scenes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4e704fe8-c586-4def-897a-890f06a1e952/cover"/>
     <episode-num system="xmltv_ns">2.5.0</episode-num>
     <episode-num system="onscreen">S3E6</episode-num>
@@ -13804,7 +13708,7 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260410180000 +0000" stop="20260410183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and JB Gill bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Nick Mohammed, Jane Krakowski and Jack Savoretti join Alex Jones and JB Gill on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b3499a2e-6ee3-4c8f-b5be-a0b138b71fc8/cover"/>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260410183000 +0000" stop="20260410190000 +0000">
@@ -13823,7 +13727,7 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260410200000 +0000" stop="20260410203000 +0000">
     <title lang="en">Have I Got News for You</title>
-    <desc lang="en">2/10. Monty Don hosts, with guest panellists comedian Chris McCausland and journalist Helen Lewis joining team captains Paul Merton and Ian Hislop.</desc>
+    <desc lang="en">2/10. Monty Don hosts, with guest panellists comedian Chris McCausland and journalist Helen Lewis joining team captains Paul Merton and Ian Hislop. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a756d6d7-2a06-4578-8427-93d38fb74054/cover"/>
     <episode-num system="xmltv_ns">70.1.0</episode-num>
     <episode-num system="onscreen">S71E2</episode-num>
@@ -13847,7 +13751,7 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260410214000 +0000" stop="20260410222500 +0000">
     <title lang="en">The Claudia Winkleman Show</title>
-    <desc lang="en">Claudia is joined by actors Ralph Fiennes, Anna Faris, Olivia Cooke and comedian Michelle de Swarte.</desc>
+    <desc lang="en">Claudia is joined by actors Ralph Fiennes, Anna Faris, Olivia Cooke and comedian Michelle de Swarte. Contains some strong language and adult humour.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6ea5480d-856c-487b-a217-14d66a5026bd/cover"/>
     <episode-num system="xmltv_ns">0.4.0</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
@@ -14108,7 +14012,7 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260412200000 +0000" stop="20260412211500 +0000">
     <title lang="en">The Capture</title>
-    <desc lang="en">6/6. Carey has regained control of SO15, but after Figgis makes a bold move, she faces an impossible choice - just how far is she willing to go to protect the truth?</desc>
+    <desc lang="en">6/6. Carey is drawn deeper into Simon's insidious plan, with devastating consequences. Contains strong language, graphic violence and upsetting scenes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4e704fe8-c586-4def-897a-890f06a1e952/cover"/>
     <episode-num system="xmltv_ns">2.5.0</episode-num>
     <episode-num system="onscreen">S3E6</episode-num>
@@ -14255,7 +14159,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260410180000 +0000" stop="20260410183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and JB Gill bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Nick Mohammed, Jane Krakowski and Jack Savoretti join Alex Jones and JB Gill on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b3499a2e-6ee3-4c8f-b5be-a0b138b71fc8/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260410183000 +0000" stop="20260410190000 +0000">
@@ -14274,7 +14178,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260410200000 +0000" stop="20260410203000 +0000">
     <title lang="en">Have I Got News for You</title>
-    <desc lang="en">2/10. Monty Don hosts, with guest panellists comedian Chris McCausland and journalist Helen Lewis joining team captains Paul Merton and Ian Hislop.</desc>
+    <desc lang="en">2/10. Monty Don hosts, with guest panellists comedian Chris McCausland and journalist Helen Lewis joining team captains Paul Merton and Ian Hislop. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a756d6d7-2a06-4578-8427-93d38fb74054/cover"/>
     <episode-num system="xmltv_ns">70.1.0</episode-num>
     <episode-num system="onscreen">S71E2</episode-num>
@@ -14298,14 +14202,14 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260410214000 +0000" stop="20260410222500 +0000">
     <title lang="en">The Claudia Winkleman Show</title>
-    <desc lang="en">Claudia is joined by actors Ralph Fiennes, Anna Faris, Olivia Cooke and comedian Michelle de Swarte.</desc>
+    <desc lang="en">Claudia is joined by actors Ralph Fiennes, Anna Faris, Olivia Cooke and comedian Michelle de Swarte. Contains some strong language and adult humour.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6ea5480d-856c-487b-a217-14d66a5026bd/cover"/>
     <episode-num system="xmltv_ns">0.4.0</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260410222500 +0000" stop="20260410231000 +0000">
     <title lang="en">A View from the Terrace</title>
-    <desc lang="en">15/18. Every ounce of Scottish football from the SPFL to the Sunday league ringers. It means everything, it means nothing, and this is the view of the fans on the terrace.</desc>
+    <desc lang="en">15/18. It's approaching the business end of the season and we look ahead to the fixtures that will define everything, from title races to teams hanging on by their fingertips.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c1cecda6-2eda-4876-811e-d4023bb6844c/cover"/>
     <episode-num system="xmltv_ns">7.14.0</episode-num>
     <episode-num system="onscreen">S8E15</episode-num>
@@ -14581,7 +14485,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260412200000 +0000" stop="20260412211500 +0000">
     <title lang="en">The Capture</title>
-    <desc lang="en">6/6. Carey has regained control of SO15, but after Figgis makes a bold move, she faces an impossible choice - just how far is she willing to go to protect the truth?</desc>
+    <desc lang="en">6/6. Carey is drawn deeper into Simon's insidious plan, with devastating consequences. Contains strong language, graphic violence and upsetting scenes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4e704fe8-c586-4def-897a-890f06a1e952/cover"/>
     <episode-num system="xmltv_ns">2.5.0</episode-num>
     <episode-num system="onscreen">S3E6</episode-num>
@@ -14723,7 +14627,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260410180000 +0000" stop="20260410183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and JB Gill bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Nick Mohammed, Jane Krakowski and Jack Savoretti join Alex Jones and JB Gill on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b3499a2e-6ee3-4c8f-b5be-a0b138b71fc8/cover"/>
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260410183000 +0000" stop="20260410190000 +0000">
@@ -14742,7 +14646,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260410200000 +0000" stop="20260410203000 +0000">
     <title lang="en">Have I Got News for You</title>
-    <desc lang="en">2/10. Monty Don hosts, with guest panellists comedian Chris McCausland and journalist Helen Lewis joining team captains Paul Merton and Ian Hislop.</desc>
+    <desc lang="en">2/10. Monty Don hosts, with guest panellists comedian Chris McCausland and journalist Helen Lewis joining team captains Paul Merton and Ian Hislop. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a756d6d7-2a06-4578-8427-93d38fb74054/cover"/>
     <episode-num system="xmltv_ns">70.1.0</episode-num>
     <episode-num system="onscreen">S71E2</episode-num>
@@ -14766,7 +14670,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260410214000 +0000" stop="20260410222500 +0000">
     <title lang="en">The Claudia Winkleman Show</title>
-    <desc lang="en">Claudia is joined by actors Ralph Fiennes, Anna Faris, Olivia Cooke and comedian Michelle de Swarte.</desc>
+    <desc lang="en">Claudia is joined by actors Ralph Fiennes, Anna Faris, Olivia Cooke and comedian Michelle de Swarte. Contains some strong language and adult humour.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6ea5480d-856c-487b-a217-14d66a5026bd/cover"/>
     <episode-num system="xmltv_ns">0.4.0</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
@@ -15037,7 +14941,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260412200000 +0000" stop="20260412211500 +0000">
     <title lang="en">The Capture</title>
-    <desc lang="en">6/6. Carey has regained control of SO15, but after Figgis makes a bold move, she faces an impossible choice - just how far is she willing to go to protect the truth?</desc>
+    <desc lang="en">6/6. Carey is drawn deeper into Simon's insidious plan, with devastating consequences. Contains strong language, graphic violence and upsetting scenes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4e704fe8-c586-4def-897a-890f06a1e952/cover"/>
     <episode-num system="xmltv_ns">2.5.0</episode-num>
     <episode-num system="onscreen">S3E6</episode-num>
@@ -15179,7 +15083,7 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260410180000 +0000" stop="20260410183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and JB Gill bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Nick Mohammed, Jane Krakowski and Jack Savoretti join Alex Jones and JB Gill on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b3499a2e-6ee3-4c8f-b5be-a0b138b71fc8/cover"/>
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260410183000 +0000" stop="20260410190000 +0000">
@@ -15198,7 +15102,7 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260410200000 +0000" stop="20260410203000 +0000">
     <title lang="en">Have I Got News for You</title>
-    <desc lang="en">2/10. Monty Don hosts, with guest panellists comedian Chris McCausland and journalist Helen Lewis joining team captains Paul Merton and Ian Hislop.</desc>
+    <desc lang="en">2/10. Monty Don hosts, with guest panellists comedian Chris McCausland and journalist Helen Lewis joining team captains Paul Merton and Ian Hislop. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a756d6d7-2a06-4578-8427-93d38fb74054/cover"/>
     <episode-num system="xmltv_ns">70.1.0</episode-num>
     <episode-num system="onscreen">S71E2</episode-num>
@@ -15222,7 +15126,7 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260410214000 +0000" stop="20260410222500 +0000">
     <title lang="en">The Claudia Winkleman Show</title>
-    <desc lang="en">Claudia is joined by actors Ralph Fiennes, Anna Faris, Olivia Cooke and comedian Michelle de Swarte.</desc>
+    <desc lang="en">Claudia is joined by actors Ralph Fiennes, Anna Faris, Olivia Cooke and comedian Michelle de Swarte. Contains some strong language and adult humour.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6ea5480d-856c-487b-a217-14d66a5026bd/cover"/>
     <episode-num system="xmltv_ns">0.4.0</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
@@ -15493,7 +15397,7 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260412200000 +0000" stop="20260412211500 +0000">
     <title lang="en">The Capture</title>
-    <desc lang="en">6/6. Carey has regained control of SO15, but after Figgis makes a bold move, she faces an impossible choice - just how far is she willing to go to protect the truth?</desc>
+    <desc lang="en">6/6. Carey is drawn deeper into Simon's insidious plan, with devastating consequences. Contains strong language, graphic violence and upsetting scenes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4e704fe8-c586-4def-897a-890f06a1e952/cover"/>
     <episode-num system="xmltv_ns">2.5.0</episode-num>
     <episode-num system="onscreen">S3E6</episode-num>
@@ -15635,7 +15539,7 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260410180000 +0000" stop="20260410183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and JB Gill bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Nick Mohammed, Jane Krakowski and Jack Savoretti join Alex Jones and JB Gill on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b3499a2e-6ee3-4c8f-b5be-a0b138b71fc8/cover"/>
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260410183000 +0000" stop="20260410190000 +0000">
@@ -15654,7 +15558,7 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260410200000 +0000" stop="20260410203000 +0000">
     <title lang="en">Have I Got News for You</title>
-    <desc lang="en">2/10. Monty Don hosts, with guest panellists comedian Chris McCausland and journalist Helen Lewis joining team captains Paul Merton and Ian Hislop.</desc>
+    <desc lang="en">2/10. Monty Don hosts, with guest panellists comedian Chris McCausland and journalist Helen Lewis joining team captains Paul Merton and Ian Hislop. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a756d6d7-2a06-4578-8427-93d38fb74054/cover"/>
     <episode-num system="xmltv_ns">70.1.0</episode-num>
     <episode-num system="onscreen">S71E2</episode-num>
@@ -15678,7 +15582,7 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260410214000 +0000" stop="20260410222500 +0000">
     <title lang="en">The Claudia Winkleman Show</title>
-    <desc lang="en">Claudia is joined by actors Ralph Fiennes, Anna Faris, Olivia Cooke and comedian Michelle de Swarte.</desc>
+    <desc lang="en">Claudia is joined by actors Ralph Fiennes, Anna Faris, Olivia Cooke and comedian Michelle de Swarte. Contains some strong language and adult humour.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6ea5480d-856c-487b-a217-14d66a5026bd/cover"/>
     <episode-num system="xmltv_ns">0.4.0</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
@@ -15949,7 +15853,7 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260412200000 +0000" stop="20260412211500 +0000">
     <title lang="en">The Capture</title>
-    <desc lang="en">6/6. Carey has regained control of SO15, but after Figgis makes a bold move, she faces an impossible choice - just how far is she willing to go to protect the truth?</desc>
+    <desc lang="en">6/6. Carey is drawn deeper into Simon's insidious plan, with devastating consequences. Contains strong language, graphic violence and upsetting scenes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4e704fe8-c586-4def-897a-890f06a1e952/cover"/>
     <episode-num system="xmltv_ns">2.5.0</episode-num>
     <episode-num system="onscreen">S3E6</episode-num>
@@ -16112,7 +16016,7 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20260410200000 +0000" stop="20260410203000 +0000">
     <title lang="en">Have I Got News for You</title>
-    <desc lang="en">2/10. Monty Don hosts, with guest panellists comedian Chris McCausland and journalist Helen Lewis joining team captains Paul Merton and Ian Hislop.</desc>
+    <desc lang="en">2/10. Monty Don hosts, with guest panellists comedian Chris McCausland and journalist Helen Lewis joining team captains Paul Merton and Ian Hislop. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a756d6d7-2a06-4578-8427-93d38fb74054/cover"/>
     <episode-num system="xmltv_ns">70.1.0</episode-num>
     <episode-num system="onscreen">S71E2</episode-num>
@@ -16136,7 +16040,7 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20260410214000 +0000" stop="20260410222500 +0000">
     <title lang="en">The Claudia Winkleman Show</title>
-    <desc lang="en">Claudia is joined by actors Ralph Fiennes, Anna Faris, Olivia Cooke and comedian Michelle de Swarte.</desc>
+    <desc lang="en">Claudia is joined by actors Ralph Fiennes, Anna Faris, Olivia Cooke and comedian Michelle de Swarte. Contains some strong language and adult humour.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6ea5480d-856c-487b-a217-14d66a5026bd/cover"/>
     <episode-num system="xmltv_ns">0.4.0</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
@@ -16289,7 +16193,7 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20260412091000 +0000" stop="20260412095500 +0000">
     <title lang="en">Politics Wales</title>
-    <desc lang="en">All the latest political news from Wales and beyond, presented by Teleri Glyn Jones.</desc>
+    <desc lang="en">To discuss the latest political news ahead of the Senedd election, we have Betsan Powys, Professor Matthew Wall, Heledd Fychan, Samuel Kurtz and Rodney Berman on the programme.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c62e8862-a723-46a0-87a1-8f8f2a7e1399/cover"/>
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20260412095500 +0000" stop="20260412102500 +0000">
@@ -16399,7 +16303,7 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20260412200000 +0000" stop="20260412211500 +0000">
     <title lang="en">The Capture</title>
-    <desc lang="en">6/6. Carey has regained control of SO15, but after Figgis makes a bold move, she faces an impossible choice - just how far is she willing to go to protect the truth?</desc>
+    <desc lang="en">6/6. Carey is drawn deeper into Simon's insidious plan, with devastating consequences. Contains strong language, graphic violence and upsetting scenes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4e704fe8-c586-4def-897a-890f06a1e952/cover"/>
     <episode-num system="xmltv_ns">2.5.0</episode-num>
     <episode-num system="onscreen">S3E6</episode-num>
@@ -16541,7 +16445,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20260410180000 +0000" stop="20260410183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and JB Gill bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Nick Mohammed, Jane Krakowski and Jack Savoretti join Alex Jones and JB Gill on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b3499a2e-6ee3-4c8f-b5be-a0b138b71fc8/cover"/>
   </programme>
   <programme channel="BBCOneWest.uk" start="20260410183000 +0000" stop="20260410190000 +0000">
@@ -16560,7 +16464,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20260410200000 +0000" stop="20260410203000 +0000">
     <title lang="en">Have I Got News for You</title>
-    <desc lang="en">2/10. Monty Don hosts, with guest panellists comedian Chris McCausland and journalist Helen Lewis joining team captains Paul Merton and Ian Hislop.</desc>
+    <desc lang="en">2/10. Monty Don hosts, with guest panellists comedian Chris McCausland and journalist Helen Lewis joining team captains Paul Merton and Ian Hislop. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a756d6d7-2a06-4578-8427-93d38fb74054/cover"/>
     <episode-num system="xmltv_ns">70.1.0</episode-num>
     <episode-num system="onscreen">S71E2</episode-num>
@@ -16584,7 +16488,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20260410214000 +0000" stop="20260410222500 +0000">
     <title lang="en">The Claudia Winkleman Show</title>
-    <desc lang="en">Claudia is joined by actors Ralph Fiennes, Anna Faris, Olivia Cooke and comedian Michelle de Swarte.</desc>
+    <desc lang="en">Claudia is joined by actors Ralph Fiennes, Anna Faris, Olivia Cooke and comedian Michelle de Swarte. Contains some strong language and adult humour.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6ea5480d-856c-487b-a217-14d66a5026bd/cover"/>
     <episode-num system="xmltv_ns">0.4.0</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
@@ -16855,7 +16759,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20260412200000 +0000" stop="20260412211500 +0000">
     <title lang="en">The Capture</title>
-    <desc lang="en">6/6. Carey has regained control of SO15, but after Figgis makes a bold move, she faces an impossible choice - just how far is she willing to go to protect the truth?</desc>
+    <desc lang="en">6/6. Carey is drawn deeper into Simon's insidious plan, with devastating consequences. Contains strong language, graphic violence and upsetting scenes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4e704fe8-c586-4def-897a-890f06a1e952/cover"/>
     <episode-num system="xmltv_ns">2.5.0</episode-num>
     <episode-num system="onscreen">S3E6</episode-num>
@@ -16997,7 +16901,7 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260410180000 +0000" stop="20260410183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and JB Gill bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Nick Mohammed, Jane Krakowski and Jack Savoretti join Alex Jones and JB Gill on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b3499a2e-6ee3-4c8f-b5be-a0b138b71fc8/cover"/>
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260410183000 +0000" stop="20260410190000 +0000">
@@ -17016,7 +16920,7 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260410200000 +0000" stop="20260410203000 +0000">
     <title lang="en">Have I Got News for You</title>
-    <desc lang="en">2/10. Monty Don hosts, with guest panellists comedian Chris McCausland and journalist Helen Lewis joining team captains Paul Merton and Ian Hislop.</desc>
+    <desc lang="en">2/10. Monty Don hosts, with guest panellists comedian Chris McCausland and journalist Helen Lewis joining team captains Paul Merton and Ian Hislop. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a756d6d7-2a06-4578-8427-93d38fb74054/cover"/>
     <episode-num system="xmltv_ns">70.1.0</episode-num>
     <episode-num system="onscreen">S71E2</episode-num>
@@ -17040,7 +16944,7 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260410214000 +0000" stop="20260410222500 +0000">
     <title lang="en">The Claudia Winkleman Show</title>
-    <desc lang="en">Claudia is joined by actors Ralph Fiennes, Anna Faris, Olivia Cooke and comedian Michelle de Swarte.</desc>
+    <desc lang="en">Claudia is joined by actors Ralph Fiennes, Anna Faris, Olivia Cooke and comedian Michelle de Swarte. Contains some strong language and adult humour.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6ea5480d-856c-487b-a217-14d66a5026bd/cover"/>
     <episode-num system="xmltv_ns">0.4.0</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
@@ -17311,7 +17215,7 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260412200000 +0000" stop="20260412211500 +0000">
     <title lang="en">The Capture</title>
-    <desc lang="en">6/6. Carey has regained control of SO15, but after Figgis makes a bold move, she faces an impossible choice - just how far is she willing to go to protect the truth?</desc>
+    <desc lang="en">6/6. Carey is drawn deeper into Simon's insidious plan, with devastating consequences. Contains strong language, graphic violence and upsetting scenes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4e704fe8-c586-4def-897a-890f06a1e952/cover"/>
     <episode-num system="xmltv_ns">2.5.0</episode-num>
     <episode-num system="onscreen">S3E6</episode-num>
@@ -17453,7 +17357,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260410180000 +0000" stop="20260410183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and JB Gill bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Nick Mohammed, Jane Krakowski and Jack Savoretti join Alex Jones and JB Gill on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b3499a2e-6ee3-4c8f-b5be-a0b138b71fc8/cover"/>
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260410183000 +0000" stop="20260410190000 +0000">
@@ -17472,7 +17376,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260410200000 +0000" stop="20260410203000 +0000">
     <title lang="en">Have I Got News for You</title>
-    <desc lang="en">2/10. Monty Don hosts, with guest panellists comedian Chris McCausland and journalist Helen Lewis joining team captains Paul Merton and Ian Hislop.</desc>
+    <desc lang="en">2/10. Monty Don hosts, with guest panellists comedian Chris McCausland and journalist Helen Lewis joining team captains Paul Merton and Ian Hislop. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a756d6d7-2a06-4578-8427-93d38fb74054/cover"/>
     <episode-num system="xmltv_ns">70.1.0</episode-num>
     <episode-num system="onscreen">S71E2</episode-num>
@@ -17496,7 +17400,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260410214000 +0000" stop="20260410222500 +0000">
     <title lang="en">The Claudia Winkleman Show</title>
-    <desc lang="en">Claudia is joined by actors Ralph Fiennes, Anna Faris, Olivia Cooke and comedian Michelle de Swarte.</desc>
+    <desc lang="en">Claudia is joined by actors Ralph Fiennes, Anna Faris, Olivia Cooke and comedian Michelle de Swarte. Contains some strong language and adult humour.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6ea5480d-856c-487b-a217-14d66a5026bd/cover"/>
     <episode-num system="xmltv_ns">0.4.0</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
@@ -17767,7 +17671,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260412200000 +0000" stop="20260412211500 +0000">
     <title lang="en">The Capture</title>
-    <desc lang="en">6/6. Carey has regained control of SO15, but after Figgis makes a bold move, she faces an impossible choice - just how far is she willing to go to protect the truth?</desc>
+    <desc lang="en">6/6. Carey is drawn deeper into Simon's insidious plan, with devastating consequences. Contains strong language, graphic violence and upsetting scenes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4e704fe8-c586-4def-897a-890f06a1e952/cover"/>
     <episode-num system="xmltv_ns">2.5.0</episode-num>
     <episode-num system="onscreen">S3E6</episode-num>
@@ -17909,7 +17813,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260410180000 +0000" stop="20260410183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and JB Gill bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Nick Mohammed, Jane Krakowski and Jack Savoretti join Alex Jones and JB Gill on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b3499a2e-6ee3-4c8f-b5be-a0b138b71fc8/cover"/>
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260410183000 +0000" stop="20260410190000 +0000">
@@ -17928,7 +17832,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260410200000 +0000" stop="20260410203000 +0000">
     <title lang="en">Have I Got News for You</title>
-    <desc lang="en">2/10. Monty Don hosts, with guest panellists comedian Chris McCausland and journalist Helen Lewis joining team captains Paul Merton and Ian Hislop.</desc>
+    <desc lang="en">2/10. Monty Don hosts, with guest panellists comedian Chris McCausland and journalist Helen Lewis joining team captains Paul Merton and Ian Hislop. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a756d6d7-2a06-4578-8427-93d38fb74054/cover"/>
     <episode-num system="xmltv_ns">70.1.0</episode-num>
     <episode-num system="onscreen">S71E2</episode-num>
@@ -17952,7 +17856,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260410214000 +0000" stop="20260410222500 +0000">
     <title lang="en">The Claudia Winkleman Show</title>
-    <desc lang="en">Claudia is joined by actors Ralph Fiennes, Anna Faris, Olivia Cooke and comedian Michelle de Swarte.</desc>
+    <desc lang="en">Claudia is joined by actors Ralph Fiennes, Anna Faris, Olivia Cooke and comedian Michelle de Swarte. Contains some strong language and adult humour.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6ea5480d-856c-487b-a217-14d66a5026bd/cover"/>
     <episode-num system="xmltv_ns">0.4.0</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
@@ -18223,7 +18127,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260412200000 +0000" stop="20260412211500 +0000">
     <title lang="en">The Capture</title>
-    <desc lang="en">6/6. Carey has regained control of SO15, but after Figgis makes a bold move, she faces an impossible choice - just how far is she willing to go to protect the truth?</desc>
+    <desc lang="en">6/6. Carey is drawn deeper into Simon's insidious plan, with devastating consequences. Contains strong language, graphic violence and upsetting scenes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4e704fe8-c586-4def-897a-890f06a1e952/cover"/>
     <episode-num system="xmltv_ns">2.5.0</episode-num>
     <episode-num system="onscreen">S3E6</episode-num>
@@ -18513,7 +18417,7 @@
   </programme>
   <programme channel="BBCScotland.uk" start="20260410213000 +0000" stop="20260410221500 +0000">
     <title lang="en">A View from the Terrace</title>
-    <desc lang="en">15/18. Every ounce of Scottish football from the SPFL to the Sunday league ringers. It means everything, it means nothing, and this is the view of the fans on the terrace.</desc>
+    <desc lang="en">15/18. It's approaching the business end of the season and we look ahead to the fixtures that will define everything, from title races to teams hanging on by their fingertips.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c1cecda6-2eda-4876-811e-d4023bb6844c/cover"/>
     <episode-num system="xmltv_ns">7.14.0</episode-num>
     <episode-num system="onscreen">S8E15</episode-num>
@@ -18833,7 +18737,7 @@
   </programme>
   <programme channel="BBCThreeHD.uk" start="20260411202500 +0000" stop="20260411204000 +0000">
     <title lang="en">Yaxlont</title>
-    <desc lang="en">3/6. When a teenage boy has a girl over for the first time, the overly attached monster under his bed has a meltdown.</desc>
+    <desc lang="en">3/6. When a teenage boy has a girl over for the first time, the overly attached monster under his bed has a meltdown. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/dc509c9c-f648-4bb8-af44-a6ca2189ec0d/cover"/>
   </programme>
   <programme channel="BBCThreeHD.uk" start="20260411204000 +0000" stop="20260411211000 +0000">
@@ -18845,7 +18749,7 @@
   </programme>
   <programme channel="BBCThreeHD.uk" start="20260411211000 +0000" stop="20260411212500 +0000">
     <title lang="en">The Doghouse</title>
-    <desc lang="en">4/6. Brothers Steve and Stu scramble to put on a last-minute birthday show for Steve's daughter. If they fail, Steve's in the doghouse and Stu might end up... dead.</desc>
+    <desc lang="en">4/6. Two brothers scramble to put on a last-minute birthday show for one of their daughters. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/71469739-3984-4d60-920b-27e234fcf9aa/cover"/>
   </programme>
   <programme channel="BBCThreeHD.uk" start="20260411212500 +0000" stop="20260411215500 +0000">
@@ -18857,7 +18761,7 @@
   </programme>
   <programme channel="BBCThreeHD.uk" start="20260411215500 +0000" stop="20260411221000 +0000">
     <title lang="en">Thames View</title>
-    <desc lang="en">5/6. Welcome to the Thames View Estate, home of the chaotic Potts family. 1990s-set animated comedy.</desc>
+    <desc lang="en">5/6. Welcome to the Thames View Estate, home of the chaotic Potts family. 1990s-set animated comedy. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2929c12a-4152-4963-89e3-eab3c713c660/cover"/>
   </programme>
   <programme channel="BBCThreeHD.uk" start="20260411221000 +0000" stop="20260411224000 +0000">
@@ -18869,7 +18773,7 @@
   </programme>
   <programme channel="BBCThreeHD.uk" start="20260411224000 +0000" stop="20260411225500 +0000">
     <title lang="en">Glue</title>
-    <desc lang="en">6/6. Animated sketch show set in Belfast from Northern Irish creator rarewitch. The cats get stoned, the pigeons get philosophical, and Gambo forgets how to breathe.</desc>
+    <desc lang="en">6/6. Animated sketch show set in Belfast from Northern Irish creator rarewitch. The cats get stoned, the pigeons get philosophical, and Gambo forgets how to breathe. Contains strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/524bbe58-89ed-407a-b1ea-818ba60d9a4f/cover"/>
   </programme>
   <programme channel="BBCThreeHD.uk" start="20260411225500 +0000" stop="20260411232000 +0000">
@@ -19444,7 +19348,7 @@
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20260412180000 +0000" stop="20260412200000 +0000">
     <title lang="en">Olivier Awards 2026</title>
-    <desc lang="en">A glittering celebration with Nick Mohammed, plus performances from Paddington and Evita.</desc>
+    <desc lang="en">A glittering celebration with Nick Mohammed, plus performances from Paddington and Evita. Contains scenes of flashing images.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4478a8a5-c817-4720-b069-d3c9ec1ff5c2/cover"/>
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20260412200000 +0000" stop="20260412210000 +0000">
@@ -19911,7 +19815,7 @@
   </programme>
   <programme channel="BBCTwoHD.uk" start="20260412180000 +0000" stop="20260412200000 +0000">
     <title lang="en">Olivier Awards 2026</title>
-    <desc lang="en">A glittering celebration with Nick Mohammed, plus performances from Paddington and Evita.</desc>
+    <desc lang="en">A glittering celebration with Nick Mohammed, plus performances from Paddington and Evita. Contains scenes of flashing images.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4478a8a5-c817-4720-b069-d3c9ec1ff5c2/cover"/>
   </programme>
   <programme channel="BBCTwoHD.uk" start="20260412200000 +0000" stop="20260412210000 +0000">
@@ -20373,7 +20277,7 @@
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20260412150000 +0000" stop="20260412172000 +0000">
     <title lang="en">The Championship</title>
-    <desc lang="en">Sarah Mulkerrins presents live coverage as Armagh host Tyrone in the opening game of the Ulster Championship. Commentary is by Thomas Niblock and Conor McManus.</desc>
+    <desc lang="en">The Ulster Championship opens with Armagh v Tyrone, presented by Mark Sidebottom, with Sarah Mulkerrins pitch side. Commentary from Thomas Niblock &amp; All Star, Conor McManus.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3af073b9-e61b-4702-af41-4d8028e81199/cover"/>
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20260412172000 +0000" stop="20260412173000 +0000">
@@ -20392,12 +20296,12 @@
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20260412180000 +0000" stop="20260412200000 +0000">
     <title lang="en">Olivier Awards 2026</title>
-    <desc lang="en">A glittering celebration with Nick Mohammed, plus performances from Paddington and Evita.</desc>
+    <desc lang="en">A glittering celebration with Nick Mohammed, plus performances from Paddington and Evita. Contains scenes of flashing images.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4478a8a5-c817-4720-b069-d3c9ec1ff5c2/cover"/>
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20260412200000 +0000" stop="20260412210000 +0000">
     <title lang="en">Hell for Leather:  The Story of Gaelic Football</title>
-    <desc lang="en">1/4. Through rebellion and civil war, Gaelic football explodes like a prairie fire to become the most popular sport in Ireland.</desc>
+    <desc lang="en">1/4. Through rebellion and civil war, Gaelic football explodes like a prairie fire to become the most popular sport in Ireland. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/014ace0a-bba6-405b-b9c3-7787b34b1a4b/cover"/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -20538,7 +20442,7 @@
   </programme>
   <programme channel="BBCTwoWales.uk" start="20260410180000 +0000" stop="20260410183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and JB Gill bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Nick Mohammed, Jane Krakowski and Jack Savoretti join Alex Jones and JB Gill on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b3499a2e-6ee3-4c8f-b5be-a0b138b71fc8/cover"/>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20260410183000 +0000" stop="20260410190000 +0000">
@@ -20909,7 +20813,7 @@
   </programme>
   <programme channel="BBCTwoWales.uk" start="20260412180000 +0000" stop="20260412200000 +0000">
     <title lang="en">Olivier Awards 2026</title>
-    <desc lang="en">A glittering celebration with Nick Mohammed, plus performances from Paddington and Evita.</desc>
+    <desc lang="en">A glittering celebration with Nick Mohammed, plus performances from Paddington and Evita. Contains scenes of flashing images.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4478a8a5-c817-4720-b069-d3c9ec1ff5c2/cover"/>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20260412200000 +0000" stop="20260412210000 +0000">
@@ -24825,7 +24729,7 @@
   </programme>
   <programme channel="Channel4.uk" start="20260410180000 +0000" stop="20260410183000 +0000">
     <title lang="en">Channel 4 News</title>
-    <desc lang="en">Channel 4's flagship news programme. Including the weather.</desc>
+    <desc lang="en">US vice president JD Vance says he's looking forward to talks with Iran. But will negotiations actually take place? And Artemis II heads back down to Earth.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b7ca7705-6823-410c-aa74-5ac9d656025f/cover"/>
   </programme>
   <programme channel="Channel4.uk" start="20260410183000 +0000" stop="20260410190000 +0000">
@@ -25498,7 +25402,7 @@
   </programme>
   <programme channel="Channel4Plus1.uk" start="20260410190000 +0000" stop="20260410193000 +0000">
     <title lang="en">Channel 4 News</title>
-    <desc lang="en">Channel 4's flagship news programme. Including the weather.</desc>
+    <desc lang="en">US vice president JD Vance says he's looking forward to talks with Iran. But will negotiations actually take place? And Artemis II heads back down to Earth.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b7ca7705-6823-410c-aa74-5ac9d656025f/cover"/>
   </programme>
   <programme channel="Channel4Plus1.uk" start="20260410193000 +0000" stop="20260410200000 +0000">
@@ -26294,10 +26198,11 @@
     <icon src="https://images.metadata.sky.com/pd-image/122e09b7-f089-38c1-af3e-87efe62061dd/cover"/>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20260410230500 +0000" stop="20260411010000 +0000">
-    <title lang="en">New: Piers Morgan Uncensored: Can The Ceasefire Hold?</title>
-    <desc lang="en">The bold, opinion-led news and debate show hosted by Piers Morgan. Piers blends journalism, debates and cultural commentary that's unapologetically direct.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3f15370d-aed2-4f69-807d-00699a50b554/cover"/>
-    <premiere/>
+    <title lang="en">Piers Morgan Uncensored:..</title>
+    <desc lang="en">...Can the Ceasefire Hold? After US threats to destroy an entire civilization, the world breathes a sigh of relief. But how long will this uneasy truce last?</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/e2729fa9-6177-4cbf-b08b-48935cd5815a/cover"/>
+    <episode-num system="xmltv_ns">1.11.0</episode-num>
+    <episode-num system="onscreen">S2E12</episode-num>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20260411010000 +0000" stop="20260411020000 +0000">
     <title lang="en">Cruise TV with LoveitBookit</title>
@@ -47137,7 +47042,7 @@
   <programme channel="SkyNews.uk" start="20260410210001 +0000" stop="20260410220001 +0000">
     <title lang="en">Moon Mission</title>
     <desc lang="en">Live coverage as the crew of Artemis II return to Earth after their record-breaking mission to the moon.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c5fd864c-d7db-46cc-8221-0e10bcf8d5bd/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/1afca331-3ccb-40b8-ad9f-752336fe3784/cover"/>
   </programme>
   <programme channel="SkyNews.uk" start="20260410220001 +0000" stop="20260410230001 +0000">
     <title lang="en">Moon Mission</title>
@@ -47148,6 +47053,11 @@
     <title lang="en">Moon Mission</title>
     <desc lang="en">Live coverage as the crew of Artemis II return to Earth after their record-breaking mission to the moon.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/866b678a-4353-4d12-a84b-1673bbf9065f/cover"/>
+  </programme>
+  <programme channel="SkyNews.uk" start="20260411000001 +0000" stop="20260411010000 +0000">
+    <title lang="en">Moon Mission</title>
+    <desc lang="en">Live coverage as the crew of Artemis II return to Earth after their record-breaking mission to the moon.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/63134d90-bf8a-4af5-a51a-ef9e708bf086/cover"/>
   </programme>
   <programme channel="SkyNews.uk" start="20260411010000 +0000" stop="20260411020000 +0000">
     <title lang="en">Sky News</title>
