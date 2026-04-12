@@ -10549,10 +10549,20 @@
     <episode-num system="xmltv_ns">0.2.0</episode-num>
     <episode-num system="onscreen">S1E3</episode-num>
   </programme>
-  <programme channel="BBCNews.uk" start="20260412050000 +0000" stop="20260412080000 +0000">
-    <title lang="en">Breakfast</title>
-    <desc lang="en">The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a83b05d0-bd06-44e5-9977-3b08eb08a821/cover"/>
+  <programme channel="BBCNews.uk" start="20260412050000 +0000" stop="20260412060000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/be420e30-c962-4925-b30a-f3ba75e41cb0/cover"/>
+  </programme>
+  <programme channel="BBCNews.uk" start="20260412060000 +0000" stop="20260412070000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/86916a02-487f-4ad7-b38b-d9ef6199313c/cover"/>
+  </programme>
+  <programme channel="BBCNews.uk" start="20260412070000 +0000" stop="20260412080000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/15550fe5-c558-46d1-b2ae-08dbd0b87d73/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260412080000 +0000" stop="20260412091000 +0000">
     <title lang="en">Sunday with Laura Kuenssberg</title>
@@ -14559,7 +14569,9 @@
   <programme channel="BBCOneScotHD.uk" start="20260412091000 +0000" stop="20260412100500 +0000">
     <title lang="en">The Sunday Show</title>
     <desc lang="en">Gary Robertson brings you all the main issues from the world of politics and beyond. Big interviews, discussion and analysis of the stories that matter to Scotland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/5128fedd-256c-4022-9923-9cddf8158622/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/e6fae50f-87b7-416a-950a-e52c61f89d35/cover"/>
+    <episode-num system="xmltv_ns">4.0.0</episode-num>
+    <episode-num system="onscreen">S5E1</episode-num>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260412100500 +0000" stop="20260412103500 +0000">
     <title lang="en">Extraordinary Portraits with Bill Bailey</title>
