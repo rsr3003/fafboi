@@ -643,7 +643,7 @@
     <icon src="https://images.metadata.sky.com/pd-image/3f456360-0136-443f-a19f-6857b89d7af9/cover"/>
   </programme>
   <programme channel="sky.premier.uk" start="20260417213000 +0000" stop="20260417220000 +0000">
-    <title lang="en">PL Stories: Tejani Reijnders</title>
+    <title lang="en">PL Stories: Tijjani Reijnders</title>
     <desc lang="en">Step inside the world of City midfielder Tijjani Reijnders and join him at home with his family in Manchester as the Dutchman reflects on his remarkable rise to the top of the game.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/96d89412-49d3-43fc-904c-045d7bb7b891/cover"/>
     <episode-num system="xmltv_ns">4.45.0</episode-num>
@@ -805,7 +805,7 @@
     <icon src="https://images.metadata.sky.com/pd-image/4019b5e7-1a6b-42db-9683-fc331d40e3ef/cover"/>
   </programme>
   <programme channel="sky.premier.uk" start="20260418210000 +0000" stop="20260418213000 +0000">
-    <title lang="en">PL Stories: Tejani Reijnders</title>
+    <title lang="en">PL Stories: Tijjani Reijnders</title>
     <desc lang="en">Step inside the world of City midfielder Tijjani Reijnders and join him at home with his family in Manchester as the Dutchman reflects on his remarkable rise to the top of the game.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/96d89412-49d3-43fc-904c-045d7bb7b891/cover"/>
     <episode-num system="xmltv_ns">4.45.0</episode-num>
@@ -1243,7 +1243,7 @@
     <icon src="https://images.metadata.sky.com/pd-image/d8f89148-06a6-4af7-9915-30fcea357c35/cover"/>
   </programme>
   <programme channel="sky.premier.uk" start="20260420223000 +0000" stop="20260420230000 +0000">
-    <title lang="en">PL Stories: Tejani Reijnders</title>
+    <title lang="en">PL Stories: Tijjani Reijnders</title>
     <desc lang="en">Step inside the world of City midfielder Tijjani Reijnders and join him at home with his family in Manchester as the Dutchman reflects on his remarkable rise to the top of the game.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/96d89412-49d3-43fc-904c-045d7bb7b891/cover"/>
     <episode-num system="xmltv_ns">4.45.0</episode-num>
@@ -1362,10 +1362,20 @@
     <episode-num system="xmltv_ns">2024.37.0</episode-num>
     <episode-num system="onscreen">S2025E38</episode-num>
   </programme>
-  <programme channel="sky.football.uk" start="20260418100000 +0000" stop="20260418140000 +0000">
+  <programme channel="sky.football.uk" start="20260418100000 +0000" stop="20260418110000 +0000">
     <title lang="en">Live EFL: Portsmouth v Leicester</title>
     <desc lang="en">Staring down the barrel of relegation, Leicester travel to fellow strugglers Portsmouth in the Championship. The Foxes' fears deepened last weekend in 1-0 defeat at home to Swansea.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6de63b4b-15f2-4d72-80b0-d7f45e1877ad/cover"/>
+  </programme>
+  <programme channel="sky.football.uk" start="20260418110000 +0000" stop="20260418112500 +0000">
+    <title lang="en">Live EFL Build Up</title>
+    <desc lang="en">Derby County host Oxford Utd in the EFL Championship.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d828d482-94cf-484b-b70d-e98118726826/cover"/>
+  </programme>
+  <programme channel="sky.football.uk" start="20260418112500 +0000" stop="20260418140000 +0000">
+    <title lang="en">Live EFL: Derby County v Oxford</title>
+    <desc lang="en">Derby County host Oxford Utd in the EFL Championship</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d3f22d03-af7d-4e7f-a9a4-a5d902dddfca/cover"/>
   </programme>
   <programme channel="sky.football.uk" start="20260418140000 +0000" stop="20260418160000 +0000">
     <title lang="en">Gillette Soccer Sat: Live Scores</title>
@@ -2182,12 +2192,12 @@
   </programme>
   <programme channel="sky.tennis.uk" start="20260418113000 +0000" stop="20260418160000 +0000">
     <title lang="en">Live: ATP/WTA Tennis SFs</title>
-    <desc lang="en">Enjoy live action from the ATP and WTA Tours.</desc>
+    <desc lang="en">In the Munich semi-final, defending champion Alexander Zverev takes on Flavio Cobolli. Over in Stuttgart, Elena Rybakina and Mirra Andreeva collide in semi-final action.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/48b97c9c-2d02-45cd-a1e9-a7190a8324d0/cover"/>
   </programme>
   <programme channel="sky.tennis.uk" start="20260418160000 +0000" stop="20260418173000 +0000">
     <title lang="en">Live: WTA Rouen Semi-Finals</title>
-    <desc lang="en">Enjoy live action from the ATP and WTA Tours.</desc>
+    <desc lang="en">After an impressive win over Katie Boulter yesterday, Ukrainian Veronika Podrez faces Romanian Sorana Cirstea in the Open de Rouen semi-final.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5b4a68c3-924a-45c0-87cf-b7d01ed2a266/cover"/>
   </programme>
   <programme channel="sky.tennis.uk" start="20260418173000 +0000" stop="20260418180000 +0000">
@@ -3392,20 +3402,15 @@
     <desc lang="en">Tournament highlights from the 2026 Aramco Championship, a Ladies European Tour event staged at Shadow Creek Golf Course in Nevada. Spain's Nuria Iturrioz scooped last year's prize.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3e701372-f287-4f0c-a297-595581dc6611/cover"/>
   </programme>
-  <programme channel="sky.mix.uk" start="20260418113000 +0000" stop="20260418150000 +0000">
+  <programme channel="sky.mix.uk" start="20260418113000 +0000" stop="20260418150001 +0000">
     <title lang="en">Live Ladies European Tour Golf</title>
     <desc lang="en">Third-round action from the Joburg Ladies Open, a Ladies European Event held at Randpark Golf Club. England's Mimi Rhodes clinched victory this time a year ago.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8e2f1cb0-e87a-4805-acc8-8dbeba7feba4/cover"/>
   </programme>
-  <programme channel="sky.mix.uk" start="20260418150000 +0000" stop="20260418160000 +0000">
-    <title lang="en">ICC T20 WC Highlights</title>
-    <desc lang="en">England enter their final group-stage assignment at the T20 World Cup against fellow Europeans Italy. Harry Brook's side will secure a place in the Super Eights with victory. (16.02)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/2a9163ec-3170-42b3-bb07-b8448210791b/cover"/>
-  </programme>
-  <programme channel="sky.mix.uk" start="20260418160000 +0000" stop="20260418163000 +0000">
-    <title lang="en">ICC T20 WC Highlights</title>
-    <desc lang="en">Rocked by Zimbabwe, can Australia gather themselves and save their T20 World Cup against the co-hosts Sri Lanka? After two wins from two, Sri Lanka are well placed to progress. (16.02)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b8e68a1a-b5e4-445e-82f8-5bf4622ad140/cover"/>
+  <programme channel="sky.mix.uk" start="20260418150001 +0000" stop="20260418163000 +0000">
+    <title lang="en">Live Netball Super League</title>
+    <desc lang="en">AO Manchester Thunder v LexisNexis Dragons at Belle Vue Arena in the Netball Super League.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/17ce9f18-6360-4120-bf06-c582bba34750/cover"/>
   </programme>
   <programme channel="sky.mix.uk" start="20260418163000 +0000" stop="20260418164500 +0000">
     <title lang="en">EFL 21/22: Blackburn v Fulham</title>
@@ -4721,22 +4726,10 @@
     <desc lang="en">Action from round two of LIV Golf at Club de Golf Chapultepec in Mexico. Frenchman Victor Perez tops the leaderboard after carding 11 birdies in round one.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2fb5286d-9105-429e-a8bd-0000a46998da/cover"/>
   </programme>
-  <programme channel="tnt3" start="20260418090000 +0000" stop="20260418120000 +0000">
+  <programme channel="tnt3" start="20260418090000 +0000" stop="20260418131500 +0000">
     <title lang="en">Live Snooker: World Championship</title>
     <desc lang="en">Action from the Crucible and Round 1 of the 2026 Snooker World Championship as Englishman Liam Highfield takes on last year's champion Zhao Xintong.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b827885f-342a-43af-ad9f-4d3b0aee73db/cover"/>
-  </programme>
-  <programme channel="tnt3" start="20260418120000 +0000" stop="20260418121500 +0000">
-    <title lang="en">What I Wore: Michel Salgado</title>
-    <desc lang="en">Real Madrid legend Michel Salgado describes his passion for football via the shirts which have defined his life.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/644296bf-5234-3ada-a2ff-748c440f3c25/cover"/>
-    <episode-num system="xmltv_ns">0.34.0</episode-num>
-    <episode-num system="onscreen">S1E35</episode-num>
-  </programme>
-  <programme channel="tnt3" start="20260418121500 +0000" stop="20260418131500 +0000">
-    <title lang="en">FEI Jumping World Cup - NAL</title>
-    <desc lang="en">Coverage of the Longines FEI Jumping World Cup series and the eighth North American League qualifier of the season in Fort Worth, Texas.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/67f959cd-594c-4ea4-acd0-1341eef8283d/cover"/>
   </programme>
   <programme channel="tnt3" start="20260418131500 +0000" stop="20260418163000 +0000">
     <title lang="en">Live Snooker: World Championship</title>
@@ -10176,15 +10169,10 @@
     <desc lang="en">The ongoing war in Iran - will this be Trump's legacy?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d5ee11da-635d-4514-8bef-4bd00f8223dc/cover"/>
   </programme>
-  <programme channel="BBCNews.uk" start="20260418130000 +0000" stop="20260418133000 +0000">
+  <programme channel="BBCNews.uk" start="20260418130000 +0000" stop="20260418140000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/92461ed1-2f31-4a17-a007-ecc8173d14b5/cover"/>
-  </programme>
-  <programme channel="BBCNews.uk" start="20260418133000 +0000" stop="20260418140000 +0000">
-    <title lang="en">AI Decoded</title>
-    <desc lang="en">AI Decoded examines Sam Altman's vision for an era of artificial superintelligence. The Open AI CEO is calling for a new kind of social contract - an 'AI New Deal'.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/46414b8e-4eec-43ba-978b-4614fad2a82a/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260418140000 +0000" stop="20260418143000 +0000">
     <title lang="en">BBC News</title>
@@ -10237,9 +10225,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/fc1b365a-18a6-437a-87e7-a86d8fdbf797/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260418183000 +0000" stop="20260418190000 +0000">
-    <title lang="en">Tech Now</title>
-    <desc lang="en">Paul Carter checks out the newest phones, gadgets and trends from MWC Barcelona. Suranjana Tewari explores developments in drone technology at the Singapore Airshow.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e3528431-1d3e-4fbc-9b0f-3b67b4654ea1/cover"/>
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/212a7fb2-3327-4f29-85f4-d58c85b0a6d2/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260418190000 +0000" stop="20260418193000 +0000">
     <title lang="en">BBC News</title>
@@ -10795,9 +10783,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/7197f90f-e737-4194-8293-cf3bb9da2e60/cover"/>
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260418120000 +0000" stop="20260418130000 +0000">
-    <title lang="en">Bargain Hunt</title>
-    <desc lang="en">Join Danny Sebastian for today's show from Harrogate, North Yorkshire, with experts Izzie Balmer and John Cameron. Danny gets some upcycling tips before heading to the auction.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f673765e-514c-3852-a2ba-d82950274d60/cover"/>
+    <title lang="en">Snooker: World Championship</title>
+    <desc lang="en">Continuing coverage of Zhao Xintong v Liam Highfield.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/4d0349d6-b933-4792-bc32-a2e353b17d39/cover"/>
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260418130000 +0000" stop="20260418153000 +0000">
     <title lang="en">Snooker: World Championship</title>
@@ -11006,6 +10994,8 @@
     <title lang="en">Countryfile</title>
     <desc lang="en">John Craven and Charlotte Smith are in the Peak District National Park, famed for its breathtaking landscapes and wildlife.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/09110eee-d4fa-440c-a706-a1d6a6699d02/cover"/>
+    <episode-num system="xmltv_ns">2025.52.0</episode-num>
+    <episode-num system="onscreen">S2026E53</episode-num>
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260419180000 +0000" stop="20260419190000 +0000">
     <title lang="en">Secret Garden</title>
@@ -11274,9 +11264,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/fe958741-e2a0-4975-8e86-8406060c42d9/cover"/>
   </programme>
   <programme channel="BBCOneEast.uk" start="20260418120000 +0000" stop="20260418130000 +0000">
-    <title lang="en">Bargain Hunt</title>
-    <desc lang="en">Join Danny Sebastian for today's show from Harrogate, North Yorkshire, with experts Izzie Balmer and John Cameron. Danny gets some upcycling tips before heading to the auction.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f673765e-514c-3852-a2ba-d82950274d60/cover"/>
+    <title lang="en">Snooker: World Championship</title>
+    <desc lang="en">Continuing coverage of Zhao Xintong v Liam Highfield.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/e209b101-315e-4bde-aee7-028179679ca0/cover"/>
   </programme>
   <programme channel="BBCOneEast.uk" start="20260418130000 +0000" stop="20260418153000 +0000">
     <title lang="en">Snooker: World Championship</title>
@@ -11485,6 +11475,8 @@
     <title lang="en">Countryfile</title>
     <desc lang="en">John Craven and Charlotte Smith are in the Peak District National Park, famed for its breathtaking landscapes and wildlife.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/09110eee-d4fa-440c-a706-a1d6a6699d02/cover"/>
+    <episode-num system="xmltv_ns">2025.52.0</episode-num>
+    <episode-num system="onscreen">S2026E53</episode-num>
   </programme>
   <programme channel="BBCOneEast.uk" start="20260419180000 +0000" stop="20260419190000 +0000">
     <title lang="en">Secret Garden</title>
@@ -11753,9 +11745,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/9d3550c1-61d9-42ab-b6f5-993423c86841/cover"/>
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260418120000 +0000" stop="20260418130000 +0000">
-    <title lang="en">Bargain Hunt</title>
-    <desc lang="en">Join Danny Sebastian for today's show from Harrogate, North Yorkshire, with experts Izzie Balmer and John Cameron. Danny gets some upcycling tips before heading to the auction.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f673765e-514c-3852-a2ba-d82950274d60/cover"/>
+    <title lang="en">Snooker: World Championship</title>
+    <desc lang="en">Continuing coverage of Zhao Xintong v Liam Highfield.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/cde64310-3975-400d-894f-f8f5b6b66ac6/cover"/>
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260418130000 +0000" stop="20260418153000 +0000">
     <title lang="en">Snooker: World Championship</title>
@@ -11964,6 +11956,8 @@
     <title lang="en">Countryfile</title>
     <desc lang="en">John Craven and Charlotte Smith are in the Peak District National Park, famed for its breathtaking landscapes and wildlife.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/09110eee-d4fa-440c-a706-a1d6a6699d02/cover"/>
+    <episode-num system="xmltv_ns">2025.52.0</episode-num>
+    <episode-num system="onscreen">S2026E53</episode-num>
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260419180000 +0000" stop="20260419190000 +0000">
     <title lang="en">Secret Garden</title>
@@ -12232,9 +12226,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/fd89849e-ad97-43a7-a881-e3128e8bc197/cover"/>
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260418120000 +0000" stop="20260418130000 +0000">
-    <title lang="en">Bargain Hunt</title>
-    <desc lang="en">Join Danny Sebastian for today's show from Harrogate, North Yorkshire, with experts Izzie Balmer and John Cameron. Danny gets some upcycling tips before heading to the auction.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f673765e-514c-3852-a2ba-d82950274d60/cover"/>
+    <title lang="en">Snooker: World Championship</title>
+    <desc lang="en">Continuing coverage of Zhao Xintong v Liam Highfield.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/b925e4c2-c56b-4cf4-8702-6252ca196a3a/cover"/>
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260418130000 +0000" stop="20260418153000 +0000">
     <title lang="en">Snooker: World Championship</title>
@@ -12443,6 +12437,8 @@
     <title lang="en">Countryfile</title>
     <desc lang="en">John Craven and Charlotte Smith are in the Peak District National Park, famed for its breathtaking landscapes and wildlife.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/09110eee-d4fa-440c-a706-a1d6a6699d02/cover"/>
+    <episode-num system="xmltv_ns">2025.52.0</episode-num>
+    <episode-num system="onscreen">S2026E53</episode-num>
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260419180000 +0000" stop="20260419190000 +0000">
     <title lang="en">Secret Garden</title>
@@ -12711,9 +12707,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/d6a5cb9b-cdd0-43d2-a73d-520b4560543b/cover"/>
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260418120000 +0000" stop="20260418130000 +0000">
-    <title lang="en">Bargain Hunt</title>
-    <desc lang="en">Join Danny Sebastian for today's show from Harrogate, North Yorkshire, with experts Izzie Balmer and John Cameron. Danny gets some upcycling tips before heading to the auction.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f673765e-514c-3852-a2ba-d82950274d60/cover"/>
+    <title lang="en">Snooker: World Championship</title>
+    <desc lang="en">Continuing coverage of Zhao Xintong v Liam Highfield.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ddd8eee8-500a-4b5b-9a66-88359d6f319a/cover"/>
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260418130000 +0000" stop="20260418153000 +0000">
     <title lang="en">Snooker: World Championship</title>
@@ -12922,6 +12918,8 @@
     <title lang="en">Countryfile</title>
     <desc lang="en">John Craven and Charlotte Smith are in the Peak District National Park, famed for its breathtaking landscapes and wildlife.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/09110eee-d4fa-440c-a706-a1d6a6699d02/cover"/>
+    <episode-num system="xmltv_ns">2025.52.0</episode-num>
+    <episode-num system="onscreen">S2026E53</episode-num>
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260419180000 +0000" stop="20260419190000 +0000">
     <title lang="en">Secret Garden</title>
@@ -13190,9 +13188,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/3e1e5e3a-4907-4a04-873f-e08d6f027963/cover"/>
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260418120000 +0000" stop="20260418130000 +0000">
-    <title lang="en">Bargain Hunt</title>
-    <desc lang="en">Join Danny Sebastian for today's show from Harrogate, North Yorkshire, with experts Izzie Balmer and John Cameron. Danny gets some upcycling tips before heading to the auction.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f673765e-514c-3852-a2ba-d82950274d60/cover"/>
+    <title lang="en">Snooker: World Championship</title>
+    <desc lang="en">Continuing coverage of Zhao Xintong v Liam Highfield.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/de0316de-896a-46a9-98bd-064206f2fee5/cover"/>
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260418130000 +0000" stop="20260418153000 +0000">
     <title lang="en">Snooker: World Championship</title>
@@ -13401,6 +13399,8 @@
     <title lang="en">Countryfile</title>
     <desc lang="en">John Craven and Charlotte Smith are in the Peak District National Park, famed for its breathtaking landscapes and wildlife.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/09110eee-d4fa-440c-a706-a1d6a6699d02/cover"/>
+    <episode-num system="xmltv_ns">2025.52.0</episode-num>
+    <episode-num system="onscreen">S2026E53</episode-num>
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260419180000 +0000" stop="20260419190000 +0000">
     <title lang="en">Secret Garden</title>
@@ -13669,9 +13669,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/9eb33445-a34d-41cf-b625-eef509c5930d/cover"/>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260418120000 +0000" stop="20260418130000 +0000">
-    <title lang="en">Bargain Hunt</title>
-    <desc lang="en">Join Danny Sebastian for today's show from Harrogate, North Yorkshire, with experts Izzie Balmer and John Cameron. Danny gets some upcycling tips before heading to the auction.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f673765e-514c-3852-a2ba-d82950274d60/cover"/>
+    <title lang="en">Snooker: World Championship</title>
+    <desc lang="en">Continuing coverage of Zhao Xintong v Liam Highfield.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/466cbf27-e0ee-4b9d-b246-0c56a2d86d03/cover"/>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260418130000 +0000" stop="20260418153000 +0000">
     <title lang="en">Snooker: World Championship</title>
@@ -13870,6 +13870,8 @@
     <title lang="en">Countryfile</title>
     <desc lang="en">John Craven and Charlotte Smith are in the Peak District National Park, famed for its breathtaking landscapes and wildlife.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/09110eee-d4fa-440c-a706-a1d6a6699d02/cover"/>
+    <episode-num system="xmltv_ns">2025.52.0</episode-num>
+    <episode-num system="onscreen">S2026E53</episode-num>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260419180000 +0000" stop="20260419190000 +0000">
     <title lang="en">Secret Garden</title>
@@ -14131,12 +14133,12 @@
     <episode-num system="xmltv_ns">26.0.0</episode-num>
     <episode-num system="onscreen">S27E1</episode-num>
   </programme>
-  <programme channel="BBCOneScotHD.uk" start="20260418110000 +0000" stop="20260418140000 +0000">
+  <programme channel="BBCOneScotHD.uk" start="20260418110000 +0000" stop="20260418143000 +0000">
     <title lang="en">Sportscene: Scottish Cup Semi-Final</title>
     <desc lang="en">Live Scottish Cup semi-final action as Dunfermline take on local rivals Falkirk for a place in the final.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/07008606-cf3d-4629-82d4-11eaba24192d/cover"/>
   </programme>
-  <programme channel="BBCOneScotHD.uk" start="20260418140000 +0000" stop="20260418153000 +0000">
+  <programme channel="BBCOneScotHD.uk" start="20260418143000 +0000" stop="20260418153000 +0000">
     <title lang="en">Snooker: World Championship</title>
     <desc lang="en">Coverage of day 1 of the World Snooker Championship at the Crucible Theatre, Sheffield.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/50328dd2-0ee8-4193-989e-82bb61fa5965/cover"/>
@@ -14338,6 +14340,8 @@
     <title lang="en">Countryfile</title>
     <desc lang="en">John Craven and Charlotte Smith are in the Peak District National Park, famed for its breathtaking landscapes and wildlife.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/09110eee-d4fa-440c-a706-a1d6a6699d02/cover"/>
+    <episode-num system="xmltv_ns">2025.52.0</episode-num>
+    <episode-num system="onscreen">S2026E53</episode-num>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260419180000 +0000" stop="20260419190000 +0000">
     <title lang="en">Secret Garden</title>
@@ -14620,9 +14624,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/55e41fe5-e3d0-486f-8041-321dc0bcfd8f/cover"/>
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260418120000 +0000" stop="20260418130000 +0000">
-    <title lang="en">Bargain Hunt</title>
-    <desc lang="en">Join Danny Sebastian for today's show from Harrogate, North Yorkshire, with experts Izzie Balmer and John Cameron. Danny gets some upcycling tips before heading to the auction.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f673765e-514c-3852-a2ba-d82950274d60/cover"/>
+    <title lang="en">Snooker: World Championship</title>
+    <desc lang="en">Continuing coverage of Zhao Xintong v Liam Highfield.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7047b7e0-dbb9-4008-a1be-aa3e4fb09a4b/cover"/>
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260418130000 +0000" stop="20260418153000 +0000">
     <title lang="en">Snooker: World Championship</title>
@@ -14831,6 +14835,8 @@
     <title lang="en">Countryfile</title>
     <desc lang="en">John Craven and Charlotte Smith are in the Peak District National Park, famed for its breathtaking landscapes and wildlife.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/09110eee-d4fa-440c-a706-a1d6a6699d02/cover"/>
+    <episode-num system="xmltv_ns">2025.52.0</episode-num>
+    <episode-num system="onscreen">S2026E53</episode-num>
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260419180000 +0000" stop="20260419190000 +0000">
     <title lang="en">Secret Garden</title>
@@ -15099,9 +15105,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/f61b6415-d1db-4fde-86b2-a17e87e63f55/cover"/>
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260418120000 +0000" stop="20260418130000 +0000">
-    <title lang="en">Bargain Hunt</title>
-    <desc lang="en">Join Danny Sebastian for today's show from Harrogate, North Yorkshire, with experts Izzie Balmer and John Cameron. Danny gets some upcycling tips before heading to the auction.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f673765e-514c-3852-a2ba-d82950274d60/cover"/>
+    <title lang="en">Snooker: World Championship</title>
+    <desc lang="en">Continuing coverage of Zhao Xintong v Liam Highfield.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/268d2783-e3dc-49ed-8b45-41e22c27cd18/cover"/>
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260418130000 +0000" stop="20260418153000 +0000">
     <title lang="en">Snooker: World Championship</title>
@@ -15310,6 +15316,8 @@
     <title lang="en">Countryfile</title>
     <desc lang="en">John Craven and Charlotte Smith are in the Peak District National Park, famed for its breathtaking landscapes and wildlife.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/09110eee-d4fa-440c-a706-a1d6a6699d02/cover"/>
+    <episode-num system="xmltv_ns">2025.52.0</episode-num>
+    <episode-num system="onscreen">S2026E53</episode-num>
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260419180000 +0000" stop="20260419190000 +0000">
     <title lang="en">Secret Garden</title>
@@ -15578,9 +15586,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/fde506de-7b77-4865-90d6-4fe8a85976c0/cover"/>
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260418120000 +0000" stop="20260418130000 +0000">
-    <title lang="en">Bargain Hunt</title>
-    <desc lang="en">Join Danny Sebastian for today's show from Harrogate, North Yorkshire, with experts Izzie Balmer and John Cameron. Danny gets some upcycling tips before heading to the auction.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f673765e-514c-3852-a2ba-d82950274d60/cover"/>
+    <title lang="en">Snooker: World Championship</title>
+    <desc lang="en">Continuing coverage of Zhao Xintong v Liam Highfield.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1646b039-13d9-487e-9ce8-7cdb83e9739d/cover"/>
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260418130000 +0000" stop="20260418153000 +0000">
     <title lang="en">Snooker: World Championship</title>
@@ -15789,6 +15797,8 @@
     <title lang="en">Countryfile</title>
     <desc lang="en">John Craven and Charlotte Smith are in the Peak District National Park, famed for its breathtaking landscapes and wildlife.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/09110eee-d4fa-440c-a706-a1d6a6699d02/cover"/>
+    <episode-num system="xmltv_ns">2025.52.0</episode-num>
+    <episode-num system="onscreen">S2026E53</episode-num>
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260419180000 +0000" stop="20260419190000 +0000">
     <title lang="en">Secret Garden</title>
@@ -16286,6 +16296,8 @@
     <title lang="en">Countryfile</title>
     <desc lang="en">John Craven and Charlotte Smith are in the Peak District National Park, famed for its breathtaking landscapes and wildlife.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/09110eee-d4fa-440c-a706-a1d6a6699d02/cover"/>
+    <episode-num system="xmltv_ns">2025.52.0</episode-num>
+    <episode-num system="onscreen">S2026E53</episode-num>
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20260419180000 +0000" stop="20260419190000 +0000">
     <title lang="en">Secret Garden</title>
@@ -16569,9 +16581,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/e36ef3b3-d767-4c48-8ab7-e9682a837162/cover"/>
   </programme>
   <programme channel="BBCOneWest.uk" start="20260418120000 +0000" stop="20260418130000 +0000">
-    <title lang="en">Bargain Hunt</title>
-    <desc lang="en">Join Danny Sebastian for today's show from Harrogate, North Yorkshire, with experts Izzie Balmer and John Cameron. Danny gets some upcycling tips before heading to the auction.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f673765e-514c-3852-a2ba-d82950274d60/cover"/>
+    <title lang="en">Snooker: World Championship</title>
+    <desc lang="en">Continuing coverage of Zhao Xintong v Liam Highfield.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/54df908a-2b99-462f-92bb-529fdc39a9be/cover"/>
   </programme>
   <programme channel="BBCOneWest.uk" start="20260418130000 +0000" stop="20260418153000 +0000">
     <title lang="en">Snooker: World Championship</title>
@@ -16780,6 +16792,8 @@
     <title lang="en">Countryfile</title>
     <desc lang="en">John Craven and Charlotte Smith are in the Peak District National Park, famed for its breathtaking landscapes and wildlife.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/09110eee-d4fa-440c-a706-a1d6a6699d02/cover"/>
+    <episode-num system="xmltv_ns">2025.52.0</episode-num>
+    <episode-num system="onscreen">S2026E53</episode-num>
   </programme>
   <programme channel="BBCOneWest.uk" start="20260419180000 +0000" stop="20260419190000 +0000">
     <title lang="en">Secret Garden</title>
@@ -17048,9 +17062,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/d9e2562c-9a83-4569-b2db-67820d1fe7f8/cover"/>
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260418120000 +0000" stop="20260418130000 +0000">
-    <title lang="en">Bargain Hunt</title>
-    <desc lang="en">Join Danny Sebastian for today's show from Harrogate, North Yorkshire, with experts Izzie Balmer and John Cameron. Danny gets some upcycling tips before heading to the auction.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f673765e-514c-3852-a2ba-d82950274d60/cover"/>
+    <title lang="en">Snooker: World Championship</title>
+    <desc lang="en">Continuing coverage of Zhao Xintong v Liam Highfield.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8718e863-7a83-4ecf-8cb8-cb49f9424f4d/cover"/>
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260418130000 +0000" stop="20260418153000 +0000">
     <title lang="en">Snooker: World Championship</title>
@@ -17259,6 +17273,8 @@
     <title lang="en">Countryfile</title>
     <desc lang="en">John Craven and Charlotte Smith are in the Peak District National Park, famed for its breathtaking landscapes and wildlife.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/09110eee-d4fa-440c-a706-a1d6a6699d02/cover"/>
+    <episode-num system="xmltv_ns">2025.52.0</episode-num>
+    <episode-num system="onscreen">S2026E53</episode-num>
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260419180000 +0000" stop="20260419190000 +0000">
     <title lang="en">Secret Garden</title>
@@ -17527,9 +17543,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/7e1fbd4c-4b6b-4d3a-993d-e77373a9f39f/cover"/>
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260418120000 +0000" stop="20260418130000 +0000">
-    <title lang="en">Bargain Hunt</title>
-    <desc lang="en">Join Danny Sebastian for today's show from Harrogate, North Yorkshire, with experts Izzie Balmer and John Cameron. Danny gets some upcycling tips before heading to the auction.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f673765e-514c-3852-a2ba-d82950274d60/cover"/>
+    <title lang="en">Snooker: World Championship</title>
+    <desc lang="en">Continuing coverage of Zhao Xintong v Liam Highfield.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/c0981592-2491-49d7-ac6a-3213ba8d4a7d/cover"/>
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260418130000 +0000" stop="20260418153000 +0000">
     <title lang="en">Snooker: World Championship</title>
@@ -17738,6 +17754,8 @@
     <title lang="en">Countryfile</title>
     <desc lang="en">John Craven and Charlotte Smith are in the Peak District National Park, famed for its breathtaking landscapes and wildlife.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/09110eee-d4fa-440c-a706-a1d6a6699d02/cover"/>
+    <episode-num system="xmltv_ns">2025.52.0</episode-num>
+    <episode-num system="onscreen">S2026E53</episode-num>
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260419180000 +0000" stop="20260419190000 +0000">
     <title lang="en">Secret Garden</title>
@@ -18006,9 +18024,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/687316af-7dfc-4046-bb32-42f55029b7a4/cover"/>
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260418120000 +0000" stop="20260418130000 +0000">
-    <title lang="en">Bargain Hunt</title>
-    <desc lang="en">Join Danny Sebastian for today's show from Harrogate, North Yorkshire, with experts Izzie Balmer and John Cameron. Danny gets some upcycling tips before heading to the auction.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f673765e-514c-3852-a2ba-d82950274d60/cover"/>
+    <title lang="en">Snooker: World Championship</title>
+    <desc lang="en">Continuing coverage of Zhao Xintong v Liam Highfield.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/bf7d11de-91fc-47cd-8531-2b365899b1c8/cover"/>
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260418130000 +0000" stop="20260418153000 +0000">
     <title lang="en">Snooker: World Championship</title>
@@ -18217,6 +18235,8 @@
     <title lang="en">Countryfile</title>
     <desc lang="en">John Craven and Charlotte Smith are in the Peak District National Park, famed for its breathtaking landscapes and wildlife.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/09110eee-d4fa-440c-a706-a1d6a6699d02/cover"/>
+    <episode-num system="xmltv_ns">2025.52.0</episode-num>
+    <episode-num system="onscreen">S2026E53</episode-num>
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260419180000 +0000" stop="20260419190000 +0000">
     <title lang="en">Secret Garden</title>
@@ -19189,9 +19209,9 @@
     <desc lang="en">Programmes start at 7.00pm.</desc>
   </programme>
   <programme channel="BBCThreeHD.uk" start="20260418180000 +0000" stop="20260418181000 +0000">
-    <title lang="en">Proper Ladies</title>
-    <desc lang="en">Four very different schoolgirls are thrown together in detention. As they plan their escape, the situation spirals out of control.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c9424696-d427-442c-9d07-8761fbeba4b7/cover"/>
+    <title lang="en">Jobless</title>
+    <desc lang="en">Sixteen-year-old twins Tai and Kenny are desperate to make their mark on the world. That's hard when you live with your parents, and even harder when you live in Milton Keynes...</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/c0a7340f-edc2-4026-bb7c-4cb6ae846e12/cover"/>
   </programme>
   <programme channel="BBCThreeHD.uk" start="20260418181000 +0000" stop="20260418193000 +0000">
     <title lang="en">Doctor Who: 20 Years of Tennant</title>
@@ -19277,7 +19297,7 @@
   </programme>
   <programme channel="BBCThreeHD.uk" start="20260419010000 +0000" stop="20260419011000 +0000">
     <title lang="en">Proper Ladies</title>
-    <desc lang="en">Four very different schoolgirls are thrown together in detention. As they plan their escape, the situation spirals out of control.</desc>
+    <desc lang="en">Four very different schoolgirls are thrown together in detention. As they plan their escape, the situation spirals out of control. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c9424696-d427-442c-9d07-8761fbeba4b7/cover"/>
   </programme>
   <programme channel="BBCThreeHD.uk" start="20260419011000 +0000" stop="20260419014000 +0000">
@@ -20815,9 +20835,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/a8e550b4-475c-4ae7-8c1d-34338cbbf952/cover"/>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20260418120000 +0000" stop="20260418130000 +0000">
-    <title lang="en">Bargain Hunt</title>
-    <desc lang="en">Join Danny Sebastian for today's show from Harrogate, North Yorkshire, with experts Izzie Balmer and John Cameron. Danny gets some upcycling tips before heading to the auction.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f673765e-514c-3852-a2ba-d82950274d60/cover"/>
+    <title lang="en">Snooker: World Championship</title>
+    <desc lang="en">Continuing coverage of Zhao Xintong v Liam Highfield.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/c477624c-24da-4183-a0fc-36a4b317db82/cover"/>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20260418130000 +0000" stop="20260418153000 +0000">
     <title lang="en">Snooker: World Championship</title>
@@ -34816,7 +34836,7 @@
   <programme channel="ITV1CentralE.uk" start="20260418210000 +0000" stop="20260418215000 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">Blue Bettle: The first episode of a Canadian drama series. When two criminals are found dead at the US-Canada border, the lead investigator clashes with local officer Henry Roland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/26c5f6b9-00de-4ec7-849c-c27e24bddfbf/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9a17ae4e-2b0e-4f8a-a711-163a32d243d6/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -34829,8 +34849,10 @@
   <programme channel="ITV1CentralE.uk" start="20260418221000 +0000" stop="20260418230500 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">Strange River: Canadian drama series. Henry scrambles to cover his tracks while staying ahead of Erica's growing suspicions and urges Tommy to co-operate with the authorities.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/dca4d359-be2b-4b1b-b02c-ce51131dc8a3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/825cecd7-5447-4769-a824-71fae3488a36/cover"/>
     <premiere/>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="ITV1CentralE.uk" start="20260418230500 +0000" stop="20260419003000 +0000">
     <title lang="en">English Football League Highlights</title>
@@ -34845,7 +34867,7 @@
   <programme channel="ITV1CentralE.uk" start="20260419020000 +0000" stop="20260419025000 +0000">
     <title lang="en">The Murder Line</title>
     <desc lang="en">Blue Bettle: The first episode of a Canadian drama series. When two criminals are found dead at the US-Canada border, the lead investigator clashes with local officer Henry Roland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/26c5f6b9-00de-4ec7-849c-c27e24bddfbf/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9a17ae4e-2b0e-4f8a-a711-163a32d243d6/cover"/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
@@ -34976,7 +34998,7 @@
   <programme channel="ITV1CentralE.uk" start="20260419211500 +0000" stop="20260419220500 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">No Loose Ends: Canadian drama series. Tommy is determined to recover the missing drugs and regain favour with New York kingpin Duke, and Duke's enforcers arrive to pressure May.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9e8bfdf7-ceb2-499d-b5f5-3f0abc3da798/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/b52efdd5-92b2-4296-b0ab-272874292075/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.2.0</episode-num>
     <episode-num system="onscreen">S1E3</episode-num>
@@ -34996,7 +35018,9 @@
   <programme channel="ITV1CentralE.uk" start="20260420020000 +0000" stop="20260420025000 +0000">
     <title lang="en">The Murder Line</title>
     <desc lang="en">Strange River: Canadian drama series. Henry scrambles to cover his tracks while staying ahead of Erica's growing suspicions and urges Tommy to co-operate with the authorities.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/dca4d359-be2b-4b1b-b02c-ce51131dc8a3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/825cecd7-5447-4769-a824-71fae3488a36/cover"/>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="ITV1CentralE.uk" start="20260420025000 +0000" stop="20260420031500 +0000">
     <title lang="en">DMV: Department of Motor Vehicles</title>
@@ -35136,7 +35160,7 @@
   <programme channel="ITV1CentralE.uk" start="20260420220000 +0000" stop="20260420230000 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">No Room at the No Tell Motel: Canadian drama series. Chaos unfolds as Henry realises that his family is in danger, and Miles and Ruby's drug operation takes a dangerous turn.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d87882a6-cd16-44d7-a1af-a7ed7248a2bc/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/6c0d6371-527e-425e-911b-329f0708e9b7/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.3.0</episode-num>
     <episode-num system="onscreen">S1E4</episode-num>
@@ -35284,7 +35308,7 @@
   <programme channel="ITV1CentralW.uk" start="20260418210000 +0000" stop="20260418215000 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">Blue Bettle: The first episode of a Canadian drama series. When two criminals are found dead at the US-Canada border, the lead investigator clashes with local officer Henry Roland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/26c5f6b9-00de-4ec7-849c-c27e24bddfbf/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9a17ae4e-2b0e-4f8a-a711-163a32d243d6/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -35297,8 +35321,10 @@
   <programme channel="ITV1CentralW.uk" start="20260418221000 +0000" stop="20260418230500 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">Strange River: Canadian drama series. Henry scrambles to cover his tracks while staying ahead of Erica's growing suspicions and urges Tommy to co-operate with the authorities.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/dca4d359-be2b-4b1b-b02c-ce51131dc8a3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/825cecd7-5447-4769-a824-71fae3488a36/cover"/>
     <premiere/>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="ITV1CentralW.uk" start="20260418230500 +0000" stop="20260419003000 +0000">
     <title lang="en">English Football League Highlights</title>
@@ -35313,7 +35339,7 @@
   <programme channel="ITV1CentralW.uk" start="20260419020000 +0000" stop="20260419025000 +0000">
     <title lang="en">The Murder Line</title>
     <desc lang="en">Blue Bettle: The first episode of a Canadian drama series. When two criminals are found dead at the US-Canada border, the lead investigator clashes with local officer Henry Roland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/26c5f6b9-00de-4ec7-849c-c27e24bddfbf/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9a17ae4e-2b0e-4f8a-a711-163a32d243d6/cover"/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
@@ -35444,7 +35470,7 @@
   <programme channel="ITV1CentralW.uk" start="20260419211500 +0000" stop="20260419220500 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">No Loose Ends: Canadian drama series. Tommy is determined to recover the missing drugs and regain favour with New York kingpin Duke, and Duke's enforcers arrive to pressure May.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9e8bfdf7-ceb2-499d-b5f5-3f0abc3da798/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/b52efdd5-92b2-4296-b0ab-272874292075/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.2.0</episode-num>
     <episode-num system="onscreen">S1E3</episode-num>
@@ -35464,7 +35490,9 @@
   <programme channel="ITV1CentralW.uk" start="20260420020000 +0000" stop="20260420025000 +0000">
     <title lang="en">The Murder Line</title>
     <desc lang="en">Strange River: Canadian drama series. Henry scrambles to cover his tracks while staying ahead of Erica's growing suspicions and urges Tommy to co-operate with the authorities.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/dca4d359-be2b-4b1b-b02c-ce51131dc8a3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/825cecd7-5447-4769-a824-71fae3488a36/cover"/>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="ITV1CentralW.uk" start="20260420025000 +0000" stop="20260420031500 +0000">
     <title lang="en">DMV: Department of Motor Vehicles</title>
@@ -35604,7 +35632,7 @@
   <programme channel="ITV1CentralW.uk" start="20260420220000 +0000" stop="20260420230000 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">No Room at the No Tell Motel: Canadian drama series. Chaos unfolds as Henry realises that his family is in danger, and Miles and Ruby's drug operation takes a dangerous turn.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d87882a6-cd16-44d7-a1af-a7ed7248a2bc/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/6c0d6371-527e-425e-911b-329f0708e9b7/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.3.0</episode-num>
     <episode-num system="onscreen">S1E4</episode-num>
@@ -35752,7 +35780,7 @@
   <programme channel="ITV1London.uk" start="20260418210000 +0000" stop="20260418215000 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">Blue Bettle: The first episode of a Canadian drama series. When two criminals are found dead at the US-Canada border, the lead investigator clashes with local officer Henry Roland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/26c5f6b9-00de-4ec7-849c-c27e24bddfbf/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9a17ae4e-2b0e-4f8a-a711-163a32d243d6/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -35765,8 +35793,10 @@
   <programme channel="ITV1London.uk" start="20260418221000 +0000" stop="20260418230500 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">Strange River: Canadian drama series. Henry scrambles to cover his tracks while staying ahead of Erica's growing suspicions and urges Tommy to co-operate with the authorities.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/dca4d359-be2b-4b1b-b02c-ce51131dc8a3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/825cecd7-5447-4769-a824-71fae3488a36/cover"/>
     <premiere/>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="ITV1London.uk" start="20260418230500 +0000" stop="20260419003000 +0000">
     <title lang="en">English Football League Highlights</title>
@@ -35781,7 +35811,7 @@
   <programme channel="ITV1London.uk" start="20260419020000 +0000" stop="20260419025000 +0000">
     <title lang="en">The Murder Line</title>
     <desc lang="en">Blue Bettle: The first episode of a Canadian drama series. When two criminals are found dead at the US-Canada border, the lead investigator clashes with local officer Henry Roland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/26c5f6b9-00de-4ec7-849c-c27e24bddfbf/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9a17ae4e-2b0e-4f8a-a711-163a32d243d6/cover"/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
@@ -35912,7 +35942,7 @@
   <programme channel="ITV1London.uk" start="20260419211500 +0000" stop="20260419220500 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">No Loose Ends: Canadian drama series. Tommy is determined to recover the missing drugs and regain favour with New York kingpin Duke, and Duke's enforcers arrive to pressure May.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9e8bfdf7-ceb2-499d-b5f5-3f0abc3da798/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/b52efdd5-92b2-4296-b0ab-272874292075/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.2.0</episode-num>
     <episode-num system="onscreen">S1E3</episode-num>
@@ -35932,7 +35962,9 @@
   <programme channel="ITV1London.uk" start="20260420020000 +0000" stop="20260420025000 +0000">
     <title lang="en">The Murder Line</title>
     <desc lang="en">Strange River: Canadian drama series. Henry scrambles to cover his tracks while staying ahead of Erica's growing suspicions and urges Tommy to co-operate with the authorities.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/dca4d359-be2b-4b1b-b02c-ce51131dc8a3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/825cecd7-5447-4769-a824-71fae3488a36/cover"/>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="ITV1London.uk" start="20260420025000 +0000" stop="20260420031500 +0000">
     <title lang="en">DMV: Department of Motor Vehicles</title>
@@ -36072,7 +36104,7 @@
   <programme channel="ITV1London.uk" start="20260420220000 +0000" stop="20260420230000 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">No Room at the No Tell Motel: Canadian drama series. Chaos unfolds as Henry realises that his family is in danger, and Miles and Ruby's drug operation takes a dangerous turn.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d87882a6-cd16-44d7-a1af-a7ed7248a2bc/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/6c0d6371-527e-425e-911b-329f0708e9b7/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.3.0</episode-num>
     <episode-num system="onscreen">S1E4</episode-num>
@@ -36220,7 +36252,7 @@
   <programme channel="ITV1MeridianE.uk" start="20260418210000 +0000" stop="20260418215000 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">Blue Bettle: The first episode of a Canadian drama series. When two criminals are found dead at the US-Canada border, the lead investigator clashes with local officer Henry Roland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/26c5f6b9-00de-4ec7-849c-c27e24bddfbf/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9a17ae4e-2b0e-4f8a-a711-163a32d243d6/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -36233,8 +36265,10 @@
   <programme channel="ITV1MeridianE.uk" start="20260418221000 +0000" stop="20260418230500 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">Strange River: Canadian drama series. Henry scrambles to cover his tracks while staying ahead of Erica's growing suspicions and urges Tommy to co-operate with the authorities.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/dca4d359-be2b-4b1b-b02c-ce51131dc8a3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/825cecd7-5447-4769-a824-71fae3488a36/cover"/>
     <premiere/>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="ITV1MeridianE.uk" start="20260418230500 +0000" stop="20260419003000 +0000">
     <title lang="en">English Football League Highlights</title>
@@ -36249,7 +36283,7 @@
   <programme channel="ITV1MeridianE.uk" start="20260419020000 +0000" stop="20260419025000 +0000">
     <title lang="en">The Murder Line</title>
     <desc lang="en">Blue Bettle: The first episode of a Canadian drama series. When two criminals are found dead at the US-Canada border, the lead investigator clashes with local officer Henry Roland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/26c5f6b9-00de-4ec7-849c-c27e24bddfbf/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9a17ae4e-2b0e-4f8a-a711-163a32d243d6/cover"/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
@@ -36380,7 +36414,7 @@
   <programme channel="ITV1MeridianE.uk" start="20260419211500 +0000" stop="20260419220500 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">No Loose Ends: Canadian drama series. Tommy is determined to recover the missing drugs and regain favour with New York kingpin Duke, and Duke's enforcers arrive to pressure May.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9e8bfdf7-ceb2-499d-b5f5-3f0abc3da798/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/b52efdd5-92b2-4296-b0ab-272874292075/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.2.0</episode-num>
     <episode-num system="onscreen">S1E3</episode-num>
@@ -36400,7 +36434,9 @@
   <programme channel="ITV1MeridianE.uk" start="20260420020000 +0000" stop="20260420025000 +0000">
     <title lang="en">The Murder Line</title>
     <desc lang="en">Strange River: Canadian drama series. Henry scrambles to cover his tracks while staying ahead of Erica's growing suspicions and urges Tommy to co-operate with the authorities.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/dca4d359-be2b-4b1b-b02c-ce51131dc8a3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/825cecd7-5447-4769-a824-71fae3488a36/cover"/>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="ITV1MeridianE.uk" start="20260420025000 +0000" stop="20260420031500 +0000">
     <title lang="en">DMV: Department of Motor Vehicles</title>
@@ -36540,7 +36576,7 @@
   <programme channel="ITV1MeridianE.uk" start="20260420220000 +0000" stop="20260420230000 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">No Room at the No Tell Motel: Canadian drama series. Chaos unfolds as Henry realises that his family is in danger, and Miles and Ruby's drug operation takes a dangerous turn.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d87882a6-cd16-44d7-a1af-a7ed7248a2bc/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/6c0d6371-527e-425e-911b-329f0708e9b7/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.3.0</episode-num>
     <episode-num system="onscreen">S1E4</episode-num>
@@ -36688,7 +36724,7 @@
   <programme channel="ITV1MeridianN.uk" start="20260418210000 +0000" stop="20260418215000 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">Blue Bettle: The first episode of a Canadian drama series. When two criminals are found dead at the US-Canada border, the lead investigator clashes with local officer Henry Roland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/26c5f6b9-00de-4ec7-849c-c27e24bddfbf/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9a17ae4e-2b0e-4f8a-a711-163a32d243d6/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -36701,8 +36737,10 @@
   <programme channel="ITV1MeridianN.uk" start="20260418221000 +0000" stop="20260418230500 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">Strange River: Canadian drama series. Henry scrambles to cover his tracks while staying ahead of Erica's growing suspicions and urges Tommy to co-operate with the authorities.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/dca4d359-be2b-4b1b-b02c-ce51131dc8a3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/825cecd7-5447-4769-a824-71fae3488a36/cover"/>
     <premiere/>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="ITV1MeridianN.uk" start="20260418230500 +0000" stop="20260419003000 +0000">
     <title lang="en">English Football League Highlights</title>
@@ -36717,7 +36755,7 @@
   <programme channel="ITV1MeridianN.uk" start="20260419020000 +0000" stop="20260419025000 +0000">
     <title lang="en">The Murder Line</title>
     <desc lang="en">Blue Bettle: The first episode of a Canadian drama series. When two criminals are found dead at the US-Canada border, the lead investigator clashes with local officer Henry Roland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/26c5f6b9-00de-4ec7-849c-c27e24bddfbf/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9a17ae4e-2b0e-4f8a-a711-163a32d243d6/cover"/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
@@ -36848,7 +36886,7 @@
   <programme channel="ITV1MeridianN.uk" start="20260419211500 +0000" stop="20260419220500 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">No Loose Ends: Canadian drama series. Tommy is determined to recover the missing drugs and regain favour with New York kingpin Duke, and Duke's enforcers arrive to pressure May.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9e8bfdf7-ceb2-499d-b5f5-3f0abc3da798/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/b52efdd5-92b2-4296-b0ab-272874292075/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.2.0</episode-num>
     <episode-num system="onscreen">S1E3</episode-num>
@@ -36868,7 +36906,9 @@
   <programme channel="ITV1MeridianN.uk" start="20260420020000 +0000" stop="20260420025000 +0000">
     <title lang="en">The Murder Line</title>
     <desc lang="en">Strange River: Canadian drama series. Henry scrambles to cover his tracks while staying ahead of Erica's growing suspicions and urges Tommy to co-operate with the authorities.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/dca4d359-be2b-4b1b-b02c-ce51131dc8a3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/825cecd7-5447-4769-a824-71fae3488a36/cover"/>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="ITV1MeridianN.uk" start="20260420025000 +0000" stop="20260420031500 +0000">
     <title lang="en">DMV: Department of Motor Vehicles</title>
@@ -37008,7 +37048,7 @@
   <programme channel="ITV1MeridianN.uk" start="20260420220000 +0000" stop="20260420230000 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">No Room at the No Tell Motel: Canadian drama series. Chaos unfolds as Henry realises that his family is in danger, and Miles and Ruby's drug operation takes a dangerous turn.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d87882a6-cd16-44d7-a1af-a7ed7248a2bc/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/6c0d6371-527e-425e-911b-329f0708e9b7/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.3.0</episode-num>
     <episode-num system="onscreen">S1E4</episode-num>
@@ -37156,7 +37196,7 @@
   <programme channel="ITV1MeridianS.uk" start="20260418210000 +0000" stop="20260418215000 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">Blue Bettle: The first episode of a Canadian drama series. When two criminals are found dead at the US-Canada border, the lead investigator clashes with local officer Henry Roland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/26c5f6b9-00de-4ec7-849c-c27e24bddfbf/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9a17ae4e-2b0e-4f8a-a711-163a32d243d6/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -37169,8 +37209,10 @@
   <programme channel="ITV1MeridianS.uk" start="20260418221000 +0000" stop="20260418230500 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">Strange River: Canadian drama series. Henry scrambles to cover his tracks while staying ahead of Erica's growing suspicions and urges Tommy to co-operate with the authorities.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/dca4d359-be2b-4b1b-b02c-ce51131dc8a3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/825cecd7-5447-4769-a824-71fae3488a36/cover"/>
     <premiere/>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="ITV1MeridianS.uk" start="20260418230500 +0000" stop="20260419003000 +0000">
     <title lang="en">English Football League Highlights</title>
@@ -37185,7 +37227,7 @@
   <programme channel="ITV1MeridianS.uk" start="20260419020000 +0000" stop="20260419025000 +0000">
     <title lang="en">The Murder Line</title>
     <desc lang="en">Blue Bettle: The first episode of a Canadian drama series. When two criminals are found dead at the US-Canada border, the lead investigator clashes with local officer Henry Roland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/26c5f6b9-00de-4ec7-849c-c27e24bddfbf/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9a17ae4e-2b0e-4f8a-a711-163a32d243d6/cover"/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
@@ -37316,7 +37358,7 @@
   <programme channel="ITV1MeridianS.uk" start="20260419211500 +0000" stop="20260419220500 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">No Loose Ends: Canadian drama series. Tommy is determined to recover the missing drugs and regain favour with New York kingpin Duke, and Duke's enforcers arrive to pressure May.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9e8bfdf7-ceb2-499d-b5f5-3f0abc3da798/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/b52efdd5-92b2-4296-b0ab-272874292075/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.2.0</episode-num>
     <episode-num system="onscreen">S1E3</episode-num>
@@ -37336,7 +37378,9 @@
   <programme channel="ITV1MeridianS.uk" start="20260420020000 +0000" stop="20260420025000 +0000">
     <title lang="en">The Murder Line</title>
     <desc lang="en">Strange River: Canadian drama series. Henry scrambles to cover his tracks while staying ahead of Erica's growing suspicions and urges Tommy to co-operate with the authorities.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/dca4d359-be2b-4b1b-b02c-ce51131dc8a3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/825cecd7-5447-4769-a824-71fae3488a36/cover"/>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="ITV1MeridianS.uk" start="20260420025000 +0000" stop="20260420031500 +0000">
     <title lang="en">DMV: Department of Motor Vehicles</title>
@@ -37476,7 +37520,7 @@
   <programme channel="ITV1MeridianS.uk" start="20260420220000 +0000" stop="20260420230000 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">No Room at the No Tell Motel: Canadian drama series. Chaos unfolds as Henry realises that his family is in danger, and Miles and Ruby's drug operation takes a dangerous turn.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d87882a6-cd16-44d7-a1af-a7ed7248a2bc/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/6c0d6371-527e-425e-911b-329f0708e9b7/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.3.0</episode-num>
     <episode-num system="onscreen">S1E4</episode-num>
@@ -37624,7 +37668,7 @@
   <programme channel="ITV1North.uk" start="20260418210000 +0000" stop="20260418215000 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">Blue Bettle: The first episode of a Canadian drama series. When two criminals are found dead at the US-Canada border, the lead investigator clashes with local officer Henry Roland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/26c5f6b9-00de-4ec7-849c-c27e24bddfbf/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9a17ae4e-2b0e-4f8a-a711-163a32d243d6/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -37637,8 +37681,10 @@
   <programme channel="ITV1North.uk" start="20260418221000 +0000" stop="20260418230500 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">Strange River: Canadian drama series. Henry scrambles to cover his tracks while staying ahead of Erica's growing suspicions and urges Tommy to co-operate with the authorities.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/dca4d359-be2b-4b1b-b02c-ce51131dc8a3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/825cecd7-5447-4769-a824-71fae3488a36/cover"/>
     <premiere/>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="ITV1North.uk" start="20260418230500 +0000" stop="20260419003000 +0000">
     <title lang="en">English Football League Highlights</title>
@@ -37653,7 +37699,7 @@
   <programme channel="ITV1North.uk" start="20260419020000 +0000" stop="20260419025000 +0000">
     <title lang="en">The Murder Line</title>
     <desc lang="en">Blue Bettle: The first episode of a Canadian drama series. When two criminals are found dead at the US-Canada border, the lead investigator clashes with local officer Henry Roland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/26c5f6b9-00de-4ec7-849c-c27e24bddfbf/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9a17ae4e-2b0e-4f8a-a711-163a32d243d6/cover"/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
@@ -37784,7 +37830,7 @@
   <programme channel="ITV1North.uk" start="20260419211500 +0000" stop="20260419220500 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">No Loose Ends: Canadian drama series. Tommy is determined to recover the missing drugs and regain favour with New York kingpin Duke, and Duke's enforcers arrive to pressure May.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9e8bfdf7-ceb2-499d-b5f5-3f0abc3da798/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/b52efdd5-92b2-4296-b0ab-272874292075/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.2.0</episode-num>
     <episode-num system="onscreen">S1E3</episode-num>
@@ -37804,7 +37850,9 @@
   <programme channel="ITV1North.uk" start="20260420020000 +0000" stop="20260420025000 +0000">
     <title lang="en">The Murder Line</title>
     <desc lang="en">Strange River: Canadian drama series. Henry scrambles to cover his tracks while staying ahead of Erica's growing suspicions and urges Tommy to co-operate with the authorities.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/dca4d359-be2b-4b1b-b02c-ce51131dc8a3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/825cecd7-5447-4769-a824-71fae3488a36/cover"/>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="ITV1North.uk" start="20260420025000 +0000" stop="20260420031500 +0000">
     <title lang="en">DMV: Department of Motor Vehicles</title>
@@ -37944,7 +37992,7 @@
   <programme channel="ITV1North.uk" start="20260420220000 +0000" stop="20260420230000 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">No Room at the No Tell Motel: Canadian drama series. Chaos unfolds as Henry realises that his family is in danger, and Miles and Ruby's drug operation takes a dangerous turn.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d87882a6-cd16-44d7-a1af-a7ed7248a2bc/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/6c0d6371-527e-425e-911b-329f0708e9b7/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.3.0</episode-num>
     <episode-num system="onscreen">S1E4</episode-num>
@@ -38108,7 +38156,7 @@
   <programme channel="ITV1Plus1Granada.uk" start="20260418220000 +0000" stop="20260418225000 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">Blue Bettle: The first episode of a Canadian drama series. When two criminals are found dead at the US-Canada border, the lead investigator clashes with local officer Henry Roland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/26c5f6b9-00de-4ec7-849c-c27e24bddfbf/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9a17ae4e-2b0e-4f8a-a711-163a32d243d6/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -38121,8 +38169,10 @@
   <programme channel="ITV1Plus1Granada.uk" start="20260418231000 +0000" stop="20260419000500 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">Strange River: Canadian drama series. Henry scrambles to cover his tracks while staying ahead of Erica's growing suspicions and urges Tommy to co-operate with the authorities.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/dca4d359-be2b-4b1b-b02c-ce51131dc8a3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/825cecd7-5447-4769-a824-71fae3488a36/cover"/>
     <premiere/>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="ITV1Plus1Granada.uk" start="20260419000500 +0000" stop="20260419013000 +0000">
     <title lang="en">English Football League Highlights</title>
@@ -38137,7 +38187,7 @@
   <programme channel="ITV1Plus1Granada.uk" start="20260419030000 +0000" stop="20260419035000 +0000">
     <title lang="en">The Murder Line</title>
     <desc lang="en">Blue Bettle: The first episode of a Canadian drama series. When two criminals are found dead at the US-Canada border, the lead investigator clashes with local officer Henry Roland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/26c5f6b9-00de-4ec7-849c-c27e24bddfbf/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9a17ae4e-2b0e-4f8a-a711-163a32d243d6/cover"/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
@@ -38268,7 +38318,7 @@
   <programme channel="ITV1Plus1Granada.uk" start="20260419221500 +0000" stop="20260419230500 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">No Loose Ends: Canadian drama series. Tommy is determined to recover the missing drugs and regain favour with New York kingpin Duke, and Duke's enforcers arrive to pressure May.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9e8bfdf7-ceb2-499d-b5f5-3f0abc3da798/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/b52efdd5-92b2-4296-b0ab-272874292075/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.2.0</episode-num>
     <episode-num system="onscreen">S1E3</episode-num>
@@ -38288,7 +38338,9 @@
   <programme channel="ITV1Plus1Granada.uk" start="20260420030000 +0000" stop="20260420035000 +0000">
     <title lang="en">The Murder Line</title>
     <desc lang="en">Strange River: Canadian drama series. Henry scrambles to cover his tracks while staying ahead of Erica's growing suspicions and urges Tommy to co-operate with the authorities.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/dca4d359-be2b-4b1b-b02c-ce51131dc8a3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/825cecd7-5447-4769-a824-71fae3488a36/cover"/>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="ITV1Plus1Granada.uk" start="20260420035000 +0000" stop="20260420041500 +0000">
     <title lang="en">DMV: Department of Motor Vehicles</title>
@@ -38584,7 +38636,7 @@
   <programme channel="ITV1Plus1London.uk" start="20260418220000 +0000" stop="20260418225000 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">Blue Bettle: The first episode of a Canadian drama series. When two criminals are found dead at the US-Canada border, the lead investigator clashes with local officer Henry Roland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/26c5f6b9-00de-4ec7-849c-c27e24bddfbf/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9a17ae4e-2b0e-4f8a-a711-163a32d243d6/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -38597,8 +38649,10 @@
   <programme channel="ITV1Plus1London.uk" start="20260418231000 +0000" stop="20260419000500 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">Strange River: Canadian drama series. Henry scrambles to cover his tracks while staying ahead of Erica's growing suspicions and urges Tommy to co-operate with the authorities.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/dca4d359-be2b-4b1b-b02c-ce51131dc8a3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/825cecd7-5447-4769-a824-71fae3488a36/cover"/>
     <premiere/>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="ITV1Plus1London.uk" start="20260419000500 +0000" stop="20260419013000 +0000">
     <title lang="en">English Football League Highlights</title>
@@ -38613,7 +38667,7 @@
   <programme channel="ITV1Plus1London.uk" start="20260419030000 +0000" stop="20260419035000 +0000">
     <title lang="en">The Murder Line</title>
     <desc lang="en">Blue Bettle: The first episode of a Canadian drama series. When two criminals are found dead at the US-Canada border, the lead investigator clashes with local officer Henry Roland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/26c5f6b9-00de-4ec7-849c-c27e24bddfbf/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9a17ae4e-2b0e-4f8a-a711-163a32d243d6/cover"/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
@@ -38744,7 +38798,7 @@
   <programme channel="ITV1Plus1London.uk" start="20260419221500 +0000" stop="20260419230500 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">No Loose Ends: Canadian drama series. Tommy is determined to recover the missing drugs and regain favour with New York kingpin Duke, and Duke's enforcers arrive to pressure May.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9e8bfdf7-ceb2-499d-b5f5-3f0abc3da798/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/b52efdd5-92b2-4296-b0ab-272874292075/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.2.0</episode-num>
     <episode-num system="onscreen">S1E3</episode-num>
@@ -38764,7 +38818,9 @@
   <programme channel="ITV1Plus1London.uk" start="20260420030000 +0000" stop="20260420035000 +0000">
     <title lang="en">The Murder Line</title>
     <desc lang="en">Strange River: Canadian drama series. Henry scrambles to cover his tracks while staying ahead of Erica's growing suspicions and urges Tommy to co-operate with the authorities.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/dca4d359-be2b-4b1b-b02c-ce51131dc8a3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/825cecd7-5447-4769-a824-71fae3488a36/cover"/>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="ITV1Plus1London.uk" start="20260420035000 +0000" stop="20260420041500 +0000">
     <title lang="en">DMV: Department of Motor Vehicles</title>
@@ -39060,7 +39116,7 @@
   <programme channel="ITV1Plus1Meridian.uk" start="20260418220000 +0000" stop="20260418225000 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">Blue Bettle: The first episode of a Canadian drama series. When two criminals are found dead at the US-Canada border, the lead investigator clashes with local officer Henry Roland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/26c5f6b9-00de-4ec7-849c-c27e24bddfbf/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9a17ae4e-2b0e-4f8a-a711-163a32d243d6/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -39073,8 +39129,10 @@
   <programme channel="ITV1Plus1Meridian.uk" start="20260418231000 +0000" stop="20260419000500 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">Strange River: Canadian drama series. Henry scrambles to cover his tracks while staying ahead of Erica's growing suspicions and urges Tommy to co-operate with the authorities.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/dca4d359-be2b-4b1b-b02c-ce51131dc8a3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/825cecd7-5447-4769-a824-71fae3488a36/cover"/>
     <premiere/>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="ITV1Plus1Meridian.uk" start="20260419000500 +0000" stop="20260419013000 +0000">
     <title lang="en">English Football League Highlights</title>
@@ -39089,7 +39147,7 @@
   <programme channel="ITV1Plus1Meridian.uk" start="20260419030000 +0000" stop="20260419035000 +0000">
     <title lang="en">The Murder Line</title>
     <desc lang="en">Blue Bettle: The first episode of a Canadian drama series. When two criminals are found dead at the US-Canada border, the lead investigator clashes with local officer Henry Roland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/26c5f6b9-00de-4ec7-849c-c27e24bddfbf/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9a17ae4e-2b0e-4f8a-a711-163a32d243d6/cover"/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
@@ -39220,7 +39278,7 @@
   <programme channel="ITV1Plus1Meridian.uk" start="20260419221500 +0000" stop="20260419230500 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">No Loose Ends: Canadian drama series. Tommy is determined to recover the missing drugs and regain favour with New York kingpin Duke, and Duke's enforcers arrive to pressure May.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9e8bfdf7-ceb2-499d-b5f5-3f0abc3da798/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/b52efdd5-92b2-4296-b0ab-272874292075/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.2.0</episode-num>
     <episode-num system="onscreen">S1E3</episode-num>
@@ -39240,7 +39298,9 @@
   <programme channel="ITV1Plus1Meridian.uk" start="20260420030000 +0000" stop="20260420035000 +0000">
     <title lang="en">The Murder Line</title>
     <desc lang="en">Strange River: Canadian drama series. Henry scrambles to cover his tracks while staying ahead of Erica's growing suspicions and urges Tommy to co-operate with the authorities.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/dca4d359-be2b-4b1b-b02c-ce51131dc8a3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/825cecd7-5447-4769-a824-71fae3488a36/cover"/>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="ITV1Plus1Meridian.uk" start="20260420035000 +0000" stop="20260420041500 +0000">
     <title lang="en">DMV: Department of Motor Vehicles</title>
@@ -39536,7 +39596,7 @@
   <programme channel="ITV1Plus1Midlands.uk" start="20260418220000 +0000" stop="20260418225000 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">Blue Bettle: The first episode of a Canadian drama series. When two criminals are found dead at the US-Canada border, the lead investigator clashes with local officer Henry Roland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/26c5f6b9-00de-4ec7-849c-c27e24bddfbf/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9a17ae4e-2b0e-4f8a-a711-163a32d243d6/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -39549,8 +39609,10 @@
   <programme channel="ITV1Plus1Midlands.uk" start="20260418231000 +0000" stop="20260419000500 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">Strange River: Canadian drama series. Henry scrambles to cover his tracks while staying ahead of Erica's growing suspicions and urges Tommy to co-operate with the authorities.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/dca4d359-be2b-4b1b-b02c-ce51131dc8a3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/825cecd7-5447-4769-a824-71fae3488a36/cover"/>
     <premiere/>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="ITV1Plus1Midlands.uk" start="20260419000500 +0000" stop="20260419013000 +0000">
     <title lang="en">English Football League Highlights</title>
@@ -39565,7 +39627,7 @@
   <programme channel="ITV1Plus1Midlands.uk" start="20260419030000 +0000" stop="20260419035000 +0000">
     <title lang="en">The Murder Line</title>
     <desc lang="en">Blue Bettle: The first episode of a Canadian drama series. When two criminals are found dead at the US-Canada border, the lead investigator clashes with local officer Henry Roland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/26c5f6b9-00de-4ec7-849c-c27e24bddfbf/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9a17ae4e-2b0e-4f8a-a711-163a32d243d6/cover"/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
@@ -39696,7 +39758,7 @@
   <programme channel="ITV1Plus1Midlands.uk" start="20260419221500 +0000" stop="20260419230500 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">No Loose Ends: Canadian drama series. Tommy is determined to recover the missing drugs and regain favour with New York kingpin Duke, and Duke's enforcers arrive to pressure May.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9e8bfdf7-ceb2-499d-b5f5-3f0abc3da798/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/b52efdd5-92b2-4296-b0ab-272874292075/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.2.0</episode-num>
     <episode-num system="onscreen">S1E3</episode-num>
@@ -39716,7 +39778,9 @@
   <programme channel="ITV1Plus1Midlands.uk" start="20260420030000 +0000" stop="20260420035000 +0000">
     <title lang="en">The Murder Line</title>
     <desc lang="en">Strange River: Canadian drama series. Henry scrambles to cover his tracks while staying ahead of Erica's growing suspicions and urges Tommy to co-operate with the authorities.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/dca4d359-be2b-4b1b-b02c-ce51131dc8a3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/825cecd7-5447-4769-a824-71fae3488a36/cover"/>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="ITV1Plus1Midlands.uk" start="20260420035000 +0000" stop="20260420041500 +0000">
     <title lang="en">DMV: Department of Motor Vehicles</title>
@@ -39996,7 +40060,7 @@
   <programme channel="ITV1TyneTees.uk" start="20260418210000 +0000" stop="20260418215000 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">Blue Bettle: The first episode of a Canadian drama series. When two criminals are found dead at the US-Canada border, the lead investigator clashes with local officer Henry Roland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/26c5f6b9-00de-4ec7-849c-c27e24bddfbf/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9a17ae4e-2b0e-4f8a-a711-163a32d243d6/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -40009,8 +40073,10 @@
   <programme channel="ITV1TyneTees.uk" start="20260418221000 +0000" stop="20260418230500 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">Strange River: Canadian drama series. Henry scrambles to cover his tracks while staying ahead of Erica's growing suspicions and urges Tommy to co-operate with the authorities.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/dca4d359-be2b-4b1b-b02c-ce51131dc8a3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/825cecd7-5447-4769-a824-71fae3488a36/cover"/>
     <premiere/>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="ITV1TyneTees.uk" start="20260418230500 +0000" stop="20260419003000 +0000">
     <title lang="en">English Football League Highlights</title>
@@ -40025,7 +40091,7 @@
   <programme channel="ITV1TyneTees.uk" start="20260419020000 +0000" stop="20260419025000 +0000">
     <title lang="en">The Murder Line</title>
     <desc lang="en">Blue Bettle: The first episode of a Canadian drama series. When two criminals are found dead at the US-Canada border, the lead investigator clashes with local officer Henry Roland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/26c5f6b9-00de-4ec7-849c-c27e24bddfbf/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9a17ae4e-2b0e-4f8a-a711-163a32d243d6/cover"/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
@@ -40156,7 +40222,7 @@
   <programme channel="ITV1TyneTees.uk" start="20260419211500 +0000" stop="20260419220500 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">No Loose Ends: Canadian drama series. Tommy is determined to recover the missing drugs and regain favour with New York kingpin Duke, and Duke's enforcers arrive to pressure May.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9e8bfdf7-ceb2-499d-b5f5-3f0abc3da798/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/b52efdd5-92b2-4296-b0ab-272874292075/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.2.0</episode-num>
     <episode-num system="onscreen">S1E3</episode-num>
@@ -40176,7 +40242,9 @@
   <programme channel="ITV1TyneTees.uk" start="20260420020000 +0000" stop="20260420025000 +0000">
     <title lang="en">The Murder Line</title>
     <desc lang="en">Strange River: Canadian drama series. Henry scrambles to cover his tracks while staying ahead of Erica's growing suspicions and urges Tommy to co-operate with the authorities.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/dca4d359-be2b-4b1b-b02c-ce51131dc8a3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/825cecd7-5447-4769-a824-71fae3488a36/cover"/>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="ITV1TyneTees.uk" start="20260420025000 +0000" stop="20260420031500 +0000">
     <title lang="en">DMV: Department of Motor Vehicles</title>
@@ -40316,7 +40384,7 @@
   <programme channel="ITV1TyneTees.uk" start="20260420220000 +0000" stop="20260420230000 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">No Room at the No Tell Motel: Canadian drama series. Chaos unfolds as Henry realises that his family is in danger, and Miles and Ruby's drug operation takes a dangerous turn.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d87882a6-cd16-44d7-a1af-a7ed7248a2bc/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/6c0d6371-527e-425e-911b-329f0708e9b7/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.3.0</episode-num>
     <episode-num system="onscreen">S1E4</episode-num>
@@ -40464,7 +40532,7 @@
   <programme channel="ITV1Wales.uk" start="20260418210000 +0000" stop="20260418215000 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">Blue Bettle: The first episode of a Canadian drama series. When two criminals are found dead at the US-Canada border, the lead investigator clashes with local officer Henry Roland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/26c5f6b9-00de-4ec7-849c-c27e24bddfbf/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9a17ae4e-2b0e-4f8a-a711-163a32d243d6/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -40477,8 +40545,10 @@
   <programme channel="ITV1Wales.uk" start="20260418221000 +0000" stop="20260418230500 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">Strange River: Canadian drama series. Henry scrambles to cover his tracks while staying ahead of Erica's growing suspicions and urges Tommy to co-operate with the authorities.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/dca4d359-be2b-4b1b-b02c-ce51131dc8a3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/825cecd7-5447-4769-a824-71fae3488a36/cover"/>
     <premiere/>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="ITV1Wales.uk" start="20260418230500 +0000" stop="20260419003000 +0000">
     <title lang="en">English Football League Highlights</title>
@@ -40493,7 +40563,7 @@
   <programme channel="ITV1Wales.uk" start="20260419020000 +0000" stop="20260419025000 +0000">
     <title lang="en">The Murder Line</title>
     <desc lang="en">Blue Bettle: The first episode of a Canadian drama series. When two criminals are found dead at the US-Canada border, the lead investigator clashes with local officer Henry Roland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/26c5f6b9-00de-4ec7-849c-c27e24bddfbf/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9a17ae4e-2b0e-4f8a-a711-163a32d243d6/cover"/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
@@ -40635,7 +40705,9 @@
   <programme channel="ITV1Wales.uk" start="20260420020000 +0000" stop="20260420025000 +0000">
     <title lang="en">The Murder Line</title>
     <desc lang="en">Strange River: Canadian drama series. Henry scrambles to cover his tracks while staying ahead of Erica's growing suspicions and urges Tommy to co-operate with the authorities.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/dca4d359-be2b-4b1b-b02c-ce51131dc8a3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/825cecd7-5447-4769-a824-71fae3488a36/cover"/>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="ITV1Wales.uk" start="20260420025000 +0000" stop="20260420031500 +0000">
     <title lang="en">DMV: Department of Motor Vehicles</title>
@@ -40775,7 +40847,7 @@
   <programme channel="ITV1Wales.uk" start="20260420220000 +0000" stop="20260420230000 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">No Loose Ends: Canadian drama series. Tommy is determined to recover the missing drugs and regain favour with New York kingpin Duke, and Duke's enforcers arrive to pressure May.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9e8bfdf7-ceb2-499d-b5f5-3f0abc3da798/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/b52efdd5-92b2-4296-b0ab-272874292075/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.2.0</episode-num>
     <episode-num system="onscreen">S1E3</episode-num>
@@ -40923,7 +40995,7 @@
   <programme channel="ITV1West.uk" start="20260418210000 +0000" stop="20260418215000 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">Blue Bettle: The first episode of a Canadian drama series. When two criminals are found dead at the US-Canada border, the lead investigator clashes with local officer Henry Roland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/26c5f6b9-00de-4ec7-849c-c27e24bddfbf/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9a17ae4e-2b0e-4f8a-a711-163a32d243d6/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -40936,8 +41008,10 @@
   <programme channel="ITV1West.uk" start="20260418221000 +0000" stop="20260418230500 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">Strange River: Canadian drama series. Henry scrambles to cover his tracks while staying ahead of Erica's growing suspicions and urges Tommy to co-operate with the authorities.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/dca4d359-be2b-4b1b-b02c-ce51131dc8a3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/825cecd7-5447-4769-a824-71fae3488a36/cover"/>
     <premiere/>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="ITV1West.uk" start="20260418230500 +0000" stop="20260419003000 +0000">
     <title lang="en">English Football League Highlights</title>
@@ -40952,7 +41026,7 @@
   <programme channel="ITV1West.uk" start="20260419020000 +0000" stop="20260419025000 +0000">
     <title lang="en">The Murder Line</title>
     <desc lang="en">Blue Bettle: The first episode of a Canadian drama series. When two criminals are found dead at the US-Canada border, the lead investigator clashes with local officer Henry Roland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/26c5f6b9-00de-4ec7-849c-c27e24bddfbf/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9a17ae4e-2b0e-4f8a-a711-163a32d243d6/cover"/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
@@ -41083,7 +41157,7 @@
   <programme channel="ITV1West.uk" start="20260419211500 +0000" stop="20260419220500 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">No Loose Ends: Canadian drama series. Tommy is determined to recover the missing drugs and regain favour with New York kingpin Duke, and Duke's enforcers arrive to pressure May.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9e8bfdf7-ceb2-499d-b5f5-3f0abc3da798/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/b52efdd5-92b2-4296-b0ab-272874292075/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.2.0</episode-num>
     <episode-num system="onscreen">S1E3</episode-num>
@@ -41103,7 +41177,9 @@
   <programme channel="ITV1West.uk" start="20260420020000 +0000" stop="20260420025000 +0000">
     <title lang="en">The Murder Line</title>
     <desc lang="en">Strange River: Canadian drama series. Henry scrambles to cover his tracks while staying ahead of Erica's growing suspicions and urges Tommy to co-operate with the authorities.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/dca4d359-be2b-4b1b-b02c-ce51131dc8a3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/825cecd7-5447-4769-a824-71fae3488a36/cover"/>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="ITV1West.uk" start="20260420025000 +0000" stop="20260420031500 +0000">
     <title lang="en">DMV: Department of Motor Vehicles</title>
@@ -41243,7 +41319,7 @@
   <programme channel="ITV1West.uk" start="20260420220000 +0000" stop="20260420230000 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">No Room at the No Tell Motel: Canadian drama series. Chaos unfolds as Henry realises that his family is in danger, and Miles and Ruby's drug operation takes a dangerous turn.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d87882a6-cd16-44d7-a1af-a7ed7248a2bc/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/6c0d6371-527e-425e-911b-329f0708e9b7/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.3.0</episode-num>
     <episode-num system="onscreen">S1E4</episode-num>
@@ -41391,7 +41467,7 @@
   <programme channel="ITV1WestCountry.uk" start="20260418210000 +0000" stop="20260418215000 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">Blue Bettle: The first episode of a Canadian drama series. When two criminals are found dead at the US-Canada border, the lead investigator clashes with local officer Henry Roland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/26c5f6b9-00de-4ec7-849c-c27e24bddfbf/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9a17ae4e-2b0e-4f8a-a711-163a32d243d6/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -41404,8 +41480,10 @@
   <programme channel="ITV1WestCountry.uk" start="20260418221000 +0000" stop="20260418230500 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">Strange River: Canadian drama series. Henry scrambles to cover his tracks while staying ahead of Erica's growing suspicions and urges Tommy to co-operate with the authorities.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/dca4d359-be2b-4b1b-b02c-ce51131dc8a3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/825cecd7-5447-4769-a824-71fae3488a36/cover"/>
     <premiere/>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="ITV1WestCountry.uk" start="20260418230500 +0000" stop="20260419003000 +0000">
     <title lang="en">English Football League Highlights</title>
@@ -41420,7 +41498,7 @@
   <programme channel="ITV1WestCountry.uk" start="20260419020000 +0000" stop="20260419025000 +0000">
     <title lang="en">The Murder Line</title>
     <desc lang="en">Blue Bettle: The first episode of a Canadian drama series. When two criminals are found dead at the US-Canada border, the lead investigator clashes with local officer Henry Roland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/26c5f6b9-00de-4ec7-849c-c27e24bddfbf/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9a17ae4e-2b0e-4f8a-a711-163a32d243d6/cover"/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
@@ -41551,7 +41629,7 @@
   <programme channel="ITV1WestCountry.uk" start="20260419211500 +0000" stop="20260419220500 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">No Loose Ends: Canadian drama series. Tommy is determined to recover the missing drugs and regain favour with New York kingpin Duke, and Duke's enforcers arrive to pressure May.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9e8bfdf7-ceb2-499d-b5f5-3f0abc3da798/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/b52efdd5-92b2-4296-b0ab-272874292075/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.2.0</episode-num>
     <episode-num system="onscreen">S1E3</episode-num>
@@ -41571,7 +41649,9 @@
   <programme channel="ITV1WestCountry.uk" start="20260420020000 +0000" stop="20260420025000 +0000">
     <title lang="en">The Murder Line</title>
     <desc lang="en">Strange River: Canadian drama series. Henry scrambles to cover his tracks while staying ahead of Erica's growing suspicions and urges Tommy to co-operate with the authorities.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/dca4d359-be2b-4b1b-b02c-ce51131dc8a3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/825cecd7-5447-4769-a824-71fae3488a36/cover"/>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="ITV1WestCountry.uk" start="20260420025000 +0000" stop="20260420031500 +0000">
     <title lang="en">DMV: Department of Motor Vehicles</title>
@@ -41711,7 +41791,7 @@
   <programme channel="ITV1WestCountry.uk" start="20260420220000 +0000" stop="20260420230000 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">No Room at the No Tell Motel: Canadian drama series. Chaos unfolds as Henry realises that his family is in danger, and Miles and Ruby's drug operation takes a dangerous turn.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d87882a6-cd16-44d7-a1af-a7ed7248a2bc/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/6c0d6371-527e-425e-911b-329f0708e9b7/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.3.0</episode-num>
     <episode-num system="onscreen">S1E4</episode-num>
@@ -41859,7 +41939,7 @@
   <programme channel="ITV1YorkshireEast.uk" start="20260418210000 +0000" stop="20260418215000 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">Blue Bettle: The first episode of a Canadian drama series. When two criminals are found dead at the US-Canada border, the lead investigator clashes with local officer Henry Roland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/26c5f6b9-00de-4ec7-849c-c27e24bddfbf/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9a17ae4e-2b0e-4f8a-a711-163a32d243d6/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -41872,8 +41952,10 @@
   <programme channel="ITV1YorkshireEast.uk" start="20260418221000 +0000" stop="20260418230500 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">Strange River: Canadian drama series. Henry scrambles to cover his tracks while staying ahead of Erica's growing suspicions and urges Tommy to co-operate with the authorities.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/dca4d359-be2b-4b1b-b02c-ce51131dc8a3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/825cecd7-5447-4769-a824-71fae3488a36/cover"/>
     <premiere/>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="ITV1YorkshireEast.uk" start="20260418230500 +0000" stop="20260419003000 +0000">
     <title lang="en">English Football League Highlights</title>
@@ -41888,7 +41970,7 @@
   <programme channel="ITV1YorkshireEast.uk" start="20260419020000 +0000" stop="20260419025000 +0000">
     <title lang="en">The Murder Line</title>
     <desc lang="en">Blue Bettle: The first episode of a Canadian drama series. When two criminals are found dead at the US-Canada border, the lead investigator clashes with local officer Henry Roland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/26c5f6b9-00de-4ec7-849c-c27e24bddfbf/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9a17ae4e-2b0e-4f8a-a711-163a32d243d6/cover"/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
@@ -42019,7 +42101,7 @@
   <programme channel="ITV1YorkshireEast.uk" start="20260419211500 +0000" stop="20260419220500 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">No Loose Ends: Canadian drama series. Tommy is determined to recover the missing drugs and regain favour with New York kingpin Duke, and Duke's enforcers arrive to pressure May.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9e8bfdf7-ceb2-499d-b5f5-3f0abc3da798/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/b52efdd5-92b2-4296-b0ab-272874292075/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.2.0</episode-num>
     <episode-num system="onscreen">S1E3</episode-num>
@@ -42039,7 +42121,9 @@
   <programme channel="ITV1YorkshireEast.uk" start="20260420020000 +0000" stop="20260420025000 +0000">
     <title lang="en">The Murder Line</title>
     <desc lang="en">Strange River: Canadian drama series. Henry scrambles to cover his tracks while staying ahead of Erica's growing suspicions and urges Tommy to co-operate with the authorities.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/dca4d359-be2b-4b1b-b02c-ce51131dc8a3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/825cecd7-5447-4769-a824-71fae3488a36/cover"/>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="ITV1YorkshireEast.uk" start="20260420025000 +0000" stop="20260420031500 +0000">
     <title lang="en">DMV: Department of Motor Vehicles</title>
@@ -42179,7 +42263,7 @@
   <programme channel="ITV1YorkshireEast.uk" start="20260420220000 +0000" stop="20260420230000 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">No Room at the No Tell Motel: Canadian drama series. Chaos unfolds as Henry realises that his family is in danger, and Miles and Ruby's drug operation takes a dangerous turn.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d87882a6-cd16-44d7-a1af-a7ed7248a2bc/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/6c0d6371-527e-425e-911b-329f0708e9b7/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.3.0</episode-num>
     <episode-num system="onscreen">S1E4</episode-num>
@@ -42327,7 +42411,7 @@
   <programme channel="ITV1YorkshireWest.uk" start="20260418210000 +0000" stop="20260418215000 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">Blue Bettle: The first episode of a Canadian drama series. When two criminals are found dead at the US-Canada border, the lead investigator clashes with local officer Henry Roland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/26c5f6b9-00de-4ec7-849c-c27e24bddfbf/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9a17ae4e-2b0e-4f8a-a711-163a32d243d6/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -42340,8 +42424,10 @@
   <programme channel="ITV1YorkshireWest.uk" start="20260418221000 +0000" stop="20260418230500 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">Strange River: Canadian drama series. Henry scrambles to cover his tracks while staying ahead of Erica's growing suspicions and urges Tommy to co-operate with the authorities.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/dca4d359-be2b-4b1b-b02c-ce51131dc8a3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/825cecd7-5447-4769-a824-71fae3488a36/cover"/>
     <premiere/>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="ITV1YorkshireWest.uk" start="20260418230500 +0000" stop="20260419003000 +0000">
     <title lang="en">English Football League Highlights</title>
@@ -42356,7 +42442,7 @@
   <programme channel="ITV1YorkshireWest.uk" start="20260419020000 +0000" stop="20260419025000 +0000">
     <title lang="en">The Murder Line</title>
     <desc lang="en">Blue Bettle: The first episode of a Canadian drama series. When two criminals are found dead at the US-Canada border, the lead investigator clashes with local officer Henry Roland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/26c5f6b9-00de-4ec7-849c-c27e24bddfbf/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9a17ae4e-2b0e-4f8a-a711-163a32d243d6/cover"/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
@@ -42487,7 +42573,7 @@
   <programme channel="ITV1YorkshireWest.uk" start="20260419211500 +0000" stop="20260419220500 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">No Loose Ends: Canadian drama series. Tommy is determined to recover the missing drugs and regain favour with New York kingpin Duke, and Duke's enforcers arrive to pressure May.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9e8bfdf7-ceb2-499d-b5f5-3f0abc3da798/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/b52efdd5-92b2-4296-b0ab-272874292075/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.2.0</episode-num>
     <episode-num system="onscreen">S1E3</episode-num>
@@ -42507,7 +42593,9 @@
   <programme channel="ITV1YorkshireWest.uk" start="20260420020000 +0000" stop="20260420025000 +0000">
     <title lang="en">The Murder Line</title>
     <desc lang="en">Strange River: Canadian drama series. Henry scrambles to cover his tracks while staying ahead of Erica's growing suspicions and urges Tommy to co-operate with the authorities.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/dca4d359-be2b-4b1b-b02c-ce51131dc8a3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/825cecd7-5447-4769-a824-71fae3488a36/cover"/>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="ITV1YorkshireWest.uk" start="20260420025000 +0000" stop="20260420031500 +0000">
     <title lang="en">DMV: Department of Motor Vehicles</title>
@@ -42647,7 +42735,7 @@
   <programme channel="ITV1YorkshireWest.uk" start="20260420220000 +0000" stop="20260420230000 +0000">
     <title lang="en">New: The Murder Line</title>
     <desc lang="en">No Room at the No Tell Motel: Canadian drama series. Chaos unfolds as Henry realises that his family is in danger, and Miles and Ruby's drug operation takes a dangerous turn.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d87882a6-cd16-44d7-a1af-a7ed7248a2bc/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/6c0d6371-527e-425e-911b-329f0708e9b7/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.3.0</episode-num>
     <episode-num system="onscreen">S1E4</episode-num>
@@ -47982,22 +48070,22 @@
   </programme>
   <programme channel="SkyNews.uk" start="20260418210000 +0000" stop="20260418213000 +0000">
     <title lang="en">The Wrap With Gillian Joseph</title>
-    <desc lang="en">Live coverage as the crew of Artemis II return to Earth after their record-breaking mission to the moon.</desc>
+    <desc lang="en">Debate, analysis and insight on the biggest news stories of the day from the UK and around the world.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f4d73f23-5739-41a0-bf25-cfa524f5068a/cover"/>
   </programme>
   <programme channel="SkyNews.uk" start="20260418213000 +0000" stop="20260418220000 +0000">
     <title lang="en">The Wrap With Gillian Joseph</title>
-    <desc lang="en">Live coverage as the crew of Artemis II return to Earth after their record-breaking mission to the moon.</desc>
+    <desc lang="en">Debate, analysis and insight on the biggest news stories of the day from the UK and around the world.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/96d419bd-ab1f-416f-a131-23fdfd11c931/cover"/>
   </programme>
   <programme channel="SkyNews.uk" start="20260418220000 +0000" stop="20260418223000 +0000">
     <title lang="en">The Wrap With Gillian Joseph</title>
-    <desc lang="en">Live coverage as the crew of Artemis II return to Earth after their record-breaking mission to the moon.</desc>
+    <desc lang="en">Debate, analysis and insight on the biggest news stories of the day from the UK and around the world.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/baf598c2-2018-4515-8038-3dfd07369a07/cover"/>
   </programme>
   <programme channel="SkyNews.uk" start="20260418223000 +0000" stop="20260418230000 +0000">
     <title lang="en">The Wrap With Gillian Joseph</title>
-    <desc lang="en">Live coverage as the crew of Artemis II return to Earth after their record-breaking mission to the moon.</desc>
+    <desc lang="en">Debate, analysis and insight on the biggest news stories of the day from the UK and around the world.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/99c04375-0734-455b-899c-e82c6959a6e4/cover"/>
   </programme>
   <programme channel="SkyNews.uk" start="20260418230000 +0000" stop="20260419000000 +0000">
@@ -48182,22 +48270,22 @@
   </programme>
   <programme channel="SkyNews.uk" start="20260419210000 +0000" stop="20260419213000 +0000">
     <title lang="en">The Wrap With Gillian Joseph</title>
-    <desc lang="en">Live coverage as the crew of Artemis II return to Earth after their record-breaking mission to the moon.</desc>
+    <desc lang="en">Gillian Joseph hosts the new late-night show focusing on debating, analysing and making sense of the day's news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e0f07ea2-295c-4f7d-8df3-de0dc4ff016c/cover"/>
   </programme>
   <programme channel="SkyNews.uk" start="20260419213000 +0000" stop="20260419220000 +0000">
     <title lang="en">The Wrap With Gillian Joseph</title>
-    <desc lang="en">Live coverage as the crew of Artemis II return to Earth after their record-breaking mission to the moon.</desc>
+    <desc lang="en">Gillian Joseph hosts the new late-night show focusing on debating, analysing and making sense of the day's news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ade09ce0-90bb-455c-a562-fc9ca523d6ba/cover"/>
   </programme>
   <programme channel="SkyNews.uk" start="20260419220000 +0000" stop="20260419223000 +0000">
     <title lang="en">The Wrap With Gillian Joseph</title>
-    <desc lang="en">Live coverage as the crew of Artemis II return to Earth after their record-breaking mission to the moon.</desc>
+    <desc lang="en">Gillian Joseph hosts the new late-night show focusing on debating, analysing and making sense of the day's news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c42169f1-488f-4f68-942c-f213f6a0fdff/cover"/>
   </programme>
   <programme channel="SkyNews.uk" start="20260419223000 +0000" stop="20260419230000 +0000">
     <title lang="en">The Wrap With Gillian Joseph</title>
-    <desc lang="en">Live coverage as the crew of Artemis II return to Earth after their record-breaking mission to the moon.</desc>
+    <desc lang="en">Gillian Joseph hosts the new late-night show focusing on debating, analysing and making sense of the day's news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/507c3dda-0974-4540-8340-61053b612259/cover"/>
   </programme>
   <programme channel="SkyNews.uk" start="20260419230000 +0000" stop="20260420000000 +0000">
