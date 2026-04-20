@@ -4783,21 +4783,10 @@
       "episode": 50.0
     },
     {
-      "title": "Chinese F1 GP Quali Highlights",
-      "description": "Attention turns to the Chinese Grand Prix as the grid is set with F1 qualifying. Friday saw Mercedes lockout the Sprint front row as the Silver Arrows bid to flex their pace again. (14.03)",
-      "start": 1776866400,
-      "stop": 1776870000,
-      "icon": "https://images.metadata.sky.com/pd-image/b163c0a8-571e-4167-a912-62874733e8e6/cover",
-      "channel": "sky.f1.uk",
-      "premiere": false,
-      "season": null,
-      "episode": 213.0
-    },
-    {
       "title": "Chinese F1 Grand Prix",
       "description": "It's lights out for the 2026 Chinese Grand Prix. Formula 1's youngest-ever polesitter Kimi Antonelli leads a Mercedes one-two as the fast-starting Ferraris come from the second row. (15.03)",
-      "start": 1776870000,
-      "stop": 1776878400,
+      "start": 1776866400,
+      "stop": 1776874800,
       "icon": "https://images.metadata.sky.com/pd-image/5308a075-3337-4c2f-bc07-1f197781ae05/cover",
       "channel": "sky.f1.uk",
       "premiere": false,
@@ -4807,8 +4796,8 @@
     {
       "title": "Ted's Notebook: China",
       "description": "Ted Kravitz is live following the Chinese Grand Prix, as he shares his thoughts on the race while gathering reaction from the paddock.",
-      "start": 1776878400,
-      "stop": 1776880200,
+      "start": 1776874800,
+      "stop": 1776876600,
       "icon": "https://images.metadata.sky.com/pd-image/ceb58443-cc7d-4d94-8b2a-9203b13c5cbd/cover",
       "channel": "sky.f1.uk",
       "premiere": false,
@@ -4818,13 +4807,24 @@
     {
       "title": "Cycle to Work with Leclerc",
       "description": "Sky F1's Karun Chandhok joins Ferrari man Charles Leclerc on a leisurely bike ride into the iconic Monaco track.",
-      "start": 1776880200,
-      "stop": 1776880800,
+      "start": 1776876600,
+      "stop": 1776877200,
       "icon": "https://images.metadata.sky.com/pd-image/ab5698df-3a32-4b80-86b4-c8ff2016e850/cover",
       "channel": "sky.f1.uk",
       "premiere": false,
       "season": null,
       "episode": null
+    },
+    {
+      "title": "Ginetta Junior Champ Hlts",
+      "description": null,
+      "start": 1776877200,
+      "stop": 1776880800,
+      "icon": "https://images.metadata.sky.com/pd-image/05481fb1-a240-422e-94e0-ad5583e2514a/cover",
+      "channel": "sky.f1.uk",
+      "premiere": false,
+      "season": null,
+      "episode": 1.0
     },
     {
       "title": "Indycar Highlights",
@@ -5767,7 +5767,7 @@
     },
     {
       "title": "Australian Racing Live",
-      "description": "Live Australian racing from Queanbeyan, Taree and Townsville.",
+      "description": "Live Australian racing from Queanbeyan, Taree, Swan Hill and Townsville.",
       "start": 1776733200,
       "stop": 1776747600,
       "icon": "https://images.metadata.sky.com/pd-image/c4305568-9721-4a62-8b9b-a7f7a2aac96a/cover",
@@ -5778,7 +5778,7 @@
     },
     {
       "title": "Australian Racing Live",
-      "description": "Live Australian racing from Queanbeyan, Taree and Townsville.",
+      "description": "Live Australian racing from Queanbeyan, Taree, Swan Hill and Townsville.",
       "start": 1776747600,
       "stop": 1776751200,
       "icon": "https://images.metadata.sky.com/pd-image/c4305568-9721-4a62-8b9b-a7f7a2aac96a/cover",
@@ -5877,7 +5877,7 @@
     },
     {
       "title": "Australian Racing Live",
-      "description": "Live Australian racing from Canterbury and Doomben.",
+      "description": "Live Australian racing from Canterbury, Geelong, Murray Bridge and Doomben.",
       "start": 1776819600,
       "stop": 1776834000,
       "icon": "https://images.metadata.sky.com/pd-image/98e36543-abc2-4ca1-a64d-11393d7e1e0f/cover",
@@ -5888,7 +5888,7 @@
     },
     {
       "title": "Australian Racing Live",
-      "description": "Live Australian racing from Canterbury and Doomben.",
+      "description": "Live Australian racing from Canterbury, Geelong, Murray Bridge and Doomben.",
       "start": 1776834000,
       "stop": 1776837600,
       "icon": "https://images.metadata.sky.com/pd-image/98e36543-abc2-4ca1-a64d-11393d7e1e0f/cover",
@@ -6040,7 +6040,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 17
+      "episode": 24
     },
     {
       "title": "Darts Gold: Lewis v Barneveld",
@@ -7750,17 +7750,6 @@
       "episode": 33
     },
     {
-      "title": "IPL Sunrisers.H v Chennai.SK Hlts",
-      "description": "Sunrisers Hyderabad face Delhi Capitals in the IPL. (21.04)",
-      "start": 1776869700,
-      "stop": 1776873000,
-      "icon": "https://images.metadata.sky.com/pd-image/922ceae0-6478-4cf9-84cc-fed394764bf7/cover",
-      "channel": "sky.cricket.uk",
-      "premiere": false,
-      "season": null,
-      "episode": 32
-    },
-    {
       "title": "ICC Men's T20 WC: ENG v IND 2007",
       "description": "Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit England's 2007 contest with India at the inaugural edition of the competition.",
       "start": 1776880800,
@@ -8006,7 +7995,7 @@
     },
     {
       "title": "Live MLB: Tigers @ Red Sox",
-      "description": "Action from Major League Baseball as Detroit Tigers take on Boston Red Sox at Fenway Park.",
+      "description": "Action from Major League Baseball as Detroit Tigers take on Boston Red Sox at Fenway Park. The Tigers are 2-1 up in this four-game series.",
       "start": 1776697200,
       "stop": 1776708000,
       "icon": "https://images.metadata.sky.com/pd-image/cdccc3e6-94e9-431d-8bdb-f8fe28f0aa60/cover",
@@ -8017,7 +8006,7 @@
     },
     {
       "title": "Live Snooker: World Championship",
-      "description": "Action from the Crucible and Round 1 of the 2026 Snooker World Championship as the 2026 Masters victor Kyren Wilson takes on 19 year-old Englishman Stan Moody.",
+      "description": "Action from the Crucible and Round 1 of the 2026 Snooker World Championship as the 2026 Masters victor Kyren Wilson takes on 19-year-old Englishman Stan Moody.",
       "start": 1776708000,
       "stop": 1776718800,
       "icon": "https://images.metadata.sky.com/pd-image/106fc3d2-3770-4001-a421-0e1bb93ce0ef/cover",
@@ -8028,7 +8017,7 @@
     },
     {
       "title": "The Gallagher PREM - The Wrap Up",
-      "description": "Action and analysis from last weekend's Gallagher PREM games, including Exeter Chief's key clash Northampton Saints and Bristol Bears versus Gloucester.",
+      "description": "Action and analysis from last weekend's Gallagher PREM games, including Exeter Chief v Northampton Saints and Bristol Bears v Gloucester.",
       "start": 1776718800,
       "stop": 1776719700,
       "icon": "https://images.metadata.sky.com/pd-image/b074203b-1eb1-499a-814b-5054fd7d6560/cover",
@@ -8083,7 +8072,7 @@
     },
     {
       "title": "Live MLB: Orioles @ Royals",
-      "description": "MLB action as Baltimore Orioles travel to face Kansas City Royals.",
+      "description": "MLB action as Baltimore Orioles travel to face Kansas City Royals at Kauffman Stadium. Can the Royals end their seven-game losing streak?",
       "start": 1776727800,
       "stop": 1776738600,
       "icon": "https://images.metadata.sky.com/pd-image/f23ff76d-7b18-4753-8b04-d333f474f6f5/cover",
@@ -8259,7 +8248,7 @@
     },
     {
       "title": "Live: MLB Lead Off",
-      "description": "A look at the upcoming MLB action.",
+      "description": "A look ahead at the upcoming MLB action ahead of the clash between New York Yankees and Boston Red Sox.",
       "start": 1776808800,
       "stop": 1776810600,
       "icon": "https://images.metadata.sky.com/pd-image/62aafe8f-f98a-4dc0-b689-951773f083e1/cover",
@@ -8280,8 +8269,8 @@
       "episode": 0.0
     },
     {
-      "title": "MLB Closer",
-      "description": "A look back at the best action from the MLB.",
+      "title": "Live: MLB Closer",
+      "description": "A look back at the best action from the MLB following New York Yankees at Boston Red Sox.",
       "start": 1776821400,
       "stop": 1776823200,
       "icon": "https://images.metadata.sky.com/pd-image/30646e38-3422-4f95-9622-99c7d6b1a968/cover",
@@ -8383,11 +8372,11 @@
       "description": "Action from the UEFA Youth League final as first-time finalists Club Brugge U19 take on 2020 winners Real Madrid U19 at Stade de la Tuiliere.",
       "start": 1776843000,
       "stop": 1776846600,
-      "icon": "https://images.metadata.sky.com/pd-image/dac3ecda-ace6-4198-b4a2-1330903d2ce2/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/0c006a65-7bf6-4c4d-8a43-5a1531ecf3c6/cover",
       "channel": "tnt1",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 0.0
     },
     {
       "title": "Serie A: Napoli v Lazio",
@@ -8424,7 +8413,7 @@
     },
     {
       "title": "Live Cycling: La Fleche Wallonne",
-      "description": "Men's UCI Cycling World Tour action from the 2026 La Fleche Wallonne.",
+      "description": "Men's UCI Cycling World Tour action from the 2026 La Fleche Wallonne. The 90th edition of this race starts in Herstal and concludes with the traditional finish atop the Mur de Huy.",
       "start": 1776854700,
       "stop": 1776869100,
       "icon": "https://images.metadata.sky.com/pd-image/cd56ae66-a94c-4ee0-b3de-41f37eb157e0/cover",
@@ -8435,7 +8424,7 @@
     },
     {
       "title": "Live Cycling: La Fleche Wallonne",
-      "description": "Women's UCI Cycling World Tour action from the 2026 La Fleche Wallonne.",
+      "description": "Women's cycling action from the 2026 La Fleche Wallonne. This 148km route features nine categorised climbs, building to the iconic summit finish on the Mur de Huy.",
       "start": 1776869100,
       "stop": 1776874500,
       "icon": "https://images.metadata.sky.com/pd-image/7ec8a48e-5502-4510-b3ef-28a78cc7917f/cover",
@@ -8490,7 +8479,7 @@
     },
     {
       "title": "Discovery Golf",
-      "description": "A weekly show featuring the latest news from the world of golf.",
+      "description": "We look ahead to the Zurich Classic of New Orleans team event with man of the moment, Rory McIlroy, and Shane Lowry looking to retain their title.",
       "start": 1776891600,
       "stop": 1776893400,
       "icon": "https://images.metadata.sky.com/pd-image/e82443cb-9568-4b83-b4f2-dd996eb94a4f/cover",
@@ -8660,11 +8649,11 @@
       "description": "Action from the UEFA Youth League final as first-time finalists Club Brugge U19 take on 2020 winners Real Madrid U19 at Stade de la Tuiliere.",
       "start": 1776703500,
       "stop": 1776711600,
-      "icon": "https://images.metadata.sky.com/pd-image/3ad34bbc-adde-455b-a365-231197e5add1/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/9f31bdde-cd36-4bfb-9d2c-f654e5aaabe9/cover",
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 0.0
     },
     {
       "title": "World Superbike Highlights",
@@ -8693,11 +8682,11 @@
       "description": "Highlights from the round 25 of the Isuzu UTE A-League. Featuring Wellington v Western Sydney, Adelaide v Macarthur and Sydney v Perth Glory.",
       "start": 1776718800,
       "stop": 1776720600,
-      "icon": "https://images.metadata.sky.com/pd-image/1d9ac3a8-b4e9-47a5-baa1-dcbda4636f8e/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/fdd3acdf-f17e-46e5-8e93-33e8a0e19a33/cover",
       "channel": "tnt2",
       "premiere": false,
-      "season": null,
-      "episode": null
+      "season": 2025.0,
+      "episode": 25.0
     },
     {
       "title": "Serie A: Napoli v Lazio",
@@ -8789,7 +8778,7 @@
     },
     {
       "title": "The Gallagher PREM - The Wrap Up",
-      "description": "Action and analysis from last weekend's Gallagher PREM games, including Exeter Chief's key clash Northampton Saints and Bristol Bears versus Gloucester.",
+      "description": "Action and analysis from last weekend's Gallagher PREM games, including Exeter Chief v Northampton Saints and Bristol Bears v Gloucester.",
       "start": 1776747600,
       "stop": 1776748500,
       "icon": "https://images.metadata.sky.com/pd-image/b074203b-1eb1-499a-814b-5054fd7d6560/cover",
@@ -8888,10 +8877,10 @@
     },
     {
       "title": "Live: Tour of the Alps - Stage 2",
-      "description": "Men's cycling action from stage two of the 2026 Tour of the Alps.",
+      "description": "Men's cycling action from stage two of the 2026 Tour of the Alps, which sees the peloton travel 147km from Telfs, Austria, to an uphill finish in Martell, Italy.",
       "start": 1776771000,
-      "stop": 1776778260,
-      "icon": "https://images.metadata.sky.com/pd-image/18f96540-2bde-4426-a878-3de31006be2e/cover",
+      "stop": 1776778200,
+      "icon": "https://images.metadata.sky.com/pd-image/b769f489-9ea8-4ff1-a674-6e126ad3a89e/cover",
       "channel": "tnt2",
       "premiere": false,
       "season": null,
@@ -8900,7 +8889,7 @@
     {
       "title": "MX2: Trentino - Race 1",
       "description": "FIM Motocross World Championship action from MX2 race one at the Crossodromo Ciclamino in Trentino, Italy.",
-      "start": 1776778260,
+      "start": 1776778200,
       "stop": 1776780900,
       "icon": "https://images.metadata.sky.com/pd-image/cd2a2203-e416-4c00-bcb9-2dbd1b3119e1/cover",
       "channel": "tnt2",
@@ -8912,7 +8901,7 @@
       "title": "MXGP: Trentino - Race 1",
       "description": "FIM Motocross World Championship action from MXGP race one at the Crossodromo Ciclamino in Trentino, Italy.",
       "start": 1776780900,
-      "stop": 1776783660,
+      "stop": 1776783600,
       "icon": "https://images.metadata.sky.com/pd-image/6c264ec2-c345-466b-8466-18380d98bb03/cover",
       "channel": "tnt2",
       "premiere": false,
@@ -8922,7 +8911,7 @@
     {
       "title": "MX2: Trentino - Race 2",
       "description": "FIM Motocross World Championship action from MX2 race two at the Crossodromo Ciclamino in Trentino, Italy.",
-      "start": 1776783660,
+      "start": 1776783600,
       "stop": 1776786300,
       "icon": "https://images.metadata.sky.com/pd-image/905bb7cf-2dc3-40d5-8899-474cb0d3a72b/cover",
       "channel": "tnt2",
@@ -8976,7 +8965,7 @@
     },
     {
       "title": "The Cycling Show",
-      "description": "The latest of The Cycling Show.",
+      "description": "We go behind the scenes at UAE Team ADQ as they aim to establish themselves among the dominant teams of the World Tour, featuring exclusive interviews with the team.",
       "start": 1776794400,
       "stop": 1776796200,
       "icon": "https://images.metadata.sky.com/pd-image/9272d331-3bef-4e51-87dd-8adcf6104e9b/cover",
@@ -8998,7 +8987,7 @@
     },
     {
       "title": "LIV Golf",
-      "description": "A review of the biggest stories coming out of the sixth LIV Golf event of 2026, which took place at Club de Golf Chapultepec in Mexico.",
+      "description": "We review all the major talking points from the sixth LIV Golf event of 2026 at Club de Golf Chapultepec, where Jon Rahm delivered a commanding display.",
       "start": 1776798000,
       "stop": 1776801600,
       "icon": "https://images.metadata.sky.com/pd-image/d082c5ad-9a93-4ee2-bd5d-4925b1c0961e/cover",
@@ -9023,11 +9012,11 @@
       "description": "Action from the UEFA Youth League final as first-time finalists Club Brugge U19 take on 2020 winners Real Madrid U19 at Stade de la Tuiliere.",
       "start": 1776803400,
       "stop": 1776807000,
-      "icon": "https://images.metadata.sky.com/pd-image/28f1b4b1-c3ad-4850-8b57-59331a21c48a/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/0c006a65-7bf6-4c4d-8a43-5a1531ecf3c6/cover",
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 0.0
     },
     {
       "title": "Premier League Reload",
@@ -9053,7 +9042,7 @@
     },
     {
       "title": "Tour of the Alps - Stage 2",
-      "description": "Men's cycling action from stage two of the 2026 Tour of the Alps.",
+      "description": "Men's cycling action from stage two of the 2026 Tour of the Alps, which sees the peloton travel 147km from Telfs, Austria, to an uphill finish in Martell, Italy.",
       "start": 1776808800,
       "stop": 1776812400,
       "icon": "https://images.metadata.sky.com/pd-image/f6ebe66e-e193-4ffc-ba4e-f6c2ef464867/cover",
@@ -9064,7 +9053,7 @@
     },
     {
       "title": "LIV Golf",
-      "description": "A review of the biggest stories coming out of the sixth LIV Golf event of 2026, which took place at Club de Golf Chapultepec in Mexico.",
+      "description": "We review all the major talking points from the sixth LIV Golf event of 2026 at Club de Golf Chapultepec, where Jon Rahm delivered a commanding display.",
       "start": 1776812400,
       "stop": 1776816000,
       "icon": "https://images.metadata.sky.com/pd-image/d082c5ad-9a93-4ee2-bd5d-4925b1c0961e/cover",
@@ -9096,15 +9085,48 @@
       "episode": 0.0
     },
     {
-      "title": "Live MLB: Blue Jays @ Angels",
-      "description": "Action from Major League Baseball.",
+      "title": "MX2: Trentino - Race 1",
+      "description": "FIM Motocross World Championship action from MX2 race one at the Crossodromo Ciclamino in Trentino, Italy.",
       "start": 1776821400,
-      "stop": 1776832200,
-      "icon": "https://images.metadata.sky.com/pd-image/5caad1c9-1f17-4818-8c7c-4343dcd26046/cover",
+      "stop": 1776824100,
+      "icon": "https://images.metadata.sky.com/pd-image/6d37ec04-911a-4934-887f-18b5a98c0f74/cover",
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": null
+    },
+    {
+      "title": "MXGP: Trentino - Race 1",
+      "description": "FIM Motocross World Championship action from MXGP race one at the Crossodromo Ciclamino in Trentino, Italy.",
+      "start": 1776824100,
+      "stop": 1776826800,
+      "icon": "https://images.metadata.sky.com/pd-image/2777ee80-c558-4862-be9b-1eeddd26f28b/cover",
+      "channel": "tnt2",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "MX2: Trentino - Race 2",
+      "description": "FIM Motocross World Championship action from MX2 race two at the Crossodromo Ciclamino in Trentino, Italy.",
+      "start": 1776826800,
+      "stop": 1776829500,
+      "icon": "https://images.metadata.sky.com/pd-image/7cec08d6-dc96-4607-b3dc-705c1ca18fb8/cover",
+      "channel": "tnt2",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "MXGP: Trentino - Race 2",
+      "description": "FIM Motocross World Championship action from MXGP race two at the Crossodromo Ciclamino in Trentino, Italy.",
+      "start": 1776829500,
+      "stop": 1776832200,
+      "icon": "https://images.metadata.sky.com/pd-image/4b2aedfa-9e63-4b0d-9618-b6994aeb2990/cover",
+      "channel": "tnt2",
+      "premiere": false,
+      "season": null,
+      "episode": null
     },
     {
       "title": "MLB: Boston Idiots (2004 ALCS)",
@@ -9119,7 +9141,7 @@
     },
     {
       "title": "Tour of the Alps - Stage 2",
-      "description": "Men's cycling action from stage two of the 2026 Tour of the Alps.",
+      "description": "Men's cycling action from stage two of the 2026 Tour of the Alps, which sees the peloton travel 147km from Telfs, Austria, to an uphill finish in Martell, Italy.",
       "start": 1776834000,
       "stop": 1776837600,
       "icon": "https://images.metadata.sky.com/pd-image/f6ebe66e-e193-4ffc-ba4e-f6c2ef464867/cover",
@@ -9185,7 +9207,7 @@
     },
     {
       "title": "The Cycling Show",
-      "description": "The latest of The Cycling Show.",
+      "description": "We go behind the scenes at UAE Team ADQ as they aim to establish themselves among the dominant teams of the World Tour, featuring exclusive interviews with the team.",
       "start": 1776847500,
       "stop": 1776849300,
       "icon": "https://images.metadata.sky.com/pd-image/9272d331-3bef-4e51-87dd-8adcf6104e9b/cover",
@@ -9207,7 +9229,7 @@
     },
     {
       "title": "Tour of the Alps - Stage 2",
-      "description": "Men's cycling action from stage two of the 2026 Tour of the Alps.",
+      "description": "Men's cycling action from stage two of the 2026 Tour of the Alps, which sees the peloton travel 147km from Telfs, Austria, to an uphill finish in Martell, Italy.",
       "start": 1776850200,
       "stop": 1776853800,
       "icon": "https://images.metadata.sky.com/pd-image/f6ebe66e-e193-4ffc-ba4e-f6c2ef464867/cover",
@@ -9218,7 +9240,7 @@
     },
     {
       "title": "Live: Tour of the Alps - Stage 3",
-      "description": "Men's cycling action from stage three of the 2026 Tour of the Alps.",
+      "description": "Men's cycling action from stage three of the 2026 Tour of the Alps. This challenging 174km route features 3,600 metres of elevation gain from Laces to Arco.",
       "start": 1776853800,
       "stop": 1776861000,
       "icon": "https://images.metadata.sky.com/pd-image/a3c63eb3-9b25-4573-a27e-1af32ab83626/cover",
@@ -9251,7 +9273,7 @@
     },
     {
       "title": "LIV Golf",
-      "description": "A review of the biggest stories coming out of the sixth LIV Golf event of 2026, which took place at Club de Golf Chapultepec in Mexico.",
+      "description": "We review all the major talking points from the sixth LIV Golf event of 2026 at Club de Golf Chapultepec, where Jon Rahm delivered a commanding display.",
       "start": 1776866400,
       "stop": 1776870000,
       "icon": "https://images.metadata.sky.com/pd-image/d082c5ad-9a93-4ee2-bd5d-4925b1c0961e/cover",
@@ -9265,11 +9287,11 @@
       "description": "Action from the UEFA Youth League final as first-time finalists Club Brugge U19 take on 2020 winners Real Madrid U19 at Stade de la Tuiliere.",
       "start": 1776870000,
       "stop": 1776873600,
-      "icon": "https://images.metadata.sky.com/pd-image/490b83fe-99a0-45a2-8845-52ac4dba10e8/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/0c006a65-7bf6-4c4d-8a43-5a1531ecf3c6/cover",
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 0.0
     },
     {
       "title": "AFL: West Coast Eagles v Fremantle",
@@ -9317,7 +9339,7 @@
     },
     {
       "title": "Discovery Golf",
-      "description": "A weekly show featuring the latest news from the world of golf.",
+      "description": "We look ahead to the Zurich Classic of New Orleans team event with man of the moment, Rory McIlroy, and Shane Lowry looking to retain their title.",
       "start": 1776889800,
       "stop": 1776891600,
       "icon": "https://images.metadata.sky.com/pd-image/e82443cb-9568-4b83-b4f2-dd996eb94a4f/cover",
@@ -9328,7 +9350,7 @@
     },
     {
       "title": "Tour of the Alps - Stage 3",
-      "description": "Men's cycling action from stage three of the 2026 Tour of the Alps.",
+      "description": "Men's cycling action from stage three of the 2026 Tour of the Alps. This challenging 174km route features 3,600 metres of elevation gain from Laces to Arco.",
       "start": 1776891600,
       "stop": 1776895200,
       "icon": "https://images.metadata.sky.com/pd-image/b6e1959e-d3f0-4ca2-99dd-ff9fc56ae9d0/cover",
@@ -9339,7 +9361,7 @@
     },
     {
       "title": "Cycling: La Fleche Wallonne",
-      "description": "Men's UCI Cycling World Tour action from the 2026 La Fleche Wallonne.",
+      "description": "Men's UCI Cycling World Tour action from the 2026 La Fleche Wallonne. The 90th edition of this race starts in Herstal and concludes with the traditional finish atop the Mur de Huy.",
       "start": 1776895200,
       "stop": 1776898800,
       "icon": "https://images.metadata.sky.com/pd-image/dd539259-de37-41d3-be10-e634d3a2faef/cover",
@@ -9480,7 +9502,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 72
     },
     {
       "title": "WorldSBK: Superbike - Race 1",
@@ -9528,7 +9550,7 @@
     },
     {
       "title": "The Gallagher PREM - The Wrap Up",
-      "description": "Action and analysis from last weekend's Gallagher PREM games, including Exeter Chief's key clash Northampton Saints and Bristol Bears versus Gloucester.",
+      "description": "Action and analysis from last weekend's Gallagher PREM games, including Exeter Chief v Northampton Saints and Bristol Bears v Gloucester.",
       "start": 1776702600,
       "stop": 1776703500,
       "icon": "https://images.metadata.sky.com/pd-image/b074203b-1eb1-499a-814b-5054fd7d6560/cover",
@@ -9550,7 +9572,7 @@
     },
     {
       "title": "Live Snooker: World Championship",
-      "description": "Action from the Crucible and Round 1 of the 2026 Snooker World Championship as the 2026 Masters victor Kyren Wilson takes on 19 year-old Englishman Stan Moody.",
+      "description": "Action from the Crucible and Round 1 of the 2026 Snooker World Championship as the 2026 Masters victor Kyren Wilson takes on 19-year-old Englishman Stan Moody.",
       "start": 1776706200,
       "stop": 1776718800,
       "icon": "https://images.metadata.sky.com/pd-image/106fc3d2-3770-4001-a421-0e1bb93ce0ef/cover",
@@ -9704,7 +9726,7 @@
     },
     {
       "title": "The Gallagher PREM - The Wrap Up",
-      "description": "Action and analysis from last weekend's Gallagher PREM games, including Exeter Chief's key clash Northampton Saints and Bristol Bears versus Gloucester.",
+      "description": "Action and analysis from last weekend's Gallagher PREM games, including Exeter Chief v Northampton Saints and Bristol Bears v Gloucester.",
       "start": 1776776400,
       "stop": 1776777300,
       "icon": "https://images.metadata.sky.com/pd-image/b074203b-1eb1-499a-814b-5054fd7d6560/cover",
@@ -9825,7 +9847,7 @@
     },
     {
       "title": "Tour of the Alps - Stage 2",
-      "description": "Men's cycling action from stage two of the 2026 Tour of the Alps.",
+      "description": "Men's cycling action from stage two of the 2026 Tour of the Alps, which sees the peloton travel 147km from Telfs, Austria, to an uphill finish in Martell, Italy.",
       "start": 1776823200,
       "stop": 1776826800,
       "icon": "https://images.metadata.sky.com/pd-image/f6ebe66e-e193-4ffc-ba4e-f6c2ef464867/cover",
@@ -9880,7 +9902,7 @@
     },
     {
       "title": "The Gallagher PREM - The Wrap Up",
-      "description": "Action and analysis from last weekend's Gallagher PREM games, including Exeter Chief's key clash Northampton Saints and Bristol Bears versus Gloucester.",
+      "description": "Action and analysis from last weekend's Gallagher PREM games, including Exeter Chief v Northampton Saints and Bristol Bears v Gloucester.",
       "start": 1776834900,
       "stop": 1776835800,
       "icon": "https://images.metadata.sky.com/pd-image/b074203b-1eb1-499a-814b-5054fd7d6560/cover",
@@ -9979,18 +10001,18 @@
     },
     {
       "title": "TNT Sports Cricket Reload",
-      "description": "A look back at some of the best cricket action from around the world.",
+      "description": "A look back at the first One Day International between Bangladesh and Australia.",
       "start": 1776875400,
       "stop": 1776876300,
       "icon": "https://images.metadata.sky.com/pd-image/16432a61-a759-4c30-9fbf-bed17dab6095/cover",
       "channel": "tnt3",
       "premiere": false,
       "season": 25.0,
-      "episode": 167
+      "episode": 161
     },
     {
       "title": "TNT Sports Cricket Reload",
-      "description": "A look back at some of the best cricket action from around the world.",
+      "description": "A look back at the second One Day International between Bangladesh and Australia.",
       "start": 1776876300,
       "stop": 1776877200,
       "icon": "https://images.metadata.sky.com/pd-image/e5f315ff-2107-495e-b762-9aa410273d44/cover",
@@ -10189,7 +10211,7 @@
       "episode": 25.0
     },
     {
-      "title": "Live: Boston Mararthon",
+      "title": "Live: Boston Marathon",
       "description": "Coverage of the 130th Boston Marathon. This historic course starts in the rural New England town of Hopkinton and ends near the Boston Public Library in Copley Square.",
       "start": 1776690000,
       "stop": 1776701700,
@@ -10685,7 +10707,7 @@
     },
     {
       "title": "The Cycling Show",
-      "description": "The latest of The Cycling Show.",
+      "description": "We go behind the scenes at UAE Team ADQ as they aim to establish themselves among the dominant teams of the World Tour, featuring exclusive interviews with the team.",
       "start": 1776884400,
       "stop": 1776886200,
       "icon": "https://images.metadata.sky.com/pd-image/9272d331-3bef-4e51-87dd-8adcf6104e9b/cover",
@@ -10695,15 +10717,15 @@
       "episode": 4.0
     },
     {
-      "title": "Boston Mararthon",
+      "title": "Boston Marathon",
       "description": "Coverage of the 130th Boston Marathon. This historic course starts in the rural New England town of Hopkinton and ends near the Boston Public Library in Copley Square.",
       "start": 1776886200,
       "stop": 1776889800,
-      "icon": "https://images.metadata.sky.com/pd-image/2ac30701-ea81-41f1-94a4-3b863f86eb95/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/06466d9a-6083-4aca-a5ed-aef3ab9c2f29/cover",
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": null
     },
     {
       "title": "Lions Uncut: Australia 2025",
@@ -16802,7 +16824,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2026.0,
-      "episode": 135.0
+      "episode": 135
     },
     {
       "title": "Newshour",
@@ -16813,7 +16835,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2026.0,
-      "episode": 135.0
+      "episode": 135
     },
     {
       "title": "News Live",
@@ -16824,7 +16846,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Inside Story",
@@ -16835,7 +16857,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Newshour",
@@ -16846,7 +16868,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2026.0,
-      "episode": 136.0
+      "episode": 136
     },
     {
       "title": "Newshour",
@@ -16857,7 +16879,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2026.0,
-      "episode": 136.0
+      "episode": 136
     },
     {
       "title": "News Live",
@@ -16868,7 +16890,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "UpFront",
@@ -16879,7 +16901,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2026.0,
-      "episode": 11.0
+      "episode": 11
     },
     {
       "title": "News Live",
@@ -16890,7 +16912,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "The Bottom Line",
@@ -16901,7 +16923,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2026.0,
-      "episode": 16.0
+      "episode": 16
     },
     {
       "title": "News Live",
@@ -16912,7 +16934,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Talk to Al Jazeera",
@@ -16923,7 +16945,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "News Live",
@@ -16934,7 +16956,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Inside Story",
@@ -16945,7 +16967,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Newshour",
@@ -16956,7 +16978,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2026.0,
-      "episode": 136.0
+      "episode": 136
     },
     {
       "title": "News Live",
@@ -16967,7 +16989,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Counting the Cost",
@@ -16978,7 +17000,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2026.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "News Live",
@@ -16989,7 +17011,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "The Listening Post",
@@ -17000,7 +17022,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2026.0,
-      "episode": 16.0
+      "episode": 16
     },
     {
       "title": "Newshour",
@@ -17011,7 +17033,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2026.0,
-      "episode": 136.0
+      "episode": 136
     },
     {
       "title": "Newshour",
@@ -17022,7 +17044,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2026.0,
-      "episode": 136.0
+      "episode": 136
     },
     {
       "title": "News Live",
@@ -17033,7 +17055,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Inside Story",
@@ -17044,7 +17066,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Newshour",
@@ -17055,7 +17077,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2026.0,
-      "episode": 136.0
+      "episode": 136
     },
     {
       "title": "Newshour",
@@ -17066,7 +17088,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2026.0,
-      "episode": 136.0
+      "episode": 136
     },
     {
       "title": "News Live",
@@ -17077,18 +17099,18 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Talk to Al Jazeera",
-      "description": "Ep.467 20042026: One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.",
+      "description": "Bryan Clark: As fighting pauses in the US-Israel war on Iran, a military strategist examines shifting goals, strategic missteps, and what Washington has really achieved.",
       "start": 1776695400,
       "stop": 1776697200,
       "icon": "https://images.metadata.sky.com/pd-image/31713c19-8e3a-434e-89aa-67a105db649d/cover",
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Newshour",
@@ -17099,7 +17121,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2026.0,
-      "episode": 136.0
+      "episode": 136
     },
     {
       "title": "News Live",
@@ -17110,7 +17132,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "101 East",
@@ -17121,7 +17143,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2026.0,
-      "episode": 10.0
+      "episode": 10
     },
     {
       "title": "News Live",
@@ -17132,7 +17154,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Inside Story",
@@ -17143,7 +17165,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Newshour",
@@ -17154,7 +17176,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2026.0,
-      "episode": 136.0
+      "episode": 136
     },
     {
       "title": "News Live",
@@ -17165,18 +17187,18 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Al Jazeera Untangles - The Coloniser's Academy",
       "description": "British Empire - Rule the Waves: How Britain fused naval dominance with corporate reach to build a global empire of trade and control.",
       "start": 1776713400,
       "stop": 1776715200,
-      "icon": "https://images.metadata.sky.com/pd-image/74d2450a-5f57-4b55-863d-f50ed078eefb/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/a3522f42-c0fc-4078-ab22-c126bd7ef97c/cover",
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 0
     },
     {
       "title": "Newshour",
@@ -17187,7 +17209,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2026.0,
-      "episode": 136.0
+      "episode": 136
     },
     {
       "title": "Newshour",
@@ -17198,7 +17220,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2026.0,
-      "episode": 136.0
+      "episode": 136
     },
     {
       "title": "Newshour",
@@ -17209,7 +17231,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2026.0,
-      "episode": 136.0
+      "episode": 136
     },
     {
       "title": "News Live",
@@ -17220,7 +17242,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Inside Story",
@@ -17231,7 +17253,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Newshour",
@@ -17242,7 +17264,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2026.0,
-      "episode": 137.0
+      "episode": 137
     },
     {
       "title": "Global Warning",
@@ -17253,7 +17275,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "News Live",
@@ -17264,7 +17286,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "The Listening Post",
@@ -17275,7 +17297,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2026.0,
-      "episode": 16.0
+      "episode": 16
     },
     {
       "title": "News Live",
@@ -17286,7 +17308,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Reframe",
@@ -17297,7 +17319,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "News Live",
@@ -17308,18 +17330,18 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Al Jazeera Untangles - The Coloniser's Academy",
       "description": "British Empire - Rule the Waves: How Britain fused naval dominance with corporate reach to build a global empire of trade and control.",
       "start": 1776745800,
       "stop": 1776747600,
-      "icon": "https://images.metadata.sky.com/pd-image/fa36aa3b-d46c-4130-bbd3-93df3230e6c1/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/a3522f42-c0fc-4078-ab22-c126bd7ef97c/cover",
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 0
     },
     {
       "title": "News Live",
@@ -17330,7 +17352,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Inside Story",
@@ -17341,7 +17363,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "News Live",
@@ -17352,7 +17374,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "101 East",
@@ -17363,7 +17385,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2026.0,
-      "episode": 10.0
+      "episode": 10
     },
     {
       "title": "News Live",
@@ -17374,7 +17396,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "The Bottom Line",
@@ -17385,7 +17407,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2026.0,
-      "episode": 16.0
+      "episode": 16
     },
     {
       "title": "News Live",
@@ -17396,18 +17418,18 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Talk to Al Jazeera",
-      "description": "Ep.467 20042026: One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.",
+      "description": "Bryan Clark: As fighting pauses in the US-Israel war on Iran, a military strategist examines shifting goals, strategic missteps, and what Washington has really achieved.",
       "start": 1776760200,
       "stop": 1776762000,
       "icon": "https://images.metadata.sky.com/pd-image/31713c19-8e3a-434e-89aa-67a105db649d/cover",
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "News Live",
@@ -17418,7 +17440,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Witness",
@@ -17429,7 +17451,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2026.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Newshour",
@@ -17440,7 +17462,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2026.0,
-      "episode": 137.0
+      "episode": 137
     },
     {
       "title": "News Live",
@@ -17451,7 +17473,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Inside Story",
@@ -17462,7 +17484,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Witness",
@@ -17473,7 +17495,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2023.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Newshour",
@@ -17484,7 +17506,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2026.0,
-      "episode": 137.0
+      "episode": 137
     },
     {
       "title": "News Live",
@@ -17495,18 +17517,18 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Al Jazeera Untangles - The Coloniser's Academy",
       "description": "British Empire - Rule the Waves: How Britain fused naval dominance with corporate reach to build a global empire of trade and control.",
       "start": 1776781800,
       "stop": 1776783600,
-      "icon": "https://images.metadata.sky.com/pd-image/5f34986b-4551-47e0-8f29-d933eb5ed015/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/a3522f42-c0fc-4078-ab22-c126bd7ef97c/cover",
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 0
     },
     {
       "title": "Newshour",
@@ -17517,7 +17539,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2026.0,
-      "episode": 137.0
+      "episode": 137
     },
     {
       "title": "News Live",
@@ -17528,7 +17550,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Counting the Cost",
@@ -17539,7 +17561,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2026.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "News Live",
@@ -17550,7 +17572,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Inside Story",
@@ -17561,7 +17583,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Newshour",
@@ -17572,7 +17594,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2026.0,
-      "episode": 137.0
+      "episode": 137
     },
     {
       "title": "News Live",
@@ -17583,7 +17605,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "UpFront",
@@ -17594,7 +17616,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2026.0,
-      "episode": 11.0
+      "episode": 11
     },
     {
       "title": "Al Jazeera World",
@@ -17605,7 +17627,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2026.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Newshour",
@@ -17616,7 +17638,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2026.0,
-      "episode": 137.0
+      "episode": 137
     },
     {
       "title": "News Live",
@@ -17627,7 +17649,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "The Global Population Bust",
@@ -17638,7 +17660,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "News Live",
@@ -17649,7 +17671,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Inside Story",
@@ -17660,7 +17682,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Newshour",
@@ -17671,7 +17693,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2026.0,
-      "episode": 138.0
+      "episode": 138
     },
     {
       "title": "Global Warning",
@@ -17682,7 +17704,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "News Live",
@@ -17693,18 +17715,18 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Talk to Al Jazeera",
-      "description": "Ep.467 20042026: One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.",
+      "description": "Bryan Clark: As fighting pauses in the US-Israel war on Iran, a military strategist examines shifting goals, strategic missteps, and what Washington has really achieved.",
       "start": 1776825000,
       "stop": 1776826800,
       "icon": "https://images.metadata.sky.com/pd-image/31713c19-8e3a-434e-89aa-67a105db649d/cover",
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "News Live",
@@ -17715,7 +17737,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Witness",
@@ -17726,7 +17748,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2026.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "News Live",
@@ -17737,7 +17759,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "UpFront",
@@ -17748,7 +17770,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2026.0,
-      "episode": 11.0
+      "episode": 11
     },
     {
       "title": "News Live",
@@ -17759,7 +17781,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Inside Story",
@@ -17770,7 +17792,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "News Live",
@@ -17781,7 +17803,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Counting the Cost",
@@ -17792,7 +17814,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2026.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "News Live",
@@ -17803,7 +17825,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Reframe",
@@ -17814,7 +17836,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "News Live",
@@ -17825,18 +17847,18 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Al Jazeera Untangles - The Coloniser's Academy",
       "description": "British Empire - Rule the Waves: How Britain fused naval dominance with corporate reach to build a global empire of trade and control.",
       "start": 1776846600,
       "stop": 1776848400,
-      "icon": "https://images.metadata.sky.com/pd-image/b675b904-3ff3-45d5-a97f-4509a7277e49/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/39fc08ac-deb3-4dc9-a18d-c0107457f206/cover",
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 0
     },
     {
       "title": "News Live",
@@ -17847,7 +17869,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "The Global Population Bust",
@@ -17858,7 +17880,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Newshour",
@@ -17869,7 +17891,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2026.0,
-      "episode": 138.0
+      "episode": 138
     },
     {
       "title": "News Live",
@@ -17880,7 +17902,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Inside Story",
@@ -17891,7 +17913,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Al Jazeera World",
@@ -17902,7 +17924,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2026.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Newshour",
@@ -17913,7 +17935,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2026.0,
-      "episode": 138.0
+      "episode": 138
     },
     {
       "title": "News Live",
@@ -17924,7 +17946,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "The Listening Post",
@@ -17935,7 +17957,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2026.0,
-      "episode": 16.0
+      "episode": 16
     },
     {
       "title": "Newshour",
@@ -17946,7 +17968,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2026.0,
-      "episode": 138.0
+      "episode": 138
     },
     {
       "title": "News Live",
@@ -17957,7 +17979,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "The Bottom Line",
@@ -17968,7 +17990,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2026.0,
-      "episode": 16.0
+      "episode": 16
     },
     {
       "title": "News Live",
@@ -17979,7 +18001,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Inside Story",
@@ -17990,7 +18012,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Newshour",
@@ -18001,7 +18023,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2026.0,
-      "episode": 138.0
+      "episode": 138
     },
     {
       "title": "News Live",
@@ -18012,7 +18034,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "101 East",
@@ -18023,7 +18045,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2026.0,
-      "episode": 11.0
+      "episode": 11
     },
     {
       "title": "Witness",
@@ -18034,7 +18056,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2025.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Newshour",
@@ -18045,7 +18067,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2026.0,
-      "episode": 138.0
+      "episode": 138
     },
     {
       "title": "News Live",
@@ -18056,7 +18078,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 26.0,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "People and Power",
@@ -18067,7 +18089,7 @@
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": 2026.0,
-      "episode": 0.0
+      "episode": 0
     }
   ],
   "BBCAlba.uk": [
@@ -18119,7 +18141,7 @@
       "title": "Creag nam Buthaidean/Puffin Rock",
       "description": "9/21. Marvin loses his favourite rock. Tha Marvin a' call a' chreag as fheàrr leis. 'S beag feum a th' anns na creagan ùr aig Oona - 'n tèid ac' air \"Rocky\" a lorg? [S] [HD]",
       "start": 1776700800,
-      "stop": 1776701400,
+      "stop": 1776701100,
       "icon": "https://images.metadata.sky.com/pd-image/b3ee75d7-3f7e-4b08-9ce8-af2d49770986/cover",
       "channel": "BBCAlba.uk",
       "premiere": false,
@@ -18129,7 +18151,7 @@
     {
       "title": "Creag nam Buthaidean/Puffin Rock",
       "description": "10/21. Mama and Papa are taking Oona and Baba on a family outing. Tha Mamaidh is Papaidh a' toirt Oona is Baba air turas teaghlaich. [S] [HD]",
-      "start": 1776701400,
+      "start": 1776701100,
       "stop": 1776701700,
       "icon": "https://images.metadata.sky.com/pd-image/e7b82724-fd38-45f1-b9b7-4643420b1f1d/cover",
       "channel": "BBCAlba.uk",
@@ -18424,21 +18446,21 @@
       "episode": null
     },
     {
-      "title": "Stan & Gran",
-      "description": "2/52. Melanie won't go to her favourite beach because of a strange sound known as The Wizard's Whistle. [S] [HD]",
+      "title": "Sionnach agus Maigheach (Fox & Hare)",
+      "description": "14/26. Fox and Hare are throwing a costume party. But who is the mysterious guest in ghost costume? [S] [HD]",
       "start": 1776789600,
       "stop": 1776790200,
-      "icon": "https://images.metadata.sky.com/pd-image/9395b6c4-b74a-4a04-b2ed-7600e19e250e/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/65ad0f8f-9c1b-4c4a-9fa5-f59b754ce1bf/cover",
       "channel": "BBCAlba.uk",
       "premiere": false,
-      "season": 1.0,
-      "episode": 2.0
+      "season": null,
+      "episode": null
     },
     {
       "title": "Stòiridh",
       "description": "6/9. Catriona Mhoireach a' leughadh An Solas air an Oidhche. Catriona Murray reads An Solas air an Oidhche. [S] [HD]",
       "start": 1776790200,
-      "stop": 1776790800,
+      "stop": 1776790500,
       "icon": "https://images.metadata.sky.com/pd-image/883f43e6-b990-4291-ac53-17c34fb8d1c5/cover",
       "channel": "BBCAlba.uk",
       "premiere": false,
@@ -18448,8 +18470,8 @@
     {
       "title": "Stri",
       "description": "4/12. Alexa a' farpais an aghaidh preasantairean CBBC ALBA. Alexa competes against the CBBC ALBA presenters. [S] [HD]",
-      "start": 1776790800,
-      "stop": 1776791100,
+      "start": 1776790500,
+      "stop": 1776790800,
       "icon": "https://images.metadata.sky.com/pd-image/45e4b9e2-cf51-442b-b986-7d57d22c060c/cover",
       "channel": "BBCAlba.uk",
       "premiere": false,
@@ -18459,7 +18481,7 @@
     {
       "title": "An Saoghal Droil aig Pol...",
       "description": "...Ploc/The Rubbish World of Dave Spud. 5/52. Dave is practising for Grimsby's 'grimmest face' competition and finds that the wind changing direction really can cause the face to stick. [S] [HD]",
-      "start": 1776791100,
+      "start": 1776790800,
       "stop": 1776791700,
       "icon": "https://images.metadata.sky.com/pd-image/90e5c69e-8a82-3080-94ff-2e33fe8060ab/cover",
       "channel": "BBCAlba.uk",
@@ -18633,21 +18655,21 @@
       "episode": null
     },
     {
-      "title": "Dan & Gran",
-      "description": "2/52. Melanie won't go to her favourite beach because of a strange sound known as The Wizard's Whistle. [S] [HD]",
+      "title": "Sionnach agus Maigheach (Fox & Hare)",
+      "description": "14/26. Fox and Hare are throwing a costume party. But who is the mysterious guest in ghost costume? [S] [HD]",
       "start": 1776873600,
       "stop": 1776874200,
-      "icon": "https://images.metadata.sky.com/pd-image/9395b6c4-b74a-4a04-b2ed-7600e19e250e/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/ada8c680-822e-4078-b88e-6832d0b7436b/cover",
       "channel": "BBCAlba.uk",
       "premiere": false,
-      "season": 1.0,
-      "episode": 2.0
+      "season": null,
+      "episode": null
     },
     {
       "title": "Beathaichean a' Bocadaich",
       "description": "11/15. Tha Sophie agus a caraidean a' bocadaich coltach ri each agus sioraf. Sophie and her friends dance like a horse and a giraffe. [S] [HD]",
       "start": 1776874200,
-      "stop": 1776874800,
+      "stop": 1776874500,
       "icon": "https://images.metadata.sky.com/pd-image/785c5993-7523-42a0-9967-d9235effea08/cover",
       "channel": "BBCAlba.uk",
       "premiere": false,
@@ -18657,7 +18679,7 @@
     {
       "title": "Meaban is Moo",
       "description": "4/10. Tha Linda a' tadhal air Meaban is Moo gus dùbhlan a chur romhpa.  An-diugh feumaidh iad rudan a tha dubh a lorg. Linda challenges Meaban and Moo to find black items. [S] [HD]",
-      "start": 1776874800,
+      "start": 1776874500,
       "stop": 1776875100,
       "icon": "https://images.metadata.sky.com/pd-image/336ddc0d-239a-4216-89e4-6e6fb80ed066/cover",
       "channel": "BBCAlba.uk",
@@ -18702,7 +18724,7 @@
       "title": "Stòiridh",
       "description": "51/80. Cairistìona Primrose a' leughadh A' Bheinn agus a' Chreag. Christine Primrose reads A' Bheinn agus a' Chreag. [S] [HD]",
       "start": 1776876600,
-      "stop": 1776877200,
+      "stop": 1776876900,
       "icon": "https://images.metadata.sky.com/pd-image/4a6364cc-4600-4d31-8493-8c4ef9622ef0/cover",
       "channel": "BBCAlba.uk",
       "premiere": false,
@@ -18712,7 +18734,7 @@
     {
       "title": "Clann na Cruinne",
       "description": "1/9. Tha gaol mòr aig Kerene air dannsadh 's tha i dol a' thòiseachadh buidheann dannsaidh. Kerene loves dancing so much that she is going to start a dance group. [S] [HD]",
-      "start": 1776877200,
+      "start": 1776876900,
       "stop": 1776878100,
       "icon": "https://images.metadata.sky.com/pd-image/9b1ceb00-d7ce-4c89-9887-446c9789ea01/cover",
       "channel": "BBCAlba.uk",
@@ -19215,7 +19237,7 @@
       "channel": "BBCFourHD.uk",
       "premiere": false,
       "season": null,
-      "episode": 29.0
+      "episode": 30.0
     },
     {
       "title": "This Life",
@@ -19693,21 +19715,21 @@
       "episode": 0.0
     },
     {
-      "title": "Business Today",
-      "description": "Bringing the latest business news and up-to-date informed analysis from London and around the world. [S] [HD]",
+      "title": "Verified Live",
+      "description": "Matthew Amroliwala presents all the latest global and UK news, live from London. [S] [HD]",
       "start": 1776699000,
       "stop": 1776699900,
-      "icon": "https://images.metadata.sky.com/pd-image/69532501-5d33-45a7-92b6-acd7a82a766f/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/c587abd8-b322-4969-b294-b204a309cfe5/cover",
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": null
     },
     {
       "title": "Verified Live",
       "description": "Matthew Amroliwala presents all the latest global and UK news, live from London. [S] [HD]",
       "start": 1776699900,
-      "stop": 1776700800,
+      "stop": 1776701700,
       "icon": "https://images.metadata.sky.com/pd-image/c491ae98-fa12-4106-918f-9be017d61f6e/cover",
       "channel": "BBCNews.uk",
       "premiere": false,
@@ -19717,7 +19739,7 @@
     {
       "title": "Verified Live",
       "description": "Matthew Amroliwala presents all the latest global and UK news, live from London. [S] [HD]",
-      "start": 1776700800,
+      "start": 1776701700,
       "stop": 1776702600,
       "icon": "https://images.metadata.sky.com/pd-image/bf4a62a6-910f-426c-aa2e-44edba789dc5/cover",
       "channel": "BBCNews.uk",
@@ -21082,7 +21104,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Rav Wilding and Helen Skelton speak with Paralympian Kadeena Cox about living with a hidden disability, and consumer expert Louise Minchin explains how to check if your car has been recalled. [S] [HD]",
       "start": 1776673800,
       "stop": 1776678300,
       "icon": "https://images.metadata.sky.com/pd-image/8cc8c7f5-eaba-49de-86cb-b08d9458637a/cover",
@@ -21236,7 +21258,7 @@
     },
     {
       "title": "The One Show",
-      "description": "Alex Jones and Roman Kemp bring you the stories that matter from across the country. [S] [HD]",
+      "description": "Alex Jones and Roman Kemp are joined by Hollywood star Hugh Jackman and Angela Rippon. [S] [HD]",
       "start": 1776708000,
       "stop": 1776709800,
       "icon": "https://images.metadata.sky.com/pd-image/c642a1a4-6a6a-402c-b933-98f29975aabe/cover",
@@ -21964,7 +21986,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Rav Wilding and Helen Skelton speak with Paralympian Kadeena Cox about living with a hidden disability, and consumer expert Louise Minchin explains how to check if your car has been recalled. [S] [HD]",
       "start": 1776673800,
       "stop": 1776678300,
       "icon": "https://images.metadata.sky.com/pd-image/8cc8c7f5-eaba-49de-86cb-b08d9458637a/cover",
@@ -22118,7 +22140,7 @@
     },
     {
       "title": "The One Show",
-      "description": "Alex Jones and Roman Kemp bring you the stories that matter from across the country. [S] [HD]",
+      "description": "Alex Jones and Roman Kemp are joined by Hollywood star Hugh Jackman and Angela Rippon. [S] [HD]",
       "start": 1776708000,
       "stop": 1776709800,
       "icon": "https://images.metadata.sky.com/pd-image/c642a1a4-6a6a-402c-b933-98f29975aabe/cover",
@@ -22846,7 +22868,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Rav Wilding and Helen Skelton speak with Paralympian Kadeena Cox about living with a hidden disability, and consumer expert Louise Minchin explains how to check if your car has been recalled. [S] [HD]",
       "start": 1776673800,
       "stop": 1776678300,
       "icon": "https://images.metadata.sky.com/pd-image/8cc8c7f5-eaba-49de-86cb-b08d9458637a/cover",
@@ -23000,7 +23022,7 @@
     },
     {
       "title": "The One Show",
-      "description": "Alex Jones and Roman Kemp bring you the stories that matter from across the country. [S] [HD]",
+      "description": "Alex Jones and Roman Kemp are joined by Hollywood star Hugh Jackman and Angela Rippon. [S] [HD]",
       "start": 1776708000,
       "stop": 1776709800,
       "icon": "https://images.metadata.sky.com/pd-image/c642a1a4-6a6a-402c-b933-98f29975aabe/cover",
@@ -23728,7 +23750,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Rav Wilding and Helen Skelton speak with Paralympian Kadeena Cox about living with a hidden disability, and consumer expert Louise Minchin explains how to check if your car has been recalled. [S] [HD]",
       "start": 1776673800,
       "stop": 1776678300,
       "icon": "https://images.metadata.sky.com/pd-image/8cc8c7f5-eaba-49de-86cb-b08d9458637a/cover",
@@ -23882,7 +23904,7 @@
     },
     {
       "title": "The One Show",
-      "description": "Alex Jones and Roman Kemp bring you the stories that matter from across the country. [S] [HD]",
+      "description": "Alex Jones and Roman Kemp are joined by Hollywood star Hugh Jackman and Angela Rippon. [S] [HD]",
       "start": 1776708000,
       "stop": 1776709800,
       "icon": "https://images.metadata.sky.com/pd-image/c642a1a4-6a6a-402c-b933-98f29975aabe/cover",
@@ -24610,7 +24632,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Rav Wilding and Helen Skelton speak with Paralympian Kadeena Cox about living with a hidden disability, and consumer expert Louise Minchin explains how to check if your car has been recalled. [S] [HD]",
       "start": 1776673800,
       "stop": 1776678300,
       "icon": "https://images.metadata.sky.com/pd-image/8cc8c7f5-eaba-49de-86cb-b08d9458637a/cover",
@@ -24764,7 +24786,7 @@
     },
     {
       "title": "The One Show",
-      "description": "Alex Jones and Roman Kemp bring you the stories that matter from across the country. [S] [HD]",
+      "description": "Alex Jones and Roman Kemp are joined by Hollywood star Hugh Jackman and Angela Rippon. [S] [HD]",
       "start": 1776708000,
       "stop": 1776709800,
       "icon": "https://images.metadata.sky.com/pd-image/c642a1a4-6a6a-402c-b933-98f29975aabe/cover",
@@ -25492,7 +25514,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Rav Wilding and Helen Skelton speak with Paralympian Kadeena Cox about living with a hidden disability, and consumer expert Louise Minchin explains how to check if your car has been recalled. [S] [HD]",
       "start": 1776673800,
       "stop": 1776678300,
       "icon": "https://images.metadata.sky.com/pd-image/8cc8c7f5-eaba-49de-86cb-b08d9458637a/cover",
@@ -25646,7 +25668,7 @@
     },
     {
       "title": "The One Show",
-      "description": "Alex Jones and Roman Kemp bring you the stories that matter from across the country. [S] [HD]",
+      "description": "Alex Jones and Roman Kemp are joined by Hollywood star Hugh Jackman and Angela Rippon. [S] [HD]",
       "start": 1776708000,
       "stop": 1776709800,
       "icon": "https://images.metadata.sky.com/pd-image/c642a1a4-6a6a-402c-b933-98f29975aabe/cover",
@@ -26374,7 +26396,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Rav Wilding and Helen Skelton speak with Paralympian Kadeena Cox about living with a hidden disability, and consumer expert Louise Minchin explains how to check if your car has been recalled. [S] [HD]",
       "start": 1776673800,
       "stop": 1776678300,
       "icon": "https://images.metadata.sky.com/pd-image/8cc8c7f5-eaba-49de-86cb-b08d9458637a/cover",
@@ -26517,7 +26539,7 @@
     },
     {
       "title": "The One Show",
-      "description": "Alex Jones and Roman Kemp bring you the stories that matter from across the country. [S] [HD]",
+      "description": "Alex Jones and Roman Kemp are joined by Hollywood star Hugh Jackman and Angela Rippon. [S] [HD]",
       "start": 1776708000,
       "stop": 1776709800,
       "icon": "https://images.metadata.sky.com/pd-image/c642a1a4-6a6a-402c-b933-98f29975aabe/cover",
@@ -27234,7 +27256,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Rav Wilding and Helen Skelton speak with Paralympian Kadeena Cox about living with a hidden disability, and consumer expert Louise Minchin explains how to check if your car has been recalled. [S] [HD]",
       "start": 1776673800,
       "stop": 1776678300,
       "icon": "https://images.metadata.sky.com/pd-image/8cc8c7f5-eaba-49de-86cb-b08d9458637a/cover",
@@ -27388,7 +27410,7 @@
     },
     {
       "title": "The One Show",
-      "description": "Alex Jones and Roman Kemp bring you the stories that matter from across the country. [S] [HD]",
+      "description": "Alex Jones and Roman Kemp are joined by Hollywood star Hugh Jackman and Angela Rippon. [S] [HD]",
       "start": 1776708000,
       "stop": 1776709800,
       "icon": "https://images.metadata.sky.com/pd-image/c642a1a4-6a6a-402c-b933-98f29975aabe/cover",
@@ -27475,7 +27497,7 @@
       "episode": 0.0
     },
     {
-      "title": "Have I Got News for You",
+      "title": "Have I Got News For You",
       "description": "3/10. Gabby Logan hosts, with guest panellists comedians Miles Jupp and Michelle Wolf joining team captains Paul Merton and Ian Hislop. Contains some strong language. [S] [HD]",
       "start": 1776721200,
       "stop": 1776723000,
@@ -27509,7 +27531,7 @@
     },
     {
       "title": "Scotcast",
-      "description": "Conversation about Scotland's biggest news stories, hosted by Martin Geissler. [S] [HD]",
+      "description": "Martin Geissler and Natalie Higgins discuss how football pundit Michael Stewart's views about referees got him banned from our national stadium. [S] [HD]",
       "start": 1776726600,
       "stop": 1776728400,
       "icon": "https://images.metadata.sky.com/pd-image/0d11f132-d649-41b5-b965-7f67702c5cd1/cover",
@@ -28160,7 +28182,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Rav Wilding and Helen Skelton speak with Paralympian Kadeena Cox about living with a hidden disability, and consumer expert Louise Minchin explains how to check if your car has been recalled. [S] [HD]",
       "start": 1776673800,
       "stop": 1776678300,
       "icon": "https://images.metadata.sky.com/pd-image/8cc8c7f5-eaba-49de-86cb-b08d9458637a/cover",
@@ -28314,7 +28336,7 @@
     },
     {
       "title": "The One Show",
-      "description": "Alex Jones and Roman Kemp bring you the stories that matter from across the country. [S] [HD]",
+      "description": "Alex Jones and Roman Kemp are joined by Hollywood star Hugh Jackman and Angela Rippon. [S] [HD]",
       "start": 1776708000,
       "stop": 1776709800,
       "icon": "https://images.metadata.sky.com/pd-image/c642a1a4-6a6a-402c-b933-98f29975aabe/cover",
@@ -29042,7 +29064,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Rav Wilding and Helen Skelton speak with Paralympian Kadeena Cox about living with a hidden disability, and consumer expert Louise Minchin explains how to check if your car has been recalled. [S] [HD]",
       "start": 1776673800,
       "stop": 1776678300,
       "icon": "https://images.metadata.sky.com/pd-image/8cc8c7f5-eaba-49de-86cb-b08d9458637a/cover",
@@ -29196,7 +29218,7 @@
     },
     {
       "title": "The One Show",
-      "description": "Alex Jones and Roman Kemp bring you the stories that matter from across the country. [S] [HD]",
+      "description": "Alex Jones and Roman Kemp are joined by Hollywood star Hugh Jackman and Angela Rippon. [S] [HD]",
       "start": 1776708000,
       "stop": 1776709800,
       "icon": "https://images.metadata.sky.com/pd-image/c642a1a4-6a6a-402c-b933-98f29975aabe/cover",
@@ -29924,7 +29946,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Rav Wilding and Helen Skelton speak with Paralympian Kadeena Cox about living with a hidden disability, and consumer expert Louise Minchin explains how to check if your car has been recalled. [S] [HD]",
       "start": 1776673800,
       "stop": 1776678300,
       "icon": "https://images.metadata.sky.com/pd-image/8cc8c7f5-eaba-49de-86cb-b08d9458637a/cover",
@@ -30078,7 +30100,7 @@
     },
     {
       "title": "The One Show",
-      "description": "Alex Jones and Roman Kemp bring you the stories that matter from across the country. [S] [HD]",
+      "description": "Alex Jones and Roman Kemp are joined by Hollywood star Hugh Jackman and Angela Rippon. [S] [HD]",
       "start": 1776708000,
       "stop": 1776709800,
       "icon": "https://images.metadata.sky.com/pd-image/c642a1a4-6a6a-402c-b933-98f29975aabe/cover",
@@ -30806,7 +30828,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Rav Wilding and Helen Skelton speak with Paralympian Kadeena Cox about living with a hidden disability, and consumer expert Louise Minchin explains how to check if your car has been recalled. [S] [HD]",
       "start": 1776673800,
       "stop": 1776678300,
       "icon": "https://images.metadata.sky.com/pd-image/8cc8c7f5-eaba-49de-86cb-b08d9458637a/cover",
@@ -30982,7 +31004,7 @@
     },
     {
       "title": "The One Show",
-      "description": "Alex Jones and Roman Kemp bring you the stories that matter from across the country. [S] [HD]",
+      "description": "Alex Jones and Roman Kemp are joined by Hollywood star Hugh Jackman and Angela Rippon. [S] [HD]",
       "start": 1776708000,
       "stop": 1776709800,
       "icon": "https://images.metadata.sky.com/pd-image/c642a1a4-6a6a-402c-b933-98f29975aabe/cover",
@@ -31754,7 +31776,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Rav Wilding and Helen Skelton speak with Paralympian Kadeena Cox about living with a hidden disability, and consumer expert Louise Minchin explains how to check if your car has been recalled. [S] [HD]",
       "start": 1776673800,
       "stop": 1776678300,
       "icon": "https://images.metadata.sky.com/pd-image/8cc8c7f5-eaba-49de-86cb-b08d9458637a/cover",
@@ -31908,7 +31930,7 @@
     },
     {
       "title": "The One Show",
-      "description": "Alex Jones and Roman Kemp bring you the stories that matter from across the country. [S] [HD]",
+      "description": "Alex Jones and Roman Kemp are joined by Hollywood star Hugh Jackman and Angela Rippon. [S] [HD]",
       "start": 1776708000,
       "stop": 1776709800,
       "icon": "https://images.metadata.sky.com/pd-image/c642a1a4-6a6a-402c-b933-98f29975aabe/cover",
@@ -32636,7 +32658,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Rav Wilding and Helen Skelton speak with Paralympian Kadeena Cox about living with a hidden disability, and consumer expert Louise Minchin explains how to check if your car has been recalled. [S] [HD]",
       "start": 1776673800,
       "stop": 1776678300,
       "icon": "https://images.metadata.sky.com/pd-image/8cc8c7f5-eaba-49de-86cb-b08d9458637a/cover",
@@ -32790,7 +32812,7 @@
     },
     {
       "title": "The One Show",
-      "description": "Alex Jones and Roman Kemp bring you the stories that matter from across the country. [S] [HD]",
+      "description": "Alex Jones and Roman Kemp are joined by Hollywood star Hugh Jackman and Angela Rippon. [S] [HD]",
       "start": 1776708000,
       "stop": 1776709800,
       "icon": "https://images.metadata.sky.com/pd-image/c642a1a4-6a6a-402c-b933-98f29975aabe/cover",
@@ -33518,7 +33540,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Rav Wilding and Helen Skelton speak with Paralympian Kadeena Cox about living with a hidden disability, and consumer expert Louise Minchin explains how to check if your car has been recalled. [S] [HD]",
       "start": 1776673800,
       "stop": 1776678300,
       "icon": "https://images.metadata.sky.com/pd-image/8cc8c7f5-eaba-49de-86cb-b08d9458637a/cover",
@@ -33672,7 +33694,7 @@
     },
     {
       "title": "The One Show",
-      "description": "Alex Jones and Roman Kemp bring you the stories that matter from across the country. [S] [HD]",
+      "description": "Alex Jones and Roman Kemp are joined by Hollywood star Hugh Jackman and Angela Rippon. [S] [HD]",
       "start": 1776708000,
       "stop": 1776709800,
       "icon": "https://images.metadata.sky.com/pd-image/c642a1a4-6a6a-402c-b933-98f29975aabe/cover",
@@ -34400,7 +34422,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Rav Wilding and Helen Skelton speak with Paralympian Kadeena Cox about living with a hidden disability, and consumer expert Louise Minchin explains how to check if your car has been recalled. [S] [HD]",
       "start": 1776673800,
       "stop": 1776678300,
       "icon": "https://images.metadata.sky.com/pd-image/8cc8c7f5-eaba-49de-86cb-b08d9458637a/cover",
@@ -34554,7 +34576,7 @@
     },
     {
       "title": "The One Show",
-      "description": "Alex Jones and Roman Kemp bring you the stories that matter from across the country. [S] [HD]",
+      "description": "Alex Jones and Roman Kemp are joined by Hollywood star Hugh Jackman and Angela Rippon. [S] [HD]",
       "start": 1776708000,
       "stop": 1776709800,
       "icon": "https://images.metadata.sky.com/pd-image/c642a1a4-6a6a-402c-b933-98f29975aabe/cover",
@@ -35402,15 +35424,37 @@
       "episode": 706.0
     },
     {
-      "title": "Live House of Commons",
-      "description": "Coverage of the day's proceedings in the House of Commons on Monday 20 April. [S] [HD]",
+      "title": "House of Commons - Prime...",
+      "description": "...Minister's Statement on Lord Mandelson. The statement by prime minister Keir Starmer on the security vetting of Lord Mandelson. [S] [HD]",
       "start": 1776695400,
-      "stop": 1776720600,
-      "icon": "https://images.metadata.sky.com/pd-image/0155b719-d58d-41ca-84c8-80b12c47b52c/cover",
+      "stop": 1776700800,
+      "icon": "https://images.metadata.sky.com/pd-image/dcedac2d-4e52-4102-90b7-631d0fdddd80/cover",
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 705.0
+      "episode": null
+    },
+    {
+      "title": "Live Antisemitic Attacks Statement",
+      "description": "Coverage of the statement in the House of Commons by security minister Dan Jarvis on the recent antisemitic attacks against synagogues and buildings, on Monday 20 April. [S] [HD]",
+      "start": 1776700800,
+      "stop": 1776704400,
+      "icon": "https://images.metadata.sky.com/pd-image/028ae054-7758-46fd-abdf-86f39ff5c228/cover",
+      "channel": "BBCParliament.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "Live House of Commons",
+      "description": "Coverage of the day's proceedings in the House of Commons on Monday 20 April. [S] [HD]",
+      "start": 1776704400,
+      "stop": 1776720600,
+      "icon": "https://images.metadata.sky.com/pd-image/61b8646f-b9d2-4eec-9a6d-ca0c02fb2dc5/cover",
+      "channel": "BBCParliament.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
     },
     {
       "title": "Agriculture, Environment and Rural Affairs Questions",
@@ -35435,15 +35479,59 @@
       "episode": 149.0
     },
     {
-      "title": "House of Lords",
-      "description": "Business in the House of Lords on Monday 20 April. [S] [HD]",
+      "title": "House of Lords - Tobacco and Vapes Bill",
+      "description": "Coverage of the debate in the House of Lords on amendments made in the House of Commons to the Tobacco and Vapes Bill, on Monday 20 April. [S] [HD]",
       "start": 1776726000,
-      "stop": 1776751200,
-      "icon": "https://images.metadata.sky.com/pd-image/8057f358-42f3-4450-92cd-cac4db35d849/cover",
+      "stop": 1776729600,
+      "icon": "https://images.metadata.sky.com/pd-image/9efd49af-c25b-4d17-bd1c-755a87f1b6f1/cover",
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 877.0
+      "episode": null
+    },
+    {
+      "title": "House of Lords - Children's...",
+      "description": "...Wellbeing and Schools Bill. Coverage of the debate in the House of Lords on amendments made in the House of Commons to the Children's Wellbeing and Schools Bill, on Monday 20 April. [S] [HD]",
+      "start": 1776729600,
+      "stop": 1776736800,
+      "icon": "https://images.metadata.sky.com/pd-image/e6411c1d-d33f-4692-99fd-e5e7d1a927d5/cover",
+      "channel": "BBCParliament.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "House of Lords - Security Vetting Statement",
+      "description": "The statement on the security vetting of Lord Mandelson as the UK ambassador to the US. [S] [HD]",
+      "start": 1776736800,
+      "stop": 1776739200,
+      "icon": "https://images.metadata.sky.com/pd-image/f08ace0e-7c5f-4333-a00d-6adb1fdb549e/cover",
+      "channel": "BBCParliament.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "House of Lords - Pension Schemes Bill",
+      "description": "Coverage of the debate in the House of Lords on amendments made in the House of Commons to the Pension Scheme Bill, on Monday 20 April. [S] [HD]",
+      "start": 1776739200,
+      "stop": 1776749400,
+      "icon": "https://images.metadata.sky.com/pd-image/bae2ad1b-4529-4fd0-be54-ce335b0a1a41/cover",
+      "channel": "BBCParliament.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "This is BBC Parliament HD",
+      "description": "This is BBC Parliament HD",
+      "start": 1776749400,
+      "stop": 1776751200,
+      "icon": "https://images.metadata.sky.com/pd-image/f0dfbf76-c7fd-449e-9837-6ba7f2b40808/cover",
+      "channel": "BBCParliament.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
     },
     {
       "title": "Education Questions",
@@ -35896,7 +35984,7 @@
       "channel": "BBCRedButton1.uk",
       "premiere": false,
       "season": null,
-      "episode": 29
+      "episode": 30
     },
     {
       "title": "Springwatch: Escape into Spring",
@@ -36144,7 +36232,7 @@
     },
     {
       "title": "Scotcast",
-      "description": "Conversation about Scotland's biggest news stories, hosted by Martin Geissler. [S] [HD]",
+      "description": "Martin Geissler and Natalie Higgins discuss how football pundit Michael Stewart's views about referees got him banned from our national stadium. [S] [HD]",
       "start": 1776722400,
       "stop": 1776724200,
       "icon": "https://images.metadata.sky.com/pd-image/0d11f132-d649-41b5-b965-7f67702c5cd1/cover",
@@ -36531,7 +36619,7 @@
     },
     {
       "title": "The Catch Up",
-      "description": "A round-up of the day's news. [S] [HD]",
+      "description": "A round-up of the day's news with Ben Henley-Washford. [S] [HD]",
       "start": 1776708000,
       "stop": 1776708300,
       "icon": "https://images.metadata.sky.com/pd-image/8ed90334-6a01-4635-8ed0-f0ae6086a1c1/cover",
@@ -37096,7 +37184,7 @@
       "title": "Snooker: World Championship",
       "description": "Coverage of day 3 of the World Snooker Championship at the Crucible Theatre, Sheffield. [S] [HD]",
       "start": 1776675600,
-      "stop": 1776685500,
+      "stop": 1776686400,
       "icon": "https://images.metadata.sky.com/pd-image/0e0a5f02-1482-4e62-bbc9-95ec8fd19fc9/cover",
       "channel": "BBCTwoEngland.uk",
       "premiere": false,
@@ -37104,19 +37192,19 @@
       "episode": 19.0
     },
     {
-      "title": "Talking Snooker",
-      "description": "1/2. Alistair McGowan takes a trip through the BBC archives to look at the lives and careers of Alex 'Hurricane' Higgins, Jimmy 'Whirlwind' White and Ronnie 'the Rocket' O'Sullivan. [S]",
-      "start": 1776685500,
+      "title": "The Hairy Bikers' Pubs That Built Britain",
+      "description": "Si and Dave take a pub tour of Oxford to visit the spot where CS Lewis and JRR Tolkien drank pints together, plus a favourite haunt of Inspector Morse creator Colin Dexter. [S] [HD]",
+      "start": 1776686400,
       "stop": 1776688200,
-      "icon": "https://images.metadata.sky.com/pd-image/7b8aab72-9d91-4d6a-8733-622bd7d20b23/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/55c3215f-8128-4be7-9a5c-f36132a30881/cover",
       "channel": "BBCTwoEngland.uk",
       "premiere": false,
-      "season": 1.0,
-      "episode": 1.0
+      "season": null,
+      "episode": null
     },
     {
       "title": "Politics Live",
-      "description": "The big political issues of the day. [S] [HD]",
+      "description": "Can the prime minister survive calls for his resignation? [S] [HD]",
       "start": 1776688200,
       "stop": 1776690900,
       "icon": "https://images.metadata.sky.com/pd-image/dac7261b-fe3b-458e-8741-638b0a26db0f/cover",
@@ -37618,7 +37706,7 @@
       "channel": "BBCTwoEngland.uk",
       "premiere": false,
       "season": null,
-      "episode": 29.0
+      "episode": 30.0
     },
     {
       "title": "Politics Live",
@@ -37640,7 +37728,7 @@
       "channel": "BBCTwoEngland.uk",
       "premiere": false,
       "season": null,
-      "episode": 27.0
+      "episode": 28.0
     },
     {
       "title": "Richard Osman's House of Games",
@@ -37857,7 +37945,7 @@
       "title": "Snooker: World Championship",
       "description": "Coverage of day 3 of the World Snooker Championship at the Crucible Theatre, Sheffield. [S] [HD]",
       "start": 1776675600,
-      "stop": 1776685500,
+      "stop": 1776686400,
       "icon": "https://images.metadata.sky.com/pd-image/0e0a5f02-1482-4e62-bbc9-95ec8fd19fc9/cover",
       "channel": "BBCTwoHD.uk",
       "premiere": false,
@@ -37865,19 +37953,19 @@
       "episode": 19.0
     },
     {
-      "title": "Talking Snooker",
-      "description": "1/2. Alistair McGowan takes a trip through the BBC archives to look at the lives and careers of Alex 'Hurricane' Higgins, Jimmy 'Whirlwind' White and Ronnie 'the Rocket' O'Sullivan. [S]",
-      "start": 1776685500,
+      "title": "The Hairy Bikers' Pubs That Built Britain",
+      "description": "Si and Dave take a pub tour of Oxford to visit the spot where CS Lewis and JRR Tolkien drank pints together, plus a favourite haunt of Inspector Morse creator Colin Dexter. [S] [HD]",
+      "start": 1776686400,
       "stop": 1776688200,
-      "icon": "https://images.metadata.sky.com/pd-image/7b8aab72-9d91-4d6a-8733-622bd7d20b23/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/55c3215f-8128-4be7-9a5c-f36132a30881/cover",
       "channel": "BBCTwoHD.uk",
       "premiere": false,
-      "season": 1.0,
-      "episode": 1.0
+      "season": null,
+      "episode": null
     },
     {
       "title": "Politics Live",
-      "description": "The big political issues of the day. [S] [HD]",
+      "description": "Can the prime minister survive calls for his resignation? [S] [HD]",
       "start": 1776688200,
       "stop": 1776690900,
       "icon": "https://images.metadata.sky.com/pd-image/dac7261b-fe3b-458e-8741-638b0a26db0f/cover",
@@ -38379,7 +38467,7 @@
       "channel": "BBCTwoHD.uk",
       "premiere": false,
       "season": null,
-      "episode": 29.0
+      "episode": 30.0
     },
     {
       "title": "Politics Live",
@@ -38401,7 +38489,7 @@
       "channel": "BBCTwoHD.uk",
       "premiere": false,
       "season": null,
-      "episode": 27.0
+      "episode": 28.0
     },
     {
       "title": "Richard Osman's House of Games",
@@ -38524,7 +38612,7 @@
       "channel": "BBCTwoNorthernIreland.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 3.0
     },
     {
       "title": "The Chronicles of Armagh Shorts",
@@ -38640,7 +38728,7 @@
       "title": "Snooker: World Championship",
       "description": "Coverage of day 3 of the World Snooker Championship at the Crucible Theatre, Sheffield. [S] [HD]",
       "start": 1776675600,
-      "stop": 1776685500,
+      "stop": 1776686400,
       "icon": "https://images.metadata.sky.com/pd-image/0e0a5f02-1482-4e62-bbc9-95ec8fd19fc9/cover",
       "channel": "BBCTwoNorthernIreland.uk",
       "premiere": false,
@@ -38648,19 +38736,19 @@
       "episode": 19.0
     },
     {
-      "title": "Talking Snooker",
-      "description": "1/2. Alistair McGowan takes a trip through the BBC archives to look at the lives and careers of Alex 'Hurricane' Higgins, Jimmy 'Whirlwind' White and Ronnie 'the Rocket' O'Sullivan. [S]",
-      "start": 1776685500,
+      "title": "The Hairy Bikers' Pubs That Built Britain",
+      "description": "Si and Dave take a pub tour of Oxford to visit the spot where CS Lewis and JRR Tolkien drank pints together, plus a favourite haunt of Inspector Morse creator Colin Dexter. [S] [HD]",
+      "start": 1776686400,
       "stop": 1776688200,
-      "icon": "https://images.metadata.sky.com/pd-image/7b8aab72-9d91-4d6a-8733-622bd7d20b23/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/86b07acc-c214-4db8-9fc1-1d54af96d2af/cover",
       "channel": "BBCTwoNorthernIreland.uk",
       "premiere": false,
-      "season": 1.0,
-      "episode": 1.0
+      "season": null,
+      "episode": null
     },
     {
       "title": "Politics Live",
-      "description": "The big political issues of the day. [S] [HD]",
+      "description": "Can the prime minister survive calls for his resignation? [S] [HD]",
       "start": 1776688200,
       "stop": 1776690900,
       "icon": "https://images.metadata.sky.com/pd-image/dac7261b-fe3b-458e-8741-638b0a26db0f/cover",
@@ -39173,7 +39261,7 @@
       "channel": "BBCTwoNorthernIreland.uk",
       "premiere": false,
       "season": null,
-      "episode": 29.0
+      "episode": 30.0
     },
     {
       "title": "Politics Live",
@@ -39195,7 +39283,7 @@
       "channel": "BBCTwoNorthernIreland.uk",
       "premiere": false,
       "season": null,
-      "episode": 27.0
+      "episode": 28.0
     },
     {
       "title": "Richard Osman's House of Games",
@@ -39412,7 +39500,7 @@
       "title": "Snooker: World Championship",
       "description": "Coverage of day 3 of the World Snooker Championship at the Crucible Theatre, Sheffield. [S] [HD]",
       "start": 1776675600,
-      "stop": 1776685500,
+      "stop": 1776686400,
       "icon": "https://images.metadata.sky.com/pd-image/0e0a5f02-1482-4e62-bbc9-95ec8fd19fc9/cover",
       "channel": "BBCTwoWales.uk",
       "premiere": false,
@@ -39420,19 +39508,19 @@
       "episode": 19.0
     },
     {
-      "title": "Talking Snooker",
-      "description": "1/2. Alistair McGowan takes a trip through the BBC archives to look at the lives and careers of Alex 'Hurricane' Higgins, Jimmy 'Whirlwind' White and Ronnie 'the Rocket' O'Sullivan. [S]",
-      "start": 1776685500,
+      "title": "The Hairy Bikers' Pubs That Built Britain",
+      "description": "Si and Dave take a pub tour of Oxford to visit the spot where CS Lewis and JRR Tolkien drank pints together, plus a favourite haunt of Inspector Morse creator Colin Dexter. [S] [HD]",
+      "start": 1776686400,
       "stop": 1776688200,
-      "icon": "https://images.metadata.sky.com/pd-image/7b8aab72-9d91-4d6a-8733-622bd7d20b23/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/a58c9105-fe50-45e5-9452-674be9f2c98f/cover",
       "channel": "BBCTwoWales.uk",
       "premiere": false,
-      "season": 1.0,
-      "episode": 1.0
+      "season": null,
+      "episode": null
     },
     {
       "title": "Politics Live",
-      "description": "The big political issues of the day. [S] [HD]",
+      "description": "Can the prime minister survive calls for his resignation? [S] [HD]",
       "start": 1776688200,
       "stop": 1776690900,
       "icon": "https://images.metadata.sky.com/pd-image/dac7261b-fe3b-458e-8741-638b0a26db0f/cover",
@@ -39934,7 +40022,7 @@
       "channel": "BBCTwoWales.uk",
       "premiere": false,
       "season": null,
-      "episode": 29.0
+      "episode": 30.0
     },
     {
       "title": "Politics Live",
@@ -39956,7 +40044,7 @@
       "channel": "BBCTwoWales.uk",
       "premiere": false,
       "season": null,
-      "episode": 27.0
+      "episode": 28.0
     },
     {
       "title": "Richard Osman's House of Games",
@@ -41101,7 +41189,7 @@
       "icon": "https://images.metadata.sky.com/pd-image/ea0f98d0-6acf-43a2-9582-a4c23815a4cc/cover",
       "channel": "Blaze.uk",
       "premiere": false,
-      "season": 8.0,
+      "season": 9.0,
       "episode": 5.0
     },
     {
@@ -44368,7 +44456,7 @@
     },
     {
       "title": "Peter Rabbit",
-      "description": "The Tale of the Flooded Burrow. After the burrow floods, Peter realises there truly is no place like home. [S,AD] [HD] Followed by My Petsaurus.",
+      "description": "The Tale of the Flooded Burrow. Animated series. Peter leaves the burrow's door open and it floods! As he and his family search for shelter, he realises there is no place like home. [S,AD] [HD]",
       "start": 1776754200,
       "stop": 1776754800,
       "icon": "https://images.metadata.sky.com/pd-image/cd5a7dc5-b564-42f6-96db-a6c4145247fc/cover",
@@ -44412,9 +44500,9 @@
     },
     {
       "title": "Nick Cope's Popcast",
-      "description": "The Old Oak Tree. Nick and Norman are stuck up a 100-year-old oak tree. Nick discovers Grandpa's old guitar and remembers playing it many years ago with his mum under the same old oak tree. [S] [HD]",
+      "description": "The Old Oak Tree. Nick and Norman are stuck up a tree and Nick discovers the secret of Grandpa's old guitar. [S] [HD] Followed by My Petsaurus.",
       "start": 1776756300,
-      "stop": 1776756900,
+      "stop": 1776757020,
       "icon": "https://images.metadata.sky.com/pd-image/c2b58df4-40f8-4eac-a5eb-7b9e6a2f238d/cover",
       "channel": "CBeebies.uk",
       "premiere": false,
@@ -44424,7 +44512,7 @@
     {
       "title": "Playtime Towers",
       "description": "Cats. Bella has fun pretending to be a cat - a Bella-Cat. Together with Lift, she visits Tincy the Spider in the Sing Song Forest, who sings a spider rhyme all about taily-waily animals! [S] [HD]",
-      "start": 1776756900,
+      "start": 1776757020,
       "stop": 1776758400,
       "icon": "https://images.metadata.sky.com/pd-image/3815b7cc-1b1b-4668-87cd-14f86cd12bb8/cover",
       "channel": "CBeebies.uk",
@@ -46207,7 +46295,7 @@
     },
     {
       "title": "Channel 4 News",
-      "description": "Channel 4's flagship news programme. Including the weather.",
+      "description": "The PM says he was wrong to appoint Peter Mandelson and it's 'staggering' he wasn't told Mandelson failed the vetting. And a report on the proliferation of A.I. child abuse images.",
       "start": 1776708000,
       "stop": 1776711600,
       "icon": "https://images.metadata.sky.com/pd-image/8efa4bd3-2a13-4624-91c9-9d315c5f7c34/cover",
@@ -47342,7 +47430,7 @@
     },
     {
       "title": "Channel 4 News",
-      "description": "Channel 4's flagship news programme. Including the weather.",
+      "description": "The PM says he was wrong to appoint Peter Mandelson and it's 'staggering' he wasn't told Mandelson failed the vetting. And a report on the proliferation of A.I. child abuse images.",
       "start": 1776711600,
       "stop": 1776715200,
       "icon": "https://images.metadata.sky.com/pd-image/8efa4bd3-2a13-4624-91c9-9d315c5f7c34/cover",
@@ -49169,13 +49257,13 @@
       "episode": 1.0
     },
     {
-      "title": "New: Sam & Ade Go Birding",
+      "title": "Sam & Ade Go Birding",
       "description": "On the north Norfolk coast, Samuel West and Adrian Edmondson set off on a 'wild goose chase' that leads them through pine forests, across sweeping beaches and onto the marshes. (S1 Ep2/3)",
       "start": 1776801600,
       "stop": 1776805200,
       "icon": "https://images.metadata.sky.com/pd-image/eeb4e828-fef1-49dd-be7a-e2f22ed3f8d1/cover",
       "channel": "Channel5Plus1.uk",
-      "premiere": true,
+      "premiere": false,
       "season": 1.0,
       "episode": 2.0
     },
