@@ -484,20 +484,25 @@
     <episode-num system="xmltv_ns">2025.84.0</episode-num>
     <episode-num system="onscreen">S2026E85</episode-num>
   </programme>
-  <programme channel="sky.main.uk" start="20260423000000 +0000" stop="20260423010000 +0000">
+  <programme channel="sky.main.uk" start="20260423000000 +0000" stop="20260423010001 +0000">
     <title lang="en">Live Jeremiah's Mock Draft</title>
     <desc lang="en">Daniel Jeremiah returns to run a mock draft ahead of the 2026 NFL Draft, one of the most important events in the football calendar.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ee8b7570-8a25-4b2a-b94a-1ddbedf9ecbc/cover"/>
   </programme>
-  <programme channel="sky.main.uk" start="20260423010000 +0000" stop="20260423020000 +0000">
+  <programme channel="sky.main.uk" start="20260423010001 +0000" stop="20260423013001 +0000">
     <title lang="en">Sky Sports News</title>
     <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/7287a87b-4f37-457a-abf2-2eeee892cda5/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/d134a3cd-a65b-4303-9486-feae0b9bf16f/cover"/>
   </programme>
-  <programme channel="sky.main.uk" start="20260423020000 +0000" stop="20260423043000 +0000">
+  <programme channel="sky.main.uk" start="20260423013001 +0000" stop="20260423040001 +0000">
     <title lang="en">Live NBA Playoffs</title>
     <desc lang="en">The reigning NBA champions Oklahoma City Thunder enter Game Two of their best-of-seven series against the Phoenix Suns, with the hosts leading 1-0 after Sunday's 119-84 win.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/beec4ee1-39e0-4892-bcc7-3234e99ebc27/cover"/>
+  </programme>
+  <programme channel="sky.main.uk" start="20260423040001 +0000" stop="20260423043000 +0000">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d134a3cd-a65b-4303-9486-feae0b9bf16f/cover"/>
   </programme>
   <programme channel="sky.main.uk" start="20260423043000 +0000" stop="20260423050000 +0000">
     <title lang="en">Live DP World Tour Golf</title>
@@ -1373,7 +1378,7 @@
   </programme>
   <programme channel="sky.football.uk" start="20260422183000 +0000" stop="20260422213000 +0000">
     <title lang="en">Live EFL: Charlton v Ipswich Town</title>
-    <desc lang="en">A Sky Bet Championship fixture from the 2025-26 season.</desc>
+    <desc lang="en">The Valley sets the stage for a big Sky Bet Championship night at both ends of the table as Charlton's bid to survive the drop meets Ipswich's chase for automatic promotion.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/67a40d72-b6b6-4ef7-9612-35be366f3909/cover"/>
   </programme>
   <programme channel="sky.football.uk" start="20260422213000 +0000" stop="20260422214500 +0000">
@@ -1836,6 +1841,11 @@
     <title lang="en">EFL 25/26: Norwich City v Derby</title>
     <desc lang="en">Norwich City play host to Derby County at Carrow Road in the Sky Bet Championship. (21.04)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2bbea76c-be42-4f54-8320-063e2044c10c/cover"/>
+  </programme>
+  <programme channel="sky.football.uk" start="20260424152000 +0000" stop="20260424173000 +0000">
+    <title lang="en">Live SWPL: Rangers v Hearts</title>
+    <desc lang="en">In the Scottish Women's Premier League, Rangers and Hearts compete for points.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/309fc14a-5e3b-4c1c-a50a-afba7ef2ea7e/cover"/>
   </programme>
   <programme channel="sky.football.uk" start="20260424173000 +0000" stop="20260424174500 +0000">
     <title lang="en">EFL 25/26: Charlton v Ipswich</title>
@@ -3116,7 +3126,7 @@
     <desc lang="en">Live Racing: Gina Bryce &amp; Jamie Lynch bring you action from Doncaster alongside Saint-Cloud. Twilight jumps racing from Chepstow with Josh Apiafi and Fontwell with Luke Harvey.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/80a01735-b91b-48c5-a800-0781bff58cd4/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20260424200000 +0000" stop="20260425010000 +0000">
+  <programme channel="sky.racing.uk" start="20260424200000 +0000" stop="20260425001500 +0000">
     <title lang="en">Stateside Live</title>
     <desc lang="en">Live US racing from Laurel Park, Tampa, Aqueduct, Gulfstream, Keeneland, Oaklawn, Penn National, Charles Town, Santa Anita and Lone Star Park.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7dac313c-4a4c-4ff2-9b83-e72d593af03e/cover"/>
@@ -3513,25 +3523,20 @@
     <desc lang="en">Day two of the Investec South Africa Women's Open - a Ladies European Tour event at Royal Cape Golf Club. French golfer Perrine Delacour scooped victory at this event last season.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4925357b-4c7a-457a-8be5-28f91a91d88b/cover"/>
   </programme>
-  <programme channel="sky.mix.uk" start="20260424153000 +0000" stop="20260424154500 +0000">
+  <programme channel="sky.mix.uk" start="20260424153000 +0000" stop="20260424173000 +0000">
+    <title lang="en">Live SWPL: Rangers v Hearts</title>
+    <desc lang="en">In the Scottish Women's Premier League, Rangers and Hearts compete for points.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/309fc14a-5e3b-4c1c-a50a-afba7ef2ea7e/cover"/>
+  </programme>
+  <programme channel="sky.mix.uk" start="20260424173000 +0000" stop="20260424174500 +0000">
     <title lang="en">EFL 16/17: Fulham v Aston Villa</title>
     <desc lang="en">Remember some classic matches from English football. In this episode, Fulham looked to maintain their playoff hopes against Aston Villa in the Sky Bet Championship in April 2017.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e025b4d2-83a6-4b77-8e87-de8f2c409ab7/cover"/>
   </programme>
-  <programme channel="sky.mix.uk" start="20260424154500 +0000" stop="20260424160000 +0000">
+  <programme channel="sky.mix.uk" start="20260424174500 +0000" stop="20260424180000 +0000">
     <title lang="en">EFL 16/17: N. Forest v Newcastle</title>
     <desc lang="en">Relive some classic action from the English Football League. Here, Nottingham Forest take on Newcastle United at the City Ground in a game that saw two red cards and two penalties.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/dcf81b40-c13e-42bc-99f5-041b199fa97e/cover"/>
-  </programme>
-  <programme channel="sky.mix.uk" start="20260424160000 +0000" stop="20260424170000 +0000">
-    <title lang="en">ATP Final: Munich</title>
-    <desc lang="en">After earning the biggest win of his career yesterday over world number three Alexander Zverev, Flavio Cobolli faces American number one Ben Shelton in the final of ATP Munich.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3c74a36f-e853-41fb-a5dd-ce157686d93e/cover"/>
-  </programme>
-  <programme channel="sky.mix.uk" start="20260424170000 +0000" stop="20260424180000 +0000">
-    <title lang="en">ATP Final: Barcelona</title>
-    <desc lang="en">Straight from claiming his 100th tour-level win against teenage sensation Rafael Jodar, Arthur Fils faces Andrey Rublev in a battle for the ATP Barcelona crown.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e0b1ed2a-5a7f-448c-b641-f5081f744f85/cover"/>
   </programme>
   <programme channel="sky.mix.uk" start="20260424180000 +0000" stop="20260424230000 +0000">
     <title lang="en">Live NFL Draft Kick-off Show</title>
@@ -4059,7 +4064,7 @@
   </programme>
   <programme channel="tnt1" start="20260422223000 +0000" stop="20260423013000 +0000">
     <title lang="en">Live MLB: Yankees @ Red Sox</title>
-    <desc lang="en">Action from Major League Baseball as New York Yankees take on Boston Red Sox.</desc>
+    <desc lang="en">Action from Major League Baseball as New York Yankees take on fierce rivals Boston Red Sox at Fenway Park. The Yankees were 4-0 winners in the series opener.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b0b9dab4-7907-4cb8-a3bf-7cdb1a994102/cover"/>
   </programme>
   <programme channel="tnt1" start="20260423013000 +0000" stop="20260423020000 +0000">
@@ -4149,7 +4154,7 @@
   </programme>
   <programme channel="tnt1" start="20260423133000 +0000" stop="20260423150000 +0000">
     <title lang="en">Live Snooker: World Championship</title>
-    <desc lang="en">Snooker action from the World Championship.</desc>
+    <desc lang="en">Action from the second session of the round one Halo World Championship 2026 showdown between world number 15 Si Jiahui and Iran's Hossein Vafaei.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6fba650b-5c04-461d-9dc3-e4fdb3a359b3/cover"/>
   </programme>
   <programme channel="tnt1" start="20260423150000 +0000" stop="20260423160000 +0000">
@@ -4173,7 +4178,7 @@
   </programme>
   <programme channel="tnt1" start="20260423173000 +0000" stop="20260423210000 +0000">
     <title lang="en">Live Snooker: World Championship</title>
-    <desc lang="en">Snooker action from the World Championship.</desc>
+    <desc lang="en">Action from the second session of the round one Halo World Championship 2026 contest between 2010 winner Neil Robertson and China's Pang Junxu.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e7be1dbf-e9f9-4348-9e2f-cf2d4c2c716c/cover"/>
   </programme>
   <programme channel="tnt1" start="20260423210000 +0000" stop="20260423213000 +0000">
@@ -4245,10 +4250,15 @@
     <episode-num system="xmltv_ns">0.0.0</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme channel="tnt1" start="20260424070000 +0000" stop="20260424091500 +0000">
+  <programme channel="tnt1" start="20260424070000 +0000" stop="20260424090000 +0000">
     <title lang="en">Live WRC: Islas Canarias</title>
     <desc lang="en">Action from special stages two and three of the 2026 World Rally Championship in the Islas Canarias.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c0507811-0928-4211-b514-edb0562803aa/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/7d1bdd94-8694-45b3-816e-7890d3c96269/cover"/>
+  </programme>
+  <programme channel="tnt1" start="20260424090000 +0000" stop="20260424091500 +0000">
+    <title lang="en">Premier League Reload</title>
+    <desc lang="en">A whirlwind catch-up from matchday nine of the Premier League, featuring all the goals and major talking points from Brentford v Fulham, Manchester City v Arsenal, and more.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/feb2226a-d693-4706-bf53-08985b974755/cover"/>
   </programme>
   <programme channel="tnt1" start="20260424091500 +0000" stop="20260424123000 +0000">
     <title lang="en">Live AFL: Richmond v Melbourne</title>
@@ -4271,15 +4281,13 @@
   </programme>
   <programme channel="tnt1" start="20260424131500 +0000" stop="20260424163000 +0000">
     <title lang="en">Live Snooker: World Championship</title>
-    <desc lang="en">Snooker action from the World Championship.</desc>
+    <desc lang="en">Reigning champion Zhao Xintong goes head-to-head with world number 16 Ding Junhui in the second round of the Halo World Championship 2026 at the Crucible.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/179e2592-0c1e-41ed-b5fa-bf7e57faac4c/cover"/>
   </programme>
   <programme channel="tnt1" start="20260424163000 +0000" stop="20260424170000 +0000">
-    <title lang="en">TNT Sports Reload</title>
-    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a1bcbf47-1d38-4f13-8c50-c46dc229d048/cover"/>
-    <episode-num system="xmltv_ns">25.15.0</episode-num>
-    <episode-num system="onscreen">S26E16</episode-num>
+    <title lang="en">The Breakdown: Matheus Cunha</title>
+    <desc lang="en">The latest episode of The Breakdown, featuring Manchester United and Brazil forward Matheus Cunha.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/bd39cc01-b835-47ca-963f-726399e293d3/cover"/>
   </programme>
   <programme channel="tnt1" start="20260424170000 +0000" stop="20260424173000 +0000">
     <title lang="en">Premier League Preview</title>
@@ -4428,27 +4436,22 @@
     <desc lang="en">Men's cycling action from stage two of the 2026 Tour of the Alps, which sees the peloton travel 147km from Telfs, Austria, to an uphill finish in Martell, Italy.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f6ebe66e-e193-4ffc-ba4e-f6c2ef464867/cover"/>
   </programme>
-  <programme channel="tnt2" start="20260422103000 +0000" stop="20260422123000 +0000">
+  <programme channel="tnt2" start="20260422103000 +0000" stop="20260422132000 +0000">
     <title lang="en">Live: Tour of the Alps - Stage 3</title>
     <desc lang="en">Men's cycling action from stage three of the 2026 Tour of the Alps. This challenging 174km route features 3,600 metres of elevation gain from Laces to Arco.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a3c63eb3-9b25-4573-a27e-1af32ab83626/cover"/>
   </programme>
-  <programme channel="tnt2" start="20260422123000 +0000" stop="20260422130000 +0000">
+  <programme channel="tnt2" start="20260422132000 +0000" stop="20260422134500 +0000">
     <title lang="en">European Rally Highlights</title>
     <desc lang="en">Highlights from Rally Sierra Morena, the opening round of the 2026 European Rally Championship.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/61b63c44-088a-4e41-80b4-8f5d3d749075/cover"/>
   </programme>
-  <programme channel="tnt2" start="20260422130000 +0000" stop="20260422140000 +0000">
+  <programme channel="tnt2" start="20260422134500 +0000" stop="20260422150000 +0000">
     <title lang="en">Premier League Review</title>
     <desc lang="en">A look back at matchday 33 of the Premier League, including Brentford v Fulham, Man City v Arsenal, and Chelsea v Man United.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d5ec4a81-6723-4753-8d9f-e4136171d555/cover"/>
     <episode-num system="xmltv_ns">24.32.0</episode-num>
     <episode-num system="onscreen">S25E33</episode-num>
-  </programme>
-  <programme channel="tnt2" start="20260422140000 +0000" stop="20260422150000 +0000">
-    <title lang="en">LIV Golf</title>
-    <desc lang="en">We review all the major talking points from the sixth LIV Golf event of 2026 at Club de Golf Chapultepec, where Jon Rahm delivered a commanding display.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d082c5ad-9a93-4ee2-bd5d-4925b1c0961e/cover"/>
   </programme>
   <programme channel="tnt2" start="20260422150000 +0000" stop="20260422160000 +0000">
     <title lang="en">UEFA Youth League Final</title>
@@ -4506,7 +4509,7 @@
   </programme>
   <programme channel="tnt2" start="20260423043000 +0000" stop="20260423050000 +0000">
     <title lang="en">Race Bikes</title>
-    <desc lang="en">The latest from Race Bikes, the show that takes you deeper into the world of Mountain Bike racing through its fastest machines.</desc>
+    <desc lang="en">Mountain bike journalist Ric McLaughlin delves into the tumultuous history of Cannondale and asks Swiss rider Jolanda Neff what makes the Scalpel LAB71 so special.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/188991f5-8a99-47c9-948f-e0c717944a7a/cover"/>
     <episode-num system="xmltv_ns">25.2.0</episode-num>
     <episode-num system="onscreen">S26E3</episode-num>
@@ -4624,28 +4627,28 @@
   </programme>
   <programme channel="tnt2" start="20260424000000 +0000" stop="20260424010000 +0000">
     <title lang="en">Formula E: Driver - Season 2</title>
-    <desc lang="en">An inside look at Formula E drivers as they ride the emotional highs and lows of their fight for the ABB FIA Formula E World Championship.</desc>
+    <desc lang="en">Brit Dan Ticktum has a point to prove, yet a mounting series of team blunders pushes his temper toward the edge, putting all his momentum in jeopardy.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b1c4f166-a7a5-4dd1-8ea5-c134a64bc6f9/cover"/>
     <episode-num system="xmltv_ns">1.0.0</episode-num>
     <episode-num system="onscreen">S2E1</episode-num>
   </programme>
   <programme channel="tnt2" start="20260424010000 +0000" stop="20260424020000 +0000">
     <title lang="en">Formula E: Driver - Season 2</title>
-    <desc lang="en">An inside look at Formula E drivers as they ride the emotional highs and lows of their fight for the ABB FIA Formula E World Championship.</desc>
+    <desc lang="en">Brit Oliver Rowland heads to Monaco intent on tightening his grip on the championship, yet this iconic circuit has a history of dealing him anything but good fortune.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b1c4f166-a7a5-4dd1-8ea5-c134a64bc6f9/cover"/>
     <episode-num system="xmltv_ns">1.0.0</episode-num>
     <episode-num system="onscreen">S2E1</episode-num>
   </programme>
   <programme channel="tnt2" start="20260424020000 +0000" stop="20260424030000 +0000">
     <title lang="en">Formula E: Driver - Season 2</title>
-    <desc lang="en">An inside look at Formula E drivers as they ride the emotional highs and lows of their fight for the ABB FIA Formula E World Championship.</desc>
+    <desc lang="en">Riding the momentum of his first Formula E podium, Dan Ticktum heads to Shanghai hungry for more. Yet fellow Brit Taylor Barnard threatens to turn the weekend into a fierce duel.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2a067e08-20db-404d-93c0-5acad6560162/cover"/>
     <episode-num system="xmltv_ns">1.1.0</episode-num>
     <episode-num system="onscreen">S2E2</episode-num>
   </programme>
   <programme channel="tnt2" start="20260424030000 +0000" stop="20260424040000 +0000">
     <title lang="en">Formula E: Driver - Season 2</title>
-    <desc lang="en">An inside look at Formula E drivers as they ride the emotional highs and lows of their fight for the ABB FIA Formula E World Championship.</desc>
+    <desc lang="en">As the season approaches its decisive moment, Britain's Oliver Rowland looks to his family for support while his title hopes remain uncertain.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f40bbb43-3a43-4515-a4a0-0ce5fb12e66b/cover"/>
     <episode-num system="xmltv_ns">1.2.0</episode-num>
     <episode-num system="onscreen">S2E3</episode-num>
@@ -4694,14 +4697,14 @@
   </programme>
   <programme channel="tnt2" start="20260424141500 +0000" stop="20260424144500 +0000">
     <title lang="en">Race Bikes</title>
-    <desc lang="en">The latest from Race Bikes, the show that takes you deeper into the world of Mountain Bike racing through its fastest machines.</desc>
+    <desc lang="en">Mountain bike journalist Ric McLaughlin delves into the tumultuous history of Cannondale and asks Swiss rider Jolanda Neff what makes the Scalpel LAB71 so special.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/188991f5-8a99-47c9-948f-e0c717944a7a/cover"/>
     <episode-num system="xmltv_ns">25.2.0</episode-num>
     <episode-num system="onscreen">S26E3</episode-num>
   </programme>
   <programme channel="tnt2" start="20260424144500 +0000" stop="20260424151500 +0000">
     <title lang="en">Inside Serie A</title>
-    <desc lang="en">A round up of all the latest news from Serie A.</desc>
+    <desc lang="en">Former Arsenal and Man United midfielder Henrikh Mkhitaryan discusses his longevity and hunting for another title at Inter. Plus, we hear from Emil Holm and Giorgio Scalvini.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/98c94d75-d2d9-4583-b3f5-d3fb4f65bfe4/cover"/>
     <episode-num system="xmltv_ns">2024.33.0</episode-num>
     <episode-num system="onscreen">S2025E34</episode-num>
@@ -4734,7 +4737,7 @@
   </programme>
   <programme channel="tnt2" start="20260424180000 +0000" stop="20260424183000 +0000">
     <title lang="en">Inside Serie A</title>
-    <desc lang="en">A round up of all the latest news from Serie A.</desc>
+    <desc lang="en">Former Arsenal and Man United midfielder Henrikh Mkhitaryan discusses his longevity and hunting for another title at Inter. Plus, we hear from Emil Holm and Giorgio Scalvini.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/98c94d75-d2d9-4583-b3f5-d3fb4f65bfe4/cover"/>
     <episode-num system="xmltv_ns">2024.33.0</episode-num>
     <episode-num system="onscreen">S2025E34</episode-num>
@@ -4750,18 +4753,14 @@
     <icon src="https://images.metadata.sky.com/pd-image/2a56581f-8760-4370-922b-08f5d3aac1db/cover"/>
   </programme>
   <programme channel="tnt2" start="20260424211500 +0000" stop="20260424214500 +0000">
-    <title lang="en">Discovery Golf</title>
-    <desc lang="en">We look ahead to the Zurich Classic of New Orleans team event with man of the moment, Rory McIlroy, and Shane Lowry looking to retain their title.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e82443cb-9568-4b83-b4f2-dd996eb94a4f/cover"/>
-    <episode-num system="xmltv_ns">25.13.0</episode-num>
-    <episode-num system="onscreen">S26E14</episode-num>
+    <title lang="en">The Breakdown: Matheus Cunha</title>
+    <desc lang="en">The latest episode of The Breakdown, featuring Manchester United and Brazil forward Matheus Cunha.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ae96d073-bd3a-4c13-b95d-3e71c18aaa2a/cover"/>
   </programme>
   <programme channel="tnt2" start="20260424214500 +0000" stop="20260424220000 +0000">
-    <title lang="en">TNT Sports Reload</title>
-    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a1bcbf47-1d38-4f13-8c50-c46dc229d048/cover"/>
-    <episode-num system="xmltv_ns">25.15.0</episode-num>
-    <episode-num system="onscreen">S26E16</episode-num>
+    <title lang="en">Training Day: Leeds United</title>
+    <desc lang="en">The latest episode of Training Day, featuring Daniel Farke's Leeds United.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ec4b6f22-d700-48aa-a470-4d0b15378193/cover"/>
   </programme>
   <programme channel="tnt2" start="20260424220000 +0000" stop="20260424223000 +0000">
     <title lang="en">WRC - Islas Canarias</title>
@@ -4770,7 +4769,7 @@
   </programme>
   <programme channel="tnt2" start="20260424223000 +0000" stop="20260424233000 +0000">
     <title lang="en">Macarthur Bulls v Wellington</title>
-    <desc lang="en">Action from the Isuzu UTE A-League as Macarthur Bulls meet Wellington Phoenix.</desc>
+    <desc lang="en">Action from the Isuzu UTE A-League as Macarthur Bulls meet Wellington Phoenix at Campbelltown Sports Stadium, with both sides looking to finish their seasons in style.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/59c6c1ee-04c1-42b3-9f30-4a7e4a484719/cover"/>
   </programme>
   <programme channel="tnt3" start="20260421173000 +0000" stop="20260421230000 +0000">
@@ -4853,17 +4852,10 @@
     <desc lang="en">Highlights from round one of the 2026 Snooker World Championship, featuring Judd Trump v Gary Wilson and Ronnie O'Sullivan v He Guoqiang.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bea9a3dd-b283-4ec1-a6e2-75e1e3426d20/cover"/>
   </programme>
-  <programme channel="tnt3" start="20260422090000 +0000" stop="20260422120000 +0000">
+  <programme channel="tnt3" start="20260422090000 +0000" stop="20260422130000 +0000">
     <title lang="en">Live Snooker: World Championship</title>
     <desc lang="en">Action from the second session of the round one Halo World Championship 2026 contest between world number 13 Chris Wakelin and 20-year-old Liam Pullen.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/692903db-ccfc-43e7-bab0-2b89511424da/cover"/>
-  </programme>
-  <programme channel="tnt3" start="20260422120000 +0000" stop="20260422130000 +0000">
-    <title lang="en">MLB Highlights</title>
-    <desc lang="en">Highlights from Major League Baseball. (21.04)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/63acc1e6-c22d-499d-b35c-7288f38626ca/cover"/>
-    <episode-num system="xmltv_ns">2025.26.0</episode-num>
-    <episode-num system="onscreen">S2026E27</episode-num>
   </programme>
   <programme channel="tnt3" start="20260422130000 +0000" stop="20260422131500 +0000">
     <title lang="en">Premier League Reload</title>
@@ -4983,7 +4975,7 @@
   </programme>
   <programme channel="tnt3" start="20260423120000 +0000" stop="20260423150000 +0000">
     <title lang="en">Live Snooker: World Championship</title>
-    <desc lang="en">Snooker action from the World Championship.</desc>
+    <desc lang="en">Action from the second session of the round one Halo World Championship 2026 showdown between world number 15 Si Jiahui and Iran's Hossein Vafaei.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6fba650b-5c04-461d-9dc3-e4fdb3a359b3/cover"/>
   </programme>
   <programme channel="tnt3" start="20260423150000 +0000" stop="20260423163000 +0000">
@@ -4992,22 +4984,20 @@
     <icon src="https://images.metadata.sky.com/pd-image/d488f756-2244-46fc-a879-0184ca0b2994/cover"/>
   </programme>
   <programme channel="tnt3" start="20260423163000 +0000" stop="20260423170000 +0000">
-    <title lang="en">The Cycling Show</title>
-    <desc lang="en">We go behind the scenes at UAE Team ADQ as they aim to establish themselves among the dominant teams of the World Tour, featuring exclusive interviews with the team.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9272d331-3bef-4e51-87dd-8adcf6104e9b/cover"/>
-    <episode-num system="xmltv_ns">25.3.0</episode-num>
-    <episode-num system="onscreen">S26E4</episode-num>
+    <title lang="en">The Breakdown: Matheus Cunha</title>
+    <desc lang="en">The latest episode of The Breakdown, featuring Manchester United and Brazil forward Matheus Cunha.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/08d98ca5-a145-4f49-be76-1fe61cd31522/cover"/>
   </programme>
   <programme channel="tnt3" start="20260423170000 +0000" stop="20260423173000 +0000">
     <title lang="en">Race Bikes</title>
-    <desc lang="en">The latest from Race Bikes, the show that takes you deeper into the world of Mountain Bike racing through its fastest machines.</desc>
+    <desc lang="en">Mountain bike journalist Ric McLaughlin delves into the tumultuous history of Cannondale and asks Swiss rider Jolanda Neff what makes the Scalpel LAB71 so special.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/188991f5-8a99-47c9-948f-e0c717944a7a/cover"/>
     <episode-num system="xmltv_ns">25.2.0</episode-num>
     <episode-num system="onscreen">S26E3</episode-num>
   </programme>
   <programme channel="tnt3" start="20260423173000 +0000" stop="20260423210000 +0000">
     <title lang="en">Live Snooker: World Championship</title>
-    <desc lang="en">Snooker action from the World Championship.</desc>
+    <desc lang="en">2024 winner Kyren Wilson takes on world number 14 Mark Allen in the second round of the Halo World Championship 2026 at the Crucible.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/498e9629-5ec5-4a7e-aa93-35daf960f452/cover"/>
   </programme>
   <programme channel="tnt3" start="20260423210000 +0000" stop="20260423220000 +0000">
@@ -5027,7 +5017,7 @@
   </programme>
   <programme channel="tnt3" start="20260424000000 +0000" stop="20260424020000 +0000">
     <title lang="en">Snooker World Championship</title>
-    <desc lang="en">Highlights from round one of the 2026 Snooker World Championship. (23.04)</desc>
+    <desc lang="en">Highlights from round two of the 2026 Snooker World Championship, featuring Kyren Wilson v Mark Allen and Zhao Xintong v Ding Junhui. (23.04)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/deb1d544-9dbb-470a-9845-06b1659ef826/cover"/>
   </programme>
   <programme channel="tnt3" start="20260424020000 +0000" stop="20260424030000 +0000">
@@ -5076,12 +5066,12 @@
   </programme>
   <programme channel="tnt3" start="20260424070000 +0000" stop="20260424090000 +0000">
     <title lang="en">Snooker World Championship</title>
-    <desc lang="en">Highlights from round one of the 2026 Snooker World Championship. (23.04)</desc>
+    <desc lang="en">Highlights from round two of the 2026 Snooker World Championship, featuring Kyren Wilson v Mark Allen and Zhao Xintong v Ding Junhui. (23.04)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/deb1d544-9dbb-470a-9845-06b1659ef826/cover"/>
   </programme>
   <programme channel="tnt3" start="20260424090000 +0000" stop="20260424120000 +0000">
     <title lang="en">Live Snooker: World Championship</title>
-    <desc lang="en">Snooker action from the World Championship.</desc>
+    <desc lang="en">Mark Williams continues his pursuit of a fourth World Championship as he faces world number 11 Barry Hawkins in the second round at the Crucible.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/aafc0780-03b7-4b61-a6bd-64dcf95032ce/cover"/>
   </programme>
   <programme channel="tnt3" start="20260424120000 +0000" stop="20260424130000 +0000">
@@ -5100,7 +5090,7 @@
   </programme>
   <programme channel="tnt3" start="20260424131500 +0000" stop="20260424163000 +0000">
     <title lang="en">Live Snooker: World Championship</title>
-    <desc lang="en">Snooker action from the World Championship.</desc>
+    <desc lang="en">Action from the second session of the round two Halo World Championship 2026 clash between 2024 winner Kyren Wilson and world number 14 Mark Allen.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c38a5cfc-d2e6-48b5-8214-0e2d66b5555f/cover"/>
   </programme>
   <programme channel="tnt3" start="20260424163000 +0000" stop="20260424173000 +0000">
@@ -5110,7 +5100,7 @@
   </programme>
   <programme channel="tnt3" start="20260424173000 +0000" stop="20260424210000 +0000">
     <title lang="en">Live Snooker: World Championship</title>
-    <desc lang="en">Snooker action from the World Championship.</desc>
+    <desc lang="en">Action from the second session of the round two Halo World Championship 2026 meeting between China's Xiao Guodong and world number eight Shaun Murphy.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a2c27cd5-85f4-46d9-a512-a2ec2ef098af/cover"/>
   </programme>
   <programme channel="tnt3" start="20260424210000 +0000" stop="20260424220000 +0000">
@@ -5385,17 +5375,10 @@
     <desc lang="en">Top-eight hopefuls Sporting CP seek a big win as they host an Athletic Club side who are clinging onto a playoff spot.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a1665266-8ab0-4056-8992-f1a0f5befc65/cover"/>
   </programme>
-  <programme channel="tnt4" start="20260424001500 +0000" stop="20260424011500 +0000">
-    <title lang="en">UCL Road to Glory: Man Utd 1999</title>
-    <desc lang="en">We relive Man Utd's 1998/99 UEFA Champions League success. From their two 3-3 draws with Barcelona in the group stage to their famous final victory over Bayern Munich.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/def23f66-3768-4cef-92b0-698115c21471/cover"/>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme channel="tnt4" start="20260424011500 +0000" stop="20260424014500 +0000">
-    <title lang="en">Serie A - Full Impact</title>
-    <desc lang="en">All the best moments from matchday 33 of Serie A, including Inter v Cagliari, Napoli v Lazio, Juventus v Bologna, and Verona v AC Milan.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d0f750e6-065e-4468-9f1d-8b4f15a9c186/cover"/>
+  <programme channel="tnt4" start="20260424001500 +0000" stop="20260424014500 +0000">
+    <title lang="en">AFL: Bulldogs v Sydney Swans</title>
+    <desc lang="en">Action from the AFL as Western Bulldogs face Sydney Swans at Marvel Stadium. The Dogs have lost their last two, while the Swans are 5-1 for the season so far.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/304b50fb-6365-4002-b4f9-b4259b503ddd/cover"/>
   </programme>
   <programme channel="tnt4" start="20260424014500 +0000" stop="20260424023000 +0000">
     <title lang="en">Sign Up - Into Football</title>
@@ -5416,26 +5399,10 @@
     <desc lang="en">The Ultimate Pool 36Vegas Pairs Cup continues with a fresh format and even fiercer competition. This week's group is headlined by former champions Josh Kane and Callum Singleton.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d488f756-2244-46fc-a879-0184ca0b2994/cover"/>
   </programme>
-  <programme channel="tnt4" start="20260424050000 +0000" stop="20260424053000 +0000">
-    <title lang="en">More Than Machine: Episode 1</title>
-    <desc lang="en">We join the M-Sport team during the 2024 season's third round in Kenya. Adrien Fourmaux strives to make it back onto the podium, while Gregoire Munster aims to match his pace.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/147aa747-416c-3c36-a27a-65f47f187e15/cover"/>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme channel="tnt4" start="20260424053000 +0000" stop="20260424061500 +0000">
-    <title lang="en">WRC: More Than Machine</title>
-    <desc lang="en">The 2025 season concludes with a dramatic double-header in Japan and Saudi Arabia. Will it be number nine for Ogier, or a maiden title for Evans?</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/fa99772a-381b-42bb-97fd-640840a1a8c6/cover"/>
-    <episode-num system="xmltv_ns">1.6.0</episode-num>
-    <episode-num system="onscreen">S2E7</episode-num>
-  </programme>
-  <programme channel="tnt4" start="20260424061500 +0000" stop="20260424063000 +0000">
-    <title lang="en">The WRC Magazine</title>
-    <desc lang="en">All the latest news and action from round five of the FIA World Rally Championship from Islas Canarias, Spain.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/210b3f8b-ebb7-4435-a7aa-1f3c5e5b11fb/cover"/>
-    <episode-num system="xmltv_ns">25.4.0</episode-num>
-    <episode-num system="onscreen">S26E5</episode-num>
+  <programme channel="tnt4" start="20260424050000 +0000" stop="20260424063000 +0000">
+    <title lang="en">AFL: Bulldogs v Sydney Swans</title>
+    <desc lang="en">Action from the AFL as Western Bulldogs face Sydney Swans at Marvel Stadium. The Dogs have lost their last two, while the Swans are 5-1 for the season so far.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/56fd31f9-938e-4812-87ec-32586874f46c/cover"/>
   </programme>
   <programme channel="tnt4" start="20260424063000 +0000" stop="20260424070000 +0000">
     <title lang="en">Discovery Golf</title>
@@ -5492,9 +5459,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/e85eb4ff-0e94-4f0c-a442-646556b6a600/cover"/>
   </programme>
   <programme channel="tnt4" start="20260424174500 +0000" stop="20260424184500 +0000">
-    <title lang="en">FIA World Endurance Championship</title>
-    <desc lang="en">Highlights from the 6 Hours of Imola race at at the historic Autodromo Internazionale Enzo e Dino Ferrari in Italy, part of the 2026 FIA World Endurance Championship.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/19677558-9ce3-432a-9413-78a36c06ff12/cover"/>
+    <title lang="en">MLB Highlights</title>
+    <desc lang="en">Highlights from Major League Baseball. (23.04)</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d76afbae-354a-4e3b-afe4-7760911cc40a/cover"/>
   </programme>
   <programme channel="tnt4" start="20260424184500 +0000" stop="20260424191500 +0000">
     <title lang="en">More Than Machine: Episode 2</title>
@@ -6186,7 +6153,9 @@
   <programme channel="5Action.uk" start="20260422230000 +0000" stop="20260423000000 +0000">
     <title lang="en">Scam City: Don't Get Caught Out!</title>
     <desc lang="en">Conor Woodman is in Bangkok, Thailand, one of the hottest cities on earth.15 years since his last visit, it's time to see if the gem scam he first encountered there is still being run.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/bc108b1f-bccc-4d2b-8582-b8c6a89c9501/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/a0765c06-8c3f-4abf-b6b6-57adb04a181a/cover"/>
+    <episode-num system="xmltv_ns">0.8.0</episode-num>
+    <episode-num system="onscreen">S1E9</episode-num>
   </programme>
   <programme channel="5Action.uk" start="20260423000000 +0000" stop="20260423010000 +0000">
     <title lang="en">Outback Truckers</title>
@@ -6326,7 +6295,7 @@
   <programme channel="5Action.uk" start="20260423200000 +0000" stop="20260423210000 +0000">
     <title lang="en">Trucking Hell: Rollover Specials</title>
     <desc lang="en">Highlighting the biggest rollovers, featuring tankers of acid, huge lorry fires and more</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/edce29b4-1973-4638-be91-69a1d07802f2/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/12c19c2d-cc17-4390-8f9b-1412228b5a6b/cover"/>
   </programme>
   <programme channel="5Action.uk" start="20260423210000 +0000" stop="20260423220000 +0000">
     <title lang="en">Ice Road Truckers</title>
@@ -6345,7 +6314,9 @@
   <programme channel="5Action.uk" start="20260423230000 +0000" stop="20260424000000 +0000">
     <title lang="en">Scam City: Don't Get Caught Out!</title>
     <desc lang="en">Conor Woodman ventures to Las Vegas, a city with a seedy underbelly of sex and swindlers. Beyond Vegas's neon lights and swanky casinos, there's more to the city than meets the eye.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3796ce14-75b9-441c-94fa-8292b0013ce1/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/da9a9b2c-8d08-40c3-bbbe-511467f646f3/cover"/>
+    <episode-num system="xmltv_ns">0.9.0</episode-num>
+    <episode-num system="onscreen">S1E10</episode-num>
   </programme>
   <programme channel="5Action.uk" start="20260424000000 +0000" stop="20260424010000 +0000">
     <title lang="en">Outback Truckers</title>
@@ -7324,9 +7295,10 @@
     <episode-num system="onscreen">S3E33</episode-num>
   </programme>
   <programme channel="5Star.uk" start="20260423200000 +0000" stop="20260423210000 +0000">
-    <title lang="en">A&amp;E After Dark</title>
+    <title lang="en">New: A&amp;E After Dark</title>
     <desc lang="en">Staff struggle with a disruptive patient at Newham Hospital A&amp;E, while in Norwich doctors assess an 84-year-old woman after a head injury leaves her confused and vomiting.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/64a9831b-f30c-4604-a6c9-235b9dc24e96/cover"/>
+    <premiere/>
     <episode-num system="xmltv_ns">6.3.0</episode-num>
     <episode-num system="onscreen">S7E4</episode-num>
   </programme>
@@ -7863,9 +7835,10 @@
     <episode-num system="onscreen">S3E33</episode-num>
   </programme>
   <programme channel="5StarPlus1.uk" start="20260423210000 +0000" stop="20260423220000 +0000">
-    <title lang="en">A&amp;E After Dark</title>
+    <title lang="en">New: A&amp;E After Dark</title>
     <desc lang="en">Staff struggle with a disruptive patient at Newham Hospital A&amp;E, while in Norwich doctors assess an 84-year-old woman after a head injury leaves her confused and vomiting.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/64a9831b-f30c-4604-a6c9-235b9dc24e96/cover"/>
+    <premiere/>
     <episode-num system="xmltv_ns">6.3.0</episode-num>
     <episode-num system="onscreen">S7E4</episode-num>
   </programme>
@@ -9162,7 +9135,7 @@
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260422093000 +0000" stop="20260422100000 +0000">
     <title lang="en">Al Jazeera World</title>
-    <desc lang="en">Ep.407 Infiltration From Within Part 1: A series of one-hour documentaries showcasing films from across the Al Jazeera Network.</desc>
+    <desc lang="en">Ep.407 Infiltration From Within Part 1: Israel's intelligence investigated in a story of spies, moles and blind spots, from early-state betrayals to 7th October 2023 and today's conflict with Iran.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c13dbe4a-10d1-4d41-ae69-058c8e5f36c7/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260422100000 +0000" stop="20260422103000 +0000">
@@ -9303,7 +9276,7 @@
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260423033000 +0000" stop="20260423040000 +0000">
     <title lang="en">Al Jazeera World</title>
-    <desc lang="en">Ep.407 Infiltration From Within Part 1: A series of one-hour documentaries showcasing films from across the Al Jazeera Network.</desc>
+    <desc lang="en">Ep.407 Infiltration From Within Part 1: Israel's intelligence investigated in a story of spies, moles and blind spots, from early-state betrayals to 7th October 2023 and today's conflict with Iran.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8ac083ed-ee19-4a3a-8942-9bed8d9caf69/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260423040000 +0000" stop="20260423043000 +0000">
@@ -9449,16 +9422,19 @@
     <icon src="https://images.metadata.sky.com/pd-image/d17fb6e6-1e89-40f5-be2f-68bb521b4142/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260423193000 +0000" stop="20260423200000 +0000">
-    <title lang="en">The Stream</title>
-    <desc lang="en">27042026: The Stream is where Al Jazeera's audience becomes a global community.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/6d6b71da-30ff-4c4f-a3ad-08a9819a5b3e/cover"/>
+    <title lang="en">Al Jazeera World</title>
+    <desc lang="en">Ep.407 Infiltration From Within Part 1: Israel's intelligence investigated in a story of spies, moles and blind spots, from early-state betrayals to 7th October 2023 and today's conflict with Iran.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6625e082-59f3-471c-b8b9-ebd48f740427/cover"/>
   </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260423200000 +0000" stop="20260423210000 +0000">
-    <title lang="en">Newshour</title>
-    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f82cd45f-bc87-4878-99bb-5c88fb596917/cover"/>
-    <episode-num system="xmltv_ns">2025.138.0</episode-num>
-    <episode-num system="onscreen">S2026E139</episode-num>
+  <programme channel="AlJazeeraEnglish.qa" start="20260423200000 +0000" stop="20260423203000 +0000">
+    <title lang="en">News Live</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6b8cb741-6644-4d8b-9da5-841c9e8d7346/cover"/>
+  </programme>
+  <programme channel="AlJazeeraEnglish.qa" start="20260423203000 +0000" stop="20260423210000 +0000">
+    <title lang="en">Al Jazeera World</title>
+    <desc lang="en">Ep.408 Infiltration From Within Part 2: A series of one-hour documentaries showcasing films from across the Al Jazeera Network.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8cd1e589-b486-4c91-b264-b5ad0e6e1546/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260423210000 +0000" stop="20260423220000 +0000">
     <title lang="en">Newshour</title>
@@ -9605,27 +9581,17 @@
     <desc lang="en">Decarbonising The Global Economy: The urgent need to transition away from fossil fuels, exploring ways to a cleaner, more sustainable future, presenting a range of approaches to decarbonisation.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/10bb4e54-b37a-4e00-a169-ca0ef31989af/cover"/>
   </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260424130000 +0000" stop="20260424133000 +0000">
+  <programme channel="AlJazeeraEnglish.qa" start="20260424130000 +0000" stop="20260424140000 +0000">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a12dc4de-76c8-45f0-9a87-7f28e096ab56/cover"/>
+  </programme>
+  <programme channel="AlJazeeraEnglish.qa" start="20260424140000 +0000" stop="20260424150000 +0000">
     <title lang="en">Newshour</title>
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b5176039-8c82-478e-9021-86e4efb7f268/cover"/>
     <episode-num system="xmltv_ns">2025.139.0</episode-num>
     <episode-num system="onscreen">S2026E140</episode-num>
-  </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260424133000 +0000" stop="20260424140000 +0000">
-    <title lang="en">Al Jazeera World</title>
-    <desc lang="en">Ep.407 Infiltration From Within Part 1: A series of one-hour documentaries showcasing films from across the Al Jazeera Network.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/51164e55-eca0-40eb-be75-9c1d35c37029/cover"/>
-  </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260424140000 +0000" stop="20260424143000 +0000">
-    <title lang="en">News Live</title>
-    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/6bda9797-9161-4509-8eab-f880f51641d7/cover"/>
-  </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260424143000 +0000" stop="20260424150000 +0000">
-    <title lang="en">Al Jazeera World</title>
-    <desc lang="en">Ep.408 Infiltration From Within Part 2: A series of one-hour documentaries showcasing films from across the Al Jazeera Network.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/cd805d27-6422-43e8-9124-a211cdc44cc7/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260424150000 +0000" stop="20260424160000 +0000">
     <title lang="en">Newshour</title>
@@ -10801,15 +10767,10 @@
     <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/87027745-eb05-4b57-9750-8c3745ec26c2/cover"/>
   </programme>
-  <programme channel="BBCNews.uk" start="20260423180000 +0000" stop="20260423183000 +0000">
-    <title lang="en">The World Today with Maryam Moshiri</title>
-    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/108396a7-463b-47f5-b026-a08966805cdb/cover"/>
-  </programme>
-  <programme channel="BBCNews.uk" start="20260423183000 +0000" stop="20260423190000 +0000">
-    <title lang="en">The World Today with Maryam Moshiri</title>
-    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/90c02207-680d-4464-a028-1ba0cc32949d/cover"/>
+  <programme channel="BBCNews.uk" start="20260423180000 +0000" stop="20260423190000 +0000">
+    <title lang="en">Question Time</title>
+    <desc lang="en">Fiona Bruce presents an hour of topical debate.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/2455efb0-cfab-4602-8a13-2bfc8166341e/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260423190000 +0000" stop="20260423193000 +0000">
     <title lang="en">The Context USA</title>
@@ -10821,12 +10782,15 @@
     <desc lang="en">Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2ae991d5-0135-4dbe-845a-8ead97d6fc15/cover"/>
   </programme>
-  <programme channel="BBCNews.uk" start="20260423200000 +0000" stop="20260423210000 +0000">
-    <title lang="en">Question Time</title>
-    <desc lang="en">Fiona Bruce presents an hour of topical debate.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3b73c26a-919c-4faa-b4c0-050027eb3697/cover"/>
-    <episode-num system="xmltv_ns">2025.11.0</episode-num>
-    <episode-num system="onscreen">S2026E12</episode-num>
+  <programme channel="BBCNews.uk" start="20260423200000 +0000" stop="20260423203000 +0000">
+    <title lang="en">The Context</title>
+    <desc lang="en">A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/741a9866-35cd-4224-bf34-88bff515f8b8/cover"/>
+  </programme>
+  <programme channel="BBCNews.uk" start="20260423203000 +0000" stop="20260423210000 +0000">
+    <title lang="en">The Context</title>
+    <desc lang="en">A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/27ee8eda-d5e2-45bd-9af0-39debee9c753/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260423210000 +0000" stop="20260423213000 +0000">
     <title lang="en">BBC News at Ten</title>
@@ -11132,7 +11096,7 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260422083000 +0000" stop="20260422094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Helen and Greg hear why speeding offences are rising.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/72474950-14e5-4558-a437-14f26a630dc4/cover"/>
     <episode-num system="xmltv_ns">7.7.0</episode-num>
     <episode-num system="onscreen">S8E8</episode-num>
@@ -11223,7 +11187,7 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260422180000 +0000" stop="20260422183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Vernon Kay bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Graham Norton, Lindsay Duncan and Emma Laird join Alex and Vernon on the sofa, and Matt has your weekly Watchdog news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/acce5356-ea61-4269-96bb-dab4c4814f97/cover"/>
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260422183000 +0000" stop="20260422190000 +0000">
@@ -11615,7 +11579,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20260422083000 +0000" stop="20260422094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Helen and Greg hear why speeding offences are rising.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/72474950-14e5-4558-a437-14f26a630dc4/cover"/>
     <episode-num system="xmltv_ns">7.7.0</episode-num>
     <episode-num system="onscreen">S8E8</episode-num>
@@ -11706,7 +11670,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20260422180000 +0000" stop="20260422183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Vernon Kay bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Graham Norton, Lindsay Duncan and Emma Laird join Alex and Vernon on the sofa, and Matt has your weekly Watchdog news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/acce5356-ea61-4269-96bb-dab4c4814f97/cover"/>
   </programme>
   <programme channel="BBCOneEast.uk" start="20260422183000 +0000" stop="20260422190000 +0000">
@@ -12098,7 +12062,7 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260422083000 +0000" stop="20260422094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Helen and Greg hear why speeding offences are rising.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/72474950-14e5-4558-a437-14f26a630dc4/cover"/>
     <episode-num system="xmltv_ns">7.7.0</episode-num>
     <episode-num system="onscreen">S8E8</episode-num>
@@ -12189,7 +12153,7 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260422180000 +0000" stop="20260422183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Vernon Kay bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Graham Norton, Lindsay Duncan and Emma Laird join Alex and Vernon on the sofa, and Matt has your weekly Watchdog news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/acce5356-ea61-4269-96bb-dab4c4814f97/cover"/>
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260422183000 +0000" stop="20260422190000 +0000">
@@ -12581,7 +12545,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260422083000 +0000" stop="20260422094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Helen and Greg hear why speeding offences are rising.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/72474950-14e5-4558-a437-14f26a630dc4/cover"/>
     <episode-num system="xmltv_ns">7.7.0</episode-num>
     <episode-num system="onscreen">S8E8</episode-num>
@@ -12672,7 +12636,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260422180000 +0000" stop="20260422183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Vernon Kay bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Graham Norton, Lindsay Duncan and Emma Laird join Alex and Vernon on the sofa, and Matt has your weekly Watchdog news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/acce5356-ea61-4269-96bb-dab4c4814f97/cover"/>
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260422183000 +0000" stop="20260422190000 +0000">
@@ -13064,7 +13028,7 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260422083000 +0000" stop="20260422094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Helen and Greg hear why speeding offences are rising.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/72474950-14e5-4558-a437-14f26a630dc4/cover"/>
     <episode-num system="xmltv_ns">7.7.0</episode-num>
     <episode-num system="onscreen">S8E8</episode-num>
@@ -13155,7 +13119,7 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260422180000 +0000" stop="20260422183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Vernon Kay bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Graham Norton, Lindsay Duncan and Emma Laird join Alex and Vernon on the sofa, and Matt has your weekly Watchdog news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/acce5356-ea61-4269-96bb-dab4c4814f97/cover"/>
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260422183000 +0000" stop="20260422190000 +0000">
@@ -13547,7 +13511,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260422083000 +0000" stop="20260422094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Helen and Greg hear why speeding offences are rising.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/72474950-14e5-4558-a437-14f26a630dc4/cover"/>
     <episode-num system="xmltv_ns">7.7.0</episode-num>
     <episode-num system="onscreen">S8E8</episode-num>
@@ -13638,7 +13602,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260422180000 +0000" stop="20260422183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Vernon Kay bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Graham Norton, Lindsay Duncan and Emma Laird join Alex and Vernon on the sofa, and Matt has your weekly Watchdog news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/acce5356-ea61-4269-96bb-dab4c4814f97/cover"/>
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260422183000 +0000" stop="20260422190000 +0000">
@@ -14030,7 +13994,7 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260422083000 +0000" stop="20260422094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Helen and Greg hear why speeding offences are rising.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/72474950-14e5-4558-a437-14f26a630dc4/cover"/>
     <episode-num system="xmltv_ns">7.7.0</episode-num>
     <episode-num system="onscreen">S8E8</episode-num>
@@ -14116,7 +14080,7 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260422180000 +0000" stop="20260422183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Vernon Kay bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Graham Norton, Lindsay Duncan and Emma Laird join Alex and Vernon on the sofa, and Matt has your weekly Watchdog news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/acce5356-ea61-4269-96bb-dab4c4814f97/cover"/>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260422183000 +0000" stop="20260422190000 +0000">
@@ -14503,7 +14467,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260422083000 +0000" stop="20260422094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Helen and Greg hear why speeding offences are rising.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/72474950-14e5-4558-a437-14f26a630dc4/cover"/>
     <episode-num system="xmltv_ns">7.7.0</episode-num>
     <episode-num system="onscreen">S8E8</episode-num>
@@ -14594,7 +14558,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260422180000 +0000" stop="20260422183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Vernon Kay bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Graham Norton, Lindsay Duncan and Emma Laird join Alex and Vernon on the sofa, and Matt has your weekly Watchdog news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/acce5356-ea61-4269-96bb-dab4c4814f97/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260422183000 +0000" stop="20260422190000 +0000">
@@ -14637,7 +14601,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260422224000 +0000" stop="20260422231000 +0000">
     <title lang="en">Scotcast</title>
-    <desc lang="en">Conversation about Scotland's biggest news stories, hosted by Martin Geissler.</desc>
+    <desc lang="en">Martin Geissler hears how Scottish Labour insiders are feeling as more questions are raised about Sir Keir Starmer's judgment.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/36e1618d-f2cc-4084-b4f1-5a7af01c9c2b/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260422231000 +0000" stop="20260423001000 +0000">
@@ -14988,7 +14952,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260422083000 +0000" stop="20260422094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Helen and Greg hear why speeding offences are rising.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/72474950-14e5-4558-a437-14f26a630dc4/cover"/>
     <episode-num system="xmltv_ns">7.7.0</episode-num>
     <episode-num system="onscreen">S8E8</episode-num>
@@ -15079,7 +15043,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260422180000 +0000" stop="20260422183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Vernon Kay bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Graham Norton, Lindsay Duncan and Emma Laird join Alex and Vernon on the sofa, and Matt has your weekly Watchdog news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/acce5356-ea61-4269-96bb-dab4c4814f97/cover"/>
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260422183000 +0000" stop="20260422190000 +0000">
@@ -15471,7 +15435,7 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260422083000 +0000" stop="20260422094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Helen and Greg hear why speeding offences are rising.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/72474950-14e5-4558-a437-14f26a630dc4/cover"/>
     <episode-num system="xmltv_ns">7.7.0</episode-num>
     <episode-num system="onscreen">S8E8</episode-num>
@@ -15562,7 +15526,7 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260422180000 +0000" stop="20260422183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Vernon Kay bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Graham Norton, Lindsay Duncan and Emma Laird join Alex and Vernon on the sofa, and Matt has your weekly Watchdog news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/acce5356-ea61-4269-96bb-dab4c4814f97/cover"/>
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260422183000 +0000" stop="20260422190000 +0000">
@@ -15954,7 +15918,7 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260422083000 +0000" stop="20260422094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Helen and Greg hear why speeding offences are rising.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/72474950-14e5-4558-a437-14f26a630dc4/cover"/>
     <episode-num system="xmltv_ns">7.7.0</episode-num>
     <episode-num system="onscreen">S8E8</episode-num>
@@ -16045,7 +16009,7 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260422180000 +0000" stop="20260422183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Vernon Kay bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Graham Norton, Lindsay Duncan and Emma Laird join Alex and Vernon on the sofa, and Matt has your weekly Watchdog news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/acce5356-ea61-4269-96bb-dab4c4814f97/cover"/>
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260422183000 +0000" stop="20260422190000 +0000">
@@ -16437,7 +16401,7 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20260422083000 +0000" stop="20260422094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Helen and Greg hear why speeding offences are rising.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/72474950-14e5-4558-a437-14f26a630dc4/cover"/>
     <episode-num system="xmltv_ns">7.7.0</episode-num>
     <episode-num system="onscreen">S8E8</episode-num>
@@ -16538,7 +16502,7 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20260422180000 +0000" stop="20260422183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Vernon Kay bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Graham Norton, Lindsay Duncan and Emma Laird join Alex and Vernon on the sofa, and Matt has your weekly Watchdog news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/acce5356-ea61-4269-96bb-dab4c4814f97/cover"/>
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20260422183000 +0000" stop="20260422190000 +0000">
@@ -16948,7 +16912,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20260422083000 +0000" stop="20260422094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Helen and Greg hear why speeding offences are rising.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/72474950-14e5-4558-a437-14f26a630dc4/cover"/>
     <episode-num system="xmltv_ns">7.7.0</episode-num>
     <episode-num system="onscreen">S8E8</episode-num>
@@ -17039,7 +17003,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20260422180000 +0000" stop="20260422183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Vernon Kay bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Graham Norton, Lindsay Duncan and Emma Laird join Alex and Vernon on the sofa, and Matt has your weekly Watchdog news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/acce5356-ea61-4269-96bb-dab4c4814f97/cover"/>
   </programme>
   <programme channel="BBCOneWest.uk" start="20260422183000 +0000" stop="20260422190000 +0000">
@@ -17431,7 +17395,7 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260422083000 +0000" stop="20260422094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Helen and Greg hear why speeding offences are rising.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/72474950-14e5-4558-a437-14f26a630dc4/cover"/>
     <episode-num system="xmltv_ns">7.7.0</episode-num>
     <episode-num system="onscreen">S8E8</episode-num>
@@ -17522,7 +17486,7 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260422180000 +0000" stop="20260422183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Vernon Kay bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Graham Norton, Lindsay Duncan and Emma Laird join Alex and Vernon on the sofa, and Matt has your weekly Watchdog news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/acce5356-ea61-4269-96bb-dab4c4814f97/cover"/>
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260422183000 +0000" stop="20260422190000 +0000">
@@ -17914,7 +17878,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260422083000 +0000" stop="20260422094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Helen and Greg hear why speeding offences are rising.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/72474950-14e5-4558-a437-14f26a630dc4/cover"/>
     <episode-num system="xmltv_ns">7.7.0</episode-num>
     <episode-num system="onscreen">S8E8</episode-num>
@@ -18005,7 +17969,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260422180000 +0000" stop="20260422183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Vernon Kay bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Graham Norton, Lindsay Duncan and Emma Laird join Alex and Vernon on the sofa, and Matt has your weekly Watchdog news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/acce5356-ea61-4269-96bb-dab4c4814f97/cover"/>
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260422183000 +0000" stop="20260422190000 +0000">
@@ -18397,7 +18361,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260422083000 +0000" stop="20260422094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Helen and Greg hear why speeding offences are rising.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/72474950-14e5-4558-a437-14f26a630dc4/cover"/>
     <episode-num system="xmltv_ns">7.7.0</episode-num>
     <episode-num system="onscreen">S8E8</episode-num>
@@ -18488,7 +18452,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260422180000 +0000" stop="20260422183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Vernon Kay bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Graham Norton, Lindsay Duncan and Emma Laird join Alex and Vernon on the sofa, and Matt has your weekly Watchdog news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/acce5356-ea61-4269-96bb-dab4c4814f97/cover"/>
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260422183000 +0000" stop="20260422190000 +0000">
@@ -18921,14 +18885,24 @@
     <desc lang="en">Coverage of questions in the House of Commons to Keir Starmer, the prime minister, on Wednesday 22 April.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c3b37315-caa5-4216-8c7f-f3d186408495/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260422113500 +0000" stop="20260422183000 +0000">
+  <programme channel="BBCParliament.uk" start="20260422113500 +0000" stop="20260422122000 +0000">
+    <title lang="en">Live Procurement Strategy Urgent Question</title>
+    <desc lang="en">Coverage of the urgent question in the House of Commons, tabled by Labour MP Leigh Ingham, on the government's modern procurement strategy, on Wednesday 22 April.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/08b521c4-8e83-46bb-9e92-70edde93cc5b/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260422122000 +0000" stop="20260422132000 +0000">
+    <title lang="en">Live Pension Schemes Statement</title>
+    <desc lang="en">Coverage of the statement in the House of Commons by cabinet office minister Nick Thomas-Symonds on the status of current pension schemes, on Wednesday 22 April.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/e065cdc6-56b3-4f0e-b36c-c34fd11e8403/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260422132000 +0000" stop="20260422183000 +0000">
     <title lang="en">Live House of Commons</title>
-    <desc lang="en">Coverage of the day's proceedings in the House of Commons on Wednesday 22 April.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/13cba086-1cde-4f61-9ded-de214dfd14c5/cover"/>
+    <desc lang="en">Coverage of the day's proceedings in the House of Commons including a ten minute rule bill on juror absence, on Wednesday 22 April.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/93b56f07-3e3a-4a1a-8e06-605bd872cb70/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260422183000 +0000" stop="20260422210000 +0000">
     <title lang="en">Live House of Lords</title>
-    <desc lang="en">Coverage of proceedings in the House of Lords on Wednesday 22 April.</desc>
+    <desc lang="en">Coverage of proceedings in the House of Lords, including a short debate on the impact of the Clean Power 2030 Action Plan on rural communities, on Wednesday 22 April.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d9ba99fa-a747-4884-b636-e4bdec8198db/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260422210000 +0000" stop="20260422213500 +0000">
@@ -18941,10 +18915,25 @@
     <desc lang="en">Questions in the House of Lords to government ministers on Wednesday 22 April.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f73481a8-9314-4753-b7fa-433cbba7aee7/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260422222000 +0000" stop="20260423060000 +0000">
-    <title lang="en">House of Lords</title>
-    <desc lang="en">Business in the Lords, including the debate on amendments made in the House of Commons to the Crime and Policing Bill and the Pension Schemes Bill.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/5a5f1af1-26e9-4427-95d5-2f7d91262fd8/cover"/>
+  <programme channel="BBCParliament.uk" start="20260422222000 +0000" stop="20260423002000 +0000">
+    <title lang="en">House of Lords - Crime and Policing Bill</title>
+    <desc lang="en">Coverage of the debate in the House of Lords on amendments made in the House of Commons to the Crime and Policing Bill, on Wednesday 22 April.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/e31916cc-daae-4388-992d-63ec727043cf/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260423002000 +0000" stop="20260423012000 +0000">
+    <title lang="en">House of Lords - Clean Power 2030 Action Plan</title>
+    <desc lang="en">Coverage of the short debate in the House of Lords on the impact of the Clean Power 2030 Action Plan on rural communities, on Wednesday 22 April.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/57cfb9e0-e731-42eb-b8da-4f63e69028cc/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260423012000 +0000" stop="20260423020000 +0000">
+    <title lang="en">House of Lords - British...</title>
+    <desc lang="en">...Industrial Competitiveness Scheme. Coverage of the statement on the British Industrial Competitiveness Scheme.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/674741e7-8666-4780-a11a-894083720d86/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260423020000 +0000" stop="20260423060000 +0000">
+    <title lang="en">House of Lords - Pension Schemes Bill</title>
+    <desc lang="en">Coverage of the debate in the House of Lords on amendments made in the House of Commons to the Pension Schemes Bill, on Wednesday 22 April.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/0818056f-c13e-4c00-90d4-a16777734c1d/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260423060000 +0000" stop="20260423063000 +0000">
     <title lang="en">Wales Office Questions</title>
@@ -19029,7 +19018,7 @@
   <programme channel="BBCRedButton1.uk" start="20260421180000 +0000" stop="20260421225000 +0000">
     <title lang="en">Snooker: World Championship</title>
     <desc lang="en">Action from the evening session on day four of the World Snooker Championship in Sheffield.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/4d5350a6-bcbc-4165-99b6-79cd6bee2f0e/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/bd6a5c9e-a616-4f67-b720-7d683309a831/cover"/>
   </programme>
   <programme channel="BBCRedButton1.uk" start="20260421225000 +0000" stop="20260422000500 +0000">
     <title lang="en">Springwatch: Escape into Spring</title>
@@ -19055,12 +19044,12 @@
     <desc lang="en">Highlights from the fourth day of the World Snooker Championship in Sheffield.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9a454965-4b42-4885-b9b8-ec7221f20561/cover"/>
   </programme>
-  <programme channel="BBCRedButton1.uk" start="20260422090000 +0000" stop="20260422130000 +0000">
+  <programme channel="BBCRedButton1.uk" start="20260422090000 +0000" stop="20260422115000 +0000">
     <title lang="en">Snooker: World Championship</title>
     <desc lang="en">Coverage of the morning session on day five of the World Snooker Championship in Sheffield.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a636e98d-198b-4d7c-9635-7bfa67b51f1e/cover"/>
   </programme>
-  <programme channel="BBCRedButton1.uk" start="20260422130000 +0000" stop="20260422133000 +0000">
+  <programme channel="BBCRedButton1.uk" start="20260422115000 +0000" stop="20260422133000 +0000">
     <title lang="en">Springwatch: Escape into Spring</title>
     <desc lang="en">Enjoy the very best of the season in a natural escape that lets nature do the talking.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0f7c7ed5-c5ea-424b-b22f-840e419d058d/cover"/>
@@ -19266,7 +19255,7 @@
   </programme>
   <programme channel="BBCScotland.uk" start="20260422220000 +0000" stop="20260422223000 +0000">
     <title lang="en">Scotcast</title>
-    <desc lang="en">Conversation about Scotland's biggest news stories, hosted by Martin Geissler.</desc>
+    <desc lang="en">Martin Geissler hears how Scottish Labour insiders are feeling as more questions are raised about Sir Keir Starmer's judgment.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/36e1618d-f2cc-4084-b4f1-5a7af01c9c2b/cover"/>
   </programme>
   <programme channel="BBCScotland.uk" start="20260422223000 +0000" stop="20260422230000 +0000">
@@ -19361,38 +19350,31 @@
     <desc lang="en">More from the day's top stories and communities across Scotland.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2d5cf222-6be2-4549-9b95-7f8b2eef61f3/cover"/>
   </programme>
-  <programme channel="BBCScotland.uk" start="20260424183000 +0000" stop="20260424210000 +0000">
+  <programme channel="BBCScotland.uk" start="20260424183000 +0000" stop="20260424211500 +0000">
     <title lang="en">Sportscene: Championship Live</title>
     <desc lang="en">Live Championship football from McDiarmid Park as current league leaders St Johnstone take on Raith Rovers.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/72f515c1-1186-44ce-b234-a3ffe7f73f6b/cover"/>
   </programme>
-  <programme channel="BBCScotland.uk" start="20260424210000 +0000" stop="20260424213000 +0000">
+  <programme channel="BBCScotland.uk" start="20260424211500 +0000" stop="20260424214500 +0000">
     <title lang="en">Still Game</title>
     <desc lang="en">1/6. Winston becomes an internet sensation, while Jack and Victor decide to get mobile phones. Contains adult humour.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0e0104fa-622b-4ac7-9855-c53865ff5936/cover"/>
     <episode-num system="xmltv_ns">8.0.0</episode-num>
     <episode-num system="onscreen">S9E1</episode-num>
   </programme>
-  <programme channel="BBCScotland.uk" start="20260424213000 +0000" stop="20260424221500 +0000">
+  <programme channel="BBCScotland.uk" start="20260424214500 +0000" stop="20260424223000 +0000">
     <title lang="en">A View from the Terrace</title>
     <desc lang="en">17/18. Every ounce of Scottish football from the SPFL to the Sunday league ringers. It means everything, it means nothing, and this is the view of the fans on the terrace.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5b07d39d-2d82-44ff-8d1e-f73eabb08774/cover"/>
     <episode-num system="xmltv_ns">7.16.0</episode-num>
     <episode-num system="onscreen">S8E17</episode-num>
   </programme>
-  <programme channel="BBCScotland.uk" start="20260424221500 +0000" stop="20260424224500 +0000">
+  <programme channel="BBCScotland.uk" start="20260424223000 +0000" stop="20260424230000 +0000">
     <title lang="en">Two Doors Down</title>
     <desc lang="en">4/6. Sitcom. Beth's birthday treat - lunch out with the family - is hijacked by a very drunk Colin, another uninvited guest and an alarmingly intimate photograph. Contains strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7a2b8cea-8a12-499b-beb2-b02b87624c17/cover"/>
     <episode-num system="xmltv_ns">2.3.0</episode-num>
     <episode-num system="onscreen">S3E4</episode-num>
-  </programme>
-  <programme channel="BBCScotland.uk" start="20260424224500 +0000" stop="20260424230000 +0000">
-    <title lang="en">Growing Up Scottish</title>
-    <desc lang="en">2/8. Comedians talk us through food: fine dining, deep fried, deep freeze and our love of mince. Plus, home cooking and munchie boxes. With Ashley Storrie, Sanjeev Kohli and more.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/47aeb884-7cd5-4015-9ab7-382f89b22720/cover"/>
-    <episode-num system="xmltv_ns">1.1.0</episode-num>
-    <episode-num system="onscreen">S2E2</episode-num>
   </programme>
   <programme channel="BBCThreeHD.uk" start="20260421215000 +0000" stop="20260421223500 +0000">
     <title lang="en">Stacey Dooley: Meet the Shoplifters</title>
@@ -20090,7 +20072,9 @@
   <programme channel="BBCTwoEngland.uk" start="20260424200000 +0000" stop="20260424210000 +0000">
     <title lang="en">Great British Menu: Banquet Special</title>
     <desc lang="en">29/29. In the final episode, which chef will be voted champion of champions for 2026?</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3312fcc2-fb5d-48a3-80cc-7a018fdcb001/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/caf25efc-4bf4-4d6a-8928-21e2c07fa522/cover"/>
+    <episode-num system="xmltv_ns">20.28.0</episode-num>
+    <episode-num system="onscreen">S21E29</episode-num>
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20260424210000 +0000" stop="20260424213000 +0000">
     <title lang="en">Live at the Apollo</title>
@@ -20519,7 +20503,9 @@
   <programme channel="BBCTwoHD.uk" start="20260424200000 +0000" stop="20260424210000 +0000">
     <title lang="en">Great British Menu: Banquet Special</title>
     <desc lang="en">29/29. In the final episode, which chef will be voted champion of champions for 2026?</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3312fcc2-fb5d-48a3-80cc-7a018fdcb001/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/caf25efc-4bf4-4d6a-8928-21e2c07fa522/cover"/>
+    <episode-num system="xmltv_ns">20.28.0</episode-num>
+    <episode-num system="onscreen">S21E29</episode-num>
   </programme>
   <programme channel="BBCTwoHD.uk" start="20260424210000 +0000" stop="20260424213000 +0000">
     <title lang="en">Live at the Apollo</title>
@@ -20953,7 +20939,9 @@
   <programme channel="BBCTwoNorthernIreland.uk" start="20260424200000 +0000" stop="20260424210000 +0000">
     <title lang="en">Great British Menu: Banquet Special</title>
     <desc lang="en">29/29. In the final episode, which chef will be voted champion of champions for 2026?</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/04a54556-ac32-42cc-ab55-e04cea7dd7d2/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/caf25efc-4bf4-4d6a-8928-21e2c07fa522/cover"/>
+    <episode-num system="xmltv_ns">20.28.0</episode-num>
+    <episode-num system="onscreen">S21E29</episode-num>
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20260424210000 +0000" stop="20260424213000 +0000">
     <title lang="en">Live at the Apollo</title>
@@ -21385,7 +21373,9 @@
   <programme channel="BBCTwoWales.uk" start="20260424200000 +0000" stop="20260424210000 +0000">
     <title lang="en">Great British Menu: Banquet Special</title>
     <desc lang="en">29/29. In the final episode, which chef will be voted champion of champions for 2026?</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3fb6791b-ebb3-4eff-84da-c95dd8ed46b2/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/caf25efc-4bf4-4d6a-8928-21e2c07fa522/cover"/>
+    <episode-num system="xmltv_ns">20.28.0</episode-num>
+    <episode-num system="onscreen">S21E29</episode-num>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20260424210000 +0000" stop="20260424213000 +0000">
     <title lang="en">Live at the Apollo</title>
@@ -22478,6 +22468,8 @@
     <title lang="en">Newsround</title>
     <desc lang="en">22/04/2026. Topical news magazine for children.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3f8c91ba-77ac-4e24-9ba0-c6453c7a1cd2/cover"/>
+    <episode-num system="xmltv_ns">2025.15.0</episode-num>
+    <episode-num system="onscreen">S2026E16</episode-num>
   </programme>
   <programme channel="CBBC.uk" start="20260422065500 +0000" stop="20260422070500 +0000">
     <title lang="en">Grizzy and the Lemmings</title>
@@ -25188,7 +25180,7 @@
   </programme>
   <programme channel="Channel4.uk" start="20260422180000 +0000" stop="20260422190000 +0000">
     <title lang="en">Channel 4 News</title>
-    <desc lang="en">Channel 4's flagship news programme. Including the weather.</desc>
+    <desc lang="en">Downing Street says the PM has the full backing of the Cabinet. Iran says it has attacked three ships in the Strait of Hormuz, just hours after Donald Trump extended the ceasefire.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e87d8735-abaf-4d49-8a63-641bc0a7ac48/cover"/>
   </programme>
   <programme channel="Channel4.uk" start="20260422190000 +0000" stop="20260422200000 +0000">
@@ -25670,7 +25662,7 @@
   </programme>
   <programme channel="Channel4.uk" start="20260424220500 +0000" stop="20260424231000 +0000">
     <title lang="en">New: TFI Friday Unplugged</title>
-    <desc lang="en">Chris Evans returns to Channel 4 with his iconic show. Tonight, Peter Capaldi, Cush Jumbo, Olivia Munn, Kris Marshall and Hard-Fi join Chris for unfiltered conversation. (Ep2)</desc>
+    <desc lang="en">Chris Evans returns to Channel 4 with his iconic show. Tonight: Olivia Munn, Kris Marshall, Hard-Fi and Emma Laird join Chris for unfiltered conversation. (Ep2)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/969ba8d8-be2e-4058-a8f3-b9428f11bf54/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.1.0</episode-num>
@@ -25894,7 +25886,7 @@
   </programme>
   <programme channel="Channel4Plus1.uk" start="20260422190000 +0000" stop="20260422200000 +0000">
     <title lang="en">Channel 4 News</title>
-    <desc lang="en">Channel 4's flagship news programme. Including the weather.</desc>
+    <desc lang="en">Downing Street says the PM has the full backing of the Cabinet. Iran says it has attacked three ships in the Strait of Hormuz, just hours after Donald Trump extended the ceasefire.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e87d8735-abaf-4d49-8a63-641bc0a7ac48/cover"/>
   </programme>
   <programme channel="Channel4Plus1.uk" start="20260422200000 +0000" stop="20260422210000 +0000">
@@ -26446,11 +26438,6 @@
     <desc lang="en">This is Channel 5 +1</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a54518b1-ad5f-4c31-bbb7-c9748e81d1e6/cover"/>
   </programme>
-  <programme channel="Channel5Plus1.uk" start="20260422050000 +0000" stop="20260422052500 +0000">
-    <title lang="en">This is Channel 5 +1</title>
-    <desc lang="en">This is Channel 5 +1</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/410bb86c-96ed-41ba-9198-defced28e3fb/cover"/>
-  </programme>
   <programme channel="Channel5Plus1.uk" start="20260422052500 +0000" stop="20260422053500 +0000">
     <title lang="en">Entertainment News on 5</title>
     <desc lang="en">A daily round-up of showbiz news and gossip from around the world, focusing on celebrities, movies, music and entertainment.</desc>
@@ -26777,17 +26764,20 @@
     <desc lang="en">A daily round-up of showbiz news and gossip from around the world, focusing on celebrities, movies, music and entertainment.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/be352ebe-3af6-4ca8-87bc-a537ba66fac7/cover"/>
   </programme>
-  <programme channel="Channel5Plus1.uk" start="20260423043500 +0000" stop="20260423052600 +0000">
-    <title lang="en">** Visually Signed** Paul...</title>
-    <desc lang="en">...Martin's Antiques Showdown. Paul takes on antiques heavyweight David Elstob in Yorkshire. The stately surroundings of Newby Hall is the hub for David and Paul's first challenge. (VS) (Ep36)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b49e7f2c-4437-475c-b79f-dbb6fb60d744/cover"/>
-    <episode-num system="xmltv_ns">0.35.0</episode-num>
-    <episode-num system="onscreen">S1E36</episode-num>
-  </programme>
-  <programme channel="Channel5Plus1.uk" start="20260423052600 +0000" stop="20260423053500 +0000">
+  <programme channel="Channel5Plus1.uk" start="20260423043500 +0000" stop="20260423050000 +0000">
     <title lang="en">This is Channel 5 +1</title>
     <desc lang="en">This is Channel 5 +1</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/431b2f2c-7576-4499-9cb1-c605312ec22b/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/3a375422-5f72-49e5-a397-afb3faddc9ed/cover"/>
+  </programme>
+  <programme channel="Channel5Plus1.uk" start="20260423050000 +0000" stop="20260423052500 +0000">
+    <title lang="en">This is Channel 5 +1</title>
+    <desc lang="en">This is Channel 5 +1</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6ac24421-dc69-4b19-b5c5-02a8af140f16/cover"/>
+  </programme>
+  <programme channel="Channel5Plus1.uk" start="20260423052500 +0000" stop="20260423053500 +0000">
+    <title lang="en">Entertainment News on 5</title>
+    <desc lang="en">A daily round-up of showbiz news and gossip from around the world, focusing on celebrities, movies, music and entertainment.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/07162e75-02e5-4120-831c-75d5b15ed98a/cover"/>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20260423053500 +0000" stop="20260423054500 +0000">
     <title lang="en">**Visually Signed** Mixmups</title>
@@ -27076,14 +27066,14 @@
     <desc lang="en">Your one-stop-shop for all things cruise; bringing you the hottest destinations, ground-breaking ships and the latest deals to ensure your next cruise holiday is your greatest one!</desc>
     <icon src="https://images.metadata.sky.com/pd-image/97afa409-ecb3-45fe-9d38-4d4906f31979/cover"/>
   </programme>
-  <programme channel="Channel5Plus1.uk" start="20260424020000 +0000" stop="20260424025000 +0000">
+  <programme channel="Channel5Plus1.uk" start="20260424020000 +0000" stop="20260424024500 +0000">
     <title lang="en">Cash in the Attic</title>
     <desc lang="en">Jules Hudson and expert appraiser Paul Hayes are in Leicestershire, treasure-hunting with Liz, Keith and Emma.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/11a2aa45-45ae-4c48-8e4b-c6079fca0f60/cover"/>
     <episode-num system="xmltv_ns">0.39.0</episode-num>
     <episode-num system="onscreen">S1E40</episode-num>
   </programme>
-  <programme channel="Channel5Plus1.uk" start="20260424025000 +0000" stop="20260424033500 +0000">
+  <programme channel="Channel5Plus1.uk" start="20260424024500 +0000" stop="20260424033500 +0000">
     <title lang="en">Fare Dodgers: At War with the Law</title>
     <desc lang="en">Transport for London investigators Rich and Greg are on the trail of a man they believe has run up over £1500 in unpaid fares in east London on the Elizabeth Line.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/12652569-9e7d-462e-8d95-b8d4968cf43c/cover"/>
@@ -34876,7 +34866,7 @@
   </programme>
   <programme channel="ITV1CentralE.uk" start="20260422221500 +0000" stop="20260422230000 +0000">
     <title lang="en">New: Peston</title>
-    <desc lang="en">Join Robert Peston for a late-night political magazine show featuring big interviews with the country's leading politicians, topical guests, and the best political gossip.</desc>
+    <desc lang="en">Robert discusses the Mandelson vetting scandal and more with Conservative Leader Kemi Badenoch, ex-SNP Leader Nicola Sturgeon, Reform's Robert Jenrick and Nick Thomas-Symonds.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/501ef66e-84c8-417a-bb3a-bb768fb15db9/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">11.10.0</episode-num>
@@ -35352,7 +35342,7 @@
   </programme>
   <programme channel="ITV1CentralW.uk" start="20260422221500 +0000" stop="20260422230000 +0000">
     <title lang="en">New: Peston</title>
-    <desc lang="en">Join Robert Peston for a late-night political magazine show featuring big interviews with the country's leading politicians, topical guests, and the best political gossip.</desc>
+    <desc lang="en">Robert discusses the Mandelson vetting scandal and more with Conservative Leader Kemi Badenoch, ex-SNP Leader Nicola Sturgeon, Reform's Robert Jenrick and Nick Thomas-Symonds.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/501ef66e-84c8-417a-bb3a-bb768fb15db9/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">11.10.0</episode-num>
@@ -35828,7 +35818,7 @@
   </programme>
   <programme channel="ITV1London.uk" start="20260422221500 +0000" stop="20260422230000 +0000">
     <title lang="en">New: Peston</title>
-    <desc lang="en">Join Robert Peston for a late-night political magazine show featuring big interviews with the country's leading politicians, topical guests, and the best political gossip.</desc>
+    <desc lang="en">Robert discusses the Mandelson vetting scandal and more with Conservative Leader Kemi Badenoch, ex-SNP Leader Nicola Sturgeon, Reform's Robert Jenrick and Nick Thomas-Symonds.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/501ef66e-84c8-417a-bb3a-bb768fb15db9/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">11.10.0</episode-num>
@@ -36304,7 +36294,7 @@
   </programme>
   <programme channel="ITV1MeridianE.uk" start="20260422221500 +0000" stop="20260422230000 +0000">
     <title lang="en">New: Peston</title>
-    <desc lang="en">Join Robert Peston for a late-night political magazine show featuring big interviews with the country's leading politicians, topical guests, and the best political gossip.</desc>
+    <desc lang="en">Robert discusses the Mandelson vetting scandal and more with Conservative Leader Kemi Badenoch, ex-SNP Leader Nicola Sturgeon, Reform's Robert Jenrick and Nick Thomas-Symonds.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/501ef66e-84c8-417a-bb3a-bb768fb15db9/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">11.10.0</episode-num>
@@ -36780,7 +36770,7 @@
   </programme>
   <programme channel="ITV1MeridianN.uk" start="20260422221500 +0000" stop="20260422230000 +0000">
     <title lang="en">New: Peston</title>
-    <desc lang="en">Join Robert Peston for a late-night political magazine show featuring big interviews with the country's leading politicians, topical guests, and the best political gossip.</desc>
+    <desc lang="en">Robert discusses the Mandelson vetting scandal and more with Conservative Leader Kemi Badenoch, ex-SNP Leader Nicola Sturgeon, Reform's Robert Jenrick and Nick Thomas-Symonds.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/501ef66e-84c8-417a-bb3a-bb768fb15db9/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">11.10.0</episode-num>
@@ -37256,7 +37246,7 @@
   </programme>
   <programme channel="ITV1MeridianS.uk" start="20260422221500 +0000" stop="20260422230000 +0000">
     <title lang="en">New: Peston</title>
-    <desc lang="en">Join Robert Peston for a late-night political magazine show featuring big interviews with the country's leading politicians, topical guests, and the best political gossip.</desc>
+    <desc lang="en">Robert discusses the Mandelson vetting scandal and more with Conservative Leader Kemi Badenoch, ex-SNP Leader Nicola Sturgeon, Reform's Robert Jenrick and Nick Thomas-Symonds.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/501ef66e-84c8-417a-bb3a-bb768fb15db9/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">11.10.0</episode-num>
@@ -37732,7 +37722,7 @@
   </programme>
   <programme channel="ITV1North.uk" start="20260422221500 +0000" stop="20260422230000 +0000">
     <title lang="en">New: Peston</title>
-    <desc lang="en">Join Robert Peston for a late-night political magazine show featuring big interviews with the country's leading politicians, topical guests, and the best political gossip.</desc>
+    <desc lang="en">Robert discusses the Mandelson vetting scandal and more with Conservative Leader Kemi Badenoch, ex-SNP Leader Nicola Sturgeon, Reform's Robert Jenrick and Nick Thomas-Symonds.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/501ef66e-84c8-417a-bb3a-bb768fb15db9/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">11.10.0</episode-num>
@@ -38224,7 +38214,7 @@
   </programme>
   <programme channel="ITV1Plus1Granada.uk" start="20260422231500 +0000" stop="20260423000000 +0000">
     <title lang="en">New: Peston</title>
-    <desc lang="en">Join Robert Peston for a late-night political magazine show featuring big interviews with the country's leading politicians, topical guests, and the best political gossip.</desc>
+    <desc lang="en">Robert discusses the Mandelson vetting scandal and more with Conservative Leader Kemi Badenoch, ex-SNP Leader Nicola Sturgeon, Reform's Robert Jenrick and Nick Thomas-Symonds.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/501ef66e-84c8-417a-bb3a-bb768fb15db9/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">11.10.0</episode-num>
@@ -38706,7 +38696,7 @@
   </programme>
   <programme channel="ITV1Plus1London.uk" start="20260422231500 +0000" stop="20260423000000 +0000">
     <title lang="en">New: Peston</title>
-    <desc lang="en">Join Robert Peston for a late-night political magazine show featuring big interviews with the country's leading politicians, topical guests, and the best political gossip.</desc>
+    <desc lang="en">Robert discusses the Mandelson vetting scandal and more with Conservative Leader Kemi Badenoch, ex-SNP Leader Nicola Sturgeon, Reform's Robert Jenrick and Nick Thomas-Symonds.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/501ef66e-84c8-417a-bb3a-bb768fb15db9/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">11.10.0</episode-num>
@@ -39188,7 +39178,7 @@
   </programme>
   <programme channel="ITV1Plus1Meridian.uk" start="20260422231500 +0000" stop="20260423000000 +0000">
     <title lang="en">New: Peston</title>
-    <desc lang="en">Join Robert Peston for a late-night political magazine show featuring big interviews with the country's leading politicians, topical guests, and the best political gossip.</desc>
+    <desc lang="en">Robert discusses the Mandelson vetting scandal and more with Conservative Leader Kemi Badenoch, ex-SNP Leader Nicola Sturgeon, Reform's Robert Jenrick and Nick Thomas-Symonds.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/501ef66e-84c8-417a-bb3a-bb768fb15db9/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">11.10.0</episode-num>
@@ -39670,7 +39660,7 @@
   </programme>
   <programme channel="ITV1Plus1Midlands.uk" start="20260422231500 +0000" stop="20260423000000 +0000">
     <title lang="en">New: Peston</title>
-    <desc lang="en">Join Robert Peston for a late-night political magazine show featuring big interviews with the country's leading politicians, topical guests, and the best political gossip.</desc>
+    <desc lang="en">Robert discusses the Mandelson vetting scandal and more with Conservative Leader Kemi Badenoch, ex-SNP Leader Nicola Sturgeon, Reform's Robert Jenrick and Nick Thomas-Symonds.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/501ef66e-84c8-417a-bb3a-bb768fb15db9/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">11.10.0</episode-num>
@@ -40136,7 +40126,7 @@
   </programme>
   <programme channel="ITV1TyneTees.uk" start="20260422221500 +0000" stop="20260422230000 +0000">
     <title lang="en">New: Peston</title>
-    <desc lang="en">Join Robert Peston for a late-night political magazine show featuring big interviews with the country's leading politicians, topical guests, and the best political gossip.</desc>
+    <desc lang="en">Robert discusses the Mandelson vetting scandal and more with Conservative Leader Kemi Badenoch, ex-SNP Leader Nicola Sturgeon, Reform's Robert Jenrick and Nick Thomas-Symonds.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/501ef66e-84c8-417a-bb3a-bb768fb15db9/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">11.10.0</episode-num>
@@ -40610,7 +40600,7 @@
   </programme>
   <programme channel="ITV1Wales.uk" start="20260422221500 +0000" stop="20260422230000 +0000">
     <title lang="en">New: Peston</title>
-    <desc lang="en">Join Robert Peston for a late-night political magazine show featuring big interviews with the country's leading politicians, topical guests, and the best political gossip.</desc>
+    <desc lang="en">Robert discusses the Mandelson vetting scandal and more with Conservative Leader Kemi Badenoch, ex-SNP Leader Nicola Sturgeon, Reform's Robert Jenrick and Nick Thomas-Symonds.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/501ef66e-84c8-417a-bb3a-bb768fb15db9/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">11.10.0</episode-num>
@@ -41103,7 +41093,7 @@
   </programme>
   <programme channel="ITV1West.uk" start="20260422221500 +0000" stop="20260422230000 +0000">
     <title lang="en">New: Peston</title>
-    <desc lang="en">Join Robert Peston for a late-night political magazine show featuring big interviews with the country's leading politicians, topical guests, and the best political gossip.</desc>
+    <desc lang="en">Robert discusses the Mandelson vetting scandal and more with Conservative Leader Kemi Badenoch, ex-SNP Leader Nicola Sturgeon, Reform's Robert Jenrick and Nick Thomas-Symonds.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/501ef66e-84c8-417a-bb3a-bb768fb15db9/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">11.10.0</episode-num>
@@ -41579,7 +41569,7 @@
   </programme>
   <programme channel="ITV1WestCountry.uk" start="20260422221500 +0000" stop="20260422230000 +0000">
     <title lang="en">New: Peston</title>
-    <desc lang="en">Join Robert Peston for a late-night political magazine show featuring big interviews with the country's leading politicians, topical guests, and the best political gossip.</desc>
+    <desc lang="en">Robert discusses the Mandelson vetting scandal and more with Conservative Leader Kemi Badenoch, ex-SNP Leader Nicola Sturgeon, Reform's Robert Jenrick and Nick Thomas-Symonds.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/501ef66e-84c8-417a-bb3a-bb768fb15db9/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">11.10.0</episode-num>
@@ -42055,7 +42045,7 @@
   </programme>
   <programme channel="ITV1YorkshireEast.uk" start="20260422221500 +0000" stop="20260422230000 +0000">
     <title lang="en">New: Peston</title>
-    <desc lang="en">Join Robert Peston for a late-night political magazine show featuring big interviews with the country's leading politicians, topical guests, and the best political gossip.</desc>
+    <desc lang="en">Robert discusses the Mandelson vetting scandal and more with Conservative Leader Kemi Badenoch, ex-SNP Leader Nicola Sturgeon, Reform's Robert Jenrick and Nick Thomas-Symonds.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/501ef66e-84c8-417a-bb3a-bb768fb15db9/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">11.10.0</episode-num>
@@ -42531,7 +42521,7 @@
   </programme>
   <programme channel="ITV1YorkshireWest.uk" start="20260422221500 +0000" stop="20260422230000 +0000">
     <title lang="en">New: Peston</title>
-    <desc lang="en">Join Robert Peston for a late-night political magazine show featuring big interviews with the country's leading politicians, topical guests, and the best political gossip.</desc>
+    <desc lang="en">Robert discusses the Mandelson vetting scandal and more with Conservative Leader Kemi Badenoch, ex-SNP Leader Nicola Sturgeon, Reform's Robert Jenrick and Nick Thomas-Symonds.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/501ef66e-84c8-417a-bb3a-bb768fb15db9/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">11.10.0</episode-num>
@@ -46939,6 +46929,8 @@
     <desc lang="en">Brand new series - Returning Home: Carmine's investigation into Beatrice's death comes to an abrupt conclusion. Nanni's true identity is finally revealed. In Italian/subs.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f468c09d-7f6c-4d9d-a691-e220b50edf9c/cover"/>
     <premiere/>
+    <episode-num system="xmltv_ns">0.5.0</episode-num>
+    <episode-num system="onscreen">S1E6</episode-num>
   </programme>
   <programme channel="More4.uk" start="20260424221500 +0000" stop="20260424231500 +0000">
     <title lang="en">24 Hours in A&amp;E</title>
@@ -47526,6 +47518,8 @@
     <desc lang="en">Brand new series - Returning Home: Carmine's investigation into Beatrice's death comes to an abrupt conclusion. Nanni's true identity is finally revealed. In Italian/subs.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f468c09d-7f6c-4d9d-a691-e220b50edf9c/cover"/>
     <premiere/>
+    <episode-num system="xmltv_ns">0.5.0</episode-num>
+    <episode-num system="onscreen">S1E6</episode-num>
   </programme>
   <programme channel="SkyMix.uk" start="20260421211500 +0000" stop="20260421221500 +0000">
     <title lang="en">Fire Country</title>
@@ -48025,7 +48019,9 @@
   <programme channel="SkyMix.uk" start="20260423221500 +0000" stop="20260423232000 +0000">
     <title lang="en">Star Trek: Enterprise</title>
     <desc lang="en">Fallen Hero: When a Vulcan ambassador is accused of secretive criminal misconduct, Enterprise is asked to transport her back to the Vulcans. Trouble ensues. (S1, ep 23)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f78a226d-6fa8-411e-84bb-e730785afa73/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/b057eea8-7a96-4ef1-a543-c0fe34c2b225/cover"/>
+    <episode-num system="xmltv_ns">0.22.0</episode-num>
+    <episode-num system="onscreen">S1E23</episode-num>
   </programme>
   <programme channel="SkyMix.uk" start="20260423232000 +0000" stop="20260424002500 +0000">
     <title lang="en">Warehouse 13</title>
