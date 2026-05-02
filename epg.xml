@@ -4927,17 +4927,17 @@
     <episode-num system="xmltv_ns">23.24.0</episode-num>
     <episode-num system="onscreen">S24E25</episode-num>
   </programme>
-  <programme channel="tnt3" start="20260502131500 +0000" stop="20260502163000 +0000">
+  <programme channel="tnt3" start="20260502131500 +0000" stop="20260502164500 +0000">
     <title lang="en">Live Snooker: World Championship</title>
     <desc lang="en">Action from the fourth session of the Halo World Championship 2026 semi-final between the legendary John Higgins and 2005 winner Shaun Murphy at the Crucible.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/50ddb29c-b381-4f9b-9b01-a7370c780585/cover"/>
   </programme>
-  <programme channel="tnt3" start="20260502163000 +0000" stop="20260502170000 +0000">
+  <programme channel="tnt3" start="20260502164500 +0000" stop="20260502171500 +0000">
     <title lang="en">T100 Triathlon World Tour Hlts</title>
     <desc lang="en">Highlights from the Singapore T100, where elite triathletes battled to top the podium at the awe-inspiring Marina Bay.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a2e1dbe4-03b1-4c38-9d1b-e76d76a51029/cover"/>
   </programme>
-  <programme channel="tnt3" start="20260502170000 +0000" stop="20260502173000 +0000">
+  <programme channel="tnt3" start="20260502171500 +0000" stop="20260502173000 +0000">
     <title lang="en">UEFA Champions League Magazine</title>
     <desc lang="en">Martin Zubimendi discusses his dream of leading Arsenal to a UCL final for the first time in 20 years, while legendary defender Marcel Desailly reflects on his own UCL triumphs.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b165b90c-76c9-431f-a8ca-21150100397f/cover"/>
@@ -5409,7 +5409,7 @@
   <programme channel="tnt4" start="20260504093000 +0000" stop="20260504110000 +0000">
     <title lang="en">AFL: Collingwood v Hawthorn</title>
     <desc lang="en">Action from the Australian Football League as Collingwood take on Hawthorn at the MCG. The Hawks have won six of their past seven games at this venue.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/2e86c935-10de-4ccf-8379-e3204b7d12dd/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/c77e7c2e-b3aa-40bb-b55a-b87a008026d7/cover"/>
   </programme>
   <programme channel="tnt4" start="20260504110000 +0000" stop="20260504120000 +0000">
     <title lang="en">Bangladesh v New Zealand - 3rd T20</title>
@@ -9631,71 +9631,36 @@
     <desc lang="en">Two sisters have their relationship tested when the local gang show up at their place. Tha strì eadar dà phiuthar nuair a tha gràisg ionadail a' nochdadh.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/155f8a32-c8bb-43ee-8764-cd907837e3e3/cover"/>
   </programme>
-  <programme channel="BBCAlba.uk" start="20260502112000 +0000" stop="20260502133000 +0000">
+  <programme channel="BBCAlba.uk" start="20260502112000 +0000" stop="20260502142000 +0000">
     <title lang="en">Scottish Cup Semi Final - Glasgow City v Celtic</title>
     <desc lang="en">Live football action from the women's Scottish Cup competition semi-final stage. Two Glasgow teams, Glasgow City and Celtic, face each other at Hampden.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/59cc2a94-ab3f-4c0a-81a5-0909ea0b9878/cover"/>
   </programme>
-  <programme channel="BBCAlba.uk" start="20260502133000 +0000" stop="20260502134500 +0000">
+  <programme channel="BBCAlba.uk" start="20260502142000 +0000" stop="20260502143500 +0000">
     <title lang="en">Somhairle Spins</title>
     <desc lang="en">2/5. Somhairle and his brother Innes have a challenging start on their first day cycling between Inverness and Glasgow on the Badger Divide.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d73bce23-8031-4d40-8439-5d38b18a635d/cover"/>
     <episode-num system="xmltv_ns">0.1.0</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
   </programme>
-  <programme channel="BBCAlba.uk" start="20260502134500 +0000" stop="20260502150000 +0000">
+  <programme channel="BBCAlba.uk" start="20260502143500 +0000" stop="20260502155500 +0000">
     <title lang="en">Wallace 's Gromit - Mallachd an...</title>
     <desc lang="en">...Fhir-rabaide/Curse of the Were-Rabbit. Tha an obair uile an urra ri Gromit 's Wallace a' faireachdainn 'curran' neònach.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/811082cd-3864-456c-8d23-88353f7a21f8/cover"/>
   </programme>
-  <programme channel="BBCAlba.uk" start="20260502150000 +0000" stop="20260502152000 +0000">
-    <title lang="en">Lon Le Linda</title>
-    <desc lang="en">1/12. Tha Linda NicLeòid agus a caraidean a' dèanamh sailead ioma-dhathach. Linda and her friends make a colourful and tasty salad.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/fc34e4d8-a228-4207-a2f3-a9770bf0c1e2/cover"/>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme channel="BBCAlba.uk" start="20260502152000 +0000" stop="20260502153000 +0000">
-    <title lang="en">Oscar &amp; Ealasaid</title>
-    <desc lang="en">8/26. As soon as it freezes, the bears go into hibernation - except for Ernest, who claims he's accustomed to extreme temperature.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d4d3fcfb-1acb-4321-bf39-d044e591a30d/cover"/>
-    <episode-num system="xmltv_ns">0.7.0</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
-  </programme>
-  <programme channel="BBCAlba.uk" start="20260502153000 +0000" stop="20260502154500 +0000">
+  <programme channel="BBCAlba.uk" start="20260502155500 +0000" stop="20260502161000 +0000">
     <title lang="en">Cleasan Ataidh &amp; Tilidh/The...</title>
     <desc lang="en">...Adventures of Abney &amp; Teal. 36/52. Abney plants seeds in the moonlight. By the morning, some have grown into lovely big cabbages. Abney and Teal decide to help one that is struggling.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d8dbb240-c486-4715-9113-ee66ee53d56e/cover"/>
     <episode-num system="xmltv_ns">1.9.0</episode-num>
     <episode-num system="onscreen">S2E10</episode-num>
   </programme>
-  <programme channel="BBCAlba.uk" start="20260502154500 +0000" stop="20260502160000 +0000">
+  <programme channel="BBCAlba.uk" start="20260502161000 +0000" stop="20260502163000 +0000">
     <title lang="en">Abadas</title>
     <desc lang="en">1/26. The Abadas are pirates, hunting for treasure. One lucky pirate is chosen to go in search of an anchor and explore the sea. Which Abada will guess what it looks like?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4670d647-991d-4962-83db-af58c45a7898/cover"/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme channel="BBCAlba.uk" start="20260502160000 +0000" stop="20260502161000 +0000">
-    <title lang="en">An Teaghlach Rìoghail an...</title>
-    <desc lang="en">...Ath-dhoras/The Royals Next Door. 47/52. There's much suspicion when the King appears at football without his crown.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/97fc5836-9078-37d1-8128-831ee8a7ec87/cover"/>
-    <episode-num system="xmltv_ns">0.46.0</episode-num>
-    <episode-num system="onscreen">S1E47</episode-num>
-  </programme>
-  <programme channel="BBCAlba.uk" start="20260502161000 +0000" stop="20260502162000 +0000">
-    <title lang="en">An Teaghlach Rìoghail an...</title>
-    <desc lang="en">...Ath-dhoras/The Royals Next Door. 48/52. Chan eil picnic sa phàirc ciùin! A picnic in the park isn't cool!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3ecdacd4-8804-337f-afe3-c3f621dac5b4/cover"/>
-    <episode-num system="xmltv_ns">0.47.0</episode-num>
-    <episode-num system="onscreen">S1E48</episode-num>
-  </programme>
-  <programme channel="BBCAlba.uk" start="20260502162000 +0000" stop="20260502163000 +0000">
-    <title lang="en">Uaine</title>
-    <desc lang="en">5/8. We're not short of water in Scotland and Calum is in the Highlands to find out more about hydroelectric power.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d213bc64-0833-496f-a007-67d5aec1b3c3/cover"/>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme channel="BBCAlba.uk" start="20260502163000 +0000" stop="20260502164500 +0000">
     <title lang="en">Clann na Cruinne</title>
@@ -10529,9 +10494,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/8d0273b2-9f72-4467-a0c7-d0095bd4df26/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260502183000 +0000" stop="20260502190000 +0000">
-    <title lang="en">Tech Now</title>
-    <desc lang="en">Harriet Bradshaw finds out how AI is being used to help solve an art history mystery. Andrew Rogers explores how new technology is transforming filmmaking at Pinewood Studios.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/ccee59ad-905e-4182-b012-ec4b6e5d7f42/cover"/>
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d49ebda6-8cce-4a9d-9a04-b7988a89ba71/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260502190000 +0000" stop="20260502193000 +0000">
     <title lang="en">BBC News</title>
@@ -10735,9 +10700,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/066f4092-1b1e-454b-b558-350f0d628846/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260503183000 +0000" stop="20260503190000 +0000">
-    <title lang="en">AI Decoded</title>
-    <desc lang="en">AI Decoded speaks to leading tech podcaster Scott Galloway about the growing controversy surrounding Anthropic's latest AI model, Claude Mythos.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/aacbb750-f609-4e91-8a79-5fd181255caa/cover"/>
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/b5a4c6d5-194d-409a-9222-fa0e504b27ae/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260503190000 +0000" stop="20260503193000 +0000">
     <title lang="en">BBC News</title>
@@ -11302,6 +11267,8 @@
     <title lang="en">Countryfile</title>
     <desc lang="en">Matt Baker and Vick Hope explore the chalk landscapes of the Chilterns, where rare grasslands, seasonal streams and specialised wildlife all depend on the fragile ground beneath their feet.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a8f3522a-5bf2-4dc1-8253-9e45eb3b7b45/cover"/>
+    <episode-num system="xmltv_ns">2025.54.0</episode-num>
+    <episode-num system="onscreen">S2026E55</episode-num>
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260503171500 +0000" stop="20260503181500 +0000">
     <title lang="en">Secret Garden</title>
@@ -11783,6 +11750,8 @@
     <title lang="en">Countryfile</title>
     <desc lang="en">Matt Baker and Vick Hope explore the chalk landscapes of the Chilterns, where rare grasslands, seasonal streams and specialised wildlife all depend on the fragile ground beneath their feet.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a8f3522a-5bf2-4dc1-8253-9e45eb3b7b45/cover"/>
+    <episode-num system="xmltv_ns">2025.54.0</episode-num>
+    <episode-num system="onscreen">S2026E55</episode-num>
   </programme>
   <programme channel="BBCOneEast.uk" start="20260503171500 +0000" stop="20260503181500 +0000">
     <title lang="en">Secret Garden</title>
@@ -12264,6 +12233,8 @@
     <title lang="en">Countryfile</title>
     <desc lang="en">Matt Baker and Vick Hope explore the chalk landscapes of the Chilterns, where rare grasslands, seasonal streams and specialised wildlife all depend on the fragile ground beneath their feet.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a8f3522a-5bf2-4dc1-8253-9e45eb3b7b45/cover"/>
+    <episode-num system="xmltv_ns">2025.54.0</episode-num>
+    <episode-num system="onscreen">S2026E55</episode-num>
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260503171500 +0000" stop="20260503181500 +0000">
     <title lang="en">Secret Garden</title>
@@ -12745,6 +12716,8 @@
     <title lang="en">Countryfile</title>
     <desc lang="en">Matt Baker and Vick Hope explore the chalk landscapes of the Chilterns, where rare grasslands, seasonal streams and specialised wildlife all depend on the fragile ground beneath their feet.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a8f3522a-5bf2-4dc1-8253-9e45eb3b7b45/cover"/>
+    <episode-num system="xmltv_ns">2025.54.0</episode-num>
+    <episode-num system="onscreen">S2026E55</episode-num>
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260503171500 +0000" stop="20260503181500 +0000">
     <title lang="en">Secret Garden</title>
@@ -13226,6 +13199,8 @@
     <title lang="en">Countryfile</title>
     <desc lang="en">Matt Baker and Vick Hope explore the chalk landscapes of the Chilterns, where rare grasslands, seasonal streams and specialised wildlife all depend on the fragile ground beneath their feet.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a8f3522a-5bf2-4dc1-8253-9e45eb3b7b45/cover"/>
+    <episode-num system="xmltv_ns">2025.54.0</episode-num>
+    <episode-num system="onscreen">S2026E55</episode-num>
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260503171500 +0000" stop="20260503181500 +0000">
     <title lang="en">Secret Garden</title>
@@ -13707,6 +13682,8 @@
     <title lang="en">Countryfile</title>
     <desc lang="en">Matt Baker and Vick Hope explore the chalk landscapes of the Chilterns, where rare grasslands, seasonal streams and specialised wildlife all depend on the fragile ground beneath their feet.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a8f3522a-5bf2-4dc1-8253-9e45eb3b7b45/cover"/>
+    <episode-num system="xmltv_ns">2025.54.0</episode-num>
+    <episode-num system="onscreen">S2026E55</episode-num>
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260503171500 +0000" stop="20260503181500 +0000">
     <title lang="en">Secret Garden</title>
@@ -14178,6 +14155,8 @@
     <title lang="en">Countryfile</title>
     <desc lang="en">Matt Baker and Vick Hope explore the chalk landscapes of the Chilterns, where rare grasslands, seasonal streams and specialised wildlife all depend on the fragile ground beneath their feet.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a8f3522a-5bf2-4dc1-8253-9e45eb3b7b45/cover"/>
+    <episode-num system="xmltv_ns">2025.54.0</episode-num>
+    <episode-num system="onscreen">S2026E55</episode-num>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260503171500 +0000" stop="20260503181500 +0000">
     <title lang="en">Secret Garden</title>
@@ -14692,6 +14671,8 @@
     <title lang="en">Countryfile</title>
     <desc lang="en">Matt Baker and Vick Hope explore the chalk landscapes of the Chilterns, where rare grasslands, seasonal streams and specialised wildlife all depend on the fragile ground beneath their feet.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a8f3522a-5bf2-4dc1-8253-9e45eb3b7b45/cover"/>
+    <episode-num system="xmltv_ns">2025.54.0</episode-num>
+    <episode-num system="onscreen">S2026E55</episode-num>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260503171500 +0000" stop="20260503181500 +0000">
     <title lang="en">Secret Garden</title>
@@ -15189,6 +15170,8 @@
     <title lang="en">Countryfile</title>
     <desc lang="en">Matt Baker and Vick Hope explore the chalk landscapes of the Chilterns, where rare grasslands, seasonal streams and specialised wildlife all depend on the fragile ground beneath their feet.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a8f3522a-5bf2-4dc1-8253-9e45eb3b7b45/cover"/>
+    <episode-num system="xmltv_ns">2025.54.0</episode-num>
+    <episode-num system="onscreen">S2026E55</episode-num>
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260503171500 +0000" stop="20260503181500 +0000">
     <title lang="en">Secret Garden</title>
@@ -15670,6 +15653,8 @@
     <title lang="en">Countryfile</title>
     <desc lang="en">Matt Baker and Vick Hope explore the chalk landscapes of the Chilterns, where rare grasslands, seasonal streams and specialised wildlife all depend on the fragile ground beneath their feet.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a8f3522a-5bf2-4dc1-8253-9e45eb3b7b45/cover"/>
+    <episode-num system="xmltv_ns">2025.54.0</episode-num>
+    <episode-num system="onscreen">S2026E55</episode-num>
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260503171500 +0000" stop="20260503181500 +0000">
     <title lang="en">Secret Garden</title>
@@ -16151,6 +16136,8 @@
     <title lang="en">Countryfile</title>
     <desc lang="en">Matt Baker and Vick Hope explore the chalk landscapes of the Chilterns, where rare grasslands, seasonal streams and specialised wildlife all depend on the fragile ground beneath their feet.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a8f3522a-5bf2-4dc1-8253-9e45eb3b7b45/cover"/>
+    <episode-num system="xmltv_ns">2025.54.0</episode-num>
+    <episode-num system="onscreen">S2026E55</episode-num>
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260503171500 +0000" stop="20260503181500 +0000">
     <title lang="en">Secret Garden</title>
@@ -16655,6 +16642,8 @@
     <title lang="en">Countryfile</title>
     <desc lang="en">Matt Baker and Vick Hope explore the chalk landscapes of the Chilterns, where rare grasslands, seasonal streams and specialised wildlife all depend on the fragile ground beneath their feet.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a8f3522a-5bf2-4dc1-8253-9e45eb3b7b45/cover"/>
+    <episode-num system="xmltv_ns">2025.54.0</episode-num>
+    <episode-num system="onscreen">S2026E55</episode-num>
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20260503171500 +0000" stop="20260503181500 +0000">
     <title lang="en">Secret Garden</title>
@@ -17148,6 +17137,8 @@
     <title lang="en">Countryfile</title>
     <desc lang="en">Matt Baker and Vick Hope explore the chalk landscapes of the Chilterns, where rare grasslands, seasonal streams and specialised wildlife all depend on the fragile ground beneath their feet.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a8f3522a-5bf2-4dc1-8253-9e45eb3b7b45/cover"/>
+    <episode-num system="xmltv_ns">2025.54.0</episode-num>
+    <episode-num system="onscreen">S2026E55</episode-num>
   </programme>
   <programme channel="BBCOneWest.uk" start="20260503171500 +0000" stop="20260503181500 +0000">
     <title lang="en">Secret Garden</title>
@@ -17629,6 +17620,8 @@
     <title lang="en">Countryfile</title>
     <desc lang="en">Matt Baker and Vick Hope explore the chalk landscapes of the Chilterns, where rare grasslands, seasonal streams and specialised wildlife all depend on the fragile ground beneath their feet.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a8f3522a-5bf2-4dc1-8253-9e45eb3b7b45/cover"/>
+    <episode-num system="xmltv_ns">2025.54.0</episode-num>
+    <episode-num system="onscreen">S2026E55</episode-num>
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260503171500 +0000" stop="20260503181500 +0000">
     <title lang="en">Secret Garden</title>
@@ -18110,6 +18103,8 @@
     <title lang="en">Countryfile</title>
     <desc lang="en">Matt Baker and Vick Hope explore the chalk landscapes of the Chilterns, where rare grasslands, seasonal streams and specialised wildlife all depend on the fragile ground beneath their feet.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a8f3522a-5bf2-4dc1-8253-9e45eb3b7b45/cover"/>
+    <episode-num system="xmltv_ns">2025.54.0</episode-num>
+    <episode-num system="onscreen">S2026E55</episode-num>
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260503171500 +0000" stop="20260503181500 +0000">
     <title lang="en">Secret Garden</title>
@@ -18591,6 +18586,8 @@
     <title lang="en">Countryfile</title>
     <desc lang="en">Matt Baker and Vick Hope explore the chalk landscapes of the Chilterns, where rare grasslands, seasonal streams and specialised wildlife all depend on the fragile ground beneath their feet.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a8f3522a-5bf2-4dc1-8253-9e45eb3b7b45/cover"/>
+    <episode-num system="xmltv_ns">2025.54.0</episode-num>
+    <episode-num system="onscreen">S2026E55</episode-num>
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260503171500 +0000" stop="20260503181500 +0000">
     <title lang="en">Secret Garden</title>
@@ -19905,18 +19902,14 @@
     <icon src="https://images.metadata.sky.com/pd-image/0ddfbba1-ec69-4a74-93cd-f443eebcd4da/cover"/>
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20260502153000 +0000" stop="20260502163000 +0000">
-    <title lang="en">Flog It!</title>
-    <desc lang="en">Antiques series. Flog It! comes from the heart of Birmingham and its historic museum and art gallery.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/fb9a132e-d68c-41a1-bdc7-b9b8f3ef9418/cover"/>
-    <episode-num system="xmltv_ns">12.3.0</episode-num>
-    <episode-num system="onscreen">S13E4</episode-num>
+    <title lang="en">Snooker: World Championship</title>
+    <desc lang="en">Coverage of day 15 of the World Snooker Championship at the Crucible Theatre, Sheffield.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ca81cca8-aca8-4465-9ae1-b0edfde733d4/cover"/>
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20260502163000 +0000" stop="20260502170000 +0000">
-    <title lang="en">Extraordinary Portraits with Bill Bailey</title>
-    <desc lang="en">6/6. Two sisters share an extraordinary bond as one donates her womb to the other to enable her to give birth, making British medical history.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/5e0ea9c2-78e0-46af-9b73-9e4c971d8100/cover"/>
-    <episode-num system="xmltv_ns">4.5.0</episode-num>
-    <episode-num system="onscreen">S5E6</episode-num>
+    <title lang="en">Great Japanese Railway Journeys</title>
+    <desc lang="en">15/15. Michael explores the history of Hokkaido's indigenous Ainu people.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/0dc4b99d-97a1-4518-a621-4de7e1b0bc03/cover"/>
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20260502170000 +0000" stop="20260502180000 +0000">
     <title lang="en">Celebrity Antiques Road Trip</title>
@@ -20319,18 +20312,14 @@
     <icon src="https://images.metadata.sky.com/pd-image/0ddfbba1-ec69-4a74-93cd-f443eebcd4da/cover"/>
   </programme>
   <programme channel="BBCTwoHD.uk" start="20260502153000 +0000" stop="20260502163000 +0000">
-    <title lang="en">Flog It!</title>
-    <desc lang="en">Antiques series. Flog It! comes from the heart of Birmingham and its historic museum and art gallery.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/fb9a132e-d68c-41a1-bdc7-b9b8f3ef9418/cover"/>
-    <episode-num system="xmltv_ns">12.3.0</episode-num>
-    <episode-num system="onscreen">S13E4</episode-num>
+    <title lang="en">Snooker: World Championship</title>
+    <desc lang="en">Coverage of day 15 of the World Snooker Championship at the Crucible Theatre, Sheffield.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ca81cca8-aca8-4465-9ae1-b0edfde733d4/cover"/>
   </programme>
   <programme channel="BBCTwoHD.uk" start="20260502163000 +0000" stop="20260502170000 +0000">
-    <title lang="en">Extraordinary Portraits with Bill Bailey</title>
-    <desc lang="en">6/6. Two sisters share an extraordinary bond as one donates her womb to the other to enable her to give birth, making British medical history.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/5e0ea9c2-78e0-46af-9b73-9e4c971d8100/cover"/>
-    <episode-num system="xmltv_ns">4.5.0</episode-num>
-    <episode-num system="onscreen">S5E6</episode-num>
+    <title lang="en">Great Japanese Railway Journeys</title>
+    <desc lang="en">15/15. Michael explores the history of Hokkaido's indigenous Ainu people.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/0dc4b99d-97a1-4518-a621-4de7e1b0bc03/cover"/>
   </programme>
   <programme channel="BBCTwoHD.uk" start="20260502170000 +0000" stop="20260502180000 +0000">
     <title lang="en">Celebrity Antiques Road Trip</title>
@@ -20732,29 +20721,20 @@
     <desc lang="en">Barra Best experiences how the country's climate shapes people's lives. He discovers that while nothing can be done about the weather, things can certainly be done with it.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/99432151-df5c-4c90-a710-02632b8404d7/cover"/>
   </programme>
-  <programme channel="BBCTwoNorthernIreland.uk" start="20260502130000 +0000" stop="20260502154500 +0000">
+  <programme channel="BBCTwoNorthernIreland.uk" start="20260502130000 +0000" stop="20260502160000 +0000">
     <title lang="en">Irish Cup Final</title>
     <desc lang="en">Stephen Watson presents live football coverage as Dungannon Swifts and Coleraine clash in the Irish Cup final.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c688703f-8ea6-42ff-aa1c-00fdde786420/cover"/>
   </programme>
-  <programme channel="BBCTwoNorthernIreland.uk" start="20260502154500 +0000" stop="20260502160000 +0000">
-    <title lang="en">Chronicles of the Sperrins</title>
-    <desc lang="en">In Gortin Glen Forest Park, walking guide Sean Harpur and his guide dog Bennie are on their daily walk and uncovering more of the woodland's hidden history.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/97ff0640-7d4f-4922-9616-76c4336fd1a8/cover"/>
-  </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20260502160000 +0000" stop="20260502163000 +0000">
-    <title lang="en">Paula McIntyre's Hamely Kitchen</title>
-    <desc lang="en">3/4. Paula makes her version of classic beef olives and an ecclefechan tart.  Against the stunning backdrop of the Mourne mountains, Paula cooks battered monkfish and potato bread chips.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/5f462cb5-4135-3df7-b2bd-036348c0cddb/cover"/>
-    <episode-num system="xmltv_ns">2.2.0</episode-num>
-    <episode-num system="onscreen">S3E3</episode-num>
+    <title lang="en">Snooker: World Championship</title>
+    <desc lang="en">Coverage of day 15 of the World Snooker Championship at the Crucible Theatre, Sheffield.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/57f83083-dc3e-4a80-851c-d84f653a5db4/cover"/>
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20260502163000 +0000" stop="20260502170000 +0000">
-    <title lang="en">Extraordinary Portraits with Bill Bailey</title>
-    <desc lang="en">6/6. Two sisters share an extraordinary bond as one donates her womb to the other to enable her to give birth, making British medical history.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/5e0ea9c2-78e0-46af-9b73-9e4c971d8100/cover"/>
-    <episode-num system="xmltv_ns">4.5.0</episode-num>
-    <episode-num system="onscreen">S5E6</episode-num>
+    <title lang="en">Great Japanese Railway Journeys</title>
+    <desc lang="en">15/15. Michael explores the history of Hokkaido's indigenous Ainu people.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/02f6947a-5c94-4e9b-8b7e-e98a57917bb8/cover"/>
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20260502170000 +0000" stop="20260502180000 +0000">
     <title lang="en">Celebrity Antiques Road Trip</title>
@@ -21178,18 +21158,14 @@
     <icon src="https://images.metadata.sky.com/pd-image/0ddfbba1-ec69-4a74-93cd-f443eebcd4da/cover"/>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20260502153000 +0000" stop="20260502163000 +0000">
-    <title lang="en">Flog It!</title>
-    <desc lang="en">Antiques series. Flog It! comes from the heart of Birmingham and its historic museum and art gallery.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/fb9a132e-d68c-41a1-bdc7-b9b8f3ef9418/cover"/>
-    <episode-num system="xmltv_ns">12.3.0</episode-num>
-    <episode-num system="onscreen">S13E4</episode-num>
+    <title lang="en">Snooker: World Championship</title>
+    <desc lang="en">Coverage of day 15 of the World Snooker Championship at the Crucible Theatre, Sheffield.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d0389645-3269-42de-99a6-8eeac9fd28a4/cover"/>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20260502163000 +0000" stop="20260502170000 +0000">
-    <title lang="en">Extraordinary Portraits with Bill Bailey</title>
-    <desc lang="en">6/6. Two sisters share an extraordinary bond as one donates her womb to the other to enable her to give birth, making British medical history.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/5e0ea9c2-78e0-46af-9b73-9e4c971d8100/cover"/>
-    <episode-num system="xmltv_ns">4.5.0</episode-num>
-    <episode-num system="onscreen">S5E6</episode-num>
+    <title lang="en">Great Japanese Railway Journeys</title>
+    <desc lang="en">15/15. Michael explores the history of Hokkaido's indigenous Ainu people.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/5a8956bb-2368-42ea-9249-948da5dc15a3/cover"/>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20260502170000 +0000" stop="20260502180000 +0000">
     <title lang="en">Celebrity Antiques Road Trip</title>
@@ -25708,7 +25684,12 @@
     <desc lang="en">Some extra brunch as Tim Lovejoy and Simon Rimmer host the food and chat show.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/cf117410-45c8-44a8-ab79-93e4ceb7f45e/cover"/>
   </programme>
-  <programme channel="Channel4.uk" start="20260504035000 +0000" stop="20260504045500 +0000">
+  <programme channel="Channel4.uk" start="20260504035000 +0000" stop="20260504040000 +0000">
+    <title lang="en">Jamie's One-Pan Wonders</title>
+    <desc lang="en">Jamie Oliver makes a one-pan salmon pie.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/5fbf1410-d164-4acc-a707-4f4dec534c28/cover"/>
+  </programme>
+  <programme channel="Channel4.uk" start="20260504040000 +0000" stop="20260504045500 +0000">
     <title lang="en">Sarah Beeny's New Country Lives</title>
     <desc lang="en">Dave and Lynn get to work on their dream farmhouse kitchen-diner, while Pete goes shopping for a tractor for his family's new smallholding. (Ep2)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e840bba0-d0b9-37df-93aa-1e9c104244de/cover"/>
@@ -26390,7 +26371,12 @@
     <desc lang="en">Some extra brunch as Tim Lovejoy and Simon Rimmer host the food and chat show.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/cf117410-45c8-44a8-ab79-93e4ceb7f45e/cover"/>
   </programme>
-  <programme channel="Channel4Plus1.uk" start="20260504045000 +0000" stop="20260504055500 +0000">
+  <programme channel="Channel4Plus1.uk" start="20260504045000 +0000" stop="20260504050000 +0000">
+    <title lang="en">Jamie's One-Pan Wonders</title>
+    <desc lang="en">Jamie Oliver makes a one-pan salmon pie.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/5fbf1410-d164-4acc-a707-4f4dec534c28/cover"/>
+  </programme>
+  <programme channel="Channel4Plus1.uk" start="20260504050000 +0000" stop="20260504055500 +0000">
     <title lang="en">Sarah Beeny's New Country Lives</title>
     <desc lang="en">Dave and Lynn get to work on their dream farmhouse kitchen-diner, while Pete goes shopping for a tractor for his family's new smallholding. (Ep2)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e840bba0-d0b9-37df-93aa-1e9c104244de/cover"/>
@@ -27506,7 +27492,7 @@
   </programme>
   <programme channel="CNNInternational.uk" start="20260502063000 +0000" stop="20260502070000 +0000">
     <title lang="en">African Voices</title>
-    <desc lang="en">Episode 226. Shining a spotlight on Africa's most influential and inspiring talents through in-depth, authentic conversations.</desc>
+    <desc lang="en">Oba Femi. Oba Femi, a Nigerian-born professional wrestler and former elite shot putter, joined WWE through its NIL program in 2021.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/43fac2d7-fdfb-4f03-8cfc-5e2e94464585/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">2025.15.0</episode-num>
@@ -27520,7 +27506,7 @@
   </programme>
   <programme channel="CNNInternational.uk" start="20260502073000 +0000" stop="20260502080000 +0000">
     <title lang="en">Connecting Africa</title>
-    <desc lang="en">May 2026. We profile the people, projects and companies revolutionizing African business and bringing the continent together.</desc>
+    <desc lang="en">African-Caribbean Trade. The International Trade Centre estimates Africa and the Caribbean could trade up to $1.7 billion per year by 2030.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d47f0138-71b3-4ef6-a6ca-b55901726dbd/cover"/>
     <premiere/>
   </programme>
@@ -27532,7 +27518,7 @@
   </programme>
   <programme channel="CNNInternational.uk" start="20260502083000 +0000" stop="20260502090000 +0000">
     <title lang="en">CNN Creators</title>
-    <desc lang="en">Thursday, April 30, 2026 1130am ET.</desc>
+    <desc lang="en">Thursday, April 30, 2026 1130am ET. The Creators look at digital addition, and whether it's possible to detox from a phone for a week.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7b3d8d3f-b2b1-431f-9d7d-5f580a790226/cover"/>
   </programme>
   <programme channel="CNNInternational.uk" start="20260502090000 +0000" stop="20260502100000 +0000">
@@ -27543,7 +27529,7 @@
   </programme>
   <programme channel="CNNInternational.uk" start="20260502100000 +0000" stop="20260502103000 +0000">
     <title lang="en">African Voices</title>
-    <desc lang="en">Episode 226. Shining a spotlight on Africa's most influential and inspiring talents through in-depth, authentic conversations.</desc>
+    <desc lang="en">Oba Femi. Oba Femi, a Nigerian-born professional wrestler and former elite shot putter, joined WWE through its NIL program in 2021.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6f8602b4-de93-4304-847e-28beebc66899/cover"/>
     <episode-num system="xmltv_ns">2025.12.0</episode-num>
     <episode-num system="onscreen">S2026E13</episode-num>
@@ -27575,7 +27561,7 @@
   </programme>
   <programme channel="CNNInternational.uk" start="20260502140000 +0000" stop="20260502143000 +0000">
     <title lang="en">CNN Creators</title>
-    <desc lang="en">Thursday, April 30, 2026 1130am ET.</desc>
+    <desc lang="en">Thursday, April 30, 2026 1130am ET. The Creators look at digital addition, and whether it's possible to detox from a phone for a week.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d8e58b0e-086d-4e36-8282-5d4efcd16b4d/cover"/>
   </programme>
   <programme channel="CNNInternational.uk" start="20260502143000 +0000" stop="20260502150000 +0000">
@@ -27597,7 +27583,7 @@
   </programme>
   <programme channel="CNNInternational.uk" start="20260502163000 +0000" stop="20260502164500 +0000">
     <title lang="en">Marketplace Middle East</title>
-    <desc lang="en">Episode 52. The latest business headlines, events and developments in and around the Middle East.</desc>
+    <desc lang="en">Navigating Uncertainty. As the economic cost of the war spreads far beyond the front lines, we examine how weaker tourism, softer investment, and higher prices.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fdc19142-70cf-4786-adbf-7d0b16fb6edd/cover"/>
     <premiere/>
   </programme>
@@ -27647,7 +27633,7 @@
   </programme>
   <programme channel="CNNInternational.uk" start="20260502213000 +0000" stop="20260502220000 +0000">
     <title lang="en">CNN Creators</title>
-    <desc lang="en">Thursday, April 30, 2026 1130am ET.</desc>
+    <desc lang="en">Thursday, April 30, 2026 1130am ET. The Creators look at digital addition, and whether it's possible to detox from a phone for a week.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/17d1c890-1c20-4c28-b772-fd7c806708ae/cover"/>
   </programme>
   <programme channel="CNNInternational.uk" start="20260502220000 +0000" stop="20260502230000 +0000">
@@ -27687,19 +27673,19 @@
   </programme>
   <programme channel="CNNInternational.uk" start="20260503023000 +0000" stop="20260503030000 +0000">
     <title lang="en">African Voices</title>
-    <desc lang="en">Episode 226. Shining a spotlight on Africa's most influential and inspiring talents through in-depth, authentic conversations.</desc>
+    <desc lang="en">Oba Femi. Oba Femi, a Nigerian-born professional wrestler and former elite shot putter, joined WWE through its NIL program in 2021.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/43fac2d7-fdfb-4f03-8cfc-5e2e94464585/cover"/>
     <episode-num system="xmltv_ns">2025.15.0</episode-num>
     <episode-num system="onscreen">S2026E16</episode-num>
   </programme>
   <programme channel="CNNInternational.uk" start="20260503030000 +0000" stop="20260503033000 +0000">
     <title lang="en">Connecting Africa</title>
-    <desc lang="en">May 2026. We profile the people, projects and companies revolutionizing African business and bringing the continent together.</desc>
+    <desc lang="en">African-Caribbean Trade. The International Trade Centre estimates Africa and the Caribbean could trade up to $1.7 billion per year by 2030.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1d73e972-2730-4c3f-be50-36287e2c8c47/cover"/>
   </programme>
   <programme channel="CNNInternational.uk" start="20260503033000 +0000" stop="20260503034500 +0000">
     <title lang="en">Marketplace Middle East</title>
-    <desc lang="en">Episode 52. The latest business headlines, events and developments in and around the Middle East.</desc>
+    <desc lang="en">Navigating Uncertainty. As the economic cost of the war spreads far beyond the front lines, we examine how weaker tourism, softer investment, and higher prices.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b1236326-cbcc-4dba-ba73-ae430bbe28d8/cover"/>
   </programme>
   <programme channel="CNNInternational.uk" start="20260503034500 +0000" stop="20260503040000 +0000">
@@ -27737,7 +27723,7 @@
   </programme>
   <programme channel="CNNInternational.uk" start="20260503063000 +0000" stop="20260503064500 +0000">
     <title lang="en">Marketplace Middle East</title>
-    <desc lang="en">Episode 52. The latest business headlines, events and developments in and around the Middle East.</desc>
+    <desc lang="en">Navigating Uncertainty. As the economic cost of the war spreads far beyond the front lines, we examine how weaker tourism, softer investment, and higher prices.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c9abfbe2-f15c-49fd-9301-868e18e2511e/cover"/>
   </programme>
   <programme channel="CNNInternational.uk" start="20260503064500 +0000" stop="20260503070000 +0000">
@@ -27772,7 +27758,7 @@
   </programme>
   <programme channel="CNNInternational.uk" start="20260503100000 +0000" stop="20260503103000 +0000">
     <title lang="en">Connecting Africa</title>
-    <desc lang="en">May 2026. We profile the people, projects and companies revolutionizing African business and bringing the continent together.</desc>
+    <desc lang="en">African-Caribbean Trade. The International Trade Centre estimates Africa and the Caribbean could trade up to $1.7 billion per year by 2030.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8ea67b06-97d4-49b9-8a79-213f034f4d32/cover"/>
   </programme>
   <programme channel="CNNInternational.uk" start="20260503103000 +0000" stop="20260503110000 +0000">
@@ -27821,7 +27807,7 @@
   </programme>
   <programme channel="CNNInternational.uk" start="20260503170000 +0000" stop="20260503173000 +0000">
     <title lang="en">African Voices</title>
-    <desc lang="en">Episode 226. Shining a spotlight on Africa's most influential and inspiring talents through in-depth, authentic conversations.</desc>
+    <desc lang="en">Oba Femi. Oba Femi, a Nigerian-born professional wrestler and former elite shot putter, joined WWE through its NIL program in 2021.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/43fac2d7-fdfb-4f03-8cfc-5e2e94464585/cover"/>
     <episode-num system="xmltv_ns">2025.15.0</episode-num>
     <episode-num system="onscreen">S2026E16</episode-num>
@@ -27859,7 +27845,7 @@
   </programme>
   <programme channel="CNNInternational.uk" start="20260503213000 +0000" stop="20260503220000 +0000">
     <title lang="en">Connecting Africa</title>
-    <desc lang="en">May 2026. We profile the people, projects and companies revolutionizing African business and bringing the continent together.</desc>
+    <desc lang="en">African-Caribbean Trade. The International Trade Centre estimates Africa and the Caribbean could trade up to $1.7 billion per year by 2030.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/49c8a74a-925b-4c34-93a2-e30154330506/cover"/>
   </programme>
   <programme channel="CNNInternational.uk" start="20260503220000 +0000" stop="20260503230000 +0000">
@@ -27887,14 +27873,14 @@
   </programme>
   <programme channel="CNNInternational.uk" start="20260504020000 +0000" stop="20260504023000 +0000">
     <title lang="en">African Voices</title>
-    <desc lang="en">Episode 226. Shining a spotlight on Africa's most influential and inspiring talents through in-depth, authentic conversations.</desc>
+    <desc lang="en">Oba Femi. Oba Femi, a Nigerian-born professional wrestler and former elite shot putter, joined WWE through its NIL program in 2021.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/43fac2d7-fdfb-4f03-8cfc-5e2e94464585/cover"/>
     <episode-num system="xmltv_ns">2025.15.0</episode-num>
     <episode-num system="onscreen">S2026E16</episode-num>
   </programme>
   <programme channel="CNNInternational.uk" start="20260504023000 +0000" stop="20260504024500 +0000">
     <title lang="en">Marketplace Middle East</title>
-    <desc lang="en">Episode 52. The latest business headlines, events and developments in and around the Middle East.</desc>
+    <desc lang="en">Navigating Uncertainty. As the economic cost of the war spreads far beyond the front lines, we examine how weaker tourism, softer investment, and higher prices.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4a1e906c-3b69-4adc-b730-f212ad6deacb/cover"/>
   </programme>
   <programme channel="CNNInternational.uk" start="20260504024500 +0000" stop="20260504030000 +0000">
@@ -28019,7 +28005,7 @@
   </programme>
   <programme channel="CNNInternational.uk" start="20260504164500 +0000" stop="20260504170000 +0000">
     <title lang="en">African Voices</title>
-    <desc lang="en">Episode 226A. Shining a spotlight on Africa's most influential and inspiring talents through in-depth, authentic conversations.</desc>
+    <desc lang="en">Oba Femi. Oba Femi, a Nigerian-born professional wrestler and former elite shot putter, joined WWE through its NIL program in 2021.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/43fac2d7-fdfb-4f03-8cfc-5e2e94464585/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">2025.15.0</episode-num>
@@ -28051,7 +28037,7 @@
   </programme>
   <programme channel="CNNInternational.uk" start="20260504204500 +0000" stop="20260504210000 +0000">
     <title lang="en">Connecting Africa</title>
-    <desc lang="en">May 2026 166A. We profile the people, projects and companies revolutionizing African business and bringing the continent together.</desc>
+    <desc lang="en">African-Caribbean Trade. The International Trade Centre estimates Africa and the Caribbean could trade up to $1.7 billion per year by 2030.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/86bba5fb-db40-478e-96c4-cfabfd763984/cover"/>
     <premiere/>
   </programme>
