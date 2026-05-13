@@ -1285,9 +1285,8 @@
     <icon src="https://images.metadata.sky.com/pd-image/07ca7d81-ae68-4e03-9446-03ed44e25be3/cover"/>
   </programme>
   <programme channel="sky.premier.uk" start="20260515214500 +0000" stop="20260515221500 +0000">
-    <title lang="en">The Big Interview: Tyler Adams</title>
-    <desc lang="en">In a series of extended-access interviews, hear from some of the biggest and most interesting names in the Premier League - as players and managers tell their own story in their own words.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0246e041-066b-416b-9edc-38f8aa2f9213/cover"/>
+    <title lang="en">A Day In The Life: Dom Szoboszlai</title>
+    <icon src="https://images.metadata.sky.com/pd-image/9374a761-3009-4ed8-b0b7-17eac705cccf/cover"/>
   </programme>
   <programme channel="sky.premier.uk" start="20260515221500 +0000" stop="20260515224500 +0000">
     <title lang="en">Mo Salah: When He Was King</title>
@@ -1476,10 +1475,15 @@
     <desc lang="en">A St Mary's decider gets underway in the Sky Bet Championship play-offs as Southampton entertain Middlesbrough following last Saturday's opening-leg stalemate.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5eb9f1b9-324d-4c2e-8bfd-cfe83b2af0e8/cover"/>
   </programme>
-  <programme channel="sky.football.uk" start="20260513134500 +0000" stop="20260513140000 +0000">
+  <programme channel="sky.football.uk" start="20260513134500 +0000" stop="20260513140001 +0000">
     <title lang="en">EFL 16/17: Reading v Cardiff</title>
     <desc lang="en">A chance to relive a classic match from the EFL. Here, Reading host Cardiff City at the Madejski Stadium in 2017 in a game with a thrilling conclusion.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b98d02e3-e9c5-4913-a71b-2cb1c355b3a0/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/0e4b7e37-4cec-4e5c-97dc-8ba52306b396/cover"/>
+  </programme>
+  <programme channel="sky.football.uk" start="20260513140001 +0000" stop="20260513143000 +0000">
+    <title lang="en">C'Ship Playoff SF: 2025-26</title>
+    <desc lang="en">A St Mary's decider gets underway in the Sky Bet Championship play-offs as Southampton entertain Middlesbrough following last Saturday's opening-leg stalemate. (12.05)</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/bfee758f-4518-4877-b129-182268a5a3a7/cover"/>
   </programme>
   <programme channel="sky.football.uk" start="20260513143000 +0000" stop="20260513150000 +0000">
     <title lang="en">SPFL 25/26: Celtic v Rangers</title>
@@ -6200,7 +6204,9 @@
   <programme channel="5Action.uk" start="20260512230000 +0000" stop="20260513000000 +0000">
     <title lang="en">Scam City: Don't Get Caught Out!</title>
     <desc lang="en">Conor goes undercover in the neon wonderland of Hong Kong, and while hunting scams, discovers more than he bargained for.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/2575c000-f7d2-40e0-a3df-ea274ca5b3bc/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/8aa3d404-9d21-4663-93ff-29902fe9a80c/cover"/>
+    <episode-num system="xmltv_ns">1.7.0</episode-num>
+    <episode-num system="onscreen">S2E8</episode-num>
   </programme>
   <programme channel="5Action.uk" start="20260513000000 +0000" stop="20260513010000 +0000">
     <title lang="en">Outback Truckers</title>
@@ -6356,7 +6362,9 @@
   <programme channel="5Action.uk" start="20260513230000 +0000" stop="20260514000000 +0000">
     <title lang="en">Scam City: Don't Get Caught Out!</title>
     <desc lang="en">Conor Woodman discovers the most common scams in Buenos Aires involving tourists: pickpocketing, clip joints, vice girls, and hotel scams. But the worst is all the counterfeit money.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9ec6d0c9-29d1-4c09-807c-ca61f549bc27/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/0b9df35b-ff7d-42ec-b7db-c91dfd270a1d/cover"/>
+    <episode-num system="xmltv_ns">0.5.0</episode-num>
+    <episode-num system="onscreen">S1E6</episode-num>
   </programme>
   <programme channel="5Action.uk" start="20260514000000 +0000" stop="20260514010000 +0000">
     <title lang="en">Outback Truckers</title>
@@ -6530,7 +6538,9 @@
   <programme channel="5Action.uk" start="20260514230000 +0000" stop="20260515000000 +0000">
     <title lang="en">Scam City: Don't Get Caught Out!</title>
     <desc lang="en">In Prague, scammers pose as beautiful girls, harmless hawkers, and friendly taxi drivers, waiting for unsuspecting tourists to fall into their traps while enjoying the city's nightlife.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/25ce884c-d4cb-4283-8738-8a14ad322db1/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/2694d7b5-d36a-484d-8f42-e1f4f0f73986/cover"/>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme channel="5Action.uk" start="20260515000000 +0000" stop="20260515010000 +0000">
     <title lang="en">Outback Truckers</title>
@@ -9291,7 +9301,7 @@
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260513063000 +0000" stop="20260513070000 +0000">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Ep.29 Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Ep.29 Can China counter U.S. sanctions with its own economic tools?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/63392b6f-04eb-4b48-9b48-c81d0a0a92b8/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260513070000 +0000" stop="20260513080000 +0000">
@@ -9359,7 +9369,7 @@
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260513143000 +0000" stop="20260513150000 +0000">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Ep.29 Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Ep.29 Can China counter U.S. sanctions with its own economic tools?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f18b7d11-fdd5-4f83-be7f-20b9bbf75ee9/cover"/>
     <episode-num system="xmltv_ns">2025.28.0</episode-num>
     <episode-num system="onscreen">S2026E29</episode-num>
@@ -9538,7 +9548,7 @@
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260514093000 +0000" stop="20260514100000 +0000">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Ep.29 Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Ep.29 Can China counter U.S. sanctions with its own economic tools?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f18b7d11-fdd5-4f83-be7f-20b9bbf75ee9/cover"/>
     <episode-num system="xmltv_ns">2025.28.0</episode-num>
     <episode-num system="onscreen">S2026E29</episode-num>
@@ -9699,7 +9709,7 @@
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260515033000 +0000" stop="20260515040000 +0000">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Ep.29 Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Ep.29 Can China counter U.S. sanctions with its own economic tools?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f18b7d11-fdd5-4f83-be7f-20b9bbf75ee9/cover"/>
     <episode-num system="xmltv_ns">2025.28.0</episode-num>
     <episode-num system="onscreen">S2026E29</episode-num>
@@ -14816,7 +14826,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260513224000 +0000" stop="20260513234000 +0000">
     <title lang="en">Debate Night</title>
-    <desc lang="en">6/24. Current affairs discussion. Members of the public quiz a panel of politicians and public figures about the big issues in Scotland and beyond.</desc>
+    <desc lang="en">6/24. Topical debate from Haddington on the big issues affecting Scotland and beyond.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6227f74f-750f-4d26-8b26-7ffceec33773/cover"/>
     <episode-num system="xmltv_ns">7.5.0</episode-num>
     <episode-num system="onscreen">S8E6</episode-num>
@@ -19232,8 +19242,8 @@
     <episode-num system="onscreen">S2025E2</episode-num>
   </programme>
   <programme channel="BBCRedButton1.uk" start="20260513220000 +0000" stop="20260513223000 +0000">
-    <title lang="en">Women's ODI Cricket: England v New Zealand - 2nd ODI</title>
-    <desc lang="en">Highlights of the second ODI between England and New Zealand in Northampton.</desc>
+    <title lang="en">International Women's Cricket:...</title>
+    <desc lang="en">...England v New Zealand - 2nd ODI . Highlights of the second ODI between England and New Zealand in Northampton.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9f47d48b-d52e-4d2e-a87f-3d722ee6cc04/cover"/>
   </programme>
   <programme channel="BBCRedButton1.uk" start="20260513223000 +0000" stop="20260513230000 +0000">
@@ -19273,7 +19283,7 @@
   </programme>
   <programme channel="BBCRedButton1.uk" start="20260514185800 +0000" stop="20260514211500 +0000">
     <title lang="en">Signed: Eurovision Song Contest 2026 - Second Semi-Final</title>
-    <desc lang="en">2/3. Signed coverage of the second semi-final of the 2026 Eurovision Song Contest in Vienna. Contains scenes of flashing images.</desc>
+    <desc lang="en">Signed coverage of the second semi-final of the 2026 Eurovision Song Contest in Vienna. Contains scenes of flashing images.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bacd655f-de8e-4ab1-9679-06731707d11f/cover"/>
   </programme>
   <programme channel="BBCRedButton1.uk" start="20260514211500 +0000" stop="20260514230000 +0000">
@@ -19385,7 +19395,7 @@
   </programme>
   <programme channel="BBCScotland.uk" start="20260513200000 +0000" stop="20260513210000 +0000">
     <title lang="en">Debate Night</title>
-    <desc lang="en">6/24. Current affairs discussion. Members of the public quiz a panel of politicians and public figures about the big issues in Scotland and beyond.</desc>
+    <desc lang="en">6/24. Topical debate from Haddington on the big issues affecting Scotland and beyond.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6227f74f-750f-4d26-8b26-7ffceec33773/cover"/>
     <episode-num system="xmltv_ns">7.5.0</episode-num>
     <episode-num system="onscreen">S8E6</episode-num>
@@ -27478,6 +27488,8 @@
     <title lang="en">Peppa Pig</title>
     <desc lang="en">At the gym, Madame Gazelle is teaching the children about martial arts. Along with Mr Bull, the children learn how to fall safely, balance and how to throw punches in the right stance!</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7564fafe-27c9-4a62-bc2b-356869d9a389/cover"/>
+    <episode-num system="xmltv_ns">7.20.0</episode-num>
+    <episode-num system="onscreen">S8E21</episode-num>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20260514074500 +0000" stop="20260514075500 +0000">
     <title lang="en">Tim Rex in Space</title>
@@ -29823,10 +29835,9 @@
     <episode-num system="onscreen">S16E10</episode-num>
   </programme>
   <programme channel="DMAXUK.uk" start="20260513200000 +0000" stop="20260513210000 +0000">
-    <title lang="en">New: Maine Cabin Masters</title>
-    <desc lang="en">Courts &amp; Cabins. This family's camp is cosy and complete on the inside, but the outside is a mess. The team faces multiple jobs, including a pickleball court build! S15, Ep13</desc>
+    <title lang="en">Maine Cabin Masters</title>
+    <desc lang="en">Damage To Lakeside Dream Cabin. The team faces a challenging cabin restoration after a massive tree damages a camp. They'll raise ceilings and move the kitchen for lake views. S15, Ep1</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b6941047-201d-426c-a103-1f0cc7ae2eeb/cover"/>
-    <premiere/>
     <episode-num system="xmltv_ns">11.6.0</episode-num>
     <episode-num system="onscreen">S12E7</episode-num>
   </programme>
@@ -30362,10 +30373,9 @@
     <episode-num system="onscreen">S16E10</episode-num>
   </programme>
   <programme channel="DMAXUKPlus1.uk" start="20260513210000 +0000" stop="20260513220000 +0000">
-    <title lang="en">New: Maine Cabin Masters</title>
-    <desc lang="en">Courts &amp; Cabins. This family's camp is cosy and complete on the inside, but the outside is a mess. The team faces multiple jobs, including a pickleball court build! S15, Ep13</desc>
+    <title lang="en">Maine Cabin Masters</title>
+    <desc lang="en">Damage To Lakeside Dream Cabin. The team faces a challenging cabin restoration after a massive tree damages a camp. They'll raise ceilings and move the kitchen for lake views. S15, Ep1</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b6941047-201d-426c-a103-1f0cc7ae2eeb/cover"/>
-    <premiere/>
     <episode-num system="xmltv_ns">11.6.0</episode-num>
     <episode-num system="onscreen">S12E7</episode-num>
   </programme>
@@ -48406,35 +48416,35 @@
     <desc lang="en">All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/11939fe7-d392-4c91-8f22-21a2d69cdfea/cover"/>
   </programme>
-  <programme channel="SkyNews.uk" start="20260513090000 +0000" stop="20260513093000 +0000">
+  <programme channel="SkyNews.uk" start="20260513090000 +0000" stop="20260513093001 +0000">
     <title lang="en">Sky News Today with Gareth Barlow</title>
     <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/887d69f6-f658-4784-96c6-f48749c7050d/cover"/>
   </programme>
-  <programme channel="SkyNews.uk" start="20260513093000 +0000" stop="20260513100000 +0000">
-    <title lang="en">Sky News Today with Gareth Barlow</title>
-    <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e9575cc7-6654-45bc-a877-b182f7d2d12e/cover"/>
+  <programme channel="SkyNews.uk" start="20260513093001 +0000" stop="20260513100001 +0000">
+    <title lang="en">King's Speech</title>
+    <desc lang="en">Sophy Ridge presents live coverage of the State Opening of Parliament and the King's Speech.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/92edb90d-404a-4e57-8f96-50a6fbc4e3c8/cover"/>
   </programme>
-  <programme channel="SkyNews.uk" start="20260513100000 +0000" stop="20260513103000 +0000">
-    <title lang="en">Sky News Today with Gareth Barlow</title>
-    <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d4bcce0d-419b-4eb6-a6e6-d9a294272fe5/cover"/>
+  <programme channel="SkyNews.uk" start="20260513100001 +0000" stop="20260513103001 +0000">
+    <title lang="en">King's Speech</title>
+    <desc lang="en">Sophy Ridge presents live coverage of the State Opening of Parliament and the King's Speech.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d0c7a676-8b73-473a-944c-81c45ee897fc/cover"/>
   </programme>
-  <programme channel="SkyNews.uk" start="20260513103000 +0000" stop="20260513110000 +0000">
-    <title lang="en">Sky News Today with Gareth Barlow</title>
-    <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/25257d2e-9629-4912-a235-0c59ae602ee2/cover"/>
+  <programme channel="SkyNews.uk" start="20260513103001 +0000" stop="20260513110001 +0000">
+    <title lang="en">King's Speech</title>
+    <desc lang="en">Sophy Ridge presents live coverage of the State Opening of Parliament and the King's Speech.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/2a1769b4-49fb-487e-8e51-288722bf5be1/cover"/>
   </programme>
-  <programme channel="SkyNews.uk" start="20260513110000 +0000" stop="20260513113000 +0000">
-    <title lang="en">Sky News Today with Jayne Secker</title>
-    <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/159230d3-f756-48a6-bac9-9de3ab91761c/cover"/>
+  <programme channel="SkyNews.uk" start="20260513110001 +0000" stop="20260513113001 +0000">
+    <title lang="en">King's Speech</title>
+    <desc lang="en">Sophy Ridge presents live coverage of the State Opening of Parliament and the King's Speech.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/db9e0733-3b50-4bf1-b255-222b0b944b2a/cover"/>
   </programme>
-  <programme channel="SkyNews.uk" start="20260513113000 +0000" stop="20260513120000 +0000">
-    <title lang="en">Sky News Today with Jayne Secker</title>
-    <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/06b9bff6-816a-443d-ba2e-290071738f10/cover"/>
+  <programme channel="SkyNews.uk" start="20260513113001 +0000" stop="20260513120000 +0000">
+    <title lang="en">King's Speech</title>
+    <desc lang="en">Sophy Ridge presents live coverage of the State Opening of Parliament and the King's Speech.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/48106746-5aa8-4921-b946-1eb739c27e89/cover"/>
   </programme>
   <programme channel="SkyNews.uk" start="20260513120000 +0000" stop="20260513123000 +0000">
     <title lang="en">Sky News Today with Jayne Secker</title>
