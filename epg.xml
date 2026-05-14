@@ -629,12 +629,12 @@
     <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2075abf1-781a-473a-8505-f5dd09a04585/cover"/>
   </programme>
-  <programme channel="sky.main.uk" start="20260516103000 +0000" stop="20260516140000 +0000">
+  <programme channel="sky.main.uk" start="20260516103000 +0000" stop="20260516143000 +0000">
     <title lang="en">Live SPFL: Celtic v Hearts</title>
     <desc lang="en">A final-day Scottish Premiership showdown between the reigning champions Celtic and title hopefuls Hearts.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f8a8c364-3b2e-4e55-aa7f-064096f33794/cover"/>
   </programme>
-  <programme channel="sky.main.uk" start="20260516140000 +0000" stop="20260516230000 +0000">
+  <programme channel="sky.main.uk" start="20260516143000 +0000" stop="20260516230000 +0000">
     <title lang="en">Live PGA Championship Round 3</title>
     <desc lang="en">The third round of the 2026 PGA Championship - the second men's Major of the year.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/da30ba72-2b5d-4769-bfc9-3912e545b80e/cover"/>
@@ -1096,6 +1096,8 @@
   <programme channel="sky.premier.uk" start="20260515214500 +0000" stop="20260515221500 +0000">
     <title lang="en">A Day In The Life: Dom Szoboszlai</title>
     <icon src="https://images.metadata.sky.com/pd-image/9374a761-3009-4ed8-b0b7-17eac705cccf/cover"/>
+    <episode-num system="xmltv_ns">2025.1.0</episode-num>
+    <episode-num system="onscreen">S2026E2</episode-num>
   </programme>
   <programme channel="sky.premier.uk" start="20260515221500 +0000" stop="20260515224500 +0000">
     <title lang="en">Mo Salah: When He Was King</title>
@@ -1207,9 +1209,10 @@
     <icon src="https://images.metadata.sky.com/pd-image/3b0399c1-61b3-42b7-9f7c-38aa4487c598/cover"/>
   </programme>
   <programme channel="sky.premier.uk" start="20260516090000 +0000" stop="20260516100000 +0000">
-    <title lang="en">Saturday Social - Live</title>
+    <title lang="en">New: Saturday Social - Live</title>
     <desc lang="en">A fresh take on the beautiful game. Hear about football's hot topics on social media and look at footballers' lives off the pitch, with YouTubers, influencers and more giving their take.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bf8cc02d-3d18-46c0-ad01-a9a9e58bfbed/cover"/>
+    <premiere/>
     <episode-num system="xmltv_ns">2024.41.0</episode-num>
     <episode-num system="onscreen">S2025E42</episode-num>
   </programme>
@@ -3189,7 +3192,7 @@
   </programme>
   <programme channel="sky.racing.uk" start="20260516083000 +0000" stop="20260516110000 +0000">
     <title lang="en">The Inside Line</title>
-    <desc lang="en">The Inside Line with Dave Orton.</desc>
+    <desc lang="en">Dave Orton is joined by Johnny Dineen, Tom Collins, Anthony Ennis and special guests to preview and give their tips for a bumper day at Newbury including the feature Lockinge Stakes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e225fcd0-5211-4fe5-8a91-1f0bb02d5a75/cover"/>
   </programme>
   <programme channel="sky.racing.uk" start="20260516110000 +0000" stop="20260516200000 +0000">
@@ -3708,15 +3711,15 @@
     <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit a match between India and Australia in 2016.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8521a8fa-8f80-4d00-95e0-ee7d9fbf8718/cover"/>
   </programme>
-  <programme channel="sky.cricket.uk" start="20260514104500 +0000" stop="20260514110000 +0000">
+  <programme channel="sky.cricket.uk" start="20260514104500 +0000" stop="20260514110001 +0000">
     <title lang="en">ICC Men's T20 WC: ENG v WI 2016</title>
     <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit England's infamous final with the West Indies in 2016.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/45b93f5f-888a-4a9f-a84f-1e68c4972b44/cover"/>
   </programme>
-  <programme channel="sky.cricket.uk" start="20260514110000 +0000" stop="20260514120000 +0000">
-    <title lang="en">Women's 2nd ODI: ENG v NZ Hlts</title>
-    <desc lang="en">Charlotte Edwards' England embark on the second ODI of their three-match series against New Zealand in Northampton. England clinched a nail-biting series-opening victory on Sunday. (13.05)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e574f6dc-ce45-48ff-8760-1d50f30f9428/cover"/>
+  <programme channel="sky.cricket.uk" start="20260514110001 +0000" stop="20260514120000 +0000">
+    <title lang="en">Women's 1st ODI: ENG v NZ Hlts</title>
+    <desc lang="en">A big summer of white-ball cricket begins for England's women as Charlotte Edwards' side get their World Cup preparations underway with a three-match ODI series against New Zealand. (10.05)</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/39eccefa-aa81-4c2c-8f8a-497d2db0747e/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20260514120000 +0000" stop="20260514125500 +0000">
     <title lang="en">IPL Gujarat.T v Sunrisers.H Hlts</title>
@@ -3756,7 +3759,7 @@
   <programme channel="sky.cricket.uk" start="20260514185959 +0000" stop="20260514195958 +0000">
     <title lang="en">Women's 1st ODI: ENG v NZ Hlts</title>
     <desc lang="en">A big summer of white-ball cricket begins for England's women as Charlotte Edwards' side get their World Cup preparations underway with a three-match ODI series against New Zealand. (10.05)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f6f2ef4d-3023-46bf-9fbe-a3670c873513/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/39eccefa-aa81-4c2c-8f8a-497d2db0747e/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20260514200000 +0000" stop="20260514210001 +0000">
     <title lang="en">IPL Punjab.K v Mumbai.I Highlights</title>
@@ -3766,7 +3769,7 @@
   <programme channel="sky.cricket.uk" start="20260514205959 +0000" stop="20260514215958 +0000">
     <title lang="en">IPL RCB v Kolkata.KR Highlights</title>
     <desc lang="en">Simultaneously ending Mumbai and Lucknow's play-off hopes with victory on Sunday, reigning IPL champions Royal Challengers Bengaluru take on the Kolkata Knight Riders in Raipur. (13.05)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0a1d8494-8960-4241-81b1-b8bae85a0746/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/bfc57642-db1a-40ed-ba11-028eb070a835/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20260514220000 +0000" stop="20260514230000 +0000">
     <title lang="en">IPL Punjab.K v Mumbai.I Highlights</title>
@@ -3839,9 +3842,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/45b93f5f-888a-4a9f-a84f-1e68c4972b44/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20260515110000 +0000" stop="20260515120000 +0000">
-    <title lang="en">Women's 2nd ODI: ENG v NZ Hlts</title>
-    <desc lang="en">Charlotte Edwards' England embark on the second ODI of their three-match series against New Zealand in Northampton. England clinched a nail-biting series-opening victory on Sunday. (13.05)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e574f6dc-ce45-48ff-8760-1d50f30f9428/cover"/>
+    <title lang="en">Women's 1st ODI: ENG v NZ Hlts</title>
+    <desc lang="en">A big summer of white-ball cricket begins for England's women as Charlotte Edwards' side get their World Cup preparations underway with a three-match ODI series against New Zealand. (10.05)</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/39eccefa-aa81-4c2c-8f8a-497d2db0747e/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20260515120000 +0000" stop="20260515125500 +0000">
     <title lang="en">The Greatest Moments</title>
@@ -3889,9 +3892,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/1db04b49-3791-43be-b2af-d5c0ae63f721/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20260515210000 +0000" stop="20260515220000 +0000">
-    <title lang="en">Women's 2nd ODI: ENG v NZ Hlts</title>
-    <desc lang="en">Charlotte Edwards' England embark on the second ODI of their three-match series against New Zealand in Northampton. England clinched a nail-biting series-opening victory on Sunday. (13.05)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e574f6dc-ce45-48ff-8760-1d50f30f9428/cover"/>
+    <title lang="en">Women's 1st ODI: ENG v NZ Hlts</title>
+    <desc lang="en">A big summer of white-ball cricket begins for England's women as Charlotte Edwards' side get their World Cup preparations underway with a three-match ODI series against New Zealand. (10.05)</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/39eccefa-aa81-4c2c-8f8a-497d2db0747e/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20260515220000 +0000" stop="20260515230000 +0000">
     <title lang="en">IPL Lucknow.SG v Chennai.SK Hlts</title>
@@ -3954,14 +3957,14 @@
     <icon src="https://images.metadata.sky.com/pd-image/ed5d39ba-ea5a-4072-a674-c104eddfdbf8/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20260516073000 +0000" stop="20260516083000 +0000">
+    <title lang="en">IPL RCB v Kolkata.KR Highlights</title>
+    <desc lang="en">Simultaneously ending Mumbai and Lucknow's play-off hopes with victory on Sunday, reigning IPL champions Royal Challengers Bengaluru take on the Kolkata Knight Riders in Raipur. (13.05)</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/bfc57642-db1a-40ed-ba11-028eb070a835/cover"/>
+  </programme>
+  <programme channel="sky.cricket.uk" start="20260516083000 +0000" stop="20260516093000 +0000">
     <title lang="en">Women's 1st ODI: ENG v NZ Hlts</title>
     <desc lang="en">A big summer of white-ball cricket begins for England's women as Charlotte Edwards' side get their World Cup preparations underway with a three-match ODI series against New Zealand. (10.05)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/39eccefa-aa81-4c2c-8f8a-497d2db0747e/cover"/>
-  </programme>
-  <programme channel="sky.cricket.uk" start="20260516083000 +0000" stop="20260516093000 +0000">
-    <title lang="en">Women's 2nd ODI: ENG v NZ Hlts</title>
-    <desc lang="en">Charlotte Edwards' England embark on the second ODI of their three-match series against New Zealand in Northampton. England clinched a nail-biting series-opening victory on Sunday. (13.05)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e574f6dc-ce45-48ff-8760-1d50f30f9428/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20260516093000 +0000" stop="20260516173000 +0000">
     <title lang="en">Live Women's 3rd ODI: ENG v NZ</title>
@@ -3994,9 +3997,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/ed5d39ba-ea5a-4072-a674-c104eddfdbf8/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20260516190000 +0000" stop="20260516200000 +0000">
-    <title lang="en">Women's 2nd ODI: ENG v NZ Hlts</title>
-    <desc lang="en">Charlotte Edwards' England embark on the second ODI of their three-match series against New Zealand in Northampton. England clinched a nail-biting series-opening victory on Sunday. (13.05)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e574f6dc-ce45-48ff-8760-1d50f30f9428/cover"/>
+    <title lang="en">Women's 1st ODI: ENG v NZ Hlts</title>
+    <desc lang="en">A big summer of white-ball cricket begins for England's women as Charlotte Edwards' side get their World Cup preparations underway with a three-match ODI series against New Zealand. (10.05)</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/39eccefa-aa81-4c2c-8f8a-497d2db0747e/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20260516200000 +0000" stop="20260516210000 +0000">
     <title lang="en">Women's 3rd ODI: ENG v NZ Hlts</title>
@@ -4095,7 +4098,7 @@
   </programme>
   <programme channel="tnt1" start="20260514100000 +0000" stop="20260514103000 +0000">
     <title lang="en">The Breakdown: FA Cup Final</title>
-    <desc lang="en">Darren Fletcher and guests look ahead to the FA Cup Final this weekend between Manchester City and Chelsea.</desc>
+    <desc lang="en">Darren Fletcher sits down with Joleon Lescott, Martin Keown, Glenn Hoddle, and Joe Hart to look ahead to the FA Cup final this weekend between Manchester City and Chelsea.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e7df5e5d-ece7-4bdc-89c6-10e5edd557f3/cover"/>
   </programme>
   <programme channel="tnt1" start="20260514103000 +0000" stop="20260514113000 +0000">
@@ -4110,7 +4113,7 @@
   </programme>
   <programme channel="tnt1" start="20260514160000 +0000" stop="20260514163000 +0000">
     <title lang="en">The Breakdown: FA Cup Final</title>
-    <desc lang="en">Darren Fletcher and guests look ahead to the FA Cup Final this weekend between Manchester City and Chelsea.</desc>
+    <desc lang="en">Darren Fletcher sits down with Joleon Lescott, Martin Keown, Glenn Hoddle, and Joe Hart to look ahead to the FA Cup final this weekend between Manchester City and Chelsea.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e7df5e5d-ece7-4bdc-89c6-10e5edd557f3/cover"/>
   </programme>
   <programme channel="tnt1" start="20260514163000 +0000" stop="20260514170000 +0000">
@@ -4208,7 +4211,7 @@
   </programme>
   <programme channel="tnt1" start="20260515063000 +0000" stop="20260515070000 +0000">
     <title lang="en">The Breakdown: FA Cup Final</title>
-    <desc lang="en">Darren Fletcher and guests look ahead to the FA Cup Final this weekend between Manchester City and Chelsea.</desc>
+    <desc lang="en">Darren Fletcher sits down with Joleon Lescott, Martin Keown, Glenn Hoddle, and Joe Hart to look ahead to the FA Cup final this weekend between Manchester City and Chelsea.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e7df5e5d-ece7-4bdc-89c6-10e5edd557f3/cover"/>
   </programme>
   <programme channel="tnt1" start="20260515070000 +0000" stop="20260515073000 +0000">
@@ -4285,7 +4288,7 @@
   </programme>
   <programme channel="tnt1" start="20260515213000 +0000" stop="20260515220000 +0000">
     <title lang="en">The Breakdown: FA Cup Final</title>
-    <desc lang="en">Darren Fletcher and guests look ahead to the FA Cup Final this weekend between Manchester City and Chelsea.</desc>
+    <desc lang="en">Darren Fletcher sits down with Joleon Lescott, Martin Keown, Glenn Hoddle, and Joe Hart to look ahead to the FA Cup final this weekend between Manchester City and Chelsea.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e7df5e5d-ece7-4bdc-89c6-10e5edd557f3/cover"/>
   </programme>
   <programme channel="tnt1" start="20260515220000 +0000" stop="20260515223000 +0000">
@@ -4354,7 +4357,7 @@
   </programme>
   <programme channel="tnt1" start="20260516070000 +0000" stop="20260516073000 +0000">
     <title lang="en">The Breakdown: FA Cup Final</title>
-    <desc lang="en">Darren Fletcher and guests look ahead to the FA Cup Final this weekend between Manchester City and Chelsea.</desc>
+    <desc lang="en">Darren Fletcher sits down with Joleon Lescott, Martin Keown, Glenn Hoddle, and Joe Hart to look ahead to the FA Cup final this weekend between Manchester City and Chelsea.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e7df5e5d-ece7-4bdc-89c6-10e5edd557f3/cover"/>
   </programme>
   <programme channel="tnt1" start="20260516073000 +0000" stop="20260516080000 +0000">
@@ -4703,7 +4706,7 @@
   </programme>
   <programme channel="tnt2" start="20260515233000 +0000" stop="20260516000000 +0000">
     <title lang="en">The Breakdown: FA Cup Final</title>
-    <desc lang="en">Darren Fletcher and guests look ahead to the FA Cup Final this weekend between Manchester City and Chelsea.</desc>
+    <desc lang="en">Darren Fletcher sits down with Joleon Lescott, Martin Keown, Glenn Hoddle, and Joe Hart to look ahead to the FA Cup final this weekend between Manchester City and Chelsea.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e7df5e5d-ece7-4bdc-89c6-10e5edd557f3/cover"/>
   </programme>
   <programme channel="tnt2" start="20260516000000 +0000" stop="20260516010000 +0000">
@@ -4756,7 +4759,7 @@
   <programme channel="tnt2" start="20260516063000 +0000" stop="20260516080000 +0000">
     <title lang="en">Live Moto2/3: Cataluyna FP2</title>
     <desc lang="en">Action from the second practice session ahead of the 2026 Moto2 and Moto3 Grand Prix of Catalunya at Circuit de Barcelona-Catalunya.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d58533d1-e595-4978-ae5c-08ceda61e21d/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/6f6ebd1a-97b3-4581-9420-6783268dccdb/cover"/>
   </programme>
   <programme channel="tnt2" start="20260516080000 +0000" stop="20260516104500 +0000">
     <title lang="en">Live MotoGP: Catalunya Qualifying</title>
@@ -4817,7 +4820,9 @@
   <programme channel="tnt2" start="20260516220000 +0000" stop="20260516230000 +0000">
     <title lang="en">MLB Highlights</title>
     <desc lang="en">Highlights from Major League Baseball including, New York Yankees facing off against New York Mets, and Los Angeles Dodgers up against Los Angeles Angels. (15.05)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b1bac11c-8ffa-4d96-9f0c-f5333119550a/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/b860008a-9694-4890-8d2b-b5461fed37e4/cover"/>
+    <episode-num system="xmltv_ns">2025.50.0</episode-num>
+    <episode-num system="onscreen">S2026E51</episode-num>
   </programme>
   <programme channel="tnt3" start="20260513210000 +0000" stop="20260513220000 +0000">
     <title lang="en">Cycling: Baku-Khankendi - Stage 4</title>
@@ -4911,7 +4916,7 @@
   </programme>
   <programme channel="tnt3" start="20260514083000 +0000" stop="20260514090000 +0000">
     <title lang="en">The Breakdown: FA Cup Final</title>
-    <desc lang="en">Darren Fletcher and guests look ahead to the FA Cup Final this weekend between Manchester City and Chelsea.</desc>
+    <desc lang="en">Darren Fletcher sits down with Joleon Lescott, Martin Keown, Glenn Hoddle, and Joe Hart to look ahead to the FA Cup final this weekend between Manchester City and Chelsea.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e7df5e5d-ece7-4bdc-89c6-10e5edd557f3/cover"/>
   </programme>
   <programme channel="tnt3" start="20260514090000 +0000" stop="20260514093000 +0000">
@@ -5126,7 +5131,7 @@
     <icon src="https://images.metadata.sky.com/pd-image/ff56799c-ac33-4236-b25e-2ea291e85b9d/cover"/>
   </programme>
   <programme channel="tnt3" start="20260516060000 +0000" stop="20260516090000 +0000">
-    <title lang="en">Live MLB: Melbourne v Hawthorn</title>
+    <title lang="en">Live AFL: Melbourne v Hawthorn</title>
     <desc lang="en">Action from the Australian Football League clash between Melbourne and Hawthorn at the MCG. The Hawks were 92-56 winners when these sides last met.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4cf9a516-f425-450e-83f2-ca8598102a77/cover"/>
   </programme>
@@ -5163,7 +5168,7 @@
     <icon src="https://images.metadata.sky.com/pd-image/8d7fdc81-57f4-4653-87ec-6cbd56b0ea6e/cover"/>
   </programme>
   <programme channel="tnt3" start="20260516213000 +0000" stop="20260516230000 +0000">
-    <title lang="en">MLB: Melbourne v Hawthorn</title>
+    <title lang="en">AFL: Melbourne v Hawthorn</title>
     <desc lang="en">Action from the Australian Football League clash between Melbourne and Hawthorn at the MCG. The Hawks were 92-56 winners when these sides last met.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/938ee858-7b76-4d57-93b8-80c756a421f3/cover"/>
   </programme>
@@ -5468,7 +5473,7 @@
   <programme channel="tnt4" start="20260516060000 +0000" stop="20260516083000 +0000">
     <title lang="en">Live: Ninja A-League Grand Final</title>
     <desc lang="en">Action from the 2026 Ninja A-League Women Grand Final between four-time winners Melbourne City and first-time finalists Wellington Phoenix at AAMI Park.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f4b3d7b2-a4e0-442a-b491-85d8da92833f/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/7ba458bf-9f54-4897-ab16-9a321a72ff4b/cover"/>
   </programme>
   <programme channel="tnt4" start="20260516083000 +0000" stop="20260516084500 +0000">
     <title lang="en">World Superbike Rewind</title>
@@ -8412,7 +8417,9 @@
   <programme channel="5USA.uk" start="20260515130000 +0000" stop="20260515140000 +0000">
     <title lang="en">Law &amp; Order: Deadly Fraud</title>
     <desc lang="en">US crime drama series. Lupo and Bernard investigate the murder of a trucking company owner with ties to the Russian mob.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3b711844-dd1c-4886-bf17-cb1ffd7b8951/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/fc77124c-650e-4ccd-8241-c668a510cfb2/cover"/>
+    <episode-num system="xmltv_ns">18.10.0</episode-num>
+    <episode-num system="onscreen">S19E11</episode-num>
   </programme>
   <programme channel="5USA.uk" start="20260515140000 +0000" stop="20260515150000 +0000">
     <title lang="en">Law &amp; Order</title>
@@ -8914,7 +8921,9 @@
   <programme channel="5USAPlus1.uk" start="20260515140000 +0000" stop="20260515150000 +0000">
     <title lang="en">Law &amp; Order: Deadly Fraud</title>
     <desc lang="en">US crime drama series. Lupo and Bernard investigate the murder of a trucking company owner with ties to the Russian mob.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3b711844-dd1c-4886-bf17-cb1ffd7b8951/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/fc77124c-650e-4ccd-8241-c668a510cfb2/cover"/>
+    <episode-num system="xmltv_ns">18.10.0</episode-num>
+    <episode-num system="onscreen">S19E11</episode-num>
   </programme>
   <programme channel="5USAPlus1.uk" start="20260515150000 +0000" stop="20260515160000 +0000">
     <title lang="en">Law &amp; Order</title>
@@ -14078,7 +14087,7 @@
   <programme channel="BBCOneScotHD.uk" start="20260513214000 +0000" stop="20260513224000 +0000">
     <title lang="en">Sportscene: Premiership Highlights</title>
     <desc lang="en">Action and reaction to the evening's Premiership matches as Hearts face Falkirk, Celtic travel to Motherwell and Rangers host Hibernian.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b7f43639-f171-4910-a20d-5c388188446b/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/36aef9a5-2031-4bdd-a84e-a54cf3b831c7/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260513224000 +0000" stop="20260513234000 +0000">
     <title lang="en">Debate Night</title>
@@ -25246,7 +25255,7 @@
   </programme>
   <programme channel="Channel4.uk" start="20260516190000 +0000" stop="20260516200000 +0000">
     <title lang="en">New: World's Most Secret Hotels</title>
-    <desc lang="en">We visit a South African nature reserve, converted classic railway carriages in Kent, a hotel in a crane in Hamburg, submarine accommodation in Scotland and a Utah retro retreat.</desc>
+    <desc lang="en">This time, a South African nature reserve, converted classic rail carriages in West Sussex, a hotel in Hamburg, submarine accommodation in Scotland and a Utah retro retreat.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a288e87f-feda-4cea-842e-f989346b68ac/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">1.4.0</episode-num>
@@ -25943,7 +25952,7 @@
   </programme>
   <programme channel="Channel4Plus1.uk" start="20260516200000 +0000" stop="20260516210000 +0000">
     <title lang="en">New: World's Most Secret Hotels</title>
-    <desc lang="en">We visit a South African nature reserve, converted classic railway carriages in Kent, a hotel in a crane in Hamburg, submarine accommodation in Scotland and a Utah retro retreat.</desc>
+    <desc lang="en">This time, a South African nature reserve, converted classic rail carriages in West Sussex, a hotel in Hamburg, submarine accommodation in Scotland and a Utah retro retreat.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a288e87f-feda-4cea-842e-f989346b68ac/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">1.4.0</episode-num>
@@ -30775,9 +30784,9 @@
   <programme channel="E4.uk" start="20260514001000 +0000" stop="20260514011500 +0000">
     <title lang="en">Married at First Sight Australia</title>
     <desc lang="en">Brand new series: The dust is settling on three life-changing months. But not before the experts seek clarity on the burning issues one more time.  - Part 1/2)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d358904e-8c5a-45c4-91b5-c12e257232aa/cover"/>
-    <episode-num system="xmltv_ns">5.39.0</episode-num>
-    <episode-num system="onscreen">S6E40</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/af9def48-92e3-4689-80b8-bb5caa4ced17/cover"/>
+    <episode-num system="xmltv_ns">12.38.0</episode-num>
+    <episode-num system="onscreen">S13E39</episode-num>
   </programme>
   <programme channel="E4.uk" start="20260514011500 +0000" stop="20260514021000 +0000">
     <title lang="en">Celebs Go Dating</title>
@@ -30871,9 +30880,9 @@
   <programme channel="E4.uk" start="20260514090000 +0000" stop="20260514100500 +0000">
     <title lang="en">Married at First Sight Australia</title>
     <desc lang="en">Brand new series: The dust is settling on three life-changing months. But not before the experts seek clarity on the burning issues one more time.  - Part 1/2)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d358904e-8c5a-45c4-91b5-c12e257232aa/cover"/>
-    <episode-num system="xmltv_ns">5.39.0</episode-num>
-    <episode-num system="onscreen">S6E40</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/af9def48-92e3-4689-80b8-bb5caa4ced17/cover"/>
+    <episode-num system="xmltv_ns">12.38.0</episode-num>
+    <episode-num system="onscreen">S13E39</episode-num>
   </programme>
   <programme channel="E4.uk" start="20260514100500 +0000" stop="20260514110500 +0000">
     <title lang="en">First Dates: Be My Valentine</title>
@@ -30934,9 +30943,9 @@
   <programme channel="E4.uk" start="20260514145500 +0000" stop="20260514160000 +0000">
     <title lang="en">Married at First Sight Australia</title>
     <desc lang="en">Brand new series: The dust is settling on three life-changing months. But not before the experts seek clarity on the burning issues one more time.  - Part 1/2)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d358904e-8c5a-45c4-91b5-c12e257232aa/cover"/>
-    <episode-num system="xmltv_ns">5.39.0</episode-num>
-    <episode-num system="onscreen">S6E40</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/af9def48-92e3-4689-80b8-bb5caa4ced17/cover"/>
+    <episode-num system="xmltv_ns">12.38.0</episode-num>
+    <episode-num system="onscreen">S13E39</episode-num>
   </programme>
   <programme channel="E4.uk" start="20260514160000 +0000" stop="20260514170000 +0000">
     <title lang="en">First Dates: Be My Valentine</title>
@@ -31919,9 +31928,9 @@
   <programme channel="E4Plus1.uk" start="20260514011000 +0000" stop="20260514021500 +0000">
     <title lang="en">Married at First Sight Australia</title>
     <desc lang="en">Brand new series: The dust is settling on three life-changing months. But not before the experts seek clarity on the burning issues one more time.  - Part 1/2)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d358904e-8c5a-45c4-91b5-c12e257232aa/cover"/>
-    <episode-num system="xmltv_ns">5.39.0</episode-num>
-    <episode-num system="onscreen">S6E40</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/af9def48-92e3-4689-80b8-bb5caa4ced17/cover"/>
+    <episode-num system="xmltv_ns">12.38.0</episode-num>
+    <episode-num system="onscreen">S13E39</episode-num>
   </programme>
   <programme channel="E4Plus1.uk" start="20260514021500 +0000" stop="20260514031000 +0000">
     <title lang="en">Celebs Go Dating</title>
@@ -32015,9 +32024,9 @@
   <programme channel="E4Plus1.uk" start="20260514100000 +0000" stop="20260514110500 +0000">
     <title lang="en">Married at First Sight Australia</title>
     <desc lang="en">Brand new series: The dust is settling on three life-changing months. But not before the experts seek clarity on the burning issues one more time.  - Part 1/2)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d358904e-8c5a-45c4-91b5-c12e257232aa/cover"/>
-    <episode-num system="xmltv_ns">5.39.0</episode-num>
-    <episode-num system="onscreen">S6E40</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/af9def48-92e3-4689-80b8-bb5caa4ced17/cover"/>
+    <episode-num system="xmltv_ns">12.38.0</episode-num>
+    <episode-num system="onscreen">S13E39</episode-num>
   </programme>
   <programme channel="E4Plus1.uk" start="20260514110500 +0000" stop="20260514120500 +0000">
     <title lang="en">First Dates: Be My Valentine</title>
@@ -32078,9 +32087,9 @@
   <programme channel="E4Plus1.uk" start="20260514155500 +0000" stop="20260514170000 +0000">
     <title lang="en">Married at First Sight Australia</title>
     <desc lang="en">Brand new series: The dust is settling on three life-changing months. But not before the experts seek clarity on the burning issues one more time.  - Part 1/2)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d358904e-8c5a-45c4-91b5-c12e257232aa/cover"/>
-    <episode-num system="xmltv_ns">5.39.0</episode-num>
-    <episode-num system="onscreen">S6E40</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/af9def48-92e3-4689-80b8-bb5caa4ced17/cover"/>
+    <episode-num system="xmltv_ns">12.38.0</episode-num>
+    <episode-num system="onscreen">S13E39</episode-num>
   </programme>
   <programme channel="E4Plus1.uk" start="20260514170000 +0000" stop="20260514180000 +0000">
     <title lang="en">First Dates: Be My Valentine</title>
@@ -39881,16 +39890,10 @@
     <desc lang="en">A round-up of all the latest news and weather from across Wales.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/351520f5-cd66-4872-a3a7-0b3526aa65b6/cover"/>
   </programme>
-  <programme channel="ITV1Wales.uk" start="20260515173000 +0000" stop="20260515180000 +0000">
+  <programme channel="ITV1Wales.uk" start="20260515173000 +0000" stop="20260515183000 +0000">
     <title lang="en">ITV Evening News</title>
     <desc lang="en">National and international news with reports and analysis from ITV's Correspondents in the UK and around the world, plus a focus on the stories that matter to you.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7d5df5d2-1b70-4122-a538-8ce5dd9cd315/cover"/>
-  </programme>
-  <programme channel="ITV1Wales.uk" start="20260515180000 +0000" stop="20260515183000 +0000">
-    <title lang="en">New: Wales This Week</title>
-    <desc lang="en">In a fast-changing and complicated world, this award-winning current affairs programme focuses on discussing and investigating stories and issues important to Wales and the Welsh.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f6000571-c5f7-49c4-a0c0-ef842f66fe12/cover"/>
-    <premiere/>
   </programme>
   <programme channel="ITV1Wales.uk" start="20260515183000 +0000" stop="20260515190000 +0000">
     <title lang="en">New: Bradley and Barney Walsh: Breaking Dad</title>

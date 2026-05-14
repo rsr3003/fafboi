@@ -488,7 +488,7 @@
       "title": "Live SPFL: Celtic v Hearts",
       "description": "A final-day Scottish Premiership showdown between the reigning champions Celtic and title hopefuls Hearts.",
       "start": 1778927400,
-      "stop": 1778940000,
+      "stop": 1778941800,
       "icon": "https://images.metadata.sky.com/pd-image/f8a8c364-3b2e-4e55-aa7f-064096f33794/cover",
       "channel": "sky.main.uk",
       "premiere": false,
@@ -498,7 +498,7 @@
     {
       "title": "Live PGA Championship Round 3",
       "description": "The third round of the 2026 PGA Championship - the second men's Major of the year.",
-      "start": 1778940000,
+      "start": 1778941800,
       "stop": 1778972400,
       "icon": "https://images.metadata.sky.com/pd-image/da30ba72-2b5d-4769-bfc9-3912e545b80e/cover",
       "channel": "sky.main.uk",
@@ -1374,8 +1374,8 @@
       "icon": "https://images.metadata.sky.com/pd-image/9374a761-3009-4ed8-b0b7-17eac705cccf/cover",
       "channel": "sky.premier.uk",
       "premiere": false,
-      "season": null,
-      "episode": 1.0
+      "season": 2026.0,
+      "episode": 2.0
     },
     {
       "title": "Mo Salah: When He Was King",
@@ -1609,13 +1609,13 @@
       "episode": 12.0
     },
     {
-      "title": "Saturday Social - Live",
+      "title": "New: Saturday Social - Live",
       "description": "A fresh take on the beautiful game. Hear about football's hot topics on social media and look at footballers' lives off the pitch, with YouTubers, influencers and more giving their take.",
       "start": 1778922000,
       "stop": 1778925600,
       "icon": "https://images.metadata.sky.com/pd-image/bf8cc02d-3d18-46c0-ad01-a9a9e58bfbed/cover",
       "channel": "sky.premier.uk",
-      "premiere": false,
+      "premiere": true,
       "season": 2025.0,
       "episode": 42.0
     },
@@ -5844,7 +5844,7 @@
     },
     {
       "title": "The Inside Line",
-      "description": "The Inside Line with Dave Orton.",
+      "description": "Dave Orton is joined by Johnny Dineen, Tom Collins, Anthony Ennis and special guests to preview and give their tips for a bumper day at Newbury including the feature Lockinge Stakes.",
       "start": 1778920200,
       "stop": 1778929200,
       "icon": "https://images.metadata.sky.com/pd-image/e225fcd0-5211-4fe5-8a91-1f0bb02d5a75/cover",
@@ -6961,7 +6961,7 @@
       "title": "ICC Men's T20 WC: ENG v WI 2016",
       "description": "Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit England's infamous final with the West Indies in 2016.",
       "start": 1778755500,
-      "stop": 1778756400,
+      "stop": 1778756401,
       "icon": "https://images.metadata.sky.com/pd-image/45b93f5f-888a-4a9f-a84f-1e68c4972b44/cover",
       "channel": "sky.cricket.uk",
       "premiere": false,
@@ -6969,15 +6969,15 @@
       "episode": 0.0
     },
     {
-      "title": "Women's 2nd ODI: ENG v NZ Hlts",
-      "description": "Charlotte Edwards' England embark on the second ODI of their three-match series against New Zealand in Northampton. England clinched a nail-biting series-opening victory on Sunday. (13.05)",
-      "start": 1778756400,
+      "title": "Women's 1st ODI: ENG v NZ Hlts",
+      "description": "A big summer of white-ball cricket begins for England's women as Charlotte Edwards' side get their World Cup preparations underway with a three-match ODI series against New Zealand. (10.05)",
+      "start": 1778756401,
       "stop": 1778760000,
-      "icon": "https://images.metadata.sky.com/pd-image/e574f6dc-ce45-48ff-8760-1d50f30f9428/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/39eccefa-aa81-4c2c-8f8a-497d2db0747e/cover",
       "channel": "sky.cricket.uk",
       "premiere": false,
       "season": null,
-      "episode": 2.0
+      "episode": 1.0
     },
     {
       "title": "IPL Gujarat.T v Sunrisers.H Hlts",
@@ -7061,11 +7061,11 @@
       "description": "A big summer of white-ball cricket begins for England's women as Charlotte Edwards' side get their World Cup preparations underway with a three-match ODI series against New Zealand. (10.05)",
       "start": 1778785199,
       "stop": 1778788798,
-      "icon": "https://images.metadata.sky.com/pd-image/f6f2ef4d-3023-46bf-9fbe-a3670c873513/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/39eccefa-aa81-4c2c-8f8a-497d2db0747e/cover",
       "channel": "sky.cricket.uk",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 1.0
     },
     {
       "title": "IPL Punjab.K v Mumbai.I Highlights",
@@ -7083,11 +7083,11 @@
       "description": "Simultaneously ending Mumbai and Lucknow's play-off hopes with victory on Sunday, reigning IPL champions Royal Challengers Bengaluru take on the Kolkata Knight Riders in Raipur. (13.05)",
       "start": 1778792399,
       "stop": 1778795998,
-      "icon": "https://images.metadata.sky.com/pd-image/0a1d8494-8960-4241-81b1-b8bae85a0746/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/bfc57642-db1a-40ed-ba11-028eb070a835/cover",
       "channel": "sky.cricket.uk",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 58.0
     },
     {
       "title": "IPL Punjab.K v Mumbai.I Highlights",
@@ -7244,15 +7244,15 @@
       "episode": 0.0
     },
     {
-      "title": "Women's 2nd ODI: ENG v NZ Hlts",
-      "description": "Charlotte Edwards' England embark on the second ODI of their three-match series against New Zealand in Northampton. England clinched a nail-biting series-opening victory on Sunday. (13.05)",
+      "title": "Women's 1st ODI: ENG v NZ Hlts",
+      "description": "A big summer of white-ball cricket begins for England's women as Charlotte Edwards' side get their World Cup preparations underway with a three-match ODI series against New Zealand. (10.05)",
       "start": 1778842800,
       "stop": 1778846400,
-      "icon": "https://images.metadata.sky.com/pd-image/e574f6dc-ce45-48ff-8760-1d50f30f9428/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/39eccefa-aa81-4c2c-8f8a-497d2db0747e/cover",
       "channel": "sky.cricket.uk",
       "premiere": false,
       "season": null,
-      "episode": 2.0
+      "episode": 1.0
     },
     {
       "title": "The Greatest Moments",
@@ -7354,15 +7354,15 @@
       "episode": 60.0
     },
     {
-      "title": "Women's 2nd ODI: ENG v NZ Hlts",
-      "description": "Charlotte Edwards' England embark on the second ODI of their three-match series against New Zealand in Northampton. England clinched a nail-biting series-opening victory on Sunday. (13.05)",
+      "title": "Women's 1st ODI: ENG v NZ Hlts",
+      "description": "A big summer of white-ball cricket begins for England's women as Charlotte Edwards' side get their World Cup preparations underway with a three-match ODI series against New Zealand. (10.05)",
       "start": 1778878800,
       "stop": 1778882400,
-      "icon": "https://images.metadata.sky.com/pd-image/e574f6dc-ce45-48ff-8760-1d50f30f9428/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/39eccefa-aa81-4c2c-8f8a-497d2db0747e/cover",
       "channel": "sky.cricket.uk",
       "premiere": false,
       "season": null,
-      "episode": 2.0
+      "episode": 1.0
     },
     {
       "title": "IPL Lucknow.SG v Chennai.SK Hlts",
@@ -7497,26 +7497,26 @@
       "episode": 5.0
     },
     {
-      "title": "Women's 1st ODI: ENG v NZ Hlts",
-      "description": "A big summer of white-ball cricket begins for England's women as Charlotte Edwards' side get their World Cup preparations underway with a three-match ODI series against New Zealand. (10.05)",
+      "title": "IPL RCB v Kolkata.KR Highlights",
+      "description": "Simultaneously ending Mumbai and Lucknow's play-off hopes with victory on Sunday, reigning IPL champions Royal Challengers Bengaluru take on the Kolkata Knight Riders in Raipur. (13.05)",
       "start": 1778916600,
       "stop": 1778920200,
+      "icon": "https://images.metadata.sky.com/pd-image/bfc57642-db1a-40ed-ba11-028eb070a835/cover",
+      "channel": "sky.cricket.uk",
+      "premiere": false,
+      "season": null,
+      "episode": 58.0
+    },
+    {
+      "title": "Women's 1st ODI: ENG v NZ Hlts",
+      "description": "A big summer of white-ball cricket begins for England's women as Charlotte Edwards' side get their World Cup preparations underway with a three-match ODI series against New Zealand. (10.05)",
+      "start": 1778920200,
+      "stop": 1778923800,
       "icon": "https://images.metadata.sky.com/pd-image/39eccefa-aa81-4c2c-8f8a-497d2db0747e/cover",
       "channel": "sky.cricket.uk",
       "premiere": false,
       "season": null,
       "episode": 1.0
-    },
-    {
-      "title": "Women's 2nd ODI: ENG v NZ Hlts",
-      "description": "Charlotte Edwards' England embark on the second ODI of their three-match series against New Zealand in Northampton. England clinched a nail-biting series-opening victory on Sunday. (13.05)",
-      "start": 1778920200,
-      "stop": 1778923800,
-      "icon": "https://images.metadata.sky.com/pd-image/e574f6dc-ce45-48ff-8760-1d50f30f9428/cover",
-      "channel": "sky.cricket.uk",
-      "premiere": false,
-      "season": null,
-      "episode": 2.0
     },
     {
       "title": "Live Women's 3rd ODI: ENG v NZ",
@@ -7585,15 +7585,15 @@
       "episode": 5.0
     },
     {
-      "title": "Women's 2nd ODI: ENG v NZ Hlts",
-      "description": "Charlotte Edwards' England embark on the second ODI of their three-match series against New Zealand in Northampton. England clinched a nail-biting series-opening victory on Sunday. (13.05)",
+      "title": "Women's 1st ODI: ENG v NZ Hlts",
+      "description": "A big summer of white-ball cricket begins for England's women as Charlotte Edwards' side get their World Cup preparations underway with a three-match ODI series against New Zealand. (10.05)",
       "start": 1778958000,
       "stop": 1778961600,
-      "icon": "https://images.metadata.sky.com/pd-image/e574f6dc-ce45-48ff-8760-1d50f30f9428/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/39eccefa-aa81-4c2c-8f8a-497d2db0747e/cover",
       "channel": "sky.cricket.uk",
       "premiere": false,
       "season": null,
-      "episode": 2.0
+      "episode": 1.0
     },
     {
       "title": "Women's 3rd ODI: ENG v NZ Hlts",
@@ -7786,7 +7786,7 @@
     },
     {
       "title": "The Breakdown: FA Cup Final",
-      "description": "Darren Fletcher and guests look ahead to the FA Cup Final this weekend between Manchester City and Chelsea.",
+      "description": "Darren Fletcher sits down with Joleon Lescott, Martin Keown, Glenn Hoddle, and Joe Hart to look ahead to the FA Cup final this weekend between Manchester City and Chelsea.",
       "start": 1778752800,
       "stop": 1778754600,
       "icon": "https://images.metadata.sky.com/pd-image/e7df5e5d-ece7-4bdc-89c6-10e5edd557f3/cover",
@@ -7819,7 +7819,7 @@
     },
     {
       "title": "The Breakdown: FA Cup Final",
-      "description": "Darren Fletcher and guests look ahead to the FA Cup Final this weekend between Manchester City and Chelsea.",
+      "description": "Darren Fletcher sits down with Joleon Lescott, Martin Keown, Glenn Hoddle, and Joe Hart to look ahead to the FA Cup final this weekend between Manchester City and Chelsea.",
       "start": 1778774400,
       "stop": 1778776200,
       "icon": "https://images.metadata.sky.com/pd-image/e7df5e5d-ece7-4bdc-89c6-10e5edd557f3/cover",
@@ -7995,7 +7995,7 @@
     },
     {
       "title": "The Breakdown: FA Cup Final",
-      "description": "Darren Fletcher and guests look ahead to the FA Cup Final this weekend between Manchester City and Chelsea.",
+      "description": "Darren Fletcher sits down with Joleon Lescott, Martin Keown, Glenn Hoddle, and Joe Hart to look ahead to the FA Cup final this weekend between Manchester City and Chelsea.",
       "start": 1778826600,
       "stop": 1778828400,
       "icon": "https://images.metadata.sky.com/pd-image/e7df5e5d-ece7-4bdc-89c6-10e5edd557f3/cover",
@@ -8138,7 +8138,7 @@
     },
     {
       "title": "The Breakdown: FA Cup Final",
-      "description": "Darren Fletcher and guests look ahead to the FA Cup Final this weekend between Manchester City and Chelsea.",
+      "description": "Darren Fletcher sits down with Joleon Lescott, Martin Keown, Glenn Hoddle, and Joe Hart to look ahead to the FA Cup final this weekend between Manchester City and Chelsea.",
       "start": 1778880600,
       "stop": 1778882400,
       "icon": "https://images.metadata.sky.com/pd-image/e7df5e5d-ece7-4bdc-89c6-10e5edd557f3/cover",
@@ -8259,7 +8259,7 @@
     },
     {
       "title": "The Breakdown: FA Cup Final",
-      "description": "Darren Fletcher and guests look ahead to the FA Cup Final this weekend between Manchester City and Chelsea.",
+      "description": "Darren Fletcher sits down with Joleon Lescott, Martin Keown, Glenn Hoddle, and Joe Hart to look ahead to the FA Cup final this weekend between Manchester City and Chelsea.",
       "start": 1778914800,
       "stop": 1778916600,
       "icon": "https://images.metadata.sky.com/pd-image/e7df5e5d-ece7-4bdc-89c6-10e5edd557f3/cover",
@@ -8389,7 +8389,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 2026.0,
-      "episode": 23.0
+      "episode": 23
     },
     {
       "title": "Fight Week: UFC 328 Review Show",
@@ -8400,7 +8400,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "UFC Fight Flashback",
@@ -8411,7 +8411,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 2015.0,
-      "episode": 15.0
+      "episode": 15
     },
     {
       "title": "UFC Fight Flashback",
@@ -8422,7 +8422,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 2015.0,
-      "episode": 14.0
+      "episode": 14
     },
     {
       "title": "Serie A - Full Impact",
@@ -8433,7 +8433,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 36.0
+      "episode": 36
     },
     {
       "title": "MotoGP Highlights: France 2026",
@@ -8444,7 +8444,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "NWSL: Orlando v North Carolina",
@@ -8455,7 +8455,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "NWSL: Kansas City v Chicago Stars",
@@ -8466,7 +8466,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "TNT Sports Reload",
@@ -8477,7 +8477,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 26.0,
-      "episode": 19.0
+      "episode": 19
     },
     {
       "title": "European Le Mans Series Highlights",
@@ -8488,7 +8488,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Michelin Le Mans Cup Highlights",
@@ -8499,7 +8499,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "WRC Review: Rally Portugal 2026",
@@ -8510,7 +8510,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 26.0,
-      "episode": 6.0
+      "episode": 6
     },
     {
       "title": "MotoGP Highlights: France 2026",
@@ -8521,7 +8521,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "MLB Plays of the Week",
@@ -8532,7 +8532,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 2026.0,
-      "episode": 6.0
+      "episode": 6
     },
     {
       "title": "TNT Sports Reload",
@@ -8543,7 +8543,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 26.0,
-      "episode": 19.0
+      "episode": 19
     },
     {
       "title": "Live AFL: Brisbane Lions v Geelong",
@@ -8554,7 +8554,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "MLB Highlights",
@@ -8565,7 +8565,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 2026.0,
-      "episode": 49.0
+      "episode": 49
     },
     {
       "title": "MotoGP Highlights: France 2026",
@@ -8576,7 +8576,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Ninja A-League Women Highlights",
@@ -8587,7 +8587,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 25.0
+      "episode": 25
     },
     {
       "title": "Isuzu UTE A-League Highlights",
@@ -8598,7 +8598,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 2025.0,
-      "episode": 28.0
+      "episode": 28
     },
     {
       "title": "MLB Plays of the Week",
@@ -8609,7 +8609,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 2026.0,
-      "episode": 6.0
+      "episode": 6
     },
     {
       "title": "MLB Highlights",
@@ -8620,7 +8620,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 2026.0,
-      "episode": 49.0
+      "episode": 49
     },
     {
       "title": "Live MLB: Tigers @ Mets",
@@ -8631,7 +8631,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "AFL: Brisbane Lions v Geelong",
@@ -8642,7 +8642,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Roland-Garros Men's Singles Final",
@@ -8653,7 +8653,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Roland-Garros Women's Final",
@@ -8664,7 +8664,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Roland-Garros Women's Doubles",
@@ -8675,7 +8675,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Men's Doubles Final",
@@ -8686,7 +8686,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Roland Garros",
@@ -8697,7 +8697,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Roland Garros",
@@ -8708,7 +8708,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "MotoGP Highlights: Catalunya 2025",
@@ -8719,7 +8719,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "MotoGP Highlights: France 2026",
@@ -8730,7 +8730,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Live MotoGP: Catalunya FP1",
@@ -8741,7 +8741,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "MotoGP Rewind: Thailand 2026",
@@ -8752,7 +8752,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "MotoGP Rewind: Brazil 2026",
@@ -8763,7 +8763,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "MotoGP Rewind: USA 2026",
@@ -8774,7 +8774,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "MotoGP Rewind: Spain 2026",
@@ -8785,7 +8785,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "MotoGP Rewind: France 2026",
@@ -8796,7 +8796,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "MotoGP Rewind: Catalunya 2025",
@@ -8807,7 +8807,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Live MotoGP: Catalunya Practice",
@@ -8818,7 +8818,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "MotoGP Rewind: Catalunya 2024",
@@ -8829,7 +8829,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Inside Serie A",
@@ -8840,7 +8840,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 2025.0,
-      "episode": 37.0
+      "episode": 37
     },
     {
       "title": "MLB Highlights",
@@ -8851,7 +8851,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 2026.0,
-      "episode": 50.0
+      "episode": 50
     },
     {
       "title": "European Le Mans Series Highlights",
@@ -8862,7 +8862,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Michelin Le Mans Cup Highlights",
@@ -8873,7 +8873,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Inside Serie A",
@@ -8884,7 +8884,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 2025.0,
-      "episode": 37.0
+      "episode": 37
     },
     {
       "title": "GP of Catalunya: The Inside Line",
@@ -8895,7 +8895,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Sara Price - Chasing Dakar",
@@ -8906,7 +8906,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 26.0,
-      "episode": 1.0
+      "episode": 1
     },
     {
       "title": "AFL: Sydney Swans v Collingwood",
@@ -8917,7 +8917,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "AFL: GC Suns v Port Adelaide",
@@ -8928,7 +8928,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "GP of Catalunya: The Inside Line",
@@ -8939,7 +8939,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Fight Week: UFC 328 Review Show",
@@ -8950,18 +8950,18 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "The Breakdown: FA Cup Final",
-      "description": "Darren Fletcher and guests look ahead to the FA Cup Final this weekend between Manchester City and Chelsea.",
+      "description": "Darren Fletcher sits down with Joleon Lescott, Martin Keown, Glenn Hoddle, and Joe Hart to look ahead to the FA Cup final this weekend between Manchester City and Chelsea.",
       "start": 1778887800,
       "stop": 1778889600,
       "icon": "https://images.metadata.sky.com/pd-image/e7df5e5d-ece7-4bdc-89c6-10e5edd557f3/cover",
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Northampton Saints v Bristol Bears",
@@ -8972,7 +8972,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "GP of Catalunya: The Inside Line",
@@ -8983,7 +8983,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Live MLB: Dodgers @ Angels",
@@ -8994,7 +8994,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "MLB Plays of the Week",
@@ -9005,7 +9005,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 2026.0,
-      "episode": 6.0
+      "episode": 6
     },
     {
       "title": "MotoGP Rewind: USA 2026",
@@ -9016,7 +9016,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "MotoGP Rewind: Spain 2026",
@@ -9027,7 +9027,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "MotoGP Rewind: France 2026",
@@ -9038,7 +9038,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "MotoGP Rewind: Catalunya 2025",
@@ -9049,7 +9049,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "GP of Catalunya: The Inside Line",
@@ -9060,18 +9060,18 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Live Moto2/3: Cataluyna FP2",
       "description": "Action from the second practice session ahead of the 2026 Moto2 and Moto3 Grand Prix of Catalunya at Circuit de Barcelona-Catalunya.",
       "start": 1778913000,
       "stop": 1778918400,
-      "icon": "https://images.metadata.sky.com/pd-image/d58533d1-e595-4978-ae5c-08ceda61e21d/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/6f6ebd1a-97b3-4581-9420-6783268dccdb/cover",
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 0
     },
     {
       "title": "Live MotoGP: Catalunya Qualifying",
@@ -9082,7 +9082,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Live Moto2/3: Cataluyna Qualifying",
@@ -9093,7 +9093,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Live MotoGP: Catalunya Sprint Race",
@@ -9104,7 +9104,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Playing For Our Future - Rugby",
@@ -9115,7 +9115,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 2.0,
-      "episode": 60.0
+      "episode": 60
     },
     {
       "title": "The Breakdown: Exeter Chiefs",
@@ -9126,7 +9126,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Live: Harlequins v Exeter Chiefs",
@@ -9137,7 +9137,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Live: Saracens v Gloucester Rugby",
@@ -9148,7 +9148,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Bath Rugby v Newcastle Red Bulls",
@@ -9159,7 +9159,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Sara Price - Chasing Dakar",
@@ -9170,7 +9170,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 26.0,
-      "episode": 2.0
+      "episode": 2
     },
     {
       "title": "Training Day",
@@ -9181,18 +9181,18 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 24.0,
-      "episode": 8.0
+      "episode": 8
     },
     {
       "title": "MLB Highlights",
       "description": "Highlights from Major League Baseball including, New York Yankees facing off against New York Mets, and Los Angeles Dodgers up against Los Angeles Angels. (15.05)",
       "start": 1778968800,
       "stop": 1778972400,
-      "icon": "https://images.metadata.sky.com/pd-image/b1bac11c-8ffa-4d96-9f0c-f5333119550a/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/b860008a-9694-4890-8d2b-b5461fed37e4/cover",
       "channel": "tnt2",
       "premiere": false,
-      "season": null,
-      "episode": null
+      "season": 2026.0,
+      "episode": 51
     }
   ],
   "tnt3": [
@@ -9374,7 +9374,7 @@
     },
     {
       "title": "The Breakdown: FA Cup Final",
-      "description": "Darren Fletcher and guests look ahead to the FA Cup Final this weekend between Manchester City and Chelsea.",
+      "description": "Darren Fletcher sits down with Joleon Lescott, Martin Keown, Glenn Hoddle, and Joe Hart to look ahead to the FA Cup final this weekend between Manchester City and Chelsea.",
       "start": 1778747400,
       "stop": 1778749200,
       "icon": "https://images.metadata.sky.com/pd-image/e7df5e5d-ece7-4bdc-89c6-10e5edd557f3/cover",
@@ -9791,7 +9791,7 @@
       "episode": 0.0
     },
     {
-      "title": "Live MLB: Melbourne v Hawthorn",
+      "title": "Live AFL: Melbourne v Hawthorn",
       "description": "Action from the Australian Football League clash between Melbourne and Hawthorn at the MCG. The Hawks were 92-56 winners when these sides last met.",
       "start": 1778911200,
       "stop": 1778922000,
@@ -9868,7 +9868,7 @@
       "episode": 0.0
     },
     {
-      "title": "MLB: Melbourne v Hawthorn",
+      "title": "AFL: Melbourne v Hawthorn",
       "description": "Action from the Australian Football League clash between Melbourne and Hawthorn at the MCG. The Hawks were 92-56 winners when these sides last met.",
       "start": 1778967000,
       "stop": 1778972400,
@@ -10501,11 +10501,11 @@
       "description": "Action from the 2026 Ninja A-League Women Grand Final between four-time winners Melbourne City and first-time finalists Wellington Phoenix at AAMI Park.",
       "start": 1778911200,
       "stop": 1778920200,
-      "icon": "https://images.metadata.sky.com/pd-image/f4b3d7b2-a4e0-442a-b491-85d8da92833f/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/7ba458bf-9f54-4897-ab16-9a321a72ff4b/cover",
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 0.0
     },
     {
       "title": "World Superbike Rewind",
@@ -15617,11 +15617,11 @@
       "description": "US crime drama series. Lupo and Bernard investigate the murder of a trucking company owner with ties to the Russian mob. (S19 Ep 11)",
       "start": 1778850000,
       "stop": 1778853600,
-      "icon": "https://images.metadata.sky.com/pd-image/3b711844-dd1c-4886-bf17-cb1ffd7b8951/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/fc77124c-650e-4ccd-8241-c668a510cfb2/cover",
       "channel": "5USA.uk",
       "premiere": false,
-      "season": null,
-      "episode": null
+      "season": 19.0,
+      "episode": 11.0
     },
     {
       "title": "Law & Order",
@@ -16444,11 +16444,11 @@
       "description": "US crime drama series. Lupo and Bernard investigate the murder of a trucking company owner with ties to the Russian mob. (S19 Ep 11)",
       "start": 1778853600,
       "stop": 1778857200,
-      "icon": "https://images.metadata.sky.com/pd-image/3b711844-dd1c-4886-bf17-cb1ffd7b8951/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/fc77124c-650e-4ccd-8241-c668a510cfb2/cover",
       "channel": "5USAPlus1.uk",
       "premiere": false,
-      "season": null,
-      "episode": null
+      "season": 19.0,
+      "episode": 11.0
     },
     {
       "title": "Law & Order",
@@ -26137,11 +26137,11 @@
       "description": "Action and reaction to the evening's Premiership matches as Hearts face Falkirk, Celtic travel to Motherwell and Rangers host Hibernian. [S] [HD]",
       "start": 1778708400,
       "stop": 1778712000,
-      "icon": "https://images.metadata.sky.com/pd-image/b7f43639-f171-4910-a20d-5c388188446b/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/36aef9a5-2031-4bdd-a84e-a54cf3b831c7/cover",
       "channel": "BBCOneScotHD.uk",
       "premiere": false,
       "season": null,
-      "episode": 9.0
+      "episode": 13.0
     },
     {
       "title": "Debate Night",
@@ -33067,7 +33067,7 @@
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 836.0
+      "episode": 834.0
     },
     {
       "title": "House of Commons - Loyal Address",
@@ -33155,7 +33155,7 @@
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 836.0
+      "episode": 834.0
     },
     {
       "title": "Live Commons Business Questions",
@@ -33188,7 +33188,7 @@
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 837.0
+      "episode": 835.0
     },
     {
       "title": "Commons Business Questions",
@@ -33232,7 +33232,7 @@
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 837.0
+      "episode": 835.0
     },
     {
       "title": "Select Committees",
@@ -33375,7 +33375,7 @@
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 843.0
+      "episode": 841.0
     },
     {
       "title": "Northern Ireland Assembly",
@@ -33408,7 +33408,7 @@
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 843.0
+      "episode": 841.0
     },
     {
       "title": "Northern Ireland Assembly",
@@ -33441,7 +33441,7 @@
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 843.0
+      "episode": 841.0
     },
     {
       "title": "Select Committees",
@@ -45668,7 +45668,7 @@
     },
     {
       "title": "New: World's Most Secret Hotels",
-      "description": "We visit a South African nature reserve, converted classic railway carriages in Kent, a hotel in a crane in Hamburg, submarine accommodation in Scotland and a Utah retro retreat. (S2 Ep5)",
+      "description": "This time, a South African nature reserve, converted classic rail carriages in West Sussex, a hotel in Hamburg, submarine accommodation in Scotland and a Utah retro retreat. (S2 Ep5)",
       "start": 1778958000,
       "stop": 1778961600,
       "icon": "https://images.metadata.sky.com/pd-image/a288e87f-feda-4cea-842e-f989346b68ac/cover",
@@ -46792,7 +46792,7 @@
     },
     {
       "title": "New: World's Most Secret Hotels",
-      "description": "We visit a South African nature reserve, converted classic railway carriages in Kent, a hotel in a crane in Hamburg, submarine accommodation in Scotland and a Utah retro retreat. (S2 Ep5)",
+      "description": "This time, a South African nature reserve, converted classic rail carriages in West Sussex, a hotel in Hamburg, submarine accommodation in Scotland and a Utah retro retreat. (S2 Ep5)",
       "start": 1778961600,
       "stop": 1778965200,
       "icon": "https://images.metadata.sky.com/pd-image/a288e87f-feda-4cea-842e-f989346b68ac/cover",
@@ -54876,11 +54876,11 @@
       "description": "Brand new series: The dust is settling on three life-changing months. But not before the experts seek clarity on the burning issues one more time. (S13 Ep39 - Part 1/2)",
       "start": 1778717400,
       "stop": 1778721300,
-      "icon": "https://images.metadata.sky.com/pd-image/d358904e-8c5a-45c4-91b5-c12e257232aa/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/af9def48-92e3-4689-80b8-bb5caa4ced17/cover",
       "channel": "E4.uk",
       "premiere": false,
-      "season": 6.0,
-      "episode": 40.0
+      "season": 13.0,
+      "episode": 39.0
     },
     {
       "title": "Celebs Go Dating",
@@ -55030,11 +55030,11 @@
       "description": "Brand new series: The dust is settling on three life-changing months. But not before the experts seek clarity on the burning issues one more time. (S13 Ep39 - Part 1/2)",
       "start": 1778749200,
       "stop": 1778753100,
-      "icon": "https://images.metadata.sky.com/pd-image/d358904e-8c5a-45c4-91b5-c12e257232aa/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/af9def48-92e3-4689-80b8-bb5caa4ced17/cover",
       "channel": "E4.uk",
       "premiere": false,
-      "season": 6.0,
-      "episode": 40.0
+      "season": 13.0,
+      "episode": 39.0
     },
     {
       "title": "First Dates: Be My Valentine",
@@ -55129,11 +55129,11 @@
       "description": "Brand new series: The dust is settling on three life-changing months. But not before the experts seek clarity on the burning issues one more time. (S13 Ep39 - Part 1/2)",
       "start": 1778770500,
       "stop": 1778774400,
-      "icon": "https://images.metadata.sky.com/pd-image/d358904e-8c5a-45c4-91b5-c12e257232aa/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/af9def48-92e3-4689-80b8-bb5caa4ced17/cover",
       "channel": "E4.uk",
       "premiere": false,
-      "season": 6.0,
-      "episode": 40.0
+      "season": 13.0,
+      "episode": 39.0
     },
     {
       "title": "First Dates: Be My Valentine",
@@ -56717,11 +56717,11 @@
       "description": "Brand new series: The dust is settling on three life-changing months. But not before the experts seek clarity on the burning issues one more time. (S13 Ep39 - Part 1/2)",
       "start": 1778721000,
       "stop": 1778724900,
-      "icon": "https://images.metadata.sky.com/pd-image/d358904e-8c5a-45c4-91b5-c12e257232aa/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/af9def48-92e3-4689-80b8-bb5caa4ced17/cover",
       "channel": "E4Plus1.uk",
       "premiere": false,
-      "season": 6.0,
-      "episode": 40.0
+      "season": 13.0,
+      "episode": 39.0
     },
     {
       "title": "Celebs Go Dating",
@@ -56871,11 +56871,11 @@
       "description": "Brand new series: The dust is settling on three life-changing months. But not before the experts seek clarity on the burning issues one more time. (S13 Ep39 - Part 1/2)",
       "start": 1778752800,
       "stop": 1778756700,
-      "icon": "https://images.metadata.sky.com/pd-image/d358904e-8c5a-45c4-91b5-c12e257232aa/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/af9def48-92e3-4689-80b8-bb5caa4ced17/cover",
       "channel": "E4Plus1.uk",
       "premiere": false,
-      "season": 6.0,
-      "episode": 40.0
+      "season": 13.0,
+      "episode": 39.0
     },
     {
       "title": "First Dates: Be My Valentine",
@@ -56970,11 +56970,11 @@
       "description": "Brand new series: The dust is settling on three life-changing months. But not before the experts seek clarity on the burning issues one more time. (S13 Ep39 - Part 1/2)",
       "start": 1778774100,
       "stop": 1778778000,
-      "icon": "https://images.metadata.sky.com/pd-image/d358904e-8c5a-45c4-91b5-c12e257232aa/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/af9def48-92e3-4689-80b8-bb5caa4ced17/cover",
       "channel": "E4Plus1.uk",
       "premiere": false,
-      "season": 6.0,
-      "episode": 40.0
+      "season": 13.0,
+      "episode": 39.0
     },
     {
       "title": "First Dates: Be My Valentine",
@@ -71468,21 +71468,10 @@
       "title": "ITV Evening News",
       "description": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world, plus a focus on the stories that matter to you.",
       "start": 1778866200,
-      "stop": 1778868000,
+      "stop": 1778869800,
       "icon": "https://images.metadata.sky.com/pd-image/7d5df5d2-1b70-4122-a538-8ce5dd9cd315/cover",
       "channel": "ITV1Wales.uk",
       "premiere": false,
-      "season": null,
-      "episode": 0.0
-    },
-    {
-      "title": "New: Wales This Week",
-      "description": "In a fast-changing and complicated world, this award-winning current affairs programme focuses on discussing and investigating stories and issues important to Wales and the Welsh.",
-      "start": 1778868000,
-      "stop": 1778869800,
-      "icon": "https://images.metadata.sky.com/pd-image/f6000571-c5f7-49c4-a0c0-ef842f66fe12/cover",
-      "channel": "ITV1Wales.uk",
-      "premiere": true,
       "season": null,
       "episode": 0.0
     },
