@@ -4313,10 +4313,10 @@
     },
     {
       "title": "Sky Sports News",
-      "description": "Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.",
+      "description": null,
       "start": 1778796000,
       "stop": 1778799600,
-      "icon": "https://images.metadata.sky.com/pd-image/7f374c3c-58a7-415b-a3e0-3711c9c6155c/cover",
+      "icon": null,
       "channel": "sky.news.uk",
       "premiere": false,
       "season": null,
@@ -5371,7 +5371,7 @@
     },
     {
       "title": "Raceday Live",
-      "description": "Live Racing: Alex Hammond, Jamie Lynch, Seb Sanders and Hayley Moore bring you live action from Newbury featuring the Group 1 Lockinge Stakes alongside Bangor-on-Dee with Zoey Bird.",
+      "description": "Live Racing: Alex Hammond, Jamie Lynch, Seb Sanders and Hayley Moore bring you the G1 Lockinge Stakes from Newbury which sees Damysus and Notable Speech headline the field.",
       "start": 1778929200,
       "stop": 1778961600,
       "icon": "https://images.metadata.sky.com/pd-image/175e1827-83ed-4618-8cf5-05c0517315c3/cover",
@@ -5426,7 +5426,7 @@
     },
     {
       "title": "Australian Racing Live",
-      "description": "Live Australian racing from Parkes, Sale, Devonport, Casterton, Strathalbyn Queanbeyan and Sunshine Coast.",
+      "description": "Live Australian racing from Port Macquarie and Stawell.",
       "start": 1778979600,
       "stop": 1778992200,
       "icon": "https://images.metadata.sky.com/pd-image/71bcf676-9e98-4932-b2cc-c2a30624e22d/cover",
@@ -8812,15 +8812,15 @@
       "episode": 0.0
     },
     {
-      "title": "Fencing Grand Prix: Bogota",
-      "description": "Coverage from the FIE Fencing Grand Prix in Lima, Colombia, featuring the world's elite sabre fencers.",
+      "title": "Fencing Grand Prix: Medellin",
+      "description": "Coverage from the FIE Fencing Grand Prix in Medellin, Colombia, featuring the world's elite sabre fencers.",
       "start": 1778864400,
       "stop": 1778868000,
-      "icon": "https://images.metadata.sky.com/pd-image/6f7e63c8-f82d-479e-a14d-449b44a40953/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/75166408-33dc-407f-afae-6a408f3475ab/cover",
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": null
     },
     {
       "title": "Tour of the Basque Country - S1",
@@ -8878,15 +8878,15 @@
       "episode": 36.0
     },
     {
-      "title": "Fencing Grand Prix: Bogota",
-      "description": "Coverage from the FIE Fencing Grand Prix in Lima, Colombia, featuring the world's elite sabre fencers.",
+      "title": "Fencing Grand Prix: Medellin",
+      "description": "Coverage from the FIE Fencing Grand Prix in Medellin, Colombia, featuring the world's elite sabre fencers.",
       "start": 1778886000,
       "stop": 1778889600,
-      "icon": "https://images.metadata.sky.com/pd-image/6f7e63c8-f82d-479e-a14d-449b44a40953/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/76d46537-7b3d-4a7c-9a9c-a3670d12e505/cover",
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": null
     },
     {
       "title": "Live NWSL: Kansas City v Houston",
@@ -9632,11 +9632,11 @@
       "description": "Qualifying heats up at Donington Park as riders push to secure the best possible grid positions for Round 2 of the 2026 British Superbike Championship.",
       "start": 1778924700,
       "stop": 1778926500,
-      "icon": "https://images.metadata.sky.com/pd-image/f6ba6094-357c-4b9d-aa24-4a4933bc53b0/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/9f078a51-e791-46de-a20c-140c13cd8e10/cover",
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 0.0
     },
     {
       "title": "Live WorldSBK: Supersport - Race 1",
@@ -17613,7 +17613,7 @@
       "title": "Oscar & Ealasaid",
       "description": "10/26. Ernest meets his old friend Léon, who he played music with when he was young. [S] [HD]",
       "start": 1778944800,
-      "stop": 1778945400,
+      "stop": 1778945700,
       "icon": "https://images.metadata.sky.com/pd-image/454bb498-a5d2-4cc7-a3f4-b47a7b22841a/cover",
       "channel": "BBCAlba.uk",
       "premiere": false,
@@ -17623,7 +17623,7 @@
     {
       "title": "Cleasan Ataidh & Tilidh/The...",
       "description": "...Adventures of Abney & Teal. 38/52. Neep and Teal find some wheels. Finally, Abney gets hold of some wheels of his own. [S] [HD]",
-      "start": 1778945400,
+      "start": 1778945700,
       "stop": 1778946300,
       "icon": "https://images.metadata.sky.com/pd-image/c4c1049c-cc4b-4c82-89e5-f5083f1a8de5/cover",
       "channel": "BBCAlba.uk",
@@ -19177,7 +19177,7 @@
     },
     {
       "title": "The President's Path",
-      "description": "Join Caitríona Perry and Sumi Somaskanda for a dynamic weekly discussion on the US presidency. [S] [HD]",
+      "description": "Trump and Xi hold talks in China, but will there be a trade deal breakthrough? [S] [HD]",
       "start": 1778884200,
       "stop": 1778886000,
       "icon": "https://images.metadata.sky.com/pd-image/b064f977-7e75-4f2c-9524-8ff30ed7b4d1/cover",
@@ -19199,7 +19199,7 @@
     },
     {
       "title": "Talking Business",
-      "description": "Examining the business stories and economic trends that are re-shaping our world. [S] [HD]",
+      "description": "Counting the cost of the big gig. Are real fans losing out as music ticket prices soar? [S] [HD]",
       "start": 1778887800,
       "stop": 1778889600,
       "icon": "https://images.metadata.sky.com/pd-image/77fc9005-f0b3-46ae-98f9-0cb5deedabb8/cover",
@@ -19375,7 +19375,7 @@
     },
     {
       "title": "Talking Business",
-      "description": "Examining the business stories and economic trends that are re-shaping our world. [S] [HD]",
+      "description": "Counting the cost of the big gig. Are real fans losing out as music ticket prices soar? [S] [HD]",
       "start": 1778927400,
       "stop": 1778929200,
       "icon": "https://images.metadata.sky.com/pd-image/77fc9005-f0b3-46ae-98f9-0cb5deedabb8/cover",
@@ -19628,7 +19628,7 @@
     },
     {
       "title": "Talking Business",
-      "description": "Examining the business stories and economic trends that are re-shaping our world. [S] [HD]",
+      "description": "Counting the cost of the big gig. Are real fans losing out as music ticket prices soar? [S] [HD]",
       "start": 1778970600,
       "stop": 1778972400,
       "icon": "https://images.metadata.sky.com/pd-image/77fc9005-f0b3-46ae-98f9-0cb5deedabb8/cover",
@@ -19826,7 +19826,7 @@
     },
     {
       "title": "The President's Path",
-      "description": "Join Caitríona Perry and Sumi Somaskanda for a dynamic weekly discussion on the US presidency. [S] [HD]",
+      "description": "Trump and Xi hold talks in China, but will there be a trade deal breakthrough? [S] [HD]",
       "start": 1779013800,
       "stop": 1779015600,
       "icon": "https://images.metadata.sky.com/pd-image/b064f977-7e75-4f2c-9524-8ff30ed7b4d1/cover",
@@ -33969,7 +33969,7 @@
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 834.0
+      "episode": 831.0
     },
     {
       "title": "House of Lords - King's Speech Debate, Day One - Part 2",
@@ -34189,7 +34189,7 @@
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 840.0
+      "episode": 837.0
     },
     {
       "title": "Northern Ireland Assembly",
@@ -34222,7 +34222,7 @@
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 840.0
+      "episode": 837.0
     },
     {
       "title": "Northern Ireland Assembly",
@@ -34255,7 +34255,7 @@
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 840.0
+      "episode": 837.0
     },
     {
       "title": "Select Committees",
@@ -34332,7 +34332,7 @@
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 840.0
+      "episode": 837.0
     },
     {
       "title": "House of Commons",
@@ -34376,7 +34376,7 @@
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 840.0
+      "episode": 837.0
     },
     {
       "title": "Northern Ireland Assembly",
@@ -34398,7 +34398,7 @@
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 840.0
+      "episode": 837.0
     },
     {
       "title": "Prime Minister's Questions",
@@ -36478,7 +36478,7 @@
     },
     {
       "title": "Best Bakes Ever",
-      "description": "Jane Asher brings together a selection of recipes from the nation's favourite television chefs. [S] [HD]",
+      "description": "Jane Asher brings together a selection of recipes from the nation's favourite television chefs. [S,AD] [HD]",
       "start": 1779013800,
       "stop": 1779015600,
       "icon": "https://images.metadata.sky.com/pd-image/1a0ee0b0-b050-41ce-b858-3d3c88e83dde/cover",
@@ -36599,7 +36599,7 @@
     },
     {
       "title": "Brother",
-      "description": "Two brothers navigate grief and tenderness amid Toronto's ganglands. Contains very strong language, some sexual content and some violence. [2022] [S,AD] [HD]",
+      "description": "Two brothers navigate grief and tenderness amid Toronto's ganglands. Contains very strong language, some sexual content and some violence. [2022] [S] [HD]",
       "start": 1779054600,
       "stop": 1779061500,
       "icon": "https://images.metadata.sky.com/pd-image/e4821989-9205-389e-b987-1775dd99ac26/cover",
@@ -37349,7 +37349,7 @@
     },
     {
       "title": "Best Bakes Ever",
-      "description": "Jane Asher brings together a selection of recipes from the nation's favourite television chefs. [S] [HD]",
+      "description": "Jane Asher brings together a selection of recipes from the nation's favourite television chefs. [S,AD] [HD]",
       "start": 1779013800,
       "stop": 1779015600,
       "icon": "https://images.metadata.sky.com/pd-image/1a0ee0b0-b050-41ce-b858-3d3c88e83dde/cover",
@@ -37470,7 +37470,7 @@
     },
     {
       "title": "Brother",
-      "description": "Two brothers navigate grief and tenderness amid Toronto's ganglands. Contains very strong language, some sexual content and some violence. [2022] [S,AD] [HD]",
+      "description": "Two brothers navigate grief and tenderness amid Toronto's ganglands. Contains very strong language, some sexual content and some violence. [2022] [S] [HD]",
       "start": 1779054600,
       "stop": 1779061500,
       "icon": "https://images.metadata.sky.com/pd-image/e4821989-9205-389e-b987-1775dd99ac26/cover",
@@ -49964,7 +49964,7 @@
     },
     {
       "title": "The Link",
-      "description": "The Link 2. The Link highlights the ways digital tools are being used to create inclusive opportunities across Africa.",
+      "description": "The Link 2.",
       "start": 1778916600,
       "stop": 1778918400,
       "icon": "https://images.metadata.sky.com/pd-image/2c154bc7-0ec3-4ce4-baae-1c257cf6805e/cover",
@@ -50107,7 +50107,7 @@
     },
     {
       "title": "The Link",
-      "description": "The Link 2. The Link highlights the ways digital tools are being used to create inclusive opportunities across Africa.",
+      "description": "The Link 2.",
       "start": 1778949000,
       "stop": 1778950800,
       "icon": "https://images.metadata.sky.com/pd-image/2c154bc7-0ec3-4ce4-baae-1c257cf6805e/cover",
@@ -50316,7 +50316,7 @@
     },
     {
       "title": "The Link",
-      "description": "The Link 2. The Link highlights the ways digital tools are being used to create inclusive opportunities across Africa.",
+      "description": "The Link 2.",
       "start": 1778992200,
       "stop": 1778994000,
       "icon": "https://images.metadata.sky.com/pd-image/2c154bc7-0ec3-4ce4-baae-1c257cf6805e/cover",
@@ -50426,7 +50426,7 @@
     },
     {
       "title": "The Link",
-      "description": "The Link 2. The Link highlights the ways digital tools are being used to create inclusive opportunities across Africa.",
+      "description": "The Link 2.",
       "start": 1779012000,
       "stop": 1779013800,
       "icon": "https://images.metadata.sky.com/pd-image/2c154bc7-0ec3-4ce4-baae-1c257cf6805e/cover",
@@ -50536,7 +50536,7 @@
     },
     {
       "title": "The Link",
-      "description": "The Link 2. The Link highlights the ways digital tools are being used to create inclusive opportunities across Africa.",
+      "description": "The Link 2.",
       "start": 1779039000,
       "stop": 1779040800,
       "icon": "https://images.metadata.sky.com/pd-image/2c154bc7-0ec3-4ce4-baae-1c257cf6805e/cover",
@@ -50591,7 +50591,7 @@
     },
     {
       "title": "The Link",
-      "description": "The Link 2. The Link highlights the ways digital tools are being used to create inclusive opportunities across Africa.",
+      "description": "The Link 2.",
       "start": 1779053400,
       "stop": 1779055200,
       "icon": "https://images.metadata.sky.com/pd-image/2c154bc7-0ec3-4ce4-baae-1c257cf6805e/cover",
