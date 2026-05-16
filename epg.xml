@@ -568,6 +568,8 @@
   </programme>
   <programme channel="sky.main.uk" start="20260517230000 +0000" stop="20260518023000 +0000">
     <title lang="en">Live NBA Playoffs</title>
+    <desc lang="en">The San Antonio Spurs face the Minnesota Timberwolves in Game Seven of their Western Conference semi-final series in the NBA playoffs.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/baa40641-ca1a-4db1-b452-14d1f03b16db/cover"/>
   </programme>
   <programme channel="sky.main.uk" start="20260518023000 +0000" stop="20260518030000 +0000">
     <title lang="en">Sky Sports News</title>
@@ -1491,7 +1493,7 @@
   <programme channel="sky.football.uk" start="20260517014500 +0000" stop="20260517020000 +0000">
     <title lang="en">EFL 15/16: Hull City v Reading</title>
     <desc lang="en">A chance to relive some classic action from the EFL. Here, Hull City take on Reading at the KC Stadium in December 2015 in a thrilling clash that saw a late winner.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/da809ecb-617d-4a17-9c3d-734ce080531e/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/fd0c5162-155d-49ce-80ba-31f2ea0fdfc2/cover"/>
   </programme>
   <programme channel="sky.football.uk" start="20260517020000 +0000" stop="20260517021500 +0000">
     <title lang="en">EFL 16/17: Leeds Utd v Aston Villa</title>
@@ -1957,20 +1959,25 @@
     <desc lang="en">Enjoy a standout match from yesterday's action on the ATP and WTA Tours.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/296187cf-23ca-4001-bf6a-1fc93df38c6d/cover"/>
   </programme>
-  <programme channel="sky.tennis.uk" start="20260516070000 +0000" stop="20260516090000 +0000">
+  <programme channel="sky.tennis.uk" start="20260516070000 +0000" stop="20260516084500 +0000">
     <title lang="en">WTA Rome SF Highlights</title>
     <desc lang="en">Enjoy a standout match from yesterday's action on the ATP and WTA Tours.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/517f2e28-6b5a-4f2d-a858-3508f9aadba5/cover"/>
   </programme>
-  <programme channel="sky.tennis.uk" start="20260516090000 +0000" stop="20260516100000 +0000">
-    <title lang="en">ATP Madrid 2026 Review</title>
-    <desc lang="en">An in-depth review of all the action from the 2026 Madrid Open - an ATP Masters 1000 event.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/cc3f5561-e8a9-4595-9ec8-f3d3424c5954/cover"/>
+  <programme channel="sky.tennis.uk" start="20260516084500 +0000" stop="20260516110000 +0000">
+    <title lang="en">WTA Rome SF - Svitolina v Swiatek</title>
+    <desc lang="en">A look back on the second women's singles semi-final as Iga Swiatek took on Elina Svitolina in Rome</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3761f02c-f673-478b-aead-3bc46d979761/cover"/>
   </programme>
-  <programme channel="sky.tennis.uk" start="20260516100000 +0000" stop="20260516140000 +0000">
-    <title lang="en">Live: ATP Rome Doubles SFs</title>
-    <desc lang="en">Up 4-2 in the third, Jannik Sinner resumes his semi-final with Daniil Medvedev as Britain's Neal Skupski, partnering Christian Harrison, faces Italians Simone Bolelli and Andrea Vavassori.</desc>
+  <programme channel="sky.tennis.uk" start="20260516110000 +0000" stop="20260516123000 +0000">
+    <title lang="en">Live: ATP Rome Doubles SF</title>
+    <desc lang="en">Britain's Neal Skupski, &amp; partner Christian Harrison, face Italians Simone Bolelli and Andrea Vavassori, in the semi-finals of the men's doubles at the Italian Open</desc>
     <icon src="https://images.metadata.sky.com/pd-image/035595ed-92af-4c0d-9718-b6a407186d37/cover"/>
+  </programme>
+  <programme channel="sky.tennis.uk" start="20260516123000 +0000" stop="20260516140000 +0000">
+    <title lang="en">Live: ATP Rome SF</title>
+    <desc lang="en">Up 4-2 in the third set, Jannik Sinner resumes his semi-final with Daniil Medvedev after rain washed out proceedings on Friday night. A spot in Sunday's final v Casper Ruud awaits</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/14a003c6-6de0-41eb-9f72-00150212ee50/cover"/>
   </programme>
   <programme channel="sky.tennis.uk" start="20260516140000 +0000" stop="20260516170000 +0000">
     <title lang="en">Live: WTA Rome Final</title>
@@ -10402,9 +10409,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/5b9cecff-68b2-4409-91b9-3e3f8d12b266/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260516123000 +0000" stop="20260516130000 +0000">
-    <title lang="en">World Questions: Sweden</title>
-    <desc lang="en">9/9. World Questions visits Stockholm to debate the challenges facing Sweden ahead of elections.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/bc427039-af65-4739-9f93-f5713506f165/cover"/>
+    <title lang="en">Political Thinking with Nick Robinson</title>
+    <desc lang="en">The Labour MP on a week of political chaos and why she walked out of Starmer's government.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/4b6c5dcd-1199-4750-bd4b-586d0fe97c35/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260516130000 +0000" stop="20260516133000 +0000">
     <title lang="en">BBC News</title>
@@ -10412,24 +10419,19 @@
     <icon src="https://images.metadata.sky.com/pd-image/894f5e3d-e95a-40da-9b1e-af9e973ee813/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260516133000 +0000" stop="20260516140000 +0000">
-    <title lang="en">Scams Exposed</title>
-    <desc lang="en">Impersonation scams are making millions from unsuspecting victims. Conor Spackman investigates the scammers and hears from a victim who went on the hunt for those who robbed her.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/7212aa75-e8a0-403d-acac-fc1dd8676198/cover"/>
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8db89354-f9c5-4473-a660-651011b80c61/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260516140000 +0000" stop="20260516143000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/cd6dda8d-1fbd-4ccd-8a8e-fe209a4251db/cover"/>
   </programme>
-  <programme channel="BBCNews.uk" start="20260516143000 +0000" stop="20260516144500 +0000">
+  <programme channel="BBCNews.uk" start="20260516143000 +0000" stop="20260516150000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fec060dc-4e23-48f7-a67e-7a160f5e62a4/cover"/>
-  </programme>
-  <programme channel="BBCNews.uk" start="20260516144500 +0000" stop="20260516150000 +0000">
-    <title lang="en">Newswatch</title>
-    <desc lang="en">Has BBC News fanned the flames of discontent over the prime minister, and so encouraged a leadership challenge against him?</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d90d65ef-cd0e-4210-bd1d-0073947e5260/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260516150000 +0000" stop="20260516153000 +0000">
     <title lang="en">BBC News</title>
@@ -10437,9 +10439,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/7ced6f62-bc1a-4c63-b70e-35dbbcf41fec/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260516153000 +0000" stop="20260516160000 +0000">
-    <title lang="en">Political Thinking with Nick Robinson</title>
-    <desc lang="en">The Labour MP on a week of political chaos and why she walked out of Starmer's government.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9d71cbcc-dc32-4ce1-8fa1-18b39eda1274/cover"/>
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/309e020a-e298-4fa3-afdc-21ec4c25c6c4/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260516160000 +0000" stop="20260516170000 +0000">
     <title lang="en">BBC News</title>
@@ -13954,6 +13956,8 @@
     <title lang="en">Countryfile</title>
     <desc lang="en">Anita Rani and Joe Crowley explore the River Leven, which flows through Fife, uncovering how this once-hardworking industrial river shaped communities for centuries.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/450af5ef-9212-4aea-afd9-32ccf5122b23/cover"/>
+    <episode-num system="xmltv_ns">2025.56.0</episode-num>
+    <episode-num system="onscreen">S2026E57</episode-num>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260517181500 +0000" stop="20260517191500 +0000">
     <title lang="en">Antiques Roadshow</title>
@@ -16248,19 +16252,14 @@
     <desc lang="en">Wayne Rooney chats to Everton and England goalkeeper Jordan Pickford.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/dc48b74b-3eb6-48e2-8ee5-8977873b2e4a/cover"/>
   </programme>
-  <programme channel="BBCOneWalesHD.uk" start="20260517231500 +0000" stop="20260517232000 +0000">
-    <title lang="en">Weather for the Week Ahead</title>
-    <desc lang="en">Detailed weather forecast.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/78f76f12-fbc1-4bf8-8b40-e22bc7dc1d96/cover"/>
-  </programme>
-  <programme channel="BBCOneWalesHD.uk" start="20260517232000 +0000" stop="20260517235000 +0000">
+  <programme channel="BBCOneWalesHD.uk" start="20260517231500 +0000" stop="20260517234500 +0000">
     <title lang="en">Rewind: 60 Years of Welsh Pop</title>
     <desc lang="en">6/6. We reach the end of our six-decade musical journey with the 2010s. Artists featured include Bullet For My Valentine, Catfish and the Bottlemen, Gwenno and the Manic Street Preachers.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/459916c7-898e-4a44-b121-e04c5f555f04/cover"/>
     <episode-num system="xmltv_ns">0.5.0</episode-num>
     <episode-num system="onscreen">S1E6</episode-num>
   </programme>
-  <programme channel="BBCOneWalesHD.uk" start="20260517235000 +0000" stop="20260518050000 +0000">
+  <programme channel="BBCOneWalesHD.uk" start="20260517234500 +0000" stop="20260518050000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">BBC One joins the BBC's rolling news channel for a night of news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c63c5330-f621-4318-9dab-d890750a891e/cover"/>
@@ -19480,6 +19479,8 @@
     <title lang="en">Countryfile</title>
     <desc lang="en">Anita Rani and Joe Crowley explore the River Leven, which flows through Fife, uncovering how this once-hardworking industrial river shaped communities for centuries.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/450af5ef-9212-4aea-afd9-32ccf5122b23/cover"/>
+    <episode-num system="xmltv_ns">2025.56.0</episode-num>
+    <episode-num system="onscreen">S2026E57</episode-num>
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20260517181500 +0000" stop="20260517190000 +0000">
     <title lang="en">Expedition with Steve Backshall</title>
@@ -19966,6 +19967,8 @@
     <title lang="en">Countryfile</title>
     <desc lang="en">Anita Rani and Joe Crowley explore the River Leven, which flows through Fife, uncovering how this once-hardworking industrial river shaped communities for centuries.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/450af5ef-9212-4aea-afd9-32ccf5122b23/cover"/>
+    <episode-num system="xmltv_ns">2025.56.0</episode-num>
+    <episode-num system="onscreen">S2026E57</episode-num>
   </programme>
   <programme channel="BBCTwoHD.uk" start="20260517181500 +0000" stop="20260517190000 +0000">
     <title lang="en">Expedition with Steve Backshall</title>
@@ -20979,6 +20982,8 @@
     <title lang="en">Countryfile</title>
     <desc lang="en">Anita Rani and Joe Crowley explore the River Leven, which flows through Fife, uncovering how this once-hardworking industrial river shaped communities for centuries.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/450af5ef-9212-4aea-afd9-32ccf5122b23/cover"/>
+    <episode-num system="xmltv_ns">2025.56.0</episode-num>
+    <episode-num system="onscreen">S2026E57</episode-num>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20260517181500 +0000" stop="20260517190000 +0000">
     <title lang="en">Expedition with Steve Backshall</title>
