@@ -492,12 +492,12 @@
     <desc lang="en">A look at the big stories dominating the news headlines, with discussion and analysis of sport's major topics.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9431c6ba-84a8-4d96-a4a2-cb53721e1c7a/cover"/>
   </programme>
-  <programme channel="sky.main.uk" start="20260527220000 +0000" stop="20260527223000 +0000">
+  <programme channel="sky.main.uk" start="20260527220000 +0000" stop="20260527230000 +0000">
     <title lang="en">Sky Sports News</title>
     <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2ec5a503-2758-4e3b-8ebd-151d76e01e7a/cover"/>
   </programme>
-  <programme channel="sky.main.uk" start="20260527223000 +0000" stop="20260528010000 +0000">
+  <programme channel="sky.main.uk" start="20260527230000 +0000" stop="20260528010000 +0000">
     <title lang="en">Live WNBA: Mercury @ Liberty</title>
     <desc lang="en">Slipping to 2-5 for the season, the Phoenix Mercury attempt to end an unwanted three-game losing streak on the road against New York Liberty at the Barclays Center in Brooklyn.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/80c0f769-e9f2-4085-84be-37604f362d76/cover"/>
@@ -2980,22 +2980,27 @@
     <desc lang="en">Stay across the biggest sports stories this morning with a wrap-up of the headlines.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ca95f8c6-a062-4ebc-bf64-12d461947a08/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20260529090000 +0000" stop="20260529093000 +0000">
-    <title lang="en">2025: The Year of Graffard</title>
-    <desc lang="en">At the conclusion of a record breaking year, Francis-Henri Graffard sits down to discuss the many successes he and his team enjoyed in 2025.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/6f2ca42b-eb80-40e8-9ab3-84d68730aa3f/cover"/>
+  <programme channel="sky.racing.uk" start="20260529090000 +0000" stop="20260529091500 +0000">
+    <title lang="en">British Racing: Welfare Commitment</title>
+    <desc lang="en">Alex Hammond visits Newbury Racecourse and Lambourn Training Grounds to find out what measures British Racing is implementing to help improve horse welfare.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/52a54f99-3c8a-3f89-9525-737d68b874eb/cover"/>
+  </programme>
+  <programme channel="sky.racing.uk" start="20260529091500 +0000" stop="20260529093000 +0000">
+    <title lang="en">Chester May Festival Highlights</title>
+    <desc lang="en">All the best action from Chester's 2026 Boodles May Festival, headlined by the 202nd running of the iconic Chester Cup.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/09c5994d-648c-42aa-a238-f5c32e36d403/cover"/>
   </programme>
   <programme channel="sky.racing.uk" start="20260529093000 +0000" stop="20260529123000 +0000">
     <title lang="en">International Raceday Live</title>
     <desc lang="en">Live French racing from St Cloud as well as greyhounds from Hove. A look ahead to this afternoon's Flat UK racing from Chepstow and Brighton.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/07f94be8-dd29-430b-916e-4b7bf409b042/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20260529123000 +0000" stop="20260529180000 +0000">
+  <programme channel="sky.racing.uk" start="20260529123000 +0000" stop="20260529200000 +0000">
     <title lang="en">Raceday Live</title>
     <desc lang="en">Live Racing: Chepstow with Mick Fitzgerald and Brighton with Callum Helliwell. International action from Saint Cloud and Nantes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fd5d417e-a398-4764-9a7f-f0369f885a7a/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20260529180000 +0000" stop="20260530010000 +0000">
+  <programme channel="sky.racing.uk" start="20260529200000 +0000" stop="20260530001500 +0000">
     <title lang="en">Stateside Live</title>
     <desc lang="en">Live US racing from Laurel Park, Delaware, Gulfstream, Churchill Downs, Woodbine, Santa Anita, Penn National, Charles Town and Lone Star Park.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2a4dfae0-fd2f-4744-a951-82d1783bba07/cover"/>
@@ -3146,8 +3151,8 @@
     <title lang="en">Men's State Of Origin #1 Hlts</title>
     <desc lang="en">The opening encounter in the 2026 men's State of Origin series sees the Blues host the Maroons in a battle of Australian state pride. Queensland claimed last year's series win. (27.05)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/224febb0-c996-4027-8123-c2939c1ab192/cover"/>
-    <episode-num system="xmltv_ns">2025.12.0</episode-num>
-    <episode-num system="onscreen">S2026E13</episode-num>
+    <episode-num system="xmltv_ns">2025.13.0</episode-num>
+    <episode-num system="onscreen">S2026E14</episode-num>
   </programme>
   <programme channel="sky.mix.uk" start="20260527200000 +0000" stop="20260527210000 +0000">
     <title lang="en">Rolex Grand Slam of Show Jumping</title>
@@ -3260,8 +3265,8 @@
     <title lang="en">Men's State Of Origin #1 Hlts</title>
     <desc lang="en">The opening encounter in the 2026 men's State of Origin series sees the Blues host the Maroons in a battle of Australian state pride. (27.05)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/32be0446-87a8-4a3b-a37e-f808310ad646/cover"/>
-    <episode-num system="xmltv_ns">2025.13.0</episode-num>
-    <episode-num system="onscreen">S2026E14</episode-num>
+    <episode-num system="xmltv_ns">2025.14.0</episode-num>
+    <episode-num system="onscreen">S2026E15</episode-num>
   </programme>
   <programme channel="sky.mix.uk" start="20260528121500 +0000" stop="20260528123000 +0000">
     <title lang="en">EFL 18/19: Aston Villa v Leeds Utd</title>
@@ -3282,8 +3287,8 @@
     <title lang="en">Women's State Of Origin #3 Hlts</title>
     <desc lang="en">The Women's State of Origin Series concludes at the Cbus Super Stadium. The Maroons are looking to avoid a Bluewash after falling short in the opening two games. (28.05)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f78246c8-2aa1-4be8-acc4-a214597b4f48/cover"/>
-    <episode-num system="xmltv_ns">2025.14.0</episode-num>
-    <episode-num system="onscreen">S2026E15</episode-num>
+    <episode-num system="xmltv_ns">2025.15.0</episode-num>
+    <episode-num system="onscreen">S2026E16</episode-num>
   </programme>
   <programme channel="sky.mix.uk" start="20260528210000 +0000" stop="20260528233000 +0000">
     <title lang="en">NBA Western Conference Finals</title>
@@ -3299,15 +3304,15 @@
     <title lang="en">Women's State Of Origin #3 Hlts</title>
     <desc lang="en">The Women's State of Origin Series concludes at the Cbus Super Stadium. The Maroons are looking to avoid a Bluewash after falling short in the opening two games. (28.05)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f78246c8-2aa1-4be8-acc4-a214597b4f48/cover"/>
-    <episode-num system="xmltv_ns">2025.14.0</episode-num>
-    <episode-num system="onscreen">S2026E15</episode-num>
+    <episode-num system="xmltv_ns">2025.15.0</episode-num>
+    <episode-num system="onscreen">S2026E16</episode-num>
   </programme>
   <programme channel="sky.mix.uk" start="20260529023000 +0000" stop="20260529024500 +0000">
     <title lang="en">Men's State Of Origin #1 Hlts</title>
     <desc lang="en">The opening encounter in the 2026 men's State of Origin series sees the Blues host the Maroons in a battle of Australian state pride. (27.05)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/32be0446-87a8-4a3b-a37e-f808310ad646/cover"/>
-    <episode-num system="xmltv_ns">2025.13.0</episode-num>
-    <episode-num system="onscreen">S2026E14</episode-num>
+    <episode-num system="xmltv_ns">2025.14.0</episode-num>
+    <episode-num system="onscreen">S2026E15</episode-num>
   </programme>
   <programme channel="sky.mix.uk" start="20260529024500 +0000" stop="20260529030000 +0000">
     <title lang="en">EFL Play-Off Memories: 1999</title>
@@ -3368,22 +3373,22 @@
     <title lang="en">Women's State Of Origin #3 Hlts</title>
     <desc lang="en">The Women's State of Origin Series reaches its finale as the Maroons and Blues bring proceedings to a close at the Cbus Super Stadium in Queensland. (28.05)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9d30bd70-26df-43e0-85ed-38c207b0e410/cover"/>
-    <episode-num system="xmltv_ns">2025.15.0</episode-num>
-    <episode-num system="onscreen">S2026E16</episode-num>
+    <episode-num system="xmltv_ns">2025.16.0</episode-num>
+    <episode-num system="onscreen">S2026E17</episode-num>
   </programme>
   <programme channel="sky.mix.uk" start="20260529113000 +0000" stop="20260529123000 +0000">
     <title lang="en">Men's State Of Origin #1 Hlts</title>
     <desc lang="en">The opening encounter in the 2026 men's State of Origin series sees the Blues host the Maroons in a battle of Australian state pride. Queensland claimed last year's series win. (27.05)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/224febb0-c996-4027-8123-c2939c1ab192/cover"/>
-    <episode-num system="xmltv_ns">2025.12.0</episode-num>
-    <episode-num system="onscreen">S2026E13</episode-num>
+    <episode-num system="xmltv_ns">2025.13.0</episode-num>
+    <episode-num system="onscreen">S2026E14</episode-num>
   </programme>
   <programme channel="sky.mix.uk" start="20260529123000 +0000" stop="20260529133000 +0000">
     <title lang="en">Women's State Of Origin #3 Hlts</title>
     <desc lang="en">The Women's State of Origin Series concludes at the Cbus Super Stadium. The Maroons are looking to avoid a Bluewash after falling short in the opening two games. (28.05)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f78246c8-2aa1-4be8-acc4-a214597b4f48/cover"/>
-    <episode-num system="xmltv_ns">2025.14.0</episode-num>
-    <episode-num system="onscreen">S2026E15</episode-num>
+    <episode-num system="xmltv_ns">2025.15.0</episode-num>
+    <episode-num system="onscreen">S2026E16</episode-num>
   </programme>
   <programme channel="sky.mix.uk" start="20260529133000 +0000" stop="20260529200000 +0000">
     <title lang="en">Live World Sevens Football Day 2</title>
@@ -3831,7 +3836,7 @@
   </programme>
   <programme channel="tnt1" start="20260527083000 +0000" stop="20260527173000 +0000">
     <title lang="en">Live: Roland-Garros 360</title>
-    <desc lang="en">Laura Robson hosts coverage from around the courts on the fourth day of Roland-Garros, with Novak Djokovic, Alex de Minaur, and Elena Rybakina all in action.</desc>
+    <desc lang="en">Laura Robson hosts coverage from around the courts on the fourth day of Roland-Garros, with Novak Djokovic, Francesca Jones, and Elena Rybakina all in action.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0aa02645-87ae-4b30-8366-cf39b8019d9e/cover"/>
   </programme>
   <programme channel="tnt1" start="20260527173000 +0000" stop="20260527220000 +0000">
@@ -3875,7 +3880,7 @@
   </programme>
   <programme channel="tnt1" start="20260528033000 +0000" stop="20260528050000 +0000">
     <title lang="en">Roland-Garros Highlights - Day 4</title>
-    <desc lang="en">Highlights from day four of Roland-Garros 2026, featuring Valentin Royer v Novak Djokovic, Alex De Minaur v Alexander Blockx, and Sara Bejlek v Iga Swiatek.</desc>
+    <desc lang="en">Highlights from day four of Roland-Garros 2026, featuring Valentin Royer v Novak Djokovic, Francesca Jones v Marie Bouzkova, and Sara Bejlek v Iga Swiatek.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c1603727-2ebe-4746-8103-cd68c2856356/cover"/>
   </programme>
   <programme channel="tnt1" start="20260528050000 +0000" stop="20260528060000 +0000">
@@ -3899,8 +3904,8 @@
   </programme>
   <programme channel="tnt1" start="20260528070000 +0000" stop="20260528083000 +0000">
     <title lang="en">Roland-Garros Highlights - Day 4</title>
-    <desc lang="en">Highlights from day four of Roland-Garros 2026, featuring Valentin Royer v Novak Djokovic, Alex De Minaur v Alexander Blockx, and Sara Bejlek v Iga Swiatek.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/61de69a6-fd20-479e-90ae-9363c51393f4/cover"/>
+    <desc lang="en">Highlights from day four of Roland-Garros 2026, featuring Valentin Royer v Novak Djokovic, Francesca Jones v Marie Bouzkova, and Sara Bejlek v Iga Swiatek.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/c1603727-2ebe-4746-8103-cd68c2856356/cover"/>
   </programme>
   <programme channel="tnt1" start="20260528083000 +0000" stop="20260528180000 +0000">
     <title lang="en">Live: Roland-Garros 360</title>
@@ -3915,7 +3920,7 @@
   <programme channel="tnt1" start="20260528220100 +0000" stop="20260528233000 +0000">
     <title lang="en">Roland-Garros Highlights - Day 5</title>
     <desc lang="en">Highlights from day five of Roland-Garros 2026.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0788cba8-b3fe-4da8-9a5d-878bf461064b/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/bef10e59-a497-4e2d-b17f-1a0d95cd80a1/cover"/>
   </programme>
   <programme channel="tnt1" start="20260528233000 +0000" stop="20260529003000 +0000">
     <title lang="en">Giro d'Italia Men Highlights - S18</title>
@@ -4211,7 +4216,7 @@
   </programme>
   <programme channel="tnt2" start="20260529013000 +0000" stop="20260529030000 +0000">
     <title lang="en">AFL: St Kilda v Hawthorn</title>
-    <desc lang="en">Action from the Australian Football League as St Kilda face Hawthorn.</desc>
+    <desc lang="en">Action from the Australian Football League as St Kilda face Hawthorn at Marvel Stadium. The Hawks have won their last seven games at this venue.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/19ddbea7-8d4b-4309-b6e1-af89b1e997ef/cover"/>
   </programme>
   <programme channel="tnt2" start="20260529030000 +0000" stop="20260529033000 +0000">
@@ -4708,12 +4713,12 @@
   </programme>
   <programme channel="tnt4" start="20260527083000 +0000" stop="20260527090000 +0000">
     <title lang="en">Live: Roland-Garros 360</title>
-    <desc lang="en">Laura Robson hosts coverage from around the courts on the fourth day of Roland-Garros, with Novak Djokovic, Alex de Minaur, and Elena Rybakina all in action.</desc>
+    <desc lang="en">Laura Robson hosts coverage from around the courts on the fourth day of Roland-Garros, with Novak Djokovic, Francesca Jones, and Elena Rybakina all in action.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0aa02645-87ae-4b30-8366-cf39b8019d9e/cover"/>
   </programme>
   <programme channel="tnt4" start="20260527090000 +0000" stop="20260527100000 +0000">
     <title lang="en">Live: Roland-Garros</title>
-    <desc lang="en">Action from Court Suzanne-Lenglen as world number seven Alex De Minaur looks to avoid an upset against rising star Alexander Blockx.</desc>
+    <desc lang="en">Action from Court Suzanne-Lenglen as No. 13 seed Karen Khachanov takes on Argentina's Marco Trungelliti.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7a9b9542-0fb4-4f8d-a91b-d5cd3fdefd70/cover"/>
   </programme>
   <programme channel="tnt4" start="20260527100000 +0000" stop="20260527120000 +0000">
@@ -4721,19 +4726,24 @@
     <desc lang="en">After cruising through round one, world number three Iga Swiatek looks to build more momentum as she takes on 20-year-old Sara Bejlek.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/61ad1686-1e67-43db-b868-b763ea13a548/cover"/>
   </programme>
-  <programme channel="tnt4" start="20260527120000 +0000" stop="20260527150000 +0000">
+  <programme channel="tnt4" start="20260527120000 +0000" stop="20260527140000 +0000">
     <title lang="en">Live: Roland-Garros</title>
     <desc lang="en">World number seven Elina Svitolina goes head-to-head with Spanish youngster Kaitlin Quevedo for a place in round two of Roland-Garros.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b3f69642-ed9b-47fa-9265-4343e62349b6/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/936dd207-883d-4179-8ae8-215c748bf328/cover"/>
   </programme>
-  <programme channel="tnt4" start="20260527150000 +0000" stop="20260527170000 +0000">
+  <programme channel="tnt4" start="20260527140000 +0000" stop="20260527160000 +0000">
     <title lang="en">Live: Roland-Garros</title>
     <desc lang="en">Novak Djokovic continues his pursuit of a 25th Grand Slam title as he faces France's Valentin Royer in the second round of Roland-Garros.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/58410780-8ed1-4aa3-b44d-57c5b60df091/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/aa3226b0-37b2-4d72-81da-ba6af6c62056/cover"/>
+  </programme>
+  <programme channel="tnt4" start="20260527160000 +0000" stop="20260527170000 +0000">
+    <title lang="en">Live: Roland-Garros</title>
+    <desc lang="en">Britain's Francesca Jones seeks her second Grand Slam match win as she meets world number 28 Marie Bouzkova in the second round of Roland-Garros.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/0c720da9-fe68-43e9-a8ea-7c2a49d8157f/cover"/>
   </programme>
   <programme channel="tnt4" start="20260527170000 +0000" stop="20260527180000 +0000">
     <title lang="en">Live: Roland-Garros 360</title>
-    <desc lang="en">Laura Robson hosts coverage from around the courts on the fourth day of Roland-Garros, with Novak Djokovic, Alex de Minaur, and Elena Rybakina all in action.</desc>
+    <desc lang="en">Laura Robson hosts coverage from around the courts on the fourth day of Roland-Garros, with Novak Djokovic, Francesca Jones, and Elena Rybakina all in action.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0aa02645-87ae-4b30-8366-cf39b8019d9e/cover"/>
   </programme>
   <programme channel="tnt4" start="20260527180000 +0000" stop="20260527220000 +0000">
@@ -4743,7 +4753,7 @@
   </programme>
   <programme channel="tnt4" start="20260527220000 +0000" stop="20260527233000 +0000">
     <title lang="en">Roland-Garros Highlights - Day 4</title>
-    <desc lang="en">Highlights from day four of Roland-Garros 2026, featuring Valentin Royer v Novak Djokovic, Alex De Minaur v Alexander Blockx, and Sara Bejlek v Iga Swiatek.</desc>
+    <desc lang="en">Highlights from day four of Roland-Garros 2026, featuring Valentin Royer v Novak Djokovic, Francesca Jones v Marie Bouzkova, and Sara Bejlek v Iga Swiatek.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c1603727-2ebe-4746-8103-cd68c2856356/cover"/>
   </programme>
   <programme channel="tnt4" start="20260527233000 +0000" stop="20260528000000 +0000">
@@ -4862,7 +4872,7 @@
   </programme>
   <programme channel="tnt4" start="20260528220000 +0000" stop="20260528233000 +0000">
     <title lang="en">AFL: St Kilda v Hawthorn</title>
-    <desc lang="en">Action from the Australian Football League as St Kilda face Hawthorn.</desc>
+    <desc lang="en">Action from the Australian Football League as St Kilda face Hawthorn at Marvel Stadium. The Hawks have won their last seven games at this venue.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/19ddbea7-8d4b-4309-b6e1-af89b1e997ef/cover"/>
   </programme>
   <programme channel="tnt4" start="20260528233000 +0000" stop="20260529003000 +0000">
@@ -4942,7 +4952,7 @@
   </programme>
   <programme channel="tnt4" start="20260529193000 +0000" stop="20260529210000 +0000">
     <title lang="en">AFL: Carlton v Geelong Cats</title>
-    <desc lang="en">Action from the Australian Football League as Carlton host Geelong Cats.</desc>
+    <desc lang="en">Action from the Australian Football League as Carlton host Geelong Cats at the MCG. The Blues have beaten the Cats three times in their past four matches since 2023.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4482be31-4b82-431f-b79e-d39a4c454a7a/cover"/>
   </programme>
   <programme channel="tnt4" start="20260529210000 +0000" stop="20260529223000 +0000">
@@ -9033,7 +9043,7 @@
   <programme channel="AlJazeeraEnglish.qa" start="20260529030000 +0000" stop="20260529033000 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b364dd0c-84f5-485a-b7d2-bd4e2c8a8629/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/526a6ece-c22f-4874-a68d-ea7120fbdf1c/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260529033000 +0000" stop="20260529040000 +0000">
     <title lang="en">Counting the Cost</title>
@@ -9045,7 +9055,7 @@
   <programme channel="AlJazeeraEnglish.qa" start="20260529040000 +0000" stop="20260529043000 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d34b8c37-5441-4a60-a320-68baf1f13faa/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/526a6ece-c22f-4874-a68d-ea7120fbdf1c/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260529043000 +0000" stop="20260529050000 +0000">
     <title lang="en">Witness</title>
@@ -9055,7 +9065,7 @@
   <programme channel="AlJazeeraEnglish.qa" start="20260529050000 +0000" stop="20260529053000 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0a99fa1e-13f0-42f5-be43-d5679ad36d71/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/526a6ece-c22f-4874-a68d-ea7120fbdf1c/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260529053000 +0000" stop="20260529060000 +0000">
     <title lang="en">Inside Story</title>
@@ -9065,7 +9075,7 @@
   <programme channel="AlJazeeraEnglish.qa" start="20260529060000 +0000" stop="20260529063000 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/161e9553-bfe5-4523-b928-01606408437d/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/526a6ece-c22f-4874-a68d-ea7120fbdf1c/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260529063000 +0000" stop="20260529070000 +0000">
     <title lang="en">The Global Population Bust</title>
@@ -9082,7 +9092,7 @@
   <programme channel="AlJazeeraEnglish.qa" start="20260529080000 +0000" stop="20260529083000 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/7dcd11e4-ffe8-4a99-b7f5-d6a7dbf4bd4c/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/526a6ece-c22f-4874-a68d-ea7120fbdf1c/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260529083000 +0000" stop="20260529090000 +0000">
     <title lang="en">101 East</title>
@@ -9094,7 +9104,7 @@
   <programme channel="AlJazeeraEnglish.qa" start="20260529090000 +0000" stop="20260529093000 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3e88fe94-f561-4b2f-b0fa-28ff2bb83a36/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/526a6ece-c22f-4874-a68d-ea7120fbdf1c/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260529093000 +0000" stop="20260529100000 +0000">
     <title lang="en">Making Peace</title>
@@ -9111,7 +9121,7 @@
   <programme channel="AlJazeeraEnglish.qa" start="20260529110000 +0000" stop="20260529113000 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/109d637f-9166-43e5-82b8-0a95f95d99f5/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/526a6ece-c22f-4874-a68d-ea7120fbdf1c/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260529113000 +0000" stop="20260529120000 +0000">
     <title lang="en">Inside Story</title>
@@ -9135,7 +9145,7 @@
   <programme channel="AlJazeeraEnglish.qa" start="20260529140000 +0000" stop="20260529143000 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/63c2d4a9-54d5-463f-b14d-b147e0564277/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/526a6ece-c22f-4874-a68d-ea7120fbdf1c/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260529143000 +0000" stop="20260529150000 +0000">
     <title lang="en">Fault Lines</title>
@@ -9154,7 +9164,7 @@
   <programme channel="AlJazeeraEnglish.qa" start="20260529160000 +0000" stop="20260529163000 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c5818334-30ae-4d50-96dc-dfb7c18bf25a/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/526a6ece-c22f-4874-a68d-ea7120fbdf1c/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260529163000 +0000" stop="20260529170000 +0000">
     <title lang="en">Making Peace</title>
@@ -9164,7 +9174,7 @@
   <programme channel="AlJazeeraEnglish.qa" start="20260529170000 +0000" stop="20260529173000 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f6356298-781a-418f-a112-f1be317b68e0/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/526a6ece-c22f-4874-a68d-ea7120fbdf1c/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260529173000 +0000" stop="20260529180000 +0000">
     <title lang="en">Inside Story</title>
@@ -9181,7 +9191,7 @@
   <programme channel="AlJazeeraEnglish.qa" start="20260529190000 +0000" stop="20260529193000 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/6a697815-7bc4-4fb4-b78f-0c27892f511f/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/526a6ece-c22f-4874-a68d-ea7120fbdf1c/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260529193000 +0000" stop="20260529200000 +0000">
     <title lang="en">Counting the Cost</title>
@@ -9193,12 +9203,12 @@
   <programme channel="AlJazeeraEnglish.qa" start="20260529200000 +0000" stop="20260529203000 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0161ab68-6749-4671-91ad-85da56a00db4/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/526a6ece-c22f-4874-a68d-ea7120fbdf1c/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260529203000 +0000" stop="20260529210000 +0000">
     <title lang="en">Iran, Israel and the Bomb</title>
     <desc lang="en">Israel's Nuclear Monopoly: The shadow war between Israel and Iran over nuclear technology erupts in June 2025, as decades of sabotage and assassinations push the region to the brink.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c10c1732-66a7-4ade-b163-77ee52335404/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/aab8efe6-f572-459f-a6bd-a36b502cce20/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260529210000 +0000" stop="20260529220000 +0000">
     <title lang="en">Newshour</title>
@@ -10803,7 +10813,7 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260527180000 +0000" stop="20260527183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">J B Gill and Angellica Bell bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Anna Maxwell Martin and Rivals stars Danny Dyer and Emily Atack join Angellica Bell and JB Gill in the studio. Plus, Matt's in for Watchdog.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f21d0418-ce59-421d-8f47-ef6ea3071c8d/cover"/>
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260527183000 +0000" stop="20260527190000 +0000">
@@ -11298,7 +11308,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20260527180000 +0000" stop="20260527183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">J B Gill and Angellica Bell bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Anna Maxwell Martin and Rivals stars Danny Dyer and Emily Atack join Angellica Bell and JB Gill in the studio. Plus, Matt's in for Watchdog.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f21d0418-ce59-421d-8f47-ef6ea3071c8d/cover"/>
   </programme>
   <programme channel="BBCOneEast.uk" start="20260527183000 +0000" stop="20260527190000 +0000">
@@ -11793,7 +11803,7 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260527180000 +0000" stop="20260527183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">J B Gill and Angellica Bell bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Anna Maxwell Martin and Rivals stars Danny Dyer and Emily Atack join Angellica Bell and JB Gill in the studio. Plus, Matt's in for Watchdog.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f21d0418-ce59-421d-8f47-ef6ea3071c8d/cover"/>
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260527183000 +0000" stop="20260527190000 +0000">
@@ -12288,7 +12298,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260527180000 +0000" stop="20260527183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">J B Gill and Angellica Bell bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Anna Maxwell Martin and Rivals stars Danny Dyer and Emily Atack join Angellica Bell and JB Gill in the studio. Plus, Matt's in for Watchdog.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f21d0418-ce59-421d-8f47-ef6ea3071c8d/cover"/>
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260527183000 +0000" stop="20260527190000 +0000">
@@ -12783,7 +12793,7 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260527180000 +0000" stop="20260527183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">J B Gill and Angellica Bell bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Anna Maxwell Martin and Rivals stars Danny Dyer and Emily Atack join Angellica Bell and JB Gill in the studio. Plus, Matt's in for Watchdog.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f21d0418-ce59-421d-8f47-ef6ea3071c8d/cover"/>
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260527183000 +0000" stop="20260527190000 +0000">
@@ -13278,7 +13288,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260527180000 +0000" stop="20260527183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">J B Gill and Angellica Bell bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Anna Maxwell Martin and Rivals stars Danny Dyer and Emily Atack join Angellica Bell and JB Gill in the studio. Plus, Matt's in for Watchdog.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f21d0418-ce59-421d-8f47-ef6ea3071c8d/cover"/>
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260527183000 +0000" stop="20260527190000 +0000">
@@ -13773,7 +13783,7 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260527180000 +0000" stop="20260527183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">J B Gill and Angellica Bell bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Anna Maxwell Martin and Rivals stars Danny Dyer and Emily Atack join Angellica Bell and JB Gill in the studio. Plus, Matt's in for Watchdog.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f21d0418-ce59-421d-8f47-ef6ea3071c8d/cover"/>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260527183000 +0000" stop="20260527190000 +0000">
@@ -14271,7 +14281,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260527180000 +0000" stop="20260527183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">J B Gill and Angellica Bell bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Anna Maxwell Martin and Rivals stars Danny Dyer and Emily Atack join Angellica Bell and JB Gill in the studio. Plus, Matt's in for Watchdog.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f21d0418-ce59-421d-8f47-ef6ea3071c8d/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260527183000 +0000" stop="20260527190000 +0000">
@@ -14776,7 +14786,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260527180000 +0000" stop="20260527183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">J B Gill and Angellica Bell bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Anna Maxwell Martin and Rivals stars Danny Dyer and Emily Atack join Angellica Bell and JB Gill in the studio. Plus, Matt's in for Watchdog.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f21d0418-ce59-421d-8f47-ef6ea3071c8d/cover"/>
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260527183000 +0000" stop="20260527190000 +0000">
@@ -15271,7 +15281,7 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260527180000 +0000" stop="20260527183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">J B Gill and Angellica Bell bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Anna Maxwell Martin and Rivals stars Danny Dyer and Emily Atack join Angellica Bell and JB Gill in the studio. Plus, Matt's in for Watchdog.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f21d0418-ce59-421d-8f47-ef6ea3071c8d/cover"/>
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260527183000 +0000" stop="20260527190000 +0000">
@@ -15766,7 +15776,7 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260527180000 +0000" stop="20260527183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">J B Gill and Angellica Bell bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Anna Maxwell Martin and Rivals stars Danny Dyer and Emily Atack join Angellica Bell and JB Gill in the studio. Plus, Matt's in for Watchdog.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f21d0418-ce59-421d-8f47-ef6ea3071c8d/cover"/>
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260527183000 +0000" stop="20260527190000 +0000">
@@ -16783,7 +16793,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20260527180000 +0000" stop="20260527183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">J B Gill and Angellica Bell bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Anna Maxwell Martin and Rivals stars Danny Dyer and Emily Atack join Angellica Bell and JB Gill in the studio. Plus, Matt's in for Watchdog.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f21d0418-ce59-421d-8f47-ef6ea3071c8d/cover"/>
   </programme>
   <programme channel="BBCOneWest.uk" start="20260527183000 +0000" stop="20260527190000 +0000">
@@ -17278,7 +17288,7 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260527180000 +0000" stop="20260527183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">J B Gill and Angellica Bell bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Anna Maxwell Martin and Rivals stars Danny Dyer and Emily Atack join Angellica Bell and JB Gill in the studio. Plus, Matt's in for Watchdog.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f21d0418-ce59-421d-8f47-ef6ea3071c8d/cover"/>
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260527183000 +0000" stop="20260527190000 +0000">
@@ -17773,7 +17783,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260527180000 +0000" stop="20260527183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">J B Gill and Angellica Bell bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Anna Maxwell Martin and Rivals stars Danny Dyer and Emily Atack join Angellica Bell and JB Gill in the studio. Plus, Matt's in for Watchdog.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f21d0418-ce59-421d-8f47-ef6ea3071c8d/cover"/>
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260527183000 +0000" stop="20260527190000 +0000">
@@ -18268,7 +18278,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260527180000 +0000" stop="20260527183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">J B Gill and Angellica Bell bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Anna Maxwell Martin and Rivals stars Danny Dyer and Emily Atack join Angellica Bell and JB Gill in the studio. Plus, Matt's in for Watchdog.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f21d0418-ce59-421d-8f47-ef6ea3071c8d/cover"/>
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260527183000 +0000" stop="20260527190000 +0000">
@@ -19652,7 +19662,9 @@
   <programme channel="BBCTwoEngland.uk" start="20260527185500 +0000" stop="20260527190000 +0000">
     <title lang="en">The Secret Genius of Modern Life: The Best Bits</title>
     <desc lang="en">1/5. Hannah looks at the air fryer - a device that is rapidly taking over people's kitchens.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e8875f1a-c0d3-41bc-9517-8ff8a0aa2c82/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/b5bdc56d-97d8-425e-8dd3-3264a048b701/cover"/>
+    <episode-num system="xmltv_ns">2.0.0</episode-num>
+    <episode-num system="onscreen">S3E1</episode-num>
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20260527190000 +0000" stop="20260527200000 +0000">
     <title lang="en">Springwatch</title>
@@ -19682,7 +19694,7 @@
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20260527220000 +0000" stop="20260527223000 +0000">
     <title lang="en">Unspun World with John Simpson</title>
-    <desc lang="en">Unspun World provides an unvarnished version of the week's major global news stories - reliable, honest and essential viewing with the BBC's world affairs editor, John Simpson.</desc>
+    <desc lang="en">John Simpson analyses the possibility of the US forcing regime change in Cuba.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/093e9481-0606-43f4-ba16-cb35c5efa66a/cover"/>
     <episode-num system="xmltv_ns">5.5.0</episode-num>
     <episode-num system="onscreen">S6E6</episode-num>
@@ -19901,8 +19913,8 @@
     <icon src="https://images.metadata.sky.com/pd-image/8dfd03e0-a625-411a-ac9e-c40f10b31af2/cover"/>
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20260529112000 +0000" stop="20260529115000 +0000">
-    <title lang="en">Political Thinking with Nick Robinson</title>
-    <desc lang="en">Nick Robinson in conversation with people who influence our political thinking.</desc>
+    <title lang="en">Political Thinking with Nick...</title>
+    <desc lang="en">...Robinson: Dr Mary-Ann Stephenson. Nick Robinson in conversation with people who influence our political thinking.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4d372d4e-8544-4af8-8791-9692d5fa0fa3/cover"/>
     <episode-num system="xmltv_ns">2.2.0</episode-num>
     <episode-num system="onscreen">S3E3</episode-num>
@@ -20166,7 +20178,9 @@
   <programme channel="BBCTwoHD.uk" start="20260527185500 +0000" stop="20260527190000 +0000">
     <title lang="en">The Secret Genius of Modern Life: The Best Bits</title>
     <desc lang="en">1/5. Hannah looks at the air fryer - a device that is rapidly taking over people's kitchens.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e8875f1a-c0d3-41bc-9517-8ff8a0aa2c82/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/b5bdc56d-97d8-425e-8dd3-3264a048b701/cover"/>
+    <episode-num system="xmltv_ns">2.0.0</episode-num>
+    <episode-num system="onscreen">S3E1</episode-num>
   </programme>
   <programme channel="BBCTwoHD.uk" start="20260527190000 +0000" stop="20260527200000 +0000">
     <title lang="en">Springwatch</title>
@@ -20196,7 +20210,7 @@
   </programme>
   <programme channel="BBCTwoHD.uk" start="20260527220000 +0000" stop="20260527223000 +0000">
     <title lang="en">Unspun World with John Simpson</title>
-    <desc lang="en">Unspun World provides an unvarnished version of the week's major global news stories - reliable, honest and essential viewing with the BBC's world affairs editor, John Simpson.</desc>
+    <desc lang="en">John Simpson analyses the possibility of the US forcing regime change in Cuba.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/093e9481-0606-43f4-ba16-cb35c5efa66a/cover"/>
     <episode-num system="xmltv_ns">5.5.0</episode-num>
     <episode-num system="onscreen">S6E6</episode-num>
@@ -20415,8 +20429,8 @@
     <icon src="https://images.metadata.sky.com/pd-image/8dfd03e0-a625-411a-ac9e-c40f10b31af2/cover"/>
   </programme>
   <programme channel="BBCTwoHD.uk" start="20260529112000 +0000" stop="20260529115000 +0000">
-    <title lang="en">Political Thinking with Nick Robinson</title>
-    <desc lang="en">Nick Robinson in conversation with people who influence our political thinking.</desc>
+    <title lang="en">Political Thinking with Nick...</title>
+    <desc lang="en">...Robinson: Dr Mary-Ann Stephenson. Nick Robinson in conversation with people who influence our political thinking.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4d372d4e-8544-4af8-8791-9692d5fa0fa3/cover"/>
     <episode-num system="xmltv_ns">2.2.0</episode-num>
     <episode-num system="onscreen">S3E3</episode-num>
@@ -20680,7 +20694,9 @@
   <programme channel="BBCTwoNorthernIreland.uk" start="20260527185500 +0000" stop="20260527190000 +0000">
     <title lang="en">The Secret Genius of Modern Life: The Best Bits</title>
     <desc lang="en">1/5. Hannah looks at the air fryer - a device that is rapidly taking over people's kitchens.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e8875f1a-c0d3-41bc-9517-8ff8a0aa2c82/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/b5bdc56d-97d8-425e-8dd3-3264a048b701/cover"/>
+    <episode-num system="xmltv_ns">2.0.0</episode-num>
+    <episode-num system="onscreen">S3E1</episode-num>
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20260527190000 +0000" stop="20260527200000 +0000">
     <title lang="en">Springwatch</title>
@@ -20710,7 +20726,7 @@
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20260527220000 +0000" stop="20260527223000 +0000">
     <title lang="en">Unspun World with John Simpson</title>
-    <desc lang="en">Unspun World provides an unvarnished version of the week's major global news stories - reliable, honest and essential viewing with the BBC's world affairs editor, John Simpson.</desc>
+    <desc lang="en">John Simpson analyses the possibility of the US forcing regime change in Cuba.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/093e9481-0606-43f4-ba16-cb35c5efa66a/cover"/>
     <episode-num system="xmltv_ns">5.5.0</episode-num>
     <episode-num system="onscreen">S6E6</episode-num>
@@ -20936,8 +20952,8 @@
     <icon src="https://images.metadata.sky.com/pd-image/57286e17-224f-4586-803a-716ba8472f20/cover"/>
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20260529112000 +0000" stop="20260529115000 +0000">
-    <title lang="en">Political Thinking with Nick Robinson</title>
-    <desc lang="en">Nick Robinson in conversation with people who influence our political thinking.</desc>
+    <title lang="en">Political Thinking with Nick...</title>
+    <desc lang="en">...Robinson: Dr Mary-Ann Stephenson. Nick Robinson in conversation with people who influence our political thinking.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4d372d4e-8544-4af8-8791-9692d5fa0fa3/cover"/>
     <episode-num system="xmltv_ns">2.2.0</episode-num>
     <episode-num system="onscreen">S3E3</episode-num>
@@ -21186,7 +21202,7 @@
   </programme>
   <programme channel="BBCTwoWales.uk" start="20260527180000 +0000" stop="20260527183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">J B Gill and Angellica Bell bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Anna Maxwell Martin and Rivals stars Danny Dyer and Emily Atack join Angellica Bell and JB Gill in the studio. Plus, Matt's in for Watchdog.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f21d0418-ce59-421d-8f47-ef6ea3071c8d/cover"/>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20260527183000 +0000" stop="20260527185500 +0000">
@@ -21199,7 +21215,9 @@
   <programme channel="BBCTwoWales.uk" start="20260527185500 +0000" stop="20260527190000 +0000">
     <title lang="en">The Secret Genius of Modern Life: The Best Bits</title>
     <desc lang="en">1/5. Hannah looks at the air fryer - a device that is rapidly taking over people's kitchens.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e8875f1a-c0d3-41bc-9517-8ff8a0aa2c82/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/b5bdc56d-97d8-425e-8dd3-3264a048b701/cover"/>
+    <episode-num system="xmltv_ns">2.0.0</episode-num>
+    <episode-num system="onscreen">S3E1</episode-num>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20260527190000 +0000" stop="20260527200000 +0000">
     <title lang="en">Springwatch</title>
@@ -21229,7 +21247,7 @@
   </programme>
   <programme channel="BBCTwoWales.uk" start="20260527220000 +0000" stop="20260527223000 +0000">
     <title lang="en">Unspun World with John Simpson</title>
-    <desc lang="en">Unspun World provides an unvarnished version of the week's major global news stories - reliable, honest and essential viewing with the BBC's world affairs editor, John Simpson.</desc>
+    <desc lang="en">John Simpson analyses the possibility of the US forcing regime change in Cuba.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/093e9481-0606-43f4-ba16-cb35c5efa66a/cover"/>
     <episode-num system="xmltv_ns">5.5.0</episode-num>
     <episode-num system="onscreen">S6E6</episode-num>
@@ -21453,8 +21471,8 @@
     <icon src="https://images.metadata.sky.com/pd-image/44726eda-e9a6-4cca-9997-067bfad81f20/cover"/>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20260529112000 +0000" stop="20260529115000 +0000">
-    <title lang="en">Political Thinking with Nick Robinson</title>
-    <desc lang="en">Nick Robinson in conversation with people who influence our political thinking.</desc>
+    <title lang="en">Political Thinking with Nick...</title>
+    <desc lang="en">...Robinson: Dr Mary-Ann Stephenson. Nick Robinson in conversation with people who influence our political thinking.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4d372d4e-8544-4af8-8791-9692d5fa0fa3/cover"/>
     <episode-num system="xmltv_ns">2.2.0</episode-num>
     <episode-num system="onscreen">S3E3</episode-num>
@@ -26691,7 +26709,7 @@
   </programme>
   <programme channel="Channel5Plus1.uk" start="20260527210000 +0000" stop="20260527223000 +0000">
     <title lang="en">New: Richard Madeley: Inside the World's Mega Prison</title>
-    <desc lang="en">Powerful documentary in which Richard gets rare access inside CECOT, one of the most controversial prisons in the world and cornerstone of El Salvador's war on gangs.</desc>
+    <desc lang="en">Richard Madeley joins 40,000 brutal murderers and rapists in the world's mega jail, so could we learn anything from this extreme experiment in El Salvadore?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d39dc017-5e5c-4e5c-89a9-b177ec0cfcaa/cover"/>
     <premiere/>
   </programme>
@@ -27047,12 +27065,16 @@
   <programme channel="Channel5Plus1.uk" start="20260529020000 +0000" stop="20260529025000 +0000">
     <title lang="en">Building the Impossible with Rob Bell</title>
     <desc lang="en">Rob sails to the furthest point of Britain to visit the Impossible Lighthouse at Muckle Flugga, forged in one of the most inhospitable spots in the North Atlantic.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/7b37707d-704f-4e40-9180-15e934148e58/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/02e1fc4d-e0cb-46f0-9c26-f431281165ed/cover"/>
+    <episode-num system="xmltv_ns">2.4.0</episode-num>
+    <episode-num system="onscreen">S3E5</episode-num>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20260529025000 +0000" stop="20260529034500 +0000">
     <title lang="en">Building the Impossible with Rob Bell</title>
     <desc lang="en">Rob travels to Boston Harbor to explore America's first lighthouse - the 'cursed beacon' Boston Light - in a story of civil war, tragedy, technology and innovation.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/bd5e60e5-2b72-4cbd-8874-d32ebe73c5fb/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/a1ea86a7-ef2c-4140-9e1d-2c1372a4d842/cover"/>
+    <episode-num system="xmltv_ns">2.5.0</episode-num>
+    <episode-num system="onscreen">S3E6</episode-num>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20260529034500 +0000" stop="20260529041000 +0000">
     <title lang="en">Friends</title>
@@ -39804,7 +39826,7 @@
     <icon src="https://images.metadata.sky.com/pd-image/4b50a2a7-2ed3-48e6-bd7f-084cf9f7a48b/cover"/>
   </programme>
   <programme channel="ITV1Plus1Midlands.uk" start="20260529030000 +0000" stop="20260529035000 +0000">
-    <title lang="en">Soccer Aid: More Than Just a...</title>
+    <title lang="en">Soccer Aid: More Than Just a Game</title>
     <desc lang="en">Brand-new documentary that looks back at the legacy of Soccer Aid for UNICEF as the match celebrates a milestone 20 years.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5efc1634-c663-42ef-b5a9-2a2151cc83f5/cover"/>
   </programme>
