@@ -3410,7 +3410,17 @@
     <desc lang="en">All the best action from Chester's 2026 Boodles May Festival, headlined by the 202nd running of the iconic Chester Cup.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/09c5994d-648c-42aa-a238-f5c32e36d403/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20260604091500 +0000" stop="20260604124500 +0000">
+  <programme channel="sky.racing.uk" start="20260604091500 +0000" stop="20260604093000 +0000">
+    <title lang="en">Royal Ascot Contenders: AUS &amp; JAP</title>
+    <desc lang="en">For more than 20 years, Royal Ascot has attracted human and equine stars from across the globe; the 2026 meeting looks to have another fascinating international contingent.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/09c5994d-648c-42aa-a238-f5c32e36d403/cover"/>
+  </programme>
+  <programme channel="sky.racing.uk" start="20260604093000 +0000" stop="20260604100000 +0000">
+    <title lang="en">Bow Echo: Royal Ambitions</title>
+    <desc lang="en">George Boughey's unbeaten Bow Echo was a spectacular winner of the 2000 Guineas in May. The team now heads to Royal Ascot with a Classic winner and a dream of more Group 1 glory.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/eecdfdef-62d6-4fc7-a461-37305a394a24/cover"/>
+  </programme>
+  <programme channel="sky.racing.uk" start="20260604100000 +0000" stop="20260604124500 +0000">
     <title lang="en">International Raceday Live</title>
     <desc lang="en">Live French racing from Craon and greyhound racing from Nottingham. A look ahead to today's UK racing.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0cba8d5b-3d12-4728-bf24-a05dc2551617/cover"/>
@@ -3709,20 +3719,18 @@
     <desc lang="en">The team with momentum behind them, Rajasthan, face a deflated Gujarat in the second IPL Qualifier. The reigning champions RCB await the winner of this contest in the final. (29.05)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4196f83f-ae6f-47c0-a291-7f5fb1c94fba/cover"/>
   </programme>
-  <programme channel="sky.mix.uk" start="20260603190000 +0000" stop="20260603200000 +0000">
+  <programme channel="sky.mix.uk" start="20260603190000 +0000" stop="20260603200001 +0000">
     <title lang="en">IPL'26 Finals Highlights</title>
     <desc lang="en">Royal Challengers Bengaluru face Gujarat Titans in the final of the 2026 Indian Premier League. After a standout season, only one can lift the trophy in the biggest match of them all.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4e7104fd-0312-4e57-a613-26b920446349/cover"/>
   </programme>
-  <programme channel="sky.mix.uk" start="20260603200000 +0000" stop="20260603210000 +0000">
-    <title lang="en">Men's State Of Origins Hightlights</title>
-    <desc lang="en">The third and final encounter in the 2026 men's State of Origin series sees the Blues and Maroons in a battle of Australian state pride.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/224febb0-c996-4027-8123-c2939c1ab192/cover"/>
-    <episode-num system="xmltv_ns">2025.13.0</episode-num>
-    <episode-num system="onscreen">S2026E14</episode-num>
+  <programme channel="sky.mix.uk" start="20260603200001 +0000" stop="20260603210000 +0000">
+    <title lang="en">Men's State of Origin Highlights</title>
+    <desc lang="en">The opening encounter in the 2026 men's State of Origin series sees the Blues host the Maroons in a battle of Australian state pride. Queensland claimed last year's series win. (27.05)</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/9b4e3ea9-44fc-4301-b69d-932293e2335b/cover"/>
   </programme>
   <programme channel="sky.mix.uk" start="20260603210000 +0000" stop="20260603220000 +0000">
-    <title lang="en">Women's State Of Origins</title>
+    <title lang="en">Women's State Of Origin Highlights</title>
     <desc lang="en">The Women's State of Origin Series concludes at the Cbus Super Stadium. The Maroons are looking to avoid a Bluewash after falling short in the opening two games. (28.05)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f78246c8-2aa1-4be8-acc4-a214597b4f48/cover"/>
     <episode-num system="xmltv_ns">2025.15.0</episode-num>
@@ -4146,11 +4154,6 @@
     <desc lang="en">Bitesize highlights from day one of England's opening Test against New Zealand at Lord's. The rebuilding process began here for Brendon McCullum's side after Ashes humiliation. (04.06)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/935dc896-63b9-4b93-878d-133b2dade4c9/cover"/>
   </programme>
-  <programme channel="tnt1" start="20260601180000 +0000" stop="20260601220000 +0000">
-    <title lang="en">Live: Roland-Garros 360</title>
-    <desc lang="en">Rachel Stringer hosts coverage of the evening session on day nine, as world number one Aryna Sabalenka continues her search for a first Roland-Garros title against Naomi Osaka.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/6cb39d2d-0a80-4699-a3a9-63d16e0d950e/cover"/>
-  </programme>
   <programme channel="tnt1" start="20260601220000 +0000" stop="20260601233000 +0000">
     <title lang="en">Roland-Garros Highlights - Day 9</title>
     <desc lang="en">Highlights from day nine of Roland-Garros 2026, featuring Aryna Sabalenka v Naomi Osaka, Felix Auger Aliassime v Alejandro Tabilo, and Flavio Cobolli v Zachary Svajda.</desc>
@@ -4241,27 +4244,10 @@
     <desc lang="en">Seventh seed Elina Svitolina faces Marta Kostyuk after her defeat of Wimbledon Champion Iga Swiatek in round four, in an all-Ukrainian quarterfinal match.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b4369ab4-9be1-45c8-b853-cb8a7a28e5c3/cover"/>
   </programme>
-  <programme channel="tnt1" start="20260602130000 +0000" stop="20260602160000 +0000">
+  <programme channel="tnt1" start="20260602130000 +0000" stop="20260602180000 +0000">
     <title lang="en">Live: Roland-Garros Quarter-Finals</title>
-    <desc lang="en">Alexander Zverev reaches the quarter-final stage having only dropped one set in the tournament so far, 19-year-old Spaniard Rafa Jodar stands between him and the semis.</desc>
+    <desc lang="en">Alexander Zverev battles Rafa Jodar for a place in the semis. Followed by mixed doubles action as Laura Siegemund and Edouard Roger-Vasselin face Neal Skupski and Desirae Krawczyk.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bdf2515e-3173-406f-ac2f-2d2dfc22f009/cover"/>
-  </programme>
-  <programme channel="tnt1" start="20260602160000 +0000" stop="20260602163000 +0000">
-    <title lang="en">MotoGP: Italy Sprint Race</title>
-    <desc lang="en">Sprint race action from the 2026 MotoGP Grand Prix of Italy at Autodromo Internazionale del Mugello. Can Alex Marquez claim back-to-back Sprint wins?</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1d8d9f75-d484-45e3-8a92-08be7b3d1e35/cover"/>
-  </programme>
-  <programme channel="tnt1" start="20260602163000 +0000" stop="20260602173000 +0000">
-    <title lang="en">MotoGP: Grand Prix of Italy</title>
-    <desc lang="en">Action from the 2026 MotoGP Grand Prix of Italy at Autodromo Internazionale del Mugello. Fabio Di Giannantonio and Marco Bezzecchi will be looking to top the podium on home soil.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/4f9c72e6-ab22-47a2-9a4e-a2e0005e3b36/cover"/>
-  </programme>
-  <programme channel="tnt1" start="20260602173000 +0000" stop="20260602180000 +0000">
-    <title lang="en">PL Stories: Lee Bowyer</title>
-    <desc lang="en">We sit down with former Leeds United and Newcastle United star Lee Bowyer to look back on the career of one of the Premier League's fiercest and most competitive midfielders.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/870a4b41-a8fb-4b02-9c48-bb5424d8a047/cover"/>
-    <episode-num system="xmltv_ns">5.0.0</episode-num>
-    <episode-num system="onscreen">S6E1</episode-num>
   </programme>
   <programme channel="tnt1" start="20260602180000 +0000" stop="20260602220000 +0000">
     <title lang="en">Live: Roland-Garros Quarter-Finals</title>
@@ -4313,7 +4299,7 @@
   </programme>
   <programme channel="tnt1" start="20260603050000 +0000" stop="20260603063000 +0000">
     <title lang="en">UCL Final 2026: PSG v Arsenal</title>
-    <desc lang="en">Mikel Arteta's Arsenal look to make history as they take on reigning champions Paris Saint-Germain in the final of the 2026 UEFA Champions League final at the Puskas Arena.</desc>
+    <desc lang="en">Mikel Arteta's Arsenal look to make history as they take on reigning champions Paris Saint-Germain in the final of the 2026 UEFA Champions League at the Puskas Arena.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2dad183c-a580-45d5-9e4b-4c317d8faf23/cover"/>
   </programme>
   <programme channel="tnt1" start="20260603063000 +0000" stop="20260603073000 +0000">
@@ -4332,22 +4318,22 @@
   </programme>
   <programme channel="tnt1" start="20260603083000 +0000" stop="20260603090000 +0000">
     <title lang="en">Live: Roland-Garros 360</title>
-    <desc lang="en">Craig Doyle hosts coverage from day 11 of Roland-Garros as the quarter-finals rumble on.</desc>
+    <desc lang="en">Craig Doyle look ahead to day 11 of Roland-Garros, with Aryna Sabalenka, Felix Auger-Aliassime, and Anna Kalinskaya all in quarter-finals action.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b8a6068f-f80e-4cc9-9c4b-c095698f152e/cover"/>
   </programme>
   <programme channel="tnt1" start="20260603090000 +0000" stop="20260603110000 +0000">
     <title lang="en">Live: Roland-Garros Quarter-Finals</title>
-    <desc lang="en">Action from Roland-Garros.</desc>
+    <desc lang="en">Anna Kalinskaya is enjoying her best ever run at Roland-Garros by reaching the quarter-finals where she will face Polish challenger Maja Chwalinska.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f3c2571b-f115-41b6-b1d6-e7b2385f91ea/cover"/>
   </programme>
   <programme channel="tnt1" start="20260603110000 +0000" stop="20260603130000 +0000">
     <title lang="en">Live: Roland-Garros Quarter-Finals</title>
-    <desc lang="en">Action from Roland-Garros.</desc>
+    <desc lang="en">Aryna Sabalenka hasn't dropped a single set on her route to the quarter-finals, the world number one will face compatriot Diana Shnaider for a place in the semis.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f2d5b92b-810e-4423-9a54-290d9f764af7/cover"/>
   </programme>
   <programme channel="tnt1" start="20260603130000 +0000" stop="20260603160000 +0000">
     <title lang="en">Live: Roland-Garros Quarter-Finals</title>
-    <desc lang="en">Action from Roland-Garros.</desc>
+    <desc lang="en">Canadian Felix Auger-Aliassime takes on Italian Flavio Cobolli in the quarter-finals, neither player has made it this far at Roland-Garros previously.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0b5a3f2f-1ffc-4208-9e97-f3d468783acf/cover"/>
   </programme>
   <programme channel="tnt1" start="20260603160000 +0000" stop="20260603170000 +0000">
@@ -4362,17 +4348,17 @@
   </programme>
   <programme channel="tnt1" start="20260603180000 +0000" stop="20260603220000 +0000">
     <title lang="en">Live: Roland-Garros Quarter-Finals</title>
-    <desc lang="en">Action from Roland-Garros.</desc>
+    <desc lang="en">Roland-Garros quarterfinalist for the first time since 2021, Matteo Berrettini will face compatriot Matteo Arnaldi in his first appearance at this stage of a Grand Slam tournament.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/187cff56-cee5-432e-aa3c-8198c09dccbb/cover"/>
   </programme>
   <programme channel="tnt1" start="20260603220000 +0000" stop="20260603233000 +0000">
     <title lang="en">Roland-Garros Highlights - Day 11</title>
-    <desc lang="en">Highlights from day 11 of Roland-Garros 2026.</desc>
+    <desc lang="en">Highlights from day 11 of Roland-Garros 2026, featuring Matteo Berrettini v Matteo Arnaldi, Aryna Sabalenka v Diana Shnaider, Felix Auger-Aliassime v Flavio Cobolli and more.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/60f4b0f1-ea55-4b6c-9db8-188db730ef2b/cover"/>
   </programme>
   <programme channel="tnt1" start="20260603233000 +0000" stop="20260604010000 +0000">
     <title lang="en">UCL Final 2026: PSG v Arsenal</title>
-    <desc lang="en">Mikel Arteta's Arsenal look to make history as they take on reigning champions Paris Saint-Germain in the final of the 2026 UEFA Champions League final at the Puskas Arena.</desc>
+    <desc lang="en">Mikel Arteta's Arsenal look to make history as they take on reigning champions Paris Saint-Germain in the final of the 2026 UEFA Champions League at the Puskas Arena.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2dad183c-a580-45d5-9e4b-4c317d8faf23/cover"/>
   </programme>
   <programme channel="tnt1" start="20260604010000 +0000" stop="20260604013000 +0000">
@@ -4394,7 +4380,7 @@
   </programme>
   <programme channel="tnt1" start="20260604033000 +0000" stop="20260604050000 +0000">
     <title lang="en">Roland-Garros Highlights - Day 11</title>
-    <desc lang="en">Highlights from day 11 of Roland-Garros 2026.</desc>
+    <desc lang="en">Highlights from day 11 of Roland-Garros 2026, featuring Matteo Berrettini v Matteo Arnaldi, Aryna Sabalenka v Diana Shnaider, Felix Auger-Aliassime v Flavio Cobolli and more.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/60f4b0f1-ea55-4b6c-9db8-188db730ef2b/cover"/>
   </programme>
   <programme channel="tnt1" start="20260604050000 +0000" stop="20260604051500 +0000">
@@ -4446,34 +4432,34 @@
     <episode-num system="onscreen">S25E35</episode-num>
   </programme>
   <programme channel="tnt1" start="20260604100000 +0000" stop="20260604123000 +0000">
-    <title lang="en">Live: Roland-Garros</title>
+    <title lang="en">Live: Roland-Garros Mixed Doubles</title>
     <desc lang="en">Action from the mixed doubles final at Roland-Garros.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0456baaf-7b39-437b-955d-ff2edc9a831b/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/953a760d-13f7-43e2-ab13-689d3ed80257/cover"/>
   </programme>
   <programme channel="tnt1" start="20260604123000 +0000" stop="20260604150000 +0000">
     <title lang="en">Live: Roland-Garros Semi-Finals</title>
     <desc lang="en">Action from the women's singles semi-final at Roland-Garros.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/264420e9-4169-47c3-88f9-13ef32b7d45b/cover"/>
   </programme>
-  <programme channel="tnt1" start="20260604150000 +0000" stop="20260604170100 +0000">
+  <programme channel="tnt1" start="20260604150000 +0000" stop="20260604170000 +0000">
     <title lang="en">Live: Roland-Garros Semi-Finals</title>
     <desc lang="en">Action from the women's singles semi-final at Roland-Garros.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3b8fee1d-c625-4858-a35a-483b45d9dbbb/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/00113aca-0a50-453b-8ce9-0f79d98f832c/cover"/>
   </programme>
-  <programme channel="tnt1" start="20260604170100 +0000" stop="20260604183000 +0000">
+  <programme channel="tnt1" start="20260604170000 +0000" stop="20260604183000 +0000">
     <title lang="en">Roland-Garros Highlights - Day 12</title>
     <desc lang="en">Highlights from day 12 of Roland-Garros 2026.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/56d14c09-f1e3-4ba1-aa3d-1542ad46ed05/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/346ee770-3c5e-43f5-ac22-b9a31bb28e97/cover"/>
   </programme>
   <programme channel="tnt1" start="20260604183000 +0000" stop="20260604193000 +0000">
-    <title lang="en">Roland Garros</title>
+    <title lang="en">Roland-Garros Mixed Doubles Final</title>
     <desc lang="en">Action from the mixed doubles final at Roland-Garros.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/7591eaaf-08e5-4d01-9626-b3843fdce3f7/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/3e0aee5e-d05c-4abd-bc5d-687b50bdc149/cover"/>
   </programme>
   <programme channel="tnt1" start="20260604193000 +0000" stop="20260604200000 +0000">
-    <title lang="en">UCL Final 2026: PSG v Arsenal</title>
-    <desc lang="en">Mikel Arteta's Arsenal look to make history as they take on reigning champions Paris Saint-Germain in the final of the 2026 UEFA Champions League final at the Puskas Arena.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/2dad183c-a580-45d5-9e4b-4c317d8faf23/cover"/>
+    <title lang="en">The Breakdown</title>
+    <desc lang="en">Ally McCoist, Owen Hargreaves, Julien Laurens and Martin Keown join Darren Fletcher as they look ahead to the World Cup and discuss who will win the biggest prize in world football.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/fabb937c-341a-479b-bb3f-6b0295065efd/cover"/>
   </programme>
   <programme channel="tnt1" start="20260604200000 +0000" stop="20260604210000 +0000">
     <title lang="en">Alcaraz - Sinner: The New Dawn Of Tennis</title>
@@ -4481,9 +4467,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/c7c7f99a-5404-4d37-b1f1-72de2b0ba470/cover"/>
   </programme>
   <programme channel="tnt1" start="20260604210000 +0000" stop="20260604220000 +0000">
-    <title lang="en">Roland Garros</title>
+    <title lang="en">Roland-Garros Mixed Doubles Final</title>
     <desc lang="en">Action from the mixed doubles final at Roland-Garros.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/7591eaaf-08e5-4d01-9626-b3843fdce3f7/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/14407d08-a9bb-4558-9900-a7c9e29d0295/cover"/>
   </programme>
   <programme channel="tnt1" start="20260604220000 +0000" stop="20260604233000 +0000">
     <title lang="en">Roland-Garros Highlights - Day 12</title>
@@ -4620,7 +4606,7 @@
   </programme>
   <programme channel="tnt2" start="20260602163000 +0000" stop="20260602180000 +0000">
     <title lang="en">UCL Final 2026: PSG v Arsenal</title>
-    <desc lang="en">Mikel Arteta's Arsenal look to make history as they take on reigning champions Paris Saint-Germain in the final of the 2026 UEFA Champions League final at the Puskas Arena.</desc>
+    <desc lang="en">Mikel Arteta's Arsenal look to make history as they take on reigning champions Paris Saint-Germain in the final of the 2026 UEFA Champions League at the Puskas Arena.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2dad183c-a580-45d5-9e4b-4c317d8faf23/cover"/>
   </programme>
   <programme channel="tnt2" start="20260602180000 +0000" stop="20260602190000 +0000">
@@ -4759,7 +4745,7 @@
   </programme>
   <programme channel="tnt2" start="20260603113000 +0000" stop="20260603123000 +0000">
     <title lang="en">MLB Highlights</title>
-    <desc lang="en">Highlights from Major League Baseball. (02.06)</desc>
+    <desc lang="en">Highlights from Major League Baseball, including San Diego Padres taking on Philadelphia Phillies and Tampa Bay Rays against Detroit Tigers. (02.06)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8c61ea83-bebc-4ad1-813d-f3255a5f0da6/cover"/>
     <episode-num system="xmltv_ns">2025.68.0</episode-num>
     <episode-num system="onscreen">S2026E69</episode-num>
@@ -4841,7 +4827,7 @@
   </programme>
   <programme channel="tnt2" start="20260604103000 +0000" stop="20260604163000 +0000">
     <title lang="en">Live: LIV Golf - Andalucia</title>
-    <desc lang="en">Action from round one of LIV Golf at the Real Club Valderrama in Sotogrande, Spain.</desc>
+    <desc lang="en">Action from round one of LIV Golf at the Real Club Valderrama in Sotogrande, Spain. Last year, Talor Gooch claimed his second consecutive individual title here.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a3e78217-a0f5-4de0-aa91-aead6b373e2d/cover"/>
   </programme>
   <programme channel="tnt2" start="20260604163000 +0000" stop="20260604170000 +0000">
@@ -5077,7 +5063,7 @@
   </programme>
   <programme channel="tnt3" start="20260603080000 +0000" stop="20260603093000 +0000">
     <title lang="en">AFL: West Coast Eagles v Essendon</title>
-    <desc lang="en">Action from the Australian Football League as West Coast Eagles host Essendon at the Optus Stadium. Can the the Eagles build some momentum against the struggling Bombers?</desc>
+    <desc lang="en">Action from the Australian Football League as West Coast Eagles host Essendon at the Optus Stadium. Can the Eagles build some momentum against the struggling Bombers?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4f2983da-41d3-4ae6-9de9-3b7724321bbd/cover"/>
   </programme>
   <programme channel="tnt3" start="20260603093000 +0000" stop="20260603103000 +0000">
@@ -5140,7 +5126,7 @@
   </programme>
   <programme channel="tnt3" start="20260603180000 +0000" stop="20260603190000 +0000">
     <title lang="en">MLB Highlights</title>
-    <desc lang="en">Highlights from Major League Baseball. (02.06)</desc>
+    <desc lang="en">Highlights from Major League Baseball, including San Diego Padres taking on Philadelphia Phillies and Tampa Bay Rays against Detroit Tigers. (02.06)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/37801685-81bf-49cf-bc55-fd65013204a4/cover"/>
   </programme>
   <programme channel="tnt3" start="20260603190000 +0000" stop="20260603193000 +0000">
@@ -5152,12 +5138,12 @@
   </programme>
   <programme channel="tnt3" start="20260603193000 +0000" stop="20260603223000 +0000">
     <title lang="en">Live MLB: Mets @ Mariners</title>
-    <desc lang="en">Action from Major League Baseball as New York Mets take on Seattle Mariners.</desc>
+    <desc lang="en">Action from Major League Baseball as the New York Mets face the Seattle Mariners at T-Mobile Park.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e4af46cf-2dce-41b1-9b86-f2ecb2e51fbb/cover"/>
   </programme>
   <programme channel="tnt3" start="20260603223000 +0000" stop="20260604013000 +0000">
     <title lang="en">Live MLB: Padres @ Phillies</title>
-    <desc lang="en">Action from Major League Baseball as San Diego Padres face Philadelphia Phillies.</desc>
+    <desc lang="en">Action from Major League Baseball as San Diego Padres take on Philadelphia Phillies at Citizen Bank Park.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2b37d3ff-1565-4784-9a51-7338f3b39d95/cover"/>
   </programme>
   <programme channel="tnt3" start="20260604013000 +0000" stop="20260604020000 +0000">
@@ -5255,7 +5241,7 @@
   </programme>
   <programme channel="tnt3" start="20260604170000 +0000" stop="20260604180000 +0000">
     <title lang="en">Premier League Review</title>
-    <desc lang="en">We review the 2025/26 Premier League season.</desc>
+    <desc lang="en">We review the 2025/26 Premier League season, as Arsenal claimed their first title since 2004 while London rivals West Ham and Spurs endured seasons to forget.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/818d55e3-0b23-4b31-8426-3b30c0b7cfd2/cover"/>
     <episode-num system="xmltv_ns">24.39.0</episode-num>
     <episode-num system="onscreen">S25E40</episode-num>
@@ -5282,13 +5268,8 @@
   </programme>
   <programme channel="tnt3" start="20260604213000 +0000" stop="20260604230000 +0000">
     <title lang="en">LIV Golf - Andalucia</title>
-    <desc lang="en">Action from round one of LIV Golf at the Real Club Valderrama in Sotogrande, Spain.</desc>
+    <desc lang="en">Action from round one of LIV Golf at the Real Club Valderrama in Sotogrande, Spain. Last year, Talor Gooch claimed his second consecutive individual title here.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3b362b74-e027-49c9-a050-fb43e119d524/cover"/>
-  </programme>
-  <programme channel="tnt4" start="20260601170000 +0000" stop="20260601231500 +0000">
-    <title lang="en">Live: Roland-Garros</title>
-    <desc lang="en">Action from Court Suzanne Lenglen as No. 19 seed Francis Tiafoe squares up to Italy's Matteo Arnaldi.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/185bcdc9-47f8-42f7-8ccc-9055c002e816/cover"/>
   </programme>
   <programme channel="tnt4" start="20260601231500 +0000" stop="20260602002000 +0000">
     <title lang="en">Climbing World Series Highlights</title>
@@ -5344,22 +5325,10 @@
     <desc lang="en">Seventh seed Elina Svitolina faces Marta Kostyuk after her defeat of Wimbledon Champion Iga Swiatek in round four, in an all-Ukrainian quarterfinal match.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b4369ab4-9be1-45c8-b853-cb8a7a28e5c3/cover"/>
   </programme>
-  <programme channel="tnt4" start="20260602130000 +0000" stop="20260602160000 +0000">
+  <programme channel="tnt4" start="20260602130000 +0000" stop="20260602180000 +0000">
     <title lang="en">Live: Roland-Garros Quarter-Finals</title>
-    <desc lang="en">Alexander Zverev reaches the quarter-final stage having only dropped one set in the tournament so far, 19-year-old Spaniard Rafa Jodar stands between him and the semis.</desc>
+    <desc lang="en">Alexander Zverev battles Rafa Jodar for a place in the semis. Followed by mixed doubles action as Laura Siegemund and Edouard Roger-Vasselin face Neal Skupski and Desirae Krawczyk.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bdf2515e-3173-406f-ac2f-2d2dfc22f009/cover"/>
-  </programme>
-  <programme channel="tnt4" start="20260602160000 +0000" stop="20260602170000 +0000">
-    <title lang="en">MLB Highlights</title>
-    <desc lang="en">Highlights from Major League Baseball including Milwaukee Brewers at San Francisco Giants and Seattle Mariners against New York Mets. (01.06)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/8f2c9d21-9535-4eac-8f6f-d7710f0da459/cover"/>
-    <episode-num system="xmltv_ns">2025.67.0</episode-num>
-    <episode-num system="onscreen">S2026E68</episode-num>
-  </programme>
-  <programme channel="tnt4" start="20260602170000 +0000" stop="20260602180000 +0000">
-    <title lang="en">Alcaraz - Sinner: The New Dawn Of Tennis</title>
-    <desc lang="en">A documentary that traces the rise of Carlos Alcaraz and Jannik Sinner, revealing how the two young stars are redefining the sport for a new generation.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c7c7f99a-5404-4d37-b1f1-72de2b0ba470/cover"/>
   </programme>
   <programme channel="tnt4" start="20260602180000 +0000" stop="20260602220000 +0000">
     <title lang="en">Live: Roland-Garros Quarter-Finals</title>
@@ -5424,22 +5393,22 @@
   </programme>
   <programme channel="tnt4" start="20260603083000 +0000" stop="20260603090000 +0000">
     <title lang="en">Live: Roland-Garros 360</title>
-    <desc lang="en">Craig Doyle hosts coverage from day 11 of Roland-Garros as the quarter-finals rumble on.</desc>
+    <desc lang="en">Craig Doyle look ahead to day 11 of Roland-Garros, with Aryna Sabalenka, Felix Auger-Aliassime, and Anna Kalinskaya all in quarter-finals action.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b8a6068f-f80e-4cc9-9c4b-c095698f152e/cover"/>
   </programme>
   <programme channel="tnt4" start="20260603090000 +0000" stop="20260603110000 +0000">
     <title lang="en">Live: Roland-Garros Quarter-Finals</title>
-    <desc lang="en">Action from Roland-Garros.</desc>
+    <desc lang="en">Anna Kalinskaya is enjoying her best ever run at Roland-Garros by reaching the quarter-finals where she will face Polish challenger Maja Chwalinska.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f3c2571b-f115-41b6-b1d6-e7b2385f91ea/cover"/>
   </programme>
   <programme channel="tnt4" start="20260603110000 +0000" stop="20260603130000 +0000">
     <title lang="en">Live: Roland-Garros Quarter-Finals</title>
-    <desc lang="en">Action from Roland-Garros.</desc>
+    <desc lang="en">Aryna Sabalenka hasn't dropped a single set on her route to the quarter-finals, the world number one will face compatriot Diana Shnaider for a place in the semis.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f2d5b92b-810e-4423-9a54-290d9f764af7/cover"/>
   </programme>
   <programme channel="tnt4" start="20260603130000 +0000" stop="20260603160000 +0000">
     <title lang="en">Live: Roland-Garros Quarter-Finals</title>
-    <desc lang="en">Action from Roland-Garros.</desc>
+    <desc lang="en">Canadian Felix Auger-Aliassime takes on Italian Flavio Cobolli in the quarter-finals, neither player has made it this far at Roland-Garros previously.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0b5a3f2f-1ffc-4208-9e97-f3d468783acf/cover"/>
   </programme>
   <programme channel="tnt4" start="20260603160000 +0000" stop="20260603163000 +0000">
@@ -5456,7 +5425,7 @@
   </programme>
   <programme channel="tnt4" start="20260603180000 +0000" stop="20260603220000 +0000">
     <title lang="en">Live: Roland-Garros Quarter-Finals</title>
-    <desc lang="en">Action from Roland-Garros.</desc>
+    <desc lang="en">Roland-Garros quarterfinalist for the first time since 2021, Matteo Berrettini will face compatriot Matteo Arnaldi in his first appearance at this stage of a Grand Slam tournament.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/187cff56-cee5-432e-aa3c-8198c09dccbb/cover"/>
   </programme>
   <programme channel="tnt4" start="20260603220000 +0000" stop="20260603230000 +0000">
@@ -5520,13 +5489,13 @@
   </programme>
   <programme channel="tnt4" start="20260604083000 +0000" stop="20260604100000 +0000">
     <title lang="en">Roland-Garros Highlights - Day 11</title>
-    <desc lang="en">Highlights from day 11 of Roland-Garros 2026.</desc>
+    <desc lang="en">Highlights from day 11 of Roland-Garros 2026, featuring Matteo Berrettini v Matteo Arnaldi, Aryna Sabalenka v Diana Shnaider, Felix Auger-Aliassime v Flavio Cobolli and more.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f1fcb22b-169a-44e9-9f9f-5a6ab0a1ece1/cover"/>
   </programme>
   <programme channel="tnt4" start="20260604100000 +0000" stop="20260604123000 +0000">
-    <title lang="en">Live: Roland-Garros</title>
+    <title lang="en">Live: Roland-Garros Mixed Doubles</title>
     <desc lang="en">Action from the mixed doubles final at Roland-Garros.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0456baaf-7b39-437b-955d-ff2edc9a831b/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/789cf1c3-d703-4f8a-a560-6dbb8ba1f08d/cover"/>
   </programme>
   <programme channel="tnt4" start="20260604123000 +0000" stop="20260604150000 +0000">
     <title lang="en">Live: Roland-Garros Semi-Finals</title>
@@ -9353,7 +9322,7 @@
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260602193000 +0000" stop="20260602200000 +0000">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Ep.35 Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Ep.35 China opens its markets to African exports, but who stands to gain the most?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9ea47a40-2a79-4d26-9918-11590c8ed7b1/cover"/>
     <episode-num system="xmltv_ns">2025.34.0</episode-num>
     <episode-num system="onscreen">S2026E35</episode-num>
@@ -9455,7 +9424,7 @@
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260603063000 +0000" stop="20260603070000 +0000">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Ep.35 Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Ep.35 China opens its markets to African exports, but who stands to gain the most?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9ea47a40-2a79-4d26-9918-11590c8ed7b1/cover"/>
     <episode-num system="xmltv_ns">2025.34.0</episode-num>
     <episode-num system="onscreen">S2026E35</episode-num>
@@ -9525,7 +9494,7 @@
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260603143000 +0000" stop="20260603150000 +0000">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Ep.35 Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Ep.35 China opens its markets to African exports, but who stands to gain the most?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9ea47a40-2a79-4d26-9918-11590c8ed7b1/cover"/>
     <episode-num system="xmltv_ns">2025.34.0</episode-num>
     <episode-num system="onscreen">S2026E35</episode-num>
@@ -9702,7 +9671,7 @@
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260604093000 +0000" stop="20260604100000 +0000">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Ep.35 Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Ep.35 China opens its markets to African exports, but who stands to gain the most?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9ea47a40-2a79-4d26-9918-11590c8ed7b1/cover"/>
     <episode-num system="xmltv_ns">2025.34.0</episode-num>
     <episode-num system="onscreen">S2026E35</episode-num>
@@ -10818,7 +10787,7 @@
   </programme>
   <programme channel="BBCNews.uk" start="20260603024500 +0000" stop="20260603030000 +0000">
     <title lang="en">Asia Specific</title>
-    <desc lang="en">Asia Specific brings you essential insights and conversations on the stories and trends shaping Asia Pacific, unpacked by those who know it best. Hosted in Singapore by Mariko Oi.</desc>
+    <desc lang="en">While much of the world focuses on the US AI rally, South Korea is having an even bigger surge. The main KOSPI index has almost doubled this year, fuelling a pile in from retail investors.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fe7d44e2-ea59-4f7b-aae7-c7c95e84d3ff/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260603030000 +0000" stop="20260603033000 +0000">
@@ -10833,7 +10802,7 @@
   </programme>
   <programme channel="BBCNews.uk" start="20260603034500 +0000" stop="20260603040000 +0000">
     <title lang="en">Asia Specific</title>
-    <desc lang="en">Asia Specific brings you essential insights and conversations on the stories and trends shaping Asia Pacific, unpacked by those who know it best. Hosted in Singapore by Mariko Oi.</desc>
+    <desc lang="en">While much of the world focuses on the US AI rally, South Korea is having an even bigger surge. The main KOSPI index has almost doubled this year, fuelling a pile in from retail investors.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fe7d44e2-ea59-4f7b-aae7-c7c95e84d3ff/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260603040000 +0000" stop="20260603043000 +0000">
@@ -11414,7 +11383,7 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260602180000 +0000" stop="20260602183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Girlband Mis-Teeq are back for their 25th anniversary, and talk about their big reunion show. With them on the green sofa are Denise Welch and It's a Sin star Callum Scott Howells.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/94017d03-d7f5-430f-87c5-a3f235447f5d/cover"/>
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260602183000 +0000" stop="20260602190000 +0000">
@@ -11895,7 +11864,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20260602180000 +0000" stop="20260602183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Girlband Mis-Teeq are back for their 25th anniversary, and talk about their big reunion show. With them on the green sofa are Denise Welch and It's a Sin star Callum Scott Howells.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/94017d03-d7f5-430f-87c5-a3f235447f5d/cover"/>
   </programme>
   <programme channel="BBCOneEast.uk" start="20260602183000 +0000" stop="20260602190000 +0000">
@@ -12376,7 +12345,7 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260602180000 +0000" stop="20260602183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Girlband Mis-Teeq are back for their 25th anniversary, and talk about their big reunion show. With them on the green sofa are Denise Welch and It's a Sin star Callum Scott Howells.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/94017d03-d7f5-430f-87c5-a3f235447f5d/cover"/>
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260602183000 +0000" stop="20260602190000 +0000">
@@ -12857,7 +12826,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260602180000 +0000" stop="20260602183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Girlband Mis-Teeq are back for their 25th anniversary, and talk about their big reunion show. With them on the green sofa are Denise Welch and It's a Sin star Callum Scott Howells.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/94017d03-d7f5-430f-87c5-a3f235447f5d/cover"/>
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260602183000 +0000" stop="20260602190000 +0000">
@@ -13338,7 +13307,7 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260602180000 +0000" stop="20260602183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Girlband Mis-Teeq are back for their 25th anniversary, and talk about their big reunion show. With them on the green sofa are Denise Welch and It's a Sin star Callum Scott Howells.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/94017d03-d7f5-430f-87c5-a3f235447f5d/cover"/>
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260602183000 +0000" stop="20260602190000 +0000">
@@ -13819,7 +13788,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260602180000 +0000" stop="20260602183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Girlband Mis-Teeq are back for their 25th anniversary, and talk about their big reunion show. With them on the green sofa are Denise Welch and It's a Sin star Callum Scott Howells.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/94017d03-d7f5-430f-87c5-a3f235447f5d/cover"/>
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260602183000 +0000" stop="20260602190000 +0000">
@@ -14302,7 +14271,7 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260602180000 +0000" stop="20260602183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Girlband Mis-Teeq are back for their 25th anniversary, and talk about their big reunion show. With them on the green sofa are Denise Welch and It's a Sin star Callum Scott Howells.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/94017d03-d7f5-430f-87c5-a3f235447f5d/cover"/>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260602183000 +0000" stop="20260602190000 +0000">
@@ -14337,9 +14306,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/6726233c-925a-4939-888f-66013b02aa54/cover"/>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260602214000 +0000" stop="20260602221000 +0000">
-    <title lang="en">Spotlight</title>
-    <desc lang="en">Hard-hitting investigations on the stories that matter in Northern Ireland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/ceb697eb-1a16-44a0-9843-2649d13be2ba/cover"/>
+    <title lang="en">Scams Exposed - Spotlight</title>
+    <desc lang="en">Impersonation scams are making millions from unsuspecting victims. Conor Spackman investigates the scammers and hears from a victim who went on the hunt for those who robbed her.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/256bf886-0951-4288-8058-5dce6a9bdc06/cover"/>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260602221000 +0000" stop="20260602232000 +0000">
     <title lang="en">Half Man</title>
@@ -14791,7 +14760,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260602180000 +0000" stop="20260602183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Girlband Mis-Teeq are back for their 25th anniversary, and talk about their big reunion show. With them on the green sofa are Denise Welch and It's a Sin star Callum Scott Howells.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/94017d03-d7f5-430f-87c5-a3f235447f5d/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260602183000 +0000" stop="20260602190000 +0000">
@@ -14834,7 +14803,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260602225000 +0000" stop="20260602232000 +0000">
     <title lang="en">Scotcast</title>
-    <desc lang="en">Conversation about Scotland's biggest news stories, hosted by Martin Geissler.</desc>
+    <desc lang="en">Martin Geissler and David Henderson on revelations from Peter Murrell's latest High Court appearance.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1c691a76-32f3-441a-83b1-9c3956f8674e/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260602232000 +0000" stop="20260603011000 +0000">
@@ -15276,7 +15245,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260602180000 +0000" stop="20260602183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Girlband Mis-Teeq are back for their 25th anniversary, and talk about their big reunion show. With them on the green sofa are Denise Welch and It's a Sin star Callum Scott Howells.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/94017d03-d7f5-430f-87c5-a3f235447f5d/cover"/>
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260602183000 +0000" stop="20260602190000 +0000">
@@ -15757,7 +15726,7 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260602180000 +0000" stop="20260602183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Girlband Mis-Teeq are back for their 25th anniversary, and talk about their big reunion show. With them on the green sofa are Denise Welch and It's a Sin star Callum Scott Howells.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/94017d03-d7f5-430f-87c5-a3f235447f5d/cover"/>
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260602183000 +0000" stop="20260602190000 +0000">
@@ -16238,7 +16207,7 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260602180000 +0000" stop="20260602183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Girlband Mis-Teeq are back for their 25th anniversary, and talk about their big reunion show. With them on the green sofa are Denise Welch and It's a Sin star Callum Scott Howells.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/94017d03-d7f5-430f-87c5-a3f235447f5d/cover"/>
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260602183000 +0000" stop="20260602190000 +0000">
@@ -17218,7 +17187,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20260602180000 +0000" stop="20260602183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Girlband Mis-Teeq are back for their 25th anniversary, and talk about their big reunion show. With them on the green sofa are Denise Welch and It's a Sin star Callum Scott Howells.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/94017d03-d7f5-430f-87c5-a3f235447f5d/cover"/>
   </programme>
   <programme channel="BBCOneWest.uk" start="20260602183000 +0000" stop="20260602190000 +0000">
@@ -17699,7 +17668,7 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260602180000 +0000" stop="20260602183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Girlband Mis-Teeq are back for their 25th anniversary, and talk about their big reunion show. With them on the green sofa are Denise Welch and It's a Sin star Callum Scott Howells.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/94017d03-d7f5-430f-87c5-a3f235447f5d/cover"/>
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260602183000 +0000" stop="20260602190000 +0000">
@@ -18180,7 +18149,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260602180000 +0000" stop="20260602183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Girlband Mis-Teeq are back for their 25th anniversary, and talk about their big reunion show. With them on the green sofa are Denise Welch and It's a Sin star Callum Scott Howells.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/94017d03-d7f5-430f-87c5-a3f235447f5d/cover"/>
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260602183000 +0000" stop="20260602190000 +0000">
@@ -18661,7 +18630,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260602180000 +0000" stop="20260602183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Girlband Mis-Teeq are back for their 25th anniversary, and talk about their big reunion show. With them on the green sofa are Denise Welch and It's a Sin star Callum Scott Howells.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/94017d03-d7f5-430f-87c5-a3f235447f5d/cover"/>
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260602183000 +0000" stop="20260602190000 +0000">
@@ -19034,7 +19003,7 @@
   <programme channel="BBCParliament.uk" start="20260601230000 +0000" stop="20260601232000 +0000">
     <title lang="en">House of Lords - Political...</title>
     <desc lang="en">...Party Donations Private Notice Question. The private notice question on tightening the rules on donations to political parties.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/5c0e0ed6-a50d-429c-8e9c-fee39a166731/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/eef7512f-25c3-47d0-8627-5acec21e7ddc/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260601232000 +0000" stop="20260601235500 +0000">
     <title lang="en">House of Lords - Middle East and Economy Statement</title>
@@ -19063,7 +19032,7 @@
   <programme channel="BBCParliament.uk" start="20260602050500 +0000" stop="20260602060000 +0000">
     <title lang="en">Lord Mandelson Documents Statement</title>
     <desc lang="en">Coverage of the day's proceedings in the House of Commons on Monday 1 June.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/29df835f-df3d-42cf-8501-8a00bfc598ce/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/fbfc1fae-488b-4850-8eac-c1dd631b5073/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260602060000 +0000" stop="20260602064500 +0000">
     <title lang="en">Scottish First Minister's Questions</title>
@@ -19085,15 +19054,25 @@
     <desc lang="en">Coverage of the Treasury select committee session on student loans and the taxation of graduates, on Tuesday 2 June.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/538f3bba-1d26-4d4d-af14-570cfa2c874d/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260602103000 +0000" stop="20260602113000 +0000">
+  <programme channel="BBCParliament.uk" start="20260602103000 +0000" stop="20260602113500 +0000">
     <title lang="en">Live Energy Security and Net Zero Questions</title>
     <desc lang="en">Coverage of questions in the House of Commons to Ed Miliband, the energy security and net zero secretary, and his team of ministers on Tuesday 2 June.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9e450ff4-e560-49b7-9236-e2b6e84f8b9e/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260602113000 +0000" stop="20260602183000 +0000">
+  <programme channel="BBCParliament.uk" start="20260602113500 +0000" stop="20260602124000 +0000">
+    <title lang="en">Live Milburn Review Urgent Question</title>
+    <desc lang="en">Urgent question on the interim report of the Milburn review into young people and work.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/0e2758bf-e02b-4856-8c48-6c9c82220dbc/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260602124000 +0000" stop="20260602140000 +0000">
+    <title lang="en">Live Statement on the Murder of Henry Nowak</title>
+    <desc lang="en">Coverage of a statement in the House of Commons by home secretary Shabana Mahmood on the murder of Henry Nowak, on Tuesday 2 June.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/da556722-2ad0-4932-95a3-0fb102db3f53/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260602140000 +0000" stop="20260602183000 +0000">
     <title lang="en">Live House of Commons</title>
-    <desc lang="en">Coverage of the day's proceedings in the House of Commons including the debate on the committee stage of the Armed Forces Bill, on Tuesday 2 June.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3c0fe365-3661-41b6-8ddf-ff01610d6a27/cover"/>
+    <desc lang="en">Coverage of the day's proceedings in the House of Commons, including a debate on the committee stage of the Armed Forces Bill, on Tuesday 2 June.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/c79fa70a-06ed-4700-b672-bfaaa53c5421/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260602183000 +0000" stop="20260602210000 +0000">
     <title lang="en">Live House of Lords</title>
@@ -19115,20 +19094,40 @@
     <desc lang="en">Questions in the House of Lords to government ministers on Tuesday 2 June.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/82092860-e463-4fd9-a4a3-82c8a6037ae7/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260602230500 +0000" stop="20260603060000 +0000">
-    <title lang="en">House of Lords</title>
-    <desc lang="en">Business in the House of Lords including the second reading of the Civil Aviation Bill, on Tuesday 2 June.</desc>
+  <programme channel="BBCParliament.uk" start="20260602230500 +0000" stop="20260602232000 +0000">
+    <title lang="en">House of Lords - UK-India Free Trade Deal</title>
+    <desc lang="en">Coverage of a private notice question in the House of Lords, tabled by Lord Sharpe of Epsom, on the UK-India free trade deal and British steel production, on Tuesday 2 June.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/aabc5209-c653-48be-82c2-5ca8ff392824/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260603060000 +0000" stop="20260603070000 +0000">
+  <programme channel="BBCParliament.uk" start="20260602232000 +0000" stop="20260603000000 +0000">
+    <title lang="en">House of Lords - Lord Mandelson Documents</title>
+    <desc lang="en">Coverage of a statement on the appointment of Lord Mandelson as UK Ambassador to the US.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/37c332eb-41aa-4f25-b129-7a0622ec8167/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260603000000 +0000" stop="20260603020000 +0000">
+    <title lang="en">House of Lords - Civil Aviation Bill, Part 1</title>
+    <desc lang="en">Coverage of a debate in the House of Lords on the second reading of the Civil Aviation (Consumer Protection and Regulatory Reform) Bill, on Tuesday 2 June.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/b3ab6f86-d03b-47b0-9cfc-74c90ce3a39c/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260603020000 +0000" stop="20260603040000 +0000">
+    <title lang="en">House of Lords - Civil Aviation Bill, Part 2</title>
+    <desc lang="en">Coverage of a debate in the House of Lords on the second reading of the Civil Aviation (Consumer Protection and Regulatory Reform) Bill, on Tuesday 2 June.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/97f727fe-f7a6-4219-bd2e-01b5bf8d17e9/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260603040000 +0000" stop="20260603062000 +0000">
+    <title lang="en">House of Lords - Civil Aviation Bill, Part 3</title>
+    <desc lang="en">Coverage of a debate in the House of Lords on the second reading of the Civil Aviation (Consumer Protection and Regulatory Reform) Bill, on Tuesday 2 June.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/efaba02c-a2c7-4e59-8288-1605689aa3b1/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260603062000 +0000" stop="20260603072500 +0000">
     <title lang="en">Energy Security and Net Zero Questions</title>
     <desc lang="en">Coverage of questions in the House of Commons to Ed Miliband, the energy security and net zero secretary, and his team of ministers on Tuesday 2 June.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9e450ff4-e560-49b7-9236-e2b6e84f8b9e/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260603070000 +0000" stop="20260603083000 +0000">
-    <title lang="en">House of Commons</title>
-    <desc lang="en">Highlights of proceedings in the House of Commons from Tuesday 2 June.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e1304b0a-b9ce-43ab-a8fe-74f153b7455b/cover"/>
+  <programme channel="BBCParliament.uk" start="20260603072500 +0000" stop="20260603083000 +0000">
+    <title lang="en">Milburn Review Urgent Question</title>
+    <desc lang="en">Coverage of the urgent question tabled by shadow work and pensions secretary Helen Whately on the interim report of the Milburn review into young people and work, on Tuesday 2 June.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3c0fe365-3661-41b6-8ddf-ff01610d6a27/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260603083000 +0000" stop="20260603103000 +0000">
     <title lang="en">Live Health and Social Care...</title>
@@ -19219,11 +19218,6 @@
     <title lang="en">House of Lords</title>
     <desc lang="en">Business in the House of Lords on Thursday 4 June.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c8eacc1b-3d4c-4d2d-8b5e-17fad98d4665/cover"/>
-  </programme>
-  <programme channel="BBCRedButton1.uk" start="20260601170000 +0000" stop="20260601230000 +0000">
-    <title lang="en">The Story So Far: The Best Of, Part 4</title>
-    <desc lang="en">The best of Ali Plumb's Story So Far programmes. Part 4.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/7b5e9534-9179-4315-974f-a55bf6ed8f78/cover"/>
   </programme>
   <programme channel="BBCRedButton1.uk" start="20260601230000 +0000" stop="20260602050000 +0000">
     <title lang="en">The Story So Far: The Best Of, Part 4</title>
@@ -19364,7 +19358,7 @@
   </programme>
   <programme channel="BBCScotland.uk" start="20260602220000 +0000" stop="20260602223000 +0000">
     <title lang="en">Scotcast</title>
-    <desc lang="en">Conversation about Scotland's biggest news stories, hosted by Martin Geissler.</desc>
+    <desc lang="en">Martin Geissler and David Henderson on revelations from Peter Murrell's latest High Court appearance.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1c691a76-32f3-441a-83b1-9c3956f8674e/cover"/>
   </programme>
   <programme channel="BBCScotland.uk" start="20260602223000 +0000" stop="20260602230000 +0000">
@@ -19599,7 +19593,12 @@
     <title lang="en">This is BBC Three</title>
     <desc lang="en">Programmes start at 7.00pm.</desc>
   </programme>
-  <programme channel="BBCThreeHD.uk" start="20260602180000 +0000" stop="20260602181500 +0000">
+  <programme channel="BBCThreeHD.uk" start="20260602180000 +0000" stop="20260602180500 +0000">
+    <title lang="en">The Catch Up</title>
+    <desc lang="en">A round-up of the day's news with Stephen Murphy.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1ebf0193-714e-461e-b134-5e8fffb64b7b/cover"/>
+  </programme>
+  <programme channel="BBCThreeHD.uk" start="20260602180500 +0000" stop="20260602181500 +0000">
     <title lang="en">Jobless</title>
     <desc lang="en">Sixteen-year-old twins Tai and Kenny are desperate to make their mark on the world. That's hard when you live with your parents, and even harder when you live in Milton Keynes...</desc>
     <icon src="https://images.metadata.sky.com/pd-image/104379ca-020b-3044-aa0f-b163555ee56d/cover"/>
@@ -20140,7 +20139,7 @@
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20260603220000 +0000" stop="20260603223000 +0000">
     <title lang="en">Unspun World with John Simpson</title>
-    <desc lang="en">Unspun World provides an unvarnished version of the week's major global news stories - reliable, honest and essential viewing with the BBC's world affairs editor, John Simpson.</desc>
+    <desc lang="en">John Simpson explores how ordinary Iranians feel about the conflict with the US.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c2e1be24-cc23-4b97-ae2e-ce2590c9b40e/cover"/>
     <episode-num system="xmltv_ns">5.6.0</episode-num>
     <episode-num system="onscreen">S6E7</episode-num>
@@ -20668,7 +20667,7 @@
   </programme>
   <programme channel="BBCTwoHD.uk" start="20260603220000 +0000" stop="20260603223000 +0000">
     <title lang="en">Unspun World with John Simpson</title>
-    <desc lang="en">Unspun World provides an unvarnished version of the week's major global news stories - reliable, honest and essential viewing with the BBC's world affairs editor, John Simpson.</desc>
+    <desc lang="en">John Simpson explores how ordinary Iranians feel about the conflict with the US.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c2e1be24-cc23-4b97-ae2e-ce2590c9b40e/cover"/>
     <episode-num system="xmltv_ns">5.6.0</episode-num>
     <episode-num system="onscreen">S6E7</episode-num>
@@ -21190,9 +21189,9 @@
     <episode-num system="onscreen">S8E5</episode-num>
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20260603210000 +0000" stop="20260603213000 +0000">
-    <title lang="en">Spotlight</title>
-    <desc lang="en">Hard-hitting investigations on the stories that matter in Northern Ireland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/ceb697eb-1a16-44a0-9843-2649d13be2ba/cover"/>
+    <title lang="en">Scams Exposed - Spotlight</title>
+    <desc lang="en">Impersonation scams are making millions from unsuspecting victims. Conor Spackman investigates the scammers and hears from a victim who went on the hunt for those who robbed her.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1166e643-3da8-4b6f-a2a4-1c2870da2ad9/cover"/>
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20260603213000 +0000" stop="20260603220000 +0000">
     <title lang="en">Newsnight, followed by Weather</title>
@@ -21208,7 +21207,7 @@
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20260603223000 +0000" stop="20260603230000 +0000">
     <title lang="en">Unspun World with John Simpson</title>
-    <desc lang="en">Unspun World provides an unvarnished version of the week's major global news stories - reliable, honest and essential viewing with the BBC's world affairs editor, John Simpson.</desc>
+    <desc lang="en">John Simpson explores how ordinary Iranians feel about the conflict with the US.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c2e1be24-cc23-4b97-ae2e-ce2590c9b40e/cover"/>
     <episode-num system="xmltv_ns">5.6.0</episode-num>
     <episode-num system="onscreen">S6E7</episode-num>
@@ -21511,7 +21510,7 @@
   </programme>
   <programme channel="BBCTwoWales.uk" start="20260602180000 +0000" stop="20260602183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Girlband Mis-Teeq are back for their 25th anniversary, and talk about their big reunion show. With them on the green sofa are Denise Welch and It's a Sin star Callum Scott Howells.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/94017d03-d7f5-430f-87c5-a3f235447f5d/cover"/>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20260602183000 +0000" stop="20260602190000 +0000">
@@ -21730,7 +21729,7 @@
   </programme>
   <programme channel="BBCTwoWales.uk" start="20260603220000 +0000" stop="20260603223000 +0000">
     <title lang="en">Unspun World with John Simpson</title>
-    <desc lang="en">Unspun World provides an unvarnished version of the week's major global news stories - reliable, honest and essential viewing with the BBC's world affairs editor, John Simpson.</desc>
+    <desc lang="en">John Simpson explores how ordinary Iranians feel about the conflict with the US.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c2e1be24-cc23-4b97-ae2e-ce2590c9b40e/cover"/>
     <episode-num system="xmltv_ns">5.6.0</episode-num>
     <episode-num system="onscreen">S6E7</episode-num>
@@ -22937,9 +22936,6 @@
     <desc lang="en">Ownership Was Always Tracy McGrady's Goal. NBA Hall of Famer Tracy McGrady discusses how he became an NFL owner, and returning to the NBA as an NBC analyst. S4, Ep5</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ba0ae1ca-eeff-4320-92f6-c313cfd3d1cc/cover"/>
   </programme>
-  <programme channel="CBBC.uk" start="20260601175800 +0000" stop="20260601235800 +0000">
-    <title lang="en">.programmes start at 7.00am</title>
-  </programme>
   <programme channel="CBBC.uk" start="20260601235800 +0000" stop="20260602042959 +0000">
     <title lang="en">.programmes start at 7.00am</title>
   </programme>
@@ -23275,7 +23271,7 @@
   <programme channel="CBBC.uk" start="20260602175000 +0000" stop="20260602175800 +0000">
     <title lang="en">Blue Peter Challenges</title>
     <desc lang="en">Behind the Scenes at Radio One Big Weekend. Joel meets some of the incredible acts performing at Radio 1's Big Weekend.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d4ae5f49-5ba9-4dbb-88be-e8ea981caed9/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/d050398f-361f-4a66-8928-e344daf3e3a8/cover"/>
   </programme>
   <programme channel="CBBC.uk" start="20260602175800 +0000" stop="20260602235800 +0000">
     <title lang="en">.programmes start at 7.00am</title>
@@ -23966,9 +23962,6 @@
   </programme>
   <programme channel="CBBC.uk" start="20260604175800 +0000" stop="20260604235800 +0000">
     <title lang="en">.programmes start at 7.00am</title>
-  </programme>
-  <programme channel="CBeebies.uk" start="20260601175800 +0000" stop="20260601235800 +0000">
-    <title lang="en">..programmes start at 6.00am</title>
   </programme>
   <programme channel="CBeebies.uk" start="20260601235800 +0000" stop="20260602042959 +0000">
     <title lang="en">..programmes start at 6.00am</title>
@@ -25727,7 +25720,7 @@
   </programme>
   <programme channel="Channel4.uk" start="20260602180000 +0000" stop="20260602190000 +0000">
     <title lang="en">Channel 4 News</title>
-    <desc lang="en">Channel 4's flagship news programme. Including the weather.</desc>
+    <desc lang="en">The home secretary says the family of murdered student Henry Nowak 'deserve answers' over the handling of his death but denies any 'two-tier policing' in the UK.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ce8bbacc-ddc4-4e83-acea-071875d27c2c/cover"/>
   </programme>
   <programme channel="Channel4.uk" start="20260602190000 +0000" stop="20260602200000 +0000">
@@ -26406,7 +26399,7 @@
   </programme>
   <programme channel="Channel4Plus1.uk" start="20260602190000 +0000" stop="20260602200000 +0000">
     <title lang="en">Channel 4 News</title>
-    <desc lang="en">Channel 4's flagship news programme. Including the weather.</desc>
+    <desc lang="en">The home secretary says the family of murdered student Henry Nowak 'deserve answers' over the handling of his death but denies any 'two-tier policing' in the UK.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ce8bbacc-ddc4-4e83-acea-071875d27c2c/cover"/>
   </programme>
   <programme channel="Channel4Plus1.uk" start="20260602200000 +0000" stop="20260602210000 +0000">
@@ -43639,7 +43632,7 @@
   </programme>
   <programme channel="ITV2.uk" start="20260601213500 +0000" stop="20260601220500 +0000">
     <title lang="en">New: Love Island: The Debrief</title>
-    <desc lang="en">Your daily drop of hot Love Island tea, and all the Villa gossip. With Shakira Khan, Toni Laites and Yasmin Pettet, nothing is off-topic or out of the question!</desc>
+    <desc lang="en">Shakira, Toni and Yas are reunited for the first episode of The Debrief, as they prepare to spend the summer taking a deep dive on each episode of the latest series of Love Island.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/da463b89-af4c-4626-9c32-e3b7538cccc6/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
@@ -43817,15 +43810,15 @@
     <episode-num system="xmltv_ns">11.1.0</episode-num>
     <episode-num system="onscreen">S12E2</episode-num>
   </programme>
-  <programme channel="ITV2.uk" start="20260602200000 +0000" stop="20260602210500 +0000">
+  <programme channel="ITV2.uk" start="20260602200000 +0000" stop="20260602212000 +0000">
     <title lang="en">New: Love Island</title>
-    <desc lang="en">The brand new series of Love Island continues on ITV2 and in the villa they already know that in paradise you'd better be ready to expect the unexpected.</desc>
+    <desc lang="en">Following the epic twist that George and Yasmin have only 24 hours to secretly decide on a boy and girl to dump from the villa, first impressions are everything.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0b38ea48-99ce-497d-9178-ec5bae277271/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">12.1.0</episode-num>
     <episode-num system="onscreen">S13E2</episode-num>
   </programme>
-  <programme channel="ITV2.uk" start="20260602210500 +0000" stop="20260602213500 +0000">
+  <programme channel="ITV2.uk" start="20260602212000 +0000" stop="20260602215000 +0000">
     <title lang="en">New: Love Island: The Debrief</title>
     <desc lang="en">Behind-the-scenes snippets and unseen moments, alongside discussion of everything that's happening in the Villa, alongside some Love Island superfans.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e35e092a-7ebd-463d-b141-c12a139a23ed/cover"/>
@@ -43833,63 +43826,63 @@
     <episode-num system="xmltv_ns">0.1.0</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
   </programme>
-  <programme channel="ITV2.uk" start="20260602213500 +0000" stop="20260602220500 +0000">
+  <programme channel="ITV2.uk" start="20260602215000 +0000" stop="20260602222000 +0000">
     <title lang="en">Family Guy</title>
     <desc lang="en">Breaking Out Is Hard to Do: Animated US comedy about family life. When Lois is short on cash and cannot pay her grocery bill, she resorts to stealing and gets addicted to the rush.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/66697fb4-bebf-43dc-b044-02b135f8eb44/cover"/>
     <episode-num system="xmltv_ns">3.8.0</episode-num>
     <episode-num system="onscreen">S4E9</episode-num>
   </programme>
-  <programme channel="ITV2.uk" start="20260602220500 +0000" stop="20260602223500 +0000">
+  <programme channel="ITV2.uk" start="20260602222000 +0000" stop="20260602225000 +0000">
     <title lang="en">Family Guy</title>
     <desc lang="en">Don't Make Me Over: Peter, Quagmire, Joe and Cleveland start a mishmash covers band, only to discover they cannot play. Meg saves the day.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/942863f4-649d-4a9b-a153-49511ec7b789/cover"/>
     <episode-num system="xmltv_ns">3.3.0</episode-num>
     <episode-num system="onscreen">S4E4</episode-num>
   </programme>
-  <programme channel="ITV2.uk" start="20260602223500 +0000" stop="20260602230500 +0000">
+  <programme channel="ITV2.uk" start="20260602225000 +0000" stop="20260602232000 +0000">
     <title lang="en">American Dad!</title>
     <desc lang="en">Big Trouble in Little Langley: Animated comedy. When Francine's adoptive parents stop by, Stan is furious that they refuse to adhere to his 'man of the house' ways.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a5e588b0-1175-4e9e-b437-b22b08edac62/cover"/>
     <episode-num system="xmltv_ns">3.3.0</episode-num>
     <episode-num system="onscreen">S4E4</episode-num>
   </programme>
-  <programme channel="ITV2.uk" start="20260602230500 +0000" stop="20260602233500 +0000">
+  <programme channel="ITV2.uk" start="20260602232000 +0000" stop="20260602235000 +0000">
     <title lang="en">American Dad!</title>
     <desc lang="en">Bush Comes to Dinner: Animated series about a CIA agent. Stan wins a contest to have his hero George W Bush come over for dinner, much to the chagrin of the rest of the family.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f05ca60b-59f0-4649-9c2f-4f6ccab958fa/cover"/>
     <episode-num system="xmltv_ns">2.9.0</episode-num>
     <episode-num system="onscreen">S3E10</episode-num>
   </programme>
-  <programme channel="ITV2.uk" start="20260602233500 +0000" stop="20260603000500 +0000">
+  <programme channel="ITV2.uk" start="20260602235000 +0000" stop="20260603002000 +0000">
     <title lang="en">Bob's Burgers</title>
     <desc lang="en">Clear and Present Ginger: Animated comedy. Nat recruits the Belchers for a limo racing contest that triggers Tina's anxieties about her future prom, and Linda plans a girls' night.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0685aa15-5fa4-4b33-89c1-b80cd533f56a/cover"/>
     <episode-num system="xmltv_ns">11.17.0</episode-num>
     <episode-num system="onscreen">S12E18</episode-num>
   </programme>
-  <programme channel="ITV2.uk" start="20260603000500 +0000" stop="20260603003000 +0000">
+  <programme channel="ITV2.uk" start="20260603002000 +0000" stop="20260603004500 +0000">
     <title lang="en">Bob's Burgers</title>
     <desc lang="en">Ancient Misbehavin': When Louise, Rudy and Millie keep missing out on clay coins given as prizes at their ancient Greek history class, they plot a scheme of revenge.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e2d91f7d-2f1c-4b40-bc6b-68b5f9c70f7c/cover"/>
     <episode-num system="xmltv_ns">11.14.0</episode-num>
     <episode-num system="onscreen">S12E15</episode-num>
   </programme>
-  <programme channel="ITV2.uk" start="20260603003000 +0000" stop="20260603010500 +0000">
+  <programme channel="ITV2.uk" start="20260603004500 +0000" stop="20260603012000 +0000">
     <title lang="en">G'wed</title>
     <desc lang="en">Scousechella: Comedy-drama series. The countdown for a legendary party called Scousechella is on, but Christopher is struggling with the anniversary of his mother's passing away.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/41999538-5b45-45cf-8e32-b9948c53b444/cover"/>
     <episode-num system="xmltv_ns">1.2.0</episode-num>
     <episode-num system="onscreen">S2E3</episode-num>
   </programme>
-  <programme channel="ITV2.uk" start="20260603010500 +0000" stop="20260603013500 +0000">
+  <programme channel="ITV2.uk" start="20260603012000 +0000" stop="20260603015000 +0000">
     <title lang="en">G'wed</title>
     <desc lang="en">Creepy Old Perv: Comedy-drama series. Mia-Louise heads to a gaming expo where she unexpectedly comes face to face with James, and Connor finds himself in the middle of a scandal.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/068edf91-409f-40ef-bc72-f6bd0205b32a/cover"/>
     <episode-num system="xmltv_ns">1.3.0</episode-num>
     <episode-num system="onscreen">S2E4</episode-num>
   </programme>
-  <programme channel="ITV2.uk" start="20260603013500 +0000" stop="20260603020000 +0000">
+  <programme channel="ITV2.uk" start="20260603015000 +0000" stop="20260603020000 +0000">
     <title lang="en">Unwind with ITV</title>
     <desc lang="en">Your daily escape designed to calm the mind and encourage relaxation and reflection.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/78196df1-e5f9-4cdc-9e41-aa70e95d91cf/cover"/>
@@ -44254,7 +44247,7 @@
   </programme>
   <programme channel="ITV2Plus1.uk" start="20260601223500 +0000" stop="20260601230500 +0000">
     <title lang="en">New: Love Island: The Debrief</title>
-    <desc lang="en">Your daily drop of hot Love Island tea, and all the Villa gossip. With Shakira Khan, Toni Laites and Yasmin Pettet, nothing is off-topic or out of the question!</desc>
+    <desc lang="en">Shakira, Toni and Yas are reunited for the first episode of The Debrief, as they prepare to spend the summer taking a deep dive on each episode of the latest series of Love Island.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/da463b89-af4c-4626-9c32-e3b7538cccc6/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
@@ -44432,15 +44425,15 @@
     <episode-num system="xmltv_ns">11.1.0</episode-num>
     <episode-num system="onscreen">S12E2</episode-num>
   </programme>
-  <programme channel="ITV2Plus1.uk" start="20260602210000 +0000" stop="20260602220500 +0000">
+  <programme channel="ITV2Plus1.uk" start="20260602210000 +0000" stop="20260602222000 +0000">
     <title lang="en">New: Love Island</title>
-    <desc lang="en">The brand new series of Love Island continues on ITV2 and in the villa they already know that in paradise you'd better be ready to expect the unexpected.</desc>
+    <desc lang="en">Following the epic twist that George and Yasmin have only 24 hours to secretly decide on a boy and girl to dump from the villa, first impressions are everything.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0b38ea48-99ce-497d-9178-ec5bae277271/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">12.1.0</episode-num>
     <episode-num system="onscreen">S13E2</episode-num>
   </programme>
-  <programme channel="ITV2Plus1.uk" start="20260602220500 +0000" stop="20260602223500 +0000">
+  <programme channel="ITV2Plus1.uk" start="20260602222000 +0000" stop="20260602225000 +0000">
     <title lang="en">New: Love Island: The Debrief</title>
     <desc lang="en">Behind-the-scenes snippets and unseen moments, alongside discussion of everything that's happening in the Villa, alongside some Love Island superfans.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e35e092a-7ebd-463d-b141-c12a139a23ed/cover"/>
@@ -44448,63 +44441,63 @@
     <episode-num system="xmltv_ns">0.1.0</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
   </programme>
-  <programme channel="ITV2Plus1.uk" start="20260602223500 +0000" stop="20260602230500 +0000">
+  <programme channel="ITV2Plus1.uk" start="20260602225000 +0000" stop="20260602232000 +0000">
     <title lang="en">Family Guy</title>
     <desc lang="en">Breaking Out Is Hard to Do: Animated US comedy about family life. When Lois is short on cash and cannot pay her grocery bill, she resorts to stealing and gets addicted to the rush.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/66697fb4-bebf-43dc-b044-02b135f8eb44/cover"/>
     <episode-num system="xmltv_ns">3.8.0</episode-num>
     <episode-num system="onscreen">S4E9</episode-num>
   </programme>
-  <programme channel="ITV2Plus1.uk" start="20260602230500 +0000" stop="20260602233500 +0000">
+  <programme channel="ITV2Plus1.uk" start="20260602232000 +0000" stop="20260602235000 +0000">
     <title lang="en">Family Guy</title>
     <desc lang="en">Don't Make Me Over: Peter, Quagmire, Joe and Cleveland start a mishmash covers band, only to discover they cannot play. Meg saves the day.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/942863f4-649d-4a9b-a153-49511ec7b789/cover"/>
     <episode-num system="xmltv_ns">3.3.0</episode-num>
     <episode-num system="onscreen">S4E4</episode-num>
   </programme>
-  <programme channel="ITV2Plus1.uk" start="20260602233500 +0000" stop="20260603000500 +0000">
+  <programme channel="ITV2Plus1.uk" start="20260602235000 +0000" stop="20260603002000 +0000">
     <title lang="en">American Dad!</title>
     <desc lang="en">Big Trouble in Little Langley: Animated comedy. When Francine's adoptive parents stop by, Stan is furious that they refuse to adhere to his 'man of the house' ways.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a5e588b0-1175-4e9e-b437-b22b08edac62/cover"/>
     <episode-num system="xmltv_ns">3.3.0</episode-num>
     <episode-num system="onscreen">S4E4</episode-num>
   </programme>
-  <programme channel="ITV2Plus1.uk" start="20260603000500 +0000" stop="20260603003500 +0000">
+  <programme channel="ITV2Plus1.uk" start="20260603002000 +0000" stop="20260603005000 +0000">
     <title lang="en">American Dad!</title>
     <desc lang="en">Bush Comes to Dinner: Animated series about a CIA agent. Stan wins a contest to have his hero George W Bush come over for dinner, much to the chagrin of the rest of the family.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f05ca60b-59f0-4649-9c2f-4f6ccab958fa/cover"/>
     <episode-num system="xmltv_ns">2.9.0</episode-num>
     <episode-num system="onscreen">S3E10</episode-num>
   </programme>
-  <programme channel="ITV2Plus1.uk" start="20260603003500 +0000" stop="20260603010500 +0000">
+  <programme channel="ITV2Plus1.uk" start="20260603005000 +0000" stop="20260603012000 +0000">
     <title lang="en">Bob's Burgers</title>
     <desc lang="en">Clear and Present Ginger: Animated comedy. Nat recruits the Belchers for a limo racing contest that triggers Tina's anxieties about her future prom, and Linda plans a girls' night.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0685aa15-5fa4-4b33-89c1-b80cd533f56a/cover"/>
     <episode-num system="xmltv_ns">11.17.0</episode-num>
     <episode-num system="onscreen">S12E18</episode-num>
   </programme>
-  <programme channel="ITV2Plus1.uk" start="20260603010500 +0000" stop="20260603013000 +0000">
+  <programme channel="ITV2Plus1.uk" start="20260603012000 +0000" stop="20260603014500 +0000">
     <title lang="en">Bob's Burgers</title>
     <desc lang="en">Ancient Misbehavin': When Louise, Rudy and Millie keep missing out on clay coins given as prizes at their ancient Greek history class, they plot a scheme of revenge.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e2d91f7d-2f1c-4b40-bc6b-68b5f9c70f7c/cover"/>
     <episode-num system="xmltv_ns">11.14.0</episode-num>
     <episode-num system="onscreen">S12E15</episode-num>
   </programme>
-  <programme channel="ITV2Plus1.uk" start="20260603013000 +0000" stop="20260603020500 +0000">
+  <programme channel="ITV2Plus1.uk" start="20260603014500 +0000" stop="20260603022000 +0000">
     <title lang="en">G'wed</title>
     <desc lang="en">Scousechella: Comedy-drama series. The countdown for a legendary party called Scousechella is on, but Christopher is struggling with the anniversary of his mother's passing away.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/41999538-5b45-45cf-8e32-b9948c53b444/cover"/>
     <episode-num system="xmltv_ns">1.2.0</episode-num>
     <episode-num system="onscreen">S2E3</episode-num>
   </programme>
-  <programme channel="ITV2Plus1.uk" start="20260603020500 +0000" stop="20260603023500 +0000">
+  <programme channel="ITV2Plus1.uk" start="20260603022000 +0000" stop="20260603025000 +0000">
     <title lang="en">G'wed</title>
     <desc lang="en">Creepy Old Perv: Comedy-drama series. Mia-Louise heads to a gaming expo where she unexpectedly comes face to face with James, and Connor finds himself in the middle of a scandal.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/068edf91-409f-40ef-bc72-f6bd0205b32a/cover"/>
     <episode-num system="xmltv_ns">1.3.0</episode-num>
     <episode-num system="onscreen">S2E4</episode-num>
   </programme>
-  <programme channel="ITV2Plus1.uk" start="20260603023500 +0000" stop="20260603030000 +0000">
+  <programme channel="ITV2Plus1.uk" start="20260603025000 +0000" stop="20260603030000 +0000">
     <title lang="en">Unwind with ITV</title>
     <desc lang="en">Your daily escape designed to calm the mind and encourage relaxation and reflection.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/78196df1-e5f9-4cdc-9e41-aa70e95d91cf/cover"/>
