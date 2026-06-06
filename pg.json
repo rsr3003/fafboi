@@ -5703,18 +5703,7 @@
       "title": "International Raceday Live",
       "description": "Live French racing from Angers and Toulouse as well as a double header of greyhound racing. A look ahead to this evening's Flat card at Windsor.",
       "start": 1780912800,
-      "stop": 1780920000,
-      "icon": "https://images.metadata.sky.com/pd-image/7a32cddb-3bc4-4ce0-8eeb-c90a18410d8b/cover",
-      "channel": "sky.racing.uk",
-      "premiere": false,
-      "season": null,
-      "episode": 232
-    },
-    {
-      "title": "International Raceday Live",
-      "description": "Live French racing from Angers and Toulouse as well as a double header of greyhound racing. A look ahead to this evening's Flat card at Windsor.",
-      "start": 1780920000,
-      "stop": 1780935300,
+      "stop": 1780933500,
       "icon": "https://images.metadata.sky.com/pd-image/7a32cddb-3bc4-4ce0-8eeb-c90a18410d8b/cover",
       "channel": "sky.racing.uk",
       "premiere": false,
@@ -5723,9 +5712,9 @@
     },
     {
       "title": "Monday Night Racing",
-      "description": "Live racing from Windsor.",
-      "start": 1780935300,
-      "stop": 1780948800,
+      "description": "Monday Night Racing: Alex Hammond, Jason Weaver and Matt Chapman bring you live action from Windsor with a look at all the big racing stories across the week.",
+      "start": 1780933500,
+      "stop": 1780947000,
       "icon": "https://images.metadata.sky.com/pd-image/1350231b-f768-4974-94c4-2a11a65ccce7/cover",
       "channel": "sky.racing.uk",
       "premiere": false,
@@ -7425,12 +7414,23 @@
       "title": "Live: Roland-Garros Men's Doubles",
       "description": "Britain's Henry Patten teams up with Finland's Harri Heliovaara to take on Marcel Granollers and Horacio Zeballos in the 2026 men's doubles final at Roland-Garros.",
       "start": 1780736400,
-      "stop": 1780745400,
+      "stop": 1780743600,
       "icon": "https://images.metadata.sky.com/pd-image/a52ab1a5-f18e-41c7-b9e5-2274c5a31631/cover",
       "channel": "tnt1",
       "premiere": false,
       "season": null,
       "episode": 0.0
+    },
+    {
+      "title": "UCL Final 2026: PSG v Arsenal",
+      "description": "Relive the 2026 UEFA Champions League final at the Puskas Arena, as Mikel Arteta's Arsenal looked to make history against the reigning champions Paris Saint-Germain.",
+      "start": 1780743600,
+      "stop": 1780745400,
+      "icon": "https://images.metadata.sky.com/pd-image/7c69771c-4c44-47c0-8349-56b6b7e7077d/cover",
+      "channel": "tnt1",
+      "premiere": false,
+      "season": null,
+      "episode": null
     },
     {
       "title": "The Breakdown",
@@ -7610,7 +7610,7 @@
     },
     {
       "title": "Live: Roland-Garros Men's Final",
-      "description": "Action from the men's singles final at Roland-Garros.",
+      "description": "Action from the men's singles final at Roland-Garros, where world number three Alexander Zverev faces first-time Grand Slam finalist Flavio Cobolli in a career-defining showdown.",
       "start": 1780833600,
       "stop": 1780853400,
       "icon": "https://images.metadata.sky.com/pd-image/21204ab2-e454-4b29-a478-5d12351b3468/cover",
@@ -7632,7 +7632,7 @@
     },
     {
       "title": "Roland-Garros Men's Final",
-      "description": "Action from the men's singles final at Roland-Garros.",
+      "description": "Action from the men's singles final at Roland-Garros, where world number three Alexander Zverev faces first-time Grand Slam finalist Flavio Cobolli in a career-defining showdown.",
       "start": 1780864200,
       "stop": 1780871400,
       "icon": "https://images.metadata.sky.com/pd-image/0f167eae-12ff-4119-a10d-3f6fec8434bb/cover",
@@ -8393,7 +8393,7 @@
     },
     {
       "title": "Roland-Garros Men's Final",
-      "description": "Action from the men's singles final at Roland-Garros.",
+      "description": "Action from the men's singles final at Roland-Garros, where world number three Alexander Zverev faces first-time Grand Slam finalist Flavio Cobolli in a career-defining showdown.",
       "start": 1780930800,
       "stop": 1780938000,
       "icon": "https://images.metadata.sky.com/pd-image/0f167eae-12ff-4119-a10d-3f6fec8434bb/cover",
@@ -18538,15 +18538,15 @@
       "episode": 0.0
     },
     {
-      "title": "AI Decoded",
-      "description": "AI will sit at the heart of the World Cup, being used to monitor crowds, improve safety, and manage the event from a single command centre. Will more AI really improve the game? [S] [HD]",
+      "title": "BBC News",
+      "description": "The latest news from the BBC. [S] [HD]",
       "start": 1780752600,
       "stop": 1780754400,
-      "icon": "https://images.metadata.sky.com/pd-image/a794324d-57d8-48c8-9c2e-0cf2099159b9/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/45d98182-6282-4d76-a9f6-1df8a1456d46/cover",
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 15.0
+      "episode": null
     },
     {
       "title": "BBC News",
@@ -19835,7 +19835,7 @@
       "channel": "BBCOneChannelIslands.uk",
       "premiere": false,
       "season": null,
-      "episode": 53.0
+      "episode": 54.0
     },
     {
       "title": "Anna Haugh's Big Irish Food Tour",
@@ -20728,7 +20728,7 @@
       "channel": "BBCOneEast.uk",
       "premiere": false,
       "season": null,
-      "episode": 53.0
+      "episode": 54.0
     },
     {
       "title": "Anna Haugh's Big Irish Food Tour",
@@ -21621,7 +21621,7 @@
       "channel": "BBCOneEastMidlands.uk",
       "premiere": false,
       "season": null,
-      "episode": 53.0
+      "episode": 54.0
     },
     {
       "title": "Anna Haugh's Big Irish Food Tour",
@@ -22514,7 +22514,7 @@
       "channel": "BBCOneLondonHD.uk",
       "premiere": false,
       "season": null,
-      "episode": 53.0
+      "episode": 54.0
     },
     {
       "title": "Anna Haugh's Big Irish Food Tour",
@@ -23407,7 +23407,7 @@
       "channel": "BBCOneNorthEastCumbria.uk",
       "premiere": false,
       "season": null,
-      "episode": 53.0
+      "episode": 54.0
     },
     {
       "title": "Anna Haugh's Big Irish Food Tour",
@@ -24300,7 +24300,7 @@
       "channel": "BBCOneNorthWest.uk",
       "premiere": false,
       "season": null,
-      "episode": 53.0
+      "episode": 54.0
     },
     {
       "title": "Anna Haugh's Big Irish Food Tour",
@@ -25193,7 +25193,7 @@
       "channel": "BBCOneNorthernIreland.uk",
       "premiere": false,
       "season": null,
-      "episode": 53.0
+      "episode": 54.0
     },
     {
       "title": "Anna Haugh's Big Irish Food Tour",
@@ -26053,7 +26053,7 @@
       "channel": "BBCOneScotHD.uk",
       "premiere": false,
       "season": null,
-      "episode": 53.0
+      "episode": 54.0
     },
     {
       "title": "Anna Haugh's Big Irish Food Tour",
@@ -26946,7 +26946,7 @@
       "channel": "BBCOneSouth.uk",
       "premiere": false,
       "season": null,
-      "episode": 53.0
+      "episode": 54.0
     },
     {
       "title": "Anna Haugh's Big Irish Food Tour",
@@ -27839,7 +27839,7 @@
       "channel": "BBCOneSouthEast.uk",
       "premiere": false,
       "season": null,
-      "episode": 53.0
+      "episode": 54.0
     },
     {
       "title": "Anna Haugh's Big Irish Food Tour",
@@ -28732,7 +28732,7 @@
       "channel": "BBCOneSouthWest.uk",
       "premiere": false,
       "season": null,
-      "episode": 53.0
+      "episode": 54.0
     },
     {
       "title": "Anna Haugh's Big Irish Food Tour",
@@ -29625,7 +29625,7 @@
       "channel": "BBCOneWalesHD.uk",
       "premiere": false,
       "season": null,
-      "episode": 53.0
+      "episode": 54.0
     },
     {
       "title": "Anna Haugh's Big Irish Food Tour",
@@ -30540,7 +30540,7 @@
       "channel": "BBCOneWest.uk",
       "premiere": false,
       "season": null,
-      "episode": 53.0
+      "episode": 54.0
     },
     {
       "title": "Anna Haugh's Big Irish Food Tour",
@@ -31433,7 +31433,7 @@
       "channel": "BBCOneWestMidlands.uk",
       "premiere": false,
       "season": null,
-      "episode": 53.0
+      "episode": 54.0
     },
     {
       "title": "Anna Haugh's Big Irish Food Tour",
@@ -32326,7 +32326,7 @@
       "channel": "BBCOneYorksLincs.uk",
       "premiere": false,
       "season": null,
-      "episode": 53.0
+      "episode": 54.0
     },
     {
       "title": "Anna Haugh's Big Irish Food Tour",
@@ -33219,7 +33219,7 @@
       "channel": "BBCOneYorkshire.uk",
       "premiere": false,
       "season": null,
-      "episode": 53.0
+      "episode": 54.0
     },
     {
       "title": "Anna Haugh's Big Irish Food Tour",
@@ -49124,7 +49124,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": null
+      "episode": 0.0
     },
     {
       "title": "CNN Newsroom Saturday",
@@ -68042,7 +68042,7 @@
       "channel": "ITV1Plus1Granada.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 5.0
     },
     {
       "title": "ITV News at Ten",
@@ -68869,7 +68869,7 @@
       "channel": "ITV1Plus1London.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 5.0
     },
     {
       "title": "ITV News at Ten",
@@ -69696,7 +69696,7 @@
       "channel": "ITV1Plus1Meridian.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 5.0
     },
     {
       "title": "ITV News at Ten",
@@ -70523,7 +70523,7 @@
       "channel": "ITV1Plus1Midlands.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 5.0
     },
     {
       "title": "ITV News at Ten",
@@ -79513,15 +79513,15 @@
       "episode": 0.0
     },
     {
-      "title": "Isle of Man TT Highlights",
-      "description": "Senior: Action from the Milwaukee Senior TT. The defining test of rider, machine and mindset - it is the race every competitor dreams of winning.",
+      "title": "Isle of Man TT: Tourist Trophy",
+      "description": "Support Show 3 - Tourist Trophy: An access-all-areas look into the world of the top TT riders, looking at their preparation for TT fortnight and their lives outside of racing.",
       "start": 1780779600,
       "stop": 1780786800,
-      "icon": "https://images.metadata.sky.com/pd-image/cfa572c1-b9ad-427a-a1cc-74cf07e4cb18/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/07165e1d-d7ca-4d05-a8bf-3573c0e4d935/cover",
       "channel": "ITV4.uk",
       "premiere": false,
-      "season": 2026.0,
-      "episode": 20.0
+      "season": null,
+      "episode": null
     },
     {
       "title": "All Elite Wrestling: Dynamite",
@@ -79634,15 +79634,15 @@
       "episode": 2.0
     },
     {
-      "title": "Isle of Man TT Highlights",
-      "description": "Senior: Action from the Milwaukee Senior TT. The defining test of rider, machine and mindset - it is the race every competitor dreams of winning.",
+      "title": "Isle of Man TT: Tourist Trophy",
+      "description": "Support Show 3 - Tourist Trophy: An access-all-areas look into the world of the top TT riders, looking at their preparation for TT fortnight and their lives outside of racing.",
       "start": 1780819800,
       "stop": 1780827000,
-      "icon": "https://images.metadata.sky.com/pd-image/cfa572c1-b9ad-427a-a1cc-74cf07e4cb18/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/00390c9d-e1ec-4c77-97c4-71534cbc2d2d/cover",
       "channel": "ITV4.uk",
       "premiere": false,
-      "season": 2026.0,
-      "episode": 20.0
+      "season": null,
+      "episode": null
     },
     {
       "title": "River Monsters",
@@ -80029,7 +80029,7 @@
       "channel": "ITV4Plus1.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 5.0
     },
     {
       "title": "World of Sport",
@@ -80219,15 +80219,15 @@
       "episode": 0.0
     },
     {
-      "title": "Isle of Man TT Highlights",
-      "description": "Senior: Action from the Milwaukee Senior TT. The defining test of rider, machine and mindset - it is the race every competitor dreams of winning.",
+      "title": "Isle of Man TT: Tourist Trophy",
+      "description": "Support Show 3 - Tourist Trophy: An access-all-areas look into the world of the top TT riders, looking at their preparation for TT fortnight and their lives outside of racing.",
       "start": 1780783200,
       "stop": 1780790400,
-      "icon": "https://images.metadata.sky.com/pd-image/cfa572c1-b9ad-427a-a1cc-74cf07e4cb18/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/d37e3327-7548-4c6a-810c-060664c5c79a/cover",
       "channel": "ITV4Plus1.uk",
       "premiere": false,
-      "season": 2026.0,
-      "episode": 20.0
+      "season": null,
+      "episode": null
     },
     {
       "title": "All Elite Wrestling: Dynamite",
@@ -80340,15 +80340,15 @@
       "episode": 2.0
     },
     {
-      "title": "Isle of Man TT Highlights",
-      "description": "Senior: Action from the Milwaukee Senior TT. The defining test of rider, machine and mindset - it is the race every competitor dreams of winning.",
+      "title": "Isle of Man TT: Tourist Trophy",
+      "description": "Support Show 3 - Tourist Trophy: An access-all-areas look into the world of the top TT riders, looking at their preparation for TT fortnight and their lives outside of racing.",
       "start": 1780823400,
       "stop": 1780830600,
-      "icon": "https://images.metadata.sky.com/pd-image/cfa572c1-b9ad-427a-a1cc-74cf07e4cb18/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/a59ca95c-5b31-41ed-9e3c-af3598050bcc/cover",
       "channel": "ITV4Plus1.uk",
       "premiere": false,
-      "season": 2026.0,
-      "episode": 20.0
+      "season": null,
+      "episode": null
     },
     {
       "title": "River Monsters",
