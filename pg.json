@@ -9,7 +9,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 1
+      "episode": 1.0
     },
     {
       "title": "Live US Women's Open Round 3",
@@ -20,7 +20,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 3
+      "episode": 3.0
     },
     {
       "title": "Sky Sports Catch-Up",
@@ -31,7 +31,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 94
+      "episode": 94.0
     },
     {
       "title": "Sky Sports Catch-Up",
@@ -42,7 +42,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 94
+      "episode": 94.0
     },
     {
       "title": "Sky Sports Catch-Up",
@@ -53,7 +53,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 94
+      "episode": 94.0
     },
     {
       "title": "Sky Sports Catch-Up",
@@ -64,7 +64,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 94
+      "episode": 94.0
     },
     {
       "title": "Sky Sports Breakfast",
@@ -75,7 +75,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 269
+      "episode": 269.0
     },
     {
       "title": "Sky Sports Breakfast",
@@ -86,7 +86,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 269
+      "episode": 269.0
     },
     {
       "title": "Zuffa Boxing: Smith v Rozicki Hlts",
@@ -97,7 +97,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 1
+      "episode": 1.0
     },
     {
       "title": "1st Test Day 3: ENG v NZ Hlts",
@@ -108,7 +108,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 3
+      "episode": 3.0
     },
     {
       "title": "Live 1st Test: ENG v NZ",
@@ -119,7 +119,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 4
+      "episode": 4.0
     },
     {
       "title": "Live Grand Prix Sunday: Monaco",
@@ -130,7 +130,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Live Monaco F1 Grand Prix",
@@ -141,7 +141,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Live 1st Test: ENG v NZ",
@@ -152,7 +152,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 4
+      "episode": 4.0
     },
     {
       "title": "Live PGA Tour Golf",
@@ -163,7 +163,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 84
+      "episode": 84.0
     },
     {
       "title": "Live US Women's Open Final Round",
@@ -174,7 +174,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 4
+      "episode": 4.0
     },
     {
       "title": "Sky Sports Catch-Up",
@@ -185,7 +185,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 95
+      "episode": 95.0
     },
     {
       "title": "Live Indycar Series",
@@ -196,7 +196,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 40
+      "episode": 40.0
     },
     {
       "title": "Sky Sports Catch-Up",
@@ -207,7 +207,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 95
+      "episode": 95.0
     },
     {
       "title": "Sky Sports Catch-Up",
@@ -218,7 +218,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 95
+      "episode": 95.0
     },
     {
       "title": "Sky Sports Catch-Up",
@@ -229,7 +229,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 95
+      "episode": 95.0
     },
     {
       "title": "World Cup Breakfast",
@@ -240,7 +240,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 1
+      "episode": 1.0
     },
     {
       "title": "World Cup Breakfast",
@@ -251,7 +251,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 1
+      "episode": 1.0
     },
     {
       "title": "World Cup Breakfast",
@@ -262,40 +262,84 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 1
+      "episode": 1.0
     },
     {
       "title": "World Cup Breakfast",
       "description": "A round-up of the all the breaking news stories from the 2026 FIFA World Cup, with live analysis and comment plus interviews with the headline makers.",
       "start": 1780907400,
-      "stop": 1780909200,
+      "stop": 1780909201,
       "icon": "https://images.metadata.sky.com/pd-image/9bd972e4-1d69-436d-a391-523a1f13c418/cover",
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 1
+      "episode": 1.0
     },
     {
-      "title": "1st Test Day 4: ENG v NZ Hlts",
-      "description": "Bitesize highlights from the fourth day of England's opening Test match against New Zealand at Lord's as Ben Stokes' side began the day chasing five more wickets to secure victory. (07.06)",
-      "start": 1780909200,
-      "stop": 1780910100,
-      "icon": "https://images.metadata.sky.com/pd-image/f175dd42-b9f5-4fb7-998b-22de543d4885/cover",
+      "title": "Live ICC WT20 WC Warm Up: WI v IND",
+      "description": "With the ICC Women's T20 World Cup set to begin this Friday, the West Indies and India meet in Cardiff for a pre-tournament warm-up match.",
+      "start": 1780909201,
+      "stop": 1780921800,
+      "icon": "https://images.metadata.sky.com/pd-image/40a697c3-446f-4e05-8133-119923346a4b/cover",
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 4
+      "episode": null
     },
     {
-      "title": "Live 1st Test: ENG v NZ",
-      "description": "The final day of England's Test match against New Zealand at Lord's as Ben Stokes and Brendon McCullum attempt to rebuild after a dismantling Down Under during the winter.",
-      "start": 1780910100,
+      "title": "World Cup Report",
+      "description": "A comprehensive round-up of all the day's World Cup news.",
+      "start": 1780921800,
+      "stop": 1780923600,
+      "icon": "https://images.metadata.sky.com/pd-image/65f6a51d-7bee-4780-a219-420d794c3609/cover",
+      "channel": "sky.main.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "World Cup Report",
+      "description": "A comprehensive round-up of all the day's World Cup news.",
+      "start": 1780923600,
+      "stop": 1780925400,
+      "icon": "https://images.metadata.sky.com/pd-image/e6f86b0b-48dd-46a6-9c9c-e17e4130f6b4/cover",
+      "channel": "sky.main.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "World Cup Report",
+      "description": "A comprehensive round-up of all the day's World Cup news.",
+      "start": 1780925400,
+      "stop": 1780927200,
+      "icon": "https://images.metadata.sky.com/pd-image/81608a11-e078-4221-8b62-a7fab2ca0051/cover",
+      "channel": "sky.main.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "Live ICC WT20 WC Warm Up: ENG v AUS",
+      "description": "With the ICC Women's T20 World Cup set to begin this Friday, Charlotte Edwards' England compete in a pre-tournament warm-up match against old rivals Australia in Cardiff.",
+      "start": 1780927200,
+      "stop": 1780939800,
+      "icon": "https://images.metadata.sky.com/pd-image/f54b5358-7f2b-4601-bccc-3789a855ec21/cover",
+      "channel": "sky.main.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "World Cup Report",
+      "description": "A comprehensive round-up of all the day's World Cup news.",
+      "start": 1780939800,
       "stop": 1780941600,
-      "icon": "https://images.metadata.sky.com/pd-image/77c0ae5d-47cd-4d90-a742-52eb3a92200f/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/175e8ddb-6db7-458b-aad6-9e5cc3d00112/cover",
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 5
+      "episode": null
     },
     {
       "title": "World Cup Report",
@@ -306,7 +350,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 1
+      "episode": 1.0
     },
     {
       "title": "World Cup Report",
@@ -317,7 +361,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 1
+      "episode": 1.0
     },
     {
       "title": "World Cup Report",
@@ -328,7 +372,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 1
+      "episode": 1.0
     },
     {
       "title": "World Cup Report",
@@ -339,7 +383,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 1
+      "episode": 1.0
     },
     {
       "title": "World Cup Report",
@@ -350,7 +394,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 1
+      "episode": 1.0
     },
     {
       "title": "Live WNBA: Fever @ Mystics",
@@ -361,7 +405,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 8
+      "episode": 8.0
     },
     {
       "title": "World Cup Report",
@@ -372,7 +416,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 1
+      "episode": 1.0
     },
     {
       "title": "Live WNBA: Storm @ Aces",
@@ -383,7 +427,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 45
+      "episode": 45.0
     },
     {
       "title": "World Cup Report",
@@ -394,7 +438,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 1
+      "episode": 1.0
     },
     {
       "title": "World Cup Report",
@@ -405,7 +449,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 1
+      "episode": 1.0
     },
     {
       "title": "World Cup Breakfast",
@@ -416,7 +460,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 2
+      "episode": 2.0
     },
     {
       "title": "World Cup Breakfast",
@@ -427,7 +471,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 2
+      "episode": 2.0
     },
     {
       "title": "World Cup Breakfast",
@@ -438,7 +482,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 2
+      "episode": 2.0
     },
     {
       "title": "World Cup Report",
@@ -449,7 +493,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 2
+      "episode": 2.0
     },
     {
       "title": "World Cup Report",
@@ -460,7 +504,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 2
+      "episode": 2.0
     },
     {
       "title": "World Cup Report",
@@ -471,7 +515,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 2
+      "episode": 2.0
     },
     {
       "title": "World Cup Report",
@@ -482,7 +526,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 2
+      "episode": 2.0
     },
     {
       "title": "World Cup Report",
@@ -493,7 +537,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 2
+      "episode": 2.0
     },
     {
       "title": "World Cup Report",
@@ -504,7 +548,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 2
+      "episode": 2.0
     },
     {
       "title": "World Cup Report",
@@ -515,7 +559,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 2
+      "episode": 2.0
     },
     {
       "title": "World Cup Report",
@@ -526,7 +570,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 2
+      "episode": 2.0
     },
     {
       "title": "World Cup Report",
@@ -537,7 +581,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 2
+      "episode": 2.0
     },
     {
       "title": "Live Men's T20 Blast",
@@ -548,7 +592,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 13
+      "episode": 13.0
     },
     {
       "title": "World Cup Report",
@@ -559,7 +603,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 2
+      "episode": 2.0
     },
     {
       "title": "World Cup Report",
@@ -570,7 +614,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 2
+      "episode": 2.0
     }
   ],
   "sky.premier.uk": [
@@ -5648,7 +5692,7 @@
       "title": "Monday Night Racing",
       "description": "Monday Night Racing: Alex Hammond, Jason Weaver and Matt Chapman bring you live action from Windsor with a look at all the big racing stories across the week.",
       "start": 1780933500,
-      "stop": 1780947000,
+      "stop": 1780948800,
       "icon": "https://images.metadata.sky.com/pd-image/1350231b-f768-4974-94c4-2a11a65ccce7/cover",
       "channel": "sky.racing.uk",
       "premiere": false,
@@ -7093,7 +7137,7 @@
       "title": "1st Test Day 3: ENG v NZ Hlts",
       "description": "On day three of England's opening Test against New Zealand, the Black Caps resume on 36-3 chasing 254 to win after another dizzying day at the home of cricket saw 17 wickets fall. (06.06)",
       "start": 1780905600,
-      "stop": 1780909200,
+      "stop": 1780908600,
       "icon": "https://images.metadata.sky.com/pd-image/7c52c0c4-8360-4640-9c3b-52ebdacb6536/cover",
       "channel": "sky.cricket.uk",
       "premiere": false,
@@ -7101,31 +7145,64 @@
       "episode": 3.0
     },
     {
-      "title": "1st Test Day 4: ENG v NZ Hlts",
-      "description": "Bitesize highlights from the fourth day of England's opening Test match against New Zealand at Lord's as Ben Stokes' side began the day chasing five more wickets to secure victory. (07.06)",
-      "start": 1780909200,
-      "stop": 1780910100,
-      "icon": "https://images.metadata.sky.com/pd-image/f175dd42-b9f5-4fb7-998b-22de543d4885/cover",
+      "title": "Live ICC WT20 WC Warm Up: WI v IND",
+      "description": "With the ICC Women's T20 World Cup set to begin this Friday, the West Indies and India meet in Cardiff for a pre-tournament warm-up match.",
+      "start": 1780908600,
+      "stop": 1780921800,
+      "icon": "https://images.metadata.sky.com/pd-image/2609aff6-8435-482a-9d16-eabbb6cc2f4a/cover",
       "channel": "sky.cricket.uk",
       "premiere": false,
       "season": null,
-      "episode": 4.0
+      "episode": null
     },
     {
-      "title": "Live 1st Test: ENG v NZ",
-      "description": "The final day of England's Test match against New Zealand at Lord's as Ben Stokes and Brendon McCullum attempt to rebuild after a dismantling Down Under during the winter.",
-      "start": 1780910100,
-      "stop": 1780941600,
-      "icon": "https://images.metadata.sky.com/pd-image/77c0ae5d-47cd-4d90-a742-52eb3a92200f/cover",
+      "title": "ICC Women's: IND v AUS (2017)",
+      "description": "Take a look at seven of the greatest matches played at the ICC Women's World Cup and hear from those at the centre of the drama. Here, England's 2017 meeting with India.",
+      "start": 1780921800,
+      "stop": 1780925400,
+      "icon": "https://images.metadata.sky.com/pd-image/8d8f7144-e818-4c07-8986-5770b62bcdc7/cover",
       "channel": "sky.cricket.uk",
       "premiere": false,
       "season": null,
-      "episode": 5.0
+      "episode": null
+    },
+    {
+      "title": "ICC Women's: The Greatest Moments",
+      "description": "Revisit some of the most memorable ICC Women's T20 World Cup moments from tournaments gone.",
+      "start": 1780925400,
+      "stop": 1780927200,
+      "icon": "https://images.metadata.sky.com/pd-image/dd716141-4826-4928-b42b-1fae6a01f76b/cover",
+      "channel": "sky.cricket.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "Live ICC WT20 WC Warm Up: ENG v AUS",
+      "description": "With the ICC Women's T20 World Cup set to begin this Friday, Charlotte Edwards' England compete in a pre-tournament warm-up match against old rivals Australia in Cardiff.",
+      "start": 1780927200,
+      "stop": 1780939800,
+      "icon": "https://images.metadata.sky.com/pd-image/70877c4b-4d04-4156-9e8d-e5fcb1633d37/cover",
+      "channel": "sky.cricket.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "NBA On Fire",
+      "description": "Step beyond the NBA's hardwood with a weekly behind-the-scenes deep dive into all the latest action, both and off the court.",
+      "start": 1780939800,
+      "stop": 1780941601,
+      "icon": "https://images.metadata.sky.com/pd-image/9d27babf-cc60-4f30-b6bf-ea32e2d42a9d/cover",
+      "channel": "sky.cricket.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
     },
     {
       "title": "ICC Men's T20 WC: ENG v AUS 2010",
       "description": "Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit England's victorious 2010 final against old rivals Australia.",
-      "start": 1780941600,
+      "start": 1780941601,
       "stop": 1780942500,
       "icon": "https://images.metadata.sky.com/pd-image/1d4f50a7-1dfe-457c-8faf-2054224640eb/cover",
       "channel": "sky.cricket.uk",
@@ -7617,7 +7694,7 @@
       "channel": "tnt1",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Live: UFC Fight Night Prelims",
@@ -7628,7 +7705,7 @@
       "channel": "tnt1",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Live: UFC Fight Night",
@@ -7639,7 +7716,7 @@
       "channel": "tnt1",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "UEFA Europa League Goals Reload",
@@ -7650,7 +7727,7 @@
       "channel": "tnt1",
       "premiere": false,
       "season": 25.0,
-      "episode": 9
+      "episode": 9.0
     },
     {
       "title": "Conference League Goals Reload",
@@ -7661,7 +7738,7 @@
       "channel": "tnt1",
       "premiere": false,
       "season": 25.0,
-      "episode": 9
+      "episode": 9.0
     },
     {
       "title": "Serie A",
@@ -7672,7 +7749,7 @@
       "channel": "tnt1",
       "premiere": false,
       "season": 2025.0,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Live AFL: Sydney Swans v St Kilda",
@@ -7683,7 +7760,7 @@
       "channel": "tnt1",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Giro d'Italia Women - Stage 8",
@@ -7694,18 +7771,18 @@
       "channel": "tnt1",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Live Roland-Garros Women's Doubles",
-      "description": "Action from the women's doubles final at Roland-Garros.",
+      "description": "Action from the women's doubles final at Roland-Garros as Katerina Siniakova and Taylor Townsend face Anna Danilina and Aleksandra Krunic for the title on Court Philippe-Chatrier.",
       "start": 1780822800,
       "stop": 1780831800,
       "icon": "https://images.metadata.sky.com/pd-image/5e568952-745c-4f42-a987-a92e30b4e8b6/cover",
       "channel": "tnt1",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "The Breakdown",
@@ -7716,7 +7793,7 @@
       "channel": "tnt1",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Live: Roland-Garros Men's Final",
@@ -7727,7 +7804,7 @@
       "channel": "tnt1",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Live MLB: Red Sox @ Yankees",
@@ -7738,7 +7815,7 @@
       "channel": "tnt1",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Roland-Garros Men's Final",
@@ -7749,18 +7826,18 @@
       "channel": "tnt1",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Roland-Garros Women's Doubles",
-      "description": "Action from the women's doubles final at Roland-Garros.",
+      "description": "Action from the women's doubles final at Roland-Garros as Katerina Siniakova and Taylor Townsend face Anna Danilina and Aleksandra Krunic for the title on Court Philippe-Chatrier.",
       "start": 1780871400,
       "stop": 1780875000,
       "icon": "https://images.metadata.sky.com/pd-image/fd390b01-6c5a-468d-a7d3-b690c2e0dd4e/cover",
       "channel": "tnt1",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "UCL Final 2026: PSG v Arsenal",
@@ -7771,7 +7848,7 @@
       "channel": "tnt1",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Live MLB: Giants @ Cubs",
@@ -7782,7 +7859,7 @@
       "channel": "tnt1",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "MLB: Boston Idiots (2004 ALCS)",
@@ -7793,7 +7870,7 @@
       "channel": "tnt1",
       "premiere": false,
       "season": 2015.0,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "TNT Sports Cricket Reload",
@@ -7804,7 +7881,7 @@
       "channel": "tnt1",
       "premiere": false,
       "season": 26.0,
-      "episode": 22
+      "episode": 22.0
     },
     {
       "title": "Live Test: India v Afghanistan",
@@ -7815,7 +7892,7 @@
       "channel": "tnt1",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "TNT Sports Cricket Reload",
@@ -7826,7 +7903,7 @@
       "channel": "tnt1",
       "premiere": false,
       "season": 25.0,
-      "episode": 119
+      "episode": 119.0
     },
     {
       "title": "Tour Auvergne Rhone Alpes - S1",
@@ -7837,7 +7914,7 @@
       "channel": "tnt1",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Live: Tour Auvergne Rhone Alpes S2",
@@ -7848,7 +7925,7 @@
       "channel": "tnt1",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Sign Up - Into Football",
@@ -7859,7 +7936,7 @@
       "channel": "tnt1",
       "premiere": false,
       "season": 25.0,
-      "episode": 10
+      "episode": 10.0
     },
     {
       "title": "The Breakdown",
@@ -7870,7 +7947,7 @@
       "channel": "tnt1",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Conference League Goals Reload",
@@ -7881,18 +7958,18 @@
       "channel": "tnt1",
       "premiere": false,
       "season": 25.0,
-      "episode": 9
+      "episode": 9.0
     },
     {
-      "title": "West Indies v Sri Lanka - 2nd ODI",
-      "description": "After suffering defeat in the series opener, Shai Hope's West Indies look to hit back in the second ODI as they take on Sri Lanka at Sabina Park in Kingston, Jamaica.",
+      "title": "MotoGP: GP of Hungary",
+      "description": "Race action from the 2026 MotoGP Grand Prix of Hungary at Balaton Park. Aprilia Racing's Marco Bezzecchi will be hunting for his fifth win of the season.",
       "start": 1780938000,
       "stop": 1780941600,
-      "icon": "https://images.metadata.sky.com/pd-image/68a17050-9cc0-4fd0-b378-359d7276e042/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/c452f005-0c29-48d1-a69c-a5d16c9759ee/cover",
       "channel": "tnt1",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": null
     },
     {
       "title": "Test: India v Afghanistan - Day 3",
@@ -7903,7 +7980,7 @@
       "channel": "tnt1",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Live ODI: West Indies v Sri Lanka",
@@ -7914,7 +7991,7 @@
       "channel": "tnt1",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Live Test: India v Afghanistan",
@@ -7925,7 +8002,7 @@
       "channel": "tnt1",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Live ODI: Bangladesh v Australia",
@@ -7936,7 +8013,7 @@
       "channel": "tnt1",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Live: Tour Auvergne Rhone Alpes S3",
@@ -7947,7 +8024,7 @@
       "channel": "tnt1",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "UEFA Champions League Goals Reload",
@@ -7958,7 +8035,7 @@
       "channel": "tnt1",
       "premiere": false,
       "season": 25.0,
-      "episode": 9
+      "episode": 9.0
     },
     {
       "title": "Premier League Review",
@@ -7969,7 +8046,7 @@
       "channel": "tnt1",
       "premiere": false,
       "season": 25.0,
-      "episode": 41
+      "episode": 41.0
     },
     {
       "title": "Sign Up - Into Football",
@@ -7980,7 +8057,7 @@
       "channel": "tnt1",
       "premiere": false,
       "season": 25.0,
-      "episode": 10
+      "episode": 10.0
     },
     {
       "title": "PL Stories: Pochettino's Spurs",
@@ -7991,7 +8068,7 @@
       "channel": "tnt1",
       "premiere": false,
       "season": 6.0,
-      "episode": 2
+      "episode": 2.0
     },
     {
       "title": "The Breakdown",
@@ -8002,7 +8079,7 @@
       "channel": "tnt1",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "The Cycling Show",
@@ -8013,7 +8090,7 @@
       "channel": "tnt1",
       "premiere": false,
       "season": 26.0,
-      "episode": 7
+      "episode": 7.0
     },
     {
       "title": "Test: India v Afghanistan - Day 4",
@@ -8024,7 +8101,7 @@
       "channel": "tnt1",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "West Indies v Sri Lanka - 3rd ODI",
@@ -8035,7 +8112,7 @@
       "channel": "tnt1",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "The UFC Breakdown",
@@ -8046,7 +8123,7 @@
       "channel": "tnt1",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "MotoGP Rewind: Hungary 2026",
@@ -8057,7 +8134,7 @@
       "channel": "tnt1",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "TNT Sports Cricket Reload",
@@ -8068,7 +8145,7 @@
       "channel": "tnt1",
       "premiere": false,
       "season": 25.0,
-      "episode": 179
+      "episode": 179.0
     },
     {
       "title": "Live: MLB Lead Off",
@@ -8079,7 +8156,7 @@
       "channel": "tnt1",
       "premiere": false,
       "season": 26.0,
-      "episode": 11
+      "episode": 11.0
     },
     {
       "title": "Live MLB: Yankees @ Guardians",
@@ -8090,7 +8167,7 @@
       "channel": "tnt1",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     }
   ],
   "tnt2": [
@@ -8103,7 +8180,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Roland-Garros Men's Doubles Final",
@@ -8114,7 +8191,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Live MLB: Red Sox @ Yankees",
@@ -8125,7 +8202,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "MLB Plays of the Week",
@@ -8136,7 +8213,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 2026.0,
-      "episode": 9
+      "episode": 9.0
     },
     {
       "title": "MotoGP: Hungary Sprint Race",
@@ -8147,7 +8224,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "LIV Golf - Andalucia",
@@ -8158,7 +8235,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "The Breakdown",
@@ -8169,7 +8246,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "It's A Numbers Game",
@@ -8180,7 +8257,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "MotoGP: Hungary Sprint Race",
@@ -8191,7 +8268,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Live: Moto4 Northern Cup",
@@ -8202,7 +8279,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Live MotoGP: Hungary Warm-Up",
@@ -8213,7 +8290,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Live Moto3: GP of Hungary",
@@ -8224,7 +8301,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Live Moto2: GP of Hungary",
@@ -8235,7 +8312,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Live MotoGP: GP of Hungary",
@@ -8246,7 +8323,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Live: Sarcens Women v Ealing Women",
@@ -8257,7 +8334,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "No Filter Football",
@@ -8268,7 +8345,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 24.0,
-      "episode": 33
+      "episode": 33.0
     },
     {
       "title": "MLB Plays of the Week",
@@ -8279,7 +8356,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 2026.0,
-      "episode": 9
+      "episode": 9.0
     },
     {
       "title": "Live MLB: Red Sox @ Yankees",
@@ -8290,7 +8367,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "MotoGP: GP of Hungary",
@@ -8301,7 +8378,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Sarcens Women v Ealing Women",
@@ -8312,7 +8389,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "LIV Golf - Andalucia",
@@ -8323,7 +8400,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Exeter Chiefs v Saracens",
@@ -8334,7 +8411,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Bath Rugby v Leicester Tigers",
@@ -8345,7 +8422,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "TNT Sports Reload",
@@ -8356,7 +8433,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 26.0,
-      "episode": 22
+      "episode": 22.0
     },
     {
       "title": "Test: India v Afghanistan - Day 2",
@@ -8367,7 +8444,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Ultimate Pool",
@@ -8378,7 +8455,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Live AFL: Collingwood v Melbourne",
@@ -8389,7 +8466,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Moto3: GP of Hungary",
@@ -8400,7 +8477,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Moto2: GP of Hungary",
@@ -8411,7 +8488,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "MotoGP: Hungary Sprint Race",
@@ -8422,7 +8499,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "MotoGP: GP of Hungary",
@@ -8433,7 +8510,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "MLB Highlights",
@@ -8444,18 +8521,18 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 2026.0,
-      "episode": 74
+      "episode": 74.0
     },
     {
-      "title": "West Indies v Sri Lanka - 2nd ODI",
-      "description": "After suffering defeat in the series opener, Shai Hope's West Indies look to hit back in the second ODI as they take on Sri Lanka at Sabina Park in Kingston, Jamaica.",
+      "title": "Roland Garros",
+      "description": "Alfie Hewett fights for his 11th Grand Slam singles title as he takes on Japanese star Tokito Oda in the men's wheelchair final at Roland-Garros.",
       "start": 1780921800,
       "stop": 1780925400,
-      "icon": "https://images.metadata.sky.com/pd-image/68a17050-9cc0-4fd0-b378-359d7276e042/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/69c64464-a121-4eb1-a13b-9f74f1409ea9/cover",
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": null
     },
     {
       "title": "Roland-Garros Women's Final",
@@ -8466,7 +8543,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Roland-Garros Men's Final",
@@ -8477,7 +8554,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Live: Ultimate Pool Finals Night",
@@ -8488,7 +8565,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Australian Superbike Championship",
@@ -8499,7 +8576,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Australian Superbike Championship",
@@ -8510,7 +8587,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Live MLB: Mariners @ Orioles",
@@ -8521,7 +8598,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "UEFA Europa League Final 2026",
@@ -8532,7 +8609,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "UEL & UECL Magazine",
@@ -8543,7 +8620,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 25.0,
-      "episode": 23
+      "episode": 23.0
     },
     {
       "title": "Tour Auvergne Rhone Alpes - S2",
@@ -8554,7 +8631,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Giro d'Italia 2026 - Review",
@@ -8565,7 +8642,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "MX2: Latvia - Race 1",
@@ -8576,7 +8653,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 2026.0,
-      "episode": 73
+      "episode": 73.0
     },
     {
       "title": "MXGP: Latvia - Race 1",
@@ -8587,7 +8664,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 2026.0,
-      "episode": 74
+      "episode": 74.0
     },
     {
       "title": "MX2: Latvia - Race 2",
@@ -8598,7 +8675,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 2026.0,
-      "episode": 75
+      "episode": 75.0
     },
     {
       "title": "MXGP: Latvia - Race 2",
@@ -8609,7 +8686,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 2026.0,
-      "episode": 76
+      "episode": 76.0
     },
     {
       "title": "Tour Auvergne Rhone Alpes - S2",
@@ -8620,7 +8697,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Sign Up - Into Football",
@@ -8631,7 +8708,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 25.0,
-      "episode": 10
+      "episode": 10.0
     },
     {
       "title": "Roland-Garros Men's Final",
@@ -8642,7 +8719,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "MLB Highlights",
@@ -8653,7 +8730,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 2026.0,
-      "episode": 75
+      "episode": 75.0
     },
     {
       "title": "The Gruppetto",
@@ -8664,7 +8741,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 26.0,
-      "episode": 19
+      "episode": 19.0
     },
     {
       "title": "Live: Tour Auvergne Rhone Alpes S3",
@@ -8675,7 +8752,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "The Gruppetto",
@@ -8686,7 +8763,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 26.0,
-      "episode": 19
+      "episode": 19.0
     },
     {
       "title": "BMX",
@@ -8697,7 +8774,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "BMX: Racing World Cup",
@@ -8708,7 +8785,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Fishing: On The Bank - 2023",
@@ -8719,7 +8796,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 23.0,
-      "episode": 8
+      "episode": 8.0
     },
     {
       "title": "T100 Triathlon World Tour Hlts",
@@ -8730,7 +8807,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Australian Superbike Championship",
@@ -8741,7 +8818,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Australian Superbike Championship",
@@ -8752,7 +8829,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Tour Auvergne Rhone Alpes - S3",
@@ -8763,7 +8840,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "The Cycling Show",
@@ -8774,7 +8851,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 26.0,
-      "episode": 7
+      "episode": 7.0
     },
     {
       "title": "Giro d'Italia 2026 - Review",
@@ -8785,7 +8862,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     }
   ],
   "tnt3": [
@@ -34508,7 +34585,7 @@
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 163.0
+      "episode": 162.0
     },
     {
       "title": "Northern Ireland Assembly - Education Questions",
@@ -48633,7 +48710,7 @@
     },
     {
       "title": "Marketplace Middle East",
-      "description": "Episode 53. The latest business headlines, events and developments in and around the Middle East.",
+      "description": "Supply Chain Reset. As uncertainty rattles economies around the world, the UAE is still pushing ahead with growth plans.",
       "start": 1780813800,
       "stop": 1780814700,
       "icon": "https://images.metadata.sky.com/pd-image/8ac68fe7-5e73-4a0f-9625-0c4d351e6b05/cover",
@@ -48699,7 +48776,7 @@
     },
     {
       "title": "Connecting Africa",
-      "description": "June 2026. We profile the people, projects and companies revolutionizing African business and bringing the continent together.",
+      "description": "The Business of Sport. We look at how sport is becoming a powerful driver of economic growth, investment and opportunity across the continent.",
       "start": 1780826400,
       "stop": 1780828200,
       "icon": "https://images.metadata.sky.com/pd-image/42997e26-ccf7-4ee3-b34f-4e807803aeaf/cover",
@@ -48710,7 +48787,7 @@
     },
     {
       "title": "Inside Africa",
-      "description": "Episode 727. Inside Africa takes its viewers on a journey across Africa, exploring the true diversity and depth of different cultures, countries and regions.",
+      "description": "South Africa: Sporting Nation. We explore how sport continues to shape identity, and business in South Africa, from football's emotional connection to the 2010 FIFA World Cup.",
       "start": 1780828200,
       "stop": 1780830000,
       "icon": "https://images.metadata.sky.com/pd-image/ca1b0bbe-6a04-4ba3-bd13-08a5fa7897c8/cover",
@@ -48787,7 +48864,7 @@
     },
     {
       "title": "Inside Africa",
-      "description": "Episode 727. Inside Africa takes its viewers on a journey across Africa, exploring the true diversity and depth of different cultures, countries and regions.",
+      "description": "South Africa: Sporting Nation. We explore how sport continues to shape identity, and business in South Africa, from football's emotional connection to the 2010 FIFA World Cup.",
       "start": 1780849800,
       "stop": 1780851600,
       "icon": "https://images.metadata.sky.com/pd-image/eaebe331-8d92-4568-9499-7e153d41f28c/cover",
@@ -48864,7 +48941,7 @@
     },
     {
       "title": "Connecting Africa",
-      "description": "June 2026. We profile the people, projects and companies revolutionizing African business and bringing the continent together.",
+      "description": "The Business of Sport. We look at how sport is becoming a powerful driver of economic growth, investment and opportunity across the continent.",
       "start": 1780867800,
       "stop": 1780869600,
       "icon": "https://images.metadata.sky.com/pd-image/a8ebc5c9-1bbd-4714-8cc2-52cd02f8c983/cover",
@@ -48930,7 +49007,7 @@
     },
     {
       "title": "Marketplace Middle East",
-      "description": "Episode 53. The latest business headlines, events and developments in and around the Middle East.",
+      "description": "Supply Chain Reset. As uncertainty rattles economies around the world, the UAE is still pushing ahead with growth plans.",
       "start": 1780885800,
       "stop": 1780886700,
       "icon": "https://images.metadata.sky.com/pd-image/da5bf72b-cdb6-4b18-b5e8-fa1fdc911987/cover",
@@ -48963,7 +49040,7 @@
     },
     {
       "title": "Inside Africa",
-      "description": "Episode 727. Inside Africa takes its viewers on a journey across Africa, exploring the true diversity and depth of different cultures, countries and regions.",
+      "description": "South Africa: Sporting Nation. We explore how sport continues to shape identity, and business in South Africa, from football's emotional connection to the 2010 FIFA World Cup.",
       "start": 1780889400,
       "stop": 1780891200,
       "icon": "https://images.metadata.sky.com/pd-image/fcf61ca2-6bc2-4ec6-910c-6eff427c03ad/cover",
