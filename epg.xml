@@ -642,10 +642,15 @@
     <desc lang="en">The opening session of day two at the 2026 World Cup of Darts in Frankfurt as 40 nations from around the world compete for the coveted title.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/aa0fc132-9ddc-4fec-baa4-12061aa74220/cover"/>
   </programme>
-  <programme channel="sky.main.uk" start="20260612150000 +0000" stop="20260612163000 +0000">
+  <programme channel="sky.main.uk" start="20260612150000 +0000" stop="20260612160000 +0000">
     <title lang="en">Live Barcelona F1 GP: Practice 2</title>
     <desc lang="en">The second Formula 1 practice session of Barcelona-Catalunya Grand Prix weekend.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/40dd4acf-9642-4124-a0e1-9ec332a29a8b/cover"/>
+  </programme>
+  <programme channel="sky.main.uk" start="20260612160000 +0000" stop="20260612163000 +0000">
+    <title lang="en">World Cup Matchday</title>
+    <desc lang="en">Look ahead to the evening's FIFA World Cup action, with expert opinion, live discussion and analysis of the biggest news stories.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/57f16669-57d1-407a-a4be-cf182700fb3d/cover"/>
   </programme>
   <programme channel="sky.main.uk" start="20260612163000 +0000" stop="20260612210000 +0000">
     <title lang="en">Live ICC Women's T20 WC: ENG v SL</title>
@@ -2803,10 +2808,15 @@
     <desc lang="en">F2 qualifying begins in Barcelona. The fastest driver here will claim pole position for Sunday's Feature Race, while the top 10 finishers are reversed to determine Saturday's Sprint grid.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/43febb5d-2f9b-494c-892d-58afa92cd099/cover"/>
   </programme>
-  <programme channel="sky.f1.uk" start="20260612143500 +0000" stop="20260612163000 +0000">
+  <programme channel="sky.f1.uk" start="20260612143500 +0000" stop="20260612161500 +0000">
     <title lang="en">Live Barcelona F1 GP: Practice 2</title>
     <desc lang="en">The second Formula 1 practice session of Barcelona-Catalunya Grand Prix weekend.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/40dd4acf-9642-4124-a0e1-9ec332a29a8b/cover"/>
+  </programme>
+  <programme channel="sky.f1.uk" start="20260612161500 +0000" stop="20260612163000 +0000">
+    <title lang="en">Naomi Hot Laps with Kimi Antonelli</title>
+    <desc lang="en">Mercedes driver Kimi Antonelli takes Sky F1's Naomi Schiff on a hot lap of the Miami circuit.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/83af1c8f-b901-4fda-aa05-541d5d3b2dcb/cover"/>
   </programme>
   <programme channel="sky.f1.uk" start="20260612163000 +0000" stop="20260612173000 +0000">
     <title lang="en">Live The F1 Show: Barcelona</title>
@@ -3380,12 +3390,12 @@
     <desc lang="en">Live French racing from Marseille Borely and St Cloud as well as greyhound racing. We look ahead to today's UK racing.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ae5cc0e9-4f64-400b-888c-f40f89023315/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20260612123000 +0000" stop="20260612200000 +0000">
+  <programme channel="sky.racing.uk" start="20260612121500 +0000" stop="20260612200000 +0000">
     <title lang="en">Raceday Live</title>
     <desc lang="en">Live Racing: Vanessa Ryle and Jamie Lynch bring you action from Chester alongside action from Saint Cloud. Evening action from Newton Abbot with Mick Fitzgerald.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/dcc0ca9d-1828-4b63-9719-191f6e04bc41/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20260612200000 +0000" stop="20260613010000 +0000">
+  <programme channel="sky.racing.uk" start="20260612200000 +0000" stop="20260613003000 +0000">
     <title lang="en">Stateside Live</title>
     <desc lang="en">Live US racing from Laurel Park, Gulfstream, Churchill Downs, Woodbine, Santa Anita, Charles Town, Lone Star Park, Belmont at the Big A and Penn National.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6bc90dbf-0a30-4d03-a326-2d1a88dfcd61/cover"/>
@@ -4128,14 +4138,19 @@
     <icon src="https://images.metadata.sky.com/pd-image/739d9bf0-a6e1-461e-8b8c-7f3098cc1395/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20260612210000 +0000" stop="20260612213000 +0000">
+    <title lang="en">Lauren Bell Masterclass</title>
+    <desc lang="en">England's Lauren Bell provides a masterclass on her bowling technique as well as discussing the growth of the women's game ahead of the T20 World Cup this summer.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/22644a61-dfd2-41ca-93a4-17d83c9fe81b/cover"/>
+  </programme>
+  <programme channel="sky.cricket.uk" start="20260612213000 +0000" stop="20260612220000 +0000">
     <title lang="en">The Film Room: England v N Zealand</title>
     <desc lang="en">Sir Andrew Strauss, Nasser Hussain and Michael Atherton rewatch the first Test of the 2004 summer against New Zealand. Andrews Strauss' debut and Nasser's final match.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f2a15a28-6ca9-41bf-a1f3-cada0150fd0a/cover"/>
   </programme>
-  <programme channel="sky.cricket.uk" start="20260612213000 +0000" stop="20260612223000 +0000">
-    <title lang="en">ICC WT20 WC: The Experts View</title>
-    <desc lang="en">Some of the finest minds in cricket discuss the upcoming Women's T20 World Cup. The expert panel dissect each team's strengths, weaknesses and chances of going all the way to the final.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/7601cab8-d15f-4078-8bbd-8d8bddefa019/cover"/>
+  <programme channel="sky.cricket.uk" start="20260612220000 +0000" stop="20260612223000 +0000">
+    <title lang="en">ICC Women's: ENG v SA (2017)</title>
+    <desc lang="en">Take a look at seven of the greatest matches played at the ICC Women's World Cup and hear from those at the centre of the drama. Here, England's 2017 collision with South Africa.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ed5d39ba-ea5a-4072-a674-c104eddfdbf8/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20260612223000 +0000" stop="20260612230000 +0000">
     <title lang="en">ICC Women's: ENG v IND (2017)</title>
@@ -4498,12 +4513,12 @@
   </programme>
   <programme channel="tnt1" start="20260612150000 +0000" stop="20260612161500 +0000">
     <title lang="en">Live: Mountain Bike World Series</title>
-    <desc lang="en">Action from the men's elite cross-country short track, part of the UCI Mountain Bike World Series in Leogang, Austria.</desc>
+    <desc lang="en">Women's UCI Mountain Bike World Series action from the elite cross country short track in Leogang, Austria.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/38526bb9-5d2b-4ad4-b3c1-99814d84c28b/cover"/>
   </programme>
   <programme channel="tnt1" start="20260612161500 +0000" stop="20260612171500 +0000">
     <title lang="en">Live: Mountain Bike World Series</title>
-    <desc lang="en">Women's UCI Mountain Bike World Series action from the elite cross country short track in Leogang, Austria.</desc>
+    <desc lang="en">Action from the men's elite cross-country short track, part of the UCI Mountain Bike World Series in Leogang, Austria.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/91004b0e-179f-4f04-b0bf-1ee6d90f2adb/cover"/>
   </programme>
   <programme channel="tnt1" start="20260612171500 +0000" stop="20260612173000 +0000">
@@ -4866,8 +4881,8 @@
     <episode-num system="onscreen">S26E23</episode-num>
   </programme>
   <programme channel="tnt2" start="20260612113000 +0000" stop="20260612120000 +0000">
-    <title lang="en">Live WorldSBK: Superpole</title>
-    <desc lang="en">FIM Superbike World Championship action from the Superpole at Misano World Circuit in Emilia-Romagna, Italy.</desc>
+    <title lang="en">Live: Women's Circuit Racing WC</title>
+    <desc lang="en">FIM Women's Circuit Racing World Championship action from the Superpole at Misano World Circuit in Emilia-Romagna, Italy.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/983b19d9-3822-480d-8a9c-2e26c0a8d067/cover"/>
   </programme>
   <programme channel="tnt2" start="20260612120000 +0000" stop="20260612124500 +0000">
@@ -5242,9 +5257,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/82bdf9a5-f50c-4be8-84d9-545a7278745d/cover"/>
   </programme>
   <programme channel="tnt3" start="20260612111500 +0000" stop="20260612121500 +0000">
-    <title lang="en">Tour Auvergne Rhone Alpes - S4</title>
-    <desc lang="en">Action from stage four of the 2026 Tour Auvergne Rhone Alpes, which features a hilly 167km ride from Le Puy en Velay to Montrond-les-Bains.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f7a18954-ef3d-4ca8-883a-1792575f7af0/cover"/>
+    <title lang="en">Giro d'Italia 2026 - Review</title>
+    <desc lang="en">We relive the biggest moments from the 2026 Giro d'Italia, revisiting the decisive climbs, bold breakaways, and unforgettable twists that shaped the pink jersey battle.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8cde6f2c-20c1-4f0c-b9fc-cc6933fbe259/cover"/>
   </programme>
   <programme channel="tnt3" start="20260612121500 +0000" stop="20260612131500 +0000">
     <title lang="en">Tour Auvergne Rhone Alpes - S5</title>
@@ -6029,14 +6044,18 @@
     <desc lang="en">(2023) Andrew Scott and Paul Mescal star in Andrew Haigh's haunting romance about a lonely screenwriter who gets the chance to talk to his dead parents as he starts a new relationship.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4e3fdc28-34f9-32ab-993c-d982bdb5dbd3/cover"/>
   </programme>
-  <programme channel="4seven.uk" start="20260612005000 +0000" stop="20260612015000 +0000">
+  <programme channel="4seven.uk" start="20260612005000 +0000" stop="20260612005500 +0000">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">Teleshopping.</desc>
+  </programme>
+  <programme channel="4seven.uk" start="20260612005500 +0000" stop="20260612015500 +0000">
     <title lang="en">Britain's Most Expensive Houses</title>
     <desc lang="en">A £20m former home to royalty is up for sale on Hampstead's Billionaires' Row. There's a hunt for an X-factor home. And what impression will a £3.5m upside-down property make?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ca8653f2-f4b0-4410-910e-e8730d434a70/cover"/>
     <episode-num system="xmltv_ns">2.6.0</episode-num>
     <episode-num system="onscreen">S3E7</episode-num>
   </programme>
-  <programme channel="4seven.uk" start="20260612015000 +0000" stop="20260612025500 +0000">
+  <programme channel="4seven.uk" start="20260612015500 +0000" stop="20260612025500 +0000">
     <title lang="en">Gogglebox</title>
     <desc lang="en">The Goggleboxers watch Coronation Street, Educating Yorkshire, The Great British Bake Off, The Inheritance, Stranded on Honeymoon Island, The Guest and The Dog House.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/37000ee9-0227-4099-81b2-9e01ea54566f/cover"/>
@@ -7518,9 +7537,10 @@
     <episode-num system="onscreen">S10E5</episode-num>
   </programme>
   <programme channel="5Star.uk" start="20260611200000 +0000" stop="20260611210000 +0000">
-    <title lang="en">A&amp;E After Dark</title>
+    <title lang="en">New: A&amp;E After Dark</title>
     <desc lang="en">An aggressive patient is restrained in Newham as Dr Nick orders ketamine sedation for a head injury. In Belfast, teenager Jack suffers spinal shock after a horrific motorcycle crash.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b55d2c17-e8fb-49b0-a516-eb5b3e8e7bd4/cover"/>
+    <premiere/>
     <episode-num system="xmltv_ns">6.7.0</episode-num>
     <episode-num system="onscreen">S7E8</episode-num>
   </programme>
@@ -8053,9 +8073,10 @@
     <episode-num system="onscreen">S10E5</episode-num>
   </programme>
   <programme channel="5StarPlus1.uk" start="20260611210000 +0000" stop="20260611220000 +0000">
-    <title lang="en">A&amp;E After Dark</title>
+    <title lang="en">New: A&amp;E After Dark</title>
     <desc lang="en">An aggressive patient is restrained in Newham as Dr Nick orders ketamine sedation for a head injury. In Belfast, teenager Jack suffers spinal shock after a horrific motorcycle crash.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b55d2c17-e8fb-49b0-a516-eb5b3e8e7bd4/cover"/>
+    <premiere/>
     <episode-num system="xmltv_ns">6.7.0</episode-num>
     <episode-num system="onscreen">S7E8</episode-num>
   </programme>
@@ -8563,7 +8584,7 @@
   </programme>
   <programme channel="5USA.uk" start="20260611190000 +0000" stop="20260611200000 +0000">
     <title lang="en">NCIS</title>
-    <desc lang="en">Crime drama series. The NCIS team investigates the murder of a Marine Sergeant in the States who was hailed as a war hero for his efforts overseas.</desc>
+    <desc lang="en">The team investigates the murder of a Marine sergeant who was hailed as a war hero for his efforts overseas; Gibbs turns to Dr. Grace Confalone for advice</desc>
     <icon src="https://images.metadata.sky.com/pd-image/aba55003-5a71-467e-a907-395b5ceda866/cover"/>
     <episode-num system="xmltv_ns">15.22.0</episode-num>
     <episode-num system="onscreen">S16E23</episode-num>
@@ -9099,7 +9120,7 @@
   </programme>
   <programme channel="5USAPlus1.uk" start="20260611200000 +0000" stop="20260611210000 +0000">
     <title lang="en">NCIS</title>
-    <desc lang="en">Crime drama series. The NCIS team investigates the murder of a Marine Sergeant in the States who was hailed as a war hero for his efforts overseas.</desc>
+    <desc lang="en">The team investigates the murder of a Marine sergeant who was hailed as a war hero for his efforts overseas; Gibbs turns to Dr. Grace Confalone for advice</desc>
     <icon src="https://images.metadata.sky.com/pd-image/aba55003-5a71-467e-a907-395b5ceda866/cover"/>
     <episode-num system="xmltv_ns">15.22.0</episode-num>
     <episode-num system="onscreen">S16E23</episode-num>
@@ -9786,7 +9807,7 @@
   <programme channel="AlJazeeraEnglish.qa" start="20260612030000 +0000" stop="20260612033000 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9cf25e96-bb65-47f6-9b7b-3ddf9eb6cb1c/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/a488fcab-12ff-4a2a-8cac-53e5b3e7cfdd/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260612033000 +0000" stop="20260612040000 +0000">
     <title lang="en">Counting the Cost</title>
@@ -9798,7 +9819,7 @@
   <programme channel="AlJazeeraEnglish.qa" start="20260612040000 +0000" stop="20260612043000 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c3a8fc41-f73c-4cbb-83e7-b246834f90d1/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/a488fcab-12ff-4a2a-8cac-53e5b3e7cfdd/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260612043000 +0000" stop="20260612050000 +0000">
     <title lang="en">Witness</title>
@@ -9808,7 +9829,7 @@
   <programme channel="AlJazeeraEnglish.qa" start="20260612050000 +0000" stop="20260612053000 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/ba381eb9-558f-4e31-b838-20b59334485c/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/a488fcab-12ff-4a2a-8cac-53e5b3e7cfdd/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260612053000 +0000" stop="20260612060000 +0000">
     <title lang="en">Inside Story</title>
@@ -9818,7 +9839,7 @@
   <programme channel="AlJazeeraEnglish.qa" start="20260612060000 +0000" stop="20260612063000 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/8d7d97eb-24b6-4157-8295-06d71f2e55fa/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/a488fcab-12ff-4a2a-8cac-53e5b3e7cfdd/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260612063000 +0000" stop="20260612070000 +0000">
     <title lang="en">The Population Bust</title>
@@ -9835,7 +9856,7 @@
   <programme channel="AlJazeeraEnglish.qa" start="20260612080000 +0000" stop="20260612083000 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3189663a-b05f-4faa-a3e3-f12697001b78/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/a488fcab-12ff-4a2a-8cac-53e5b3e7cfdd/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260612083000 +0000" stop="20260612090000 +0000">
     <title lang="en">101 East</title>
@@ -9847,7 +9868,7 @@
   <programme channel="AlJazeeraEnglish.qa" start="20260612090000 +0000" stop="20260612093000 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b402999c-ade2-4927-bf20-fe24219c1715/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/a488fcab-12ff-4a2a-8cac-53e5b3e7cfdd/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260612093000 +0000" stop="20260612100000 +0000">
     <title lang="en">Making Peace</title>
@@ -9864,7 +9885,7 @@
   <programme channel="AlJazeeraEnglish.qa" start="20260612110000 +0000" stop="20260612113000 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/675902f5-ca02-4b1e-b6b2-bd3b8178ef73/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/a488fcab-12ff-4a2a-8cac-53e5b3e7cfdd/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260612113000 +0000" stop="20260612120000 +0000">
     <title lang="en">Inside Story</title>
@@ -9888,7 +9909,7 @@
   <programme channel="AlJazeeraEnglish.qa" start="20260612140000 +0000" stop="20260612143000 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/19007359-c41a-4999-9f4c-b9fef1703296/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/a488fcab-12ff-4a2a-8cac-53e5b3e7cfdd/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260612143000 +0000" stop="20260612150000 +0000">
     <title lang="en">Fault Lines</title>
@@ -9900,7 +9921,7 @@
   <programme channel="AlJazeeraEnglish.qa" start="20260612160000 +0000" stop="20260612163000 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/38a5efbd-13b9-4662-a712-231a476b96be/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/a488fcab-12ff-4a2a-8cac-53e5b3e7cfdd/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260612163000 +0000" stop="20260612170000 +0000">
     <title lang="en">Making Peace</title>
@@ -9910,7 +9931,7 @@
   <programme channel="AlJazeeraEnglish.qa" start="20260612170000 +0000" stop="20260612173000 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/ede775fb-6e10-4683-a292-b8ee8cc574d2/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/a488fcab-12ff-4a2a-8cac-53e5b3e7cfdd/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260612173000 +0000" stop="20260612180000 +0000">
     <title lang="en">Inside Story</title>
@@ -9927,7 +9948,7 @@
   <programme channel="AlJazeeraEnglish.qa" start="20260612190000 +0000" stop="20260612193000 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/697ffe53-934c-484a-99d7-63e8eff16141/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/a488fcab-12ff-4a2a-8cac-53e5b3e7cfdd/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260612193000 +0000" stop="20260612200000 +0000">
     <title lang="en">Counting the Cost</title>
@@ -9939,7 +9960,7 @@
   <programme channel="AlJazeeraEnglish.qa" start="20260612200000 +0000" stop="20260612203000 +0000">
     <title lang="en">News Live</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c0de04ec-1005-4db1-83ca-93e1cec95303/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/a488fcab-12ff-4a2a-8cac-53e5b3e7cfdd/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260612203000 +0000" stop="20260612210000 +0000">
     <title lang="en">Iran, Israel and the Bomb</title>
@@ -10073,7 +10094,7 @@
   </programme>
   <programme channel="BBCAlba.uk" start="20260610180000 +0000" stop="20260610183000 +0000">
     <title lang="en">Co-Sheirm</title>
-    <desc lang="en">6/6. Archive music series featuring choirs and outstanding soloists. This episode features The Glasgow Islay Gaelic Choir.</desc>
+    <desc lang="en">2/6. Archive music series featuring choirs and outstanding soloists. This episode features The Inverness Gaelic Choir.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0d75c9dc-0578-4171-92b1-77fb226868ee/cover"/>
     <episode-num system="xmltv_ns">0.5.0</episode-num>
     <episode-num system="onscreen">S1E6</episode-num>
@@ -10627,8 +10648,8 @@
     <title lang="en">TOTP: 1999</title>
     <desc lang="en">Jamie Theakston presents the pop chart programme, featuring Tom Jones &amp; Cerys Matthews, B*Witched &amp; Ladysmith Black Mambazo, Vengaboys, Artful Dodger feat Craig David and Cliff Richard.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2be2028d-c4c3-40d7-bce4-5c23bdb7f406/cover"/>
-    <episode-num system="xmltv_ns">1998.21.0</episode-num>
-    <episode-num system="onscreen">S1999E22</episode-num>
+    <episode-num system="xmltv_ns">1998.23.0</episode-num>
+    <episode-num system="onscreen">S1999E24</episode-num>
   </programme>
   <programme channel="BBCFourHD.uk" start="20260612182500 +0000" stop="20260612190500 +0000">
     <title lang="en">TOTP: 1977</title>
@@ -10641,15 +10662,15 @@
     <title lang="en">TOTP: 1985</title>
     <desc lang="en">Simon Bates and Richard Skinner present the pop chart programme. Featuring Gary Moore &amp; Phil Lynott, Kool and the Gang, Propaganda, David Bowie, Duran Duran and Paul Hardcastle.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9c5af8fe-0247-4fe6-86b5-cdffabb5bf1c/cover"/>
-    <episode-num system="xmltv_ns">1984.5.0</episode-num>
-    <episode-num system="onscreen">S1985E6</episode-num>
+    <episode-num system="xmltv_ns">1984.7.0</episode-num>
+    <episode-num system="onscreen">S1985E8</episode-num>
   </programme>
   <programme channel="BBCFourHD.uk" start="20260612193000 +0000" stop="20260612200500 +0000">
     <title lang="en">TOTP: 1988</title>
     <desc lang="en">Peter Powell and Simon Mayo present the pop chart programme, first broadcast on 9 June 1988 and featuring Five Star, Mica Paris, James Brown, Maxi Priest, Morrissey and Erasure.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0e5ef349-6082-4c16-bb97-988243d87427/cover"/>
-    <episode-num system="xmltv_ns">1987.9.0</episode-num>
-    <episode-num system="onscreen">S1988E10</episode-num>
+    <episode-num system="xmltv_ns">1987.11.0</episode-num>
+    <episode-num system="onscreen">S1988E12</episode-num>
   </programme>
   <programme channel="BBCFourHD.uk" start="20260612200500 +0000" stop="20260612211500 +0000">
     <title lang="en">Ray Charles - Omnibus</title>
@@ -11573,7 +11594,7 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260610180000 +0000" stop="20260610183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">JB Gill and Angellica Bell bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Simon Le Bon and John Taylor from Duran Duran, as well as actor Colin Morgan, join JB Gill and Angellica Bell on the sofa, while Nikki has your Watchdog news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/574b3877-c2d2-4ad5-afcc-6b0cfcae5135/cover"/>
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260610183000 +0000" stop="20260610190000 +0000">
@@ -12022,7 +12043,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20260610180000 +0000" stop="20260610183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">JB Gill and Angellica Bell bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Simon Le Bon and John Taylor from Duran Duran, as well as actor Colin Morgan, join JB Gill and Angellica Bell on the sofa, while Nikki has your Watchdog news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/574b3877-c2d2-4ad5-afcc-6b0cfcae5135/cover"/>
   </programme>
   <programme channel="BBCOneEast.uk" start="20260610183000 +0000" stop="20260610190000 +0000">
@@ -12471,7 +12492,7 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260610180000 +0000" stop="20260610183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">JB Gill and Angellica Bell bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Simon Le Bon and John Taylor from Duran Duran, as well as actor Colin Morgan, join JB Gill and Angellica Bell on the sofa, while Nikki has your Watchdog news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/574b3877-c2d2-4ad5-afcc-6b0cfcae5135/cover"/>
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260610183000 +0000" stop="20260610190000 +0000">
@@ -12920,7 +12941,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260610180000 +0000" stop="20260610183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">JB Gill and Angellica Bell bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Simon Le Bon and John Taylor from Duran Duran, as well as actor Colin Morgan, join JB Gill and Angellica Bell on the sofa, while Nikki has your Watchdog news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/574b3877-c2d2-4ad5-afcc-6b0cfcae5135/cover"/>
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260610183000 +0000" stop="20260610190000 +0000">
@@ -13369,7 +13390,7 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260610180000 +0000" stop="20260610183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">JB Gill and Angellica Bell bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Simon Le Bon and John Taylor from Duran Duran, as well as actor Colin Morgan, join JB Gill and Angellica Bell on the sofa, while Nikki has your Watchdog news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/574b3877-c2d2-4ad5-afcc-6b0cfcae5135/cover"/>
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260610183000 +0000" stop="20260610190000 +0000">
@@ -13818,7 +13839,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260610180000 +0000" stop="20260610183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">JB Gill and Angellica Bell bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Simon Le Bon and John Taylor from Duran Duran, as well as actor Colin Morgan, join JB Gill and Angellica Bell on the sofa, while Nikki has your Watchdog news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/574b3877-c2d2-4ad5-afcc-6b0cfcae5135/cover"/>
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260610183000 +0000" stop="20260610190000 +0000">
@@ -14269,7 +14290,7 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260610180000 +0000" stop="20260610183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">JB Gill and Angellica Bell bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Simon Le Bon and John Taylor from Duran Duran, as well as actor Colin Morgan, join JB Gill and Angellica Bell on the sofa, while Nikki has your Watchdog news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/574b3877-c2d2-4ad5-afcc-6b0cfcae5135/cover"/>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260610183000 +0000" stop="20260610190000 +0000">
@@ -14583,8 +14604,8 @@
     <icon src="https://images.metadata.sky.com/pd-image/71efa3fa-ed6e-443e-9933-955e09c733ae/cover"/>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260612215500 +0000" stop="20260612225500 +0000">
-    <title lang="en">Queen James</title>
-    <desc lang="en">Gareth Russell reveals the story of King James VI and I, his fondness for male favourites and a scandalous murder trial that threatened to blow his monarchy apart.</desc>
+    <title lang="en">Queen James: Passion, Plots and...</title>
+    <desc lang="en">...Power in the Court of Britain's.... A scandalous murder trial threatens to reveal secrets about Britain's first king.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bafcc860-ac47-45c1-a606-48da88d46b35/cover"/>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260612225500 +0000" stop="20260612231500 +0000">
@@ -14709,7 +14730,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260610180000 +0000" stop="20260610183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">JB Gill and Angellica Bell bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Simon Le Bon and John Taylor from Duran Duran, as well as actor Colin Morgan, join JB Gill and Angellica Bell on the sofa, while Nikki has your Watchdog news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/574b3877-c2d2-4ad5-afcc-6b0cfcae5135/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260610183000 +0000" stop="20260610190000 +0000">
@@ -14766,7 +14787,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260610231000 +0000" stop="20260610234000 +0000">
     <title lang="en">Scotcast</title>
-    <desc lang="en">Conversation about Scotland's biggest news stories, hosted by Martin Geissler.</desc>
+    <desc lang="en">Martin Geissler hears what BBC journalists witnessed during a demonstration which sparked racist assaults in Glasgow city centre.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8480238c-6233-44e2-aecf-5826898749ad/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260610234000 +0000" stop="20260611001500 +0000">
@@ -15015,15 +15036,15 @@
     <desc lang="en">The latest national and international news from the BBC.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a81c5b46-5579-4ead-af22-1e13ecd4fac3/cover"/>
   </programme>
-  <programme channel="BBCOneScotHD.uk" start="20260612173000 +0000" stop="20260612180000 +0000">
+  <programme channel="BBCOneScotHD.uk" start="20260612173000 +0000" stop="20260612183000 +0000">
     <title lang="en">Reporting Scotland</title>
     <desc lang="en">The latest news and weather from BBC News Scotland. Presented by Laura Goodwin.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/47a689f2-7c96-439c-a5f3-61617f795998/cover"/>
   </programme>
-  <programme channel="BBCOneScotHD.uk" start="20260612180000 +0000" stop="20260612211500 +0000">
+  <programme channel="BBCOneScotHD.uk" start="20260612183000 +0000" stop="20260612211500 +0000">
     <title lang="en">MOTD Live: Canada v Bosnia-Herzegovina</title>
     <desc lang="en">Live coverage of the opening match in Group B between host nation Canada and Bosnia-Herzegovina at Toronto Stadium.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/80a8bb12-a22f-45a5-ae15-3db42378b4cb/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/c77b5167-c2f4-4652-a04b-9952cb96d4e5/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260612211500 +0000" stop="20260612214500 +0000">
     <title lang="en">BBC News and Weather</title>
@@ -15166,7 +15187,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260610180000 +0000" stop="20260610183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">JB Gill and Angellica Bell bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Simon Le Bon and John Taylor from Duran Duran, as well as actor Colin Morgan, join JB Gill and Angellica Bell on the sofa, while Nikki has your Watchdog news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/574b3877-c2d2-4ad5-afcc-6b0cfcae5135/cover"/>
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260610183000 +0000" stop="20260610190000 +0000">
@@ -15615,7 +15636,7 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260610180000 +0000" stop="20260610183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">JB Gill and Angellica Bell bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Simon Le Bon and John Taylor from Duran Duran, as well as actor Colin Morgan, join JB Gill and Angellica Bell on the sofa, while Nikki has your Watchdog news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/574b3877-c2d2-4ad5-afcc-6b0cfcae5135/cover"/>
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260610183000 +0000" stop="20260610190000 +0000">
@@ -16064,7 +16085,7 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260610180000 +0000" stop="20260610183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">JB Gill and Angellica Bell bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Simon Le Bon and John Taylor from Duran Duran, as well as actor Colin Morgan, join JB Gill and Angellica Bell on the sofa, while Nikki has your Watchdog news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/574b3877-c2d2-4ad5-afcc-6b0cfcae5135/cover"/>
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260610183000 +0000" stop="20260610190000 +0000">
@@ -16518,7 +16539,7 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20260610180000 +0000" stop="20260610183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">JB Gill and Angellica Bell bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Simon Le Bon and John Taylor from Duran Duran, as well as actor Colin Morgan, join JB Gill and Angellica Bell on the sofa, while Nikki has your Watchdog news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/574b3877-c2d2-4ad5-afcc-6b0cfcae5135/cover"/>
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20260610183000 +0000" stop="20260610190000 +0000">
@@ -16984,7 +17005,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20260610180000 +0000" stop="20260610183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">JB Gill and Angellica Bell bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Simon Le Bon and John Taylor from Duran Duran, as well as actor Colin Morgan, join JB Gill and Angellica Bell on the sofa, while Nikki has your Watchdog news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/574b3877-c2d2-4ad5-afcc-6b0cfcae5135/cover"/>
   </programme>
   <programme channel="BBCOneWest.uk" start="20260610183000 +0000" stop="20260610190000 +0000">
@@ -17433,7 +17454,7 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260610180000 +0000" stop="20260610183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">JB Gill and Angellica Bell bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Simon Le Bon and John Taylor from Duran Duran, as well as actor Colin Morgan, join JB Gill and Angellica Bell on the sofa, while Nikki has your Watchdog news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/574b3877-c2d2-4ad5-afcc-6b0cfcae5135/cover"/>
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260610183000 +0000" stop="20260610190000 +0000">
@@ -17882,7 +17903,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260610180000 +0000" stop="20260610183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">JB Gill and Angellica Bell bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Simon Le Bon and John Taylor from Duran Duran, as well as actor Colin Morgan, join JB Gill and Angellica Bell on the sofa, while Nikki has your Watchdog news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/574b3877-c2d2-4ad5-afcc-6b0cfcae5135/cover"/>
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260610183000 +0000" stop="20260610190000 +0000">
@@ -18331,7 +18352,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260610180000 +0000" stop="20260610183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">JB Gill and Angellica Bell bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Simon Le Bon and John Taylor from Duran Duran, as well as actor Colin Morgan, join JB Gill and Angellica Bell on the sofa, while Nikki has your Watchdog news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/574b3877-c2d2-4ad5-afcc-6b0cfcae5135/cover"/>
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260610183000 +0000" stop="20260610190000 +0000">
@@ -18743,50 +18764,90 @@
     <desc lang="en">Coverage of questions in the House of Commons to Douglas Alexander, the Scottish secretary, and his team of ministers on Wednesday 10 June.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/58b209c5-8d68-421b-b711-2e08dd780ac7/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260610110000 +0000" stop="20260610113500 +0000">
+  <programme channel="BBCParliament.uk" start="20260610110000 +0000" stop="20260610114000 +0000">
     <title lang="en">Live Prime Minister's Questions</title>
     <desc lang="en">Coverage of questions in the House of Commons to Keir Starmer, the prime minister, on Wednesday 10 June.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7d0bc6fd-5744-4111-bc16-de3bfa6b33ef/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260610113500 +0000" stop="20260610183000 +0000">
+  <programme channel="BBCParliament.uk" start="20260610114000 +0000" stop="20260610124500 +0000">
+    <title lang="en">Live Belfast Violent Disorder Urgent Question</title>
+    <desc lang="en">Urgent question on the violent disorder across Belfast on the evening of 9 June.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/fc5202a5-14f2-412e-8066-5044f828d9d0/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260610124500 +0000" stop="20260610134000 +0000">
+    <title lang="en">Live Defence Review Urgent Question</title>
+    <desc lang="en">Coverage of an urgent question in the House of Commons on the Defence Investment Plan, on Wednesday 10 June.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/05c4bd05-6fae-4257-a358-727918c809f1/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260610134000 +0000" stop="20260610183000 +0000">
     <title lang="en">Live House of Commons</title>
     <desc lang="en">Coverage of the day's proceedings in the House of Commons including the remaining stages of the Railways Bill, on Wednesday 10 June.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/51dc0432-d051-43aa-83c9-66882cfa712b/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/f604dab8-f451-47d4-a312-bf8e2126394e/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260610183000 +0000" stop="20260610210000 +0000">
     <title lang="en">Live House of Lords</title>
     <desc lang="en">Coverage of proceedings in the House of Lords including the debate on the report from the Lords Built Environment committee on 'New Towns: Laying the Foundations', on Wednesday 10 June.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/10e72ce9-3f64-43ff-803e-20647e21dcd8/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260610210000 +0000" stop="20260610213500 +0000">
+  <programme channel="BBCParliament.uk" start="20260610210000 +0000" stop="20260610214000 +0000">
     <title lang="en">Prime Minister's Questions</title>
     <desc lang="en">Coverage of questions in the House of Commons to Keir Starmer, the prime minister, on Wednesday 10 June.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7d0bc6fd-5744-4111-bc16-de3bfa6b33ef/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260610213500 +0000" stop="20260610222000 +0000">
+  <programme channel="BBCParliament.uk" start="20260610214000 +0000" stop="20260610222500 +0000">
     <title lang="en">Lords Questions</title>
     <desc lang="en">Questions in the House of Lords to government ministers covering people granted refugee status, Best Start Family Hubs and on farming and food production, on Wednesday 10 June.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4330e201-53c3-4d27-9460-1f1b66b887e0/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260610222000 +0000" stop="20260611060000 +0000">
-    <title lang="en">House of Lords</title>
-    <desc lang="en">Business in the House of Lords on Wednesday 10 June.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/79855de9-5086-437f-8e7c-f944389f6dc6/cover"/>
+  <programme channel="BBCParliament.uk" start="20260610222500 +0000" stop="20260610224000 +0000">
+    <title lang="en">Espionage Against UK Government...</title>
+    <desc lang="en">...Assets Private Notice Question. Question on concealed surveillance equipment in government offices and vehicles.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8d74975d-0185-437b-a09e-8e04651c28ae/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260611060000 +0000" stop="20260611063000 +0000">
+  <programme channel="BBCParliament.uk" start="20260610224000 +0000" stop="20260610225000 +0000">
+    <title lang="en">House of Lords - Violent...</title>
+    <desc lang="en">...Disorder in Belfast Statement. Coverage of a government statement in the House of Lords on the violent disorder in Belfast, on Wednesday 10 June.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/dddcb81d-a010-451f-88dc-d00b4d025af6/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260610225000 +0000" stop="20260610233000 +0000">
+    <title lang="en">House of Lords - Middle East Statement</title>
+    <desc lang="en">Coverage of a government statement in the House of Lords on the situation in the Middle East, on Wednesday 10 June.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1f0bb4cd-6ba5-4558-97fe-da32f830b784/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260610233000 +0000" stop="20260611013000 +0000">
+    <title lang="en">House of Lords - New Autism Strategy Debate</title>
+    <desc lang="en">Coverage of a debate in the House of Lords on the report from the Autism Act 2009 committee on the new autism strategy, on Wednesday 10 June.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d2461ace-b62d-4c50-a62f-b893b2ffc9d9/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260611013000 +0000" stop="20260611033000 +0000">
+    <title lang="en">House of Lords - Home-Based Working Debate</title>
+    <desc lang="en">Coverage of a debate in the House of Lords on the report from the Home-Based Working committee on home working, on Wednesday 10 June.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/93aa6280-b0de-42cb-be85-a9a8d6b681be/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260611033000 +0000" stop="20260611060500 +0000">
+    <title lang="en">House of Lords - New Towns Debate</title>
+    <desc lang="en">Coverage of a debate in the House of Lords on the report from the Lords Built Environment committee on new towns, on Wednesday 10 June.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/9d8ddbfa-77ab-4a4f-90c8-94e35c7df1a0/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260611060500 +0000" stop="20260611063000 +0000">
     <title lang="en">Scotland Office Questions</title>
     <desc lang="en">Coverage of questions in the House of Commons to Douglas Alexander, the Scottish secretary, and his team of ministers on Wednesday 10 June.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/58b209c5-8d68-421b-b711-2e08dd780ac7/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260611063000 +0000" stop="20260611070500 +0000">
+  <programme channel="BBCParliament.uk" start="20260611063000 +0000" stop="20260611071000 +0000">
     <title lang="en">Prime Minister's Questions</title>
     <desc lang="en">Coverage of questions in the House of Commons to Keir Starmer, the prime minister, on Wednesday 10 June.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7d0bc6fd-5744-4111-bc16-de3bfa6b33ef/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260611070500 +0000" stop="20260611083000 +0000">
-    <title lang="en">House of Commons</title>
-    <desc lang="en">Highlights of proceedings in the House of Commons from Wednesday 10 June.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/ab5663b0-ba25-45de-8529-f949a522daf3/cover"/>
+  <programme channel="BBCParliament.uk" start="20260611071000 +0000" stop="20260611081500 +0000">
+    <title lang="en">Belfast Violent Disorder Urgent Question</title>
+    <desc lang="en">Urgent question on the violent disorder across Belfast on the evening of 9 June.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ea0ad298-9fdd-4057-a3ac-8625502524fb/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260611081500 +0000" stop="20260611083000 +0000">
+    <title lang="en">House of Lords - Children's Online Safety Statement</title>
+    <desc lang="en">Coverage of a statement in the House of Lords on government policy on children's online safety, social media and smartphones, on Tuesday 9 June.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3eabefca-0cfa-45e2-b785-1fc2ad05a31a/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260611083000 +0000" stop="20260611093000 +0000">
     <title lang="en">Live Transport Questions</title>
@@ -19039,7 +19100,7 @@
   </programme>
   <programme channel="BBCScotland.uk" start="20260610223000 +0000" stop="20260610230000 +0000">
     <title lang="en">Scotcast</title>
-    <desc lang="en">Conversation about Scotland's biggest news stories, hosted by Martin Geissler.</desc>
+    <desc lang="en">Martin Geissler hears what BBC journalists witnessed during a demonstration which sparked racist assaults in Glasgow city centre.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8480238c-6233-44e2-aecf-5826898749ad/cover"/>
   </programme>
   <programme channel="BBCScotland.uk" start="20260610230000 +0000" stop="20260611050000 +0000">
@@ -19366,16 +19427,16 @@
     <icon src="https://images.metadata.sky.com/pd-image/dbc8dfd4-1a95-4fc2-b64a-1128e4918a9a/cover"/>
   </programme>
   <programme channel="BBCThreeHD.uk" start="20260611223000 +0000" stop="20260611233000 +0000">
-    <title lang="en">Small Town, Big Riot</title>
-    <desc lang="en">1/2. Mobeen Azhar investigates what tipped a peaceful demonstration into a riot. Contains some strong language and some upsetting scenes.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/ed031cd6-eb90-3ab3-8a6d-8ecb186cf9a6/cover"/>
+    <title lang="en">Behind Bars: Sex, Bribes and Murder</title>
+    <desc lang="en">1/2. A viral sex tape leads to a bigger story about corruption in the prison system. Contains some strong language and some scenes of a sexual nature.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/4c0f3434-ba7c-46e9-8ae1-6e8986d1ac26/cover"/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme channel="BBCThreeHD.uk" start="20260611233000 +0000" stop="20260612003000 +0000">
-    <title lang="en">Small Town, Big Riot</title>
-    <desc lang="en">2/2. Mobeen investigates the effect online rumours and disinformation are having on the town. Contains some strong language.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1123934a-efd0-3d78-b4a5-3bcb9a29bcdb/cover"/>
+    <title lang="en">Behind Bars: Sex, Bribes and Murder</title>
+    <desc lang="en">2/2. Mobeen's investigation continues. News of a murdered former officer hits the headlines. Contains some strong language, some sexual content and some upsetting...</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/dc93cbdd-59af-4b58-bb8f-f40a81a44e16/cover"/>
     <episode-num system="xmltv_ns">0.1.0</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
   </programme>
@@ -22157,6 +22218,8 @@
     <title lang="en">Newsround</title>
     <desc lang="en">10/06/2026. Topical news magazine for children.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/04d54245-a609-4411-9d24-a4a8149ea40b/cover"/>
+    <episode-num system="xmltv_ns">2025.50.0</episode-num>
+    <episode-num system="onscreen">S2026E51</episode-num>
   </programme>
   <programme channel="CBBC.uk" start="20260610065500 +0000" stop="20260610070500 +0000">
     <title lang="en">Grizzy and the Lemmings</title>
@@ -22598,14 +22661,14 @@
     <episode-num system="xmltv_ns">0.8.0</episode-num>
     <episode-num system="onscreen">S1E9</episode-num>
   </programme>
-  <programme channel="CBBC.uk" start="20260611115000 +0000" stop="20260611121000 +0000">
+  <programme channel="CBBC.uk" start="20260611115000 +0000" stop="20260611121500 +0000">
     <title lang="en">The Football Academy</title>
     <desc lang="en">A Long Way from Home. Can Mia and Lucy adapt to life at the Football Academy?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d0c30af3-1fea-4597-9a58-6c8e0a0bc50a/cover"/>
     <episode-num system="xmltv_ns">2.8.0</episode-num>
     <episode-num system="onscreen">S3E9</episode-num>
   </programme>
-  <programme channel="CBBC.uk" start="20260611121000 +0000" stop="20260611122500 +0000">
+  <programme channel="CBBC.uk" start="20260611121500 +0000" stop="20260611122500 +0000">
     <title lang="en">Octonauts: Above &amp; Beyond</title>
     <desc lang="en">Salt-Mining Elephants. When a herd of elephants is trapped in a cave, the Octonauts have to get them out quickly!</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5ed0ae6a-b5a3-3dc9-84ce-4bfa77524da4/cover"/>
@@ -22689,14 +22752,14 @@
     <episode-num system="xmltv_ns">0.46.0</episode-num>
     <episode-num system="onscreen">S1E47</episode-num>
   </programme>
-  <programme channel="CBBC.uk" start="20260611145500 +0000" stop="20260611150500 +0000">
+  <programme channel="CBBC.uk" start="20260611145500 +0000" stop="20260611151000 +0000">
     <title lang="en">Super Happy Magic Forest</title>
     <desc lang="en">The Legend of Bigface. The blossom is missing from the trees, and the heroes quest deep into the forest, where legend has it that there is a face watching from the trees.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/10901eae-0107-45b9-86de-9b24d15eadbe/cover"/>
     <episode-num system="xmltv_ns">0.47.0</episode-num>
     <episode-num system="onscreen">S1E48</episode-num>
   </programme>
-  <programme channel="CBBC.uk" start="20260611150500 +0000" stop="20260611152000 +0000">
+  <programme channel="CBBC.uk" start="20260611151000 +0000" stop="20260611152000 +0000">
     <title lang="en">Boy Girl Dog Cat Mouse Cheese</title>
     <desc lang="en">Narwhal Day. The gang is ready to celebrate Narwhal Day, one of their favourite holidays. However, they discover that it isn't a real holiday, just something Dad made up.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4fddad73-b008-4ca4-9884-516682f890fd/cover"/>
@@ -34489,7 +34552,7 @@
   </programme>
   <programme channel="ITV1CentralE.uk" start="20260610083000 +0000" stop="20260610090000 +0000">
     <title lang="en">Lorraine</title>
-    <desc lang="en">Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.</desc>
+    <desc lang="en">Comedian Chris Ramsey's in the studio revealing why no topic is off the cards in his new stand-up show. And Ross King is in LA with all of the latest showbiz news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/54c95d82-52d7-4be1-a636-dbe959b888aa/cover"/>
     <episode-num system="xmltv_ns">13.72.0</episode-num>
     <episode-num system="onscreen">S14E73</episode-num>
@@ -34627,14 +34690,14 @@
   </programme>
   <programme channel="ITV1CentralE.uk" start="20260611050000 +0000" stop="20260611083000 +0000">
     <title lang="en">Good Morning Britain</title>
-    <desc lang="en">News, current affairs and lively debate.</desc>
+    <desc lang="en">Comedian Judi Love is back with her podcast and tells us what made her get into comedy in the first place.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0c7d0c17-36f0-49db-b799-e75910815879/cover"/>
     <episode-num system="xmltv_ns">12.113.0</episode-num>
     <episode-num system="onscreen">S13E114</episode-num>
   </programme>
   <programme channel="ITV1CentralE.uk" start="20260611083000 +0000" stop="20260611090000 +0000">
     <title lang="en">Lorraine</title>
-    <desc lang="en">Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.</desc>
+    <desc lang="en">Aled Jones on teaming up with Alexander Armstrong, former Corrie star Tracy Shaw tells us about life since her breast cancer diagnosis, and Vogue has the latest showbiz news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fbd1049c-7de2-4892-9815-404dd94a992e/cover"/>
     <episode-num system="xmltv_ns">13.73.0</episode-num>
     <episode-num system="onscreen">S14E74</episode-num>
@@ -34931,7 +34994,7 @@
   </programme>
   <programme channel="ITV1CentralW.uk" start="20260610083000 +0000" stop="20260610090000 +0000">
     <title lang="en">Lorraine</title>
-    <desc lang="en">Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.</desc>
+    <desc lang="en">Comedian Chris Ramsey's in the studio revealing why no topic is off the cards in his new stand-up show. And Ross King is in LA with all of the latest showbiz news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/54c95d82-52d7-4be1-a636-dbe959b888aa/cover"/>
     <episode-num system="xmltv_ns">13.72.0</episode-num>
     <episode-num system="onscreen">S14E73</episode-num>
@@ -35069,14 +35132,14 @@
   </programme>
   <programme channel="ITV1CentralW.uk" start="20260611050000 +0000" stop="20260611083000 +0000">
     <title lang="en">Good Morning Britain</title>
-    <desc lang="en">News, current affairs and lively debate.</desc>
+    <desc lang="en">Comedian Judi Love is back with her podcast and tells us what made her get into comedy in the first place.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0c7d0c17-36f0-49db-b799-e75910815879/cover"/>
     <episode-num system="xmltv_ns">12.113.0</episode-num>
     <episode-num system="onscreen">S13E114</episode-num>
   </programme>
   <programme channel="ITV1CentralW.uk" start="20260611083000 +0000" stop="20260611090000 +0000">
     <title lang="en">Lorraine</title>
-    <desc lang="en">Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.</desc>
+    <desc lang="en">Aled Jones on teaming up with Alexander Armstrong, former Corrie star Tracy Shaw tells us about life since her breast cancer diagnosis, and Vogue has the latest showbiz news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fbd1049c-7de2-4892-9815-404dd94a992e/cover"/>
     <episode-num system="xmltv_ns">13.73.0</episode-num>
     <episode-num system="onscreen">S14E74</episode-num>
@@ -35366,7 +35429,7 @@
   </programme>
   <programme channel="ITV1London.uk" start="20260610083000 +0000" stop="20260610090000 +0000">
     <title lang="en">Lorraine</title>
-    <desc lang="en">Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.</desc>
+    <desc lang="en">Comedian Chris Ramsey's in the studio revealing why no topic is off the cards in his new stand-up show. And Ross King is in LA with all of the latest showbiz news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/54c95d82-52d7-4be1-a636-dbe959b888aa/cover"/>
     <episode-num system="xmltv_ns">13.72.0</episode-num>
     <episode-num system="onscreen">S14E73</episode-num>
@@ -35504,14 +35567,14 @@
   </programme>
   <programme channel="ITV1London.uk" start="20260611050000 +0000" stop="20260611083000 +0000">
     <title lang="en">Good Morning Britain</title>
-    <desc lang="en">News, current affairs and lively debate.</desc>
+    <desc lang="en">Comedian Judi Love is back with her podcast and tells us what made her get into comedy in the first place.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0c7d0c17-36f0-49db-b799-e75910815879/cover"/>
     <episode-num system="xmltv_ns">12.113.0</episode-num>
     <episode-num system="onscreen">S13E114</episode-num>
   </programme>
   <programme channel="ITV1London.uk" start="20260611083000 +0000" stop="20260611090000 +0000">
     <title lang="en">Lorraine</title>
-    <desc lang="en">Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.</desc>
+    <desc lang="en">Aled Jones on teaming up with Alexander Armstrong, former Corrie star Tracy Shaw tells us about life since her breast cancer diagnosis, and Vogue has the latest showbiz news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fbd1049c-7de2-4892-9815-404dd94a992e/cover"/>
     <episode-num system="xmltv_ns">13.73.0</episode-num>
     <episode-num system="onscreen">S14E74</episode-num>
@@ -35808,7 +35871,7 @@
   </programme>
   <programme channel="ITV1MeridianE.uk" start="20260610083000 +0000" stop="20260610090000 +0000">
     <title lang="en">Lorraine</title>
-    <desc lang="en">Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.</desc>
+    <desc lang="en">Comedian Chris Ramsey's in the studio revealing why no topic is off the cards in his new stand-up show. And Ross King is in LA with all of the latest showbiz news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/54c95d82-52d7-4be1-a636-dbe959b888aa/cover"/>
     <episode-num system="xmltv_ns">13.72.0</episode-num>
     <episode-num system="onscreen">S14E73</episode-num>
@@ -35946,14 +36009,14 @@
   </programme>
   <programme channel="ITV1MeridianE.uk" start="20260611050000 +0000" stop="20260611083000 +0000">
     <title lang="en">Good Morning Britain</title>
-    <desc lang="en">News, current affairs and lively debate.</desc>
+    <desc lang="en">Comedian Judi Love is back with her podcast and tells us what made her get into comedy in the first place.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0c7d0c17-36f0-49db-b799-e75910815879/cover"/>
     <episode-num system="xmltv_ns">12.113.0</episode-num>
     <episode-num system="onscreen">S13E114</episode-num>
   </programme>
   <programme channel="ITV1MeridianE.uk" start="20260611083000 +0000" stop="20260611090000 +0000">
     <title lang="en">Lorraine</title>
-    <desc lang="en">Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.</desc>
+    <desc lang="en">Aled Jones on teaming up with Alexander Armstrong, former Corrie star Tracy Shaw tells us about life since her breast cancer diagnosis, and Vogue has the latest showbiz news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fbd1049c-7de2-4892-9815-404dd94a992e/cover"/>
     <episode-num system="xmltv_ns">13.73.0</episode-num>
     <episode-num system="onscreen">S14E74</episode-num>
@@ -36250,7 +36313,7 @@
   </programme>
   <programme channel="ITV1MeridianN.uk" start="20260610083000 +0000" stop="20260610090000 +0000">
     <title lang="en">Lorraine</title>
-    <desc lang="en">Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.</desc>
+    <desc lang="en">Comedian Chris Ramsey's in the studio revealing why no topic is off the cards in his new stand-up show. And Ross King is in LA with all of the latest showbiz news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/54c95d82-52d7-4be1-a636-dbe959b888aa/cover"/>
     <episode-num system="xmltv_ns">13.72.0</episode-num>
     <episode-num system="onscreen">S14E73</episode-num>
@@ -36388,14 +36451,14 @@
   </programme>
   <programme channel="ITV1MeridianN.uk" start="20260611050000 +0000" stop="20260611083000 +0000">
     <title lang="en">Good Morning Britain</title>
-    <desc lang="en">News, current affairs and lively debate.</desc>
+    <desc lang="en">Comedian Judi Love is back with her podcast and tells us what made her get into comedy in the first place.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0c7d0c17-36f0-49db-b799-e75910815879/cover"/>
     <episode-num system="xmltv_ns">12.113.0</episode-num>
     <episode-num system="onscreen">S13E114</episode-num>
   </programme>
   <programme channel="ITV1MeridianN.uk" start="20260611083000 +0000" stop="20260611090000 +0000">
     <title lang="en">Lorraine</title>
-    <desc lang="en">Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.</desc>
+    <desc lang="en">Aled Jones on teaming up with Alexander Armstrong, former Corrie star Tracy Shaw tells us about life since her breast cancer diagnosis, and Vogue has the latest showbiz news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fbd1049c-7de2-4892-9815-404dd94a992e/cover"/>
     <episode-num system="xmltv_ns">13.73.0</episode-num>
     <episode-num system="onscreen">S14E74</episode-num>
@@ -36687,7 +36750,7 @@
   </programme>
   <programme channel="ITV1MeridianS.uk" start="20260610083000 +0000" stop="20260610090000 +0000">
     <title lang="en">Lorraine</title>
-    <desc lang="en">Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.</desc>
+    <desc lang="en">Comedian Chris Ramsey's in the studio revealing why no topic is off the cards in his new stand-up show. And Ross King is in LA with all of the latest showbiz news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/54c95d82-52d7-4be1-a636-dbe959b888aa/cover"/>
     <episode-num system="xmltv_ns">13.72.0</episode-num>
     <episode-num system="onscreen">S14E73</episode-num>
@@ -36825,14 +36888,14 @@
   </programme>
   <programme channel="ITV1MeridianS.uk" start="20260611050000 +0000" stop="20260611083000 +0000">
     <title lang="en">Good Morning Britain</title>
-    <desc lang="en">News, current affairs and lively debate.</desc>
+    <desc lang="en">Comedian Judi Love is back with her podcast and tells us what made her get into comedy in the first place.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0c7d0c17-36f0-49db-b799-e75910815879/cover"/>
     <episode-num system="xmltv_ns">12.113.0</episode-num>
     <episode-num system="onscreen">S13E114</episode-num>
   </programme>
   <programme channel="ITV1MeridianS.uk" start="20260611083000 +0000" stop="20260611090000 +0000">
     <title lang="en">Lorraine</title>
-    <desc lang="en">Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.</desc>
+    <desc lang="en">Aled Jones on teaming up with Alexander Armstrong, former Corrie star Tracy Shaw tells us about life since her breast cancer diagnosis, and Vogue has the latest showbiz news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fbd1049c-7de2-4892-9815-404dd94a992e/cover"/>
     <episode-num system="xmltv_ns">13.73.0</episode-num>
     <episode-num system="onscreen">S14E74</episode-num>
@@ -37129,7 +37192,7 @@
   </programme>
   <programme channel="ITV1North.uk" start="20260610083000 +0000" stop="20260610090000 +0000">
     <title lang="en">Lorraine</title>
-    <desc lang="en">Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.</desc>
+    <desc lang="en">Comedian Chris Ramsey's in the studio revealing why no topic is off the cards in his new stand-up show. And Ross King is in LA with all of the latest showbiz news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/54c95d82-52d7-4be1-a636-dbe959b888aa/cover"/>
     <episode-num system="xmltv_ns">13.72.0</episode-num>
     <episode-num system="onscreen">S14E73</episode-num>
@@ -37267,14 +37330,14 @@
   </programme>
   <programme channel="ITV1North.uk" start="20260611050000 +0000" stop="20260611083000 +0000">
     <title lang="en">Good Morning Britain</title>
-    <desc lang="en">News, current affairs and lively debate.</desc>
+    <desc lang="en">Comedian Judi Love is back with her podcast and tells us what made her get into comedy in the first place.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0c7d0c17-36f0-49db-b799-e75910815879/cover"/>
     <episode-num system="xmltv_ns">12.113.0</episode-num>
     <episode-num system="onscreen">S13E114</episode-num>
   </programme>
   <programme channel="ITV1North.uk" start="20260611083000 +0000" stop="20260611090000 +0000">
     <title lang="en">Lorraine</title>
-    <desc lang="en">Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.</desc>
+    <desc lang="en">Aled Jones on teaming up with Alexander Armstrong, former Corrie star Tracy Shaw tells us about life since her breast cancer diagnosis, and Vogue has the latest showbiz news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fbd1049c-7de2-4892-9815-404dd94a992e/cover"/>
     <episode-num system="xmltv_ns">13.73.0</episode-num>
     <episode-num system="onscreen">S14E74</episode-num>
@@ -37574,14 +37637,14 @@
   </programme>
   <programme channel="ITV1Plus1Granada.uk" start="20260610060000 +0000" stop="20260610093000 +0000">
     <title lang="en">Good Morning Britain</title>
-    <desc lang="en">News, current affairs and lively debate.</desc>
+    <desc lang="en">Paul Gascoigne releases the paperback of his tell-all memoir and gives his predictions ahead of the 2026 World Cup.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4a91fdb3-5678-4c0e-a5b5-2e3bbde19d0a/cover"/>
     <episode-num system="xmltv_ns">12.112.0</episode-num>
     <episode-num system="onscreen">S13E113</episode-num>
   </programme>
   <programme channel="ITV1Plus1Granada.uk" start="20260610093000 +0000" stop="20260610100000 +0000">
     <title lang="en">Lorraine</title>
-    <desc lang="en">Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.</desc>
+    <desc lang="en">Comedian Chris Ramsey's in the studio revealing why no topic is off the cards in his new stand-up show. And Ross King is in LA with all of the latest showbiz news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/54c95d82-52d7-4be1-a636-dbe959b888aa/cover"/>
     <episode-num system="xmltv_ns">13.72.0</episode-num>
     <episode-num system="onscreen">S14E73</episode-num>
@@ -37719,14 +37782,14 @@
   </programme>
   <programme channel="ITV1Plus1Granada.uk" start="20260611060000 +0000" stop="20260611093000 +0000">
     <title lang="en">Good Morning Britain</title>
-    <desc lang="en">News, current affairs and lively debate.</desc>
+    <desc lang="en">Comedian Judi Love is back with her podcast and tells us what made her get into comedy in the first place.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0c7d0c17-36f0-49db-b799-e75910815879/cover"/>
     <episode-num system="xmltv_ns">12.113.0</episode-num>
     <episode-num system="onscreen">S13E114</episode-num>
   </programme>
   <programme channel="ITV1Plus1Granada.uk" start="20260611093000 +0000" stop="20260611100000 +0000">
     <title lang="en">Lorraine</title>
-    <desc lang="en">Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.</desc>
+    <desc lang="en">Aled Jones on teaming up with Alexander Armstrong, former Corrie star Tracy Shaw tells us about life since her breast cancer diagnosis, and Vogue has the latest showbiz news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fbd1049c-7de2-4892-9815-404dd94a992e/cover"/>
     <episode-num system="xmltv_ns">13.73.0</episode-num>
     <episode-num system="onscreen">S14E74</episode-num>
@@ -38026,14 +38089,14 @@
   </programme>
   <programme channel="ITV1Plus1London.uk" start="20260610060000 +0000" stop="20260610093000 +0000">
     <title lang="en">Good Morning Britain</title>
-    <desc lang="en">News, current affairs and lively debate.</desc>
+    <desc lang="en">Paul Gascoigne releases the paperback of his tell-all memoir and gives his predictions ahead of the 2026 World Cup.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4a91fdb3-5678-4c0e-a5b5-2e3bbde19d0a/cover"/>
     <episode-num system="xmltv_ns">12.112.0</episode-num>
     <episode-num system="onscreen">S13E113</episode-num>
   </programme>
   <programme channel="ITV1Plus1London.uk" start="20260610093000 +0000" stop="20260610100000 +0000">
     <title lang="en">Lorraine</title>
-    <desc lang="en">Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.</desc>
+    <desc lang="en">Comedian Chris Ramsey's in the studio revealing why no topic is off the cards in his new stand-up show. And Ross King is in LA with all of the latest showbiz news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/54c95d82-52d7-4be1-a636-dbe959b888aa/cover"/>
     <episode-num system="xmltv_ns">13.72.0</episode-num>
     <episode-num system="onscreen">S14E73</episode-num>
@@ -38171,14 +38234,14 @@
   </programme>
   <programme channel="ITV1Plus1London.uk" start="20260611060000 +0000" stop="20260611093000 +0000">
     <title lang="en">Good Morning Britain</title>
-    <desc lang="en">News, current affairs and lively debate.</desc>
+    <desc lang="en">Comedian Judi Love is back with her podcast and tells us what made her get into comedy in the first place.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0c7d0c17-36f0-49db-b799-e75910815879/cover"/>
     <episode-num system="xmltv_ns">12.113.0</episode-num>
     <episode-num system="onscreen">S13E114</episode-num>
   </programme>
   <programme channel="ITV1Plus1London.uk" start="20260611093000 +0000" stop="20260611100000 +0000">
     <title lang="en">Lorraine</title>
-    <desc lang="en">Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.</desc>
+    <desc lang="en">Aled Jones on teaming up with Alexander Armstrong, former Corrie star Tracy Shaw tells us about life since her breast cancer diagnosis, and Vogue has the latest showbiz news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fbd1049c-7de2-4892-9815-404dd94a992e/cover"/>
     <episode-num system="xmltv_ns">13.73.0</episode-num>
     <episode-num system="onscreen">S14E74</episode-num>
@@ -38478,14 +38541,14 @@
   </programme>
   <programme channel="ITV1Plus1Meridian.uk" start="20260610060000 +0000" stop="20260610093000 +0000">
     <title lang="en">Good Morning Britain</title>
-    <desc lang="en">News, current affairs and lively debate.</desc>
+    <desc lang="en">Paul Gascoigne releases the paperback of his tell-all memoir and gives his predictions ahead of the 2026 World Cup.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4a91fdb3-5678-4c0e-a5b5-2e3bbde19d0a/cover"/>
     <episode-num system="xmltv_ns">12.112.0</episode-num>
     <episode-num system="onscreen">S13E113</episode-num>
   </programme>
   <programme channel="ITV1Plus1Meridian.uk" start="20260610093000 +0000" stop="20260610100000 +0000">
     <title lang="en">Lorraine</title>
-    <desc lang="en">Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.</desc>
+    <desc lang="en">Comedian Chris Ramsey's in the studio revealing why no topic is off the cards in his new stand-up show. And Ross King is in LA with all of the latest showbiz news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/54c95d82-52d7-4be1-a636-dbe959b888aa/cover"/>
     <episode-num system="xmltv_ns">13.72.0</episode-num>
     <episode-num system="onscreen">S14E73</episode-num>
@@ -38623,14 +38686,14 @@
   </programme>
   <programme channel="ITV1Plus1Meridian.uk" start="20260611060000 +0000" stop="20260611093000 +0000">
     <title lang="en">Good Morning Britain</title>
-    <desc lang="en">News, current affairs and lively debate.</desc>
+    <desc lang="en">Comedian Judi Love is back with her podcast and tells us what made her get into comedy in the first place.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0c7d0c17-36f0-49db-b799-e75910815879/cover"/>
     <episode-num system="xmltv_ns">12.113.0</episode-num>
     <episode-num system="onscreen">S13E114</episode-num>
   </programme>
   <programme channel="ITV1Plus1Meridian.uk" start="20260611093000 +0000" stop="20260611100000 +0000">
     <title lang="en">Lorraine</title>
-    <desc lang="en">Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.</desc>
+    <desc lang="en">Aled Jones on teaming up with Alexander Armstrong, former Corrie star Tracy Shaw tells us about life since her breast cancer diagnosis, and Vogue has the latest showbiz news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fbd1049c-7de2-4892-9815-404dd94a992e/cover"/>
     <episode-num system="xmltv_ns">13.73.0</episode-num>
     <episode-num system="onscreen">S14E74</episode-num>
@@ -38930,14 +38993,14 @@
   </programme>
   <programme channel="ITV1Plus1Midlands.uk" start="20260610060000 +0000" stop="20260610093000 +0000">
     <title lang="en">Good Morning Britain</title>
-    <desc lang="en">News, current affairs and lively debate.</desc>
+    <desc lang="en">Paul Gascoigne releases the paperback of his tell-all memoir and gives his predictions ahead of the 2026 World Cup.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4a91fdb3-5678-4c0e-a5b5-2e3bbde19d0a/cover"/>
     <episode-num system="xmltv_ns">12.112.0</episode-num>
     <episode-num system="onscreen">S13E113</episode-num>
   </programme>
   <programme channel="ITV1Plus1Midlands.uk" start="20260610093000 +0000" stop="20260610100000 +0000">
     <title lang="en">Lorraine</title>
-    <desc lang="en">Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.</desc>
+    <desc lang="en">Comedian Chris Ramsey's in the studio revealing why no topic is off the cards in his new stand-up show. And Ross King is in LA with all of the latest showbiz news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/54c95d82-52d7-4be1-a636-dbe959b888aa/cover"/>
     <episode-num system="xmltv_ns">13.72.0</episode-num>
     <episode-num system="onscreen">S14E73</episode-num>
@@ -39075,14 +39138,14 @@
   </programme>
   <programme channel="ITV1Plus1Midlands.uk" start="20260611060000 +0000" stop="20260611093000 +0000">
     <title lang="en">Good Morning Britain</title>
-    <desc lang="en">News, current affairs and lively debate.</desc>
+    <desc lang="en">Comedian Judi Love is back with her podcast and tells us what made her get into comedy in the first place.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0c7d0c17-36f0-49db-b799-e75910815879/cover"/>
     <episode-num system="xmltv_ns">12.113.0</episode-num>
     <episode-num system="onscreen">S13E114</episode-num>
   </programme>
   <programme channel="ITV1Plus1Midlands.uk" start="20260611093000 +0000" stop="20260611100000 +0000">
     <title lang="en">Lorraine</title>
-    <desc lang="en">Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.</desc>
+    <desc lang="en">Aled Jones on teaming up with Alexander Armstrong, former Corrie star Tracy Shaw tells us about life since her breast cancer diagnosis, and Vogue has the latest showbiz news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fbd1049c-7de2-4892-9815-404dd94a992e/cover"/>
     <episode-num system="xmltv_ns">13.73.0</episode-num>
     <episode-num system="onscreen">S14E74</episode-num>
@@ -39379,7 +39442,7 @@
   </programme>
   <programme channel="ITV1TyneTees.uk" start="20260610083000 +0000" stop="20260610090000 +0000">
     <title lang="en">Lorraine</title>
-    <desc lang="en">Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.</desc>
+    <desc lang="en">Comedian Chris Ramsey's in the studio revealing why no topic is off the cards in his new stand-up show. And Ross King is in LA with all of the latest showbiz news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/54c95d82-52d7-4be1-a636-dbe959b888aa/cover"/>
     <episode-num system="xmltv_ns">13.72.0</episode-num>
     <episode-num system="onscreen">S14E73</episode-num>
@@ -39517,14 +39580,14 @@
   </programme>
   <programme channel="ITV1TyneTees.uk" start="20260611050000 +0000" stop="20260611083000 +0000">
     <title lang="en">Good Morning Britain</title>
-    <desc lang="en">News, current affairs and lively debate.</desc>
+    <desc lang="en">Comedian Judi Love is back with her podcast and tells us what made her get into comedy in the first place.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0c7d0c17-36f0-49db-b799-e75910815879/cover"/>
     <episode-num system="xmltv_ns">12.113.0</episode-num>
     <episode-num system="onscreen">S13E114</episode-num>
   </programme>
   <programme channel="ITV1TyneTees.uk" start="20260611083000 +0000" stop="20260611090000 +0000">
     <title lang="en">Lorraine</title>
-    <desc lang="en">Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.</desc>
+    <desc lang="en">Aled Jones on teaming up with Alexander Armstrong, former Corrie star Tracy Shaw tells us about life since her breast cancer diagnosis, and Vogue has the latest showbiz news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fbd1049c-7de2-4892-9815-404dd94a992e/cover"/>
     <episode-num system="xmltv_ns">13.73.0</episode-num>
     <episode-num system="onscreen">S14E74</episode-num>
@@ -39834,7 +39897,7 @@
   </programme>
   <programme channel="ITV1Wales.uk" start="20260610083000 +0000" stop="20260610090000 +0000">
     <title lang="en">Lorraine</title>
-    <desc lang="en">Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.</desc>
+    <desc lang="en">Comedian Chris Ramsey's in the studio revealing why no topic is off the cards in his new stand-up show. And Ross King is in LA with all of the latest showbiz news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/54c95d82-52d7-4be1-a636-dbe959b888aa/cover"/>
     <episode-num system="xmltv_ns">13.72.0</episode-num>
     <episode-num system="onscreen">S14E73</episode-num>
@@ -39972,14 +40035,14 @@
   </programme>
   <programme channel="ITV1Wales.uk" start="20260611050000 +0000" stop="20260611083000 +0000">
     <title lang="en">Good Morning Britain</title>
-    <desc lang="en">News, current affairs and lively debate.</desc>
+    <desc lang="en">Comedian Judi Love is back with her podcast and tells us what made her get into comedy in the first place.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0c7d0c17-36f0-49db-b799-e75910815879/cover"/>
     <episode-num system="xmltv_ns">12.113.0</episode-num>
     <episode-num system="onscreen">S13E114</episode-num>
   </programme>
   <programme channel="ITV1Wales.uk" start="20260611083000 +0000" stop="20260611090000 +0000">
     <title lang="en">Lorraine</title>
-    <desc lang="en">Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.</desc>
+    <desc lang="en">Aled Jones on teaming up with Alexander Armstrong, former Corrie star Tracy Shaw tells us about life since her breast cancer diagnosis, and Vogue has the latest showbiz news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fbd1049c-7de2-4892-9815-404dd94a992e/cover"/>
     <episode-num system="xmltv_ns">13.73.0</episode-num>
     <episode-num system="onscreen">S14E74</episode-num>
@@ -40282,7 +40345,7 @@
   </programme>
   <programme channel="ITV1West.uk" start="20260610083000 +0000" stop="20260610090000 +0000">
     <title lang="en">Lorraine</title>
-    <desc lang="en">Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.</desc>
+    <desc lang="en">Comedian Chris Ramsey's in the studio revealing why no topic is off the cards in his new stand-up show. And Ross King is in LA with all of the latest showbiz news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/54c95d82-52d7-4be1-a636-dbe959b888aa/cover"/>
     <episode-num system="xmltv_ns">13.72.0</episode-num>
     <episode-num system="onscreen">S14E73</episode-num>
@@ -40420,14 +40483,14 @@
   </programme>
   <programme channel="ITV1West.uk" start="20260611050000 +0000" stop="20260611083000 +0000">
     <title lang="en">Good Morning Britain</title>
-    <desc lang="en">News, current affairs and lively debate.</desc>
+    <desc lang="en">Comedian Judi Love is back with her podcast and tells us what made her get into comedy in the first place.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0c7d0c17-36f0-49db-b799-e75910815879/cover"/>
     <episode-num system="xmltv_ns">12.113.0</episode-num>
     <episode-num system="onscreen">S13E114</episode-num>
   </programme>
   <programme channel="ITV1West.uk" start="20260611083000 +0000" stop="20260611090000 +0000">
     <title lang="en">Lorraine</title>
-    <desc lang="en">Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.</desc>
+    <desc lang="en">Aled Jones on teaming up with Alexander Armstrong, former Corrie star Tracy Shaw tells us about life since her breast cancer diagnosis, and Vogue has the latest showbiz news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fbd1049c-7de2-4892-9815-404dd94a992e/cover"/>
     <episode-num system="xmltv_ns">13.73.0</episode-num>
     <episode-num system="onscreen">S14E74</episode-num>
@@ -40724,7 +40787,7 @@
   </programme>
   <programme channel="ITV1WestCountry.uk" start="20260610083000 +0000" stop="20260610090000 +0000">
     <title lang="en">Lorraine</title>
-    <desc lang="en">Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.</desc>
+    <desc lang="en">Comedian Chris Ramsey's in the studio revealing why no topic is off the cards in his new stand-up show. And Ross King is in LA with all of the latest showbiz news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/54c95d82-52d7-4be1-a636-dbe959b888aa/cover"/>
     <episode-num system="xmltv_ns">13.72.0</episode-num>
     <episode-num system="onscreen">S14E73</episode-num>
@@ -40862,14 +40925,14 @@
   </programme>
   <programme channel="ITV1WestCountry.uk" start="20260611050000 +0000" stop="20260611083000 +0000">
     <title lang="en">Good Morning Britain</title>
-    <desc lang="en">News, current affairs and lively debate.</desc>
+    <desc lang="en">Comedian Judi Love is back with her podcast and tells us what made her get into comedy in the first place.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0c7d0c17-36f0-49db-b799-e75910815879/cover"/>
     <episode-num system="xmltv_ns">12.113.0</episode-num>
     <episode-num system="onscreen">S13E114</episode-num>
   </programme>
   <programme channel="ITV1WestCountry.uk" start="20260611083000 +0000" stop="20260611090000 +0000">
     <title lang="en">Lorraine</title>
-    <desc lang="en">Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.</desc>
+    <desc lang="en">Aled Jones on teaming up with Alexander Armstrong, former Corrie star Tracy Shaw tells us about life since her breast cancer diagnosis, and Vogue has the latest showbiz news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fbd1049c-7de2-4892-9815-404dd94a992e/cover"/>
     <episode-num system="xmltv_ns">13.73.0</episode-num>
     <episode-num system="onscreen">S14E74</episode-num>
@@ -41159,7 +41222,7 @@
   </programme>
   <programme channel="ITV1YorkshireEast.uk" start="20260610083000 +0000" stop="20260610090000 +0000">
     <title lang="en">Lorraine</title>
-    <desc lang="en">Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.</desc>
+    <desc lang="en">Comedian Chris Ramsey's in the studio revealing why no topic is off the cards in his new stand-up show. And Ross King is in LA with all of the latest showbiz news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/54c95d82-52d7-4be1-a636-dbe959b888aa/cover"/>
     <episode-num system="xmltv_ns">13.72.0</episode-num>
     <episode-num system="onscreen">S14E73</episode-num>
@@ -41297,14 +41360,14 @@
   </programme>
   <programme channel="ITV1YorkshireEast.uk" start="20260611050000 +0000" stop="20260611083000 +0000">
     <title lang="en">Good Morning Britain</title>
-    <desc lang="en">News, current affairs and lively debate.</desc>
+    <desc lang="en">Comedian Judi Love is back with her podcast and tells us what made her get into comedy in the first place.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0c7d0c17-36f0-49db-b799-e75910815879/cover"/>
     <episode-num system="xmltv_ns">12.113.0</episode-num>
     <episode-num system="onscreen">S13E114</episode-num>
   </programme>
   <programme channel="ITV1YorkshireEast.uk" start="20260611083000 +0000" stop="20260611090000 +0000">
     <title lang="en">Lorraine</title>
-    <desc lang="en">Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.</desc>
+    <desc lang="en">Aled Jones on teaming up with Alexander Armstrong, former Corrie star Tracy Shaw tells us about life since her breast cancer diagnosis, and Vogue has the latest showbiz news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fbd1049c-7de2-4892-9815-404dd94a992e/cover"/>
     <episode-num system="xmltv_ns">13.73.0</episode-num>
     <episode-num system="onscreen">S14E74</episode-num>
@@ -41601,7 +41664,7 @@
   </programme>
   <programme channel="ITV1YorkshireWest.uk" start="20260610083000 +0000" stop="20260610090000 +0000">
     <title lang="en">Lorraine</title>
-    <desc lang="en">Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.</desc>
+    <desc lang="en">Comedian Chris Ramsey's in the studio revealing why no topic is off the cards in his new stand-up show. And Ross King is in LA with all of the latest showbiz news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/54c95d82-52d7-4be1-a636-dbe959b888aa/cover"/>
     <episode-num system="xmltv_ns">13.72.0</episode-num>
     <episode-num system="onscreen">S14E73</episode-num>
@@ -41739,7 +41802,7 @@
   </programme>
   <programme channel="ITV1YorkshireWest.uk" start="20260611050000 +0000" stop="20260611083000 +0000">
     <title lang="en">Good Morning Britain</title>
-    <desc lang="en">News, current affairs and lively debate.</desc>
+    <desc lang="en">Comedian Judi Love is back with her podcast and tells us what made her get into comedy in the first place.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0c7d0c17-36f0-49db-b799-e75910815879/cover"/>
     <episode-num system="xmltv_ns">12.113.0</episode-num>
     <episode-num system="onscreen">S13E114</episode-num>
@@ -42171,15 +42234,15 @@
     <episode-num system="xmltv_ns">3.4.0</episode-num>
     <episode-num system="onscreen">S4E5</episode-num>
   </programme>
-  <programme channel="ITV2.uk" start="20260610200000 +0000" stop="20260610210500 +0000">
+  <programme channel="ITV2.uk" start="20260610200000 +0000" stop="20260610212000 +0000">
     <title lang="en">New: Love Island</title>
-    <desc lang="en">Reality show. Glamorous singles live in a beautiful villa under the watchful gaze of an audience at home who have the power to decide who goes and who will win a huge cash prize.</desc>
+    <desc lang="en">Two bombshells turn the villa upside down during a dramatic recoupling, one Islander is dumped, and Ope's awkward apology leaves tensions simmering.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/97e5f0ce-d8b6-4aee-b28f-e4ce9b99d549/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">12.9.0</episode-num>
     <episode-num system="onscreen">S13E10</episode-num>
   </programme>
-  <programme channel="ITV2.uk" start="20260610210500 +0000" stop="20260610213500 +0000">
+  <programme channel="ITV2.uk" start="20260610212000 +0000" stop="20260610215000 +0000">
     <title lang="en">New: Love Island: The Debrief</title>
     <desc lang="en">Your daily drop of hot Love Island tea, and all the Villa gossip. With Shakira Khan, Toni Laites and Yasmin Pettet, nothing is off-topic or out of the question.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d170e1cc-7d74-41c2-a9e1-4cf54705262e/cover"/>
@@ -42187,63 +42250,63 @@
     <episode-num system="xmltv_ns">0.7.0</episode-num>
     <episode-num system="onscreen">S1E8</episode-num>
   </programme>
-  <programme channel="ITV2.uk" start="20260610213500 +0000" stop="20260610220500 +0000">
+  <programme channel="ITV2.uk" start="20260610215000 +0000" stop="20260610222000 +0000">
     <title lang="en">Family Guy</title>
     <desc lang="en">The Son Also Draws: Animated comedy about family life. Chris loses interest in being a youth scout and would rather pursue art instead, so the scout master kicks him out.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4da14a9d-a1fe-427a-bbad-856d3e54ff82/cover"/>
     <episode-num system="xmltv_ns">0.5.0</episode-num>
     <episode-num system="onscreen">S1E6</episode-num>
   </programme>
-  <programme channel="ITV2.uk" start="20260610220500 +0000" stop="20260610223500 +0000">
+  <programme channel="ITV2.uk" start="20260610222000 +0000" stop="20260610225000 +0000">
     <title lang="en">Family Guy</title>
     <desc lang="en">The Perfect Castaway: Animated comedy series about family life. When Peter and the guys go on a fishing trip, they end up stranded on a desert island.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0404dc23-9d22-4dc8-8e44-e8a7bd1d7b8b/cover"/>
     <episode-num system="xmltv_ns">3.11.0</episode-num>
     <episode-num system="onscreen">S4E12</episode-num>
   </programme>
-  <programme channel="ITV2.uk" start="20260610223500 +0000" stop="20260610230500 +0000">
+  <programme channel="ITV2.uk" start="20260610225000 +0000" stop="20260610232000 +0000">
     <title lang="en">American Dad!</title>
     <desc lang="en">Stan of Arabia - Part 1: Animated comedy about a CIA man. Stan is reassigned to Saudi Arabia as a punishment, but the country's male-dominated society appeals to him immensely.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ff447c1e-4fc4-3a72-9e04-b80e8f0e7adb/cover"/>
     <episode-num system="xmltv_ns">1.4.0</episode-num>
     <episode-num system="onscreen">S2E5</episode-num>
   </programme>
-  <programme channel="ITV2.uk" start="20260610230500 +0000" stop="20260610233500 +0000">
+  <programme channel="ITV2.uk" start="20260610232000 +0000" stop="20260610235000 +0000">
     <title lang="en">American Dad!</title>
     <desc lang="en">Bullocks to Stan: Animated series about a CIA man who is constantly on the alert for terrorism. Stan is up for a promotion, and asks his family to be on their best behaviour.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0a02b284-5a5e-43ff-b9b1-5e0a6f748709/cover"/>
     <episode-num system="xmltv_ns">1.0.0</episode-num>
     <episode-num system="onscreen">S2E1</episode-num>
   </programme>
-  <programme channel="ITV2.uk" start="20260610233500 +0000" stop="20260611000500 +0000">
+  <programme channel="ITV2.uk" start="20260610235000 +0000" stop="20260611002000 +0000">
     <title lang="en">Bob's Burgers</title>
     <desc lang="en">The Reeky Lake Show: Animated comedy. Linda books the Belchers for a summer holiday in a lakeside cabin hoping to forge family memories, but the trip soon becomes a disaster.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/74e861f4-9b9e-4549-8a1e-d7daa050b5a8/cover"/>
     <episode-num system="xmltv_ns">12.1.0</episode-num>
     <episode-num system="onscreen">S13E2</episode-num>
   </programme>
-  <programme channel="ITV2.uk" start="20260611000500 +0000" stop="20260611003000 +0000">
+  <programme channel="ITV2.uk" start="20260611002000 +0000" stop="20260611004500 +0000">
     <title lang="en">Bob's Burgers</title>
     <desc lang="en">Some Like It Bot Part One: Eighth Grade Runner: Animated comedy. When Tina's new shirt is ridiculed, she turns to her friend-fiction and writes about an alternate futuristic world.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d9cdc395-26dd-421f-9aa8-b04160dd8334/cover"/>
     <episode-num system="xmltv_ns">11.20.0</episode-num>
     <episode-num system="onscreen">S12E21</episode-num>
   </programme>
-  <programme channel="ITV2.uk" start="20260611003000 +0000" stop="20260611005500 +0000">
+  <programme channel="ITV2.uk" start="20260611004500 +0000" stop="20260611010500 +0000">
     <title lang="en">Transaction</title>
     <desc lang="en">Ello Ello: Lively sitcom. Transgender egomaniac Liv is hired to avert a PR disaster at a supermarket, but soon realises she is unsackable and turns the store into a playground.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/22ecd061-6377-451f-a946-b5c3406836af/cover"/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme channel="ITV2.uk" start="20260611005500 +0000" stop="20260611012500 +0000">
+  <programme channel="ITV2.uk" start="20260611010500 +0000" stop="20260611013500 +0000">
     <title lang="en">Totally Bonkers Guinness World Records</title>
     <desc lang="en">Matt Edmondson narrates this series about highly entertaining Guinness World Records, this time featuring Australian diving pigs and the most tattooed man on the planet.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7755d730-55bc-4105-9b79-2936b702f031/cover"/>
     <episode-num system="xmltv_ns">0.1.0</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
   </programme>
-  <programme channel="ITV2.uk" start="20260611012500 +0000" stop="20260611020000 +0000">
+  <programme channel="ITV2.uk" start="20260611013500 +0000" stop="20260611020000 +0000">
     <title lang="en">Unwind with ITV</title>
     <desc lang="en">Your daily escape designed to calm the mind and encourage relaxation and reflection.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a56afb5d-8a14-4048-a221-aceb681f57b9/cover"/>
@@ -42789,15 +42852,15 @@
     <episode-num system="xmltv_ns">3.4.0</episode-num>
     <episode-num system="onscreen">S4E5</episode-num>
   </programme>
-  <programme channel="ITV2Plus1.uk" start="20260610210000 +0000" stop="20260610220500 +0000">
+  <programme channel="ITV2Plus1.uk" start="20260610210000 +0000" stop="20260610222000 +0000">
     <title lang="en">New: Love Island</title>
-    <desc lang="en">Reality show. Glamorous singles live in a beautiful villa under the watchful gaze of an audience at home who have the power to decide who goes and who will win a huge cash prize.</desc>
+    <desc lang="en">Two bombshells turn the villa upside down during a dramatic recoupling, one Islander is dumped, and Ope's awkward apology leaves tensions simmering.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/97e5f0ce-d8b6-4aee-b28f-e4ce9b99d549/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">12.9.0</episode-num>
     <episode-num system="onscreen">S13E10</episode-num>
   </programme>
-  <programme channel="ITV2Plus1.uk" start="20260610220500 +0000" stop="20260610223500 +0000">
+  <programme channel="ITV2Plus1.uk" start="20260610222000 +0000" stop="20260610225000 +0000">
     <title lang="en">New: Love Island: The Debrief</title>
     <desc lang="en">Your daily drop of hot Love Island tea, and all the Villa gossip. With Shakira Khan, Toni Laites and Yasmin Pettet, nothing is off-topic or out of the question.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d170e1cc-7d74-41c2-a9e1-4cf54705262e/cover"/>
@@ -42805,63 +42868,63 @@
     <episode-num system="xmltv_ns">0.7.0</episode-num>
     <episode-num system="onscreen">S1E8</episode-num>
   </programme>
-  <programme channel="ITV2Plus1.uk" start="20260610223500 +0000" stop="20260610230500 +0000">
+  <programme channel="ITV2Plus1.uk" start="20260610225000 +0000" stop="20260610232000 +0000">
     <title lang="en">Family Guy</title>
     <desc lang="en">The Son Also Draws: Animated comedy about family life. Chris loses interest in being a youth scout and would rather pursue art instead, so the scout master kicks him out.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4da14a9d-a1fe-427a-bbad-856d3e54ff82/cover"/>
     <episode-num system="xmltv_ns">0.5.0</episode-num>
     <episode-num system="onscreen">S1E6</episode-num>
   </programme>
-  <programme channel="ITV2Plus1.uk" start="20260610230500 +0000" stop="20260610233500 +0000">
+  <programme channel="ITV2Plus1.uk" start="20260610232000 +0000" stop="20260610235000 +0000">
     <title lang="en">Family Guy</title>
     <desc lang="en">The Perfect Castaway: Animated comedy series about family life. When Peter and the guys go on a fishing trip, they end up stranded on a desert island.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0404dc23-9d22-4dc8-8e44-e8a7bd1d7b8b/cover"/>
     <episode-num system="xmltv_ns">3.11.0</episode-num>
     <episode-num system="onscreen">S4E12</episode-num>
   </programme>
-  <programme channel="ITV2Plus1.uk" start="20260610233500 +0000" stop="20260611000500 +0000">
+  <programme channel="ITV2Plus1.uk" start="20260610235000 +0000" stop="20260611002000 +0000">
     <title lang="en">American Dad!</title>
     <desc lang="en">Stan of Arabia - Part 1: Animated comedy about a CIA man. Stan is reassigned to Saudi Arabia as a punishment, but the country's male-dominated society appeals to him immensely.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ff447c1e-4fc4-3a72-9e04-b80e8f0e7adb/cover"/>
     <episode-num system="xmltv_ns">1.4.0</episode-num>
     <episode-num system="onscreen">S2E5</episode-num>
   </programme>
-  <programme channel="ITV2Plus1.uk" start="20260611000500 +0000" stop="20260611003500 +0000">
+  <programme channel="ITV2Plus1.uk" start="20260611002000 +0000" stop="20260611005000 +0000">
     <title lang="en">American Dad!</title>
     <desc lang="en">Bullocks to Stan: Animated series about a CIA man who is constantly on the alert for terrorism. Stan is up for a promotion, and asks his family to be on their best behaviour.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0a02b284-5a5e-43ff-b9b1-5e0a6f748709/cover"/>
     <episode-num system="xmltv_ns">1.0.0</episode-num>
     <episode-num system="onscreen">S2E1</episode-num>
   </programme>
-  <programme channel="ITV2Plus1.uk" start="20260611003500 +0000" stop="20260611010500 +0000">
+  <programme channel="ITV2Plus1.uk" start="20260611005000 +0000" stop="20260611012000 +0000">
     <title lang="en">Bob's Burgers</title>
     <desc lang="en">The Reeky Lake Show: Animated comedy. Linda books the Belchers for a summer holiday in a lakeside cabin hoping to forge family memories, but the trip soon becomes a disaster.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/74e861f4-9b9e-4549-8a1e-d7daa050b5a8/cover"/>
     <episode-num system="xmltv_ns">12.1.0</episode-num>
     <episode-num system="onscreen">S13E2</episode-num>
   </programme>
-  <programme channel="ITV2Plus1.uk" start="20260611010500 +0000" stop="20260611013000 +0000">
+  <programme channel="ITV2Plus1.uk" start="20260611012000 +0000" stop="20260611014500 +0000">
     <title lang="en">Bob's Burgers</title>
     <desc lang="en">Some Like It Bot Part One: Eighth Grade Runner: Animated comedy. When Tina's new shirt is ridiculed, she turns to her friend-fiction and writes about an alternate futuristic world.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d9cdc395-26dd-421f-9aa8-b04160dd8334/cover"/>
     <episode-num system="xmltv_ns">11.20.0</episode-num>
     <episode-num system="onscreen">S12E21</episode-num>
   </programme>
-  <programme channel="ITV2Plus1.uk" start="20260611013000 +0000" stop="20260611015500 +0000">
+  <programme channel="ITV2Plus1.uk" start="20260611014500 +0000" stop="20260611020500 +0000">
     <title lang="en">Transaction</title>
     <desc lang="en">Ello Ello: Lively sitcom. Transgender egomaniac Liv is hired to avert a PR disaster at a supermarket, but soon realises she is unsackable and turns the store into a playground.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/22ecd061-6377-451f-a946-b5c3406836af/cover"/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme channel="ITV2Plus1.uk" start="20260611015500 +0000" stop="20260611022500 +0000">
+  <programme channel="ITV2Plus1.uk" start="20260611020500 +0000" stop="20260611023500 +0000">
     <title lang="en">Totally Bonkers Guinness World Records</title>
     <desc lang="en">Matt Edmondson narrates this series about highly entertaining Guinness World Records, this time featuring Australian diving pigs and the most tattooed man on the planet.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7755d730-55bc-4105-9b79-2936b702f031/cover"/>
     <episode-num system="xmltv_ns">0.1.0</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
   </programme>
-  <programme channel="ITV2Plus1.uk" start="20260611022500 +0000" stop="20260611030000 +0000">
+  <programme channel="ITV2Plus1.uk" start="20260611023500 +0000" stop="20260611030000 +0000">
     <title lang="en">Unwind with ITV</title>
     <desc lang="en">Your daily escape designed to calm the mind and encourage relaxation and reflection.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a56afb5d-8a14-4048-a221-aceb681f57b9/cover"/>
@@ -48532,14 +48595,14 @@
   </programme>
   <programme channel="UAndW.uk" start="20260612220000 +0000" stop="20260612224000 +0000">
     <title lang="en">Ghosts</title>
-    <desc lang="en">The Bone Plot: Alison and the ghosts make a shocking discovery when a historical documentary team comes to film at Button House.</desc>
+    <desc lang="en">New. The Bone Plot: Alison and the ghosts make a shocking discovery when a historical documentary team comes to film at Button House.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ad3d9ca8-2d92-4f13-b292-560c2bd2b800/cover"/>
     <episode-num system="xmltv_ns">2.0.0</episode-num>
     <episode-num system="onscreen">S3E1</episode-num>
   </programme>
   <programme channel="UAndW.uk" start="20260612224000 +0000" stop="20260612231500 +0000">
     <title lang="en">Ghosts</title>
-    <desc lang="en">A Lot to Take In: A mysterious visitor arrives at Button House with a revelation that leaves Alison reeling, and Mike has an epiphany on his first day at a new job.</desc>
+    <desc lang="en">New. A Lot to Take In: A mysterious visitor arrives at Button House with a revelation that leaves Alison reeling, and Mike has an epiphany on his first day at a new job.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7e8514b8-563c-49f4-9df0-dd4842f6d4d4/cover"/>
     <episode-num system="xmltv_ns">2.1.0</episode-num>
     <episode-num system="onscreen">S3E2</episode-num>
@@ -49177,7 +49240,9 @@
   <programme channel="UAndYesterday.uk" start="20260610200000 +0000" stop="20260610210000 +0000">
     <title lang="en">Tropic of Cancer with Simon Reeve</title>
     <desc lang="en">Mexico to the Bahamas: Simon Reeve traces the path of the northern tropic around the globe. He begins in Mexico before heading east to Cuba and finishing in the Bahamas.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/cea828f5-e632-4856-a917-fb254c2b4d5f/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9d134c81-304c-4ec3-98e4-09fd84620ae6/cover"/>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme channel="UAndYesterday.uk" start="20260610210000 +0000" stop="20260610220000 +0000">
     <title lang="en">Bangers &amp; Cash</title>
@@ -49655,7 +49720,9 @@
   <programme channel="UAndYesterdayPlus1.uk" start="20260610210000 +0000" stop="20260610220000 +0000">
     <title lang="en">Tropic of Cancer with Simon Reeve</title>
     <desc lang="en">Mexico to the Bahamas: Simon Reeve traces the path of the northern tropic around the globe. He begins in Mexico before heading east to Cuba and finishing in the Bahamas.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/11a56eb3-8674-4025-8487-f2b51af4b295/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9d134c81-304c-4ec3-98e4-09fd84620ae6/cover"/>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme channel="UAndYesterdayPlus1.uk" start="20260610220000 +0000" stop="20260610230000 +0000">
     <title lang="en">Bangers &amp; Cash</title>
