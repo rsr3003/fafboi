@@ -1,17 +1,6 @@
 {
   "sky.main.uk": [
     {
-      "title": "Live US Open Golf Final Round",
-      "description": "The fourth and final round of the 126th US Open. A final-hole bogey cut Wyndham Clark's lead to six heading into the final day at Shinnecock Hills, while Scottie Scheffler sits tied-second.",
-      "start": 1782061200,
-      "stop": 1782082800,
-      "icon": "https://images.metadata.sky.com/pd-image/5b40276d-2fe6-4603-a814-3afd8d055417/cover",
-      "channel": "sky.main.uk",
-      "premiere": false,
-      "season": null,
-      "episode": 4
-    },
-    {
       "title": "World Cup Report",
       "description": "A comprehensive round-up of all the day's World Cup news.",
       "start": 1782082800,
@@ -5516,7 +5505,7 @@
       "title": "Sky Sports Breakfast",
       "description": null,
       "start": 1782194400,
-      "stop": 1782201600,
+      "stop": 1782201601,
       "icon": "https://images.metadata.sky.com/pd-image/ff69abba-0c9f-4637-8080-f17d2372d833/cover",
       "channel": "sky.racing.uk",
       "premiere": false,
@@ -5524,10 +5513,21 @@
       "episode": 287.0
     },
     {
-      "title": "The Enduring Race",
-      "description": "5 years after Leading The Way, Josh Apiafi reunites with Rishi Persad & Brian Finch to explore how horse racing is tackling diversity & inclusion. Has the sport really delivered its promise to change?",
-      "start": 1782201600,
-      "stop": 1782204300,
+      "title": "British Racing: A Welfare Commitment",
+      "description": "Alex Hammond visits Newbury Racecourse and Lambourn Training Grounds to find out what measures British Racing is implementing to help improve horse welfare.",
+      "start": 1782201601,
+      "stop": 1782202500,
+      "icon": "https://images.metadata.sky.com/pd-image/52a54f99-3c8a-3f89-9525-737d68b874eb/cover",
+      "channel": "sky.racing.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "Royal Ascot 2026 Highlights",
+      "description": "All the best action from Royal Ascot 2026 where the biggest equine stars gathered for the most prestigious meeting of the Flat racing calendar.",
+      "start": 1782202500,
+      "stop": 1782203400,
       "icon": "https://images.metadata.sky.com/pd-image/c86be44a-e58e-492a-bcfb-c96346a2cd0f/cover",
       "channel": "sky.racing.uk",
       "premiere": false,
@@ -5535,20 +5535,9 @@
       "episode": 132.0
     },
     {
-      "title": "Royal Ascot 2026 Highlights",
-      "description": "All the best action from Royal Ascot 2026 where the biggest equine stars gathered for the most prestigious meeting of the Flat racing calendar.",
-      "start": 1782204300,
-      "stop": 1782205200,
-      "icon": "https://images.metadata.sky.com/pd-image/09c5994d-648c-42aa-a238-f5c32e36d403/cover",
-      "channel": "sky.racing.uk",
-      "premiere": false,
-      "season": null,
-      "episode": 23.0
-    },
-    {
       "title": "International Raceday Live",
       "description": "Live French racing from Chateaubriant and selected greyhound racing. We look ahead to today's UK racing.",
-      "start": 1782205200,
+      "start": 1782203400,
       "stop": 1782219600,
       "icon": "https://images.metadata.sky.com/pd-image/0f662f56-6769-4822-b72d-fd4166a2730f/cover",
       "channel": "sky.racing.uk",
@@ -7896,7 +7885,7 @@
     },
     {
       "title": "Live MLB: Cubs @ Mets",
-      "description": "Action from Major League Baseball as Chicago Cubs take on New York Mets.",
+      "description": "Action from Major League Baseball as Chicago Cubs take on New York Mets in the opening contest of a four-game set at Citi Field.",
       "start": 1782169200,
       "stop": 1782180000,
       "icon": "https://images.metadata.sky.com/pd-image/9e1254ec-991b-40cd-a04b-da2355653063/cover",
@@ -7906,37 +7895,15 @@
       "episode": 0.0
     },
     {
-      "title": "2020 World Series Review",
-      "description": "A look back at the 2020 MLB World Series. The Los Angeles Dodgers and Tampa Bay Rays went toe-to-toe in the MLB's first ever neutral site World Series due to the Covid 19 pandemic.",
+      "title": "Live MLB: Braves @ Padres",
+      "description": "Action from Major League Baseball as National League East leaders Atlanta Braves face San Diego Padres at Petco Park.",
       "start": 1782180000,
-      "stop": 1782183600,
-      "icon": "https://images.metadata.sky.com/pd-image/ae18e55e-3b0d-4caf-8714-dba78c5f1385/cover",
-      "channel": "tnt1",
-      "premiere": false,
-      "season": 2020.0,
-      "episode": 464.0
-    },
-    {
-      "title": "2021 MLB World Series Review",
-      "description": "A look back at the 2021 MLB World Series between Atlanta Braves and Houston Astros. The Braves were looking to clinch their first championship since 1995.",
-      "start": 1782183600,
-      "stop": 1782187200,
-      "icon": "https://images.metadata.sky.com/pd-image/592fd432-e06e-44a4-9fc0-473b2372ff15/cover",
-      "channel": "tnt1",
-      "premiere": false,
-      "season": 2021.0,
-      "episode": 517.0
-    },
-    {
-      "title": "MLB 2022 World Series Review",
-      "description": "A look back at the 2022 MLB World Series as Houston Astros and Philadelphia Phillies. The Astros were looking to secure their second World Series title.",
-      "start": 1782187200,
       "stop": 1782190800,
-      "icon": "https://images.metadata.sky.com/pd-image/6115f285-a937-4478-84b3-9e4a838c0e13/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/9e6ce0ff-45ab-408c-8e58-863136f58fdd/cover",
       "channel": "tnt1",
       "premiere": false,
-      "season": 2022.0,
-      "episode": 428.0
+      "season": null,
+      "episode": null
     },
     {
       "title": "PL Stories: Gary Neville",
@@ -8094,7 +8061,7 @@
     },
     {
       "title": "MLB Highlights",
-      "description": "Highlights from Major League Baseball. (22.06)",
+      "description": "Highlights from Major League Baseball including New York Mets versus Chicago Cubs and Atlanta Braves' trip to San Diego. (22.06)",
       "start": 1782216000,
       "stop": 1782219600,
       "icon": "https://images.metadata.sky.com/pd-image/512dc9f5-e776-4752-8731-79522a64bd26/cover",
@@ -8148,59 +8115,59 @@
       "episode": 44.0
     },
     {
-      "title": "PL Stories: Victor Moses",
-      "description": "Victor Moses looks back on his rise through English football, culminating in title success with Chelsea, while also opening up about the challenges faced along the way.",
+      "title": "Premier League World Beaters",
+      "description": "We profile some of the Premier League's standout players, including Brazilian forward Matheus Cunha, playmaker Florian Wirtz, and Man City star Antoine Semenyo.",
       "start": 1782226800,
       "stop": 1782228600,
-      "icon": "https://images.metadata.sky.com/pd-image/eb6a171e-eb18-455b-9641-eaf6e2613dc8/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/d14db9a5-bdeb-4ec4-a16e-e1591e19cbc2/cover",
       "channel": "tnt1",
       "premiere": false,
-      "season": 5.0,
-      "episode": 45.0
+      "season": null,
+      "episode": null
     },
     {
-      "title": "PL Stories: Tejani Reijnders",
-      "description": "Man City star Tejani Reijnders opens up about the pivotal moments that shaped his career, the challenges he's overcome, and the ambitions that continue to drive him.",
+      "title": "Premier League World Beaters",
+      "description": "A look at some of the Premier League's top talents, including goal-scoring machine Erling Haaland, the skilful Iliman Ndiaye, and Ivorian winger Amad Diallo.",
       "start": 1782228600,
       "stop": 1782230400,
-      "icon": "https://images.metadata.sky.com/pd-image/96d89412-49d3-43fc-904c-045d7bb7b891/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/8a5550bf-27cf-4a6e-b7a3-e38ec257b89b/cover",
       "channel": "tnt1",
       "premiere": false,
-      "season": 5.0,
-      "episode": 46.0
+      "season": null,
+      "episode": null
     },
     {
-      "title": "PL Stories: Norwegian Strikers",
-      "description": "A PL Stories show that asks whether the qualities that once defined a nation's footballing identity still pulse through the DNA of its most unstoppable striker today.",
+      "title": "Premier League World Beaters",
+      "description": "We put the spotlight on some of the Premier League's biggest stars, including record-breaker Bruno Fernandes, France star William Saliba, and World Cup winner Alexis Mac Allister.",
       "start": 1782230400,
       "stop": 1782232200,
-      "icon": "https://images.metadata.sky.com/pd-image/e793736d-3831-42dc-8cff-dfccdbf82a7b/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/82d0be16-55c9-4c6f-bc10-bfd1375bdafb/cover",
       "channel": "tnt1",
       "premiere": false,
-      "season": 5.0,
-      "episode": 47.0
+      "season": null,
+      "episode": null
     },
     {
-      "title": "PL Stories: Dimitar Berbatov",
-      "description": "Dimitar Berbatov revisits the pressure of performing at the highest level, the expectations that came with his unique playing style, and the moments that shaped his career.",
+      "title": "Premier League World Beaters",
+      "description": "A look at some of the Premier League's most exciting stars, including Arsenal's Declan Rice, Ecuadorian midfielder Moises Caicedo, and Dutch captain Virgil van Dijk.",
       "start": 1782232200,
       "stop": 1782234000,
-      "icon": "https://images.metadata.sky.com/pd-image/65684777-a912-4df7-9151-f24bcb8274e5/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/fe7746c5-6109-4b73-8ee4-1490b1e886b8/cover",
       "channel": "tnt1",
       "premiere": false,
-      "season": 5.0,
-      "episode": 48.0
+      "season": null,
+      "episode": null
     },
     {
-      "title": "PL Stories: Harry Kewell",
-      "description": "Harry Kewell opens up about his electrifying rise at Leeds United, the intense scrutiny he faced at Liverpool, and his new chapter in coaching.",
+      "title": "Premier League World Beaters",
+      "description": "A look at some of the Premier League's most gifted international superstars, including Ballon d'Or winner Rodri, Sweden striker Viktor Gyokeres, and Colombia's Daniel Munoz.",
       "start": 1782234000,
       "stop": 1782235800,
-      "icon": "https://images.metadata.sky.com/pd-image/32f1e438-3d00-4acd-b47a-442ab6debe2f/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/6550a15e-aa2e-42cb-bfcb-20f429a46308/cover",
       "channel": "tnt1",
       "premiere": false,
-      "season": 5.0,
-      "episode": 49.0
+      "season": null,
+      "episode": null
     },
     {
       "title": "PL Stories: Soaring Seagulls",
@@ -8226,7 +8193,7 @@
     },
     {
       "title": "The Cycling Show",
-      "description": "The latest of The Cycling Show.",
+      "description": "We go behind the scenes with Netcompany Ineos, featuring interviews with Director of Racing Geraint Thomas and riders Filippo Ganna, Egan Bernal and Ben Turner.",
       "start": 1782239400,
       "stop": 1782241200,
       "icon": "https://images.metadata.sky.com/pd-image/7eb3e92c-5623-45c9-8585-c9db8a139c18/cover",
@@ -8237,7 +8204,7 @@
     },
     {
       "title": "SailGP Highlights",
-      "description": "Highlights from the Rolex SailGP Championship in Halifax, Canada.",
+      "description": "Highlights from the Rolex SailGP Championship in Halifax, Canada. This dramatic race delivered one of the most fiercely contested events of the season so far.",
       "start": 1782241200,
       "stop": 1782244800,
       "icon": "https://images.metadata.sky.com/pd-image/8ce2acfe-62eb-42ab-b0fd-3d2457022c72/cover",
@@ -8259,7 +8226,7 @@
     },
     {
       "title": "MotoGP Rewind: Czechia 2026",
-      "description": "We rewind to round nine of the 2026 MotoGP season and the Grand Prix of Czechia at Automotodrom Brno.",
+      "description": "We rewind to round nine of the 2026 MotoGP season and the Grand Prix of Czechia at Automotodrom Brno, as Marc Marquez looked to secure back-to-back victories.",
       "start": 1782248400,
       "stop": 1782249300,
       "icon": "https://images.metadata.sky.com/pd-image/42282b8a-0415-4094-9ac3-304c4755820e/cover",
@@ -8292,7 +8259,7 @@
     },
     {
       "title": "MLB Highlights",
-      "description": "Highlights from Major League Baseball. (22.06)",
+      "description": "Highlights from Major League Baseball including New York Mets versus Chicago Cubs and Atlanta Braves' trip to San Diego. (22.06)",
       "start": 1782252000,
       "stop": 1782255600,
       "icon": "https://images.metadata.sky.com/pd-image/512dc9f5-e776-4752-8731-79522a64bd26/cover",
@@ -8314,7 +8281,7 @@
     },
     {
       "title": "Live MLB: Dodgers @ Twins",
-      "description": "Action from Major League Baseball as Los Angeles Dodgers take on Minnesota Twins.",
+      "description": "Action from Major League Baseball as Los Angeles Dodgers face Minnesota Twins at Target Field.",
       "start": 1782257400,
       "stop": 1782268200,
       "icon": "https://images.metadata.sky.com/pd-image/a6e97480-60ab-4104-b5f2-cb5adf6bf103/cover",
@@ -8435,7 +8402,7 @@
     },
     {
       "title": "The Cycling Show",
-      "description": "The latest of The Cycling Show.",
+      "description": "We go behind the scenes with Netcompany Ineos, featuring interviews with Director of Racing Geraint Thomas and riders Filippo Ganna, Egan Bernal and Ben Turner.",
       "start": 1782289800,
       "stop": 1782291600,
       "icon": "https://images.metadata.sky.com/pd-image/7eb3e92c-5623-45c9-8585-c9db8a139c18/cover",
@@ -8457,7 +8424,7 @@
     },
     {
       "title": "SailGP Highlights",
-      "description": "Highlights from the Rolex SailGP Championship in Halifax, Canada.",
+      "description": "Highlights from the Rolex SailGP Championship in Halifax, Canada. This dramatic race delivered one of the most fiercely contested events of the season so far.",
       "start": 1782293400,
       "stop": 1782297000,
       "icon": "https://images.metadata.sky.com/pd-image/512dc9f5-e776-4752-8731-79522a64bd26/cover",
@@ -8479,7 +8446,7 @@
     },
     {
       "title": "MLB Highlights",
-      "description": "Highlights from Major League Baseball. (23.06)",
+      "description": "Highlights from Major League Baseball, including Los Angeles Dodgers against Minnesota Twins and Chicago White Sox taking on Cleveland Guardians. (23.06)",
       "start": 1782302400,
       "stop": 1782306000,
       "icon": "https://images.metadata.sky.com/pd-image/643f7358-56a9-4b68-882b-25aab14e0236/cover",
@@ -8501,7 +8468,7 @@
     },
     {
       "title": "The Cycling Show",
-      "description": "The latest of The Cycling Show.",
+      "description": "We go behind the scenes with Netcompany Ineos, featuring interviews with Director of Racing Geraint Thomas and riders Filippo Ganna, Egan Bernal and Ben Turner.",
       "start": 1782307800,
       "stop": 1782309600,
       "icon": "https://images.metadata.sky.com/pd-image/7eb3e92c-5623-45c9-8585-c9db8a139c18/cover",
@@ -8511,63 +8478,74 @@
       "episode": 9.0
     },
     {
-      "title": "The Gruppetto",
-      "description": "Hosted by Rob Hatch, The Gruppetto brings you everything you need to stay up to speed with the world of cycling, from in-depth race reviews to the latest news from the peloton.",
-      "start": 1782309600,
-      "stop": 1782310500,
-      "icon": "https://images.metadata.sky.com/pd-image/72c558cb-96ec-4469-b51d-24a162a85df0/cover",
-      "channel": "tnt1",
-      "premiere": false,
-      "season": 26.0,
-      "episode": 21.0
-    },
-    {
-      "title": "Ally's Social Club",
-      "description": "Ally McCoist sits down for an in-depth conversation with Steven Gerrard. The Liverpool legend talks about his childhood, representing Liverpool, Jose Mourinho and Slot's future.",
-      "start": 1782310500,
-      "stop": 1782314100,
-      "icon": "https://images.metadata.sky.com/pd-image/c8e7746a-540a-438e-8b8e-412d820432e3/cover",
-      "channel": "tnt1",
-      "premiere": false,
-      "season": 24.0,
-      "episode": 9.0
-    },
-    {
-      "title": "UEFA Champions League Goals Reload",
-      "description": "The pick of the goals from the quarter-finals, semi-finals and final of the 2025/26 UEFA Champions League.",
-      "start": 1782314100,
-      "stop": 1782315000,
-      "icon": "https://images.metadata.sky.com/pd-image/02d970cb-127b-4f18-9abf-0546f6c34de9/cover",
-      "channel": "tnt1",
-      "premiere": false,
-      "season": 25.0,
-      "episode": 9.0
-    },
-    {
-      "title": "PL Review: Goals of the Season",
-      "description": "We relive the best goals of the 2025/26 Premier League season, including fantastic finishes by Antoine Semenyo, Alex Iwobi, and Dominik Szoboszlai.",
-      "start": 1782315000,
-      "stop": 1782318600,
-      "icon": "https://images.metadata.sky.com/pd-image/12e97cd9-ff1b-420a-9903-86c549a631b5/cover",
-      "channel": "tnt1",
-      "premiere": false,
-      "season": 25.0,
-      "episode": 39.0
-    },
-    {
       "title": "PL Stories: Soaring Seagulls",
       "description": "From the brink of collapse to becoming one of the Premier League's smartest and most admired clubs, we chart the incredible rise of Brighton and Hove Albion.",
-      "start": 1782318600,
-      "stop": 1782320400,
-      "icon": "https://images.metadata.sky.com/pd-image/2c184f02-8a3d-412c-b578-4ed8b8bf1bab/cover",
+      "start": 1782309600,
+      "stop": 1782311400,
+      "icon": "https://images.metadata.sky.com/pd-image/c5e09706-55ec-4725-821d-38fdaacbc665/cover",
       "channel": "tnt1",
       "premiere": false,
-      "season": 6.0,
-      "episode": 4.0
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "Premier League World Beaters",
+      "description": "We profile some of the Premier League's standout players, including Brazilian forward Matheus Cunha, playmaker Florian Wirtz, and Man City star Antoine Semenyo.",
+      "start": 1782311400,
+      "stop": 1782313200,
+      "icon": "https://images.metadata.sky.com/pd-image/fc514f8b-4195-40db-b1df-58e594152249/cover",
+      "channel": "tnt1",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "Premier League World Beaters",
+      "description": "A look at some of the Premier League's top talents, including goal-scoring machine Erling Haaland, the skilful Iliman Ndiaye, and Ivorian winger Amad Diallo.",
+      "start": 1782313200,
+      "stop": 1782315000,
+      "icon": "https://images.metadata.sky.com/pd-image/d0413a77-8fcd-4d42-8b21-b0afdfa47e07/cover",
+      "channel": "tnt1",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "Premier League World Beaters",
+      "description": "We put the spotlight on some of the Premier League's biggest stars, including record-breaker Bruno Fernandes, France star William Saliba, and World Cup winner Alexis Mac Allister.",
+      "start": 1782315000,
+      "stop": 1782316800,
+      "icon": "https://images.metadata.sky.com/pd-image/d76ce28f-ed04-499c-85e5-069d33ce77c4/cover",
+      "channel": "tnt1",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "Premier League World Beaters",
+      "description": "A look at some of the Premier League's most exciting stars, including Arsenal's Declan Rice, Ecuadorian midfielder Moises Caicedo, and Dutch captain Virgil van Dijk.",
+      "start": 1782316800,
+      "stop": 1782318600,
+      "icon": "https://images.metadata.sky.com/pd-image/a93166f9-3a37-4c19-8946-24e614a73719/cover",
+      "channel": "tnt1",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "Premier League World Beaters",
+      "description": "A look at some of the Premier League's most gifted international superstars, including Ballon d'Or winner Rodri, Sweden striker Viktor Gyokeres, and Colombia's Daniel Munoz.",
+      "start": 1782318600,
+      "stop": 1782320400,
+      "icon": "https://images.metadata.sky.com/pd-image/80db9abf-f86d-4cc3-9c3f-8412fbfd239b/cover",
+      "channel": "tnt1",
+      "premiere": false,
+      "season": null,
+      "episode": null
     },
     {
       "title": "MLB Highlights",
-      "description": "Highlights from Major League Baseball. (23.06)",
+      "description": "Highlights from Major League Baseball, including Los Angeles Dodgers against Minnesota Twins and Chicago White Sox taking on Cleveland Guardians. (23.06)",
       "start": 1782320400,
       "stop": 1782324000,
       "icon": "https://images.metadata.sky.com/pd-image/87854738-a30c-4f1a-bbe7-9df54259e959/cover",
@@ -8578,7 +8556,7 @@
     },
     {
       "title": "Live MLB: Guardians @ White Sox",
-      "description": "Major League Baseball action as Cleveland Guardians take on Chicago White Sox.",
+      "description": "Action from Major League Baseball as Cleveland Guardians face Chicago White Sox at Guaranteed Rate Field.",
       "start": 1782324000,
       "stop": 1782334800,
       "icon": "https://images.metadata.sky.com/pd-image/2dc3c19b-50c2-4f62-a32a-12718102e0cb/cover",
@@ -8611,7 +8589,7 @@
     },
     {
       "title": "Live MLB: Yankees @ Tigers",
-      "description": "Major League Baseball action as New York Yankees face off against Detroit Tigers.",
+      "description": "Action from Major League Baseball as New York Yankees face Detroit Tigers at Comerica Park.",
       "start": 1782340200,
       "stop": 1782351000,
       "icon": "https://images.metadata.sky.com/pd-image/d7d490c8-2b8c-44b6-afca-a56dbe04adb6/cover",
@@ -8877,7 +8855,7 @@
     },
     {
       "title": "The Gruppetto",
-      "description": "Hosted by Rob Hatch, The Gruppetto brings you everything you need to stay up to speed with the world of cycling, from in-depth race reviews to the latest news from the peloton.",
+      "description": "We recap the men's and women's Tour de Suisse as Tadej Pogacar made his debut and it went down to the wire in the women's race, along with the rest of the week's racing action.",
       "start": 1782157500,
       "stop": 1782158400,
       "icon": "https://images.metadata.sky.com/pd-image/72c558cb-96ec-4469-b51d-24a162a85df0/cover",
@@ -8965,7 +8943,7 @@
     },
     {
       "title": "Live MLB: Braves @ Padres",
-      "description": "Action from Major League Baseball as Atlanta Braves face San Diego Padres.",
+      "description": "Action from Major League Baseball as National League East leaders Atlanta Braves face San Diego Padres at Petco Park.",
       "start": 1782180000,
       "stop": 1782190800,
       "icon": "https://images.metadata.sky.com/pd-image/cb8b312d-a107-41ef-a942-26e1c1df15f4/cover",
@@ -9141,7 +9119,7 @@
     },
     {
       "title": "MLB Highlights",
-      "description": "Highlights from Major League Baseball. (22.06)",
+      "description": "Highlights from Major League Baseball including New York Mets versus Chicago Cubs and Atlanta Braves' trip to San Diego. (22.06)",
       "start": 1782239400,
       "stop": 1782243000,
       "icon": "https://images.metadata.sky.com/pd-image/512dc9f5-e776-4752-8731-79522a64bd26/cover",
@@ -9152,7 +9130,7 @@
     },
     {
       "title": "TNT Sports Cricket Reload",
-      "description": "We revisit the third T20 between Bangladesh and Australia in Chattogram.",
+      "description": "We revisit the third T20 between Bangladesh and Australia in Chattogram, where skipper Mitchell Marsh helped the Aussies to a series sweep.",
       "start": 1782243000,
       "stop": 1782243900,
       "icon": "https://images.metadata.sky.com/pd-image/8d6ca4af-b8f8-4955-b69a-81644b6db753/cover",
@@ -9273,7 +9251,7 @@
     },
     {
       "title": "MotoGP Rewind: Czechia 2026",
-      "description": "We rewind to round nine of the 2026 MotoGP season and the Grand Prix of Czechia at Automotodrom Brno.",
+      "description": "We rewind to round nine of the 2026 MotoGP season and the Grand Prix of Czechia at Automotodrom Brno, as Marc Marquez looked to secure back-to-back victories.",
       "start": 1782273600,
       "stop": 1782274500,
       "icon": "https://images.metadata.sky.com/pd-image/42282b8a-0415-4094-9ac3-304c4755820e/cover",
@@ -9427,7 +9405,7 @@
     },
     {
       "title": "SailGP Highlights",
-      "description": "Highlights from the Rolex SailGP Championship in Halifax, Canada.",
+      "description": "Highlights from the Rolex SailGP Championship in Halifax, Canada. This dramatic race delivered one of the most fiercely contested events of the season so far.",
       "start": 1782309600,
       "stop": 1782313200,
       "icon": "https://images.metadata.sky.com/pd-image/8ce2acfe-62eb-42ab-b0fd-3d2457022c72/cover",
@@ -10012,7 +9990,7 @@
     },
     {
       "title": "The Cycling Show",
-      "description": "The latest of The Cycling Show.",
+      "description": "We go behind the scenes with Netcompany Ineos, featuring interviews with Director of Racing Geraint Thomas and riders Filippo Ganna, Egan Bernal and Ben Turner.",
       "start": 1782259200,
       "stop": 1782261000,
       "icon": "https://images.metadata.sky.com/pd-image/7eb3e92c-5623-45c9-8585-c9db8a139c18/cover",
@@ -10292,11 +10270,11 @@
       "description": "Action from the 2026 Gallagher PREM final between Northampton Saints and Exeter Chiefs at Allianz Stadium, Twickenham, as both sides look to claim their third title.",
       "start": 1782086400,
       "stop": 1782091800,
-      "icon": "https://images.metadata.sky.com/pd-image/c56347c3-a3d9-435e-a19c-45276eed5355/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/0ca4a603-0fab-48e3-ab5e-d3dfa244243a/cover",
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 0.0
     },
     {
       "title": "The WRC Magazine",
@@ -10754,11 +10732,11 @@
       "description": "Action from the first Milan Derby of the 2025/26 Serie A season, as Inter face AC Milan at San Siro. Victory for the Rossoneri would see them leapfrog the Nerazzurri in the table.",
       "start": 1782226800,
       "stop": 1782230400,
-      "icon": "https://images.metadata.sky.com/pd-image/b157ebfd-cdf8-4592-a710-ab05d41c9587/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/18ff9608-04ce-4d37-b545-266fb3c136eb/cover",
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 0.0
     },
     {
       "title": "Serie A: AC Milan v Lazio",
@@ -10841,23 +10819,12 @@
       "title": "2026 A-League Grand Final",
       "description": "Action from the 2026 Isuzu UTE A-League Grand Final between first-time finalists Auckland FC and five-time winners Sydney FC at Go Media Stadium.",
       "start": 1782257400,
-      "stop": 1782261000,
+      "stop": 1782262800,
       "icon": "https://images.metadata.sky.com/pd-image/845928b2-7112-4128-b01d-95c78c1a1b2c/cover",
       "channel": "tnt4",
       "premiere": false,
       "season": null,
       "episode": 0.0
-    },
-    {
-      "title": "Endurance Uncovered",
-      "description": "A special look at the World Endurance Championship, a global series of races that test the limits of both drivers and vehicles.",
-      "start": 1782261000,
-      "stop": 1782262800,
-      "icon": "https://images.metadata.sky.com/pd-image/3a598821-04a0-4b9a-af0c-2daeac6c0809/cover",
-      "channel": "tnt4",
-      "premiere": false,
-      "season": 26.0,
-      "episode": 3.0
     },
     {
       "title": "FIA Formula E Highlights",
@@ -10872,7 +10839,7 @@
     },
     {
       "title": "SailGP Highlights",
-      "description": "Highlights from the Rolex SailGP Championship in Halifax, Canada.",
+      "description": "Highlights from the Rolex SailGP Championship in Halifax, Canada. This dramatic race delivered one of the most fiercely contested events of the season so far.",
       "start": 1782266400,
       "stop": 1782270000,
       "icon": "https://images.metadata.sky.com/pd-image/8ce2acfe-62eb-42ab-b0fd-3d2457022c72/cover",
@@ -10894,7 +10861,7 @@
     },
     {
       "title": "Climbing World Series Highlights",
-      "description": "Highlights from the IFSC Climbing World Series in Innsbruck, Austria.",
+      "description": "Highlights from the IFSC Climbing World Series in Innsbruck, Austria, including the women's and men's boulder and lead finals.",
       "start": 1782273600,
       "stop": 1782277200,
       "icon": "https://images.metadata.sky.com/pd-image/9f793b3c-ade9-49cc-880c-7561f2943ce9/cover",
@@ -10908,11 +10875,11 @@
       "description": "Action from Serie A as Cristian Chivu's Inter welcome Cesc Fabregas' Como to San Siro. Can Inter end Como's impressive 11-game unbeaten run in the league?",
       "start": 1782277200,
       "stop": 1782280800,
-      "icon": "https://images.metadata.sky.com/pd-image/6d6db5ce-9a09-4162-88ab-10eba80f8390/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/5c7c1e03-d7b8-4916-a3a9-18712a8c5cb5/cover",
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 0.0
     },
     {
       "title": "Serie A: Napoli v Juventus",
@@ -10996,11 +10963,11 @@
       "description": "Inter look to begin 2026 with their fifth Serie A win on the spin as they welcome Vincenzo Italiano's out-of-form Bologna to San Siro.",
       "start": 1782306000,
       "stop": 1782309600,
-      "icon": "https://images.metadata.sky.com/pd-image/ac95b6e0-e2e8-42c7-870a-8bfc36162c51/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/f3d281da-c815-4f0d-b912-7206d82c7a72/cover",
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 0.0
     },
     {
       "title": "Serie A: Sassuolo v Juventus",
@@ -11018,11 +10985,11 @@
       "description": "Inter look to extend their Serie A winning streak to six games as they travel to face Carlos Cuesta's Parma at Stadio Ennio Tardini.",
       "start": 1782313200,
       "stop": 1782316800,
-      "icon": "https://images.metadata.sky.com/pd-image/131b72da-edf8-4fe6-b1b6-a18c2b47dd4f/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/b50f1f96-c72b-4391-a1e6-1d38c64f5beb/cover",
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 0.0
     },
     {
       "title": "Serie A: Roma v Sassuolo",
@@ -11643,15 +11610,15 @@
       "episode": 3.0
     },
     {
-      "title": "Celebrity Gogglebox",
-      "description": "This time, the celebs watch Love Island, Who Wants to Be a Millionaire?, Celebrity Bridge of Lies, Bake Off: The Professionals, Ladies First and This Morning (strippers). (S8 Ep2)",
+      "title": "Gogglebox",
+      "description": "This time the Goggleboxers watch: The Inheritance, Long Lost Family, Unknown Number: The High School Catfish, The Yorkshire Vet, Dish It Out and Street Cops: Catching the Yobs. (S26 Ep3)",
       "start": 1782255900,
       "stop": 1782259500,
-      "icon": "https://images.metadata.sky.com/pd-image/e2ed372f-935c-408e-9090-0f8c943a0e06/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/a39f7ca3-2f93-45c6-aa38-cd8986345d2a/cover",
       "channel": "4seven.uk",
       "premiere": false,
-      "season": 8.0,
-      "episode": 2.0
+      "season": 26.0,
+      "episode": 3.0
     },
     {
       "title": "Night Coppers",
@@ -12383,7 +12350,7 @@
     },
     {
       "title": "Backlash",
-      "description": "Mystery western in which the law and townspeople search for a man who disappeared during an Apache raid harbouring a secret of a stock of gold.",
+      "description": "Mystery western in which the law and townspeople search for a man who disappeared during an Apache raid harbouring a secret of a stock of gold. (1956)",
       "start": 1782212400,
       "stop": 1782216300,
       "icon": "https://images.metadata.sky.com/pd-image/b223d1ff-6b13-4a92-9f49-798cc5841117/cover",
@@ -12405,7 +12372,7 @@
     },
     {
       "title": "Backlash",
-      "description": "Mystery western in which the law and townspeople search for a man who disappeared during an Apache raid harbouring a secret of a stock of gold.",
+      "description": "Mystery western in which the law and townspeople search for a man who disappeared during an Apache raid harbouring a secret of a stock of gold. (1956)",
       "start": 1782216600,
       "stop": 1782219000,
       "icon": "https://images.metadata.sky.com/pd-image/b223d1ff-6b13-4a92-9f49-798cc5841117/cover",
@@ -17366,15 +17333,15 @@
       "episode": 0.0
     },
     {
-      "title": "Talk to Al Jazeera",
-      "description": "Ep.478 Episode 22062026: One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.",
+      "title": "Fault Lines",
+      "description": "Crackdown: Fault Lines investigates the Trump administration's sweeping immigration crackdown, from courthouse arrests to deportations without due process.",
       "start": 1782109800,
       "stop": 1782111600,
-      "icon": "https://images.metadata.sky.com/pd-image/d7d40123-02d2-4bac-9935-db905fba86ee/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/e74f886d-8f63-4dfc-862d-0133c509cf3b/cover",
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": null
     },
     {
       "title": "Newshour",
@@ -17487,26 +17454,15 @@
       "episode": 200.0
     },
     {
-      "title": "News Live",
-      "description": "Up-to-date news and analysis from around the world.",
+      "title": "Newshour",
+      "description": "Latest news and in-depth analysis from around the world.",
       "start": 1782136800,
-      "stop": 1782138600,
-      "icon": "https://images.metadata.sky.com/pd-image/8c0de0eb-1091-464c-935b-f93a37631027/cover",
-      "channel": "AlJazeeraEnglish.qa",
-      "premiere": false,
-      "season": 26.0,
-      "episode": 0.0
-    },
-    {
-      "title": "Talk to Al Jazeera",
-      "description": "Ep.478 Episode 22062026: One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.",
-      "start": 1782138600,
       "stop": 1782140400,
-      "icon": "https://images.metadata.sky.com/pd-image/d7d40123-02d2-4bac-9935-db905fba86ee/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/14e4cf48-0d38-404f-8dd8-7aa0f32faaab/cover",
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": null
     },
     {
       "title": "Newshour",
@@ -17817,26 +17773,15 @@
       "episode": 0.0
     },
     {
-      "title": "News Live",
-      "description": "Up-to-date news and analysis from around the world.",
+      "title": "Newshour",
+      "description": "Latest news and in-depth analysis from around the world.",
       "start": 1782205200,
-      "stop": 1782207000,
-      "icon": "https://images.metadata.sky.com/pd-image/9ec5f1e6-ccdf-4314-a238-9300db14e698/cover",
-      "channel": "AlJazeeraEnglish.qa",
-      "premiere": false,
-      "season": 26.0,
-      "episode": 0.0
-    },
-    {
-      "title": "Talk to Al Jazeera",
-      "description": "Ep.478 Episode 22062026: One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.",
-      "start": 1782207000,
       "stop": 1782208800,
-      "icon": "https://images.metadata.sky.com/pd-image/d7d40123-02d2-4bac-9935-db905fba86ee/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/16dd0aa7-34dd-466b-b47a-d6828fc1f7d4/cover",
       "channel": "AlJazeeraEnglish.qa",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": null
     },
     {
       "title": "Newshour",
@@ -19716,7 +19661,7 @@
       "title": "Peter Flannery Remembers... Our Friends in the North",
       "description": "Writer Peter Flannery looks back on his experiences creating the acclaimed 1996 drama Our Friends in the North. [S] [HD]",
       "start": 1782334800,
-      "stop": 1782335700,
+      "stop": 1782336000,
       "icon": "https://images.metadata.sky.com/pd-image/9a81787f-53bb-47c5-a461-82ea3a420af6/cover",
       "channel": "BBCFourHD.uk",
       "premiere": false,
@@ -19726,8 +19671,8 @@
     {
       "title": "Our Friends in the North, 1964",
       "description": "1/9. While Nicky decides he wants to change the world, Mary and Tosker make a big mistake. Contains some strong language and some scenes of a sexual nature. [S]",
-      "start": 1782335700,
-      "stop": 1782339900,
+      "start": 1782336000,
+      "stop": 1782340200,
       "icon": "https://images.metadata.sky.com/pd-image/97bda5f6-694c-449a-a60b-46133fc5f0de/cover",
       "channel": "BBCFourHD.uk",
       "premiere": false,
@@ -19737,8 +19682,8 @@
     {
       "title": "Our Friends in the North, 1966",
       "description": "2/9. 1966: While Harold Wilson and The Beatles rule England, everything has changed for the four from Newcastle. Contains some scenes of a sexual nature. [S]",
-      "start": 1782339900,
-      "stop": 1782343800,
+      "start": 1782340200,
+      "stop": 1782344100,
       "icon": "https://images.metadata.sky.com/pd-image/cb984173-3d5f-4fb0-9a03-141b5f2bad3d/cover",
       "channel": "BBCFourHD.uk",
       "premiere": false,
@@ -19979,121 +19924,22 @@
       "episode": 0.0
     },
     {
-      "title": "BBC News (60') 26/27 - BBC News (60') 26/27",
+      "title": "BBC News",
       "description": "The latest news from the BBC. [S] [HD]",
       "start": 1782126000,
       "stop": 1782129600,
-      "icon": "https://images.metadata.sky.com/pd-image/418b2346-43fc-4f9f-92d6-53ad5a810dcc/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/89ecb248-f158-402b-801c-6f20d297fdd2/cover",
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
       "episode": null
     },
     {
-      "title": "Signed: BBC News at One",
-      "description": "The latest national and international news from the BBC. [S,SL] [HD]",
+      "title": "BBC News",
+      "description": "BBC News, live from Westminster. [S] [HD]",
       "start": 1782129600,
       "stop": 1782133200,
-      "icon": "https://images.metadata.sky.com/pd-image/ea798398-8bbf-4a32-b7cd-9acace840a30/cover",
-      "channel": "BBCNews.uk",
-      "premiere": false,
-      "season": null,
-      "episode": 0.0
-    },
-    {
-      "title": "BBC News Now",
-      "description": "All the big stories, live as they happen, presented by Lucy Hockings. [S] [HD]",
-      "start": 1782133200,
-      "stop": 1782135000,
-      "icon": "https://images.metadata.sky.com/pd-image/a4be2ed8-11d4-4e81-b927-af49590eeea1/cover",
-      "channel": "BBCNews.uk",
-      "premiere": false,
-      "season": null,
-      "episode": 0.0
-    },
-    {
-      "title": "Business Today - NYSE Opening Bell",
-      "description": "Bringing the latest business news and up-to-date informed analysis from New York and around the world. [S] [HD]",
-      "start": 1782135000,
-      "stop": 1782135900,
-      "icon": "https://images.metadata.sky.com/pd-image/c60e5eec-f1d0-4a70-b1cc-80f92fe5c561/cover",
-      "channel": "BBCNews.uk",
-      "premiere": false,
-      "season": null,
-      "episode": 0.0
-    },
-    {
-      "title": "BBC News Now",
-      "description": "All the big stories, live as they happen, presented by Lucy Hockings. [S] [HD]",
-      "start": 1782135900,
-      "stop": 1782136800,
-      "icon": "https://images.metadata.sky.com/pd-image/a1298531-8371-4c65-abcc-b846561a44ea/cover",
-      "channel": "BBCNews.uk",
-      "premiere": false,
-      "season": null,
-      "episode": 0.0
-    },
-    {
-      "title": "Verified Live",
-      "description": "Matthew Amroliwala presents all the latest global and UK news, live from London. [S] [HD]",
-      "start": 1782136800,
-      "stop": 1782138600,
-      "icon": "https://images.metadata.sky.com/pd-image/9af95fa8-574a-44e1-a295-88edba654d97/cover",
-      "channel": "BBCNews.uk",
-      "premiere": false,
-      "season": null,
-      "episode": 0.0
-    },
-    {
-      "title": "Verified Live",
-      "description": "Matthew Amroliwala presents all the latest global and UK news, live from London. [S] [HD]",
-      "start": 1782138600,
-      "stop": 1782140400,
-      "icon": "https://images.metadata.sky.com/pd-image/2ef85dde-e404-4215-b3fe-be98a3eb1100/cover",
-      "channel": "BBCNews.uk",
-      "premiere": false,
-      "season": null,
-      "episode": 0.0
-    },
-    {
-      "title": "Verified Live",
-      "description": "Matthew Amroliwala presents all the latest global and UK news, live from London. [S] [HD]",
-      "start": 1782140400,
-      "stop": 1782142200,
-      "icon": "https://images.metadata.sky.com/pd-image/6b3b47f6-1381-47ef-bfa0-c509613832aa/cover",
-      "channel": "BBCNews.uk",
-      "premiere": false,
-      "season": null,
-      "episode": 0.0
-    },
-    {
-      "title": "Business Today",
-      "description": "Bringing the latest business news and up-to-date informed analysis from London and around the world. [S] [HD]",
-      "start": 1782142200,
-      "stop": 1782143100,
-      "icon": "https://images.metadata.sky.com/pd-image/fbdfe96b-6d3f-4c6d-96af-153f7ded54d7/cover",
-      "channel": "BBCNews.uk",
-      "premiere": false,
-      "season": null,
-      "episode": 0.0
-    },
-    {
-      "title": "Verified Live",
-      "description": "Matthew Amroliwala presents all the latest global and UK news, live from London. [S] [HD]",
-      "start": 1782143100,
-      "stop": 1782144000,
-      "icon": "https://images.metadata.sky.com/pd-image/e84e2a48-1305-46cf-b9ea-1e2095c582a7/cover",
-      "channel": "BBCNews.uk",
-      "premiere": false,
-      "season": null,
-      "episode": 0.0
-    },
-    {
-      "title": "Verified Live",
-      "description": "Matthew Amroliwala presents all the latest global and UK news, live from London. [S] [HD]",
-      "start": 1782144000,
-      "stop": 1782145800,
-      "icon": "https://images.metadata.sky.com/pd-image/d0e8518f-e6ef-4c7a-a35e-644216620b56/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/201d883f-2c72-4d23-a57f-0b05763cea05/cover",
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
@@ -20101,131 +19947,153 @@
     },
     {
       "title": "BBC News",
-      "description": "The latest news from the BBC. [S] [HD]",
-      "start": 1782145800,
+      "description": "BBC News, live from Westminster. [S] [HD]",
+      "start": 1782133200,
+      "stop": 1782136800,
+      "icon": "https://images.metadata.sky.com/pd-image/e8ffcbe2-bac8-460e-9ab6-21bdb336fe8b/cover",
+      "channel": "BBCNews.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "BBC News",
+      "description": "BBC News, live from Westminster. [S] [HD]",
+      "start": 1782136800,
+      "stop": 1782140400,
+      "icon": "https://images.metadata.sky.com/pd-image/b5a18eea-dd3b-49f1-ae5a-f9f1b6a22995/cover",
+      "channel": "BBCNews.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "BBC News",
+      "description": "BBC News, live from Westminster. [S] [HD]",
+      "start": 1782140400,
+      "stop": 1782142200,
+      "icon": "https://images.metadata.sky.com/pd-image/050e6610-998e-416a-8ca4-b85e120b1155/cover",
+      "channel": "BBCNews.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "BBC News",
+      "description": "The latest national and international news from the BBC. [S,SL] [HD]",
+      "start": 1782142200,
+      "stop": 1782144900,
+      "icon": "https://images.metadata.sky.com/pd-image/ffcd6cc3-7417-4d3c-9bab-002abc26a7f8/cover",
+      "channel": "BBCNews.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "BBC News",
+      "description": "BBC News, live from Westminster. [S] [HD]",
+      "start": 1782144900,
       "stop": 1782147600,
-      "icon": "https://images.metadata.sky.com/pd-image/00c26b50-344a-4b76-8e41-0c73bbdae961/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/8c9f6447-f131-426f-bcfb-8ebcd91c0b57/cover",
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": null
     },
     {
-      "title": "Signed: The World Today with Maryam Moshiri",
-      "description": "Watch the best of the BBC's journalism from around the world. [S,SL] [HD]",
+      "title": "BBC News",
+      "description": "BBC News, live from Westminster. [S] [HD]",
       "start": 1782147600,
-      "stop": 1782149400,
-      "icon": "https://images.metadata.sky.com/pd-image/a9d80b54-0714-4b79-bbf0-c770ebb9a4ae/cover",
-      "channel": "BBCNews.uk",
-      "premiere": false,
-      "season": null,
-      "episode": 0.0
-    },
-    {
-      "title": "The Iran War Today",
-      "description": "A daily briefing from BBC News on the latest developments on the Israel-US war in Iran. [S] [HD]",
-      "start": 1782149400,
-      "stop": 1782150300,
-      "icon": "https://images.metadata.sky.com/pd-image/ef1b65f9-9962-4773-a91c-6f4759ca7351/cover",
-      "channel": "BBCNews.uk",
-      "premiere": false,
-      "season": null,
-      "episode": 0.0
-    },
-    {
-      "title": "The World Today with Maryam Moshiri",
-      "description": "Watch the best of the BBC's journalism from around the world. [S] [HD]",
-      "start": 1782150300,
       "stop": 1782151200,
-      "icon": "https://images.metadata.sky.com/pd-image/740feaa5-99a9-4452-b77b-81ee00c3d25c/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/67b7cb36-5456-43f5-bb2e-feb0f441b91f/cover",
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": null
     },
     {
-      "title": "The World Today with Maryam Moshiri",
-      "description": "Watch the best of the BBC's journalism from around the world. [S] [HD]",
+      "title": "BBC News",
+      "description": "BBC News, live from Westminster. [S] [HD]",
       "start": 1782151200,
-      "stop": 1782153000,
-      "icon": "https://images.metadata.sky.com/pd-image/c03cf4a8-5c2c-451f-8136-bbf2153164ee/cover",
-      "channel": "BBCNews.uk",
-      "premiere": false,
-      "season": null,
-      "episode": 0.0
-    },
-    {
-      "title": "The World Today with Maryam Moshiri",
-      "description": "Watch the best of the BBC's journalism from around the world. [S] [HD]",
-      "start": 1782153000,
       "stop": 1782154800,
-      "icon": "https://images.metadata.sky.com/pd-image/0e472e33-2291-4c9b-bd1f-8e4bf16283f1/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/72eb6cf2-9785-4bbe-93fc-ff362e7d623a/cover",
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": null
     },
     {
-      "title": "The Context USA",
-      "description": "Special coverage from Washington DC and London, focusing on President Trump's second term. [S] [HD]",
+      "title": "BBC News",
+      "description": "BBC News, live from Westminster. [S] [HD]",
       "start": 1782154800,
       "stop": 1782156600,
-      "icon": "https://images.metadata.sky.com/pd-image/3343651e-532f-45d5-b4a0-8548e2ea5dd3/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/d3d17999-0271-47da-8ce3-b0bfc07afce1/cover",
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": null
     },
     {
-      "title": "The Context USA",
-      "description": "Special coverage from Washington DC and London, focusing on President Trump's second term. [S] [HD]",
+      "title": "BBC News at Ten",
+      "description": "The latest national and international news, with reports from BBC correspondents worldwide. [S] [HD]",
       "start": 1782156600,
-      "stop": 1782158400,
-      "icon": "https://images.metadata.sky.com/pd-image/d156892e-0770-44f1-9d34-1650635e5ae0/cover",
+      "stop": 1782159300,
+      "icon": "https://images.metadata.sky.com/pd-image/09d59f9a-4a8c-4c7d-be32-f4788d022e15/cover",
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": null
     },
     {
-      "title": "The Context",
-      "description": "A regular panel of guests from across the political spectrum discuss the biggest international stories of the day. [S] [HD]",
-      "start": 1782158400,
-      "stop": 1782160200,
-      "icon": "https://images.metadata.sky.com/pd-image/51052c3c-2511-4452-8e05-dc6ff9a10f27/cover",
-      "channel": "BBCNews.uk",
-      "premiere": false,
-      "season": null,
-      "episode": 0.0
-    },
-    {
-      "title": "The Context",
-      "description": "A regular panel of guests from across the political spectrum discuss the biggest international stories of the day. [S] [HD]",
-      "start": 1782160200,
+      "title": "BBC News",
+      "description": "BBC News, live from Westminster. [S] [HD]",
+      "start": 1782159300,
       "stop": 1782162000,
-      "icon": "https://images.metadata.sky.com/pd-image/add29ca8-4c53-46eb-aa96-2827bcfaca07/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/f1112606-a0ad-4ad0-b268-d39afacdf8c2/cover",
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": null
     },
     {
       "title": "BBC News",
       "description": "The latest news from the BBC. [S] [HD]",
       "start": 1782162000,
-      "stop": 1782167400,
-      "icon": "https://images.metadata.sky.com/pd-image/64333a5e-98b2-48fa-828a-2b0e210dd38c/cover",
+      "stop": 1782163800,
+      "icon": "https://images.metadata.sky.com/pd-image/113edc07-3fdb-4249-a073-fc00c3d22b0d/cover",
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": null
+    },
+    {
+      "title": "Newsnight",
+      "description": "Insights and global interviews on the news stories of the day. [S] [HD]",
+      "start": 1782163800,
+      "stop": 1782166500,
+      "icon": "https://images.metadata.sky.com/pd-image/960dabf1-3007-458e-99db-075f088823b4/cover",
+      "channel": "BBCNews.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "BBC News",
+      "description": "The latest news from the BBC. [S] [HD]",
+      "start": 1782166500,
+      "stop": 1782167400,
+      "icon": "https://images.metadata.sky.com/pd-image/da8d09fe-5abf-4d1f-a365-c81f9ac82d57/cover",
+      "channel": "BBCNews.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
     },
     {
       "title": "BBC World News America",
       "description": "The BBC presents in-depth reports on the major international and US news of the day presented from Washington DC. [S] [HD]",
       "start": 1782167400,
       "stop": 1782169200,
-      "icon": "https://images.metadata.sky.com/pd-image/3edbcc50-fb30-4bed-bb50-cfecb8b7c8ed/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/51592a02-ccd1-4e5c-b0c3-e4bee4939e4b/cover",
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
@@ -21437,7 +21305,7 @@
       "description": "Live coverage of breaking stories and special reports from BBC News. [S] [HD]",
       "start": 1782117600,
       "stop": 1782129600,
-      "icon": "https://images.metadata.sky.com/pd-image/1964bc6b-aae8-42c4-ac83-0f45403ef159/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/4d3879cc-536d-4cc2-ba32-f5a4b1dd900b/cover",
       "channel": "BBCOneChannelIslands.uk",
       "premiere": false,
       "season": null,
@@ -21610,7 +21478,7 @@
     },
     {
       "title": "Bargain Hunt",
-      "description": "Christina Trevanion is in Carmarthenshire, where experts Philip Serrell and Charles Hanson help the teams find profitable antiques to take to auction. [S,AD] [HD]",
+      "description": "There's a blast from the past for Danny as he visits one of England's smallest cities. [S,AD] [HD]",
       "start": 1782213300,
       "stop": 1782216000,
       "icon": "https://images.metadata.sky.com/pd-image/6fb6ae27-e897-49e5-af2e-56af73145e82/cover",
@@ -22077,7 +21945,7 @@
       "description": "Live coverage of breaking stories and special reports from BBC News. [S] [HD]",
       "start": 1782117600,
       "stop": 1782129600,
-      "icon": "https://images.metadata.sky.com/pd-image/ee6f28cc-92b4-4142-a5ae-7e615658dabd/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/018b2c8d-c55c-4487-a81a-c47f0cc8c001/cover",
       "channel": "BBCOneEast.uk",
       "premiere": false,
       "season": null,
@@ -22250,7 +22118,7 @@
     },
     {
       "title": "Bargain Hunt",
-      "description": "Christina Trevanion is in Carmarthenshire, where experts Philip Serrell and Charles Hanson help the teams find profitable antiques to take to auction. [S,AD] [HD]",
+      "description": "There's a blast from the past for Danny as he visits one of England's smallest cities. [S,AD] [HD]",
       "start": 1782213300,
       "stop": 1782216000,
       "icon": "https://images.metadata.sky.com/pd-image/6fb6ae27-e897-49e5-af2e-56af73145e82/cover",
@@ -22717,7 +22585,7 @@
       "description": "Live coverage of breaking stories and special reports from BBC News. [S] [HD]",
       "start": 1782117600,
       "stop": 1782129600,
-      "icon": "https://images.metadata.sky.com/pd-image/4cfb7f9c-4227-479d-88a5-3cc25b40b2b2/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/22820cdf-a107-4913-999e-62d7c6cb7573/cover",
       "channel": "BBCOneEastMidlands.uk",
       "premiere": false,
       "season": null,
@@ -22890,7 +22758,7 @@
     },
     {
       "title": "Bargain Hunt",
-      "description": "Christina Trevanion is in Carmarthenshire, where experts Philip Serrell and Charles Hanson help the teams find profitable antiques to take to auction. [S,AD] [HD]",
+      "description": "There's a blast from the past for Danny as he visits one of England's smallest cities. [S,AD] [HD]",
       "start": 1782213300,
       "stop": 1782216000,
       "icon": "https://images.metadata.sky.com/pd-image/6fb6ae27-e897-49e5-af2e-56af73145e82/cover",
@@ -23357,7 +23225,7 @@
       "description": "Live coverage of breaking stories and special reports from BBC News. [S] [HD]",
       "start": 1782117600,
       "stop": 1782129600,
-      "icon": "https://images.metadata.sky.com/pd-image/cdb2bd43-770e-44cc-ab0f-0ff1eb54489a/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/6e780449-ce8a-4490-a945-149814a5bd42/cover",
       "channel": "BBCOneLondonHD.uk",
       "premiere": false,
       "season": null,
@@ -23530,7 +23398,7 @@
     },
     {
       "title": "Bargain Hunt",
-      "description": "Christina Trevanion is in Carmarthenshire, where experts Philip Serrell and Charles Hanson help the teams find profitable antiques to take to auction. [S,AD] [HD]",
+      "description": "There's a blast from the past for Danny as he visits one of England's smallest cities. [S,AD] [HD]",
       "start": 1782213300,
       "stop": 1782216000,
       "icon": "https://images.metadata.sky.com/pd-image/6fb6ae27-e897-49e5-af2e-56af73145e82/cover",
@@ -23997,7 +23865,7 @@
       "description": "Live coverage of breaking stories and special reports from BBC News. [S] [HD]",
       "start": 1782117600,
       "stop": 1782129600,
-      "icon": "https://images.metadata.sky.com/pd-image/8ccc934b-619d-42e9-9f65-07e227a3986c/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/44af885d-d917-4f78-921f-dc947565ca53/cover",
       "channel": "BBCOneNorthEastCumbria.uk",
       "premiere": false,
       "season": null,
@@ -24170,7 +24038,7 @@
     },
     {
       "title": "Bargain Hunt",
-      "description": "Christina Trevanion is in Carmarthenshire, where experts Philip Serrell and Charles Hanson help the teams find profitable antiques to take to auction. [S,AD] [HD]",
+      "description": "There's a blast from the past for Danny as he visits one of England's smallest cities. [S,AD] [HD]",
       "start": 1782213300,
       "stop": 1782216000,
       "icon": "https://images.metadata.sky.com/pd-image/6fb6ae27-e897-49e5-af2e-56af73145e82/cover",
@@ -24637,7 +24505,7 @@
       "description": "Live coverage of breaking stories and special reports from BBC News. [S] [HD]",
       "start": 1782117600,
       "stop": 1782129600,
-      "icon": "https://images.metadata.sky.com/pd-image/bae2b6e3-2e35-47d0-a42c-dad62c45ec87/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/c059f9dd-b55c-47da-97cc-0bbc1dc4750a/cover",
       "channel": "BBCOneNorthWest.uk",
       "premiere": false,
       "season": null,
@@ -24810,7 +24678,7 @@
     },
     {
       "title": "Bargain Hunt",
-      "description": "Christina Trevanion is in Carmarthenshire, where experts Philip Serrell and Charles Hanson help the teams find profitable antiques to take to auction. [S,AD] [HD]",
+      "description": "There's a blast from the past for Danny as he visits one of England's smallest cities. [S,AD] [HD]",
       "start": 1782213300,
       "stop": 1782216000,
       "icon": "https://images.metadata.sky.com/pd-image/6fb6ae27-e897-49e5-af2e-56af73145e82/cover",
@@ -25277,7 +25145,7 @@
       "description": "Live coverage of breaking stories and special reports from BBC News. [S] [HD]",
       "start": 1782117600,
       "stop": 1782129600,
-      "icon": "https://images.metadata.sky.com/pd-image/e41472d4-5167-4e42-901b-4c057fecfe66/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/abda609a-7995-462a-8bc0-d65af59e50ab/cover",
       "channel": "BBCOneNorthernIreland.uk",
       "premiere": false,
       "season": null,
@@ -25450,7 +25318,7 @@
     },
     {
       "title": "Bargain Hunt",
-      "description": "Christina Trevanion is in Carmarthenshire, where experts Philip Serrell and Charles Hanson help the teams find profitable antiques to take to auction. [S,AD] [HD]",
+      "description": "There's a blast from the past for Danny as he visits one of England's smallest cities. [S,AD] [HD]",
       "start": 1782213300,
       "stop": 1782216000,
       "icon": "https://images.metadata.sky.com/pd-image/6fb6ae27-e897-49e5-af2e-56af73145e82/cover",
@@ -25917,7 +25785,7 @@
       "description": "Live coverage of breaking stories and special reports from BBC News. [S] [HD]",
       "start": 1782117600,
       "stop": 1782129600,
-      "icon": "https://images.metadata.sky.com/pd-image/5dae7614-99ed-4892-beaf-acbe24fd21a6/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/45815959-8360-4bfa-b787-7c99be89437d/cover",
       "channel": "BBCOneScotHD.uk",
       "premiere": false,
       "season": null,
@@ -26090,7 +25958,7 @@
     },
     {
       "title": "Bargain Hunt",
-      "description": "Christina Trevanion is in Carmarthenshire, where experts Philip Serrell and Charles Hanson help the teams find profitable antiques to take to auction. [S,AD] [HD]",
+      "description": "There's a blast from the past for Danny as he visits one of England's smallest cities. [S,AD] [HD]",
       "start": 1782213300,
       "stop": 1782216000,
       "icon": "https://images.metadata.sky.com/pd-image/6fb6ae27-e897-49e5-af2e-56af73145e82/cover",
@@ -26557,7 +26425,7 @@
       "description": "Live coverage of breaking stories and special reports from BBC News. [S] [HD]",
       "start": 1782117600,
       "stop": 1782129600,
-      "icon": "https://images.metadata.sky.com/pd-image/76e3935d-91bb-4481-b6ac-6eeb60a9d44b/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/1098169d-130f-4e91-861d-0e850d616ce7/cover",
       "channel": "BBCOneSouth.uk",
       "premiere": false,
       "season": null,
@@ -26730,7 +26598,7 @@
     },
     {
       "title": "Bargain Hunt",
-      "description": "Christina Trevanion is in Carmarthenshire, where experts Philip Serrell and Charles Hanson help the teams find profitable antiques to take to auction. [S,AD] [HD]",
+      "description": "There's a blast from the past for Danny as he visits one of England's smallest cities. [S,AD] [HD]",
       "start": 1782213300,
       "stop": 1782216000,
       "icon": "https://images.metadata.sky.com/pd-image/6fb6ae27-e897-49e5-af2e-56af73145e82/cover",
@@ -27197,7 +27065,7 @@
       "description": "Live coverage of breaking stories and special reports from BBC News. [S] [HD]",
       "start": 1782117600,
       "stop": 1782129600,
-      "icon": "https://images.metadata.sky.com/pd-image/be4ee71d-6fdb-4a25-93de-76705e6eab55/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/cc792c64-d920-4d1f-95ef-62625e2fb1bd/cover",
       "channel": "BBCOneSouthEast.uk",
       "premiere": false,
       "season": null,
@@ -27370,7 +27238,7 @@
     },
     {
       "title": "Bargain Hunt",
-      "description": "Christina Trevanion is in Carmarthenshire, where experts Philip Serrell and Charles Hanson help the teams find profitable antiques to take to auction. [S,AD] [HD]",
+      "description": "There's a blast from the past for Danny as he visits one of England's smallest cities. [S,AD] [HD]",
       "start": 1782213300,
       "stop": 1782216000,
       "icon": "https://images.metadata.sky.com/pd-image/6fb6ae27-e897-49e5-af2e-56af73145e82/cover",
@@ -27837,7 +27705,7 @@
       "description": "Live coverage of breaking stories and special reports from BBC News. [S] [HD]",
       "start": 1782117600,
       "stop": 1782129600,
-      "icon": "https://images.metadata.sky.com/pd-image/66d06089-8bd7-464f-842d-7f4100f7cff5/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/3f47be5b-09ab-41c3-a283-8a033cd9c1ca/cover",
       "channel": "BBCOneSouthWest.uk",
       "premiere": false,
       "season": null,
@@ -28010,7 +27878,7 @@
     },
     {
       "title": "Bargain Hunt",
-      "description": "Christina Trevanion is in Carmarthenshire, where experts Philip Serrell and Charles Hanson help the teams find profitable antiques to take to auction. [S,AD] [HD]",
+      "description": "There's a blast from the past for Danny as he visits one of England's smallest cities. [S,AD] [HD]",
       "start": 1782213300,
       "stop": 1782216000,
       "icon": "https://images.metadata.sky.com/pd-image/6fb6ae27-e897-49e5-af2e-56af73145e82/cover",
@@ -28477,7 +28345,7 @@
       "description": "Live coverage of breaking stories and special reports from BBC News. [S] [HD]",
       "start": 1782117600,
       "stop": 1782129600,
-      "icon": "https://images.metadata.sky.com/pd-image/b8c65868-66d8-45e6-a5eb-c386f8ed1fd0/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/08bb16fc-61ba-49b9-a9fa-7d6b980aaebc/cover",
       "channel": "BBCOneWalesHD.uk",
       "premiere": false,
       "season": null,
@@ -28672,7 +28540,7 @@
     },
     {
       "title": "Bargain Hunt",
-      "description": "Christina Trevanion is in Carmarthenshire, where experts Philip Serrell and Charles Hanson help the teams find profitable antiques to take to auction. [S,AD] [HD]",
+      "description": "There's a blast from the past for Danny as he visits one of England's smallest cities. [S,AD] [HD]",
       "start": 1782213300,
       "stop": 1782216000,
       "icon": "https://images.metadata.sky.com/pd-image/6fb6ae27-e897-49e5-af2e-56af73145e82/cover",
@@ -29183,7 +29051,7 @@
       "description": "Live coverage of breaking stories and special reports from BBC News. [S] [HD]",
       "start": 1782117600,
       "stop": 1782129600,
-      "icon": "https://images.metadata.sky.com/pd-image/22159683-cb04-47ff-9072-0a50cc826b3c/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/955eac48-28a8-4ca9-82af-081e82ed5bd9/cover",
       "channel": "BBCOneWest.uk",
       "premiere": false,
       "season": null,
@@ -29356,7 +29224,7 @@
     },
     {
       "title": "Bargain Hunt",
-      "description": "Christina Trevanion is in Carmarthenshire, where experts Philip Serrell and Charles Hanson help the teams find profitable antiques to take to auction. [S,AD] [HD]",
+      "description": "There's a blast from the past for Danny as he visits one of England's smallest cities. [S,AD] [HD]",
       "start": 1782213300,
       "stop": 1782216000,
       "icon": "https://images.metadata.sky.com/pd-image/6fb6ae27-e897-49e5-af2e-56af73145e82/cover",
@@ -29823,7 +29691,7 @@
       "description": "Live coverage of breaking stories and special reports from BBC News. [S] [HD]",
       "start": 1782117600,
       "stop": 1782129600,
-      "icon": "https://images.metadata.sky.com/pd-image/a485dec8-d580-4afa-ae33-a904bf30d5d5/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/d04ad65a-6570-4d5a-b4f8-6934eefc84ab/cover",
       "channel": "BBCOneWestMidlands.uk",
       "premiere": false,
       "season": null,
@@ -29996,7 +29864,7 @@
     },
     {
       "title": "Bargain Hunt",
-      "description": "Christina Trevanion is in Carmarthenshire, where experts Philip Serrell and Charles Hanson help the teams find profitable antiques to take to auction. [S,AD] [HD]",
+      "description": "There's a blast from the past for Danny as he visits one of England's smallest cities. [S,AD] [HD]",
       "start": 1782213300,
       "stop": 1782216000,
       "icon": "https://images.metadata.sky.com/pd-image/6fb6ae27-e897-49e5-af2e-56af73145e82/cover",
@@ -30463,7 +30331,7 @@
       "description": "Live coverage of breaking stories and special reports from BBC News. [S] [HD]",
       "start": 1782117600,
       "stop": 1782129600,
-      "icon": "https://images.metadata.sky.com/pd-image/fb274836-20a2-474d-9977-8ff5fe1e4efd/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/0b175950-a935-4a67-b859-c0a8ff728a00/cover",
       "channel": "BBCOneYorksLincs.uk",
       "premiere": false,
       "season": null,
@@ -30636,7 +30504,7 @@
     },
     {
       "title": "Bargain Hunt",
-      "description": "Christina Trevanion is in Carmarthenshire, where experts Philip Serrell and Charles Hanson help the teams find profitable antiques to take to auction. [S,AD] [HD]",
+      "description": "There's a blast from the past for Danny as he visits one of England's smallest cities. [S,AD] [HD]",
       "start": 1782213300,
       "stop": 1782216000,
       "icon": "https://images.metadata.sky.com/pd-image/6fb6ae27-e897-49e5-af2e-56af73145e82/cover",
@@ -31103,7 +30971,7 @@
       "description": "Live coverage of breaking stories and special reports from BBC News. [S] [HD]",
       "start": 1782117600,
       "stop": 1782129600,
-      "icon": "https://images.metadata.sky.com/pd-image/fc6bce80-377c-4241-bbfe-8f8b0341ba3d/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/764e9b28-11d1-4c52-ae3c-f0d327c96c62/cover",
       "channel": "BBCOneYorkshire.uk",
       "premiere": false,
       "season": null,
@@ -31276,7 +31144,7 @@
     },
     {
       "title": "Bargain Hunt",
-      "description": "Christina Trevanion is in Carmarthenshire, where experts Philip Serrell and Charles Hanson help the teams find profitable antiques to take to auction. [S,AD] [HD]",
+      "description": "There's a blast from the past for Danny as he visits one of England's smallest cities. [S,AD] [HD]",
       "start": 1782213300,
       "stop": 1782216000,
       "icon": "https://images.metadata.sky.com/pd-image/6fb6ae27-e897-49e5-af2e-56af73145e82/cover",
@@ -31780,7 +31648,7 @@
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 160.0
+      "episode": 159.0
     },
     {
       "title": "Agriculture, Environment and Rural Affairs Questions",
@@ -31868,7 +31736,7 @@
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 686.0
+      "episode": 681.0
     },
     {
       "title": "Live G7 Summit Statement",
@@ -31937,48 +31805,114 @@
       "episode": 142.0
     },
     {
-      "title": "House of Lords",
-      "description": "Business in the House of Lords including the first day of debate on the committee stage of the Sporting Events Bill, on Monday 22 June. [S] [HD]",
+      "title": "House of Lords - Hong Kong Question",
+      "description": "Private Notice Question in the House of Lords on protecting Hong Kongers in the UK from transnational repression, on Monday 22 June. [S] [HD]",
       "start": 1782169200,
-      "stop": 1782194400,
-      "icon": "https://images.metadata.sky.com/pd-image/ff877c13-dffd-4799-b2a2-f0fdfe209983/cover",
+      "stop": 1782170100,
+      "icon": "https://images.metadata.sky.com/pd-image/5fedc755-2797-423b-adce-1c0f95d5fc06/cover",
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 824.0
+      "episode": null
+    },
+    {
+      "title": "House of Lords - Independent...",
+      "description": "...Grooming Gang Inquiry Statement. A statement on the progress made since the review into group-based child exploitation. [S] [HD]",
+      "start": 1782170100,
+      "stop": 1782170700,
+      "icon": "https://images.metadata.sky.com/pd-image/baaa4e37-c419-489b-84a9-2465fc25e2fc/cover",
+      "channel": "BBCParliament.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "House of Lords - Sporting Events Bill, Part 1",
+      "description": "Coverage of the first day of debate in the House of Lords on the committee stage of the Sporting Events Bill, on Monday 22 June. [S] [HD]",
+      "start": 1782170700,
+      "stop": 1782177900,
+      "icon": "https://images.metadata.sky.com/pd-image/0bcddf6e-5a15-457f-a26f-36dc9ac39965/cover",
+      "channel": "BBCParliament.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "House of Lords - Sporting Events Bill, Part 2",
+      "description": "Coverage of the first day of debate in the House of Lords on the committee stage of the Sporting Events Bill, on Monday 22 June. [S] [HD]",
+      "start": 1782177900,
+      "stop": 1782185100,
+      "icon": "https://images.metadata.sky.com/pd-image/a2413ffb-b223-4fdf-8db2-5a89e57023c9/cover",
+      "channel": "BBCParliament.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "House of Lords - Sporting Events Bill, Part 3",
+      "description": "Coverage of the first day of debate in the House of Lords on the committee stage of the Sporting Events Bill, on Monday 22 June. [S] [HD]",
+      "start": 1782185100,
+      "stop": 1782194100,
+      "icon": "https://images.metadata.sky.com/pd-image/a4e2c54a-2859-4e0c-9c86-eb9baf521d41/cover",
+      "channel": "BBCParliament.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
     },
     {
       "title": "Education Questions",
       "description": "Coverage of questions in the House of Commons to Bridget Phillipson, the education secretary, and her team of ministers on Monday 22 June. [S] [HD]",
-      "start": 1782194400,
-      "stop": 1782198000,
+      "start": 1782194100,
+      "stop": 1782198300,
       "icon": "https://images.metadata.sky.com/pd-image/b7548311-b2de-4d2a-8a48-ae1b9210f90a/cover",
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 686.0
+      "episode": 681.0
     },
     {
-      "title": "House of Commons",
-      "description": "Highlights of proceedings in the House of Commons from Monday 22 June. [S] [HD]",
-      "start": 1782198000,
-      "stop": 1782205200,
-      "icon": "https://images.metadata.sky.com/pd-image/89448512-6602-4ab4-b155-77eac3b18c1b/cover",
+      "title": "Select Committee on the Strategic Defence Review",
+      "description": "The Lords International Relations and Defence committee's look at the Strategic Defence Review, on Tuesday 16 June. [S] [HD]",
+      "start": 1782198300,
+      "stop": 1782204000,
+      "icon": "https://images.metadata.sky.com/pd-image/e1a46f05-1a24-4591-9a2c-690194bc85eb/cover",
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 687.0
+      "episode": null
+    },
+    {
+      "title": "House of Lords - Defence...",
+      "description": "...Investment Plan Statement. Coverage of the statement in the House of Lords by defence minister Lord Coaker on the delay to the Defence Investment Scheme, on Tuesday 16 June. [S] [HD]",
+      "start": 1782204000,
+      "stop": 1782204600,
+      "icon": "https://images.metadata.sky.com/pd-image/1fe922a6-ee15-4f3e-badf-03cae92eb7cc/cover",
+      "channel": "BBCParliament.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "Introductions to the House of Commons",
+      "description": "Coverage of the introduction of the new MPs, Andy Burnham, Lara Bird and Douglas Lumsden, to the House of Commons, from Monday 22 June. [S] [HD]",
+      "start": 1782204600,
+      "stop": 1782205200,
+      "icon": "https://images.metadata.sky.com/pd-image/c9f5d523-ea6a-4244-9273-8fa461eec70d/cover",
+      "channel": "BBCParliament.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
     },
     {
       "title": "Live Culture, Media and Sport Committee",
       "description": "Coverage of the Culture, Media and Sport select committee session on the review of the BBC Royal Charter, on Tuesday 23 June. [S] [HD]",
       "start": 1782205200,
       "stop": 1782210600,
-      "icon": "https://images.metadata.sky.com/pd-image/2b5609d9-222b-413a-8b8f-4a2eecf061cc/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/f231266c-e8fb-45f2-b336-bb3735c04bde/cover",
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 251.0
     },
     {
       "title": "Live Treasury Questions",
@@ -31989,7 +31923,7 @@
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 689.0
+      "episode": 686.0
     },
     {
       "title": "Live House of Commons",
@@ -32000,7 +31934,7 @@
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 688.0
+      "episode": 685.0
     },
     {
       "title": "Live House of Lords",
@@ -32011,7 +31945,7 @@
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 830.0
+      "episode": 824.0
     },
     {
       "title": "Welsh First Minister's Questions",
@@ -32055,7 +31989,7 @@
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 831.0
+      "episode": 825.0
     },
     {
       "title": "Treasury Questions",
@@ -32066,7 +32000,7 @@
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 689.0
+      "episode": 686.0
     },
     {
       "title": "House of Commons",
@@ -32077,18 +32011,18 @@
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 690.0
+      "episode": 687.0
     },
     {
       "title": "Live Health and Social Care...",
       "description": "...Committee on Adult Social Care. Coverage of the Health and Social Care select committee session on the Independent Commission on Adult Social Care, on Wednesday 24 June. [S] [HD]",
       "start": 1782289800,
       "stop": 1782297000,
-      "icon": "https://images.metadata.sky.com/pd-image/e1b49591-e7a1-4e83-a5df-ffe91df4c8dd/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/c72462af-d244-4db4-b024-6f0ef689d53a/cover",
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 252.0
     },
     {
       "title": "Live Women and Equalities Questions",
@@ -32099,7 +32033,7 @@
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 692.0
+      "episode": 689.0
     },
     {
       "title": "Live Prime Minister's Questions",
@@ -32121,7 +32055,7 @@
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 691.0
+      "episode": 688.0
     },
     {
       "title": "Live House of Lords",
@@ -32132,7 +32066,7 @@
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 832.0
+      "episode": 831.0
     },
     {
       "title": "Prime Minister's Questions",
@@ -32165,7 +32099,7 @@
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 833.0
+      "episode": 832.0
     }
   ],
   "BBCRedButton1.uk": [
@@ -32178,7 +32112,7 @@
       "channel": "BBCRedButton1.uk",
       "premiere": false,
       "season": null,
-      "episode": 20.0
+      "episode": 22
     },
     {
       "title": "Springwatch 2026: Northern Ireland - Wild Stories",
@@ -32189,7 +32123,7 @@
       "channel": "BBCRedButton1.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 1.0
+      "episode": 1
     },
     {
       "title": "Springwatch 2026: Northern Ireland - Wild Stories",
@@ -32200,40 +32134,40 @@
       "channel": "BBCRedButton1.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 1.0
+      "episode": 1
     },
     {
       "title": "Tennis: Eastbourne Open - Day 1",
       "description": "Coverage of the WTA and ATP 250 events held at Devonshire Park. [HD]",
       "start": 1782122400,
-      "stop": 1782154800,
+      "stop": 1782151800,
       "icon": "https://images.metadata.sky.com/pd-image/37ebcf6b-4aa1-40f7-93f2-8267d30d849f/cover",
       "channel": "BBCRedButton1.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Springwatch 2026: Northern Ireland - Wild Stories",
       "description": "Enjoy the very best of spring 2026 in Northern Ireland as nature does the talking. [HD]",
-      "start": 1782154800,
+      "start": 1782151800,
       "stop": 1782158100,
       "icon": "https://images.metadata.sky.com/pd-image/23973fd0-e1ea-4d0e-bd37-b6b94fb9776a/cover",
       "channel": "BBCRedButton1.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 1.0
+      "episode": 1
     },
     {
       "title": "2026 World Cup: France v Iraq - Watch with 5 Live",
       "description": "Follow live BBC coverage of France v Iraq from Philadelphia with Radio 5 Live commentary. [HD]",
       "start": 1782158100,
       "stop": 1782171000,
-      "icon": "https://images.metadata.sky.com/pd-image/95f480ba-0e32-4a4e-a08e-4f56df3f0fda/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/f4212710-0232-4bc7-801c-ff566b7e6902/cover",
       "channel": "BBCRedButton1.uk",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 24
     },
     {
       "title": "Springwatch 2026: Northern Ireland - Wild Stories",
@@ -32244,7 +32178,7 @@
       "channel": "BBCRedButton1.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 1.0
+      "episode": 1
     },
     {
       "title": "Springwatch 2026: Northern Ireland - Wild Stories",
@@ -32255,7 +32189,7 @@
       "channel": "BBCRedButton1.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 1.0
+      "episode": 1
     },
     {
       "title": "Tennis: Eastbourne Open - Day 2",
@@ -32266,7 +32200,7 @@
       "channel": "BBCRedButton1.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Springwatch 2026: Northern Ireland - Wild Stories",
@@ -32277,7 +32211,7 @@
       "channel": "BBCRedButton1.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 1.0
+      "episode": 1
     },
     {
       "title": "2026 World Cup: Panama v...",
@@ -32288,7 +32222,7 @@
       "channel": "BBCRedButton1.uk",
       "premiere": false,
       "season": null,
-      "episode": 24.0
+      "episode": 26
     },
     {
       "title": "Springwatch 2026: Northern Ireland - Wild Stories",
@@ -32299,7 +32233,7 @@
       "channel": "BBCRedButton1.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 1.0
+      "episode": 1
     },
     {
       "title": "Springwatch 2026: Northern Ireland - Wild Stories",
@@ -32310,7 +32244,7 @@
       "channel": "BBCRedButton1.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 1.0
+      "episode": 1
     },
     {
       "title": "Tennis: Eastbourne Open - Day 3",
@@ -32321,7 +32255,7 @@
       "channel": "BBCRedButton1.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Springwatch 2026: Northern Ireland - Wild Stories",
@@ -32332,7 +32266,7 @@
       "channel": "BBCRedButton1.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 1.0
+      "episode": 1
     },
     {
       "title": "2026 World Cup: Scotland v...",
@@ -32343,7 +32277,7 @@
       "channel": "BBCRedButton1.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     }
   ],
   "BBCScotland.uk": [
@@ -32459,7 +32393,7 @@
     },
     {
       "title": "The River",
-      "description": "1/6. Series charting life along the Tweed. The Floors stud team wait for their final expectant mare to foal. And businesses spring clean ahead of peak season. [S,AD] [HD]",
+      "description": "1/6. Series charting life along the Tweed. The Floors stud team wait for their final expectant mare to foal. And businesses spring clean ahead of peak season. [S] [HD]",
       "start": 1782154800,
       "stop": 1782156600,
       "icon": "https://images.metadata.sky.com/pd-image/7954ec7e-1de5-4b95-9ba5-94afe8dbdfef/cover",
@@ -32525,7 +32459,7 @@
     },
     {
       "title": "Scotcast",
-      "description": "Conversation about Scotland's biggest news stories, hosted by Martin Geissler. [S] [HD]",
+      "description": "David Wallace Lockhart and guests on Keir Starmer's resignation and the campaign for an independent Scottish Labour party. [S] [HD]",
       "start": 1782165600,
       "stop": 1782167400,
       "icon": "https://images.metadata.sky.com/pd-image/a3e99814-d6fd-4310-b84e-1b8801a1df90/cover",
@@ -32923,7 +32857,7 @@
     },
     {
       "title": "The Catch Up",
-      "description": "A round-up of the day's news. [S] [HD]",
+      "description": "A round-up of the day's news with Lola Schroer. [S] [HD]",
       "start": 1782151200,
       "stop": 1782151500,
       "icon": "https://images.metadata.sky.com/pd-image/427a32f2-68d8-419c-a978-833231f3cc4b/cover",
@@ -33540,48 +33474,48 @@
       "episode": 21.0
     },
     {
-      "title": "Lightning",
-      "description": "16/30. Comedian Zoe Lyons hosts the quickfire quiz where six plucky contestants must stay out of the light to be all right. Can anyone beat the lightning and win the £3,000 jackpot? [S] [HD]",
+      "title": "Policing Paradise",
+      "description": "9/15. A haul of suspected cannabis plants is found at a residential home, stolen bike parts are discovered in a derelict hotel, and dogs sniff out drugs at the airport. [S] [HD]",
       "start": 1782134100,
       "stop": 1782135900,
-      "icon": "https://images.metadata.sky.com/pd-image/24106d70-35e7-4f0a-9a08-208088db18f3/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/ac3921e2-fea9-4446-8d14-1a42c285944c/cover",
       "channel": "BBCTwoEngland.uk",
       "premiere": false,
-      "season": 2.0,
-      "episode": 16.0
+      "season": null,
+      "episode": null
     },
     {
-      "title": "Chris and Meg's Wild Summer",
-      "description": "1/6. Chris Packham and stepdaughter Meg encounter puffins, otters and dolphins on their trip. [S] [HD]",
+      "title": "Scam Interceptors",
+      "description": "6/10. Scammers are about to swindle a woman in a care home in Sussex. To save her money, the team need to find out which one she's in. [S] [HD]",
       "start": 1782135900,
       "stop": 1782137700,
-      "icon": "https://images.metadata.sky.com/pd-image/4aff907f-266a-4216-b8a4-432acde4b29c/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/52315000-e372-4a9a-a80e-9761d5509fe1/cover",
       "channel": "BBCTwoEngland.uk",
       "premiere": false,
-      "season": 1.0,
-      "episode": 1.0
+      "season": null,
+      "episode": null
     },
     {
-      "title": "Wild West - America's Great Frontier",
-      "description": "Discover the amazing ways nature has found to survive in the extremely testing land of the wild west. [S,AD] [HD]",
+      "title": "Escape to the Country",
+      "description": "Having fallen in love with Norfolk a little more with each visit, a couple have decided to make the county their forever home, and Denise Nurse is there to help them find their forever house. [S] [HD]",
       "start": 1782137700,
       "stop": 1782141300,
-      "icon": "https://images.metadata.sky.com/pd-image/3bb98c8f-ea4a-40bc-813f-9773520d6c33/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/def2d033-db5a-4a65-ab4d-f2b5ae200730/cover",
       "channel": "BBCTwoEngland.uk",
       "premiere": false,
-      "season": 1.0,
-      "episode": 1.0
+      "season": null,
+      "episode": null
     },
     {
-      "title": "Flog It!",
-      "description": "In Capesthorne Hall, Cheshire, hundreds of people are welcomed with their antiques and collectibles. The experts on hand are on the hunt for items of interest which will do well at auction. [S] [HD]",
+      "title": "Garden Rescue",
+      "description": "4/5. The team face the challenge of transforming a World War II bomb shelter into a play space. [S] [HD]",
       "start": 1782141300,
       "stop": 1782144900,
-      "icon": "https://images.metadata.sky.com/pd-image/62c2636f-fce2-4a0b-b27e-46b590e50873/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/f8e23e95-1494-45ac-850d-ae561d37fddb/cover",
       "channel": "BBCTwoEngland.uk",
       "premiere": false,
-      "season": 16.0,
-      "episode": 2.0
+      "season": null,
+      "episode": null
     },
     {
       "title": "Pointless",
@@ -33639,10 +33573,21 @@
       "episode": null
     },
     {
+      "title": "EastEnders",
+      "description": "Bea drives a wedge between Honey and Billy, the Fox-Truemans receive upsetting news, and Suki struggles with Vinny. [S,AD] [HD]",
+      "start": 1782158400,
+      "stop": 1782160200,
+      "icon": "https://images.metadata.sky.com/pd-image/da00ea4d-dd73-4d1a-b33f-15ee5b030b2d/cover",
+      "channel": "BBCTwoEngland.uk",
+      "premiere": false,
+      "season": 2026.0,
+      "episode": 98.0
+    },
+    {
       "title": "Jack the Ripper: Lucy Worsley Investigates",
       "description": "1/4. How did the Jack the Ripper case fuel today's true crime obsession? [S,AD] [HD]",
-      "start": 1782158400,
-      "stop": 1782162000,
+      "start": 1782160200,
+      "stop": 1782163800,
       "icon": "https://images.metadata.sky.com/pd-image/0c820faf-d9ae-439e-9c06-973a5f6efc10/cover",
       "channel": "BBCTwoEngland.uk",
       "premiere": false,
@@ -33650,21 +33595,10 @@
       "episode": 1.0
     },
     {
-      "title": "Mortimer & Whitehouse: Gone Fishing",
-      "description": "2/6. Paul and Bob fish at the estate lake of Burghley House, near Stamford. Their target is the bream, but who knows what else they might catch in this rarely fished water. [S,AD] [HD]",
-      "start": 1782162000,
-      "stop": 1782163800,
-      "icon": "https://images.metadata.sky.com/pd-image/8be38063-052f-406b-a575-d31c4bbcb6bf/cover",
-      "channel": "BBCTwoEngland.uk",
-      "premiere": false,
-      "season": 4.0,
-      "episode": 2.0
-    },
-    {
       "title": "Newsnight, followed by Weather",
       "description": "Insights and global interviews on the news stories of the day. [S] [HD] Followed by Weather.",
       "start": 1782163800,
-      "stop": 1782165600,
+      "stop": 1782166500,
       "icon": "https://images.metadata.sky.com/pd-image/2512a9d6-947a-4f37-badb-4cb53ec64ee3/cover",
       "channel": "BBCTwoEngland.uk",
       "premiere": false,
@@ -33674,8 +33608,8 @@
     {
       "title": "The Producers",
       "description": "Mel Brooks's classic comedy about a Broadway producer seeking a show that's sure to flop. Contains adult humour. [1967] [S,AD]",
-      "start": 1782165600,
-      "stop": 1782171000,
+      "start": 1782166500,
+      "stop": 1782171900,
       "icon": "https://images.metadata.sky.com/pd-image/c71d9fc0-4c6e-46bd-9ada-61e110cfa110/cover",
       "channel": "BBCTwoEngland.uk",
       "premiere": false,
@@ -33685,8 +33619,8 @@
     {
       "title": "Gods of Tennis",
       "description": "2/3. The fierce rivalry between Bjorn Borg and John McEnroe brings glamour and celebrity to Centre Court as tennis goes A-list. Contains some strong language. [S,AD] [HD]",
-      "start": 1782171000,
-      "stop": 1782174600,
+      "start": 1782171900,
+      "stop": 1782175500,
       "icon": "https://images.metadata.sky.com/pd-image/6697370c-67f1-35a5-85df-13f1f812d6e0/cover",
       "channel": "BBCTwoEngland.uk",
       "premiere": false,
@@ -33696,8 +33630,8 @@
     {
       "title": "Countryfile",
       "description": "John Craven and Vick Hope are in the Cotswolds, exploring one of Britain's most iconic rural landscapes. [S,SL] [HD]",
-      "start": 1782174600,
-      "stop": 1782177900,
+      "start": 1782175500,
+      "stop": 1782178800,
       "icon": "https://images.metadata.sky.com/pd-image/13b0aa81-2cfd-4362-b22e-743e8d7af7a5/cover",
       "channel": "BBCTwoEngland.uk",
       "premiere": false,
@@ -33707,8 +33641,8 @@
     {
       "title": "Springwatch",
       "description": "7/12. Chris Packham and Michaela Strachan continue to follow the unfolding seasonal stories from Crom, the spectacular nature reserve managed by the National Trust. [S,SL] [HD]",
-      "start": 1782177900,
-      "stop": 1782181500,
+      "start": 1782178800,
+      "stop": 1782182400,
       "icon": "https://images.metadata.sky.com/pd-image/f387e9d1-943d-4f56-87b8-600dc190300f/cover",
       "channel": "BBCTwoEngland.uk",
       "premiere": false,
@@ -33718,8 +33652,8 @@
     {
       "title": "Reported Missing",
       "description": "2/4. Police fears grow for missing 19-year-old student Xiaoqiang, who may be at risk of extortion, and 20-year-old Daniel, who has failed to return from a mountain hike by night-time. [S,AD,SL] [HD]",
-      "start": 1782181500,
-      "stop": 1782185100,
+      "start": 1782182400,
+      "stop": 1782185700,
       "icon": "https://images.metadata.sky.com/pd-image/39472f97-b0ee-4c5a-98f1-3cfa92c62ba4/cover",
       "channel": "BBCTwoEngland.uk",
       "premiere": false,
@@ -33729,7 +33663,7 @@
     {
       "title": "This is BBC Two",
       "description": "Highlights of programmes on BBC Two. [HD]",
-      "start": 1782185100,
+      "start": 1782185700,
       "stop": 1782193500,
       "icon": null,
       "channel": "BBCTwoEngland.uk",
@@ -33738,15 +33672,15 @@
       "episode": null
     },
     {
-      "title": "Bargain Hunt",
-      "description": "There's a blast from the past for Danny as he visits one of England's smallest cities. [S,AD] [HD]",
+      "title": "The Travelling Auctioneers",
+      "description": "3/25. Izzie and Robin explore a Blackpool home filled with puppets and showbiz paraphernalia. No strings attached! [S,AD] [HD]",
       "start": 1782193500,
       "stop": 1782196200,
-      "icon": "https://images.metadata.sky.com/pd-image/29134416-d9c5-4b1c-99a8-8e6f529185af/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/20eb4311-7a14-4295-8b6b-59a01376334e/cover",
       "channel": "BBCTwoEngland.uk",
       "premiere": false,
-      "season": 74.0,
-      "episode": 226.0
+      "season": null,
+      "episode": null
     },
     {
       "title": "Policing Paradise",
@@ -33826,15 +33760,15 @@
       "episode": 22.0
     },
     {
-      "title": "Lightning",
-      "description": "17/30. Comedian Zoe Lyons hosts the quickfire quiz where six plucky contestants must stay out of the light to be all right. Can anyone beat the lightning and win the £3,000 jackpot? [S] [HD]",
+      "title": "Chris and Meg's Wild Summer",
+      "description": "1/6. Chris Packham and stepdaughter Meg encounter puffins, otters and dolphins on their trip. [S] [HD]",
       "start": 1782220500,
       "stop": 1782222300,
-      "icon": "https://images.metadata.sky.com/pd-image/cfb9be8a-9c05-4d29-bdae-d67abe9dbbc9/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/dc195bad-19cc-4ee4-b1b0-b4c4998b6aea/cover",
       "channel": "BBCTwoEngland.uk",
       "premiere": false,
-      "season": 2.0,
-      "episode": 17.0
+      "season": null,
+      "episode": null
     },
     {
       "title": "Chris and Meg's Wild Summer",
@@ -33860,7 +33794,7 @@
     },
     {
       "title": "Wild West - America's Great Frontier",
-      "description": "How nature survives in America's high country - the land of grizzly bears and giant trees, frigid winters and scorching summers, tough ranchers and gold rush fever. [S,AD] [HD]",
+      "description": "Discover the amazing ways nature has found to survive in the extremely testing land of the wild west. [S,AD] [HD]",
       "start": 1782227700,
       "stop": 1782231300,
       "icon": "https://images.metadata.sky.com/pd-image/f8f8a416-ce91-4ba5-b79f-5a97e7a42b8e/cover",
@@ -34168,7 +34102,7 @@
     },
     {
       "title": "Wild West - America's Great Frontier",
-      "description": "A look at the powerful earth forces which shape the coastline of the wild west, from the mysterious Sea of Cortez to the wild and elemental Pacific Ocean. [S,AD] [HD]",
+      "description": "How nature survives in America's high country - the land of grizzly bears and giant trees, frigid winters and scorching summers, tough ranchers and gold rush fever. [S,AD] [HD]",
       "start": 1782314100,
       "stop": 1782317700,
       "icon": "https://images.metadata.sky.com/pd-image/09d130e9-68f9-4fa8-81c5-255be2b54933/cover",
@@ -34444,48 +34378,48 @@
       "episode": 21.0
     },
     {
-      "title": "Lightning",
-      "description": "16/30. Comedian Zoe Lyons hosts the quickfire quiz where six plucky contestants must stay out of the light to be all right. Can anyone beat the lightning and win the £3,000 jackpot? [S] [HD]",
+      "title": "Policing Paradise",
+      "description": "9/15. A haul of suspected cannabis plants is found at a residential home, stolen bike parts are discovered in a derelict hotel, and dogs sniff out drugs at the airport. [S] [HD]",
       "start": 1782134100,
       "stop": 1782135900,
-      "icon": "https://images.metadata.sky.com/pd-image/24106d70-35e7-4f0a-9a08-208088db18f3/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/ac3921e2-fea9-4446-8d14-1a42c285944c/cover",
       "channel": "BBCTwoHD.uk",
       "premiere": false,
-      "season": 2.0,
-      "episode": 16.0
+      "season": null,
+      "episode": null
     },
     {
-      "title": "Chris and Meg's Wild Summer",
-      "description": "1/6. Chris Packham and stepdaughter Meg encounter puffins, otters and dolphins on their trip. [S] [HD]",
+      "title": "Scam Interceptors",
+      "description": "6/10. Scammers are about to swindle a woman in a care home in Sussex. To save her money, the team need to find out which one she's in. [S] [HD]",
       "start": 1782135900,
       "stop": 1782137700,
-      "icon": "https://images.metadata.sky.com/pd-image/4aff907f-266a-4216-b8a4-432acde4b29c/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/52315000-e372-4a9a-a80e-9761d5509fe1/cover",
       "channel": "BBCTwoHD.uk",
       "premiere": false,
-      "season": 1.0,
-      "episode": 1.0
+      "season": null,
+      "episode": null
     },
     {
-      "title": "Wild West - America's Great Frontier",
-      "description": "Discover the amazing ways nature has found to survive in the extremely testing land of the wild west. [S,AD] [HD]",
+      "title": "Escape to the Country",
+      "description": "Having fallen in love with Norfolk a little more with each visit, a couple have decided to make the county their forever home, and Denise Nurse is there to help them find their forever house. [S] [HD]",
       "start": 1782137700,
       "stop": 1782141300,
-      "icon": "https://images.metadata.sky.com/pd-image/3bb98c8f-ea4a-40bc-813f-9773520d6c33/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/def2d033-db5a-4a65-ab4d-f2b5ae200730/cover",
       "channel": "BBCTwoHD.uk",
       "premiere": false,
-      "season": 1.0,
-      "episode": 1.0
+      "season": null,
+      "episode": null
     },
     {
-      "title": "Flog It!",
-      "description": "In Capesthorne Hall, Cheshire, hundreds of people are welcomed with their antiques and collectibles. The experts on hand are on the hunt for items of interest which will do well at auction. [S] [HD]",
+      "title": "Garden Rescue",
+      "description": "4/5. The team face the challenge of transforming a World War II bomb shelter into a play space. [S] [HD]",
       "start": 1782141300,
       "stop": 1782144900,
-      "icon": "https://images.metadata.sky.com/pd-image/62c2636f-fce2-4a0b-b27e-46b590e50873/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/f8e23e95-1494-45ac-850d-ae561d37fddb/cover",
       "channel": "BBCTwoHD.uk",
       "premiere": false,
-      "season": 16.0,
-      "episode": 2.0
+      "season": null,
+      "episode": null
     },
     {
       "title": "Pointless",
@@ -34543,10 +34477,21 @@
       "episode": null
     },
     {
+      "title": "EastEnders",
+      "description": "Bea drives a wedge between Honey and Billy, the Fox-Truemans receive upsetting news, and Suki struggles with Vinny. [S,AD] [HD]",
+      "start": 1782158400,
+      "stop": 1782160200,
+      "icon": "https://images.metadata.sky.com/pd-image/da00ea4d-dd73-4d1a-b33f-15ee5b030b2d/cover",
+      "channel": "BBCTwoHD.uk",
+      "premiere": false,
+      "season": 2026.0,
+      "episode": 98.0
+    },
+    {
       "title": "Jack the Ripper: Lucy Worsley Investigates",
       "description": "1/4. How did the Jack the Ripper case fuel today's true crime obsession? [S,AD] [HD]",
-      "start": 1782158400,
-      "stop": 1782162000,
+      "start": 1782160200,
+      "stop": 1782163800,
       "icon": "https://images.metadata.sky.com/pd-image/0c820faf-d9ae-439e-9c06-973a5f6efc10/cover",
       "channel": "BBCTwoHD.uk",
       "premiere": false,
@@ -34554,21 +34499,10 @@
       "episode": 1.0
     },
     {
-      "title": "Mortimer & Whitehouse: Gone Fishing",
-      "description": "2/6. Paul and Bob fish at the estate lake of Burghley House, near Stamford. Their target is the bream, but who knows what else they might catch in this rarely fished water. [S,AD] [HD]",
-      "start": 1782162000,
-      "stop": 1782163800,
-      "icon": "https://images.metadata.sky.com/pd-image/8be38063-052f-406b-a575-d31c4bbcb6bf/cover",
-      "channel": "BBCTwoHD.uk",
-      "premiere": false,
-      "season": 4.0,
-      "episode": 2.0
-    },
-    {
       "title": "Newsnight, followed by Weather",
       "description": "Insights and global interviews on the news stories of the day. [S] [HD] Followed by Weather.",
       "start": 1782163800,
-      "stop": 1782165600,
+      "stop": 1782166500,
       "icon": "https://images.metadata.sky.com/pd-image/2512a9d6-947a-4f37-badb-4cb53ec64ee3/cover",
       "channel": "BBCTwoHD.uk",
       "premiere": false,
@@ -34578,8 +34512,8 @@
     {
       "title": "The Producers",
       "description": "Mel Brooks's classic comedy about a Broadway producer seeking a show that's sure to flop. Contains adult humour. [1967] [S,AD]",
-      "start": 1782165600,
-      "stop": 1782171000,
+      "start": 1782166500,
+      "stop": 1782171900,
       "icon": "https://images.metadata.sky.com/pd-image/c71d9fc0-4c6e-46bd-9ada-61e110cfa110/cover",
       "channel": "BBCTwoHD.uk",
       "premiere": false,
@@ -34589,8 +34523,8 @@
     {
       "title": "Gods of Tennis",
       "description": "2/3. The fierce rivalry between Bjorn Borg and John McEnroe brings glamour and celebrity to Centre Court as tennis goes A-list. Contains some strong language. [S,AD] [HD]",
-      "start": 1782171000,
-      "stop": 1782174600,
+      "start": 1782171900,
+      "stop": 1782175500,
       "icon": "https://images.metadata.sky.com/pd-image/6697370c-67f1-35a5-85df-13f1f812d6e0/cover",
       "channel": "BBCTwoHD.uk",
       "premiere": false,
@@ -34600,8 +34534,8 @@
     {
       "title": "Countryfile",
       "description": "John Craven and Vick Hope are in the Cotswolds, exploring one of Britain's most iconic rural landscapes. [S,SL] [HD]",
-      "start": 1782174600,
-      "stop": 1782177900,
+      "start": 1782175500,
+      "stop": 1782178800,
       "icon": "https://images.metadata.sky.com/pd-image/13b0aa81-2cfd-4362-b22e-743e8d7af7a5/cover",
       "channel": "BBCTwoHD.uk",
       "premiere": false,
@@ -34611,8 +34545,8 @@
     {
       "title": "Springwatch",
       "description": "7/12. Chris Packham and Michaela Strachan continue to follow the unfolding seasonal stories from Crom, the spectacular nature reserve managed by the National Trust. [S,SL] [HD]",
-      "start": 1782177900,
-      "stop": 1782181500,
+      "start": 1782178800,
+      "stop": 1782182400,
       "icon": "https://images.metadata.sky.com/pd-image/f387e9d1-943d-4f56-87b8-600dc190300f/cover",
       "channel": "BBCTwoHD.uk",
       "premiere": false,
@@ -34622,8 +34556,8 @@
     {
       "title": "Reported Missing",
       "description": "2/4. Police fears grow for missing 19-year-old student Xiaoqiang, who may be at risk of extortion, and 20-year-old Daniel, who has failed to return from a mountain hike by night-time. [S,AD,SL] [HD]",
-      "start": 1782181500,
-      "stop": 1782185100,
+      "start": 1782182400,
+      "stop": 1782185700,
       "icon": "https://images.metadata.sky.com/pd-image/39472f97-b0ee-4c5a-98f1-3cfa92c62ba4/cover",
       "channel": "BBCTwoHD.uk",
       "premiere": false,
@@ -34633,7 +34567,7 @@
     {
       "title": "This is BBC Two",
       "description": "Highlights of programmes on BBC Two. [HD]",
-      "start": 1782185100,
+      "start": 1782185700,
       "stop": 1782193500,
       "icon": null,
       "channel": "BBCTwoHD.uk",
@@ -34642,15 +34576,15 @@
       "episode": null
     },
     {
-      "title": "Bargain Hunt",
-      "description": "There's a blast from the past for Danny as he visits one of England's smallest cities. [S,AD] [HD]",
+      "title": "The Travelling Auctioneers",
+      "description": "3/25. Izzie and Robin explore a Blackpool home filled with puppets and showbiz paraphernalia. No strings attached! [S,AD] [HD]",
       "start": 1782193500,
       "stop": 1782196200,
-      "icon": "https://images.metadata.sky.com/pd-image/29134416-d9c5-4b1c-99a8-8e6f529185af/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/20eb4311-7a14-4295-8b6b-59a01376334e/cover",
       "channel": "BBCTwoHD.uk",
       "premiere": false,
-      "season": 74.0,
-      "episode": 226.0
+      "season": null,
+      "episode": null
     },
     {
       "title": "Policing Paradise",
@@ -34730,15 +34664,15 @@
       "episode": 22.0
     },
     {
-      "title": "Lightning",
-      "description": "17/30. Comedian Zoe Lyons hosts the quickfire quiz where six plucky contestants must stay out of the light to be all right. Can anyone beat the lightning and win the £3,000 jackpot? [S] [HD]",
+      "title": "Chris and Meg's Wild Summer",
+      "description": "1/6. Chris Packham and stepdaughter Meg encounter puffins, otters and dolphins on their trip. [S] [HD]",
       "start": 1782220500,
       "stop": 1782222300,
-      "icon": "https://images.metadata.sky.com/pd-image/cfb9be8a-9c05-4d29-bdae-d67abe9dbbc9/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/dc195bad-19cc-4ee4-b1b0-b4c4998b6aea/cover",
       "channel": "BBCTwoHD.uk",
       "premiere": false,
-      "season": 2.0,
-      "episode": 17.0
+      "season": null,
+      "episode": null
     },
     {
       "title": "Chris and Meg's Wild Summer",
@@ -34764,7 +34698,7 @@
     },
     {
       "title": "Wild West - America's Great Frontier",
-      "description": "How nature survives in America's high country - the land of grizzly bears and giant trees, frigid winters and scorching summers, tough ranchers and gold rush fever. [S,AD] [HD]",
+      "description": "Discover the amazing ways nature has found to survive in the extremely testing land of the wild west. [S,AD] [HD]",
       "start": 1782227700,
       "stop": 1782231300,
       "icon": "https://images.metadata.sky.com/pd-image/f8f8a416-ce91-4ba5-b79f-5a97e7a42b8e/cover",
@@ -35072,7 +35006,7 @@
     },
     {
       "title": "Wild West - America's Great Frontier",
-      "description": "A look at the powerful earth forces which shape the coastline of the wild west, from the mysterious Sea of Cortez to the wild and elemental Pacific Ocean. [S,AD] [HD]",
+      "description": "How nature survives in America's high country - the land of grizzly bears and giant trees, frigid winters and scorching summers, tough ranchers and gold rush fever. [S,AD] [HD]",
       "start": 1782314100,
       "stop": 1782317700,
       "icon": "https://images.metadata.sky.com/pd-image/09d130e9-68f9-4fa8-81c5-255be2b54933/cover",
@@ -35348,48 +35282,48 @@
       "episode": 21.0
     },
     {
-      "title": "Lightning",
-      "description": "16/30. Comedian Zoe Lyons hosts the quickfire quiz where six plucky contestants must stay out of the light to be all right. Can anyone beat the lightning and win the £3,000 jackpot? [S] [HD]",
+      "title": "Policing Paradise",
+      "description": "9/15. A haul of suspected cannabis plants is found at a residential home, stolen bike parts are discovered in a derelict hotel, and dogs sniff out drugs at the airport. [S] [HD]",
       "start": 1782134100,
       "stop": 1782135900,
-      "icon": "https://images.metadata.sky.com/pd-image/24106d70-35e7-4f0a-9a08-208088db18f3/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/7012b6c0-7554-4232-9445-2dfb720e1b27/cover",
       "channel": "BBCTwoNorthernIreland.uk",
       "premiere": false,
-      "season": 2.0,
-      "episode": 16.0
+      "season": null,
+      "episode": null
     },
     {
-      "title": "Chris and Meg's Wild Summer",
-      "description": "1/6. Chris Packham and stepdaughter Meg encounter puffins, otters and dolphins on their trip. [S] [HD]",
+      "title": "Scam Interceptors",
+      "description": "6/10. Scammers are about to swindle a woman in a care home in Sussex. To save her money, the team need to find out which one she's in. [S] [HD]",
       "start": 1782135900,
       "stop": 1782137700,
-      "icon": "https://images.metadata.sky.com/pd-image/4aff907f-266a-4216-b8a4-432acde4b29c/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/b641b8c2-81cf-4e82-a768-aaae2e19dd5f/cover",
       "channel": "BBCTwoNorthernIreland.uk",
       "premiere": false,
-      "season": 1.0,
-      "episode": 1.0
+      "season": null,
+      "episode": null
     },
     {
-      "title": "Wild West - America's Great Frontier",
-      "description": "Discover the amazing ways nature has found to survive in the extremely testing land of the wild west. [S,AD] [HD]",
+      "title": "Escape to the Country",
+      "description": "Having fallen in love with Norfolk a little more with each visit, a couple have decided to make the county their forever home, and Denise Nurse is there to help them find their forever house. [S] [HD]",
       "start": 1782137700,
       "stop": 1782141300,
-      "icon": "https://images.metadata.sky.com/pd-image/3bb98c8f-ea4a-40bc-813f-9773520d6c33/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/f05229b2-990d-4c68-8c89-7d61ab254c2a/cover",
       "channel": "BBCTwoNorthernIreland.uk",
       "premiere": false,
-      "season": 1.0,
-      "episode": 1.0
+      "season": null,
+      "episode": null
     },
     {
-      "title": "Flog It!",
-      "description": "In Capesthorne Hall, Cheshire, hundreds of people are welcomed with their antiques and collectibles. The experts on hand are on the hunt for items of interest which will do well at auction. [S] [HD]",
+      "title": "Garden Rescue",
+      "description": "4/5. The team face the challenge of transforming a World War II bomb shelter into a play space. [S] [HD]",
       "start": 1782141300,
       "stop": 1782144900,
-      "icon": "https://images.metadata.sky.com/pd-image/62c2636f-fce2-4a0b-b27e-46b590e50873/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/f6b8f123-912f-45d0-bfb3-afc715002709/cover",
       "channel": "BBCTwoNorthernIreland.uk",
       "premiere": false,
-      "season": 16.0,
-      "episode": 2.0
+      "season": null,
+      "episode": null
     },
     {
       "title": "Pointless",
@@ -35414,15 +35348,15 @@
       "episode": 61.0
     },
     {
-      "title": "Great Continental Railway Journeys",
-      "description": "11/20. Michael Portillo visits the tiny village home of Switzerland's most famous child, Heidi. [S,AD] [HD]",
+      "title": "BBC Newsline",
+      "description": "Local News from across Northern Ireland with Tara Mills and Declan Harvey. [S] [HD]",
       "start": 1782149400,
       "stop": 1782151200,
-      "icon": "https://images.metadata.sky.com/pd-image/9b7b916c-e9f5-4569-8008-5af2339db498/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/eb23863e-eec9-4967-9e6c-3caf289ec70c/cover",
       "channel": "BBCTwoNorthernIreland.uk",
       "premiere": false,
-      "season": 8.0,
-      "episode": 11.0
+      "season": null,
+      "episode": 0.0
     },
     {
       "title": "Marcus Wareing's Simply Provence",
@@ -35447,15 +35381,26 @@
       "episode": null
     },
     {
-      "title": "Jack the Ripper: Lucy Worsley Investigates",
-      "description": "1/4. How did the Jack the Ripper case fuel today's true crime obsession? [S,AD] [HD]",
+      "title": "EastEnders",
+      "description": "Bea drives a wedge between Honey and Billy, the Fox-Truemans receive upsetting news, and Suki struggles with Vinny. [S,AD] [HD]",
       "start": 1782158400,
-      "stop": 1782162000,
-      "icon": "https://images.metadata.sky.com/pd-image/0c820faf-d9ae-439e-9c06-973a5f6efc10/cover",
+      "stop": 1782160200,
+      "icon": "https://images.metadata.sky.com/pd-image/da00ea4d-dd73-4d1a-b33f-15ee5b030b2d/cover",
       "channel": "BBCTwoNorthernIreland.uk",
       "premiere": false,
-      "season": 2.0,
-      "episode": 1.0
+      "season": 2026.0,
+      "episode": 98.0
+    },
+    {
+      "title": "Tartan Tales",
+      "description": "2/2. Grahame enlists a local primary school to help design a tartan for Donaghadee. Kim heads to the World Pipe Band Championships, and Belfast hosts its first Tartan Day. [S] [HD]",
+      "start": 1782160200,
+      "stop": 1782162000,
+      "icon": "https://images.metadata.sky.com/pd-image/749565b7-e9fd-4b20-8921-628a20a5de6e/cover",
+      "channel": "BBCTwoNorthernIreland.uk",
+      "premiere": false,
+      "season": 1.0,
+      "episode": 2.0
     },
     {
       "title": "Saolta 's Gaolta",
@@ -35472,7 +35417,7 @@
       "title": "Newsnight, followed by Weather",
       "description": "Insights and global interviews on the news stories of the day. [S] [HD] Followed by Weather.",
       "start": 1782163800,
-      "stop": 1782165600,
+      "stop": 1782166500,
       "icon": "https://images.metadata.sky.com/pd-image/2512a9d6-947a-4f37-badb-4cb53ec64ee3/cover",
       "channel": "BBCTwoNorthernIreland.uk",
       "premiere": false,
@@ -35480,10 +35425,21 @@
       "episode": 246.0
     },
     {
+      "title": "The State of Us",
+      "description": "The jury has reached its verdict on charges against the former DUP leader and his wife. Contains some scenes which some viewers may find upsetting. [S] [HD]",
+      "start": 1782166500,
+      "stop": 1782168300,
+      "icon": "https://images.metadata.sky.com/pd-image/e4374dd5-b690-4c7d-bdcd-5731d75fdfab/cover",
+      "channel": "BBCTwoNorthernIreland.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
       "title": "The Producers",
       "description": "Mel Brooks's classic comedy about a Broadway producer seeking a show that's sure to flop. Contains adult humour. [1967] [S,AD]",
-      "start": 1782165600,
-      "stop": 1782171000,
+      "start": 1782168300,
+      "stop": 1782173700,
       "icon": "https://images.metadata.sky.com/pd-image/c71d9fc0-4c6e-46bd-9ada-61e110cfa110/cover",
       "channel": "BBCTwoNorthernIreland.uk",
       "premiere": false,
@@ -35491,70 +35447,26 @@
       "episode": null
     },
     {
-      "title": "Gods of Tennis",
-      "description": "2/3. The fierce rivalry between Bjorn Borg and John McEnroe brings glamour and celebrity to Centre Court as tennis goes A-list. Contains some strong language. [S,AD] [HD]",
-      "start": 1782171000,
-      "stop": 1782174600,
-      "icon": "https://images.metadata.sky.com/pd-image/6697370c-67f1-35a5-85df-13f1f812d6e0/cover",
-      "channel": "BBCTwoNorthernIreland.uk",
-      "premiere": false,
-      "season": 1.0,
-      "episode": 2.0
-    },
-    {
-      "title": "Countryfile",
-      "description": "John Craven and Vick Hope are in the Cotswolds, exploring one of Britain's most iconic rural landscapes. [S,SL] [HD]",
-      "start": 1782174600,
-      "stop": 1782177900,
-      "icon": "https://images.metadata.sky.com/pd-image/13b0aa81-2cfd-4362-b22e-743e8d7af7a5/cover",
-      "channel": "BBCTwoNorthernIreland.uk",
-      "premiere": false,
-      "season": 2026.0,
-      "episode": 61.0
-    },
-    {
-      "title": "Springwatch",
-      "description": "7/12. Chris Packham and Michaela Strachan continue to follow the unfolding seasonal stories from Crom, the spectacular nature reserve managed by the National Trust. [S,SL] [HD]",
-      "start": 1782177900,
-      "stop": 1782181500,
-      "icon": "https://images.metadata.sky.com/pd-image/f387e9d1-943d-4f56-87b8-600dc190300f/cover",
-      "channel": "BBCTwoNorthernIreland.uk",
-      "premiere": false,
-      "season": 2026.0,
-      "episode": 7.0
-    },
-    {
-      "title": "Reported Missing",
-      "description": "2/4. Police fears grow for missing 19-year-old student Xiaoqiang, who may be at risk of extortion, and 20-year-old Daniel, who has failed to return from a mountain hike by night-time. [S,AD,SL] [HD]",
-      "start": 1782181500,
-      "stop": 1782185100,
-      "icon": "https://images.metadata.sky.com/pd-image/39472f97-b0ee-4c5a-98f1-3cfa92c62ba4/cover",
-      "channel": "BBCTwoNorthernIreland.uk",
-      "premiere": false,
-      "season": 5.0,
-      "episode": 2.0
-    },
-    {
-      "title": "This is BBC Two",
-      "description": "Highlights of programmes on BBC Two. [HD]",
-      "start": 1782185100,
+      "title": "BBC News",
+      "description": "BBC One joins the BBC's rolling news channel for a night of news. [S] [HD]",
+      "start": 1782173700,
       "stop": 1782193500,
-      "icon": null,
+      "icon": "https://images.metadata.sky.com/pd-image/5ecc88cd-fea1-42a6-a73d-dd44a3fb66ec/cover",
       "channel": "BBCTwoNorthernIreland.uk",
       "premiere": false,
       "season": null,
       "episode": null
     },
     {
-      "title": "Bargain Hunt",
-      "description": "There's a blast from the past for Danny as he visits one of England's smallest cities. [S,AD] [HD]",
+      "title": "The Travelling Auctioneers",
+      "description": "3/25. Izzie and Robin explore a Blackpool home filled with puppets and showbiz paraphernalia. No strings attached! [S,AD] [HD]",
       "start": 1782193500,
       "stop": 1782196200,
-      "icon": "https://images.metadata.sky.com/pd-image/29134416-d9c5-4b1c-99a8-8e6f529185af/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/06fb250d-54e5-4575-b4db-35c6a3598e2c/cover",
       "channel": "BBCTwoNorthernIreland.uk",
       "premiere": false,
-      "season": 74.0,
-      "episode": 226.0
+      "season": null,
+      "episode": null
     },
     {
       "title": "Policing Paradise",
@@ -35634,15 +35546,15 @@
       "episode": 22.0
     },
     {
-      "title": "Lightning",
-      "description": "17/30. Comedian Zoe Lyons hosts the quickfire quiz where six plucky contestants must stay out of the light to be all right. Can anyone beat the lightning and win the £3,000 jackpot? [S] [HD]",
+      "title": "Chris and Meg's Wild Summer",
+      "description": "1/6. Chris Packham and stepdaughter Meg encounter puffins, otters and dolphins on their trip. [S] [HD]",
       "start": 1782220500,
       "stop": 1782222300,
-      "icon": "https://images.metadata.sky.com/pd-image/cfb9be8a-9c05-4d29-bdae-d67abe9dbbc9/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/85c8c281-e5da-4778-895a-5ab7d2948511/cover",
       "channel": "BBCTwoNorthernIreland.uk",
       "premiere": false,
-      "season": 2.0,
-      "episode": 17.0
+      "season": null,
+      "episode": null
     },
     {
       "title": "Chris and Meg's Wild Summer",
@@ -35668,7 +35580,7 @@
     },
     {
       "title": "Wild West - America's Great Frontier",
-      "description": "How nature survives in America's high country - the land of grizzly bears and giant trees, frigid winters and scorching summers, tough ranchers and gold rush fever. [S,AD] [HD]",
+      "description": "Discover the amazing ways nature has found to survive in the extremely testing land of the wild west. [S,AD] [HD]",
       "start": 1782227700,
       "stop": 1782231300,
       "icon": "https://images.metadata.sky.com/pd-image/f8f8a416-ce91-4ba5-b79f-5a97e7a42b8e/cover",
@@ -35976,7 +35888,7 @@
     },
     {
       "title": "Wild West - America's Great Frontier",
-      "description": "A look at the powerful earth forces which shape the coastline of the wild west, from the mysterious Sea of Cortez to the wild and elemental Pacific Ocean. [S,AD] [HD]",
+      "description": "How nature survives in America's high country - the land of grizzly bears and giant trees, frigid winters and scorching summers, tough ranchers and gold rush fever. [S,AD] [HD]",
       "start": 1782314100,
       "stop": 1782317700,
       "icon": "https://images.metadata.sky.com/pd-image/09d130e9-68f9-4fa8-81c5-255be2b54933/cover",
@@ -36252,48 +36164,48 @@
       "episode": 21.0
     },
     {
-      "title": "Lightning",
-      "description": "16/30. Comedian Zoe Lyons hosts the quickfire quiz where six plucky contestants must stay out of the light to be all right. Can anyone beat the lightning and win the £3,000 jackpot? [S] [HD]",
+      "title": "Policing Paradise",
+      "description": "9/15. A haul of suspected cannabis plants is found at a residential home, stolen bike parts are discovered in a derelict hotel, and dogs sniff out drugs at the airport. [S] [HD]",
       "start": 1782134100,
       "stop": 1782135900,
-      "icon": "https://images.metadata.sky.com/pd-image/24106d70-35e7-4f0a-9a08-208088db18f3/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/903a3c4a-f397-4a13-af99-fb07ab63bc83/cover",
       "channel": "BBCTwoWales.uk",
       "premiere": false,
-      "season": 2.0,
-      "episode": 16.0
+      "season": null,
+      "episode": null
     },
     {
-      "title": "Chris and Meg's Wild Summer",
-      "description": "1/6. Chris Packham and stepdaughter Meg encounter puffins, otters and dolphins on their trip. [S] [HD]",
+      "title": "Scam Interceptors",
+      "description": "6/10. Scammers are about to swindle a woman in a care home in Sussex. To save her money, the team need to find out which one she's in. [S] [HD]",
       "start": 1782135900,
       "stop": 1782137700,
-      "icon": "https://images.metadata.sky.com/pd-image/4aff907f-266a-4216-b8a4-432acde4b29c/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/c8d66e7f-5288-49e8-906d-bf7b856315ba/cover",
       "channel": "BBCTwoWales.uk",
       "premiere": false,
-      "season": 1.0,
-      "episode": 1.0
+      "season": null,
+      "episode": null
     },
     {
-      "title": "Wild West - America's Great Frontier",
-      "description": "Discover the amazing ways nature has found to survive in the extremely testing land of the wild west. [S,AD] [HD]",
+      "title": "Escape to the Country",
+      "description": "Having fallen in love with Norfolk a little more with each visit, a couple have decided to make the county their forever home, and Denise Nurse is there to help them find their forever house. [S] [HD]",
       "start": 1782137700,
       "stop": 1782141300,
-      "icon": "https://images.metadata.sky.com/pd-image/3bb98c8f-ea4a-40bc-813f-9773520d6c33/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/3660f4bb-4ecd-41df-9ec5-afc96eb0706d/cover",
       "channel": "BBCTwoWales.uk",
       "premiere": false,
-      "season": 1.0,
-      "episode": 1.0
+      "season": null,
+      "episode": null
     },
     {
-      "title": "Flog It!",
-      "description": "In Capesthorne Hall, Cheshire, hundreds of people are welcomed with their antiques and collectibles. The experts on hand are on the hunt for items of interest which will do well at auction. [S] [HD]",
+      "title": "Garden Rescue",
+      "description": "4/5. The team face the challenge of transforming a World War II bomb shelter into a play space. [S] [HD]",
       "start": 1782141300,
       "stop": 1782144900,
-      "icon": "https://images.metadata.sky.com/pd-image/62c2636f-fce2-4a0b-b27e-46b590e50873/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/77512799-9edb-4838-bb49-31105439ee6c/cover",
       "channel": "BBCTwoWales.uk",
       "premiere": false,
-      "season": 16.0,
-      "episode": 2.0
+      "season": null,
+      "episode": null
     },
     {
       "title": "Pointless",
@@ -36351,10 +36263,21 @@
       "episode": null
     },
     {
+      "title": "EastEnders",
+      "description": "Bea drives a wedge between Honey and Billy, the Fox-Truemans receive upsetting news, and Suki struggles with Vinny. [S,AD] [HD]",
+      "start": 1782158400,
+      "stop": 1782160200,
+      "icon": "https://images.metadata.sky.com/pd-image/da00ea4d-dd73-4d1a-b33f-15ee5b030b2d/cover",
+      "channel": "BBCTwoWales.uk",
+      "premiere": false,
+      "season": 2026.0,
+      "episode": 98.0
+    },
+    {
       "title": "Jack the Ripper: Lucy Worsley Investigates",
       "description": "1/4. How did the Jack the Ripper case fuel today's true crime obsession? [S,AD] [HD]",
-      "start": 1782158400,
-      "stop": 1782162000,
+      "start": 1782160200,
+      "stop": 1782163800,
       "icon": "https://images.metadata.sky.com/pd-image/0c820faf-d9ae-439e-9c06-973a5f6efc10/cover",
       "channel": "BBCTwoWales.uk",
       "premiere": false,
@@ -36362,21 +36285,10 @@
       "episode": 1.0
     },
     {
-      "title": "Mortimer & Whitehouse: Gone Fishing",
-      "description": "2/6. Paul and Bob fish at the estate lake of Burghley House, near Stamford. Their target is the bream, but who knows what else they might catch in this rarely fished water. [S,AD] [HD]",
-      "start": 1782162000,
-      "stop": 1782163800,
-      "icon": "https://images.metadata.sky.com/pd-image/8be38063-052f-406b-a575-d31c4bbcb6bf/cover",
-      "channel": "BBCTwoWales.uk",
-      "premiere": false,
-      "season": 4.0,
-      "episode": 2.0
-    },
-    {
       "title": "Newsnight, followed by Weather",
       "description": "Insights and global interviews on the news stories of the day. [S] [HD] Followed by Weather.",
       "start": 1782163800,
-      "stop": 1782165600,
+      "stop": 1782166500,
       "icon": "https://images.metadata.sky.com/pd-image/2512a9d6-947a-4f37-badb-4cb53ec64ee3/cover",
       "channel": "BBCTwoWales.uk",
       "premiere": false,
@@ -36386,8 +36298,8 @@
     {
       "title": "The Producers",
       "description": "Mel Brooks's classic comedy about a Broadway producer seeking a show that's sure to flop. Contains adult humour. [1967] [S,AD]",
-      "start": 1782165600,
-      "stop": 1782171000,
+      "start": 1782166500,
+      "stop": 1782171900,
       "icon": "https://images.metadata.sky.com/pd-image/c71d9fc0-4c6e-46bd-9ada-61e110cfa110/cover",
       "channel": "BBCTwoWales.uk",
       "premiere": false,
@@ -36397,8 +36309,8 @@
     {
       "title": "Gods of Tennis",
       "description": "2/3. The fierce rivalry between Bjorn Borg and John McEnroe brings glamour and celebrity to Centre Court as tennis goes A-list. Contains some strong language. [S,AD] [HD]",
-      "start": 1782171000,
-      "stop": 1782174600,
+      "start": 1782171900,
+      "stop": 1782175500,
       "icon": "https://images.metadata.sky.com/pd-image/6697370c-67f1-35a5-85df-13f1f812d6e0/cover",
       "channel": "BBCTwoWales.uk",
       "premiere": false,
@@ -36408,8 +36320,8 @@
     {
       "title": "Countryfile",
       "description": "John Craven and Vick Hope are in the Cotswolds, exploring one of Britain's most iconic rural landscapes. [S,SL] [HD]",
-      "start": 1782174600,
-      "stop": 1782177900,
+      "start": 1782175500,
+      "stop": 1782178800,
       "icon": "https://images.metadata.sky.com/pd-image/13b0aa81-2cfd-4362-b22e-743e8d7af7a5/cover",
       "channel": "BBCTwoWales.uk",
       "premiere": false,
@@ -36419,8 +36331,8 @@
     {
       "title": "Springwatch",
       "description": "7/12. Chris Packham and Michaela Strachan continue to follow the unfolding seasonal stories from Crom, the spectacular nature reserve managed by the National Trust. [S,SL] [HD]",
-      "start": 1782177900,
-      "stop": 1782181500,
+      "start": 1782178800,
+      "stop": 1782182400,
       "icon": "https://images.metadata.sky.com/pd-image/f387e9d1-943d-4f56-87b8-600dc190300f/cover",
       "channel": "BBCTwoWales.uk",
       "premiere": false,
@@ -36430,8 +36342,8 @@
     {
       "title": "Reported Missing",
       "description": "2/4. Police fears grow for missing 19-year-old student Xiaoqiang, who may be at risk of extortion, and 20-year-old Daniel, who has failed to return from a mountain hike by night-time. [S,AD,SL] [HD]",
-      "start": 1782181500,
-      "stop": 1782185100,
+      "start": 1782182400,
+      "stop": 1782185700,
       "icon": "https://images.metadata.sky.com/pd-image/39472f97-b0ee-4c5a-98f1-3cfa92c62ba4/cover",
       "channel": "BBCTwoWales.uk",
       "premiere": false,
@@ -36441,7 +36353,7 @@
     {
       "title": "This is BBC Two",
       "description": "Highlights of programmes on BBC Two. [HD]",
-      "start": 1782185100,
+      "start": 1782185700,
       "stop": 1782193500,
       "icon": null,
       "channel": "BBCTwoWales.uk",
@@ -36450,15 +36362,15 @@
       "episode": null
     },
     {
-      "title": "Bargain Hunt",
-      "description": "There's a blast from the past for Danny as he visits one of England's smallest cities. [S,AD] [HD]",
+      "title": "The Travelling Auctioneers",
+      "description": "3/25. Izzie and Robin explore a Blackpool home filled with puppets and showbiz paraphernalia. No strings attached! [S,AD] [HD]",
       "start": 1782193500,
       "stop": 1782196200,
-      "icon": "https://images.metadata.sky.com/pd-image/29134416-d9c5-4b1c-99a8-8e6f529185af/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/46f7ece4-6397-42cc-88a3-e13af3abfd61/cover",
       "channel": "BBCTwoWales.uk",
       "premiere": false,
-      "season": 74.0,
-      "episode": 226.0
+      "season": null,
+      "episode": null
     },
     {
       "title": "Policing Paradise",
@@ -36880,7 +36792,7 @@
     },
     {
       "title": "Wild West - America's Great Frontier",
-      "description": "A look at the powerful earth forces which shape the coastline of the wild west, from the mysterious Sea of Cortez to the wild and elemental Pacific Ocean. [S,AD] [HD]",
+      "description": "How nature survives in America's high country - the land of grizzly bears and giant trees, frigid winters and scorching summers, tough ranchers and gold rush fever. [S,AD] [HD]",
       "start": 1782314100,
       "stop": 1782317700,
       "icon": "https://images.metadata.sky.com/pd-image/09d130e9-68f9-4fa8-81c5-255be2b54933/cover",
@@ -38669,17 +38581,6 @@
     {
       "title": ".programmes start at 7.00am",
       "description": null,
-      "start": 1782064680,
-      "stop": 1782086280,
-      "icon": null,
-      "channel": "CBBC.uk",
-      "premiere": false,
-      "season": null,
-      "episode": null
-    },
-    {
-      "title": ".programmes start at 7.00am",
-      "description": null,
       "start": 1782086280,
       "stop": 1782102599,
       "icon": null,
@@ -38752,7 +38653,7 @@
       "channel": "CBBC.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 0.0
+      "episode": 59.0
     },
     {
       "title": "New: Hacker's Ruff Guide to the World Cup",
@@ -40285,17 +40186,6 @@
     }
   ],
   "CBeebies.uk": [
-    {
-      "title": "..programmes start at 6.00am",
-      "description": null,
-      "start": 1782064680,
-      "stop": 1782086280,
-      "icon": null,
-      "channel": "CBeebies.uk",
-      "premiere": false,
-      "season": null,
-      "episode": null
-    },
     {
       "title": "..programmes start at 6.00am",
       "description": null,
@@ -42775,7 +42665,7 @@
       "title": "Bluey",
       "description": "Dunny. Mum bans the girls from saying 'dunny', so they try and trick her into saying it instead. [S,AD] [HD]",
       "start": 1782315900,
-      "stop": 1782316500,
+      "stop": 1782316200,
       "icon": "https://images.metadata.sky.com/pd-image/cfe9833f-c19f-4a0b-828f-ae6c33c4eb31/cover",
       "channel": "CBeebies.uk",
       "premiere": false,
@@ -42785,7 +42675,7 @@
     {
       "title": "Zog",
       "description": "Zog's Taxi Service. Flying the gnomes back and forth, Zog gets distracted from his doctor duties. [S,AD] [HD] Followed by Hey Duggee: Top of the Pups.",
-      "start": 1782316500,
+      "start": 1782316200,
       "stop": 1782317100,
       "icon": "https://images.metadata.sky.com/pd-image/86959864-54e6-4427-9c0b-14805714edb3/cover",
       "channel": "CBeebies.uk",
@@ -43152,11 +43042,11 @@
       "description": "In Suffolk, Henry Cole and Simon O'Brien meet pals John and Jane, who have been collecting and swapping items for many years, and it's 'safe' to say they find something special.",
       "start": 1782128400,
       "stop": 1782130200,
-      "icon": "https://images.metadata.sky.com/pd-image/a3346bc8-063d-4209-9a1e-c7c349003aa1/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/072d2887-08be-4459-a996-b08652894347/cover",
       "channel": "Channel4.uk",
       "premiere": false,
-      "season": null,
-      "episode": null
+      "season": 6.0,
+      "episode": 6.0
     },
     {
       "title": "Help! We Bought a Village",
@@ -43226,14 +43116,14 @@
     },
     {
       "title": "Prime Minister Resigns: C4 News...",
-      "description": "...Special: As Sir Keir Starmer resigns as prime minister, a special edition of Channel 4 News.",
+      "description": "...Special: In Downing Street as Keir Starmer resigns as Labour leader. Andy Burnham says he'll stand to replace him. What's Starmer's legacy? What will a Burnham premiership look like?",
       "start": 1782151200,
       "stop": 1782154800,
       "icon": "https://images.metadata.sky.com/pd-image/708bc912-f5e8-47ad-8aca-8826a2121dd8/cover",
       "channel": "Channel4.uk",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 0.0
     },
     {
       "title": "New: Dover 24/7: Britain's...",
@@ -44243,11 +44133,11 @@
       "description": "In Suffolk, Henry Cole and Simon O'Brien meet pals John and Jane, who have been collecting and swapping items for many years, and it's 'safe' to say they find something special.",
       "start": 1782132000,
       "stop": 1782133800,
-      "icon": "https://images.metadata.sky.com/pd-image/a3346bc8-063d-4209-9a1e-c7c349003aa1/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/072d2887-08be-4459-a996-b08652894347/cover",
       "channel": "Channel4Plus1.uk",
       "premiere": false,
-      "season": null,
-      "episode": null
+      "season": 6.0,
+      "episode": 6.0
     },
     {
       "title": "Help! We Bought a Village",
@@ -44317,14 +44207,14 @@
     },
     {
       "title": "Prime Minister Resigns: C4 News...",
-      "description": "...Special: As Sir Keir Starmer resigns as prime minister, a special edition of Channel 4 News.",
+      "description": "...Special: In Downing Street as Keir Starmer resigns as Labour leader. Andy Burnham says he'll stand to replace him. What's Starmer's legacy? What will a Burnham premiership look like?",
       "start": 1782154800,
       "stop": 1782158400,
       "icon": "https://images.metadata.sky.com/pd-image/708bc912-f5e8-47ad-8aca-8826a2121dd8/cover",
       "channel": "Channel4Plus1.uk",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 0.0
     },
     {
       "title": "New: Dover 24/7: Britain's...",
@@ -45529,7 +45419,7 @@
     },
     {
       "title": "PM Quits: A 5 News Special",
-      "description": "Join Dan Walker and the team for the news that matters to you.",
+      "description": "The nation reels as another PM is gone. But what next for Britain? Dan walker cuts through the chaos.",
       "start": 1782147600,
       "stop": 1782151200,
       "icon": "https://images.metadata.sky.com/pd-image/54920e9c-9bcd-40d9-866a-59d9ef5b34f5/cover",
@@ -45682,26 +45572,37 @@
       "episode": 5.0
     },
     {
-      "title": "**Visually Signed**The Highland Vet",
-      "description": "Observational documentary series following vets in Thurso and Wick. Gregor the boar needs a precautionary procedure on his tusks.",
-      "start": 1782189300,
-      "stop": 1782192360,
-      "icon": "https://images.metadata.sky.com/pd-image/3dbfbcdf-f0b7-48a0-a072-33c6d3c2fba8/cover",
-      "channel": "Channel5Plus1.uk",
-      "premiere": false,
-      "season": 2.0,
-      "episode": 11.0
-    },
-    {
       "title": "This is Channel 5 +1",
       "description": "This is Channel 5 +1",
-      "start": 1782192360,
-      "stop": 1782192900,
-      "icon": "https://images.metadata.sky.com/pd-image/58d97305-ed1b-4844-be0a-86281d0ee41c/cover",
+      "start": 1782189300,
+      "stop": 1782190800,
+      "icon": "https://images.metadata.sky.com/pd-image/614a0a52-dfcd-4470-90b6-d63a29f3891e/cover",
       "channel": "Channel5Plus1.uk",
       "premiere": false,
       "season": null,
       "episode": null
+    },
+    {
+      "title": "This is Channel 5 +1",
+      "description": "This is Channel 5 +1",
+      "start": 1782190800,
+      "stop": 1782192300,
+      "icon": "https://images.metadata.sky.com/pd-image/d35890a5-4885-4a6b-a30d-d0e09ced8129/cover",
+      "channel": "Channel5Plus1.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "Entertainment News on 5",
+      "description": "A daily round-up of showbiz news and gossip from around the world, focusing on celebrities, movies, music and entertainment.",
+      "start": 1782192300,
+      "stop": 1782192900,
+      "icon": "https://images.metadata.sky.com/pd-image/bfc3d9a4-b25b-486f-a274-c42a7e45ed73/cover",
+      "channel": "Channel5Plus1.uk",
+      "premiere": false,
+      "season": null,
+      "episode": 0.0
     },
     {
       "title": "**Visually Signed** Milo",
@@ -45861,7 +45762,7 @@
       "title": "Peppa Pig",
       "description": "Peppa's family is staying at Cousin Chloe's house. It's been a long day and everyone is sleepy. But baby Alexander keeps everyone awake with his crying! (S4 Ep23)",
       "start": 1782200100,
-      "stop": 1782200400,
+      "stop": 1782200700,
       "icon": "https://images.metadata.sky.com/pd-image/f7f46977-91d0-4bcd-9a46-7aa11dce1447/cover",
       "channel": "Channel5Plus1.uk",
       "premiere": false,
@@ -45871,7 +45772,7 @@
     {
       "title": "Tim Rex in Space",
       "description": "Kai is super excited to ride the Nebulator, but Tim isn't so sure. (S1 Ep17)",
-      "start": 1782200400,
+      "start": 1782200700,
       "stop": 1782201300,
       "icon": "https://images.metadata.sky.com/pd-image/e0e746ed-95e4-4222-9a23-d46ce9cd9fb4/cover",
       "channel": "Channel5Plus1.uk",
@@ -46199,26 +46100,26 @@
       "episode": 8.0
     },
     {
+      "title": "**Visually Signed**The Highland Vet",
+      "description": "Observational documentary series following vets in Thurso and Wick. Vet Ken must examine bulls Peter and Paul on a family-run farm that breeds pedigrees.",
+      "start": 1782275700,
+      "stop": 1782278760,
+      "icon": "https://images.metadata.sky.com/pd-image/ad3b28d3-c747-49a5-b3df-fa8b4d1d0f5a/cover",
+      "channel": "Channel5Plus1.uk",
+      "premiere": false,
+      "season": 2.0,
+      "episode": 12.0
+    },
+    {
       "title": "This is Channel 5 +1",
       "description": "This is Channel 5 +1",
-      "start": 1782275700,
-      "stop": 1782277200,
-      "icon": "https://images.metadata.sky.com/pd-image/c8837891-3994-4082-a43d-735e23dae142/cover",
+      "start": 1782278760,
+      "stop": 1782279300,
+      "icon": "https://images.metadata.sky.com/pd-image/4511033f-3c7f-4292-bf75-72a64fb00228/cover",
       "channel": "Channel5Plus1.uk",
       "premiere": false,
       "season": null,
       "episode": null
-    },
-    {
-      "title": "Entertainment News on 5",
-      "description": "A daily round-up of showbiz news and gossip from around the world, focusing on celebrities, movies, music and entertainment.",
-      "start": 1782278700,
-      "stop": 1782279300,
-      "icon": "https://images.metadata.sky.com/pd-image/441f08a4-2242-436d-ac41-efb6ee7d2d53/cover",
-      "channel": "Channel5Plus1.uk",
-      "premiere": false,
-      "season": null,
-      "episode": 0.0
     },
     {
       "title": "**Visually Signed** Milo",
