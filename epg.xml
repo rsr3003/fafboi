@@ -4345,11 +4345,6 @@
     <episode-num system="xmltv_ns">25.13.0</episode-num>
     <episode-num system="onscreen">S26E14</episode-num>
   </programme>
-  <programme channel="tnt2" start="20260627134500 +0000" stop="20260627220000 +0000">
-    <title lang="en">Live 1st Test: WI v SL - Day Three</title>
-    <desc lang="en">Day three of the first Test between West Indies and Sri Lanka.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/8d3a0522-0d39-47c3-95b8-7f6f8ec18f08/cover"/>
-  </programme>
   <programme channel="tnt2" start="20260627220000 +0000" stop="20260627230000 +0000">
     <title lang="en">Ireland v India - 1st T20</title>
     <desc lang="en">World champions India visit the Stormont Cricket Ground in Belfast for the first of two T20s against Ireland. Can the hosts pull off a historic win?</desc>
@@ -4843,12 +4838,12 @@
     <desc lang="en">Action from the EE Disability FA Cup and the Powerchair final between Leeds PFC and Teesside PFC at St. George's Park National Football Centre.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4d37fd86-68b2-4225-992b-74e6a1be39fd/cover"/>
   </programme>
-  <programme channel="tnt3" start="20260628124500 +0000" stop="20260628154500 +0000">
+  <programme channel="tnt3" start="20260628124500 +0000" stop="20260628161500 +0000">
     <title lang="en">Live: The EE Disability FA Cup</title>
     <desc lang="en">Action from the EE Disability FA Cup and the Deaf final between Barnet Deaf FC and St. John's Deaf FC at St. George's Park National Football Centre.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1399efc1-be6c-4818-8768-5d1c8640bcf2/cover"/>
   </programme>
-  <programme channel="tnt3" start="20260628154500 +0000" stop="20260628164500 +0000">
+  <programme channel="tnt3" start="20260628161500 +0000" stop="20260628164500 +0000">
     <title lang="en">Sign Up - Into Football</title>
     <desc lang="en">Damaris Cooke and Rolf Choutan go behind the scenes at Premier League clubs. Watch our favourite interviews and moments from last season, all featuring BSL and subtitles.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/690f4a79-d308-4ae3-980f-2e50223da5ce/cover"/>
@@ -10609,9 +10604,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/5326ca4d-ea69-46f9-b392-9138cedf035b/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260628153000 +0000" stop="20260628160000 +0000">
-    <title lang="en">Peter Murrell: The Man with the Money</title>
-    <desc lang="en">A paper trail of lies conceals the spending by a top political operator on luxury goods.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b3a67558-a028-46a2-b093-06577cc75c67/cover"/>
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6b1b01a6-7f58-45b9-b1e6-eae1ecc47807/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260628160000 +0000" stop="20260628170000 +0000">
     <title lang="en">BBC News</title>
@@ -17061,12 +17056,12 @@
     <episode-num system="xmltv_ns">2025.0.0</episode-num>
     <episode-num system="onscreen">S2026E1</episode-num>
   </programme>
-  <programme channel="BBCRedButton1.uk" start="20260628134500 +0000" stop="20260628161500 +0000">
+  <programme channel="BBCRedButton1.uk" start="20260628134500 +0000" stop="20260628160500 +0000">
     <title lang="en">Premiership Women's Rugby...</title>
     <desc lang="en">...Final: Saracens v Trailfinders. Coverage of the Premiership Women's Rugby final between Saracens and Trailfinders, live from Twickenham Stoop Stadium.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/81a3fe06-b976-4eb7-af4f-234beb707704/cover"/>
   </programme>
-  <programme channel="BBCRedButton1.uk" start="20260628161500 +0000" stop="20260628180000 +0000">
+  <programme channel="BBCRedButton1.uk" start="20260628160500 +0000" stop="20260628180000 +0000">
     <title lang="en">Springwatch 2026: Northern Ireland - Wild Stories</title>
     <desc lang="en">Enjoy the very best of spring 2026 in Northern Ireland as nature does the talking.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/23973fd0-e1ea-4d0e-bd37-b6b94fb9776a/cover"/>
@@ -32764,7 +32759,7 @@
   </programme>
   <programme channel="ITV1CentralE.uk" start="20260628181500 +0000" stop="20260628213500 +0000">
     <title lang="en">FIFA WC2026: South Africa v Canada</title>
-    <desc lang="en">The round of 32 at the 2026 FIFA World Cup gets underway with South Africa against Canada at Los Angeles Stadium.</desc>
+    <desc lang="en">Laura Woods presents live FIFA World Cup action as South Africa face co-hosts Canada in the first Round of 32 match.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/95b750c1-96b4-459b-9df1-eca15f1abcf7/cover"/>
   </programme>
   <programme channel="ITV1CentralE.uk" start="20260628213500 +0000" stop="20260628215500 +0000">
@@ -32865,14 +32860,29 @@
     <episode-num system="onscreen">S13E18</episode-num>
   </programme>
   <programme channel="ITV1CentralE.uk" start="20260629161500 +0000" stop="20260629193500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+    <title lang="en">FIFA WC2026: Brazil v Japan</title>
+    <desc lang="en">Live coverage of the FIFA World Cup 2026 Round of 32 match between Brazil and Japan at Houston Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3b33f6be-d9bd-4ea8-b363-db28c08f161e/cover"/>
   </programme>
-  <programme channel="ITV1CentralE.uk" start="20260629193500 +0000" stop="20260629230500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+  <programme channel="ITV1CentralE.uk" start="20260629193500 +0000" stop="20260629213000 +0000">
+    <title lang="en">Vera</title>
+    <desc lang="en">Tender: Crime drama. Vera is on track to uncover an intriguing yet puzzling case when the body of a young girl is discovered at the side of an isolated railway crossing.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/da5349da-b2ae-46e0-bda6-19133f65b778/cover"/>
+  </programme>
+  <programme channel="ITV1CentralE.uk" start="20260629213000 +0000" stop="20260629215500 +0000">
+    <title lang="en">ITV News at Ten</title>
+    <desc lang="en">ITV News provides a fresh perspective on the major stories of the day with national and international news with reports and analysis from ITV's Correspondents.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/53c1cc14-dca2-48db-b167-c0c61e356e8d/cover"/>
+  </programme>
+  <programme channel="ITV1CentralE.uk" start="20260629215500 +0000" stop="20260629220500 +0000">
+    <title lang="en">ITV News Central</title>
+    <desc lang="en">The latest news and weather from the Midlands.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/49ce7563-0a5f-4e53-81c0-47288f2d1b60/cover"/>
+  </programme>
+  <programme channel="ITV1CentralE.uk" start="20260629220500 +0000" stop="20260629230500 +0000">
+    <title lang="en">Unbelievable Moments: Caught on Camera</title>
+    <desc lang="en">Documentary series. A kayaker gets trapped behind a waterfall in Mexico, and world champion cyclist Gee Atherton recalls a fall from a mountain in Wales.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7d03ea12-7da8-4b86-ba37-63b7fc572c34/cover"/>
   </programme>
   <programme channel="ITV1CentralE.uk" start="20260629230500 +0000" stop="20260629233500 +0000">
     <title lang="en">G'wed</title>
@@ -32883,7 +32893,7 @@
   </programme>
   <programme channel="ITV1CentralE.uk" start="20260629233500 +0000" stop="20260630000000 +0000">
     <title lang="en">It'll Be Alright on the Night</title>
-    <desc lang="en">Tom Allen celebrates backstage bloopers and live blunders featuring our favourite TV shows and stars - expect nightmares for Ant and Dec, Bradley Walsh, Jill Scott and many more.</desc>
+    <desc lang="en">Tom Allen celebrates funny cock-ups from the world of entertainment featuring Idris Elba, Paul Rudd, Ant and Dec, Susanna Reid, Alan Carr and many more of our favourite stars.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/015aa2a3-188a-48e8-8a4c-2089a30c4b57/cover"/>
     <episode-num system="xmltv_ns">36.3.0</episode-num>
     <episode-num system="onscreen">S37E4</episode-num>
@@ -32896,9 +32906,9 @@
     <episode-num system="onscreen">S5E243</episode-num>
   </programme>
   <programme channel="ITV1CentralE.uk" start="20260630001500 +0000" stop="20260630033500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+    <title lang="en">FIFA WC2026: Netherlands v Morocco</title>
+    <desc lang="en">Live coverage of the FIFA World Cup 2026 Round of 32 match between Netherlands and Morocco at Monterrey Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1b372b59-17b9-4f72-a466-1bb42bdbfcf8/cover"/>
   </programme>
   <programme channel="ITV1CentralE.uk" start="20260630033500 +0000" stop="20260630040000 +0000">
     <title lang="en">Celebrity Lingo</title>
@@ -33156,7 +33166,7 @@
   </programme>
   <programme channel="ITV1CentralW.uk" start="20260628181500 +0000" stop="20260628213500 +0000">
     <title lang="en">FIFA WC2026: South Africa v Canada</title>
-    <desc lang="en">The round of 32 at the 2026 FIFA World Cup gets underway with South Africa against Canada at Los Angeles Stadium.</desc>
+    <desc lang="en">Laura Woods presents live FIFA World Cup action as South Africa face co-hosts Canada in the first Round of 32 match.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5dd24610-1f25-45e9-ae68-b7d2abafcf04/cover"/>
   </programme>
   <programme channel="ITV1CentralW.uk" start="20260628213500 +0000" stop="20260628215500 +0000">
@@ -33257,14 +33267,29 @@
     <episode-num system="onscreen">S13E18</episode-num>
   </programme>
   <programme channel="ITV1CentralW.uk" start="20260629161500 +0000" stop="20260629193500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+    <title lang="en">FIFA WC2026: Brazil v Japan</title>
+    <desc lang="en">Live coverage of the FIFA World Cup 2026 Round of 32 match between Brazil and Japan at Houston Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3b33f6be-d9bd-4ea8-b363-db28c08f161e/cover"/>
   </programme>
-  <programme channel="ITV1CentralW.uk" start="20260629193500 +0000" stop="20260629230500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+  <programme channel="ITV1CentralW.uk" start="20260629193500 +0000" stop="20260629213000 +0000">
+    <title lang="en">Vera</title>
+    <desc lang="en">Tender: Crime drama. Vera is on track to uncover an intriguing yet puzzling case when the body of a young girl is discovered at the side of an isolated railway crossing.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/be7134e9-33ec-46ab-818b-2912b2c6c7cd/cover"/>
+  </programme>
+  <programme channel="ITV1CentralW.uk" start="20260629213000 +0000" stop="20260629215500 +0000">
+    <title lang="en">ITV News at Ten</title>
+    <desc lang="en">ITV News provides a fresh perspective on the major stories of the day with national and international news with reports and analysis from ITV's Correspondents.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a88df460-75d9-4f6d-9f28-a3329021e13b/cover"/>
+  </programme>
+  <programme channel="ITV1CentralW.uk" start="20260629215500 +0000" stop="20260629220500 +0000">
+    <title lang="en">ITV News Central</title>
+    <desc lang="en">The latest news and weather from the Midlands.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/174ea289-21bf-4ed9-b7f3-92132d88e94b/cover"/>
+  </programme>
+  <programme channel="ITV1CentralW.uk" start="20260629220500 +0000" stop="20260629230500 +0000">
+    <title lang="en">Unbelievable Moments: Caught on Camera</title>
+    <desc lang="en">Documentary series. A kayaker gets trapped behind a waterfall in Mexico, and world champion cyclist Gee Atherton recalls a fall from a mountain in Wales.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/e32c7fd3-1750-45b0-a22a-32d4a65cef23/cover"/>
   </programme>
   <programme channel="ITV1CentralW.uk" start="20260629230500 +0000" stop="20260629233500 +0000">
     <title lang="en">G'wed</title>
@@ -33275,7 +33300,7 @@
   </programme>
   <programme channel="ITV1CentralW.uk" start="20260629233500 +0000" stop="20260630000000 +0000">
     <title lang="en">It'll Be Alright on the Night</title>
-    <desc lang="en">Tom Allen celebrates backstage bloopers and live blunders featuring our favourite TV shows and stars - expect nightmares for Ant and Dec, Bradley Walsh, Jill Scott and many more.</desc>
+    <desc lang="en">Tom Allen celebrates funny cock-ups from the world of entertainment featuring Idris Elba, Paul Rudd, Ant and Dec, Susanna Reid, Alan Carr and many more of our favourite stars.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/015aa2a3-188a-48e8-8a4c-2089a30c4b57/cover"/>
     <episode-num system="xmltv_ns">36.3.0</episode-num>
     <episode-num system="onscreen">S37E4</episode-num>
@@ -33288,9 +33313,9 @@
     <episode-num system="onscreen">S5E243</episode-num>
   </programme>
   <programme channel="ITV1CentralW.uk" start="20260630001500 +0000" stop="20260630033500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+    <title lang="en">FIFA WC2026: Netherlands v Morocco</title>
+    <desc lang="en">Live coverage of the FIFA World Cup 2026 Round of 32 match between Netherlands and Morocco at Monterrey Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1b372b59-17b9-4f72-a466-1bb42bdbfcf8/cover"/>
   </programme>
   <programme channel="ITV1CentralW.uk" start="20260630033500 +0000" stop="20260630040000 +0000">
     <title lang="en">Celebrity Lingo</title>
@@ -33548,7 +33573,7 @@
   </programme>
   <programme channel="ITV1London.uk" start="20260628181500 +0000" stop="20260628213500 +0000">
     <title lang="en">FIFA WC2026: South Africa v Canada</title>
-    <desc lang="en">The round of 32 at the 2026 FIFA World Cup gets underway with South Africa against Canada at Los Angeles Stadium.</desc>
+    <desc lang="en">Laura Woods presents live FIFA World Cup action as South Africa face co-hosts Canada in the first Round of 32 match.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a15025da-51d7-46af-b262-949ef29e8bef/cover"/>
   </programme>
   <programme channel="ITV1London.uk" start="20260628213500 +0000" stop="20260628215500 +0000">
@@ -33649,14 +33674,29 @@
     <episode-num system="onscreen">S13E18</episode-num>
   </programme>
   <programme channel="ITV1London.uk" start="20260629161500 +0000" stop="20260629193500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+    <title lang="en">FIFA WC2026: Brazil v Japan</title>
+    <desc lang="en">Live coverage of the FIFA World Cup 2026 Round of 32 match between Brazil and Japan at Houston Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3b33f6be-d9bd-4ea8-b363-db28c08f161e/cover"/>
   </programme>
-  <programme channel="ITV1London.uk" start="20260629193500 +0000" stop="20260629230500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+  <programme channel="ITV1London.uk" start="20260629193500 +0000" stop="20260629213000 +0000">
+    <title lang="en">Vera</title>
+    <desc lang="en">Tender: Crime drama. Vera is on track to uncover an intriguing yet puzzling case when the body of a young girl is discovered at the side of an isolated railway crossing.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/5dd3ad83-9db9-44da-b906-4e250e4581ec/cover"/>
+  </programme>
+  <programme channel="ITV1London.uk" start="20260629213000 +0000" stop="20260629215500 +0000">
+    <title lang="en">ITV News at Ten</title>
+    <desc lang="en">ITV News provides a fresh perspective on the major stories of the day with national and international news with reports and analysis from ITV's Correspondents.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3cf1b24e-c657-4846-b042-9ce657748ab8/cover"/>
+  </programme>
+  <programme channel="ITV1London.uk" start="20260629215500 +0000" stop="20260629220500 +0000">
+    <title lang="en">ITV News London</title>
+    <desc lang="en">The latest news and weather from London and the South East.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6972f396-17d1-473c-bdf5-999ba2cd8172/cover"/>
+  </programme>
+  <programme channel="ITV1London.uk" start="20260629220500 +0000" stop="20260629230500 +0000">
+    <title lang="en">Unbelievable Moments: Caught on Camera</title>
+    <desc lang="en">Documentary series. A kayaker gets trapped behind a waterfall in Mexico, and world champion cyclist Gee Atherton recalls a fall from a mountain in Wales.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/75480320-c73a-4a9f-a292-f45605d06741/cover"/>
   </programme>
   <programme channel="ITV1London.uk" start="20260629230500 +0000" stop="20260629233500 +0000">
     <title lang="en">G'wed</title>
@@ -33667,7 +33707,7 @@
   </programme>
   <programme channel="ITV1London.uk" start="20260629233500 +0000" stop="20260630000000 +0000">
     <title lang="en">It'll Be Alright on the Night</title>
-    <desc lang="en">Tom Allen celebrates backstage bloopers and live blunders featuring our favourite TV shows and stars - expect nightmares for Ant and Dec, Bradley Walsh, Jill Scott and many more.</desc>
+    <desc lang="en">Tom Allen celebrates funny cock-ups from the world of entertainment featuring Idris Elba, Paul Rudd, Ant and Dec, Susanna Reid, Alan Carr and many more of our favourite stars.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/015aa2a3-188a-48e8-8a4c-2089a30c4b57/cover"/>
     <episode-num system="xmltv_ns">36.3.0</episode-num>
     <episode-num system="onscreen">S37E4</episode-num>
@@ -33680,9 +33720,9 @@
     <episode-num system="onscreen">S5E243</episode-num>
   </programme>
   <programme channel="ITV1London.uk" start="20260630001500 +0000" stop="20260630033500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+    <title lang="en">FIFA WC2026: Netherlands v Morocco</title>
+    <desc lang="en">Live coverage of the FIFA World Cup 2026 Round of 32 match between Netherlands and Morocco at Monterrey Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1b372b59-17b9-4f72-a466-1bb42bdbfcf8/cover"/>
   </programme>
   <programme channel="ITV1London.uk" start="20260630033500 +0000" stop="20260630040000 +0000">
     <title lang="en">Celebrity Lingo</title>
@@ -33940,7 +33980,7 @@
   </programme>
   <programme channel="ITV1MeridianE.uk" start="20260628181500 +0000" stop="20260628213500 +0000">
     <title lang="en">FIFA WC2026: South Africa v Canada</title>
-    <desc lang="en">The round of 32 at the 2026 FIFA World Cup gets underway with South Africa against Canada at Los Angeles Stadium.</desc>
+    <desc lang="en">Laura Woods presents live FIFA World Cup action as South Africa face co-hosts Canada in the first Round of 32 match.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/68761ee3-ebf7-495d-8311-f7050aabfe98/cover"/>
   </programme>
   <programme channel="ITV1MeridianE.uk" start="20260628213500 +0000" stop="20260628215500 +0000">
@@ -34041,14 +34081,29 @@
     <episode-num system="onscreen">S13E18</episode-num>
   </programme>
   <programme channel="ITV1MeridianE.uk" start="20260629161500 +0000" stop="20260629193500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+    <title lang="en">FIFA WC2026: Brazil v Japan</title>
+    <desc lang="en">Live coverage of the FIFA World Cup 2026 Round of 32 match between Brazil and Japan at Houston Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3b33f6be-d9bd-4ea8-b363-db28c08f161e/cover"/>
   </programme>
-  <programme channel="ITV1MeridianE.uk" start="20260629193500 +0000" stop="20260629230500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+  <programme channel="ITV1MeridianE.uk" start="20260629193500 +0000" stop="20260629213000 +0000">
+    <title lang="en">Vera</title>
+    <desc lang="en">Tender: Crime drama. Vera is on track to uncover an intriguing yet puzzling case when the body of a young girl is discovered at the side of an isolated railway crossing.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/c0ef6339-6a01-4407-bcc6-01218e32d00a/cover"/>
+  </programme>
+  <programme channel="ITV1MeridianE.uk" start="20260629213000 +0000" stop="20260629215500 +0000">
+    <title lang="en">ITV News at Ten</title>
+    <desc lang="en">ITV News provides a fresh perspective on the major stories of the day with national and international news with reports and analysis from ITV's Correspondents.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d091b09e-74af-4f64-a3f2-d374629da54d/cover"/>
+  </programme>
+  <programme channel="ITV1MeridianE.uk" start="20260629215500 +0000" stop="20260629220500 +0000">
+    <title lang="en">ITV News Meridian</title>
+    <desc lang="en">A round-up of all the latest news from across the region including a Meridian Weather forecast.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/87790d76-7631-4c26-a338-0e3b43674246/cover"/>
+  </programme>
+  <programme channel="ITV1MeridianE.uk" start="20260629220500 +0000" stop="20260629230500 +0000">
+    <title lang="en">Unbelievable Moments: Caught on Camera</title>
+    <desc lang="en">Documentary series. A kayaker gets trapped behind a waterfall in Mexico, and world champion cyclist Gee Atherton recalls a fall from a mountain in Wales.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a832788e-88de-4de3-8cf5-973b2cd56e74/cover"/>
   </programme>
   <programme channel="ITV1MeridianE.uk" start="20260629230500 +0000" stop="20260629233500 +0000">
     <title lang="en">G'wed</title>
@@ -34059,7 +34114,7 @@
   </programme>
   <programme channel="ITV1MeridianE.uk" start="20260629233500 +0000" stop="20260630000000 +0000">
     <title lang="en">It'll Be Alright on the Night</title>
-    <desc lang="en">Tom Allen celebrates backstage bloopers and live blunders featuring our favourite TV shows and stars - expect nightmares for Ant and Dec, Bradley Walsh, Jill Scott and many more.</desc>
+    <desc lang="en">Tom Allen celebrates funny cock-ups from the world of entertainment featuring Idris Elba, Paul Rudd, Ant and Dec, Susanna Reid, Alan Carr and many more of our favourite stars.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/015aa2a3-188a-48e8-8a4c-2089a30c4b57/cover"/>
     <episode-num system="xmltv_ns">36.3.0</episode-num>
     <episode-num system="onscreen">S37E4</episode-num>
@@ -34072,9 +34127,9 @@
     <episode-num system="onscreen">S5E243</episode-num>
   </programme>
   <programme channel="ITV1MeridianE.uk" start="20260630001500 +0000" stop="20260630033500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+    <title lang="en">FIFA WC2026: Netherlands v Morocco</title>
+    <desc lang="en">Live coverage of the FIFA World Cup 2026 Round of 32 match between Netherlands and Morocco at Monterrey Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1b372b59-17b9-4f72-a466-1bb42bdbfcf8/cover"/>
   </programme>
   <programme channel="ITV1MeridianE.uk" start="20260630033500 +0000" stop="20260630040000 +0000">
     <title lang="en">Celebrity Lingo</title>
@@ -34332,7 +34387,7 @@
   </programme>
   <programme channel="ITV1MeridianN.uk" start="20260628181500 +0000" stop="20260628213500 +0000">
     <title lang="en">FIFA WC2026: South Africa v Canada</title>
-    <desc lang="en">The round of 32 at the 2026 FIFA World Cup gets underway with South Africa against Canada at Los Angeles Stadium.</desc>
+    <desc lang="en">Laura Woods presents live FIFA World Cup action as South Africa face co-hosts Canada in the first Round of 32 match.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/715e6f11-331e-425b-99d9-7fa732e61b25/cover"/>
   </programme>
   <programme channel="ITV1MeridianN.uk" start="20260628213500 +0000" stop="20260628215500 +0000">
@@ -34433,14 +34488,29 @@
     <episode-num system="onscreen">S13E18</episode-num>
   </programme>
   <programme channel="ITV1MeridianN.uk" start="20260629161500 +0000" stop="20260629193500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+    <title lang="en">FIFA WC2026: Brazil v Japan</title>
+    <desc lang="en">Live coverage of the FIFA World Cup 2026 Round of 32 match between Brazil and Japan at Houston Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3b33f6be-d9bd-4ea8-b363-db28c08f161e/cover"/>
   </programme>
-  <programme channel="ITV1MeridianN.uk" start="20260629193500 +0000" stop="20260629230500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+  <programme channel="ITV1MeridianN.uk" start="20260629193500 +0000" stop="20260629213000 +0000">
+    <title lang="en">Vera</title>
+    <desc lang="en">Tender: Crime drama. Vera is on track to uncover an intriguing yet puzzling case when the body of a young girl is discovered at the side of an isolated railway crossing.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6f93f948-8f57-42b9-b4f7-a68ab43b5c90/cover"/>
+  </programme>
+  <programme channel="ITV1MeridianN.uk" start="20260629213000 +0000" stop="20260629215500 +0000">
+    <title lang="en">ITV News at Ten</title>
+    <desc lang="en">ITV News provides a fresh perspective on the major stories of the day with national and international news with reports and analysis from ITV's Correspondents.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/849d0dc7-27fd-4db9-bc3c-9f3e929e1b0f/cover"/>
+  </programme>
+  <programme channel="ITV1MeridianN.uk" start="20260629215500 +0000" stop="20260629220500 +0000">
+    <title lang="en">ITV News Meridian</title>
+    <desc lang="en">A round-up of all the latest news from across the region including a Meridian Weather forecast.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/c810825f-14ff-4424-8123-519701eba2af/cover"/>
+  </programme>
+  <programme channel="ITV1MeridianN.uk" start="20260629220500 +0000" stop="20260629230500 +0000">
+    <title lang="en">Unbelievable Moments: Caught on Camera</title>
+    <desc lang="en">Documentary series. A kayaker gets trapped behind a waterfall in Mexico, and world champion cyclist Gee Atherton recalls a fall from a mountain in Wales.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a952c4cb-c53d-49f2-a140-b71ae81d2003/cover"/>
   </programme>
   <programme channel="ITV1MeridianN.uk" start="20260629230500 +0000" stop="20260629233500 +0000">
     <title lang="en">G'wed</title>
@@ -34451,7 +34521,7 @@
   </programme>
   <programme channel="ITV1MeridianN.uk" start="20260629233500 +0000" stop="20260630000000 +0000">
     <title lang="en">It'll Be Alright on the Night</title>
-    <desc lang="en">Tom Allen celebrates backstage bloopers and live blunders featuring our favourite TV shows and stars - expect nightmares for Ant and Dec, Bradley Walsh, Jill Scott and many more.</desc>
+    <desc lang="en">Tom Allen celebrates funny cock-ups from the world of entertainment featuring Idris Elba, Paul Rudd, Ant and Dec, Susanna Reid, Alan Carr and many more of our favourite stars.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/015aa2a3-188a-48e8-8a4c-2089a30c4b57/cover"/>
     <episode-num system="xmltv_ns">36.3.0</episode-num>
     <episode-num system="onscreen">S37E4</episode-num>
@@ -34464,9 +34534,9 @@
     <episode-num system="onscreen">S5E243</episode-num>
   </programme>
   <programme channel="ITV1MeridianN.uk" start="20260630001500 +0000" stop="20260630033500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+    <title lang="en">FIFA WC2026: Netherlands v Morocco</title>
+    <desc lang="en">Live coverage of the FIFA World Cup 2026 Round of 32 match between Netherlands and Morocco at Monterrey Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1b372b59-17b9-4f72-a466-1bb42bdbfcf8/cover"/>
   </programme>
   <programme channel="ITV1MeridianN.uk" start="20260630033500 +0000" stop="20260630040000 +0000">
     <title lang="en">Celebrity Lingo</title>
@@ -34724,7 +34794,7 @@
   </programme>
   <programme channel="ITV1MeridianS.uk" start="20260628181500 +0000" stop="20260628213500 +0000">
     <title lang="en">FIFA WC2026: South Africa v Canada</title>
-    <desc lang="en">The round of 32 at the 2026 FIFA World Cup gets underway with South Africa against Canada at Los Angeles Stadium.</desc>
+    <desc lang="en">Laura Woods presents live FIFA World Cup action as South Africa face co-hosts Canada in the first Round of 32 match.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5cf35a06-3b35-4ee2-bb7c-ebdf66215636/cover"/>
   </programme>
   <programme channel="ITV1MeridianS.uk" start="20260628213500 +0000" stop="20260628215500 +0000">
@@ -34825,14 +34895,29 @@
     <episode-num system="onscreen">S13E18</episode-num>
   </programme>
   <programme channel="ITV1MeridianS.uk" start="20260629161500 +0000" stop="20260629193500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+    <title lang="en">FIFA WC2026: Brazil v Japan</title>
+    <desc lang="en">Live coverage of the FIFA World Cup 2026 Round of 32 match between Brazil and Japan at Houston Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3b33f6be-d9bd-4ea8-b363-db28c08f161e/cover"/>
   </programme>
-  <programme channel="ITV1MeridianS.uk" start="20260629193500 +0000" stop="20260629230500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+  <programme channel="ITV1MeridianS.uk" start="20260629193500 +0000" stop="20260629213000 +0000">
+    <title lang="en">Vera</title>
+    <desc lang="en">Tender: Crime drama. Vera is on track to uncover an intriguing yet puzzling case when the body of a young girl is discovered at the side of an isolated railway crossing.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/44a8932c-04bc-44ca-be5c-776893761265/cover"/>
+  </programme>
+  <programme channel="ITV1MeridianS.uk" start="20260629213000 +0000" stop="20260629215500 +0000">
+    <title lang="en">ITV News at Ten</title>
+    <desc lang="en">ITV News provides a fresh perspective on the major stories of the day with national and international news with reports and analysis from ITV's Correspondents.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/58fd98f7-2406-4608-8578-dce2ec81c2a6/cover"/>
+  </programme>
+  <programme channel="ITV1MeridianS.uk" start="20260629215500 +0000" stop="20260629220500 +0000">
+    <title lang="en">ITV News Meridian</title>
+    <desc lang="en">A round-up of all the latest news from across the region including a Meridian Weather forecast.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/0aa98e02-7a4c-4546-b7b1-fcf1202c782f/cover"/>
+  </programme>
+  <programme channel="ITV1MeridianS.uk" start="20260629220500 +0000" stop="20260629230500 +0000">
+    <title lang="en">Unbelievable Moments: Caught on Camera</title>
+    <desc lang="en">Documentary series. A kayaker gets trapped behind a waterfall in Mexico, and world champion cyclist Gee Atherton recalls a fall from a mountain in Wales.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/11a4100b-4519-4694-958b-ced304b88ea8/cover"/>
   </programme>
   <programme channel="ITV1MeridianS.uk" start="20260629230500 +0000" stop="20260629233500 +0000">
     <title lang="en">G'wed</title>
@@ -34843,7 +34928,7 @@
   </programme>
   <programme channel="ITV1MeridianS.uk" start="20260629233500 +0000" stop="20260630000000 +0000">
     <title lang="en">It'll Be Alright on the Night</title>
-    <desc lang="en">Tom Allen celebrates backstage bloopers and live blunders featuring our favourite TV shows and stars - expect nightmares for Ant and Dec, Bradley Walsh, Jill Scott and many more.</desc>
+    <desc lang="en">Tom Allen celebrates funny cock-ups from the world of entertainment featuring Idris Elba, Paul Rudd, Ant and Dec, Susanna Reid, Alan Carr and many more of our favourite stars.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/015aa2a3-188a-48e8-8a4c-2089a30c4b57/cover"/>
     <episode-num system="xmltv_ns">36.3.0</episode-num>
     <episode-num system="onscreen">S37E4</episode-num>
@@ -34856,9 +34941,9 @@
     <episode-num system="onscreen">S5E243</episode-num>
   </programme>
   <programme channel="ITV1MeridianS.uk" start="20260630001500 +0000" stop="20260630033500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+    <title lang="en">FIFA WC2026: Netherlands v Morocco</title>
+    <desc lang="en">Live coverage of the FIFA World Cup 2026 Round of 32 match between Netherlands and Morocco at Monterrey Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1b372b59-17b9-4f72-a466-1bb42bdbfcf8/cover"/>
   </programme>
   <programme channel="ITV1MeridianS.uk" start="20260630033500 +0000" stop="20260630040000 +0000">
     <title lang="en">Celebrity Lingo</title>
@@ -35116,7 +35201,7 @@
   </programme>
   <programme channel="ITV1North.uk" start="20260628181500 +0000" stop="20260628213500 +0000">
     <title lang="en">FIFA WC2026: South Africa v Canada</title>
-    <desc lang="en">The round of 32 at the 2026 FIFA World Cup gets underway with South Africa against Canada at Los Angeles Stadium.</desc>
+    <desc lang="en">Laura Woods presents live FIFA World Cup action as South Africa face co-hosts Canada in the first Round of 32 match.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2f974b5d-f3e7-4ed5-8a55-514da8f5fa8f/cover"/>
   </programme>
   <programme channel="ITV1North.uk" start="20260628213500 +0000" stop="20260628215500 +0000">
@@ -35217,14 +35302,29 @@
     <episode-num system="onscreen">S13E18</episode-num>
   </programme>
   <programme channel="ITV1North.uk" start="20260629161500 +0000" stop="20260629193500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+    <title lang="en">FIFA WC2026: Brazil v Japan</title>
+    <desc lang="en">Live coverage of the FIFA World Cup 2026 Round of 32 match between Brazil and Japan at Houston Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3b33f6be-d9bd-4ea8-b363-db28c08f161e/cover"/>
   </programme>
-  <programme channel="ITV1North.uk" start="20260629193500 +0000" stop="20260629230500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+  <programme channel="ITV1North.uk" start="20260629193500 +0000" stop="20260629213000 +0000">
+    <title lang="en">Vera</title>
+    <desc lang="en">Tender: Crime drama. Vera is on track to uncover an intriguing yet puzzling case when the body of a young girl is discovered at the side of an isolated railway crossing.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/539e8beb-a422-4831-a9ea-deb8b27d78f2/cover"/>
+  </programme>
+  <programme channel="ITV1North.uk" start="20260629213000 +0000" stop="20260629215500 +0000">
+    <title lang="en">ITV News at Ten</title>
+    <desc lang="en">ITV News provides a fresh perspective on the major stories of the day with national and international news with reports and analysis from ITV's Correspondents.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/c5beb504-3177-4c7b-9c21-31076411577f/cover"/>
+  </programme>
+  <programme channel="ITV1North.uk" start="20260629215500 +0000" stop="20260629220500 +0000">
+    <title lang="en">ITV News Granada Reports</title>
+    <desc lang="en">The latest news and weather from around the North West.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3cde94b5-857b-4f0f-8e99-5d2b181a21df/cover"/>
+  </programme>
+  <programme channel="ITV1North.uk" start="20260629220500 +0000" stop="20260629230500 +0000">
+    <title lang="en">Unbelievable Moments: Caught on Camera</title>
+    <desc lang="en">Documentary series. A kayaker gets trapped behind a waterfall in Mexico, and world champion cyclist Gee Atherton recalls a fall from a mountain in Wales.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d378abe2-812c-4e4c-8376-0c5fd0e07341/cover"/>
   </programme>
   <programme channel="ITV1North.uk" start="20260629230500 +0000" stop="20260629233500 +0000">
     <title lang="en">G'wed</title>
@@ -35235,7 +35335,7 @@
   </programme>
   <programme channel="ITV1North.uk" start="20260629233500 +0000" stop="20260630000000 +0000">
     <title lang="en">It'll Be Alright on the Night</title>
-    <desc lang="en">Tom Allen celebrates backstage bloopers and live blunders featuring our favourite TV shows and stars - expect nightmares for Ant and Dec, Bradley Walsh, Jill Scott and many more.</desc>
+    <desc lang="en">Tom Allen celebrates funny cock-ups from the world of entertainment featuring Idris Elba, Paul Rudd, Ant and Dec, Susanna Reid, Alan Carr and many more of our favourite stars.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/015aa2a3-188a-48e8-8a4c-2089a30c4b57/cover"/>
     <episode-num system="xmltv_ns">36.3.0</episode-num>
     <episode-num system="onscreen">S37E4</episode-num>
@@ -35248,9 +35348,9 @@
     <episode-num system="onscreen">S5E243</episode-num>
   </programme>
   <programme channel="ITV1North.uk" start="20260630001500 +0000" stop="20260630033500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+    <title lang="en">FIFA WC2026: Netherlands v Morocco</title>
+    <desc lang="en">Live coverage of the FIFA World Cup 2026 Round of 32 match between Netherlands and Morocco at Monterrey Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1b372b59-17b9-4f72-a466-1bb42bdbfcf8/cover"/>
   </programme>
   <programme channel="ITV1North.uk" start="20260630033500 +0000" stop="20260630040000 +0000">
     <title lang="en">Celebrity Lingo</title>
@@ -35508,7 +35608,7 @@
   </programme>
   <programme channel="ITV1Plus1Granada.uk" start="20260628191500 +0000" stop="20260628223500 +0000">
     <title lang="en">FIFA WC2026: South Africa v Canada</title>
-    <desc lang="en">The round of 32 at the 2026 FIFA World Cup gets underway with South Africa against Canada at Los Angeles Stadium.</desc>
+    <desc lang="en">Laura Woods presents live FIFA World Cup action as South Africa face co-hosts Canada in the first Round of 32 match.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8d418101-3a76-4d18-862b-d553f43420ad/cover"/>
   </programme>
   <programme channel="ITV1Plus1Granada.uk" start="20260628223500 +0000" stop="20260628225500 +0000">
@@ -35609,14 +35709,29 @@
     <episode-num system="onscreen">S13E18</episode-num>
   </programme>
   <programme channel="ITV1Plus1Granada.uk" start="20260629171500 +0000" stop="20260629203500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+    <title lang="en">FIFA WC2026: Brazil v Japan</title>
+    <desc lang="en">Live coverage of the FIFA World Cup 2026 Round of 32 match between Brazil and Japan at Houston Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/0762a845-c741-47d4-9e2e-831bb0d07a16/cover"/>
   </programme>
-  <programme channel="ITV1Plus1Granada.uk" start="20260629203500 +0000" stop="20260630000500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+  <programme channel="ITV1Plus1Granada.uk" start="20260629203500 +0000" stop="20260629223000 +0000">
+    <title lang="en">Vera</title>
+    <desc lang="en">Tender: Crime drama. Vera is on track to uncover an intriguing yet puzzling case when the body of a young girl is discovered at the side of an isolated railway crossing.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/60550bc7-863d-415a-8ea6-7203f4384dfc/cover"/>
+  </programme>
+  <programme channel="ITV1Plus1Granada.uk" start="20260629223000 +0000" stop="20260629225500 +0000">
+    <title lang="en">ITV News at Ten</title>
+    <desc lang="en">ITV News provides a fresh perspective on the major stories of the day with national and international news with reports and analysis from ITV's Correspondents.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ca0d36fe-5005-4149-8f49-75472a6d57a1/cover"/>
+  </programme>
+  <programme channel="ITV1Plus1Granada.uk" start="20260629225500 +0000" stop="20260629230500 +0000">
+    <title lang="en">ITV News Granada Reports</title>
+    <desc lang="en">The latest news and weather from around the North West.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/05fc9a17-9b32-4bf5-b060-8373b6521306/cover"/>
+  </programme>
+  <programme channel="ITV1Plus1Granada.uk" start="20260629230500 +0000" stop="20260630000500 +0000">
+    <title lang="en">Unbelievable Moments: Caught on Camera</title>
+    <desc lang="en">Documentary series. A kayaker gets trapped behind a waterfall in Mexico, and world champion cyclist Gee Atherton recalls a fall from a mountain in Wales.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/65768975-6af1-4291-b825-07e7b3277e78/cover"/>
   </programme>
   <programme channel="ITV1Plus1Granada.uk" start="20260630000500 +0000" stop="20260630003500 +0000">
     <title lang="en">G'wed</title>
@@ -35627,7 +35742,7 @@
   </programme>
   <programme channel="ITV1Plus1Granada.uk" start="20260630003500 +0000" stop="20260630010000 +0000">
     <title lang="en">It'll Be Alright on the Night</title>
-    <desc lang="en">Tom Allen celebrates backstage bloopers and live blunders featuring our favourite TV shows and stars - expect nightmares for Ant and Dec, Bradley Walsh, Jill Scott and many more.</desc>
+    <desc lang="en">Tom Allen celebrates funny cock-ups from the world of entertainment featuring Idris Elba, Paul Rudd, Ant and Dec, Susanna Reid, Alan Carr and many more of our favourite stars.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/015aa2a3-188a-48e8-8a4c-2089a30c4b57/cover"/>
     <episode-num system="xmltv_ns">36.3.0</episode-num>
     <episode-num system="onscreen">S37E4</episode-num>
@@ -35640,9 +35755,9 @@
     <episode-num system="onscreen">S5E243</episode-num>
   </programme>
   <programme channel="ITV1Plus1Granada.uk" start="20260630011500 +0000" stop="20260630043500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+    <title lang="en">FIFA WC2026: Netherlands v Morocco</title>
+    <desc lang="en">Live coverage of the FIFA World Cup 2026 Round of 32 match between Netherlands and Morocco at Monterrey Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1b372b59-17b9-4f72-a466-1bb42bdbfcf8/cover"/>
   </programme>
   <programme channel="ITV1Plus1Granada.uk" start="20260630043500 +0000" stop="20260630050000 +0000">
     <title lang="en">Celebrity Lingo</title>
@@ -35893,7 +36008,7 @@
   </programme>
   <programme channel="ITV1Plus1London.uk" start="20260628191500 +0000" stop="20260628223500 +0000">
     <title lang="en">FIFA WC2026: South Africa v Canada</title>
-    <desc lang="en">The round of 32 at the 2026 FIFA World Cup gets underway with South Africa against Canada at Los Angeles Stadium.</desc>
+    <desc lang="en">Laura Woods presents live FIFA World Cup action as South Africa face co-hosts Canada in the first Round of 32 match.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/84a92b06-7aba-4708-8764-8b6dbb7fa817/cover"/>
   </programme>
   <programme channel="ITV1Plus1London.uk" start="20260628223500 +0000" stop="20260628225500 +0000">
@@ -35994,14 +36109,29 @@
     <episode-num system="onscreen">S13E18</episode-num>
   </programme>
   <programme channel="ITV1Plus1London.uk" start="20260629171500 +0000" stop="20260629203500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+    <title lang="en">FIFA WC2026: Brazil v Japan</title>
+    <desc lang="en">Live coverage of the FIFA World Cup 2026 Round of 32 match between Brazil and Japan at Houston Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3b33f6be-d9bd-4ea8-b363-db28c08f161e/cover"/>
   </programme>
-  <programme channel="ITV1Plus1London.uk" start="20260629203500 +0000" stop="20260630000500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+  <programme channel="ITV1Plus1London.uk" start="20260629203500 +0000" stop="20260629223000 +0000">
+    <title lang="en">Vera</title>
+    <desc lang="en">Tender: Crime drama. Vera is on track to uncover an intriguing yet puzzling case when the body of a young girl is discovered at the side of an isolated railway crossing.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/b3c3250c-3d24-4237-815c-0a402c19d6be/cover"/>
+  </programme>
+  <programme channel="ITV1Plus1London.uk" start="20260629223000 +0000" stop="20260629225500 +0000">
+    <title lang="en">ITV News at Ten</title>
+    <desc lang="en">ITV News provides a fresh perspective on the major stories of the day with national and international news with reports and analysis from ITV's Correspondents.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/eba1c37c-fc12-449a-9e9a-24992da56b6c/cover"/>
+  </programme>
+  <programme channel="ITV1Plus1London.uk" start="20260629225500 +0000" stop="20260629230500 +0000">
+    <title lang="en">ITV News London</title>
+    <desc lang="en">The latest news and weather from London and the South East.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/531845d3-f570-457d-969f-f73f5b2a609f/cover"/>
+  </programme>
+  <programme channel="ITV1Plus1London.uk" start="20260629230500 +0000" stop="20260630000500 +0000">
+    <title lang="en">Unbelievable Moments: Caught on Camera</title>
+    <desc lang="en">Documentary series. A kayaker gets trapped behind a waterfall in Mexico, and world champion cyclist Gee Atherton recalls a fall from a mountain in Wales.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3cc09ff2-3295-4b55-895c-579e93ac966e/cover"/>
   </programme>
   <programme channel="ITV1Plus1London.uk" start="20260630000500 +0000" stop="20260630003500 +0000">
     <title lang="en">G'wed</title>
@@ -36012,7 +36142,7 @@
   </programme>
   <programme channel="ITV1Plus1London.uk" start="20260630003500 +0000" stop="20260630010000 +0000">
     <title lang="en">It'll Be Alright on the Night</title>
-    <desc lang="en">Tom Allen celebrates backstage bloopers and live blunders featuring our favourite TV shows and stars - expect nightmares for Ant and Dec, Bradley Walsh, Jill Scott and many more.</desc>
+    <desc lang="en">Tom Allen celebrates funny cock-ups from the world of entertainment featuring Idris Elba, Paul Rudd, Ant and Dec, Susanna Reid, Alan Carr and many more of our favourite stars.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/015aa2a3-188a-48e8-8a4c-2089a30c4b57/cover"/>
     <episode-num system="xmltv_ns">36.3.0</episode-num>
     <episode-num system="onscreen">S37E4</episode-num>
@@ -36025,9 +36155,9 @@
     <episode-num system="onscreen">S5E243</episode-num>
   </programme>
   <programme channel="ITV1Plus1London.uk" start="20260630011500 +0000" stop="20260630043500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+    <title lang="en">FIFA WC2026: Netherlands v Morocco</title>
+    <desc lang="en">Live coverage of the FIFA World Cup 2026 Round of 32 match between Netherlands and Morocco at Monterrey Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1b372b59-17b9-4f72-a466-1bb42bdbfcf8/cover"/>
   </programme>
   <programme channel="ITV1Plus1London.uk" start="20260630043500 +0000" stop="20260630050000 +0000">
     <title lang="en">Celebrity Lingo</title>
@@ -36278,7 +36408,7 @@
   </programme>
   <programme channel="ITV1Plus1Meridian.uk" start="20260628191500 +0000" stop="20260628223500 +0000">
     <title lang="en">FIFA WC2026: South Africa v Canada</title>
-    <desc lang="en">The round of 32 at the 2026 FIFA World Cup gets underway with South Africa against Canada at Los Angeles Stadium.</desc>
+    <desc lang="en">Laura Woods presents live FIFA World Cup action as South Africa face co-hosts Canada in the first Round of 32 match.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/47e8bb4e-7564-448a-af6c-3273efa15351/cover"/>
   </programme>
   <programme channel="ITV1Plus1Meridian.uk" start="20260628223500 +0000" stop="20260628225500 +0000">
@@ -36379,14 +36509,29 @@
     <episode-num system="onscreen">S13E18</episode-num>
   </programme>
   <programme channel="ITV1Plus1Meridian.uk" start="20260629171500 +0000" stop="20260629203500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+    <title lang="en">FIFA WC2026: Brazil v Japan</title>
+    <desc lang="en">Live coverage of the FIFA World Cup 2026 Round of 32 match between Brazil and Japan at Houston Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3b33f6be-d9bd-4ea8-b363-db28c08f161e/cover"/>
   </programme>
-  <programme channel="ITV1Plus1Meridian.uk" start="20260629203500 +0000" stop="20260630000500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+  <programme channel="ITV1Plus1Meridian.uk" start="20260629203500 +0000" stop="20260629223000 +0000">
+    <title lang="en">Vera</title>
+    <desc lang="en">Tender: Crime drama. Vera is on track to uncover an intriguing yet puzzling case when the body of a young girl is discovered at the side of an isolated railway crossing.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/07280a48-9c6f-46cb-9b96-351504e14c0f/cover"/>
+  </programme>
+  <programme channel="ITV1Plus1Meridian.uk" start="20260629223000 +0000" stop="20260629225500 +0000">
+    <title lang="en">ITV News at Ten</title>
+    <desc lang="en">ITV News provides a fresh perspective on the major stories of the day with national and international news with reports and analysis from ITV's Correspondents.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ca56df98-eb08-4cd1-8a0d-ba27f670ca73/cover"/>
+  </programme>
+  <programme channel="ITV1Plus1Meridian.uk" start="20260629225500 +0000" stop="20260629230500 +0000">
+    <title lang="en">ITV News Meridian</title>
+    <desc lang="en">A round-up of all the latest news from across the region including a Meridian Weather forecast.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/169cf743-6768-4784-ad2c-c7ade89eabda/cover"/>
+  </programme>
+  <programme channel="ITV1Plus1Meridian.uk" start="20260629230500 +0000" stop="20260630000500 +0000">
+    <title lang="en">Unbelievable Moments: Caught on Camera</title>
+    <desc lang="en">Documentary series. A kayaker gets trapped behind a waterfall in Mexico, and world champion cyclist Gee Atherton recalls a fall from a mountain in Wales.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/730baede-cb14-4322-bf8f-f5d596dfdecc/cover"/>
   </programme>
   <programme channel="ITV1Plus1Meridian.uk" start="20260630000500 +0000" stop="20260630003500 +0000">
     <title lang="en">G'wed</title>
@@ -36397,7 +36542,7 @@
   </programme>
   <programme channel="ITV1Plus1Meridian.uk" start="20260630003500 +0000" stop="20260630010000 +0000">
     <title lang="en">It'll Be Alright on the Night</title>
-    <desc lang="en">Tom Allen celebrates backstage bloopers and live blunders featuring our favourite TV shows and stars - expect nightmares for Ant and Dec, Bradley Walsh, Jill Scott and many more.</desc>
+    <desc lang="en">Tom Allen celebrates funny cock-ups from the world of entertainment featuring Idris Elba, Paul Rudd, Ant and Dec, Susanna Reid, Alan Carr and many more of our favourite stars.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/015aa2a3-188a-48e8-8a4c-2089a30c4b57/cover"/>
     <episode-num system="xmltv_ns">36.3.0</episode-num>
     <episode-num system="onscreen">S37E4</episode-num>
@@ -36410,9 +36555,9 @@
     <episode-num system="onscreen">S5E243</episode-num>
   </programme>
   <programme channel="ITV1Plus1Meridian.uk" start="20260630011500 +0000" stop="20260630043500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+    <title lang="en">FIFA WC2026: Netherlands v Morocco</title>
+    <desc lang="en">Live coverage of the FIFA World Cup 2026 Round of 32 match between Netherlands and Morocco at Monterrey Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1b372b59-17b9-4f72-a466-1bb42bdbfcf8/cover"/>
   </programme>
   <programme channel="ITV1Plus1Meridian.uk" start="20260630043500 +0000" stop="20260630050000 +0000">
     <title lang="en">Celebrity Lingo</title>
@@ -36663,7 +36808,7 @@
   </programme>
   <programme channel="ITV1Plus1Midlands.uk" start="20260628191500 +0000" stop="20260628223500 +0000">
     <title lang="en">FIFA WC2026: South Africa v Canada</title>
-    <desc lang="en">The round of 32 at the 2026 FIFA World Cup gets underway with South Africa against Canada at Los Angeles Stadium.</desc>
+    <desc lang="en">Laura Woods presents live FIFA World Cup action as South Africa face co-hosts Canada in the first Round of 32 match.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ed77f0a5-2f99-44ba-9ea9-54360ec1db16/cover"/>
   </programme>
   <programme channel="ITV1Plus1Midlands.uk" start="20260628223500 +0000" stop="20260628225500 +0000">
@@ -36764,14 +36909,29 @@
     <episode-num system="onscreen">S13E18</episode-num>
   </programme>
   <programme channel="ITV1Plus1Midlands.uk" start="20260629171500 +0000" stop="20260629203500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+    <title lang="en">FIFA WC2026: Brazil v Japan</title>
+    <desc lang="en">Live coverage of the FIFA World Cup 2026 Round of 32 match between Brazil and Japan at Houston Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3b33f6be-d9bd-4ea8-b363-db28c08f161e/cover"/>
   </programme>
-  <programme channel="ITV1Plus1Midlands.uk" start="20260629203500 +0000" stop="20260630000500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+  <programme channel="ITV1Plus1Midlands.uk" start="20260629203500 +0000" stop="20260629223000 +0000">
+    <title lang="en">Vera</title>
+    <desc lang="en">Tender: Crime drama. Vera is on track to uncover an intriguing yet puzzling case when the body of a young girl is discovered at the side of an isolated railway crossing.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/335b8de7-2b49-4703-b115-aa6497c18942/cover"/>
+  </programme>
+  <programme channel="ITV1Plus1Midlands.uk" start="20260629223000 +0000" stop="20260629225500 +0000">
+    <title lang="en">ITV News at Ten</title>
+    <desc lang="en">ITV News provides a fresh perspective on the major stories of the day with national and international news with reports and analysis from ITV's Correspondents.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/87c0a89f-00e8-4e01-b8e4-06864932ad0a/cover"/>
+  </programme>
+  <programme channel="ITV1Plus1Midlands.uk" start="20260629225500 +0000" stop="20260629230500 +0000">
+    <title lang="en">ITV News Central</title>
+    <desc lang="en">The latest news and weather from the Midlands.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a41fc782-5d59-44b6-bff8-e1c7ebe141ec/cover"/>
+  </programme>
+  <programme channel="ITV1Plus1Midlands.uk" start="20260629230500 +0000" stop="20260630000500 +0000">
+    <title lang="en">Unbelievable Moments: Caught on Camera</title>
+    <desc lang="en">Documentary series. A kayaker gets trapped behind a waterfall in Mexico, and world champion cyclist Gee Atherton recalls a fall from a mountain in Wales.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/89b89923-f3d5-43d2-87fb-21ee951b9590/cover"/>
   </programme>
   <programme channel="ITV1Plus1Midlands.uk" start="20260630000500 +0000" stop="20260630003500 +0000">
     <title lang="en">G'wed</title>
@@ -36782,7 +36942,7 @@
   </programme>
   <programme channel="ITV1Plus1Midlands.uk" start="20260630003500 +0000" stop="20260630010000 +0000">
     <title lang="en">It'll Be Alright on the Night</title>
-    <desc lang="en">Tom Allen celebrates backstage bloopers and live blunders featuring our favourite TV shows and stars - expect nightmares for Ant and Dec, Bradley Walsh, Jill Scott and many more.</desc>
+    <desc lang="en">Tom Allen celebrates funny cock-ups from the world of entertainment featuring Idris Elba, Paul Rudd, Ant and Dec, Susanna Reid, Alan Carr and many more of our favourite stars.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/015aa2a3-188a-48e8-8a4c-2089a30c4b57/cover"/>
     <episode-num system="xmltv_ns">36.3.0</episode-num>
     <episode-num system="onscreen">S37E4</episode-num>
@@ -36795,9 +36955,9 @@
     <episode-num system="onscreen">S5E243</episode-num>
   </programme>
   <programme channel="ITV1Plus1Midlands.uk" start="20260630011500 +0000" stop="20260630043500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+    <title lang="en">FIFA WC2026: Netherlands v Morocco</title>
+    <desc lang="en">Live coverage of the FIFA World Cup 2026 Round of 32 match between Netherlands and Morocco at Monterrey Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1b372b59-17b9-4f72-a466-1bb42bdbfcf8/cover"/>
   </programme>
   <programme channel="ITV1Plus1Midlands.uk" start="20260630043500 +0000" stop="20260630050000 +0000">
     <title lang="en">Celebrity Lingo</title>
@@ -37048,7 +37208,7 @@
   </programme>
   <programme channel="ITV1TyneTees.uk" start="20260628181500 +0000" stop="20260628213500 +0000">
     <title lang="en">FIFA WC2026: South Africa v Canada</title>
-    <desc lang="en">The round of 32 at the 2026 FIFA World Cup gets underway with South Africa against Canada at Los Angeles Stadium.</desc>
+    <desc lang="en">Laura Woods presents live FIFA World Cup action as South Africa face co-hosts Canada in the first Round of 32 match.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1f1f6766-9235-493e-99f4-ff98d819e7b8/cover"/>
   </programme>
   <programme channel="ITV1TyneTees.uk" start="20260628213500 +0000" stop="20260628215500 +0000">
@@ -37149,14 +37309,29 @@
     <episode-num system="onscreen">S13E18</episode-num>
   </programme>
   <programme channel="ITV1TyneTees.uk" start="20260629161500 +0000" stop="20260629193500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+    <title lang="en">FIFA WC2026: Brazil v Japan</title>
+    <desc lang="en">Live coverage of the FIFA World Cup 2026 Round of 32 match between Brazil and Japan at Houston Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3b33f6be-d9bd-4ea8-b363-db28c08f161e/cover"/>
   </programme>
-  <programme channel="ITV1TyneTees.uk" start="20260629193500 +0000" stop="20260629230500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+  <programme channel="ITV1TyneTees.uk" start="20260629193500 +0000" stop="20260629213000 +0000">
+    <title lang="en">Vera</title>
+    <desc lang="en">Tender: Crime drama. Vera is on track to uncover an intriguing yet puzzling case when the body of a young girl is discovered at the side of an isolated railway crossing.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d10e6e88-27f7-43ff-80f7-f63730755bf1/cover"/>
+  </programme>
+  <programme channel="ITV1TyneTees.uk" start="20260629213000 +0000" stop="20260629215500 +0000">
+    <title lang="en">ITV News at Ten</title>
+    <desc lang="en">ITV News provides a fresh perspective on the major stories of the day with national and international news with reports and analysis from ITV's Correspondents.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/2005c9b0-0458-4c91-bf3c-0a8ee109255f/cover"/>
+  </programme>
+  <programme channel="ITV1TyneTees.uk" start="20260629215500 +0000" stop="20260629220500 +0000">
+    <title lang="en">ITV News Tyne Tees</title>
+    <desc lang="en">The latest news, sport and magazine show for the North East and North Yorkshire followed by a Tyne Tees Weather forecast.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6d2fa286-8162-4cb7-8234-52eca20c4aff/cover"/>
+  </programme>
+  <programme channel="ITV1TyneTees.uk" start="20260629220500 +0000" stop="20260629230500 +0000">
+    <title lang="en">Unbelievable Moments: Caught on Camera</title>
+    <desc lang="en">Documentary series. A kayaker gets trapped behind a waterfall in Mexico, and world champion cyclist Gee Atherton recalls a fall from a mountain in Wales.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/4c1901fa-c10c-4245-8308-d68378d6eb7d/cover"/>
   </programme>
   <programme channel="ITV1TyneTees.uk" start="20260629230500 +0000" stop="20260629233500 +0000">
     <title lang="en">G'wed</title>
@@ -37167,7 +37342,7 @@
   </programme>
   <programme channel="ITV1TyneTees.uk" start="20260629233500 +0000" stop="20260630000000 +0000">
     <title lang="en">It'll Be Alright on the Night</title>
-    <desc lang="en">Tom Allen celebrates backstage bloopers and live blunders featuring our favourite TV shows and stars - expect nightmares for Ant and Dec, Bradley Walsh, Jill Scott and many more.</desc>
+    <desc lang="en">Tom Allen celebrates funny cock-ups from the world of entertainment featuring Idris Elba, Paul Rudd, Ant and Dec, Susanna Reid, Alan Carr and many more of our favourite stars.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/015aa2a3-188a-48e8-8a4c-2089a30c4b57/cover"/>
     <episode-num system="xmltv_ns">36.3.0</episode-num>
     <episode-num system="onscreen">S37E4</episode-num>
@@ -37180,9 +37355,9 @@
     <episode-num system="onscreen">S5E243</episode-num>
   </programme>
   <programme channel="ITV1TyneTees.uk" start="20260630001500 +0000" stop="20260630033500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+    <title lang="en">FIFA WC2026: Netherlands v Morocco</title>
+    <desc lang="en">Live coverage of the FIFA World Cup 2026 Round of 32 match between Netherlands and Morocco at Monterrey Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1b372b59-17b9-4f72-a466-1bb42bdbfcf8/cover"/>
   </programme>
   <programme channel="ITV1TyneTees.uk" start="20260630033500 +0000" stop="20260630040000 +0000">
     <title lang="en">Celebrity Lingo</title>
@@ -37440,7 +37615,7 @@
   </programme>
   <programme channel="ITV1Wales.uk" start="20260628181500 +0000" stop="20260628213500 +0000">
     <title lang="en">FIFA WC2026: South Africa v Canada</title>
-    <desc lang="en">The round of 32 at the 2026 FIFA World Cup gets underway with South Africa against Canada at Los Angeles Stadium.</desc>
+    <desc lang="en">Laura Woods presents live FIFA World Cup action as South Africa face co-hosts Canada in the first Round of 32 match.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d43d5f38-6b86-4d01-9841-be7b54d51e1e/cover"/>
   </programme>
   <programme channel="ITV1Wales.uk" start="20260628213500 +0000" stop="20260628215500 +0000">
@@ -37541,14 +37716,29 @@
     <episode-num system="onscreen">S13E18</episode-num>
   </programme>
   <programme channel="ITV1Wales.uk" start="20260629161500 +0000" stop="20260629193500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+    <title lang="en">FIFA WC2026: Brazil v Japan</title>
+    <desc lang="en">Live coverage of the FIFA World Cup 2026 Round of 32 match between Brazil and Japan at Houston Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3b33f6be-d9bd-4ea8-b363-db28c08f161e/cover"/>
   </programme>
-  <programme channel="ITV1Wales.uk" start="20260629193500 +0000" stop="20260629230500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+  <programme channel="ITV1Wales.uk" start="20260629193500 +0000" stop="20260629213000 +0000">
+    <title lang="en">Vera</title>
+    <desc lang="en">Tender: Crime drama. Vera is on track to uncover an intriguing yet puzzling case when the body of a young girl is discovered at the side of an isolated railway crossing.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/37a7b234-8e1f-4cc1-baab-f87b993f3a98/cover"/>
+  </programme>
+  <programme channel="ITV1Wales.uk" start="20260629213000 +0000" stop="20260629215500 +0000">
+    <title lang="en">ITV News at Ten</title>
+    <desc lang="en">ITV News provides a fresh perspective on the major stories of the day with national and international news with reports and analysis from ITV's Correspondents.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/00f5ee61-a4a2-4395-bb88-e512badcec01/cover"/>
+  </programme>
+  <programme channel="ITV1Wales.uk" start="20260629215500 +0000" stop="20260629220500 +0000">
+    <title lang="en">ITV News Cymru Wales</title>
+    <desc lang="en">A round-up of all the latest news and weather from across Wales.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/da263c92-9137-4a2b-af0e-80e1f7f8ea3d/cover"/>
+  </programme>
+  <programme channel="ITV1Wales.uk" start="20260629220500 +0000" stop="20260629230500 +0000">
+    <title lang="en">Unbelievable Moments: Caught on Camera</title>
+    <desc lang="en">Documentary series. A kayaker gets trapped behind a waterfall in Mexico, and world champion cyclist Gee Atherton recalls a fall from a mountain in Wales.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/67b49261-5193-452d-af52-fe929d35c067/cover"/>
   </programme>
   <programme channel="ITV1Wales.uk" start="20260629230500 +0000" stop="20260629233500 +0000">
     <title lang="en">G'wed</title>
@@ -37559,7 +37749,7 @@
   </programme>
   <programme channel="ITV1Wales.uk" start="20260629233500 +0000" stop="20260630000000 +0000">
     <title lang="en">It'll Be Alright on the Night</title>
-    <desc lang="en">Tom Allen celebrates backstage bloopers and live blunders featuring our favourite TV shows and stars - expect nightmares for Ant and Dec, Bradley Walsh, Jill Scott and many more.</desc>
+    <desc lang="en">Tom Allen celebrates funny cock-ups from the world of entertainment featuring Idris Elba, Paul Rudd, Ant and Dec, Susanna Reid, Alan Carr and many more of our favourite stars.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/015aa2a3-188a-48e8-8a4c-2089a30c4b57/cover"/>
     <episode-num system="xmltv_ns">36.3.0</episode-num>
     <episode-num system="onscreen">S37E4</episode-num>
@@ -37572,9 +37762,9 @@
     <episode-num system="onscreen">S5E243</episode-num>
   </programme>
   <programme channel="ITV1Wales.uk" start="20260630001500 +0000" stop="20260630033500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+    <title lang="en">FIFA WC2026: Netherlands v Morocco</title>
+    <desc lang="en">Live coverage of the FIFA World Cup 2026 Round of 32 match between Netherlands and Morocco at Monterrey Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1b372b59-17b9-4f72-a466-1bb42bdbfcf8/cover"/>
   </programme>
   <programme channel="ITV1Wales.uk" start="20260630033500 +0000" stop="20260630040000 +0000">
     <title lang="en">Celebrity Lingo</title>
@@ -37832,7 +38022,7 @@
   </programme>
   <programme channel="ITV1West.uk" start="20260628181500 +0000" stop="20260628213500 +0000">
     <title lang="en">FIFA WC2026: South Africa v Canada</title>
-    <desc lang="en">The round of 32 at the 2026 FIFA World Cup gets underway with South Africa against Canada at Los Angeles Stadium.</desc>
+    <desc lang="en">Laura Woods presents live FIFA World Cup action as South Africa face co-hosts Canada in the first Round of 32 match.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0d231b70-25c4-4b6a-871a-fd9e2ed23c34/cover"/>
   </programme>
   <programme channel="ITV1West.uk" start="20260628213500 +0000" stop="20260628215500 +0000">
@@ -37933,14 +38123,29 @@
     <episode-num system="onscreen">S13E18</episode-num>
   </programme>
   <programme channel="ITV1West.uk" start="20260629161500 +0000" stop="20260629193500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+    <title lang="en">FIFA WC2026: Brazil v Japan</title>
+    <desc lang="en">Live coverage of the FIFA World Cup 2026 Round of 32 match between Brazil and Japan at Houston Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3b33f6be-d9bd-4ea8-b363-db28c08f161e/cover"/>
   </programme>
-  <programme channel="ITV1West.uk" start="20260629193500 +0000" stop="20260629230500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+  <programme channel="ITV1West.uk" start="20260629193500 +0000" stop="20260629213000 +0000">
+    <title lang="en">Vera</title>
+    <desc lang="en">Tender: Crime drama. Vera is on track to uncover an intriguing yet puzzling case when the body of a young girl is discovered at the side of an isolated railway crossing.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/997833ef-c3cc-4f47-aaaa-c8041a3fcff4/cover"/>
+  </programme>
+  <programme channel="ITV1West.uk" start="20260629213000 +0000" stop="20260629215500 +0000">
+    <title lang="en">ITV News at Ten</title>
+    <desc lang="en">ITV News provides a fresh perspective on the major stories of the day with national and international news with reports and analysis from ITV's Correspondents.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6ed5ad7b-312b-4ee3-9eda-e8aaf16a6c5e/cover"/>
+  </programme>
+  <programme channel="ITV1West.uk" start="20260629215500 +0000" stop="20260629220500 +0000">
+    <title lang="en">ITV News West Country</title>
+    <desc lang="en">News for Bristol, Somerset, Gloucestershire, Wiltshire and Dorset with local features, sport and a West Country weather forecast.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/57169468-0f59-472c-9850-e2a891d92824/cover"/>
+  </programme>
+  <programme channel="ITV1West.uk" start="20260629220500 +0000" stop="20260629230500 +0000">
+    <title lang="en">Unbelievable Moments: Caught on Camera</title>
+    <desc lang="en">Documentary series. A kayaker gets trapped behind a waterfall in Mexico, and world champion cyclist Gee Atherton recalls a fall from a mountain in Wales.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/b1c02290-9fdc-4a16-813a-54b989509d98/cover"/>
   </programme>
   <programme channel="ITV1West.uk" start="20260629230500 +0000" stop="20260629233500 +0000">
     <title lang="en">G'wed</title>
@@ -37951,7 +38156,7 @@
   </programme>
   <programme channel="ITV1West.uk" start="20260629233500 +0000" stop="20260630000000 +0000">
     <title lang="en">It'll Be Alright on the Night</title>
-    <desc lang="en">Tom Allen celebrates backstage bloopers and live blunders featuring our favourite TV shows and stars - expect nightmares for Ant and Dec, Bradley Walsh, Jill Scott and many more.</desc>
+    <desc lang="en">Tom Allen celebrates funny cock-ups from the world of entertainment featuring Idris Elba, Paul Rudd, Ant and Dec, Susanna Reid, Alan Carr and many more of our favourite stars.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/015aa2a3-188a-48e8-8a4c-2089a30c4b57/cover"/>
     <episode-num system="xmltv_ns">36.3.0</episode-num>
     <episode-num system="onscreen">S37E4</episode-num>
@@ -37964,9 +38169,9 @@
     <episode-num system="onscreen">S5E243</episode-num>
   </programme>
   <programme channel="ITV1West.uk" start="20260630001500 +0000" stop="20260630033500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+    <title lang="en">FIFA WC2026: Netherlands v Morocco</title>
+    <desc lang="en">Live coverage of the FIFA World Cup 2026 Round of 32 match between Netherlands and Morocco at Monterrey Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1b372b59-17b9-4f72-a466-1bb42bdbfcf8/cover"/>
   </programme>
   <programme channel="ITV1West.uk" start="20260630033500 +0000" stop="20260630040000 +0000">
     <title lang="en">Celebrity Lingo</title>
@@ -38224,7 +38429,7 @@
   </programme>
   <programme channel="ITV1WestCountry.uk" start="20260628181500 +0000" stop="20260628213500 +0000">
     <title lang="en">FIFA WC2026: South Africa v Canada</title>
-    <desc lang="en">The round of 32 at the 2026 FIFA World Cup gets underway with South Africa against Canada at Los Angeles Stadium.</desc>
+    <desc lang="en">Laura Woods presents live FIFA World Cup action as South Africa face co-hosts Canada in the first Round of 32 match.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c1ad2193-a338-484a-a744-7d793f877062/cover"/>
   </programme>
   <programme channel="ITV1WestCountry.uk" start="20260628213500 +0000" stop="20260628215500 +0000">
@@ -38325,14 +38530,29 @@
     <episode-num system="onscreen">S13E18</episode-num>
   </programme>
   <programme channel="ITV1WestCountry.uk" start="20260629161500 +0000" stop="20260629193500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+    <title lang="en">FIFA WC2026: Brazil v Japan</title>
+    <desc lang="en">Live coverage of the FIFA World Cup 2026 Round of 32 match between Brazil and Japan at Houston Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3b33f6be-d9bd-4ea8-b363-db28c08f161e/cover"/>
   </programme>
-  <programme channel="ITV1WestCountry.uk" start="20260629193500 +0000" stop="20260629230500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+  <programme channel="ITV1WestCountry.uk" start="20260629193500 +0000" stop="20260629213000 +0000">
+    <title lang="en">Vera</title>
+    <desc lang="en">Tender: Crime drama. Vera is on track to uncover an intriguing yet puzzling case when the body of a young girl is discovered at the side of an isolated railway crossing.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/11fb08e2-7446-4e9f-8c15-eb5f475ef650/cover"/>
+  </programme>
+  <programme channel="ITV1WestCountry.uk" start="20260629213000 +0000" stop="20260629215500 +0000">
+    <title lang="en">ITV News at Ten</title>
+    <desc lang="en">ITV News provides a fresh perspective on the major stories of the day with national and international news with reports and analysis from ITV's Correspondents.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/84066601-9a12-4620-9b2d-b8609466f5ab/cover"/>
+  </programme>
+  <programme channel="ITV1WestCountry.uk" start="20260629215500 +0000" stop="20260629220500 +0000">
+    <title lang="en">ITV News West Country</title>
+    <desc lang="en">News for Bristol, Somerset, Gloucestershire, Wiltshire and Dorset with local features, sport and a West Country weather forecast.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/99caeb3d-40da-4156-a9ff-973fd8be65d8/cover"/>
+  </programme>
+  <programme channel="ITV1WestCountry.uk" start="20260629220500 +0000" stop="20260629230500 +0000">
+    <title lang="en">Unbelievable Moments: Caught on Camera</title>
+    <desc lang="en">Documentary series. A kayaker gets trapped behind a waterfall in Mexico, and world champion cyclist Gee Atherton recalls a fall from a mountain in Wales.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6ccdba46-eb45-4e01-84bc-660f5c576794/cover"/>
   </programme>
   <programme channel="ITV1WestCountry.uk" start="20260629230500 +0000" stop="20260629233500 +0000">
     <title lang="en">G'wed</title>
@@ -38343,7 +38563,7 @@
   </programme>
   <programme channel="ITV1WestCountry.uk" start="20260629233500 +0000" stop="20260630000000 +0000">
     <title lang="en">It'll Be Alright on the Night</title>
-    <desc lang="en">Tom Allen celebrates backstage bloopers and live blunders featuring our favourite TV shows and stars - expect nightmares for Ant and Dec, Bradley Walsh, Jill Scott and many more.</desc>
+    <desc lang="en">Tom Allen celebrates funny cock-ups from the world of entertainment featuring Idris Elba, Paul Rudd, Ant and Dec, Susanna Reid, Alan Carr and many more of our favourite stars.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/015aa2a3-188a-48e8-8a4c-2089a30c4b57/cover"/>
     <episode-num system="xmltv_ns">36.3.0</episode-num>
     <episode-num system="onscreen">S37E4</episode-num>
@@ -38356,9 +38576,9 @@
     <episode-num system="onscreen">S5E243</episode-num>
   </programme>
   <programme channel="ITV1WestCountry.uk" start="20260630001500 +0000" stop="20260630033500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+    <title lang="en">FIFA WC2026: Netherlands v Morocco</title>
+    <desc lang="en">Live coverage of the FIFA World Cup 2026 Round of 32 match between Netherlands and Morocco at Monterrey Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1b372b59-17b9-4f72-a466-1bb42bdbfcf8/cover"/>
   </programme>
   <programme channel="ITV1WestCountry.uk" start="20260630033500 +0000" stop="20260630040000 +0000">
     <title lang="en">Celebrity Lingo</title>
@@ -38616,7 +38836,7 @@
   </programme>
   <programme channel="ITV1YorkshireEast.uk" start="20260628181500 +0000" stop="20260628213500 +0000">
     <title lang="en">FIFA WC2026: South Africa v Canada</title>
-    <desc lang="en">The round of 32 at the 2026 FIFA World Cup gets underway with South Africa against Canada at Los Angeles Stadium.</desc>
+    <desc lang="en">Laura Woods presents live FIFA World Cup action as South Africa face co-hosts Canada in the first Round of 32 match.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1ec9ab44-e81b-4df1-8066-06e323f489ad/cover"/>
   </programme>
   <programme channel="ITV1YorkshireEast.uk" start="20260628213500 +0000" stop="20260628215500 +0000">
@@ -38717,14 +38937,29 @@
     <episode-num system="onscreen">S13E18</episode-num>
   </programme>
   <programme channel="ITV1YorkshireEast.uk" start="20260629161500 +0000" stop="20260629193500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+    <title lang="en">FIFA WC2026: Brazil v Japan</title>
+    <desc lang="en">Live coverage of the FIFA World Cup 2026 Round of 32 match between Brazil and Japan at Houston Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3b33f6be-d9bd-4ea8-b363-db28c08f161e/cover"/>
   </programme>
-  <programme channel="ITV1YorkshireEast.uk" start="20260629193500 +0000" stop="20260629230500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+  <programme channel="ITV1YorkshireEast.uk" start="20260629193500 +0000" stop="20260629213000 +0000">
+    <title lang="en">Vera</title>
+    <desc lang="en">Tender: Crime drama. Vera is on track to uncover an intriguing yet puzzling case when the body of a young girl is discovered at the side of an isolated railway crossing.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/4a08c0a5-17b7-4fad-8054-9a50367761a7/cover"/>
+  </programme>
+  <programme channel="ITV1YorkshireEast.uk" start="20260629213000 +0000" stop="20260629215500 +0000">
+    <title lang="en">ITV News at Ten</title>
+    <desc lang="en">ITV News provides a fresh perspective on the major stories of the day with national and international news with reports and analysis from ITV's Correspondents.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/baf9d601-394f-4788-ab94-1e667f098152/cover"/>
+  </programme>
+  <programme channel="ITV1YorkshireEast.uk" start="20260629215500 +0000" stop="20260629220500 +0000">
+    <title lang="en">ITV News Calendar</title>
+    <desc lang="en">The latest news from around the region with interviews, features and a local weather forecast.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/9688704f-b25f-4122-b67b-9490f3bdfc03/cover"/>
+  </programme>
+  <programme channel="ITV1YorkshireEast.uk" start="20260629220500 +0000" stop="20260629230500 +0000">
+    <title lang="en">Unbelievable Moments: Caught on Camera</title>
+    <desc lang="en">Documentary series. A kayaker gets trapped behind a waterfall in Mexico, and world champion cyclist Gee Atherton recalls a fall from a mountain in Wales.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7bc81d64-9c33-4b08-a0b9-15ce0f9f95a6/cover"/>
   </programme>
   <programme channel="ITV1YorkshireEast.uk" start="20260629230500 +0000" stop="20260629233500 +0000">
     <title lang="en">G'wed</title>
@@ -38735,7 +38970,7 @@
   </programme>
   <programme channel="ITV1YorkshireEast.uk" start="20260629233500 +0000" stop="20260630000000 +0000">
     <title lang="en">It'll Be Alright on the Night</title>
-    <desc lang="en">Tom Allen celebrates backstage bloopers and live blunders featuring our favourite TV shows and stars - expect nightmares for Ant and Dec, Bradley Walsh, Jill Scott and many more.</desc>
+    <desc lang="en">Tom Allen celebrates funny cock-ups from the world of entertainment featuring Idris Elba, Paul Rudd, Ant and Dec, Susanna Reid, Alan Carr and many more of our favourite stars.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/015aa2a3-188a-48e8-8a4c-2089a30c4b57/cover"/>
     <episode-num system="xmltv_ns">36.3.0</episode-num>
     <episode-num system="onscreen">S37E4</episode-num>
@@ -38748,9 +38983,9 @@
     <episode-num system="onscreen">S5E243</episode-num>
   </programme>
   <programme channel="ITV1YorkshireEast.uk" start="20260630001500 +0000" stop="20260630033500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+    <title lang="en">FIFA WC2026: Netherlands v Morocco</title>
+    <desc lang="en">Live coverage of the FIFA World Cup 2026 Round of 32 match between Netherlands and Morocco at Monterrey Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1b372b59-17b9-4f72-a466-1bb42bdbfcf8/cover"/>
   </programme>
   <programme channel="ITV1YorkshireEast.uk" start="20260630033500 +0000" stop="20260630040000 +0000">
     <title lang="en">Celebrity Lingo</title>
@@ -39008,7 +39243,7 @@
   </programme>
   <programme channel="ITV1YorkshireWest.uk" start="20260628181500 +0000" stop="20260628213500 +0000">
     <title lang="en">FIFA WC2026: South Africa v Canada</title>
-    <desc lang="en">The round of 32 at the 2026 FIFA World Cup gets underway with South Africa against Canada at Los Angeles Stadium.</desc>
+    <desc lang="en">Laura Woods presents live FIFA World Cup action as South Africa face co-hosts Canada in the first Round of 32 match.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/aee9c77f-0b04-4773-b237-6c14fb97324d/cover"/>
   </programme>
   <programme channel="ITV1YorkshireWest.uk" start="20260628213500 +0000" stop="20260628215500 +0000">
@@ -39109,14 +39344,29 @@
     <episode-num system="onscreen">S13E18</episode-num>
   </programme>
   <programme channel="ITV1YorkshireWest.uk" start="20260629161500 +0000" stop="20260629193500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+    <title lang="en">FIFA WC2026: Brazil v Japan</title>
+    <desc lang="en">Live coverage of the FIFA World Cup 2026 Round of 32 match between Brazil and Japan at Houston Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3b33f6be-d9bd-4ea8-b363-db28c08f161e/cover"/>
   </programme>
-  <programme channel="ITV1YorkshireWest.uk" start="20260629193500 +0000" stop="20260629230500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+  <programme channel="ITV1YorkshireWest.uk" start="20260629193500 +0000" stop="20260629213000 +0000">
+    <title lang="en">Vera</title>
+    <desc lang="en">Tender: Crime drama. Vera is on track to uncover an intriguing yet puzzling case when the body of a young girl is discovered at the side of an isolated railway crossing.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ca70d5b7-bb3f-471f-bb01-b172f66fa7bb/cover"/>
+  </programme>
+  <programme channel="ITV1YorkshireWest.uk" start="20260629213000 +0000" stop="20260629215500 +0000">
+    <title lang="en">ITV News at Ten</title>
+    <desc lang="en">ITV News provides a fresh perspective on the major stories of the day with national and international news with reports and analysis from ITV's Correspondents.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/2df09aae-9735-4253-ba7c-3391abe677ee/cover"/>
+  </programme>
+  <programme channel="ITV1YorkshireWest.uk" start="20260629215500 +0000" stop="20260629220500 +0000">
+    <title lang="en">ITV News Calendar</title>
+    <desc lang="en">The latest news from around the region with interviews, features and a local weather forecast.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/66ef08e9-ff56-4685-b7ed-666379429ddd/cover"/>
+  </programme>
+  <programme channel="ITV1YorkshireWest.uk" start="20260629220500 +0000" stop="20260629230500 +0000">
+    <title lang="en">Unbelievable Moments: Caught on Camera</title>
+    <desc lang="en">Documentary series. A kayaker gets trapped behind a waterfall in Mexico, and world champion cyclist Gee Atherton recalls a fall from a mountain in Wales.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/85b277c1-f64c-4146-986b-bb77351b5ae3/cover"/>
   </programme>
   <programme channel="ITV1YorkshireWest.uk" start="20260629230500 +0000" stop="20260629233500 +0000">
     <title lang="en">G'wed</title>
@@ -39127,7 +39377,7 @@
   </programme>
   <programme channel="ITV1YorkshireWest.uk" start="20260629233500 +0000" stop="20260630000000 +0000">
     <title lang="en">It'll Be Alright on the Night</title>
-    <desc lang="en">Tom Allen celebrates backstage bloopers and live blunders featuring our favourite TV shows and stars - expect nightmares for Ant and Dec, Bradley Walsh, Jill Scott and many more.</desc>
+    <desc lang="en">Tom Allen celebrates funny cock-ups from the world of entertainment featuring Idris Elba, Paul Rudd, Ant and Dec, Susanna Reid, Alan Carr and many more of our favourite stars.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/015aa2a3-188a-48e8-8a4c-2089a30c4b57/cover"/>
     <episode-num system="xmltv_ns">36.3.0</episode-num>
     <episode-num system="onscreen">S37E4</episode-num>
@@ -39140,9 +39390,9 @@
     <episode-num system="onscreen">S5E243</episode-num>
   </programme>
   <programme channel="ITV1YorkshireWest.uk" start="20260630001500 +0000" stop="20260630033500 +0000">
-    <title lang="en">FIFA World Cup</title>
-    <desc lang="en">Coverage of the FIFA World Cup, from the qualification rounds through to the finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05249633-11a5-4e96-8690-d3b69dae5e65/cover"/>
+    <title lang="en">FIFA WC2026: Netherlands v Morocco</title>
+    <desc lang="en">Live coverage of the FIFA World Cup 2026 Round of 32 match between Netherlands and Morocco at Monterrey Stadium.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1b372b59-17b9-4f72-a466-1bb42bdbfcf8/cover"/>
   </programme>
   <programme channel="ITV1YorkshireWest.uk" start="20260630033500 +0000" stop="20260630040000 +0000">
     <title lang="en">Celebrity Lingo</title>
@@ -39470,7 +39720,7 @@
     <episode-num system="xmltv_ns">12.27.0</episode-num>
     <episode-num system="onscreen">S13E28</episode-num>
   </programme>
-  <programme channel="ITV2.uk" start="20260628210000 +0000" stop="20260628220500 +0000">
+  <programme channel="ITV2.uk" start="20260628210000 +0000" stop="20260628221000 +0000">
     <title lang="en">New: Love Island: Aftersun</title>
     <desc lang="en">Maya Jama and panellists Yasmin Pettet, Casey O'Gorman and Joe Baggs discuss action from the villa, with Beach Hut conversations and dumped Islander chats you won't want to miss.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8e2a9e0e-f21a-448f-81b8-d3e2731f33b9/cover"/>
@@ -39478,7 +39728,7 @@
     <episode-num system="xmltv_ns">12.3.0</episode-num>
     <episode-num system="onscreen">S13E4</episode-num>
   </programme>
-  <programme channel="ITV2.uk" start="20260628220500 +0000" stop="20260628223500 +0000">
+  <programme channel="ITV2.uk" start="20260628221000 +0000" stop="20260628223500 +0000">
     <title lang="en">Family Guy</title>
     <desc lang="en">Stuck Together, Torn Apart: Animated comedy series about family life. Peter's jealousy forces a trial separation. Meanwhile, Stewie and Brian get glued together.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/935aeda3-97ae-4758-9f67-84b6c9a4c09d/cover"/>
@@ -40068,7 +40318,7 @@
     <episode-num system="xmltv_ns">12.27.0</episode-num>
     <episode-num system="onscreen">S13E28</episode-num>
   </programme>
-  <programme channel="ITV2Plus1.uk" start="20260628220000 +0000" stop="20260628230500 +0000">
+  <programme channel="ITV2Plus1.uk" start="20260628220000 +0000" stop="20260628231000 +0000">
     <title lang="en">New: Love Island: Aftersun</title>
     <desc lang="en">Maya Jama and panellists Yasmin Pettet, Casey O'Gorman and Joe Baggs discuss action from the villa, with Beach Hut conversations and dumped Islander chats you won't want to miss.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8e2a9e0e-f21a-448f-81b8-d3e2731f33b9/cover"/>
@@ -40076,7 +40326,7 @@
     <episode-num system="xmltv_ns">12.3.0</episode-num>
     <episode-num system="onscreen">S13E4</episode-num>
   </programme>
-  <programme channel="ITV2Plus1.uk" start="20260628230500 +0000" stop="20260628233500 +0000">
+  <programme channel="ITV2Plus1.uk" start="20260628231000 +0000" stop="20260628233500 +0000">
     <title lang="en">Family Guy</title>
     <desc lang="en">Stuck Together, Torn Apart: Animated comedy series about family life. Peter's jealousy forces a trial separation. Meanwhile, Stewie and Brian get glued together.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/935aeda3-97ae-4758-9f67-84b6c9a4c09d/cover"/>
@@ -43811,7 +44061,7 @@
   <programme channel="SkyMix.uk" start="20260627210000 +0000" stop="20260627230000 +0000">
     <title lang="en">Agatha Raisin</title>
     <desc lang="en">The Haunted House: Agatha opens her own detective agency, but with clients not exactly breaking down the doors, she goes to a haunted house for work. (S3, ep 1)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c3bc9358-7413-41eb-b1ec-365c45ff99a9/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9aff4f95-f9cd-3150-944d-d3342469ed8f/cover"/>
     <episode-num system="xmltv_ns">2.0.0</episode-num>
     <episode-num system="onscreen">S3E1</episode-num>
   </programme>
