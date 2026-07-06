@@ -3231,11 +3231,6 @@
     <desc lang="en">A comprehensive round-up of all the day's World Cup news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9141bcad-6f65-4d00-badf-7efd03470372/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20260705170000 +0000" stop="20260706010000 +0000">
-    <title lang="en">Stateside Live</title>
-    <desc lang="en">Live US racing from Colonial Downs, Gulfstream, Saratoga, Monmouth, Woodbine, Los Alamitos, Lone Star Park, Ellis Park,  Woodbine, Emerald Downs, Canterbury Park and Mountaineer.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/13cdc13f-9a96-42e6-8c8a-71a7baa3e999/cover"/>
-  </programme>
   <programme channel="sky.racing.uk" start="20260706010000 +0000" stop="20260706050000 +0000">
     <title lang="en">Australian Racing Live</title>
     <desc lang="en">Live Australian racing from Wagga, Pakenham, Wangaratta and Barcaldine.</desc>
@@ -4407,7 +4402,7 @@
   </programme>
   <programme channel="tnt1" start="20260706223000 +0000" stop="20260707013000 +0000">
     <title lang="en">Live MLB: Yankees @ Rays</title>
-    <desc lang="en">MLB action from the opener of this four-game set between New York Yankees and Tampa Bay Rays at Tropicana Field.</desc>
+    <desc lang="en">Action from Tropicana Field as New York Yankees and Tampa Bay Rays, the top two in AL East, face off for the first time in the three-match series.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e29d7e85-bbe0-479f-b807-4b762178973e/cover"/>
   </programme>
   <programme channel="tnt1" start="20260707013000 +0000" stop="20260707020000 +0000">
@@ -4507,11 +4502,9 @@
     <episode-num system="onscreen">S6E6</episode-num>
   </programme>
   <programme channel="tnt1" start="20260707180000 +0000" stop="20260707190000 +0000">
-    <title lang="en">Beacon Of Hope - The Grenfell Athletic Story</title>
-    <desc lang="en">This is the inspiring story of Grenfell Athletic, a football club that was set up after the tragic events of the Grenfell Tower Fire in 2017.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9825f9c4-6ddd-4eb5-bac0-2f6d4a5854e3/cover"/>
-    <episode-num system="xmltv_ns">1.65.0</episode-num>
-    <episode-num system="onscreen">S2E66</episode-num>
+    <title lang="en">Miracle of Istanbul</title>
+    <desc lang="en">20 years on from Liverpool's triumph in the 2005 UEFA Champions League final, we take a look back at the Miracle of Istanbul and one of the greatest comebacks in sporting history.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/98f56b97-0075-407b-b32f-9443187daf71/cover"/>
   </programme>
   <programme channel="tnt1" start="20260707190000 +0000" stop="20260707200000 +0000">
     <title lang="en">Tour de France Highlights - S4</title>
@@ -4525,10 +4518,15 @@
     <episode-num system="xmltv_ns">33.4.0</episode-num>
     <episode-num system="onscreen">S34E5</episode-num>
   </programme>
-  <programme channel="tnt1" start="20260707210000 +0000" stop="20260707220000 +0000">
-    <title lang="en">FIA Formula E Highlights</title>
-    <desc lang="en">Highlights from round 13 of the 2026 ABB FIA Formula E World Championship at Shanghai International Circuit.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/6d64951e-3b96-4e6e-87dc-f4895915c0ac/cover"/>
+  <programme channel="tnt1" start="20260707210000 +0000" stop="20260707213000 +0000">
+    <title lang="en">The UFC Breakdown</title>
+    <desc lang="en">Our TNT Sports experts discuss the huge card for UFC 329 in Las Vegas, which will feature Paddy Pimblett v Benoit Saint-Denis and Max Holloway v Conor McGregor.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8fd912e5-06ed-4751-8b2a-0d593098e177/cover"/>
+  </programme>
+  <programme channel="tnt1" start="20260707213000 +0000" stop="20260707220000 +0000">
+    <title lang="en">European Rally Highlights</title>
+    <desc lang="en">Highlights from the 2026 Rally di Roma Capitale, part of the FIA European Rally Championship.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/42468c31-5e18-470f-884d-2fc9844e68fd/cover"/>
   </programme>
   <programme channel="tnt1" start="20260707220000 +0000" stop="20260707223000 +0000">
     <title lang="en">Live: MLB Lead Off</title>
@@ -4539,7 +4537,7 @@
   </programme>
   <programme channel="tnt1" start="20260707223000 +0000" stop="20260708013000 +0000">
     <title lang="en">Live MLB: Yankees @ Rays</title>
-    <desc lang="en">Action from Major League Baseball as New York Yankees face Tampa Bay Rays.</desc>
+    <desc lang="en">Action from Major League Baseball as New York Yankees face AL East rivals Tampa Bay Rays at `Tropicana Field.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7d539743-8e9b-4982-ae09-04f492c06992/cover"/>
   </programme>
   <programme channel="tnt1" start="20260708013000 +0000" stop="20260708020000 +0000">
@@ -4673,11 +4671,6 @@
     <episode-num system="xmltv_ns">2025.13.0</episode-num>
     <episode-num system="onscreen">S2026E14</episode-num>
   </programme>
-  <programme channel="tnt2" start="20260705133000 +0000" stop="20260705221500 +0000">
-    <title lang="en">Live 2nd Test: WI v SL - Day Three</title>
-    <desc lang="en">Day three of the second Test between West Indies and Sri Lanka at Sir Vivian Richards Stadium.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1e2019e6-c7e8-4e3d-b250-81d0448a7868/cover"/>
-  </programme>
   <programme channel="tnt2" start="20260705221500 +0000" stop="20260705223000 +0000">
     <title lang="en">TNT Sports Cricket Reload</title>
     <desc lang="en">We revisit the best action from the second T20 between West Indies and Sri Lanka, where Dushmantha Chameera and Kamil Mishara were in top form for the visitors.</desc>
@@ -4752,7 +4745,7 @@
   </programme>
   <programme channel="tnt2" start="20260706070000 +0000" stop="20260706080000 +0000">
     <title lang="en">FIA Formula E Highlights</title>
-    <desc lang="en">Highlights from round 13 of the 2026 ABB FIA Formula E World Championship at Shanghai International Circuit.</desc>
+    <desc lang="en">Highlights from round 13 of the 2026 ABB FIA Formula E World Championship at Shanghai International Circuit, which culminated with a thrilling final lap.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6d64951e-3b96-4e6e-87dc-f4895915c0ac/cover"/>
   </programme>
   <programme channel="tnt2" start="20260706080000 +0000" stop="20260706090000 +0000">
@@ -4900,7 +4893,7 @@
   </programme>
   <programme channel="tnt2" start="20260707113000 +0000" stop="20260707123000 +0000">
     <title lang="en">MLB Highlights</title>
-    <desc lang="en">Highlights from Major League Baseball. (06.07)</desc>
+    <desc lang="en">Highlights from Major League Baseball including San Diego Padres taking on Arizona Diamondbacks and Los Angeles Dodgers versus Colorado Rockies. (06.07)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/04ee447b-1c4f-439e-89ab-294eba1d07b9/cover"/>
     <episode-num system="xmltv_ns">2025.102.0</episode-num>
     <episode-num system="onscreen">S2026E103</episode-num>
@@ -5044,7 +5037,7 @@
   </programme>
   <programme channel="tnt2" start="20260708160000 +0000" stop="20260708170000 +0000">
     <title lang="en">FIA Formula E Highlights</title>
-    <desc lang="en">Highlights from round 13 of the 2026 ABB FIA Formula E World Championship at Shanghai International Circuit.</desc>
+    <desc lang="en">Highlights from round 13 of the 2026 ABB FIA Formula E World Championship at Shanghai International Circuit, which culminated with a thrilling final lap.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6d64951e-3b96-4e6e-87dc-f4895915c0ac/cover"/>
   </programme>
   <programme channel="tnt2" start="20260708170000 +0000" stop="20260708183000 +0000">
@@ -5350,7 +5343,7 @@
   </programme>
   <programme channel="tnt3" start="20260707200000 +0000" stop="20260707210000 +0000">
     <title lang="en">MLB Highlights</title>
-    <desc lang="en">Highlights from Major League Baseball. (06.07)</desc>
+    <desc lang="en">Highlights from Major League Baseball including San Diego Padres taking on Arizona Diamondbacks and Los Angeles Dodgers versus Colorado Rockies. (06.07)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/04ee447b-1c4f-439e-89ab-294eba1d07b9/cover"/>
     <episode-num system="xmltv_ns">2025.102.0</episode-num>
     <episode-num system="onscreen">S2026E103</episode-num>
@@ -5665,7 +5658,7 @@
   </programme>
   <programme channel="tnt4" start="20260707010000 +0000" stop="20260707020000 +0000">
     <title lang="en">FIA Formula E Highlights</title>
-    <desc lang="en">Highlights from round 13 of the 2026 ABB FIA Formula E World Championship at Shanghai International Circuit.</desc>
+    <desc lang="en">Highlights from round 13 of the 2026 ABB FIA Formula E World Championship at Shanghai International Circuit, which culminated with a thrilling final lap.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6d64951e-3b96-4e6e-87dc-f4895915c0ac/cover"/>
   </programme>
   <programme channel="tnt4" start="20260707020000 +0000" stop="20260707023000 +0000">
@@ -5851,7 +5844,7 @@
   </programme>
   <programme channel="tnt4" start="20260708080000 +0000" stop="20260708090000 +0000">
     <title lang="en">FIA Formula E Highlights</title>
-    <desc lang="en">Highlights from round 13 of the 2026 ABB FIA Formula E World Championship at Shanghai International Circuit.</desc>
+    <desc lang="en">Highlights from round 13 of the 2026 ABB FIA Formula E World Championship at Shanghai International Circuit, which culminated with a thrilling final lap.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6d64951e-3b96-4e6e-87dc-f4895915c0ac/cover"/>
   </programme>
   <programme channel="tnt4" start="20260708090000 +0000" stop="20260708100000 +0000">
@@ -9548,7 +9541,7 @@
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260706063000 +0000" stop="20260706070000 +0000">
     <title lang="en">Talk to Al Jazeera</title>
-    <desc lang="en">Ep.480 06072026: One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <desc lang="en">Chris Hedges: One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b697b6ff-3aaa-44e9-ba27-687789a665b7/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260706070000 +0000" stop="20260706080000 +0000">
@@ -9618,7 +9611,7 @@
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260706143000 +0000" stop="20260706150000 +0000">
     <title lang="en">Talk to Al Jazeera</title>
-    <desc lang="en">Ep.480 06072026: One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <desc lang="en">Chris Hedges: One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b697b6ff-3aaa-44e9-ba27-687789a665b7/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260706150000 +0000" stop="20260706160000 +0000">
@@ -9792,7 +9785,7 @@
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260707093000 +0000" stop="20260707100000 +0000">
     <title lang="en">Talk to Al Jazeera</title>
-    <desc lang="en">Ep.480 06072026: One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <desc lang="en">Chris Hedges: One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b697b6ff-3aaa-44e9-ba27-687789a665b7/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260707100000 +0000" stop="20260707110000 +0000">
@@ -10999,20 +10992,15 @@
     <desc lang="en">Bringing the latest business news and up-to-date informed analysis from New York and around the world.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9675c69b-abf3-4d79-859d-dd7bc065adc2/cover"/>
   </programme>
-  <programme channel="BBCNews.uk" start="20260706134500 +0000" stop="20260706140000 +0000">
+  <programme channel="BBCNews.uk" start="20260706134500 +0000" stop="20260706143000 +0000">
     <title lang="en">BBC News Now</title>
     <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/981131b9-5588-4a4a-8196-fa606d403614/cover"/>
   </programme>
-  <programme channel="BBCNews.uk" start="20260706140000 +0000" stop="20260706143000 +0000">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3245fd08-252e-4314-8c52-fb021234ede3/cover"/>
-  </programme>
   <programme channel="BBCNews.uk" start="20260706143000 +0000" stop="20260706150000 +0000">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/905266b5-5d34-4642-b768-51e4efe854a8/cover"/>
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/4270e513-3928-4c79-9af5-39cb14cbc7aa/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260706150000 +0000" stop="20260706153000 +0000">
     <title lang="en">Verified Live</title>
@@ -11601,7 +11589,7 @@
   </programme>
   <programme channel="BBCNews.uk" start="20260708213000 +0000" stop="20260708220000 +0000">
     <title lang="en">Newsnight</title>
-    <desc lang="en">Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
+    <desc lang="en">Insights and global interviews on the news stories of the day. With Paddy O'Connell.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/07f24906-7314-48fc-bf64-382202ea533a/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260708220000 +0000" stop="20260708230000 +0000">
@@ -11678,7 +11666,7 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260706130000 +0000" stop="20260706170000 +0000">
     <title lang="en">Wimbledon 2026</title>
-    <desc lang="en">Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
+    <desc lang="en">BBC One coverage of Jasmine Paolini v Alexandra Eala, Grigor Dimitrov v Arthur Fery.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5aa51074-e71b-4dce-a488-5f007bca155e/cover"/>
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260706170000 +0000" stop="20260706173000 +0000">
@@ -11723,17 +11711,12 @@
     <desc lang="en">2/9. Contestants from Sawbridgeworth, London, Cardiff and south Derbyshire compete in the quiz.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c73b3588-4f9c-4a81-a6ff-c21365fb82b4/cover"/>
   </programme>
-  <programme channel="BBCOneChannelIslands.uk" start="20260706234000 +0000" stop="20260707021500 +0000">
+  <programme channel="BBCOneChannelIslands.uk" start="20260706234000 +0000" stop="20260707030000 +0000">
     <title lang="en">MOTD Live: USA v Belgium</title>
     <desc lang="en">Live coverage of USA v Belgium in the round of 16 at the 2026 World Cup.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/84843e5d-6228-430e-8f7c-58895a6fd421/cover"/>
   </programme>
-  <programme channel="BBCOneChannelIslands.uk" start="20260707021500 +0000" stop="20260707022000 +0000">
-    <title lang="en">Weather for the Week Ahead</title>
-    <desc lang="en">Detailed weather forecast.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/fc55272c-9fa1-4d5f-9810-d7bab6c51146/cover"/>
-  </programme>
-  <programme channel="BBCOneChannelIslands.uk" start="20260707022000 +0000" stop="20260707050000 +0000">
+  <programme channel="BBCOneChannelIslands.uk" start="20260707030000 +0000" stop="20260707050000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">BBC One joins the BBC's rolling news channel for a night of news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5155f925-fc56-4732-8f89-5a006254e636/cover"/>
@@ -11961,7 +11944,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20260706130000 +0000" stop="20260706170000 +0000">
     <title lang="en">Wimbledon 2026</title>
-    <desc lang="en">Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
+    <desc lang="en">BBC One coverage of Jasmine Paolini v Alexandra Eala, Grigor Dimitrov v Arthur Fery.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5aa51074-e71b-4dce-a488-5f007bca155e/cover"/>
   </programme>
   <programme channel="BBCOneEast.uk" start="20260706170000 +0000" stop="20260706173000 +0000">
@@ -12006,17 +11989,12 @@
     <desc lang="en">2/9. Contestants from Sawbridgeworth, London, Cardiff and south Derbyshire compete in the quiz.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0d5298ad-472f-4bb3-9712-b983d997dd8f/cover"/>
   </programme>
-  <programme channel="BBCOneEast.uk" start="20260706234000 +0000" stop="20260707021500 +0000">
+  <programme channel="BBCOneEast.uk" start="20260706234000 +0000" stop="20260707030000 +0000">
     <title lang="en">MOTD Live: USA v Belgium</title>
     <desc lang="en">Live coverage of USA v Belgium in the round of 16 at the 2026 World Cup.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/84843e5d-6228-430e-8f7c-58895a6fd421/cover"/>
   </programme>
-  <programme channel="BBCOneEast.uk" start="20260707021500 +0000" stop="20260707022000 +0000">
-    <title lang="en">Weather for the Week Ahead</title>
-    <desc lang="en">Detailed weather forecast.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c59e30da-50c7-4234-91e9-440e7c8f7c3c/cover"/>
-  </programme>
-  <programme channel="BBCOneEast.uk" start="20260707022000 +0000" stop="20260707050000 +0000">
+  <programme channel="BBCOneEast.uk" start="20260707030000 +0000" stop="20260707050000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">BBC One joins the BBC's rolling news channel for a night of news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4429e171-69ec-4caa-ac9e-382be78ba68c/cover"/>
@@ -12244,7 +12222,7 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260706130000 +0000" stop="20260706170000 +0000">
     <title lang="en">Wimbledon 2026</title>
-    <desc lang="en">Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
+    <desc lang="en">BBC One coverage of Jasmine Paolini v Alexandra Eala, Grigor Dimitrov v Arthur Fery.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a3267908-a8e7-482b-a91a-61cf06ebbbe2/cover"/>
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260706170000 +0000" stop="20260706173000 +0000">
@@ -12289,17 +12267,12 @@
     <desc lang="en">2/9. Contestants from Sawbridgeworth, London, Cardiff and south Derbyshire compete in the quiz.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/25c5975d-261b-4420-be09-8f24f766c5f9/cover"/>
   </programme>
-  <programme channel="BBCOneEastMidlands.uk" start="20260706234000 +0000" stop="20260707021500 +0000">
+  <programme channel="BBCOneEastMidlands.uk" start="20260706234000 +0000" stop="20260707030000 +0000">
     <title lang="en">MOTD Live: USA v Belgium</title>
     <desc lang="en">Live coverage of USA v Belgium in the round of 16 at the 2026 World Cup.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/84843e5d-6228-430e-8f7c-58895a6fd421/cover"/>
   </programme>
-  <programme channel="BBCOneEastMidlands.uk" start="20260707021500 +0000" stop="20260707022000 +0000">
-    <title lang="en">Weather for the Week Ahead</title>
-    <desc lang="en">Detailed weather forecast.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/cc4b8eda-3928-4095-b859-a9a7ad3dbbf7/cover"/>
-  </programme>
-  <programme channel="BBCOneEastMidlands.uk" start="20260707022000 +0000" stop="20260707050000 +0000">
+  <programme channel="BBCOneEastMidlands.uk" start="20260707030000 +0000" stop="20260707050000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">BBC One joins the BBC's rolling news channel for a night of news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/67c6ea29-ea92-4a6d-8639-cbdf4d841c5f/cover"/>
@@ -12527,7 +12500,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260706130000 +0000" stop="20260706170000 +0000">
     <title lang="en">Wimbledon 2026</title>
-    <desc lang="en">Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
+    <desc lang="en">BBC One coverage of Jasmine Paolini v Alexandra Eala, Grigor Dimitrov v Arthur Fery.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5aa51074-e71b-4dce-a488-5f007bca155e/cover"/>
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260706170000 +0000" stop="20260706173000 +0000">
@@ -12572,17 +12545,12 @@
     <desc lang="en">2/9. Contestants from Sawbridgeworth, London, Cardiff and south Derbyshire compete in the quiz.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/dc674424-3587-4e09-8b19-5adb6caedb49/cover"/>
   </programme>
-  <programme channel="BBCOneLondonHD.uk" start="20260706234000 +0000" stop="20260707021500 +0000">
+  <programme channel="BBCOneLondonHD.uk" start="20260706234000 +0000" stop="20260707030000 +0000">
     <title lang="en">MOTD Live: USA v Belgium</title>
     <desc lang="en">Live coverage of USA v Belgium in the round of 16 at the 2026 World Cup.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/84843e5d-6228-430e-8f7c-58895a6fd421/cover"/>
   </programme>
-  <programme channel="BBCOneLondonHD.uk" start="20260707021500 +0000" stop="20260707022000 +0000">
-    <title lang="en">Weather for the Week Ahead</title>
-    <desc lang="en">Detailed weather forecast.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1935adb1-10f1-485a-8bfb-e544a9ca3b37/cover"/>
-  </programme>
-  <programme channel="BBCOneLondonHD.uk" start="20260707022000 +0000" stop="20260707050000 +0000">
+  <programme channel="BBCOneLondonHD.uk" start="20260707030000 +0000" stop="20260707050000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">BBC One joins the BBC's rolling news channel for a night of news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f21d510b-660d-4a80-aac1-b1f208854c4c/cover"/>
@@ -12810,7 +12778,7 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260706130000 +0000" stop="20260706170000 +0000">
     <title lang="en">Wimbledon 2026</title>
-    <desc lang="en">Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
+    <desc lang="en">BBC One coverage of Jasmine Paolini v Alexandra Eala, Grigor Dimitrov v Arthur Fery.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5aa51074-e71b-4dce-a488-5f007bca155e/cover"/>
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260706170000 +0000" stop="20260706173000 +0000">
@@ -12855,17 +12823,12 @@
     <desc lang="en">2/9. Contestants from Sawbridgeworth, London, Cardiff and south Derbyshire compete in the quiz.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/201ab232-c109-4357-9257-b5524b155916/cover"/>
   </programme>
-  <programme channel="BBCOneNorthEastCumbria.uk" start="20260706234000 +0000" stop="20260707021500 +0000">
+  <programme channel="BBCOneNorthEastCumbria.uk" start="20260706234000 +0000" stop="20260707030000 +0000">
     <title lang="en">MOTD Live: USA v Belgium</title>
     <desc lang="en">Live coverage of USA v Belgium in the round of 16 at the 2026 World Cup.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/84843e5d-6228-430e-8f7c-58895a6fd421/cover"/>
   </programme>
-  <programme channel="BBCOneNorthEastCumbria.uk" start="20260707021500 +0000" stop="20260707022000 +0000">
-    <title lang="en">Weather for the Week Ahead</title>
-    <desc lang="en">Detailed weather forecast.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/5b50ff36-a12f-47d6-a1f3-c2034f1a7363/cover"/>
-  </programme>
-  <programme channel="BBCOneNorthEastCumbria.uk" start="20260707022000 +0000" stop="20260707050000 +0000">
+  <programme channel="BBCOneNorthEastCumbria.uk" start="20260707030000 +0000" stop="20260707050000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">BBC One joins the BBC's rolling news channel for a night of news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/df0aaebb-74d3-44e1-a27b-790b07761c8b/cover"/>
@@ -13093,7 +13056,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260706130000 +0000" stop="20260706170000 +0000">
     <title lang="en">Wimbledon 2026</title>
-    <desc lang="en">Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
+    <desc lang="en">BBC One coverage of Jasmine Paolini v Alexandra Eala, Grigor Dimitrov v Arthur Fery.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5aa51074-e71b-4dce-a488-5f007bca155e/cover"/>
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260706170000 +0000" stop="20260706173000 +0000">
@@ -13138,17 +13101,12 @@
     <desc lang="en">2/9. Contestants from Sawbridgeworth, London, Cardiff and south Derbyshire compete in the quiz.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/376226a9-332d-4466-bc14-080801e3a32c/cover"/>
   </programme>
-  <programme channel="BBCOneNorthWest.uk" start="20260706234000 +0000" stop="20260707021500 +0000">
+  <programme channel="BBCOneNorthWest.uk" start="20260706234000 +0000" stop="20260707030000 +0000">
     <title lang="en">MOTD Live: USA v Belgium</title>
     <desc lang="en">Live coverage of USA v Belgium in the round of 16 at the 2026 World Cup.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/84843e5d-6228-430e-8f7c-58895a6fd421/cover"/>
   </programme>
-  <programme channel="BBCOneNorthWest.uk" start="20260707021500 +0000" stop="20260707022000 +0000">
-    <title lang="en">Weather for the Week Ahead</title>
-    <desc lang="en">Detailed weather forecast.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d804e81f-86f5-4234-bc55-f6a2b9192fed/cover"/>
-  </programme>
-  <programme channel="BBCOneNorthWest.uk" start="20260707022000 +0000" stop="20260707050000 +0000">
+  <programme channel="BBCOneNorthWest.uk" start="20260707030000 +0000" stop="20260707050000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">BBC One joins the BBC's rolling news channel for a night of news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e12d5733-501e-4a1b-b8df-12c9f1ebd103/cover"/>
@@ -13376,7 +13334,7 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260706130000 +0000" stop="20260706170000 +0000">
     <title lang="en">Wimbledon 2026</title>
-    <desc lang="en">Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
+    <desc lang="en">BBC One coverage of Jasmine Paolini v Alexandra Eala, Grigor Dimitrov v Arthur Fery.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5aa51074-e71b-4dce-a488-5f007bca155e/cover"/>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260706170000 +0000" stop="20260706173000 +0000">
@@ -13421,17 +13379,12 @@
     <desc lang="en">2/9. Contestants from Sawbridgeworth, London, Cardiff and south Derbyshire compete in the quiz.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/887308f7-7715-4618-840d-3beaaa904c1b/cover"/>
   </programme>
-  <programme channel="BBCOneNorthernIreland.uk" start="20260706234000 +0000" stop="20260707021500 +0000">
+  <programme channel="BBCOneNorthernIreland.uk" start="20260706234000 +0000" stop="20260707030000 +0000">
     <title lang="en">MOTD Live: USA v Belgium</title>
     <desc lang="en">Live coverage of USA v Belgium in the round of 16 at the 2026 World Cup.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/84843e5d-6228-430e-8f7c-58895a6fd421/cover"/>
   </programme>
-  <programme channel="BBCOneNorthernIreland.uk" start="20260707021500 +0000" stop="20260707022000 +0000">
-    <title lang="en">Weather for the Week Ahead</title>
-    <desc lang="en">Detailed weather forecast.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/19610127-992e-46ed-a5c5-c742fdc017e6/cover"/>
-  </programme>
-  <programme channel="BBCOneNorthernIreland.uk" start="20260707022000 +0000" stop="20260707050000 +0000">
+  <programme channel="BBCOneNorthernIreland.uk" start="20260707030000 +0000" stop="20260707050000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">BBC One joins the BBC's rolling news channel for a night of news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/88a6d250-c14f-4b0b-a46f-da3d2b57da74/cover"/>
@@ -13664,7 +13617,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260706130000 +0000" stop="20260706170000 +0000">
     <title lang="en">Wimbledon 2026</title>
-    <desc lang="en">Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
+    <desc lang="en">BBC One coverage of Jasmine Paolini v Alexandra Eala, Grigor Dimitrov v Arthur Fery.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5aa51074-e71b-4dce-a488-5f007bca155e/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260706170000 +0000" stop="20260706173000 +0000">
@@ -13709,17 +13662,12 @@
     <desc lang="en">2/9. Contestants from Sawbridgeworth, London, Cardiff and south Derbyshire compete in the quiz.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/60512dab-f1de-4376-9e1f-4a0f79cd37c7/cover"/>
   </programme>
-  <programme channel="BBCOneScotHD.uk" start="20260706234000 +0000" stop="20260707021500 +0000">
+  <programme channel="BBCOneScotHD.uk" start="20260706234000 +0000" stop="20260707030000 +0000">
     <title lang="en">MOTD Live: USA v Belgium</title>
     <desc lang="en">Live coverage of USA v Belgium in the round of 16 at the 2026 World Cup.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/84843e5d-6228-430e-8f7c-58895a6fd421/cover"/>
   </programme>
-  <programme channel="BBCOneScotHD.uk" start="20260707021500 +0000" stop="20260707022000 +0000">
-    <title lang="en">Weather for the Week Ahead</title>
-    <desc lang="en">Detailed weather forecast.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e8fe6bb7-0267-4455-9b5b-bad46e440df5/cover"/>
-  </programme>
-  <programme channel="BBCOneScotHD.uk" start="20260707022000 +0000" stop="20260707050000 +0000">
+  <programme channel="BBCOneScotHD.uk" start="20260707030000 +0000" stop="20260707050000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">BBC One joins the BBC's rolling news channel for a night of news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/990e6068-9d23-425a-9680-ed4240853ec9/cover"/>
@@ -13952,7 +13900,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260706130000 +0000" stop="20260706170000 +0000">
     <title lang="en">Wimbledon 2026</title>
-    <desc lang="en">Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
+    <desc lang="en">BBC One coverage of Jasmine Paolini v Alexandra Eala, Grigor Dimitrov v Arthur Fery.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5aa51074-e71b-4dce-a488-5f007bca155e/cover"/>
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260706170000 +0000" stop="20260706173000 +0000">
@@ -13997,17 +13945,12 @@
     <desc lang="en">2/9. Contestants from Sawbridgeworth, London, Cardiff and south Derbyshire compete in the quiz.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/70275608-4deb-4119-83d6-01fa7f6df906/cover"/>
   </programme>
-  <programme channel="BBCOneSouth.uk" start="20260706234000 +0000" stop="20260707021500 +0000">
+  <programme channel="BBCOneSouth.uk" start="20260706234000 +0000" stop="20260707030000 +0000">
     <title lang="en">MOTD Live: USA v Belgium</title>
     <desc lang="en">Live coverage of USA v Belgium in the round of 16 at the 2026 World Cup.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/84843e5d-6228-430e-8f7c-58895a6fd421/cover"/>
   </programme>
-  <programme channel="BBCOneSouth.uk" start="20260707021500 +0000" stop="20260707022000 +0000">
-    <title lang="en">Weather for the Week Ahead</title>
-    <desc lang="en">Detailed weather forecast.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b3bffb72-fca3-4ea2-835e-2490f403d007/cover"/>
-  </programme>
-  <programme channel="BBCOneSouth.uk" start="20260707022000 +0000" stop="20260707050000 +0000">
+  <programme channel="BBCOneSouth.uk" start="20260707030000 +0000" stop="20260707050000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">BBC One joins the BBC's rolling news channel for a night of news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4914530e-c1f8-4df1-9234-64a323d4a9cb/cover"/>
@@ -14235,7 +14178,7 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260706130000 +0000" stop="20260706170000 +0000">
     <title lang="en">Wimbledon 2026</title>
-    <desc lang="en">Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
+    <desc lang="en">BBC One coverage of Jasmine Paolini v Alexandra Eala, Grigor Dimitrov v Arthur Fery.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5aa51074-e71b-4dce-a488-5f007bca155e/cover"/>
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260706170000 +0000" stop="20260706173000 +0000">
@@ -14280,17 +14223,12 @@
     <desc lang="en">2/9. Contestants from Sawbridgeworth, London, Cardiff and south Derbyshire compete in the quiz.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/60bed3f4-b9d3-4a09-b7a9-23b3ba40129a/cover"/>
   </programme>
-  <programme channel="BBCOneSouthEast.uk" start="20260706234000 +0000" stop="20260707021500 +0000">
+  <programme channel="BBCOneSouthEast.uk" start="20260706234000 +0000" stop="20260707030000 +0000">
     <title lang="en">MOTD Live: USA v Belgium</title>
     <desc lang="en">Live coverage of USA v Belgium in the round of 16 at the 2026 World Cup.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/84843e5d-6228-430e-8f7c-58895a6fd421/cover"/>
   </programme>
-  <programme channel="BBCOneSouthEast.uk" start="20260707021500 +0000" stop="20260707022000 +0000">
-    <title lang="en">Weather for the Week Ahead</title>
-    <desc lang="en">Detailed weather forecast.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/923cbd63-bd3e-4e64-a643-4eca2ce5c6b9/cover"/>
-  </programme>
-  <programme channel="BBCOneSouthEast.uk" start="20260707022000 +0000" stop="20260707050000 +0000">
+  <programme channel="BBCOneSouthEast.uk" start="20260707030000 +0000" stop="20260707050000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">BBC One joins the BBC's rolling news channel for a night of news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d4bd2c6e-d109-4780-8cdd-ad1cf9d73784/cover"/>
@@ -14518,7 +14456,7 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260706130000 +0000" stop="20260706170000 +0000">
     <title lang="en">Wimbledon 2026</title>
-    <desc lang="en">Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
+    <desc lang="en">BBC One coverage of Jasmine Paolini v Alexandra Eala, Grigor Dimitrov v Arthur Fery.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5aa51074-e71b-4dce-a488-5f007bca155e/cover"/>
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260706170000 +0000" stop="20260706173000 +0000">
@@ -14563,17 +14501,12 @@
     <desc lang="en">2/9. Contestants from Sawbridgeworth, London, Cardiff and south Derbyshire compete in the quiz.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/abdbf1d7-dacf-4dd7-9ea1-686f826f477c/cover"/>
   </programme>
-  <programme channel="BBCOneSouthWest.uk" start="20260706234000 +0000" stop="20260707021500 +0000">
+  <programme channel="BBCOneSouthWest.uk" start="20260706234000 +0000" stop="20260707030000 +0000">
     <title lang="en">MOTD Live: USA v Belgium</title>
     <desc lang="en">Live coverage of USA v Belgium in the round of 16 at the 2026 World Cup.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/84843e5d-6228-430e-8f7c-58895a6fd421/cover"/>
   </programme>
-  <programme channel="BBCOneSouthWest.uk" start="20260707021500 +0000" stop="20260707022000 +0000">
-    <title lang="en">Weather for the Week Ahead</title>
-    <desc lang="en">Detailed weather forecast.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0b586a17-ab23-4cf9-b9ef-a658ae8ccdbe/cover"/>
-  </programme>
-  <programme channel="BBCOneSouthWest.uk" start="20260707022000 +0000" stop="20260707050000 +0000">
+  <programme channel="BBCOneSouthWest.uk" start="20260707030000 +0000" stop="20260707050000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">BBC One joins the BBC's rolling news channel for a night of news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/284d6dfb-518f-4cff-ace9-23d1caff2bdd/cover"/>
@@ -14811,7 +14744,7 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20260706130000 +0000" stop="20260706170000 +0000">
     <title lang="en">Wimbledon 2026</title>
-    <desc lang="en">Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
+    <desc lang="en">BBC One coverage of Jasmine Paolini v Alexandra Eala, Grigor Dimitrov v Arthur Fery.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5aa51074-e71b-4dce-a488-5f007bca155e/cover"/>
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20260706170000 +0000" stop="20260706173000 +0000">
@@ -14856,17 +14789,12 @@
     <desc lang="en">2/9. Contestants from Sawbridgeworth, London, Cardiff and south Derbyshire compete in the quiz.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b89daa7c-2f74-4e92-95fa-9a2d1ff1c928/cover"/>
   </programme>
-  <programme channel="BBCOneWalesHD.uk" start="20260706234000 +0000" stop="20260707021500 +0000">
+  <programme channel="BBCOneWalesHD.uk" start="20260706234000 +0000" stop="20260707030000 +0000">
     <title lang="en">MOTD Live: USA v Belgium</title>
     <desc lang="en">Live coverage of USA v Belgium in the round of 16 at the 2026 World Cup.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/84843e5d-6228-430e-8f7c-58895a6fd421/cover"/>
   </programme>
-  <programme channel="BBCOneWalesHD.uk" start="20260707021500 +0000" stop="20260707022000 +0000">
-    <title lang="en">Weather for the Week Ahead</title>
-    <desc lang="en">Detailed weather forecast.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a96f2c91-33a2-4d6a-94fd-fbd6aa2b2e35/cover"/>
-  </programme>
-  <programme channel="BBCOneWalesHD.uk" start="20260707022000 +0000" stop="20260707050000 +0000">
+  <programme channel="BBCOneWalesHD.uk" start="20260707030000 +0000" stop="20260707050000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">BBC One joins the BBC's rolling news channel for a night of news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0266c256-53c2-4643-9ab7-aa37c7aee5fa/cover"/>
@@ -15135,7 +15063,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20260706130000 +0000" stop="20260706170000 +0000">
     <title lang="en">Wimbledon 2026</title>
-    <desc lang="en">Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
+    <desc lang="en">BBC One coverage of Jasmine Paolini v Alexandra Eala, Grigor Dimitrov v Arthur Fery.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5aa51074-e71b-4dce-a488-5f007bca155e/cover"/>
   </programme>
   <programme channel="BBCOneWest.uk" start="20260706170000 +0000" stop="20260706173000 +0000">
@@ -15180,17 +15108,12 @@
     <desc lang="en">2/9. Contestants from Sawbridgeworth, London, Cardiff and south Derbyshire compete in the quiz.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2ed37c5e-91dc-4c22-ba3c-3205c5891dd7/cover"/>
   </programme>
-  <programme channel="BBCOneWest.uk" start="20260706234000 +0000" stop="20260707021500 +0000">
+  <programme channel="BBCOneWest.uk" start="20260706234000 +0000" stop="20260707030000 +0000">
     <title lang="en">MOTD Live: USA v Belgium</title>
     <desc lang="en">Live coverage of USA v Belgium in the round of 16 at the 2026 World Cup.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/84843e5d-6228-430e-8f7c-58895a6fd421/cover"/>
   </programme>
-  <programme channel="BBCOneWest.uk" start="20260707021500 +0000" stop="20260707022000 +0000">
-    <title lang="en">Weather for the Week Ahead</title>
-    <desc lang="en">Detailed weather forecast.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/779fc21a-41d5-46a2-80c8-30130b65a7a8/cover"/>
-  </programme>
-  <programme channel="BBCOneWest.uk" start="20260707022000 +0000" stop="20260707050000 +0000">
+  <programme channel="BBCOneWest.uk" start="20260707030000 +0000" stop="20260707050000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">BBC One joins the BBC's rolling news channel for a night of news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7ddb92c5-01e6-4c77-abe4-e9cd662a028b/cover"/>
@@ -15418,7 +15341,7 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260706130000 +0000" stop="20260706170000 +0000">
     <title lang="en">Wimbledon 2026</title>
-    <desc lang="en">Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
+    <desc lang="en">BBC One coverage of Jasmine Paolini v Alexandra Eala, Grigor Dimitrov v Arthur Fery.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5aa51074-e71b-4dce-a488-5f007bca155e/cover"/>
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260706170000 +0000" stop="20260706173000 +0000">
@@ -15463,17 +15386,12 @@
     <desc lang="en">2/9. Contestants from Sawbridgeworth, London, Cardiff and south Derbyshire compete in the quiz.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/21e1b0e0-2cd3-4851-a5d6-529ad793647d/cover"/>
   </programme>
-  <programme channel="BBCOneWestMidlands.uk" start="20260706234000 +0000" stop="20260707021500 +0000">
+  <programme channel="BBCOneWestMidlands.uk" start="20260706234000 +0000" stop="20260707030000 +0000">
     <title lang="en">MOTD Live: USA v Belgium</title>
     <desc lang="en">Live coverage of USA v Belgium in the round of 16 at the 2026 World Cup.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/84843e5d-6228-430e-8f7c-58895a6fd421/cover"/>
   </programme>
-  <programme channel="BBCOneWestMidlands.uk" start="20260707021500 +0000" stop="20260707022000 +0000">
-    <title lang="en">Weather for the Week Ahead</title>
-    <desc lang="en">Detailed weather forecast.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/58d83ce6-8f26-414c-9ce0-964b0adce001/cover"/>
-  </programme>
-  <programme channel="BBCOneWestMidlands.uk" start="20260707022000 +0000" stop="20260707050000 +0000">
+  <programme channel="BBCOneWestMidlands.uk" start="20260707030000 +0000" stop="20260707050000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">BBC One joins the BBC's rolling news channel for a night of news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/114d5fd5-3c7e-498a-ae5d-cde1e56d1db2/cover"/>
@@ -15701,7 +15619,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260706130000 +0000" stop="20260706170000 +0000">
     <title lang="en">Wimbledon 2026</title>
-    <desc lang="en">Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
+    <desc lang="en">BBC One coverage of Jasmine Paolini v Alexandra Eala, Grigor Dimitrov v Arthur Fery.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5aa51074-e71b-4dce-a488-5f007bca155e/cover"/>
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260706170000 +0000" stop="20260706173000 +0000">
@@ -15746,17 +15664,12 @@
     <desc lang="en">2/9. Contestants from Sawbridgeworth, London, Cardiff and south Derbyshire compete in the quiz.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e92a806f-9a4d-41b4-851c-3ea9fa3c0983/cover"/>
   </programme>
-  <programme channel="BBCOneYorksLincs.uk" start="20260706234000 +0000" stop="20260707021500 +0000">
+  <programme channel="BBCOneYorksLincs.uk" start="20260706234000 +0000" stop="20260707030000 +0000">
     <title lang="en">MOTD Live: USA v Belgium</title>
     <desc lang="en">Live coverage of USA v Belgium in the round of 16 at the 2026 World Cup.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/84843e5d-6228-430e-8f7c-58895a6fd421/cover"/>
   </programme>
-  <programme channel="BBCOneYorksLincs.uk" start="20260707021500 +0000" stop="20260707022000 +0000">
-    <title lang="en">Weather for the Week Ahead</title>
-    <desc lang="en">Detailed weather forecast.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0d77aaf0-24ad-4921-8fda-87e3e1977045/cover"/>
-  </programme>
-  <programme channel="BBCOneYorksLincs.uk" start="20260707022000 +0000" stop="20260707050000 +0000">
+  <programme channel="BBCOneYorksLincs.uk" start="20260707030000 +0000" stop="20260707050000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">BBC One joins the BBC's rolling news channel for a night of news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/dd9bbd1a-1ebc-4e72-9c94-2514ad98c683/cover"/>
@@ -15984,7 +15897,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260706130000 +0000" stop="20260706170000 +0000">
     <title lang="en">Wimbledon 2026</title>
-    <desc lang="en">Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
+    <desc lang="en">BBC One coverage of Jasmine Paolini v Alexandra Eala, Grigor Dimitrov v Arthur Fery.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5aa51074-e71b-4dce-a488-5f007bca155e/cover"/>
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260706170000 +0000" stop="20260706173000 +0000">
@@ -16029,17 +15942,12 @@
     <desc lang="en">2/9. Contestants from Sawbridgeworth, London, Cardiff and south Derbyshire compete in the quiz.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0808104e-0144-4bb0-b718-ef76900a6e53/cover"/>
   </programme>
-  <programme channel="BBCOneYorkshire.uk" start="20260706234000 +0000" stop="20260707021500 +0000">
+  <programme channel="BBCOneYorkshire.uk" start="20260706234000 +0000" stop="20260707030000 +0000">
     <title lang="en">MOTD Live: USA v Belgium</title>
     <desc lang="en">Live coverage of USA v Belgium in the round of 16 at the 2026 World Cup.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/84843e5d-6228-430e-8f7c-58895a6fd421/cover"/>
   </programme>
-  <programme channel="BBCOneYorkshire.uk" start="20260707021500 +0000" stop="20260707022000 +0000">
-    <title lang="en">Weather for the Week Ahead</title>
-    <desc lang="en">Detailed weather forecast.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9396b7b2-b50d-4a34-b021-18d653f5a8ce/cover"/>
-  </programme>
-  <programme channel="BBCOneYorkshire.uk" start="20260707022000 +0000" stop="20260707050000 +0000">
+  <programme channel="BBCOneYorkshire.uk" start="20260707030000 +0000" stop="20260707050000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">BBC One joins the BBC's rolling news channel for a night of news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/dab554d8-8570-4286-85bd-a5fcbaed1dff/cover"/>
@@ -16211,7 +16119,7 @@
   <programme channel="BBCParliament.uk" start="20260705234500 +0000" stop="20260706010000 +0000">
     <title lang="en">National Maternity and Neonatal Investigation Statement</title>
     <desc lang="en">A statement on the national maternity and neonatal investigation, on Tuesday 30 June.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b5357ce2-fddd-495f-8b38-0d4ef13f996c/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/4a63a38d-5a39-4900-95b5-7fc90b359182/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260706010000 +0000" stop="20260706013500 +0000">
     <title lang="en">Urgent Question on the Early...</title>
@@ -16226,17 +16134,17 @@
   <programme channel="BBCParliament.uk" start="20260706024500 +0000" stop="20260706031500 +0000">
     <title lang="en">Urgent Question on Steel...</title>
     <desc lang="en">...Tariffs and Northern Ireland. Coverage of an urgent question on steel tariffs and Northern Ireland, on Tuesday 30 June.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f2e65d7c-c197-439d-a317-730f801dfbd1/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/939eac6e-8093-4505-8465-043f20ad48bc/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260706031500 +0000" stop="20260706041500 +0000">
     <title lang="en">Occupied Palestinian...</title>
     <desc lang="en">...Territories Urgent Question. The urgent question on Israel's planned expansion in the Occupied Palestinian Territories.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f57ced89-33ec-4be3-9a5a-8bdf2c4acf36/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/6dad254f-7019-4410-81c0-91b8e31de8d6/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260706041500 +0000" stop="20260706050000 +0000">
     <title lang="en">Flood Insurance Reform Statement</title>
     <desc lang="en">Coverage of the statement in the House of Commons by the environment, food and rural affairs minister, Emma Hardy, on flood insurance, on Wednesday 1 July.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3f16e350-135b-4f81-8fe6-ce565910a3eb/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/e04b773a-1bb6-4777-a56f-95da28db4224/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260706050000 +0000" stop="20260706050500 +0000">
     <title lang="en">This is BBC Parliament</title>
@@ -16270,7 +16178,7 @@
   <programme channel="BBCParliament.uk" start="20260706111500 +0000" stop="20260706130000 +0000">
     <title lang="en">Home Affairs Committee on Serious Organised Crime</title>
     <desc lang="en">Home Affairs Committee session on the impact of serious and organised crime on local neighbourhoods, on Wednesday 1 July.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/01868d1c-d0dd-474c-8607-0d26c134bb6a/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/bba3c92f-33ef-4170-8201-29397c3af875/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260706130000 +0000" stop="20260706133000 +0000">
     <title lang="en">Science, Innovation and Technology Questions</title>
@@ -16282,20 +16190,55 @@
     <desc lang="en">Coverage of questions in the House of Commons to Dan Jarvis, the defence secretary, and his team of ministers on Monday 6 July.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c0144992-4fc1-44f9-8464-d38ffcbd3d23/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260706143000 +0000" stop="20260706213000 +0000">
+  <programme channel="BBCParliament.uk" start="20260706143000 +0000" stop="20260706151500 +0000">
+    <title lang="en">Live Rochdale Grooming Gang Leader Urgent Question</title>
+    <desc lang="en">Coverage of an urgent question on the legal status of Shabir Ahmed, on Monday 6 July.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/17d80ee6-b8b2-4d0a-8759-1a3cabcf7f50/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260706151500 +0000" stop="20260706161500 +0000">
+    <title lang="en">Live Foreign Interference in UK Politics Statement</title>
+    <desc lang="en">Coverage of a statement on foreign interference in UK politics, on Monday 6 July.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/254e5542-b766-4f5b-a6a6-950b314f7fd0/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260706161500 +0000" stop="20260706171500 +0000">
+    <title lang="en">Live Police Leadership...</title>
+    <desc lang="en">...Commission Report Statement. A statement on the findings of the Police Leadership Commission report, on Monday 6 July.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/b3a41db4-7158-4542-9ddc-c5bc17e33acc/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260706171500 +0000" stop="20260706181500 +0000">
+    <title lang="en">Live Civil Service Pensions Statement</title>
+    <desc lang="en">Coverage of a statement in the House of Commons by cabinet office minister Nick Thomas-Symonds on civil service pensions following delays to payments, on Monday 6 July.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/445bced2-69de-45d6-a6cc-9d0494408a19/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260706181500 +0000" stop="20260706213000 +0000">
     <title lang="en">Live House of Commons</title>
-    <desc lang="en">Coverage of the day's proceedings in the House of Commons including a debate on new regulations relating to the transport of waste, on Monday 6 July.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/87468980-7ba6-467e-a454-6606d6d95473/cover"/>
+    <desc lang="en">Coverage of the day's proceedings in the House of Commons on Monday 6 July.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a9b661b6-1fd7-4c2f-8303-33fe0ef14885/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260706213000 +0000" stop="20260706221500 +0000">
     <title lang="en">Lords Questions</title>
     <desc lang="en">Questions in the Lords covering fracture liaison services in England, Israeli settlements in the West Bank and Imprisonment for Public Protection prisoners, on Monday 6 July.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/13e64e29-e44f-4092-95f4-8327a4d78fd7/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260706221500 +0000" stop="20260707060000 +0000">
-    <title lang="en">House of Lords</title>
-    <desc lang="en">Business in the House of Lords including the second reading debate on the general principles of the Armed Forces Bill, on Monday 6 July.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/644326c9-da22-4595-a254-f380d84cb176/cover"/>
+  <programme channel="BBCParliament.uk" start="20260706221500 +0000" stop="20260706225500 +0000">
+    <title lang="en">House of Lords - National...</title>
+    <desc lang="en">...Maternity and Neonatal Investigation. The statement on the National Maternity and Neonatal Investigation, on Monday 6 July.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/28fa298d-b387-4bb0-85cd-4851fb912830/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260706225500 +0000" stop="20260707005500 +0000">
+    <title lang="en">House of Lords - Armed Forces Bill, Part 1</title>
+    <desc lang="en">Coverage of the second reading debate in the House of Lords on the general principles of the Armed Forces Bill, on Monday 6 July.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/0f8f281d-db0e-48aa-965b-a8bb03874561/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260707005500 +0000" stop="20260707025500 +0000">
+    <title lang="en">House of Lords - Armed Forces Bill, Part 2</title>
+    <desc lang="en">Coverage of the second reading debate in the House of Lords on the general principles of the Armed Forces Bill, on Monday 6 July.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/2275225a-f05b-44c0-aa3c-b6da6aab9f1c/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260707025500 +0000" stop="20260707060000 +0000">
+    <title lang="en">House of Lords - Armed Forces Bill, Part 3</title>
+    <desc lang="en">Coverage of the second reading debate in the House of Lords on the general principles of the Armed Forces Bill, on Monday 6 July.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7590e426-cda8-45a3-bf0d-97f644ddda49/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260707060000 +0000" stop="20260707070000 +0000">
     <title lang="en">Defence Questions</title>
@@ -16310,7 +16253,7 @@
   <programme channel="BBCParliament.uk" start="20260707093000 +0000" stop="20260707103000 +0000">
     <title lang="en">Live Defence Committee on the Defence Investment Plan</title>
     <desc lang="en">Coverage of the Defence select committee session on the Defence Investment Plan, on Tuesday 7 July.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/78ea17b0-424d-4230-8cc0-3347e3a81377/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/31e67074-ffef-4ab0-8d2b-3fd5044711d0/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260707103000 +0000" stop="20260707113000 +0000">
     <title lang="en">Live Energy Security and Net Zero Questions</title>
@@ -16355,7 +16298,7 @@
   <programme channel="BBCParliament.uk" start="20260708083000 +0000" stop="20260708103000 +0000">
     <title lang="en">Live Committee on the Work of...</title>
     <desc lang="en">...the Department of Health and Social Care. The Health and Social Care select committee session on the work of the department.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/27150510-47ed-4c9c-9a0c-e8de48c8d6c1/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/e402c075-41f8-4dbd-a937-4f30051825b4/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260708103000 +0000" stop="20260708110000 +0000">
     <title lang="en">Live Northern Ireland Office Questions</title>
@@ -16910,7 +16853,7 @@
   </programme>
   <programme channel="BBCThreeHD.uk" start="20260707200000 +0000" stop="20260707205000 +0000">
     <title lang="en">I Kissed a Girl</title>
-    <desc lang="en">7/10. Will Cupid's penultimate surprise Kiss-Off reignite old flames or launch new love for others?</desc>
+    <desc lang="en">7/10. Will Cupid's penultimate surprise Kiss-Off reignite old flames or launch new love for others? Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bf3cd164-0f65-4058-88ac-78b77655d9be/cover"/>
     <episode-num system="xmltv_ns">1.6.0</episode-num>
     <episode-num system="onscreen">S2E7</episode-num>
@@ -17075,7 +17018,7 @@
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20260706100000 +0000" stop="20260706140000 +0000">
     <title lang="en">Wimbledon 2026</title>
-    <desc lang="en">Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
+    <desc lang="en">BBC Two morning coverage of Alex de Minaur, Jasmine Paolini and Marie Bouzkova.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c3267944-7411-46af-818c-cc6e9393b9c6/cover"/>
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20260706140000 +0000" stop="20260706180000 +0000">
@@ -17206,7 +17149,7 @@
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20260707200000 +0000" stop="20260707204500 +0000">
     <title lang="en">QI XL</title>
-    <desc lang="en">1/14. Sandi Toksvig shares her top tips and tools with Joe Lycett, Holly Walsh, Bill Bailey and Alan Davies.</desc>
+    <desc lang="en">1/14. Sandi Toksvig shares her top tips and tools with Joe Lycett, Holly Walsh, Bill Bailey and Alan Davies. Contains adult humour.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/778bcdca-ad22-4d80-afe6-c0e1ada836f3/cover"/>
     <episode-num system="xmltv_ns">19.0.0</episode-num>
     <episode-num system="onscreen">S20E1</episode-num>
@@ -17341,12 +17284,12 @@
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20260708210000 +0000" stop="20260708213000 +0000">
     <title lang="en">Mackenzie Crook and Martin Freeman Remember</title>
-    <desc lang="en">.. The Office. Mackenzie Crook and Martin Freeman share their memories of working on The Office.</desc>
+    <desc lang="en">.. The Office. Mackenzie Crook and Martin Freeman share their memories of working on The Office. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3bf3ff76-ea32-4fd3-b5b9-036bf34ce0cb/cover"/>
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20260708213000 +0000" stop="20260708220500 +0000">
     <title lang="en">Newsnight, followed by Weather</title>
-    <desc lang="en">Insights and global interviews on the news stories of the day. With Victoria Derbyshire.   Followed by Weather.</desc>
+    <desc lang="en">Insights and global interviews on the news stories of the day. With Paddy O'Connell.   Followed by Weather.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/07f24906-7314-48fc-bf64-382202ea533a/cover"/>
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20260708220500 +0000" stop="20260708225500 +0000">
@@ -17407,7 +17350,7 @@
   </programme>
   <programme channel="BBCTwoHD.uk" start="20260706100000 +0000" stop="20260706140000 +0000">
     <title lang="en">Wimbledon 2026</title>
-    <desc lang="en">Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
+    <desc lang="en">BBC Two morning coverage of Alex de Minaur, Jasmine Paolini and Marie Bouzkova.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c3267944-7411-46af-818c-cc6e9393b9c6/cover"/>
   </programme>
   <programme channel="BBCTwoHD.uk" start="20260706140000 +0000" stop="20260706180000 +0000">
@@ -17538,7 +17481,7 @@
   </programme>
   <programme channel="BBCTwoHD.uk" start="20260707200000 +0000" stop="20260707204500 +0000">
     <title lang="en">QI XL</title>
-    <desc lang="en">1/14. Sandi Toksvig shares her top tips and tools with Joe Lycett, Holly Walsh, Bill Bailey and Alan Davies.</desc>
+    <desc lang="en">1/14. Sandi Toksvig shares her top tips and tools with Joe Lycett, Holly Walsh, Bill Bailey and Alan Davies. Contains adult humour.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/778bcdca-ad22-4d80-afe6-c0e1ada836f3/cover"/>
     <episode-num system="xmltv_ns">19.0.0</episode-num>
     <episode-num system="onscreen">S20E1</episode-num>
@@ -17673,12 +17616,12 @@
   </programme>
   <programme channel="BBCTwoHD.uk" start="20260708210000 +0000" stop="20260708213000 +0000">
     <title lang="en">Mackenzie Crook and Martin Freeman Remember</title>
-    <desc lang="en">.. The Office. Mackenzie Crook and Martin Freeman share their memories of working on The Office.</desc>
+    <desc lang="en">.. The Office. Mackenzie Crook and Martin Freeman share their memories of working on The Office. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3bf3ff76-ea32-4fd3-b5b9-036bf34ce0cb/cover"/>
   </programme>
   <programme channel="BBCTwoHD.uk" start="20260708213000 +0000" stop="20260708220500 +0000">
     <title lang="en">Newsnight, followed by Weather</title>
-    <desc lang="en">Insights and global interviews on the news stories of the day. With Victoria Derbyshire.   Followed by Weather.</desc>
+    <desc lang="en">Insights and global interviews on the news stories of the day. With Paddy O'Connell.   Followed by Weather.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/07f24906-7314-48fc-bf64-382202ea533a/cover"/>
   </programme>
   <programme channel="BBCTwoHD.uk" start="20260708220500 +0000" stop="20260708225500 +0000">
@@ -17753,7 +17696,7 @@
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20260706100000 +0000" stop="20260706140000 +0000">
     <title lang="en">Wimbledon 2026</title>
-    <desc lang="en">Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
+    <desc lang="en">BBC Two morning coverage of Alex de Minaur, Jasmine Paolini and Marie Bouzkova.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c3267944-7411-46af-818c-cc6e9393b9c6/cover"/>
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20260706140000 +0000" stop="20260706180000 +0000">
@@ -17884,7 +17827,7 @@
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20260707200000 +0000" stop="20260707204500 +0000">
     <title lang="en">QI XL</title>
-    <desc lang="en">1/14. Sandi Toksvig shares her top tips and tools with Joe Lycett, Holly Walsh, Bill Bailey and Alan Davies.</desc>
+    <desc lang="en">1/14. Sandi Toksvig shares her top tips and tools with Joe Lycett, Holly Walsh, Bill Bailey and Alan Davies. Contains adult humour.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/778bcdca-ad22-4d80-afe6-c0e1ada836f3/cover"/>
     <episode-num system="xmltv_ns">19.0.0</episode-num>
     <episode-num system="onscreen">S20E1</episode-num>
@@ -18019,12 +17962,12 @@
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20260708210000 +0000" stop="20260708213000 +0000">
     <title lang="en">Mackenzie Crook and Martin Freeman Remember</title>
-    <desc lang="en">.. The Office. Mackenzie Crook and Martin Freeman share their memories of working on The Office.</desc>
+    <desc lang="en">.. The Office. Mackenzie Crook and Martin Freeman share their memories of working on The Office. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3bf3ff76-ea32-4fd3-b5b9-036bf34ce0cb/cover"/>
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20260708213000 +0000" stop="20260708220500 +0000">
     <title lang="en">Newsnight, followed by Weather</title>
-    <desc lang="en">Insights and global interviews on the news stories of the day. With Victoria Derbyshire.   Followed by Weather.</desc>
+    <desc lang="en">Insights and global interviews on the news stories of the day. With Paddy O'Connell.   Followed by Weather.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/07f24906-7314-48fc-bf64-382202ea533a/cover"/>
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20260708220500 +0000" stop="20260708225500 +0000">
@@ -18085,7 +18028,7 @@
   </programme>
   <programme channel="BBCTwoWales.uk" start="20260706100000 +0000" stop="20260706140000 +0000">
     <title lang="en">Wimbledon 2026</title>
-    <desc lang="en">Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
+    <desc lang="en">BBC Two morning coverage of Alex de Minaur, Jasmine Paolini and Marie Bouzkova.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c3267944-7411-46af-818c-cc6e9393b9c6/cover"/>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20260706140000 +0000" stop="20260706180000 +0000">
@@ -18216,7 +18159,7 @@
   </programme>
   <programme channel="BBCTwoWales.uk" start="20260707200000 +0000" stop="20260707204500 +0000">
     <title lang="en">QI XL</title>
-    <desc lang="en">1/14. Sandi Toksvig shares her top tips and tools with Joe Lycett, Holly Walsh, Bill Bailey and Alan Davies.</desc>
+    <desc lang="en">1/14. Sandi Toksvig shares her top tips and tools with Joe Lycett, Holly Walsh, Bill Bailey and Alan Davies. Contains adult humour.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/778bcdca-ad22-4d80-afe6-c0e1ada836f3/cover"/>
     <episode-num system="xmltv_ns">19.0.0</episode-num>
     <episode-num system="onscreen">S20E1</episode-num>
@@ -18351,12 +18294,12 @@
   </programme>
   <programme channel="BBCTwoWales.uk" start="20260708210000 +0000" stop="20260708213000 +0000">
     <title lang="en">Mackenzie Crook and Martin Freeman Remember</title>
-    <desc lang="en">.. The Office. Mackenzie Crook and Martin Freeman share their memories of working on The Office.</desc>
+    <desc lang="en">.. The Office. Mackenzie Crook and Martin Freeman share their memories of working on The Office. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3bf3ff76-ea32-4fd3-b5b9-036bf34ce0cb/cover"/>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20260708213000 +0000" stop="20260708220500 +0000">
     <title lang="en">Newsnight, followed by Weather</title>
-    <desc lang="en">Insights and global interviews on the news stories of the day. With Victoria Derbyshire.   Followed by Weather.</desc>
+    <desc lang="en">Insights and global interviews on the news stories of the day. With Paddy O'Connell.   Followed by Weather.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/07f24906-7314-48fc-bf64-382202ea533a/cover"/>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20260708220500 +0000" stop="20260708225500 +0000">
@@ -19408,6 +19351,8 @@
     <title lang="en">Newsround</title>
     <desc lang="en">06/07/2026. Topical news magazine for children.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/23ba859d-78a0-4c47-a1f2-16dc5f4bcb24/cover"/>
+    <episode-num system="xmltv_ns">2025.68.0</episode-num>
+    <episode-num system="onscreen">S2026E69</episode-num>
   </programme>
   <programme channel="CBBC.uk" start="20260706065500 +0000" stop="20260706070000 +0000">
     <title lang="en">New: Hacker's Ruff Guide to the World Cup</title>
@@ -22167,7 +22112,7 @@
   </programme>
   <programme channel="Channel4.uk" start="20260706180000 +0000" stop="20260706190000 +0000">
     <title lang="en">Channel 4 News</title>
-    <desc lang="en">Channel 4's flagship news programme. Including the weather.</desc>
+    <desc lang="en">Outcry as FIFA overturns a one match ban on a US footballer after Donald Trump intervenes. And Nigel Farage insists he broke no rules over unregistered gifts from a wealthy supporter.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9d05df8f-c5c1-455d-b715-a3f9164efdcc/cover"/>
   </programme>
   <programme channel="Channel4.uk" start="20260706190000 +0000" stop="20260706200000 +0000">
@@ -22845,7 +22790,7 @@
   </programme>
   <programme channel="Channel4Plus1.uk" start="20260706190000 +0000" stop="20260706200000 +0000">
     <title lang="en">Channel 4 News</title>
-    <desc lang="en">Channel 4's flagship news programme. Including the weather.</desc>
+    <desc lang="en">Outcry as FIFA overturns a one match ban on a US footballer after Donald Trump intervenes. And Nigel Farage insists he broke no rules over unregistered gifts from a wealthy supporter.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9d05df8f-c5c1-455d-b715-a3f9164efdcc/cover"/>
   </programme>
   <programme channel="Channel4Plus1.uk" start="20260706200000 +0000" stop="20260706210000 +0000">
@@ -23693,17 +23638,20 @@
     <episode-num system="xmltv_ns">0.21.0</episode-num>
     <episode-num system="onscreen">S1E22</episode-num>
   </programme>
-  <programme channel="Channel5Plus1.uk" start="20260707043500 +0000" stop="20260707052600 +0000">
-    <title lang="en">** Visually Signed** Paul...</title>
-    <desc lang="en">...Martin's Antiques Showdown. Auctioneers face a choice between a 19th-century apothecary cabinet and a plush chaise longue. Which piece do they think will get bidders most excited? (VS) (Ep3)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/cb84a12d-24c0-4442-b253-d58284e5e3f8/cover"/>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme channel="Channel5Plus1.uk" start="20260707052600 +0000" stop="20260707053500 +0000">
+  <programme channel="Channel5Plus1.uk" start="20260707043500 +0000" stop="20260707050000 +0000">
     <title lang="en">This is Channel 5 +1</title>
     <desc lang="en">This is Channel 5 +1</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/59b88e6e-1d8b-4e96-96b4-a0eb4ce34375/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/17bfcbec-7342-4208-8409-c808b5b404b3/cover"/>
+  </programme>
+  <programme channel="Channel5Plus1.uk" start="20260707050000 +0000" stop="20260707052500 +0000">
+    <title lang="en">This is Channel 5 +1</title>
+    <desc lang="en">This is Channel 5 +1</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f6e4c576-40a1-4137-9aa8-ca29968cb3c2/cover"/>
+  </programme>
+  <programme channel="Channel5Plus1.uk" start="20260707052500 +0000" stop="20260707053500 +0000">
+    <title lang="en">Entertainment News on 5</title>
+    <desc lang="en">A daily round-up of showbiz news and gossip from around the world, focusing on celebrities, movies, music and entertainment.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3f3df02a-d440-48cc-a78a-e5e2e375f740/cover"/>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20260707053500 +0000" stop="20260707054500 +0000">
     <title lang="en">**Visually Signed** Milo</title>
@@ -24009,17 +23957,17 @@
     <episode-num system="xmltv_ns">0.22.0</episode-num>
     <episode-num system="onscreen">S1E23</episode-num>
   </programme>
-  <programme channel="Channel5Plus1.uk" start="20260708043500 +0000" stop="20260708052500 +0000">
+  <programme channel="Channel5Plus1.uk" start="20260708043500 +0000" stop="20260708052600 +0000">
     <title lang="en">** Visually Signed** Paul...</title>
     <desc lang="en">...Martin's Antiques Showdown. Locals bring collectibles to a valuation day in Stourbridge. Will either auctioneer be tempted by locally-blown wine goblets or a Basil Brush lamp base? (VS) (Ep4)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b9d34bd4-24f8-4c42-a71c-1d3766d0f6b2/cover"/>
     <episode-num system="xmltv_ns">0.3.0</episode-num>
     <episode-num system="onscreen">S1E4</episode-num>
   </programme>
-  <programme channel="Channel5Plus1.uk" start="20260708052500 +0000" stop="20260708053500 +0000">
-    <title lang="en">Entertainment News on 5</title>
-    <desc lang="en">A daily round-up of showbiz news and gossip from around the world, focusing on celebrities, movies, music and entertainment.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/277238ec-1e67-4625-9fb9-641461e3e5e2/cover"/>
+  <programme channel="Channel5Plus1.uk" start="20260708052600 +0000" stop="20260708053500 +0000">
+    <title lang="en">This is Channel 5 +1</title>
+    <desc lang="en">This is Channel 5 +1</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/9e1e25c2-6d97-49cf-9a08-828c52e8fc01/cover"/>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20260708053500 +0000" stop="20260708054500 +0000">
     <title lang="en">**Visually Signed** Milo</title>
