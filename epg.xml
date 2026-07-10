@@ -449,7 +449,7 @@
   </programme>
   <programme channel="sky.main.uk" start="20260710073000 +0000" stop="20260710090000 +0000">
     <title lang="en">Live DP World Tour Golf</title>
-    <desc lang="en">The second round of the Genesis Scottish Open - a DP World Tour Rolex Series event - at the Renaissance Club.</desc>
+    <desc lang="en">Round two of the Genesis Scottish Open. Rory McIlroy forms part of a five-way tie for the lead at the Renaissance Club, including former champion Bernd Wiesberger and Patrick Cantlay.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/418d011a-a8d1-464e-bade-9f2d96cfa55b/cover"/>
   </programme>
   <programme channel="sky.main.uk" start="20260710090000 +0000" stop="20260710174500 +0000">
@@ -459,12 +459,12 @@
   </programme>
   <programme channel="sky.main.uk" start="20260710174500 +0000" stop="20260710213000 +0000">
     <title lang="en">Live Men's T20 Blast</title>
-    <desc lang="en">Lancashire and Yorkshire meet in the Vitality Blast.</desc>
+    <desc lang="en">Lancashire and Yorkshire meet in a Vitality Blast North Group match-up at Old Trafford. Ten games into their respective campaigns, Yorkshire have the upper hand with six wins so far.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/edf0a342-13c9-48d2-9986-1b136831f133/cover"/>
   </programme>
   <programme channel="sky.main.uk" start="20260710213000 +0000" stop="20260710230000 +0000">
     <title lang="en">Live PGA Tour Golf</title>
-    <desc lang="en">Day two of the PGA Tour's ISCO Championship, taking place at Hurstbourne Country Club in Louisville, Kentucky.</desc>
+    <desc lang="en">Day two of the PGA Tour's ISCO Championship, taking place at Hurstbourne Country Club in Louisville, Kentucky. Thursday's first-round lead was shared by four at the summit.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/60373669-322a-4874-bc05-94ea4d734db9/cover"/>
   </programme>
   <programme channel="sky.main.uk" start="20260710230000 +0000" stop="20260711000000 +0000">
@@ -514,7 +514,7 @@
   </programme>
   <programme channel="sky.main.uk" start="20260711130000 +0000" stop="20260711173000 +0000">
     <title lang="en">Live 5th T20: England v India</title>
-    <desc lang="en">The fifth and final T20I in England's five-match series with a touring India in Southampton.</desc>
+    <desc lang="en">England attempt to round off an emphatic series victory over India in the fifth and final match. An English victory here would see Harry Brook's side become the number one ranked T20 side.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e8358478-c83e-48b4-9275-771d73a0bb54/cover"/>
   </programme>
   <programme channel="sky.main.uk" start="20260711173000 +0000" stop="20260711190000 +0000">
@@ -576,6 +576,11 @@
     <title lang="en">Live DP World Tour Golf</title>
     <desc lang="en">The fourth and final round of the Genesis Scottish Open - a DP World Tour Rolex Series event - at the Renaissance Club.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e8367c67-ac8d-4348-9ce3-4465f5a1392c/cover"/>
+  </programme>
+  <programme channel="sky.main.uk" start="20260712190000 +0000" stop="20260712204500 +0000">
+    <title lang="en">Live: Men's T20 Blast</title>
+    <desc lang="en">A clash from the Vitality Blast.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8afbad53-d6f0-47a7-ab0d-a89d9fea0c13/cover"/>
   </programme>
   <programme channel="sky.main.uk" start="20260712204500 +0000" stop="20260712230000 +0000">
     <title lang="en">Live PGA Tour Golf</title>
@@ -2881,15 +2886,15 @@
     <desc lang="en">Live Australian racing from Caulfield, Gawler, Randwick and Doomben.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/36bea297-7043-4cae-a3c5-9a6402cd7abb/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20260711050000 +0000" stop="20260711073000 +0000">
+  <programme channel="sky.racing.uk" start="20260711050000 +0000" stop="20260711070000 +0000">
     <title lang="en">Australian Racing Live</title>
     <desc lang="en">Live Australian racing from Caulfield, Gawler, Randwick and Doomben.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/36bea297-7043-4cae-a3c5-9a6402cd7abb/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20260711073000 +0000" stop="20260711080000 +0000">
-    <title lang="en">Lilly Pinchin: I Love What I Do</title>
-    <desc lang="en">There's a lot more than meets the eye with up-and-coming jump jockey Lilly Pinchin, who talks through her life in and out of the saddle.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/2f9b92e5-3299-4552-b4c6-ff4b2945fdcb/cover"/>
+  <programme channel="sky.racing.uk" start="20260711070000 +0000" stop="20260711080000 +0000">
+    <title lang="en">World Cup Breakfast</title>
+    <desc lang="en">A round-up of the all the breaking news stories from the 2026 FIFA World Cup, with live analysis and comment plus interviews with the headline makers.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1e5d52ee-9d70-4a25-b091-71b0eddf2651/cover"/>
   </programme>
   <programme channel="sky.racing.uk" start="20260711080000 +0000" stop="20260711083000 +0000">
     <title lang="en">Racing To Win</title>
@@ -2901,20 +2906,25 @@
     <desc lang="en">Join Dave Orton, Tom Collins, Stephen Darbyshire and Johnny Dineen on the show designed to give punters the edge as they tackle the biggest races and talking points ahead of the weekend.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c49533e3-6952-4632-9d36-87c6f5cec09a/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20260711100000 +0000" stop="20260711123000 +0000">
+  <programme channel="sky.racing.uk" start="20260711100000 +0000" stop="20260711120000 +0000">
     <title lang="en">International Raceday Live</title>
-    <desc lang="en">Live French racing from Clairefontaine and selected greyhound racing. A look ahead to Day 2 of this weekend's Summer Mile at Ascot.</desc>
+    <desc lang="en">Live French racing from La Teste du Buch &amp; Clairefontaine and selected greyhound racing. A look ahead to Day 2 of this weekend's Summer Mile meeting at Ascot.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a9d4946a-019a-4125-ad57-facb91d290e7/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20260711123000 +0000" stop="20260711170000 +0000">
+  <programme channel="sky.racing.uk" start="20260711120000 +0000" stop="20260711170000 +0000">
     <title lang="en">Raceday Live</title>
     <desc lang="en">Live Racing: Alex Hammond, Jamie Lynch and Hayley Moore bring you the G2 Summer Mile from Ascot alongside action from Chester with Simon Mapletoft.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/43a2a9c0-aa7a-4201-a6f3-d59094cb1e5d/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20260711170000 +0000" stop="20260712010000 +0000">
+  <programme channel="sky.racing.uk" start="20260711170000 +0000" stop="20260712003000 +0000">
     <title lang="en">Stateside Live</title>
     <desc lang="en">Live US racing from Colonial Downs, Saratoga, Gulfstream, Horseshoe Indianapolis, Delaware, Ellis Park, Monmouth, Woodbine and Charles Town, Lone Star Park, Emerald Downs and Canterbury Park.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2277fa5d-9509-434b-8e18-0236eb67732b/cover"/>
+  </programme>
+  <programme channel="sky.racing.uk" start="20260712003000 +0000" stop="20260712010000 +0000">
+    <title lang="en">Racing To Win</title>
+    <desc lang="en">The latest in the series a comprehensive preview show for Hong Kong racing. With form analysis trackwork highlights and interviews an expert team of presenters will also provide their selections.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/34339900-e21c-4ba5-ab73-21d73ccc4136/cover"/>
   </programme>
   <programme channel="sky.racing.uk" start="20260712010000 +0000" stop="20260712050000 +0000">
     <title lang="en">Australian Racing Live</title>
@@ -3171,7 +3181,7 @@
   </programme>
   <programme channel="sky.mix.uk" start="20260711193000 +0000" stop="20260711200000 +0000">
     <title lang="en">5th T20 England v India Highlights</title>
-    <desc lang="en">The fifth and final T20I in England's five-match series with a touring India in Southampton.</desc>
+    <desc lang="en">England attempt to round off an emphatic series win over India in the fifth and final match. An English victory would see Harry Brook's side become the number one ranked T20 side. (11.07)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/55f74b4c-a647-4981-9789-1a7c7ed74618/cover"/>
   </programme>
   <programme channel="sky.mix.uk" start="20260711200000 +0000" stop="20260711210000 +0000">
@@ -3196,7 +3206,7 @@
   </programme>
   <programme channel="sky.mix.uk" start="20260711220000 +0000" stop="20260712003000 +0000">
     <title lang="en">Live WNBA: Mercury @ Aces</title>
-    <desc lang="en">The Las Vegas Aces host the Phoenix Mercury in the WNBA.</desc>
+    <desc lang="en">The Las Vegas Aces host the Phoenix Mercury in the WNBA. A returning A'ja Wilson fired Las Vegas to victory Thursday, adding 32 points and 10 rebounds in a 88-80 win.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7ae45fa4-33b1-4fde-b838-1d33c8510cd2/cover"/>
   </programme>
   <programme channel="sky.mix.uk" start="20260712003000 +0000" stop="20260712010000 +0000">
@@ -3380,7 +3390,7 @@
   </programme>
   <programme channel="sky.cricket.uk" start="20260710174500 +0000" stop="20260710213000 +0000">
     <title lang="en">Live Men's T20 Blast</title>
-    <desc lang="en">Lancashire and Yorkshire meet in the Vitality Blast.</desc>
+    <desc lang="en">Lancashire and Yorkshire meet in a Vitality Blast North Group match-up at Old Trafford. Ten games into their respective campaigns, Yorkshire have the upper hand with six wins so far.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/edf0a342-13c9-48d2-9986-1b136831f133/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20260710213000 +0000" stop="20260711001500 +0000">
@@ -3485,7 +3495,7 @@
   </programme>
   <programme channel="sky.cricket.uk" start="20260712043000 +0000" stop="20260712050000 +0000">
     <title lang="en">5th T20 England v India Highlights</title>
-    <desc lang="en">The fifth and final T20I in England's five-match series with a touring India in Southampton.</desc>
+    <desc lang="en">England attempt to round off an emphatic series win over India in the fifth and final match. An English victory would see Harry Brook's side become the number one ranked T20 side. (11.07)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/55f74b4c-a647-4981-9789-1a7c7ed74618/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20260712050000 +0000" stop="20260712060000 +0000">
@@ -3505,7 +3515,7 @@
   </programme>
   <programme channel="sky.cricket.uk" start="20260712080000 +0000" stop="20260712083000 +0000">
     <title lang="en">5th T20 England v India Highlights</title>
-    <desc lang="en">The fifth and final T20I in England's five-match series with a touring India in Southampton.</desc>
+    <desc lang="en">England attempt to round off an emphatic series win over India in the fifth and final match. An English victory would see Harry Brook's side become the number one ranked T20 side. (11.07)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/55f74b4c-a647-4981-9789-1a7c7ed74618/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20260712083000 +0000" stop="20260712090000 +0000">
@@ -3527,6 +3537,11 @@
     <title lang="en">Live Women's Test Day 3: ENG v IND</title>
     <desc lang="en">Day three of England's historic standalone women's Test match against India at the home of cricket, Lord's.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7c8d4b05-2866-4d65-9a17-58ddadcf4095/cover"/>
+  </programme>
+  <programme channel="sky.cricket.uk" start="20260712173000 +0000" stop="20260712204500 +0000">
+    <title lang="en">Live: Men's T20 Blast</title>
+    <desc lang="en">A clash from the Vitality Blast.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8afbad53-d6f0-47a7-ab0d-a89d9fea0c13/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20260712204500 +0000" stop="20260713001500 +0000">
     <title lang="en">Live Major League Cricket</title>
@@ -3672,8 +3687,8 @@
   </programme>
   <programme channel="tnt1" start="20260710230000 +0000" stop="20260711020000 +0000">
     <title lang="en">Live MLB: Mariners @ Rays</title>
-    <desc lang="en">Action from Major League Baseball as Seattle Mariners face Tampa Bay Rays.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/597219fe-b3ed-4653-9b21-79de9413622a/cover"/>
+    <desc lang="en">Action from Major League Baseball as Seattle Mariners face American League East leaders Tampa Bay Rays at Tropicana Field.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/5bc51a64-ca32-4215-b050-1ed2d357299d/cover"/>
   </programme>
   <programme channel="tnt1" start="20260711020000 +0000" stop="20260711041500 +0000">
     <title lang="en">Live NWSL: Utah Royals v Gotham FC</title>
@@ -3749,12 +3764,12 @@
   </programme>
   <programme channel="tnt1" start="20260711180000 +0000" stop="20260711210000 +0000">
     <title lang="en">Live MLB: Angels @ Twins</title>
-    <desc lang="en">Action from the MLB as Minnesota Twins host Los Angeles Angels.</desc>
+    <desc lang="en">Action from Major League Baseball as Minnesota Twins look to pile the misery on American League West strugglers Los Angeles Angels at Target Field.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/40d3b783-db11-417d-94a2-f193366f6fec/cover"/>
   </programme>
   <programme channel="tnt1" start="20260711210000 +0000" stop="20260711223000 +0000">
     <title lang="en">Wimbledon</title>
-    <desc lang="en">Highlights from Wimbledon. (11.07)</desc>
+    <desc lang="en">Highlights from the Wimbledon 2026 Ladies' Singles Final between Karolina Muchova and Linda Noskova, as both players bid to win their first Grand Slam singles title.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d6815d98-9d27-45f0-8f18-d88eeffbe993/cover"/>
   </programme>
   <programme channel="tnt1" start="20260711223000 +0000" stop="20260711230000 +0000">
@@ -4136,11 +4151,13 @@
   <programme channel="tnt2" start="20260711220000 +0000" stop="20260711230000 +0000">
     <title lang="en">MLB Highlights</title>
     <desc lang="en">Highlights from Major League Baseball. (10.07)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/db4bd3d6-9430-4974-814b-8cbbe65f3e01/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/10c18025-3c37-4206-b369-44f425b8a628/cover"/>
+    <episode-num system="xmltv_ns">2025.106.0</episode-num>
+    <episode-num system="onscreen">S2026E107</episode-num>
   </programme>
   <programme channel="tnt2" start="20260711230000 +0000" stop="20260712020000 +0000">
     <title lang="en">Live MLB: Braves @ Cardinals</title>
-    <desc lang="en">Action from Major League Baseball as Atlanta Braves face St Louis Cardinals.</desc>
+    <desc lang="en">Action from Major League Baseball as Atlanta Braves face St Louis Cardinals in the second contest of this three-game set at Busch Stadium.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a0f1bea2-d938-4a7f-8977-2ffa0a0ba424/cover"/>
   </programme>
   <programme channel="tnt2" start="20260712020000 +0000" stop="20260712023000 +0000">
@@ -4156,17 +4173,17 @@
   <programme channel="tnt2" start="20260712030000 +0000" stop="20260712033000 +0000">
     <title lang="en">Mountain Bike World Series Women</title>
     <desc lang="en">Action from the women's downhill elite, part of the UCI Mountain Bike World Series in Pal Arinsal, Andorra.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e8e47a33-ea34-4e73-88b6-2fe67392a732/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/50228728-b2df-4151-b5da-6f829fead6c0/cover"/>
   </programme>
   <programme channel="tnt2" start="20260712033000 +0000" stop="20260712040000 +0000">
     <title lang="en">UCI Mountain Bike World Series Men</title>
     <desc lang="en">Action from the men's downhill elite, part of the UCI Mountain Bike World Series in Pal Arinsal, Andorra.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c4148acd-1821-4858-a5a0-4c9095589e57/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/c95adbc3-3e14-447e-a1f1-e4a3f1c8ce9b/cover"/>
   </programme>
   <programme channel="tnt2" start="20260712040000 +0000" stop="20260712050000 +0000">
     <title lang="en">Tour de France Highlights - S8</title>
     <desc lang="en">Highlights from stage eight of the 2026 Tour de France, featuring a scenic 180km flat route from Perigueux to Bergerac.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/bc899ae7-8df3-4ce3-9fef-7365a2a510ce/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/ef95fe00-da3e-4b80-a466-4545a7d10161/cover"/>
   </programme>
   <programme channel="tnt2" start="20260712050000 +0000" stop="20260712060000 +0000">
     <title lang="en">Fishing: On the Bank</title>
@@ -4227,7 +4244,9 @@
   <programme channel="tnt2" start="20260712190000 +0000" stop="20260712200000 +0000">
     <title lang="en">MLB Highlights</title>
     <desc lang="en">Highlights from Major League Baseball. (11.07)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/35170513-980e-4a98-a396-32ed191b682a/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/b7eb855b-b8dc-4e5e-a8d6-4a3fd566b081/cover"/>
+    <episode-num system="xmltv_ns">2025.107.0</episode-num>
+    <episode-num system="onscreen">S2026E108</episode-num>
   </programme>
   <programme channel="tnt2" start="20260712200000 +0000" stop="20260712221500 +0000">
     <title lang="en">Live NWSL: Seattle v Portland</title>
@@ -4459,7 +4478,7 @@
   </programme>
   <programme channel="tnt3" start="20260711143000 +0000" stop="20260711173000 +0000">
     <title lang="en">Live: Wimbledon Ladies' Final</title>
-    <desc lang="en">Action from the ladies' singles final at Wimbledon.</desc>
+    <desc lang="en">Action from the Wimbledon 2026 Ladies' Singles Final between Karolina Muchova and Linda Noskova, as both players bid to win their first Grand Slam singles title.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f0d01d1f-8d60-4051-b394-9538529546c9/cover"/>
   </programme>
   <programme channel="tnt3" start="20260711173000 +0000" stop="20260711190000 +0000">
@@ -4499,7 +4518,7 @@
   </programme>
   <programme channel="tnt3" start="20260712020000 +0000" stop="20260712033000 +0000">
     <title lang="en">Wimbledon</title>
-    <desc lang="en">Highlights from Wimbledon. (11.07)</desc>
+    <desc lang="en">Highlights from the Wimbledon 2026 Ladies' Singles Final between Karolina Muchova and Linda Noskova, as both players bid to win their first Grand Slam singles title.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d6815d98-9d27-45f0-8f18-d88eeffbe993/cover"/>
   </programme>
   <programme channel="tnt3" start="20260712033000 +0000" stop="20260712040000 +0000">
@@ -4563,7 +4582,7 @@
   </programme>
   <programme channel="tnt3" start="20260712200000 +0000" stop="20260712230000 +0000">
     <title lang="en">Live MLB: Blue Jays @ Padres</title>
-    <desc lang="en">Action from the MLB as Toronto Blue Jays face San Diego Padres.</desc>
+    <desc lang="en">Action from the MLB as Toronto Blue Jays face San Diego Padres in the final clash of this three-game series at Petco Park.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/65f13d3c-eca0-4d08-9b65-d246dcebae92/cover"/>
   </programme>
   <programme channel="tnt4" start="20260709213000 +0000" stop="20260709223000 +0000">
@@ -4918,7 +4937,7 @@
   </programme>
   <programme channel="tnt4" start="20260712070000 +0000" stop="20260712083000 +0000">
     <title lang="en">Wimbledon</title>
-    <desc lang="en">Highlights from Wimbledon. (11.07)</desc>
+    <desc lang="en">Highlights from the Wimbledon 2026 Ladies' Singles Final between Karolina Muchova and Linda Noskova, as both players bid to win their first Grand Slam singles title.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d6815d98-9d27-45f0-8f18-d88eeffbe993/cover"/>
   </programme>
   <programme channel="tnt4" start="20260712083000 +0000" stop="20260712090000 +0000">
@@ -6472,9 +6491,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/d6f2c74a-c928-4bd4-a46a-3e67540e56bc/cover"/>
   </programme>
   <programme channel="5Select.uk" start="20260712190000 +0000" stop="20260712203000 +0000">
-    <title lang="en">Harry: Can He Ever Be Forgiven?</title>
-    <desc lang="en">After plunging the royals into another crisis with a bombshell TV interview, we ask what it would take for Harry to earn forgiveness from family, and what he stands to lose.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/26e71062-7f8d-4350-a5cf-29fcbdbab1d2/cover"/>
+    <title lang="en">Prince Harry in Therapy</title>
+    <desc lang="en">This documentary digs deep into the turning points that reshaped Harry's life and asks how he became one of the most divisive figures of the modern monarchy.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/87f5c918-1a16-41ec-8224-9ce56370e0a7/cover"/>
   </programme>
   <programme channel="5Select.uk" start="20260712203000 +0000" stop="20260712220000 +0000">
     <title lang="en">Queen Victoria &amp; the:..</title>
@@ -9648,17 +9667,17 @@
   <programme channel="BBCFourHD.uk" start="20260710200000 +0000" stop="20260710203000 +0000">
     <title lang="en">Bonnie Tyler: In One Voice</title>
     <desc lang="en">The story of Bonnie Tyler, whose hits included Total Eclipse of the Heart, It's a Heartache and Lost in France.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b6505743-a96e-40be-ab98-c1a21683898a/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/ae590644-280f-46fb-b447-5f8a54c1221e/cover"/>
   </programme>
   <programme channel="BBCFourHD.uk" start="20260710203000 +0000" stop="20260710213000 +0000">
     <title lang="en">TOTP: Big Hits 1983</title>
     <desc lang="en">Some of the biggest pop hits of 1983 including Wham!, KC and the Sunshine Band, The Police, Culture Club, Siouxsie and The Banshees, UB40, Duran Duran, The Beat, and Bananarama.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/13478f92-1389-46bc-bfe0-4b74fe7ba631/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/893d0b4d-902b-4fe1-8175-4ba1fa9c5743/cover"/>
   </programme>
   <programme channel="BBCFourHD.uk" start="20260710213000 +0000" stop="20260710221000 +0000">
     <title lang="en">Words and Music: Cults &amp; Classics</title>
     <desc lang="en">Tracey MacLeod introduces classic songs, stripped back to basics and sung by their original writers. Featuring Iggy Pop, Bee Gees, Sparks, Neil Finn, Debbie Harry and Chris Stein.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e74ae4f2-87d1-423f-a9e9-19eeabee4003/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/5b5adc0c-6a7c-465e-9a88-8c75565a4b59/cover"/>
   </programme>
   <programme channel="BBCFourHD.uk" start="20260710221000 +0000" stop="20260710225000 +0000">
     <title lang="en">Blondie in Concert: 1979</title>
@@ -10110,12 +10129,12 @@
     <desc lang="en">The BBC presents in-depth reports on the major international and US news of the day presented from Washington DC.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/038c2aa7-1f6d-42cf-8217-e2c5bbb60e93/cover"/>
   </programme>
-  <programme channel="BBCNews.uk" start="20260710223000 +0000" stop="20260710224500 +0000">
+  <programme channel="BBCNews.uk" start="20260710223000 +0000" stop="20260710225000 +0000">
     <title lang="en">The President's Path</title>
-    <desc lang="en">Join Caitríona Perry and Sumi Somaskanda for a dynamic weekly discussion on the US presidency.</desc>
+    <desc lang="en">The US and Iran are once again trading strikes after President Trump said the ceasefire agreement signed last month is now 'over'.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4f4f66c1-9529-431b-9286-2d203bb5e96b/cover"/>
   </programme>
-  <programme channel="BBCNews.uk" start="20260710224500 +0000" stop="20260710230000 +0000">
+  <programme channel="BBCNews.uk" start="20260710225000 +0000" stop="20260710230000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/39909d37-388f-4ea4-81d0-6ec20c68d995/cover"/>
@@ -10127,7 +10146,7 @@
   </programme>
   <programme channel="BBCNews.uk" start="20260710233000 +0000" stop="20260711000000 +0000">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">Elon Musk's SpaceX has sparked the public's imagination after its recent stock market debut, but what will all the money being thrown into the space industry actually achieve?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0706a1bb-8442-48c5-adea-8edfe7221e14/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260711000000 +0000" stop="20260711003000 +0000">
@@ -10207,7 +10226,7 @@
   </programme>
   <programme channel="BBCNews.uk" start="20260711103000 +0000" stop="20260711110000 +0000">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">Elon Musk's SpaceX has sparked the public's imagination after its recent stock market debut, but what will all the money being thrown into the space industry actually achieve?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0706a1bb-8442-48c5-adea-8edfe7221e14/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260711110000 +0000" stop="20260711113000 +0000">
@@ -10319,7 +10338,7 @@
   </programme>
   <programme channel="BBCNews.uk" start="20260711223000 +0000" stop="20260711230000 +0000">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">Elon Musk's SpaceX has sparked the public's imagination after its recent stock market debut, but what will all the money being thrown into the space industry actually achieve?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0706a1bb-8442-48c5-adea-8edfe7221e14/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260711230000 +0000" stop="20260711233000 +0000">
@@ -10413,7 +10432,7 @@
   </programme>
   <programme channel="BBCNews.uk" start="20260712103000 +0000" stop="20260712104500 +0000">
     <title lang="en">The President's Path</title>
-    <desc lang="en">Join Caitríona Perry and Sumi Somaskanda for a dynamic weekly discussion on the US presidency.</desc>
+    <desc lang="en">The US and Iran are once again trading strikes after President Trump said the ceasefire agreement signed last month is now 'over'.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4f4f66c1-9529-431b-9286-2d203bb5e96b/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260712104500 +0000" stop="20260712110000 +0000">
@@ -10529,7 +10548,7 @@
   <programme channel="BBCOneChannelIslands.uk" start="20260709214000 +0000" stop="20260709221000 +0000">
     <title lang="en">Bonnie Tyler: In One Voice</title>
     <desc lang="en">The story of Bonnie Tyler, whose hits included Total Eclipse of the Heart, It's a Heartache and Lost in France.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e135e4a2-76dd-4654-ba0b-cbb5f41aa8c0/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/ae590644-280f-46fb-b447-5f8a54c1221e/cover"/>
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260709221000 +0000" stop="20260710003500 +0000">
     <title lang="en">Elvis</title>
@@ -10742,7 +10761,7 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260711213000 +0000" stop="20260711232500 +0000">
     <title lang="en">Pretty Woman</title>
-    <desc lang="en">A wealthy, emotionally detached businessman hires a free-spirited prostitute to be his companion for a week, and the two get closer than they imagined. [1990]</desc>
+    <desc lang="en">An emotionally detached businessman hires a prostitute to be his companion for a week. Contains some strong language and some scenes of a sexual nature. [1990]</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6990970a-8f7c-4e20-b750-000984c78d69/cover"/>
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260711232500 +0000" stop="20260711233000 +0000">
@@ -10859,7 +10878,7 @@
   <programme channel="BBCOneEast.uk" start="20260709214000 +0000" stop="20260709221000 +0000">
     <title lang="en">Bonnie Tyler: In One Voice</title>
     <desc lang="en">The story of Bonnie Tyler, whose hits included Total Eclipse of the Heart, It's a Heartache and Lost in France.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/121d7bb0-4930-47ca-8e52-4c48494f5c1d/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/ae590644-280f-46fb-b447-5f8a54c1221e/cover"/>
   </programme>
   <programme channel="BBCOneEast.uk" start="20260709221000 +0000" stop="20260710003500 +0000">
     <title lang="en">Elvis</title>
@@ -11072,7 +11091,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20260711213000 +0000" stop="20260711232500 +0000">
     <title lang="en">Pretty Woman</title>
-    <desc lang="en">A wealthy, emotionally detached businessman hires a free-spirited prostitute to be his companion for a week, and the two get closer than they imagined. [1990]</desc>
+    <desc lang="en">An emotionally detached businessman hires a prostitute to be his companion for a week. Contains some strong language and some scenes of a sexual nature. [1990]</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6990970a-8f7c-4e20-b750-000984c78d69/cover"/>
   </programme>
   <programme channel="BBCOneEast.uk" start="20260711232500 +0000" stop="20260711233000 +0000">
@@ -11189,7 +11208,7 @@
   <programme channel="BBCOneEastMidlands.uk" start="20260709214000 +0000" stop="20260709221000 +0000">
     <title lang="en">Bonnie Tyler: In One Voice</title>
     <desc lang="en">The story of Bonnie Tyler, whose hits included Total Eclipse of the Heart, It's a Heartache and Lost in France.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/85e7c77e-b9c8-4e2c-b259-658a375fe52e/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/ae590644-280f-46fb-b447-5f8a54c1221e/cover"/>
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260709221000 +0000" stop="20260710003500 +0000">
     <title lang="en">Elvis</title>
@@ -11402,7 +11421,7 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260711213000 +0000" stop="20260711232500 +0000">
     <title lang="en">Pretty Woman</title>
-    <desc lang="en">A wealthy, emotionally detached businessman hires a free-spirited prostitute to be his companion for a week, and the two get closer than they imagined. [1990]</desc>
+    <desc lang="en">An emotionally detached businessman hires a prostitute to be his companion for a week. Contains some strong language and some scenes of a sexual nature. [1990]</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6990970a-8f7c-4e20-b750-000984c78d69/cover"/>
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260711232500 +0000" stop="20260711233000 +0000">
@@ -11519,7 +11538,7 @@
   <programme channel="BBCOneLondonHD.uk" start="20260709214000 +0000" stop="20260709221000 +0000">
     <title lang="en">Bonnie Tyler: In One Voice</title>
     <desc lang="en">The story of Bonnie Tyler, whose hits included Total Eclipse of the Heart, It's a Heartache and Lost in France.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/792fd042-3dcd-447c-a371-e2a44c068fc6/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/ae590644-280f-46fb-b447-5f8a54c1221e/cover"/>
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260709221000 +0000" stop="20260710003500 +0000">
     <title lang="en">Elvis</title>
@@ -11732,7 +11751,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260711213000 +0000" stop="20260711232500 +0000">
     <title lang="en">Pretty Woman</title>
-    <desc lang="en">A wealthy, emotionally detached businessman hires a free-spirited prostitute to be his companion for a week, and the two get closer than they imagined. [1990]</desc>
+    <desc lang="en">An emotionally detached businessman hires a prostitute to be his companion for a week. Contains some strong language and some scenes of a sexual nature. [1990]</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6990970a-8f7c-4e20-b750-000984c78d69/cover"/>
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260711232500 +0000" stop="20260711233000 +0000">
@@ -11849,7 +11868,7 @@
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260709214000 +0000" stop="20260709221000 +0000">
     <title lang="en">Bonnie Tyler: In One Voice</title>
     <desc lang="en">The story of Bonnie Tyler, whose hits included Total Eclipse of the Heart, It's a Heartache and Lost in France.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/4997111e-da3e-4462-8065-9119414b1207/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/ae590644-280f-46fb-b447-5f8a54c1221e/cover"/>
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260709221000 +0000" stop="20260710003500 +0000">
     <title lang="en">Elvis</title>
@@ -12062,7 +12081,7 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260711213000 +0000" stop="20260711232500 +0000">
     <title lang="en">Pretty Woman</title>
-    <desc lang="en">A wealthy, emotionally detached businessman hires a free-spirited prostitute to be his companion for a week, and the two get closer than they imagined. [1990]</desc>
+    <desc lang="en">An emotionally detached businessman hires a prostitute to be his companion for a week. Contains some strong language and some scenes of a sexual nature. [1990]</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6990970a-8f7c-4e20-b750-000984c78d69/cover"/>
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260711232500 +0000" stop="20260711233000 +0000">
@@ -12179,7 +12198,7 @@
   <programme channel="BBCOneNorthWest.uk" start="20260709214000 +0000" stop="20260709221000 +0000">
     <title lang="en">Bonnie Tyler: In One Voice</title>
     <desc lang="en">The story of Bonnie Tyler, whose hits included Total Eclipse of the Heart, It's a Heartache and Lost in France.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/6aedd40d-5b2e-4456-a27c-f465956dcf8d/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/ae590644-280f-46fb-b447-5f8a54c1221e/cover"/>
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260709221000 +0000" stop="20260710003500 +0000">
     <title lang="en">Elvis</title>
@@ -12392,7 +12411,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260711213000 +0000" stop="20260711232500 +0000">
     <title lang="en">Pretty Woman</title>
-    <desc lang="en">A wealthy, emotionally detached businessman hires a free-spirited prostitute to be his companion for a week, and the two get closer than they imagined. [1990]</desc>
+    <desc lang="en">An emotionally detached businessman hires a prostitute to be his companion for a week. Contains some strong language and some scenes of a sexual nature. [1990]</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6990970a-8f7c-4e20-b750-000984c78d69/cover"/>
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260711232500 +0000" stop="20260711233000 +0000">
@@ -12509,7 +12528,7 @@
   <programme channel="BBCOneNorthernIreland.uk" start="20260709214000 +0000" stop="20260709221000 +0000">
     <title lang="en">Bonnie Tyler: In One Voice</title>
     <desc lang="en">The story of Bonnie Tyler, whose hits included Total Eclipse of the Heart, It's a Heartache and Lost in France.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/40000c9d-d8d2-4119-bbac-878f471080f7/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/ae590644-280f-46fb-b447-5f8a54c1221e/cover"/>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260709221000 +0000" stop="20260710003500 +0000">
     <title lang="en">Elvis</title>
@@ -12714,7 +12733,7 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260711213000 +0000" stop="20260711232500 +0000">
     <title lang="en">Pretty Woman</title>
-    <desc lang="en">A wealthy, emotionally detached businessman hires a free-spirited prostitute to be his companion for a week, and the two get closer than they imagined. [1990]</desc>
+    <desc lang="en">An emotionally detached businessman hires a prostitute to be his companion for a week. Contains some strong language and some scenes of a sexual nature. [1990]</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6990970a-8f7c-4e20-b750-000984c78d69/cover"/>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260711232500 +0000" stop="20260711233000 +0000">
@@ -12831,7 +12850,7 @@
   <programme channel="BBCOneScotHD.uk" start="20260709214000 +0000" stop="20260709221000 +0000">
     <title lang="en">Bonnie Tyler: In One Voice</title>
     <desc lang="en">The story of Bonnie Tyler, whose hits included Total Eclipse of the Heart, It's a Heartache and Lost in France.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d8e5fd7d-a4cd-4833-8163-5cfe2b617230/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/ae590644-280f-46fb-b447-5f8a54c1221e/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260709221000 +0000" stop="20260709224000 +0000">
     <title lang="en">River City</title>
@@ -13044,7 +13063,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260711213000 +0000" stop="20260711232500 +0000">
     <title lang="en">Pretty Woman</title>
-    <desc lang="en">A wealthy, emotionally detached businessman hires a free-spirited prostitute to be his companion for a week, and the two get closer than they imagined. [1990]</desc>
+    <desc lang="en">An emotionally detached businessman hires a prostitute to be his companion for a week. Contains some strong language and some scenes of a sexual nature. [1990]</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6990970a-8f7c-4e20-b750-000984c78d69/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260711232500 +0000" stop="20260711233000 +0000">
@@ -13163,7 +13182,7 @@
   <programme channel="BBCOneSouth.uk" start="20260709214000 +0000" stop="20260709221000 +0000">
     <title lang="en">Bonnie Tyler: In One Voice</title>
     <desc lang="en">The story of Bonnie Tyler, whose hits included Total Eclipse of the Heart, It's a Heartache and Lost in France.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a0e6971f-5ef2-43e9-8a4b-89b60234f569/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/ae590644-280f-46fb-b447-5f8a54c1221e/cover"/>
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260709221000 +0000" stop="20260710003500 +0000">
     <title lang="en">Elvis</title>
@@ -13376,7 +13395,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260711213000 +0000" stop="20260711232500 +0000">
     <title lang="en">Pretty Woman</title>
-    <desc lang="en">A wealthy, emotionally detached businessman hires a free-spirited prostitute to be his companion for a week, and the two get closer than they imagined. [1990]</desc>
+    <desc lang="en">An emotionally detached businessman hires a prostitute to be his companion for a week. Contains some strong language and some scenes of a sexual nature. [1990]</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6990970a-8f7c-4e20-b750-000984c78d69/cover"/>
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260711232500 +0000" stop="20260711233000 +0000">
@@ -13493,7 +13512,7 @@
   <programme channel="BBCOneSouthEast.uk" start="20260709214000 +0000" stop="20260709221000 +0000">
     <title lang="en">Bonnie Tyler: In One Voice</title>
     <desc lang="en">The story of Bonnie Tyler, whose hits included Total Eclipse of the Heart, It's a Heartache and Lost in France.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/fcea5f8e-326f-4f83-875d-3b1cf1316d4a/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/ae590644-280f-46fb-b447-5f8a54c1221e/cover"/>
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260709221000 +0000" stop="20260710003500 +0000">
     <title lang="en">Elvis</title>
@@ -13706,7 +13725,7 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260711213000 +0000" stop="20260711232500 +0000">
     <title lang="en">Pretty Woman</title>
-    <desc lang="en">A wealthy, emotionally detached businessman hires a free-spirited prostitute to be his companion for a week, and the two get closer than they imagined. [1990]</desc>
+    <desc lang="en">An emotionally detached businessman hires a prostitute to be his companion for a week. Contains some strong language and some scenes of a sexual nature. [1990]</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6990970a-8f7c-4e20-b750-000984c78d69/cover"/>
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260711232500 +0000" stop="20260711233000 +0000">
@@ -13823,7 +13842,7 @@
   <programme channel="BBCOneSouthWest.uk" start="20260709214000 +0000" stop="20260709221000 +0000">
     <title lang="en">Bonnie Tyler: In One Voice</title>
     <desc lang="en">The story of Bonnie Tyler, whose hits included Total Eclipse of the Heart, It's a Heartache and Lost in France.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/85c26e2c-d287-4103-ad31-e4b784f0701c/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/ae590644-280f-46fb-b447-5f8a54c1221e/cover"/>
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260709221000 +0000" stop="20260710003500 +0000">
     <title lang="en">Elvis</title>
@@ -14036,7 +14055,7 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260711213000 +0000" stop="20260711232500 +0000">
     <title lang="en">Pretty Woman</title>
-    <desc lang="en">A wealthy, emotionally detached businessman hires a free-spirited prostitute to be his companion for a week, and the two get closer than they imagined. [1990]</desc>
+    <desc lang="en">An emotionally detached businessman hires a prostitute to be his companion for a week. Contains some strong language and some scenes of a sexual nature. [1990]</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6990970a-8f7c-4e20-b750-000984c78d69/cover"/>
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260711232500 +0000" stop="20260711233000 +0000">
@@ -14153,7 +14172,7 @@
   <programme channel="BBCOneWalesHD.uk" start="20260709214000 +0000" stop="20260709221000 +0000">
     <title lang="en">Bonnie Tyler: In One Voice</title>
     <desc lang="en">The story of Bonnie Tyler, whose hits included Total Eclipse of the Heart, It's a Heartache and Lost in France.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/8564e51f-da34-4674-95f5-809cc25ad22c/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/ae590644-280f-46fb-b447-5f8a54c1221e/cover"/>
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20260709221000 +0000" stop="20260710003500 +0000">
     <title lang="en">Elvis</title>
@@ -14374,7 +14393,7 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20260711213000 +0000" stop="20260711232500 +0000">
     <title lang="en">Pretty Woman</title>
-    <desc lang="en">A wealthy, emotionally detached businessman hires a free-spirited prostitute to be his companion for a week, and the two get closer than they imagined. [1990]</desc>
+    <desc lang="en">An emotionally detached businessman hires a prostitute to be his companion for a week. Contains some strong language and some scenes of a sexual nature. [1990]</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6990970a-8f7c-4e20-b750-000984c78d69/cover"/>
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20260711232500 +0000" stop="20260711233000 +0000">
@@ -14498,7 +14517,7 @@
   <programme channel="BBCOneWest.uk" start="20260709214000 +0000" stop="20260709221000 +0000">
     <title lang="en">Bonnie Tyler: In One Voice</title>
     <desc lang="en">The story of Bonnie Tyler, whose hits included Total Eclipse of the Heart, It's a Heartache and Lost in France.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/4626c2bd-dc61-475d-92be-d160001c607e/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/ae590644-280f-46fb-b447-5f8a54c1221e/cover"/>
   </programme>
   <programme channel="BBCOneWest.uk" start="20260709221000 +0000" stop="20260710003500 +0000">
     <title lang="en">Elvis</title>
@@ -14711,7 +14730,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20260711213000 +0000" stop="20260711232500 +0000">
     <title lang="en">Pretty Woman</title>
-    <desc lang="en">A wealthy, emotionally detached businessman hires a free-spirited prostitute to be his companion for a week, and the two get closer than they imagined. [1990]</desc>
+    <desc lang="en">An emotionally detached businessman hires a prostitute to be his companion for a week. Contains some strong language and some scenes of a sexual nature. [1990]</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6990970a-8f7c-4e20-b750-000984c78d69/cover"/>
   </programme>
   <programme channel="BBCOneWest.uk" start="20260711232500 +0000" stop="20260711233000 +0000">
@@ -14828,7 +14847,7 @@
   <programme channel="BBCOneWestMidlands.uk" start="20260709214000 +0000" stop="20260709221000 +0000">
     <title lang="en">Bonnie Tyler: In One Voice</title>
     <desc lang="en">The story of Bonnie Tyler, whose hits included Total Eclipse of the Heart, It's a Heartache and Lost in France.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/cb7e15ce-42fd-45ae-ad83-854b833544e0/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/ae590644-280f-46fb-b447-5f8a54c1221e/cover"/>
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260709221000 +0000" stop="20260710003500 +0000">
     <title lang="en">Elvis</title>
@@ -15041,7 +15060,7 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260711213000 +0000" stop="20260711232500 +0000">
     <title lang="en">Pretty Woman</title>
-    <desc lang="en">A wealthy, emotionally detached businessman hires a free-spirited prostitute to be his companion for a week, and the two get closer than they imagined. [1990]</desc>
+    <desc lang="en">An emotionally detached businessman hires a prostitute to be his companion for a week. Contains some strong language and some scenes of a sexual nature. [1990]</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6990970a-8f7c-4e20-b750-000984c78d69/cover"/>
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260711232500 +0000" stop="20260711233000 +0000">
@@ -15158,7 +15177,7 @@
   <programme channel="BBCOneYorksLincs.uk" start="20260709214000 +0000" stop="20260709221000 +0000">
     <title lang="en">Bonnie Tyler: In One Voice</title>
     <desc lang="en">The story of Bonnie Tyler, whose hits included Total Eclipse of the Heart, It's a Heartache and Lost in France.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/18bbcbb5-fe95-4f7e-aec2-32ebc4af7a9d/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/ae590644-280f-46fb-b447-5f8a54c1221e/cover"/>
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260709221000 +0000" stop="20260710003500 +0000">
     <title lang="en">Elvis</title>
@@ -15371,7 +15390,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260711213000 +0000" stop="20260711232500 +0000">
     <title lang="en">Pretty Woman</title>
-    <desc lang="en">A wealthy, emotionally detached businessman hires a free-spirited prostitute to be his companion for a week, and the two get closer than they imagined. [1990]</desc>
+    <desc lang="en">An emotionally detached businessman hires a prostitute to be his companion for a week. Contains some strong language and some scenes of a sexual nature. [1990]</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6990970a-8f7c-4e20-b750-000984c78d69/cover"/>
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260711232500 +0000" stop="20260711233000 +0000">
@@ -15488,7 +15507,7 @@
   <programme channel="BBCOneYorkshire.uk" start="20260709214000 +0000" stop="20260709221000 +0000">
     <title lang="en">Bonnie Tyler: In One Voice</title>
     <desc lang="en">The story of Bonnie Tyler, whose hits included Total Eclipse of the Heart, It's a Heartache and Lost in France.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/de74bab3-ac73-48c6-8900-1fc25d35832e/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/ae590644-280f-46fb-b447-5f8a54c1221e/cover"/>
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260709221000 +0000" stop="20260710003500 +0000">
     <title lang="en">Elvis</title>
@@ -15701,7 +15720,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260711213000 +0000" stop="20260711232500 +0000">
     <title lang="en">Pretty Woman</title>
-    <desc lang="en">A wealthy, emotionally detached businessman hires a free-spirited prostitute to be his companion for a week, and the two get closer than they imagined. [1990]</desc>
+    <desc lang="en">An emotionally detached businessman hires a prostitute to be his companion for a week. Contains some strong language and some scenes of a sexual nature. [1990]</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6990970a-8f7c-4e20-b750-000984c78d69/cover"/>
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260711232500 +0000" stop="20260711233000 +0000">
@@ -16478,7 +16497,7 @@
   </programme>
   <programme channel="BBCThreeHD.uk" start="20260710180000 +0000" stop="20260710181000 +0000">
     <title lang="en">The Catch Up</title>
-    <desc lang="en">A round-up of the day's news.</desc>
+    <desc lang="en">A round-up of the day's news with Ben Henley.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a9fc7617-90bf-4b2a-be30-c2548562d723/cover"/>
   </programme>
   <programme channel="BBCThreeHD.uk" start="20260710181000 +0000" stop="20260710183500 +0000">
@@ -16524,7 +16543,7 @@
   <programme channel="BBCThreeHD.uk" start="20260710222500 +0000" stop="20260711000500 +0000">
     <title lang="en">Anyone But You</title>
     <desc lang="en">Two exes pretend they are still a couple when they are unexpectedly reunited at a wedding. Contains very strong language. [2023]</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/6bffd788-4c99-4edf-8720-e859ce69a169/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/46303808-6cdd-37dd-ae25-f14cee8f14f9/cover"/>
   </programme>
   <programme channel="BBCThreeHD.uk" start="20260711000500 +0000" stop="20260711013000 +0000">
     <title lang="en">Absolutely Fabulous: The Movie</title>
@@ -22360,7 +22379,7 @@
   </programme>
   <programme channel="Channel4.uk" start="20260710220500 +0000" stop="20260710231000 +0000">
     <title lang="en">New: TFI Friday Unplugged</title>
-    <desc lang="en">Chris Evans presents his iconic show. Enjoy unfiltered conversations with the biggest stars and bands performing intimate sets. (Ep12)</desc>
+    <desc lang="en">Chris Evans presents his iconic show, with guests Brandon Flowers, Jesse Tyler Ferguson, Professor Brian Cox and, from the TFI archives, Baddiel &amp; Skinner &amp; the Lightning Seeds. (Ep12)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8bbdd098-edc8-44e7-86fa-7690306d3194/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.11.0</episode-num>
@@ -23046,7 +23065,7 @@
   </programme>
   <programme channel="Channel4Plus1.uk" start="20260710230500 +0000" stop="20260711001000 +0000">
     <title lang="en">New: TFI Friday Unplugged</title>
-    <desc lang="en">Chris Evans presents his iconic show. Enjoy unfiltered conversations with the biggest stars and bands performing intimate sets. (Ep12)</desc>
+    <desc lang="en">Chris Evans presents his iconic show, with guests Brandon Flowers, Jesse Tyler Ferguson, Professor Brian Cox and, from the TFI archives, Baddiel &amp; Skinner &amp; the Lightning Seeds. (Ep12)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8bbdd098-edc8-44e7-86fa-7690306d3194/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.11.0</episode-num>
