@@ -9,7 +9,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 100
+      "episode": 100.0
     },
     {
       "title": "World Cup Report",
@@ -20,7 +20,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 35
+      "episode": 35.0
     },
     {
       "title": "World Cup Report",
@@ -31,7 +31,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 35
+      "episode": 35.0
     },
     {
       "title": "Live Major League Cricket",
@@ -42,7 +42,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 30
+      "episode": 30.0
     },
     {
       "title": "World Cup Report",
@@ -53,7 +53,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 35
+      "episode": 35.0
     },
     {
       "title": "World Cup Report",
@@ -64,7 +64,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 35
+      "episode": 35.0
     },
     {
       "title": "World Cup Breakfast",
@@ -75,7 +75,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 36
+      "episode": 36.0
     },
     {
       "title": "World Cup Breakfast",
@@ -86,7 +86,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 36
+      "episode": 36.0
     },
     {
       "title": "Live The Open: At The Range",
@@ -97,18 +97,51 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 7
+      "episode": 7.0
     },
     {
       "title": "Live Women's Test Day 4: ENG v IND",
       "description": "Day four of England's historic standalone women's Test match against India at the home of cricket, Lord's.",
       "start": 1783935000,
-      "stop": 1783963800,
+      "stop": 1783944900,
       "icon": "https://images.metadata.sky.com/pd-image/636bafbd-6874-4ced-bca6-65addba8cbc9/cover",
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 4
+      "episode": 4.0
+    },
+    {
+      "title": "World Cup Report",
+      "description": "A comprehensive round-up of all the day's World Cup news.",
+      "start": 1783944900,
+      "stop": 1783947600,
+      "icon": "https://images.metadata.sky.com/pd-image/d0d421c6-0b3d-4609-9243-3a5146b1382b/cover",
+      "channel": "sky.main.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "Live The Open: At The Range",
+      "description": "Ahead of the 154th Open Championship, join some of the game's leading stars and pundits live from the practice range of this year's venue - Royal Birkdale.",
+      "start": 1783947600,
+      "stop": 1783962000,
+      "icon": "https://images.metadata.sky.com/pd-image/6f51788b-4d17-45a4-a09e-8b933bb400af/cover",
+      "channel": "sky.main.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "World Cup Report",
+      "description": "A comprehensive round-up of all the day's World Cup news.",
+      "start": 1783962000,
+      "stop": 1783963800,
+      "icon": "https://images.metadata.sky.com/pd-image/1817452f-7712-47d8-a134-845fb21fc5e6/cover",
+      "channel": "sky.main.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
     },
     {
       "title": "World Cup Report",
@@ -119,7 +152,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 36
+      "episode": 36.0
     },
     {
       "title": "World Cup Report",
@@ -130,7 +163,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 36
+      "episode": 36.0
     },
     {
       "title": "World Cup Report",
@@ -141,7 +174,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 36
+      "episode": 36.0
     },
     {
       "title": "World Cup Report",
@@ -152,7 +185,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 36
+      "episode": 36.0
     },
     {
       "title": "World Cup Report",
@@ -163,7 +196,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 36
+      "episode": 36.0
     },
     {
       "title": "World Cup Report",
@@ -174,7 +207,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 36
+      "episode": 36.0
     },
     {
       "title": "Live WNBA: Sparks @ Dream",
@@ -185,18 +218,18 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 58
+      "episode": 58.0
     },
     {
       "title": "Live WNBA: Mercury @ Lynx",
-      "description": "The Minnesota Lynx take on the Phoenix Mercury in the WNBA.",
+      "description": "The Minnesota Lynx look to build on their 90-85 win over the New York Liberty as they take on the Phoenix Mercury in the WNBA.",
       "start": 1783992600,
       "stop": 1783999800,
       "icon": "https://images.metadata.sky.com/pd-image/da3ef4f1-d5f5-4992-a25a-ee0d12e74c97/cover",
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 13
+      "episode": 13.0
     },
     {
       "title": "World Cup Report",
@@ -207,7 +240,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 36
+      "episode": 36.0
     },
     {
       "title": "World Cup Report",
@@ -218,7 +251,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 36
+      "episode": 36.0
     },
     {
       "title": "World Cup Report",
@@ -229,7 +262,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 36
+      "episode": 36.0
     },
     {
       "title": "World Cup Breakfast",
@@ -240,7 +273,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 37
+      "episode": 37.0
     },
     {
       "title": "Open: Last-Chance Qualifier Hlts",
@@ -251,7 +284,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 6
+      "episode": 6.0
     },
     {
       "title": "Live The Open: At The Range",
@@ -262,7 +295,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 9
+      "episode": 9.0
     },
     {
       "title": "Live 1st ODI: England v India",
@@ -273,7 +306,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 1
+      "episode": 1.0
     },
     {
       "title": "World Cup Report",
@@ -284,7 +317,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 37
+      "episode": 37.0
     },
     {
       "title": "World Cup Report",
@@ -295,7 +328,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 37
+      "episode": 37.0
     },
     {
       "title": "World Cup Report",
@@ -306,7 +339,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 37
+      "episode": 37.0
     },
     {
       "title": "World Cup Report",
@@ -317,7 +350,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 37
+      "episode": 37.0
     },
     {
       "title": "World Cup Report",
@@ -328,7 +361,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 37
+      "episode": 37.0
     },
     {
       "title": "World Cup Report",
@@ -339,7 +372,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 37
+      "episode": 37.0
     },
     {
       "title": "World Cup Report",
@@ -350,7 +383,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 37
+      "episode": 37.0
     },
     {
       "title": "World Cup Report",
@@ -361,7 +394,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 37
+      "episode": 37.0
     },
     {
       "title": "World Cup Report",
@@ -372,7 +405,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 37
+      "episode": 37.0
     },
     {
       "title": "World Cup Report",
@@ -383,7 +416,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 37
+      "episode": 37.0
     },
     {
       "title": "World Cup Report",
@@ -394,7 +427,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 37
+      "episode": 37.0
     },
     {
       "title": "World Cup Report",
@@ -405,7 +438,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 37
+      "episode": 37.0
     },
     {
       "title": "World Cup Breakfast",
@@ -416,7 +449,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 38
+      "episode": 38.0
     },
     {
       "title": "World Cup Breakfast",
@@ -427,7 +460,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 38
+      "episode": 38.0
     },
     {
       "title": "Live The Open: At The Range",
@@ -438,7 +471,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 11
+      "episode": 11.0
     },
     {
       "title": "Live: Wednesday At The Open",
@@ -449,7 +482,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 13
+      "episode": 13.0
     },
     {
       "title": "Live The Open: At The Range",
@@ -460,18 +493,18 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 12
+      "episode": 12.0
     },
     {
-      "title": "ICC Men's T20 WC: ENG v AUS 2010",
-      "description": "Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit England's victorious 2010 final against old rivals Australia.",
+      "title": "ENG v ARG: Countdown To Kick-Off",
+      "description": "The countdown is on to England's World Cup semi-final against Argentina, with expert opinion, team news and all the latest ahead of kick-off.",
       "start": 1784141100,
       "stop": 1784142000,
-      "icon": "https://images.metadata.sky.com/pd-image/1d4f50a7-1dfe-457c-8faf-2054224640eb/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/40105235-0eed-497d-99ae-604edf39dd58/cover",
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 42.0
     },
     {
       "title": "World Cup Report",
@@ -482,7 +515,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 38
+      "episode": 38.0
     },
     {
       "title": "World Cup Report",
@@ -493,7 +526,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 38
+      "episode": 38.0
     },
     {
       "title": "World Cup Report",
@@ -504,7 +537,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 38
+      "episode": 38.0
     }
   ],
   "sky.premier.uk": [
@@ -2954,7 +2987,7 @@
     },
     {
       "title": "ENG v ARG: Countdown To Kick-Off",
-      "description": null,
+      "description": "The countdown is on to England's World Cup semi-final against Argentina, with expert opinion, team news and all the latest ahead of kick-off.",
       "start": 1784131200,
       "stop": 1784134800,
       "icon": "https://images.metadata.sky.com/pd-image/40105235-0eed-497d-99ae-604edf39dd58/cover",
@@ -2965,7 +2998,7 @@
     },
     {
       "title": "ENG v ARG: Countdown To Kick-Off",
-      "description": null,
+      "description": "The countdown is on to England's World Cup semi-final against Argentina, with expert opinion, team news and all the latest ahead of kick-off.",
       "start": 1784134800,
       "stop": 1784138400,
       "icon": "https://images.metadata.sky.com/pd-image/40105235-0eed-497d-99ae-604edf39dd58/cover",
@@ -2976,7 +3009,7 @@
     },
     {
       "title": "ENG v ARG: Countdown To Kick-Off",
-      "description": null,
+      "description": "The countdown is on to England's World Cup semi-final against Argentina, with expert opinion, team news and all the latest ahead of kick-off.",
       "start": 1784138400,
       "stop": 1784142000,
       "icon": "https://images.metadata.sky.com/pd-image/40105235-0eed-497d-99ae-604edf39dd58/cover",
@@ -5391,7 +5424,7 @@
     },
     {
       "title": "ENG v ARG: Countdown To Kick-Off",
-      "description": null,
+      "description": "The countdown is on to England's World Cup semi-final against Argentina, with expert opinion, team news and all the latest ahead of kick-off.",
       "start": 1784131200,
       "stop": 1784134800,
       "icon": "https://images.metadata.sky.com/pd-image/40105235-0eed-497d-99ae-604edf39dd58/cover",
@@ -5402,7 +5435,7 @@
     },
     {
       "title": "ENG v ARG: Countdown To Kick-Off",
-      "description": null,
+      "description": "The countdown is on to England's World Cup semi-final against Argentina, with expert opinion, team news and all the latest ahead of kick-off.",
       "start": 1784134800,
       "stop": 1784138400,
       "icon": "https://images.metadata.sky.com/pd-image/40105235-0eed-497d-99ae-604edf39dd58/cover",
@@ -5413,7 +5446,7 @@
     },
     {
       "title": "ENG v ARG: Countdown To Kick-Off",
-      "description": null,
+      "description": "The countdown is on to England's World Cup semi-final against Argentina, with expert opinion, team news and all the latest ahead of kick-off.",
       "start": 1784138400,
       "stop": 1784142000,
       "icon": "https://images.metadata.sky.com/pd-image/40105235-0eed-497d-99ae-604edf39dd58/cover",
@@ -5479,17 +5512,6 @@
     }
   ],
   "sky.racing.uk": [
-    {
-      "title": "Stateside Live",
-      "description": "Live US racing from Fort Erie, Colonial Downs, Saratoga, Emerald Downs, Gulfstream, Ellis Park, Monmouth, Woodbine, Charles Town, Lone Star Park and Canterbury Park.",
-      "start": 1783875600,
-      "stop": 1783903500,
-      "icon": "https://images.metadata.sky.com/pd-image/5c97624e-93a8-4172-87dd-d513bfa7bf86/cover",
-      "channel": "sky.racing.uk",
-      "premiere": false,
-      "season": null,
-      "episode": 191.0
-    },
     {
       "title": "British Racing: Welfare Commitment",
       "description": "Alex Hammond visits Newbury Racecourse and Lambourn Training Grounds to find out what measures British Racing is implementing to help improve horse welfare.",
@@ -5602,7 +5624,7 @@
     },
     {
       "title": "Australian Racing Live",
-      "description": "Live Australian racing from Newcastle and Townsville.",
+      "description": "Live Australian racing from Newcastle, Ballarat and Townsville.",
       "start": 1783990800,
       "stop": 1784005200,
       "icon": "https://images.metadata.sky.com/pd-image/8345c0ec-28e0-46d4-8a06-f24413bb4fd2/cover",
@@ -5613,7 +5635,7 @@
     },
     {
       "title": "Australian Racing Live",
-      "description": "Live Australian racing from Newcastle and Townsville.",
+      "description": "Live Australian racing from Newcastle, Ballarat and Townsville.",
       "start": 1784005200,
       "stop": 1784008800,
       "icon": "https://images.metadata.sky.com/pd-image/8345c0ec-28e0-46d4-8a06-f24413bb4fd2/cover",
@@ -5626,7 +5648,7 @@
       "title": "World Cup Breakfast",
       "description": "A round-up of the all the breaking news stories from the 2026 FIFA World Cup, with live analysis and comment plus interviews with the headline makers.",
       "start": 1784008800,
-      "stop": 1784019600,
+      "stop": 1784016000,
       "icon": "https://images.metadata.sky.com/pd-image/8e9d1cb4-d3f6-4d13-bea0-624bf36f6b81/cover",
       "channel": "sky.racing.uk",
       "premiere": false,
@@ -5634,20 +5656,20 @@
       "episode": 37.0
     },
     {
-      "title": "British Racing: Welfare Commitment",
-      "description": "Alex Hammond visits Newbury Racecourse and Lambourn Training Grounds to find out what measures British Racing is implementing to help improve horse welfare.",
-      "start": 1784019600,
-      "stop": 1784020500,
-      "icon": "https://images.metadata.sky.com/pd-image/52a54f99-3c8a-3f89-9525-737d68b874eb/cover",
+      "title": "The Enduring Race",
+      "description": "5 years after Leading The Way, Josh Apiafi reunites with Rishi Persad & Brian Finch to explore how horse racing is tackling diversity & inclusion. Has the sport really delivered its promise to change?",
+      "start": 1784016000,
+      "stop": 1784018700,
+      "icon": "https://images.metadata.sky.com/pd-image/c86be44a-e58e-492a-bcfb-c96346a2cd0f/cover",
       "channel": "sky.racing.uk",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 132.0
     },
     {
       "title": "International Raceday Live",
       "description": "Live French racing from Aix le Bains and greyhounds from Newcastle. We look ahead to a busy day's UK racing as well as a G1 fixture from Parislongchamp.",
-      "start": 1784020500,
+      "start": 1784018700,
       "stop": 1784034000,
       "icon": "https://images.metadata.sky.com/pd-image/2d7bc7c6-f335-411e-b2e3-154a14bdc844/cover",
       "channel": "sky.racing.uk",
@@ -5659,7 +5681,7 @@
       "title": "Raceday Live",
       "description": "Live Racing: Ffos Las with Zoey Bird and evening action from ParisLonghamp featuring the G1 Grand Prix De Paris with Katherine Ford. Wolverhampton with Callum Helliwell.",
       "start": 1784034000,
-      "stop": 1784055600,
+      "stop": 1784059200,
       "icon": "https://images.metadata.sky.com/pd-image/ae1b3ce8-6fc6-45b3-85b3-6d9136c15657/cover",
       "channel": "sky.racing.uk",
       "premiere": false,
@@ -5669,7 +5691,7 @@
     {
       "title": "Stateside Live",
       "description": "Live US racing from Thistledown, Finger Lakes, Fairmount, Horseshoe Indianapolis and Presque Isle Downs.",
-      "start": 1784055600,
+      "start": 1784059200,
       "stop": 1784062800,
       "icon": "https://images.metadata.sky.com/pd-image/6aa84030-fc5f-4617-a84b-42d8eb94df74/cover",
       "channel": "sky.racing.uk",
@@ -5712,7 +5734,7 @@
     },
     {
       "title": "Australian Racing Live",
-      "description": "Live Australian racing from Grafton, Warwick Farm and Eagle Farm.",
+      "description": "Live Australian racing from Grafton, Warwick Farm, Sandown, Balaklava and Eagle Farm.",
       "start": 1784077200,
       "stop": 1784091600,
       "icon": "https://images.metadata.sky.com/pd-image/89d64cb8-b0d3-496e-a156-7465e54cec53/cover",
@@ -5723,7 +5745,7 @@
     },
     {
       "title": "Australian Racing Live",
-      "description": "Live Australian racing from Grafton, Warwick Farm and Eagle Farm.",
+      "description": "Live Australian racing from Grafton, Warwick Farm, Sandown, Balaklava and Eagle Farm.",
       "start": 1784091600,
       "stop": 1784095200,
       "icon": "https://images.metadata.sky.com/pd-image/89d64cb8-b0d3-496e-a156-7465e54cec53/cover",
@@ -5769,7 +5791,7 @@
       "title": "International Raceday Live",
       "description": "Live international racing from Happy Valley and Teste Buch as well as selected greyhound racing. A look forward to this afternoon's UK racing.",
       "start": 1784108700,
-      "stop": 1784120400,
+      "stop": 1784119500,
       "icon": "https://images.metadata.sky.com/pd-image/ee670cf2-9369-4afa-8e11-5be51a036c8b/cover",
       "channel": "sky.racing.uk",
       "premiere": false,
@@ -5779,7 +5801,7 @@
     {
       "title": "Raceday Live",
       "description": "Live Racing: Bath with Mick Fitzgerald and Uttoxeter with Luke Harvey. Evening action from Yarmouth with Jason Weaver and Lingfield with Hayley Moore",
-      "start": 1784120400,
+      "start": 1784119500,
       "stop": 1784142000,
       "icon": "https://images.metadata.sky.com/pd-image/f2c31ee0-5fd4-48a6-ad48-7f75405f4947/cover",
       "channel": "sky.racing.uk",
@@ -5791,7 +5813,7 @@
       "title": "Stateside Live",
       "description": "Live US racing from Thistledown, Finger Lakes, Delaware, Horseshoe Indianapolis and Presque Isle Downs.",
       "start": 1784142000,
-      "stop": 1784151000,
+      "stop": 1784149200,
       "icon": "https://images.metadata.sky.com/pd-image/43792ee8-1dc1-45e5-aefa-da902bc6cc41/cover",
       "channel": "sky.racing.uk",
       "premiere": false,
@@ -5799,20 +5821,9 @@
       "episode": 194.0
     },
     {
-      "title": "Lilly Pinchin: I Love What I Do",
-      "description": "There's a lot more than meets the eye with up-and-coming jump jockey Lilly Pinchin, who talks through her life in and out of the saddle.",
-      "start": 1784151000,
-      "stop": 1784152800,
-      "icon": "https://images.metadata.sky.com/pd-image/2f9b92e5-3299-4552-b4c6-ff4b2945fdcb/cover",
-      "channel": "sky.racing.uk",
-      "premiere": false,
-      "season": null,
-      "episode": null
-    },
-    {
       "title": "World Cup Report",
       "description": "A comprehensive round-up of all the day's World Cup news.",
-      "start": 1784152800,
+      "start": 1784149200,
       "stop": 1784163600,
       "icon": "https://images.metadata.sky.com/pd-image/0b465a92-7e9c-4a37-b613-726c1e2c954a/cover",
       "channel": "sky.racing.uk",
@@ -5831,7 +5842,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 29
+      "episode": 29.0
     },
     {
       "title": "NBA: New York @ Philadelphia",
@@ -5842,7 +5853,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 67
+      "episode": 67.0
     },
     {
       "title": "ICC Women's T20 WC: Finals Hlts",
@@ -5853,7 +5864,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 33
+      "episode": 33.0
     },
     {
       "title": "ICC Women's T20 WC 2026",
@@ -5864,7 +5875,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 18
+      "episode": 18.0
     },
     {
       "title": "ICC Women's T20 WC 2026",
@@ -5875,7 +5886,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 19
+      "episode": 19.0
     },
     {
       "title": "ICC Women's T20 WC 2026",
@@ -5886,7 +5897,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 20
+      "episode": 20.0
     },
     {
       "title": "EFL 17/18: Arsenal v Man City",
@@ -5897,7 +5908,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "EFL 17/18: Aston Villa v Wolves",
@@ -5908,7 +5919,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "EFL 17/18: Fulham v QPR",
@@ -5919,7 +5930,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "EFL 17/18: Middlesbrough v Wolves",
@@ -5930,7 +5941,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Women's Test Day 3: ENG v IND",
@@ -5941,7 +5952,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 3
+      "episode": 3.0
     },
     {
       "title": "Women's State of Origin 2026",
@@ -5952,7 +5963,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 3
+      "episode": 3.0
     },
     {
       "title": "Women's State of Origin 2026",
@@ -5963,7 +5974,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 5
+      "episode": 5.0
     },
     {
       "title": "Women's State of Origin 2026",
@@ -5974,7 +5985,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 17
+      "episode": 17.0
     },
     {
       "title": "Men's State Of Origin #3 Hlts",
@@ -5985,7 +5996,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 25
+      "episode": 25.0
     },
     {
       "title": "Evian Championship Highlights",
@@ -5996,7 +6007,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 67
+      "episode": 67.0
     },
     {
       "title": "Women's Test Day 2: ENG v IND Hlts",
@@ -6007,7 +6018,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 2
+      "episode": 2.0
     },
     {
       "title": "Women's Test Day 3: ENG v IND",
@@ -6018,18 +6029,106 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 3
+      "episode": 3.0
     },
     {
       "title": "Live Women's Test Day 4: ENG v IND",
       "description": "Day four of England's historic standalone women's Test match against India at the home of cricket, Lord's.",
       "start": 1783935000,
-      "stop": 1783963800,
+      "stop": 1783944901,
       "icon": "https://images.metadata.sky.com/pd-image/636bafbd-6874-4ced-bca6-65addba8cbc9/cover",
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 4
+      "episode": 4.0
+    },
+    {
+      "title": "England v India 2nd T20 Hlts",
+      "description": "England welcome India to Old Trafford for the second T20I in this five-match series. Wednesday's opener was washed out before England could reply to India's total of 189-7. (04.07)",
+      "start": 1783944901,
+      "stop": 1783946701,
+      "icon": "https://images.metadata.sky.com/pd-image/8cc8ce8c-2a2b-4e62-8c9e-f7113686c7eb/cover",
+      "channel": "sky.mix.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "England v India 3rd T20 Hlts",
+      "description": "England take a 1-0 series lead into the third T20I against India at Trent Bridge. After the opener was washed out, a Jacob Bethell-inspired England clinched a win in Manchester. (07.07)",
+      "start": 1783946701,
+      "stop": 1783948501,
+      "icon": "https://images.metadata.sky.com/pd-image/146c364d-dfe1-4cf2-9b9e-b0efe2c4bd78/cover",
+      "channel": "sky.mix.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "England v India 4th T20 Hlts",
+      "description": "The fourth T20I in England's five-match series with India at the County Ground in Bristol. Previously, England inflicted a record 125-run loss on the reigning world champions. (09.07)",
+      "start": 1783948501,
+      "stop": 1783950301,
+      "icon": "https://images.metadata.sky.com/pd-image/7ebf0fa7-2ab3-4046-a5d8-16e5ea9f94cc/cover",
+      "channel": "sky.mix.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "England v India 5th T20 Hlts",
+      "description": "England attempt to round off an emphatic series win over India in the fifth and final match. An English victory would see Harry Brook's side become the number one ranked T20 side. (11.07)",
+      "start": 1783950301,
+      "stop": 1783952101,
+      "icon": "https://images.metadata.sky.com/pd-image/548ebbbc-b862-4821-98e2-93e1740d0bc8/cover",
+      "channel": "sky.mix.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "Women's Test Day 1: ENG v IND Hlts",
+      "description": "For the first time in history, Lord's hosts international women's red-ball cricket as England and India enter day one of this standalone Test. (10.07)",
+      "start": 1783952101,
+      "stop": 1783955701,
+      "icon": "https://images.metadata.sky.com/pd-image/61e1e195-2dae-41c3-baf9-37ec1e402777/cover",
+      "channel": "sky.mix.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "Women's Test Day 2: ENG v IND Hlts",
+      "description": "Day two of England's historic women's Test against India. The opening day saw India dismissed for 285 before England cut the deficit to 264, losing Tammy Beaumont in the process. (11.07)",
+      "start": 1783955701,
+      "stop": 1783959301,
+      "icon": "https://images.metadata.sky.com/pd-image/04f13c84-1065-4e07-bd4f-682ef1957cc7/cover",
+      "channel": "sky.mix.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "Women's Test Day 3: ENG v IND Hlts",
+      "description": "Day three of England's historic standalone women's Test match against India at the home of cricket, Lord's. A dominant India resume on 154 for 1, 269 runs ahead in the match. (12.07)",
+      "start": 1783959301,
+      "stop": 1783962901,
+      "icon": "https://images.metadata.sky.com/pd-image/6a03c58c-e20a-4def-891f-74c01b7550ac/cover",
+      "channel": "sky.mix.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "The Best of The ICC Mens' T20 WC",
+      "description": "Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit England's victorious 2010 final against old rivals Australia.",
+      "start": 1783962901,
+      "stop": 1783963800,
+      "icon": "https://images.metadata.sky.com/pd-image/3ba86476-9f1d-4514-981b-83995315c72a/cover",
+      "channel": "sky.mix.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
     },
     {
       "title": "Evian Championship Highlights",
@@ -6040,7 +6139,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 66
+      "episode": 66.0
     },
     {
       "title": "Spirit of Yachting",
@@ -6051,7 +6150,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 15
+      "episode": 15.0
     },
     {
       "title": "Men's State Of Origin #2 Hlts",
@@ -6062,7 +6161,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 22
+      "episode": 22.0
     },
     {
       "title": "Women's Test Day 4: ENG v IND",
@@ -6073,7 +6172,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 4
+      "episode": 4.0
     },
     {
       "title": "Evian Championship Highlights",
@@ -6084,7 +6183,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 67
+      "episode": 67.0
     },
     {
       "title": "Men's State Of Origin #2 Hlts",
@@ -6095,7 +6194,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 22
+      "episode": 22.0
     },
     {
       "title": "Live NFL: The Insiders",
@@ -6106,7 +6205,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 138
+      "episode": 138.0
     },
     {
       "title": "NBA: Orlando @ Phoenix",
@@ -6117,7 +6216,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 84
+      "episode": 84.0
     },
     {
       "title": "PL Greatest:Everton/Wimbledon 1994",
@@ -6128,7 +6227,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 105
+      "episode": 105.0
     },
     {
       "title": "ICC Women's T20 WC 2026",
@@ -6139,7 +6238,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 21
+      "episode": 21.0
     },
     {
       "title": "ICC Women's T20 WC 2026",
@@ -6150,7 +6249,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 22
+      "episode": 22.0
     },
     {
       "title": "ICC Women's T20 WC 2026",
@@ -6161,7 +6260,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 23
+      "episode": 23.0
     },
     {
       "title": "ICC Women's T20 WC 2026",
@@ -6172,7 +6271,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 24
+      "episode": 24.0
     },
     {
       "title": "EFL 17/18: Cardiff v Wolves",
@@ -6183,7 +6282,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "EFL 17/18: Derby County v Cardiff",
@@ -6194,7 +6293,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "EFL 17/18: Derby County v Leeds",
@@ -6205,7 +6304,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "EFL 17/18: West Brom v Leeds Utd",
@@ -6216,7 +6315,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Evian Championship Highlights",
@@ -6227,7 +6326,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 64
+      "episode": 64.0
     },
     {
       "title": "Evian Championship Highlights",
@@ -6238,7 +6337,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 65
+      "episode": 65.0
     },
     {
       "title": "Evian Championship Highlights",
@@ -6249,7 +6348,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 66
+      "episode": 66.0
     },
     {
       "title": "Evian Championship Highlights",
@@ -6260,7 +6359,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 67
+      "episode": 67.0
     },
     {
       "title": "NBA: Golden State @ Boston",
@@ -6271,7 +6370,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 109
+      "episode": 109.0
     },
     {
       "title": "Open: Last-Chance Qualifier Hlts",
@@ -6282,7 +6381,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 6
+      "episode": 6.0
     },
     {
       "title": "PL Greatest: Man City/Fulham 2008",
@@ -6293,7 +6392,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "PL Greatest: M'boro/Man City 2008",
@@ -6304,7 +6403,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 111
+      "episode": 111.0
     },
     {
       "title": "PL Greatest:Newcastle/Man Utd 1996",
@@ -6315,7 +6414,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "PL Greatest: Man Utd/Norwich 2015",
@@ -6326,7 +6425,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 113
+      "episode": 113.0
     },
     {
       "title": "S/Lge: Wakefield v Hull FC",
@@ -6337,7 +6436,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 22
+      "episode": 22.0
     },
     {
       "title": "Women's State of Origin 2026",
@@ -6348,7 +6447,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 5
+      "episode": 5.0
     },
     {
       "title": "Spirit of Yachting",
@@ -6359,7 +6458,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 15
+      "episode": 15.0
     },
     {
       "title": "PL Greatest: Cardiff/Man City 2013",
@@ -6370,7 +6469,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "PL Greatest: Arsenal/Charlton 2001",
@@ -6381,7 +6480,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Open: Last-Chance Qualifier Hlts",
@@ -6392,7 +6491,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 6
+      "episode": 6.0
     },
     {
       "title": "PGA Tour Golf Highlights",
@@ -6403,7 +6502,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 100
+      "episode": 100.0
     },
     {
       "title": "Ladies European Tour Golf Hlts",
@@ -6414,7 +6513,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 37
+      "episode": 37.0
     },
     {
       "title": "Men's State Of Origin #2 Hlts",
@@ -6425,7 +6524,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 22
+      "episode": 22.0
     },
     {
       "title": "Men's State Of Origin #3 Hlts",
@@ -6436,7 +6535,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 24
+      "episode": 24.0
     },
     {
       "title": "EFL 17/18: A. Villa v Birmingham",
@@ -6447,7 +6546,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "EFL 17/18: Aston Villa v N. Forest",
@@ -6458,7 +6557,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "EFL 18/19: Aston Villa v Leeds Utd",
@@ -6469,7 +6568,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "NBA: Phildelphia @ Charlotte",
@@ -6480,7 +6579,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 117
+      "episode": 117.0
     },
     {
       "title": "PL Greatest: Oldham/So'ton 1993",
@@ -6491,7 +6590,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 115
+      "episode": 115.0
     },
     {
       "title": "PL Greatest: P'mouth/So'ton 2005",
@@ -6502,7 +6601,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "PL Greatest: QPR/Liverpool 2012",
@@ -6513,7 +6612,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "PL Greatest Games:Reading/WHU '07",
@@ -6524,7 +6623,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 118
+      "episode": 118.0
     },
     {
       "title": "ICC Women's T20 WC 2026",
@@ -6535,7 +6634,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 25
+      "episode": 25.0
     },
     {
       "title": "ICC Women's T20 WC 2026",
@@ -6546,7 +6645,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 26
+      "episode": 26.0
     },
     {
       "title": "ICC Women's T20 WC 2026",
@@ -6557,7 +6656,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 27
+      "episode": 27.0
     },
     {
       "title": "ICC Women's T20 WC 2026",
@@ -6568,7 +6667,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 28
+      "episode": 28.0
     },
     {
       "title": "EFL 18/19:Leeds Utd v Derby County",
@@ -6579,7 +6678,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "EFL 18/19: Charlton v Doncaster",
@@ -6590,7 +6689,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "EFL 21/22: Coventry City v Fulham",
@@ -6601,7 +6700,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "EFL 21/22: Blackburn v Fulham",
@@ -6612,7 +6711,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "1st ODI: England v India Hlts",
@@ -6623,7 +6722,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 1
+      "episode": 1.0
     },
     {
       "title": "Women's State of Origin 2026",
@@ -6634,7 +6733,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 2
+      "episode": 2.0
     },
     {
       "title": "Women's State of Origin 2026",
@@ -6645,7 +6744,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 4
+      "episode": 4.0
     },
     {
       "title": "Women's State of Origin 2026",
@@ -6656,7 +6755,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 16
+      "episode": 16.0
     },
     {
       "title": "NBA: Houston @ Cleveland",
@@ -6667,7 +6766,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 63
+      "episode": 63.0
     },
     {
       "title": "1st ODI: England v India Hlts",
@@ -6678,7 +6777,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 1
+      "episode": 1.0
     },
     {
       "title": "PL Greatest:Sheff Utd/Arsenal 2006",
@@ -6689,7 +6788,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 119
+      "episode": 119.0
     },
     {
       "title": "PL Greatest: Sheff Weds/Man U 1998",
@@ -6700,7 +6799,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 120
+      "episode": 120.0
     },
     {
       "title": "PL Greatest Games:Stoke/L'Pool '15",
@@ -6711,7 +6810,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 122
+      "episode": 122.0
     },
     {
       "title": "PL Greatest: N'castle/S'land 2013",
@@ -6722,7 +6821,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "S/Lge: Wakefield v Leigh",
@@ -6733,7 +6832,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 30
+      "episode": 30.0
     },
     {
       "title": "Women's State of Origin 2026",
@@ -6744,7 +6843,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 17
+      "episode": 17.0
     },
     {
       "title": "Men's State Of Origin #1 Hlts",
@@ -6755,7 +6854,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 14
+      "episode": 14.0
     },
     {
       "title": "Men's State Of Origin #2 Hlts",
@@ -6766,7 +6865,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 22
+      "episode": 22.0
     },
     {
       "title": "Men's State Of Origin #3 Hlts",
@@ -6777,7 +6876,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 24
+      "episode": 24.0
     },
     {
       "title": "Women's State of Origin 2026",
@@ -6788,7 +6887,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 4
+      "episode": 4.0
     },
     {
       "title": "Women's State of Origin 2026",
@@ -6799,7 +6898,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 16
+      "episode": 16.0
     },
     {
       "title": "1st ODI: England v India Hlts",
@@ -6810,7 +6909,7 @@
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 1
+      "episode": 1.0
     }
   ],
   "sky.cricket.uk": [
@@ -6939,12 +7038,100 @@
       "title": "Live Women's Test Day 4: ENG v IND",
       "description": "Day four of England's historic standalone women's Test match against India at the home of cricket, Lord's.",
       "start": 1783935000,
-      "stop": 1783963800,
+      "stop": 1783944900,
       "icon": "https://images.metadata.sky.com/pd-image/636bafbd-6874-4ced-bca6-65addba8cbc9/cover",
       "channel": "sky.cricket.uk",
       "premiere": false,
       "season": null,
       "episode": 4.0
+    },
+    {
+      "title": "England v India 2nd T20 Hlts",
+      "description": "England welcome India to Old Trafford for the second T20I in this five-match series. Wednesday's opener was washed out before England could reply to India's total of 189-7. (04.07)",
+      "start": 1783944900,
+      "stop": 1783946700,
+      "icon": "https://images.metadata.sky.com/pd-image/0950f20f-dc57-4265-9a73-86d7c7c5dd42/cover",
+      "channel": "sky.cricket.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "England v India 3rd T20 Hlts",
+      "description": "England take a 1-0 series lead into the third T20I against India at Trent Bridge. After the opener was washed out, a Jacob Bethell-inspired England clinched a win in Manchester. (07.07)",
+      "start": 1783946700,
+      "stop": 1783948500,
+      "icon": "https://images.metadata.sky.com/pd-image/910012fa-57eb-40ed-886b-a8acf6e1f5bf/cover",
+      "channel": "sky.cricket.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "England v India 4th T20 Hlts",
+      "description": "The fourth T20I in England's five-match series with India at the County Ground in Bristol. Previously, England inflicted a record 125-run loss on the reigning world champions. (09.07)",
+      "start": 1783948500,
+      "stop": 1783950300,
+      "icon": "https://images.metadata.sky.com/pd-image/4377fa3f-9a7b-48a8-9b14-b6a4cbc40bc5/cover",
+      "channel": "sky.cricket.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "England v India 5th T20 Hlts",
+      "description": "England attempt to round off an emphatic series win over India in the fifth and final match. An English victory would see Harry Brook's side become the number one ranked T20 side. (11.07)",
+      "start": 1783950300,
+      "stop": 1783952100,
+      "icon": "https://images.metadata.sky.com/pd-image/ec54b2b7-95a9-4a8a-9418-08cf8c195f1d/cover",
+      "channel": "sky.cricket.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "Women's Test Day 1: ENG v IND Hlts",
+      "description": "For the first time in history, Lord's hosts international women's red-ball cricket as England and India enter day one of this standalone Test. (10.07)",
+      "start": 1783952100,
+      "stop": 1783955700,
+      "icon": "https://images.metadata.sky.com/pd-image/b20d8f85-21fb-4619-99ed-578460b8cc52/cover",
+      "channel": "sky.cricket.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "Women's Test Day 2: ENG v IND Hlts",
+      "description": "Day two of England's historic women's Test against India. The opening day saw India dismissed for 285 before England cut the deficit to 264, losing Tammy Beaumont in the process. (11.07)",
+      "start": 1783955700,
+      "stop": 1783959300,
+      "icon": "https://images.metadata.sky.com/pd-image/efd2420a-d5ce-4cd1-a157-9aacc433ddb0/cover",
+      "channel": "sky.cricket.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "Women's Test Day 3: ENG v IND Hlts",
+      "description": "Day three of England's historic standalone women's Test match against India at the home of cricket, Lord's. A dominant India resume on 154 for 1, 269 runs ahead in the match. (12.07)",
+      "start": 1783959300,
+      "stop": 1783962900,
+      "icon": "https://images.metadata.sky.com/pd-image/0891eaa1-1f34-4487-8e79-1c8740541f54/cover",
+      "channel": "sky.cricket.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "The Best of The ICC Mens' T20 WC",
+      "description": "Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit England's victorious 2010 final against old rivals Australia.",
+      "start": 1783962900,
+      "stop": 1783963800,
+      "icon": "https://images.metadata.sky.com/pd-image/a9ca534b-c31c-4df2-af07-feac93866f64/cover",
+      "channel": "sky.cricket.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
     },
     {
       "title": "Women's Test Day 1: ENG v IND Hlts",
@@ -7961,22 +8148,22 @@
       "episode": 10.0
     },
     {
-      "title": "Simon Yates: Giro Redemption",
-      "description": "Seven years after he narrowly missed out on the maglia rosa, we take a special look at British cyclist Simon Yates' path to redemption at the 2025 Giro d'Italia.",
+      "title": "A to Z of the Tour de France",
+      "description": "We take an A to Z look at cycling's oldest and most prestigious Grand Tour, the Tour de France.",
       "start": 1784019600,
-      "stop": 1784023200,
-      "icon": "https://images.metadata.sky.com/pd-image/b64c46a2-ef94-46a4-8ef1-a93e8fe10026/cover",
+      "stop": 1784021400,
+      "icon": "https://images.metadata.sky.com/pd-image/63744692-b6b4-44bd-9da7-84baa16795a8/cover",
       "channel": "tnt1",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": null
     },
     {
       "title": "Tour de France Highlights - S9",
       "description": "Highlights from stage nine of the Tour de France as the riders tackle a 185km hilly route from Malemort to Ussel.",
-      "start": 1784023200,
-      "stop": 1784026800,
-      "icon": "https://images.metadata.sky.com/pd-image/ef1237c8-14c9-4cb5-9495-72db6d6bfda3/cover",
+      "start": 1784021400,
+      "stop": 1784025000,
+      "icon": "https://images.metadata.sky.com/pd-image/4eda7c23-1997-4848-821d-d0d017af6997/cover",
       "channel": "tnt1",
       "premiere": false,
       "season": null,
@@ -7985,13 +8172,13 @@
     {
       "title": "Live: Tour de France - Stage 10",
       "description": "On Bastille Day, the Tour de France peloton face a brutal 166km mountain stage from Aurillac to Le Lioran, with seven categorised climbs on jagged landscape.",
-      "start": 1784026800,
+      "start": 1784025000,
       "stop": 1784044800,
-      "icon": "https://images.metadata.sky.com/pd-image/5cbf1e76-0365-4aa5-a296-65aee4d751fd/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/0b45b836-6213-4703-b239-dbf9b996a5aa/cover",
       "channel": "tnt1",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": null
     },
     {
       "title": "The Gruppetto",
@@ -8236,15 +8423,15 @@
       "episode": 0.0
     },
     {
-      "title": "Tour de France Women Preview",
+      "title": "Road to Yellow",
       "description": "We preview the 2026 Tour de France Women, which will feature a record-breaking 18,795 metres of climbing and the debut of the legendary Mont Ventoux.",
       "start": 1784132100,
       "stop": 1784133900,
-      "icon": "https://images.metadata.sky.com/pd-image/55f93900-1c78-4632-9b0b-aabe14a83713/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/01b93109-6a07-4e00-9c8c-54b71caab82a/cover",
       "channel": "tnt1",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 0.0
     },
     {
       "title": "Cycling Essential Stories",
@@ -8378,7 +8565,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "TNT Sports Reload",
@@ -8389,7 +8576,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 26.0,
-      "episode": 27.0
+      "episode": 27
     },
     {
       "title": "WorldSBK: Superbike Superpole Race",
@@ -8400,7 +8587,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "WorldSBK: Superbike - Race 2",
@@ -8411,7 +8598,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Mountain Bike World Series Women",
@@ -8422,7 +8609,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "UCI Mountain Bike World Series Men",
@@ -8433,7 +8620,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Tour de France Highlights - S9",
@@ -8444,7 +8631,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Wimbledon",
@@ -8455,7 +8642,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Fishing: On the Bank",
@@ -8466,7 +8653,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 26.0,
-      "episode": 3.0
+      "episode": 3
     },
     {
       "title": "British Superbikes Highlights",
@@ -8477,7 +8664,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Moto3: Grand Prix of Germany",
@@ -8488,7 +8675,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Moto2: Grand Prix of Germany",
@@ -8499,7 +8686,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "MotoGP: Germany Sprint",
@@ -8510,7 +8697,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "MotoGP: Grand Prix of Germany",
@@ -8521,7 +8708,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "WorldSBK: Superbike Superpole Race",
@@ -8532,7 +8719,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "WorldSBK: Superbike - Race 2",
@@ -8543,7 +8730,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Mountain Bike World Series Women",
@@ -8554,7 +8741,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "UCI Mountain Bike World Series Men",
@@ -8565,7 +8752,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Premier League: Best Goals 2005/06",
@@ -8576,7 +8763,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Premier League: Best Goals 2006/07",
@@ -8587,7 +8774,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "WRC Magazine: Rally Estonia",
@@ -8598,7 +8785,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 26.0,
-      "episode": 9.0
+      "episode": 9
     },
     {
       "title": "WorldSBK: Superbike Superpole Race",
@@ -8609,7 +8796,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "WorldSBK: Superbike - Race 2",
@@ -8620,7 +8807,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Mountain Bike World Series Women",
@@ -8631,7 +8818,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "UCI Mountain Bike World Series Men",
@@ -8642,7 +8829,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Tour de France Highlights - S9",
@@ -8653,7 +8840,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "TNT Sports Cricket Reload",
@@ -8664,7 +8851,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 25.0,
-      "episode": 175.0
+      "episode": 175
     },
     {
       "title": "TNT Sports Cricket Reload",
@@ -8675,7 +8862,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 25.0,
-      "episode": 185.0
+      "episode": 185
     },
     {
       "title": "TNT Sports Cricket Reload",
@@ -8686,7 +8873,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 25.0,
-      "episode": 186.0
+      "episode": 186
     },
     {
       "title": "The Gruppetto",
@@ -8697,7 +8884,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 26.0,
-      "episode": 24.0
+      "episode": 24
     },
     {
       "title": "West Indies v New Zealand: 1st ODI",
@@ -8708,7 +8895,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Live ODI West Indies v New Zealand",
@@ -8719,7 +8906,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "World Superbike Highlights",
@@ -8730,18 +8917,18 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Tour de France Highlights - S9",
       "description": "Highlights from stage nine of the Tour de France as the riders tackle a 185km hilly route from Malemort to Ussel.",
       "start": 1784001600,
       "stop": 1784005200,
-      "icon": "https://images.metadata.sky.com/pd-image/2e393548-bcb1-4c33-8679-d539ef5cedad/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/48a3fb08-5b01-4c59-918f-056290f8554d/cover",
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 0
     },
     {
       "title": "WRC Magazine: Rally Estonia",
@@ -8752,7 +8939,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 26.0,
-      "episode": 9.0
+      "episode": 9
     },
     {
       "title": "World Superbike Highlights",
@@ -8763,7 +8950,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Moto3: Grand Prix of Germany",
@@ -8774,7 +8961,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Moto2: Grand Prix of Germany",
@@ -8785,7 +8972,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "MotoGP: Germany Sprint",
@@ -8796,7 +8983,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "MotoGP: Grand Prix of Germany",
@@ -8807,7 +8994,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "West Indies v New Zealand: 2nd ODI",
@@ -8818,7 +9005,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Australian Superbike Championship",
@@ -8829,7 +9016,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Australian Superbike Championship",
@@ -8840,7 +9027,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Australian Superbike Championship",
@@ -8851,7 +9038,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Australian Superbike Championship",
@@ -8862,7 +9049,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "West Indies v New Zealand: 2nd ODI",
@@ -8873,7 +9060,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Wimbledon",
@@ -8884,7 +9071,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Wimbledon",
@@ -8895,7 +9082,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Rolex Spirit of Yachting",
@@ -8906,7 +9093,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Endurance Uncovered",
@@ -8917,7 +9104,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 26.0,
-      "episode": 4.0
+      "episode": 4
     },
     {
       "title": "Ultimate Pool",
@@ -8928,7 +9115,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "West Indies v New Zealand: 2nd ODI",
@@ -8939,40 +9126,40 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Tour de France Highlights - S10",
       "description": "Highlights from stage ten of the 2026 Tour de France as the peloton face a brutal 166km mountain stage, starting in Aurillac and finishing in Le Lioran.",
       "start": 1784068200,
       "stop": 1784071800,
-      "icon": "https://images.metadata.sky.com/pd-image/13cd5c54-d072-44fa-a4da-384f54d96174/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/6a21c006-27db-413e-9d05-8a41f3f12511/cover",
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 13
     },
     {
       "title": "NWSL: Utah Royals v Gotham FC",
       "description": "Action from the National Women's Soccer League as Utah Royals FC face top-eight rivals Gotham FC at America First Field.",
       "start": 1784071800,
       "stop": 1784075400,
-      "icon": "https://images.metadata.sky.com/pd-image/54e72cdb-157c-41c8-af4a-953a9176019c/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/2556d85c-a607-4eb8-9b34-fc11390ca54e/cover",
       "channel": "tnt2",
       "premiere": false,
-      "season": null,
-      "episode": null
+      "season": 2026.0,
+      "episode": 47
     },
     {
       "title": "NWSL: Seattle Reign v Portland",
       "description": "Action from the National Women's Soccer League as an out-of-form Seattle Reign hunt for a big result against title-chasers Portland Thorns at Lumen Field.",
       "start": 1784075400,
       "stop": 1784079000,
-      "icon": "https://images.metadata.sky.com/pd-image/d59016a3-9557-4f4a-9de1-a8a4e0cb9f61/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/c05109f3-973d-4e3c-96d0-27d4fd20904c/cover",
       "channel": "tnt2",
       "premiere": false,
-      "season": null,
-      "episode": null
+      "season": 2026.0,
+      "episode": 48
     },
     {
       "title": "Moto3: Grand Prix of Germany",
@@ -8983,7 +9170,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Moto2: Grand Prix of Germany",
@@ -8994,7 +9181,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "MotoGP: Germany Sprint",
@@ -9005,7 +9192,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "MotoGP: Grand Prix of Germany",
@@ -9016,18 +9203,18 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Tour de France Highlights - S10",
       "description": "Highlights from stage ten of the 2026 Tour de France as the peloton face a brutal 166km mountain stage, starting in Aurillac and finishing in Le Lioran.",
       "start": 1784091600,
       "stop": 1784095200,
-      "icon": "https://images.metadata.sky.com/pd-image/5dc82975-5ec5-41cb-a751-9d134207644a/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/6a21c006-27db-413e-9d05-8a41f3f12511/cover",
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 13
     },
     {
       "title": "World Superbike Highlights",
@@ -9038,7 +9225,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Rolex Spirit of Yachting",
@@ -9049,7 +9236,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Sign Up - Into Football",
@@ -9060,84 +9247,84 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 25.0,
-      "episode": 10.0
+      "episode": 10
     },
     {
       "title": "Mountain Bike World Series Review",
       "description": "We look back at the thrilling action from the La Thuile Enduro in Italy, one of the most demanding stops on the WHOOP UCI Mountain Bike World Series.",
       "start": 1784104200,
       "stop": 1784106000,
-      "icon": "https://images.metadata.sky.com/pd-image/0fe4fe80-dc95-4aeb-90d3-00b9415e85b3/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/ec59f550-746e-4906-93c6-441a792588fe/cover",
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 0
     },
     {
       "title": "Mountain Bike World Series Women",
       "description": "Action from the women's elite cross country short track, part of the UCI Mountain Bike World Series in Pal Arinsal, Andorra.",
       "start": 1784106000,
       "stop": 1784107800,
-      "icon": "https://images.metadata.sky.com/pd-image/1715f7da-5491-4361-a78f-533453e14460/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/d4314c91-465c-4f7b-b2af-664980d08a19/cover",
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 0
     },
     {
       "title": "Mountain Bike World Series Women",
       "description": "Action from the women's downhill elite, part of the UCI Mountain Bike World Series in Pal Arinsal, Andorra.",
       "start": 1784107800,
       "stop": 1784109600,
-      "icon": "https://images.metadata.sky.com/pd-image/9e43e51c-4b8e-4765-8260-372f8767c7f6/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/50228728-b2df-4151-b5da-6f829fead6c0/cover",
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 0
     },
     {
       "title": "Mountain Bike World Series Women",
       "description": "Action from the women's elite cross country olympic, part of the UCI Mountain Bike World Series in Pal Arinsal, Andorra.",
       "start": 1784109600,
       "stop": 1784111400,
-      "icon": "https://images.metadata.sky.com/pd-image/cfe61e56-236b-4474-a533-f747d963dc3f/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/9ce818d3-aa4a-4dbc-9268-7c6fa81c3e08/cover",
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 0
     },
     {
       "title": "UCI Mountain Bike World Series Men",
       "description": "Action from the men's elite cross country short track, part of the UCI Mountain Bike World Series in Pal Arinsal, Andorra.",
       "start": 1784111400,
       "stop": 1784113200,
-      "icon": "https://images.metadata.sky.com/pd-image/66471702-c98b-47a1-8d25-1576c8664ba8/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/b068f811-f923-4650-bf84-3838bfa9e62a/cover",
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 0
     },
     {
       "title": "UCI Mountain Bike World Series Men",
       "description": "Action from the men's downhill elite, part of the UCI Mountain Bike World Series in Pal Arinsal, Andorra.",
       "start": 1784113200,
       "stop": 1784115000,
-      "icon": "https://images.metadata.sky.com/pd-image/fb293202-3901-496e-9776-1504f85527e2/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/c95adbc3-3e14-447e-a1f1-e4a3f1c8ce9b/cover",
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 0
     },
     {
       "title": "UCI Mountain Bike World Series Men",
       "description": "Action from the men's elite cross country olympic, part of the UCI Mountain Bike World Series in Pal Arinsal, Andorra.",
       "start": 1784115000,
       "stop": 1784116800,
-      "icon": "https://images.metadata.sky.com/pd-image/182bb497-4681-4541-9d2d-8b43b58749fe/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/07a0e05f-44d9-4a13-a940-a578234493f9/cover",
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 0
     },
     {
       "title": "MLB: Home Run Derby",
@@ -9148,7 +9335,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 2026.0,
-      "episode": 110.0
+      "episode": 110
     },
     {
       "title": "MLB All Star Game 2026",
@@ -9159,7 +9346,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 2026.0,
-      "episode": 111.0
+      "episode": 111
     },
     {
       "title": "MLB Plays of the Week",
@@ -9170,7 +9357,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 2026.0,
-      "episode": 15.0
+      "episode": 15
     },
     {
       "title": "Ultimate Pool",
@@ -9181,7 +9368,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "FIM Speedway Grand Prix Highlights",
@@ -9192,7 +9379,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Climbing World Series Highlights",
@@ -9203,7 +9390,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "FA Cup: The People's Story",
@@ -9214,7 +9401,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "MLB All Star Game 2026",
@@ -9225,7 +9412,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 2026.0,
-      "episode": 111.0
+      "episode": 111
     }
   ],
   "tnt3": [
@@ -11402,7 +11589,7 @@
     },
     {
       "title": "A Place in the Sun",
-      "description": "Retirees Annette and Malcolm are ready to embark on a Spanish adventure in Almería, where they can soak up the winter sun. Leah Charles-King shows them what their £200k can buy.",
+      "description": "Jane and Martin dream of buying a holiday home in their favourite coastal town of Portimão in Portugal's beautiful Algarve. With a £140,000 budget, can Ben Hillman find their perfect place?",
       "start": 1784030400,
       "stop": 1784034000,
       "icon": "https://images.metadata.sky.com/pd-image/3370cae5-62a5-384a-a46f-f39a80fc128e/cover",
@@ -12960,11 +13147,11 @@
       "description": "Actor Larry Lamb and his son George are on two-wheel travels around the country's stunning national parks. This time the pair head north to scenery of the Yorkshire Dales. (S1 Ep1)",
       "start": 1783962000,
       "stop": 1783965600,
-      "icon": "https://images.metadata.sky.com/pd-image/50fb7380-ed44-48da-82c0-fb1bbffadcdf/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/d49c31e2-74a2-4a59-9e6e-be4093d5399e/cover",
       "channel": "5Select.uk",
       "premiere": false,
-      "season": null,
-      "episode": null
+      "season": 1.0,
+      "episode": 1.0
     },
     {
       "title": "Ben Fogle: New Lives in the Wild",
@@ -13235,11 +13422,11 @@
       "description": "Actor Larry Lamb and son George cross the border into Wales, testing themselves against the mountainous peaks of Snowdonia, before hitting the rugged cliffs of the Pembrokeshire Coast. (S1 Ep2)",
       "start": 1784048400,
       "stop": 1784052000,
-      "icon": "https://images.metadata.sky.com/pd-image/c27f8d0d-26e3-4f7f-917e-e2d0f92f995d/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/01619113-bfb5-4b92-bd02-2640f698e184/cover",
       "channel": "5Select.uk",
       "premiere": false,
-      "season": null,
-      "episode": null
+      "season": 1.0,
+      "episode": 2.0
     },
     {
       "title": "Ben Fogle: New Lives in the Wild",
@@ -13510,11 +13697,11 @@
       "description": "Larry and George Lamb join the World Hen Racing Championships, and indulge in the local tradition of springtime sheep-washing. (S2 Ep3)",
       "start": 1784134800,
       "stop": 1784138400,
-      "icon": "https://images.metadata.sky.com/pd-image/4505fa34-59d1-43cb-8d4d-77d0720d799f/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/a5a4eeac-e178-485d-b085-bb690bb338c5/cover",
       "channel": "5Select.uk",
       "premiere": false,
-      "season": null,
-      "episode": null
+      "season": 2.0,
+      "episode": 3.0
     },
     {
       "title": "Ben Fogle: New Lives in the Wild",
@@ -17697,7 +17884,7 @@
     },
     {
       "title": "The Bottom Line",
-      "description": "Ep.28 Iran expert Ali Vaez breaks down the consequences of Iran and the U.S. going back to all-out war.",
+      "description": "Ep.28 Iran expert Ali Vaez breaks down the consequences of Iran and the U.S. going back to all-out war..",
       "start": 1784046600,
       "stop": 1784048400,
       "icon": "https://images.metadata.sky.com/pd-image/61dd6b99-edc5-42cd-97bb-5e119f55f82f/cover",
@@ -17895,7 +18082,7 @@
     },
     {
       "title": "The Bottom Line",
-      "description": "Ep.28 Iran expert Ali Vaez breaks down the consequences of Iran and the U.S. going back to all-out war.",
+      "description": "Ep.28 Iran expert Ali Vaez breaks down the consequences of Iran and the U.S. going back to all-out war..",
       "start": 1784089800,
       "stop": 1784091600,
       "icon": "https://images.metadata.sky.com/pd-image/61dd6b99-edc5-42cd-97bb-5e119f55f82f/cover",
@@ -18568,7 +18755,7 @@
     },
     {
       "title": "Dan & Gran",
-      "description": "10/52. Stan and Gran are enjoying a beach clean, but the rubbish seems to have a mind of its own! When a yogurt pot goes walk-about, Stan spies a mystery! [S] [HD]",
+      "description": "10/52. Stan and Gran are enjoying a beach clean, but the rubbish seems to have a mind of its own! When a yogurt pot goes walkabout, Stan spies a mystery! [S] [HD]",
       "start": 1784047200,
       "stop": 1784047800,
       "icon": "https://images.metadata.sky.com/pd-image/d5ee4fe9-71bc-4217-83fb-660d2bc28d86/cover",
@@ -18777,7 +18964,7 @@
     },
     {
       "title": "Dan & Gran",
-      "description": "10/52. Stan and Gran are enjoying a beach clean, but the rubbish seems to have a mind of its own! When a yogurt pot goes walk-about, Stan spies a mystery! [S] [HD]",
+      "description": "10/52. Stan and Gran are enjoying a beach clean, but the rubbish seems to have a mind of its own! When a yogurt pot goes walkabout, Stan spies a mystery! [S] [HD]",
       "start": 1784131200,
       "stop": 1784132100,
       "icon": "https://images.metadata.sky.com/pd-image/d5ee4fe9-71bc-4217-83fb-660d2bc28d86/cover",
@@ -19133,7 +19320,7 @@
       "title": "Today at the Test: England v India",
       "description": "Highlights of day four of the Lord's Test match between England Women and India Women. [S] [HD]",
       "start": 1783965600,
-      "stop": 1783968300,
+      "stop": 1783967400,
       "icon": "https://images.metadata.sky.com/pd-image/85bbc49f-2aee-450e-8ab6-806461c6f741/cover",
       "channel": "BBCFourHD.uk",
       "premiere": false,
@@ -19141,15 +19328,15 @@
       "episode": 4.0
     },
     {
-      "title": "Wild Scotland",
-      "description": "Wildlife cameraman Gordon Buchanan explores his native Mull and some of the nearby islands, filming otters, deer, puffins, seals and a minke whale. [S]",
-      "start": 1783968300,
+      "title": "The Flying Archaeologist",
+      "description": "2/4. Ben Robinson flies over the Broads where photos have revealed 945 previously unknown ancient sites, many of which have historians rethinking the history of the area. [S]",
+      "start": 1783967400,
       "stop": 1783969200,
-      "icon": "https://images.metadata.sky.com/pd-image/d496b533-cbca-42ae-8c50-9a95bd876fd9/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/9e40034e-5b56-4572-8ed1-0b2e8c15609a/cover",
       "channel": "BBCFourHD.uk",
       "premiere": false,
       "season": null,
-      "episode": 1.0
+      "episode": null
     },
     {
       "title": "Treasures of Ancient Greece",
@@ -19785,7 +19972,7 @@
       "description": "Bringing the latest business news and up-to-date informed analysis from London and around the world. [S] [HD]",
       "start": 1783924200,
       "stop": 1783926000,
-      "icon": "https://images.metadata.sky.com/pd-image/8abecc80-c22f-4a68-b9f1-24dabe4e5c61/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/cc98f503-c0f0-4781-a61c-f9be591b3d85/cover",
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
@@ -19796,7 +19983,7 @@
       "description": "The latest news from the BBC. [S,SL] [HD]",
       "start": 1783926000,
       "stop": 1783927800,
-      "icon": "https://images.metadata.sky.com/pd-image/0682375c-c600-43f6-b01f-afddf60e40dd/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/6bec2319-74d3-4f1f-aff9-5ca4c6a38b5d/cover",
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
@@ -19829,7 +20016,7 @@
       "description": "The latest news from the BBC. [S] [HD]",
       "start": 1783931400,
       "stop": 1783933200,
-      "icon": "https://images.metadata.sky.com/pd-image/37e89c9c-ab2a-4615-a681-84555551f612/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/297f7d21-d7ec-4802-b30e-cbe5f01b9c7c/cover",
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
@@ -19869,15 +20056,15 @@
       "episode": 0.0
     },
     {
-      "title": "Business Today",
-      "description": "Bringing the latest business news and up-to-date informed analysis from London and around the world. [S] [HD]",
+      "title": "BBC News",
+      "description": "The latest news from the BBC. [S] [HD]",
       "start": 1783938600,
       "stop": 1783939500,
-      "icon": "https://images.metadata.sky.com/pd-image/f70091bb-b523-44a4-827a-229671b1a85d/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/2bcdb6d2-8faa-477a-a517-8b898ed1d0e5/cover",
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": null
     },
     {
       "title": "BBC News",
@@ -19990,20 +20177,9 @@
       "episode": 0.0
     },
     {
-      "title": "Business Today",
-      "description": "Bringing the latest business news and up-to-date informed analysis from London and around the world. [S] [HD]",
-      "start": 1783956600,
-      "stop": 1783957500,
-      "icon": "https://images.metadata.sky.com/pd-image/259e4621-b8f3-42c8-bfd7-f1c1a4e08630/cover",
-      "channel": "BBCNews.uk",
-      "premiere": false,
-      "season": null,
-      "episode": 0.0
-    },
-    {
       "title": "Verified Live",
       "description": "Matthew Amroliwala presents all the latest global and UK news, live from London. [S] [HD]",
-      "start": 1783957500,
+      "start": 1783956600,
       "stop": 1783958400,
       "icon": "https://images.metadata.sky.com/pd-image/c6bd1ba4-dd76-44db-99d1-3b03cdebe0c9/cover",
       "channel": "BBCNews.uk",
@@ -20045,15 +20221,15 @@
       "episode": 0.0
     },
     {
-      "title": "The World Today with Maryam Moshiri",
-      "description": "Watch the best of the BBC's journalism from around the world. [S] [HD]",
+      "title": "BBC News",
+      "description": "The latest news from the BBC. [S] [HD]",
       "start": 1783963800,
       "stop": 1783965600,
-      "icon": "https://images.metadata.sky.com/pd-image/293f3562-f1f9-4548-91d5-fee2930ce276/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/0c39e0f4-c6da-4140-b6ec-5f7773103659/cover",
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": null
     },
     {
       "title": "The World Today with Maryam Moshiri",
@@ -20115,7 +20291,7 @@
       "description": "A regular panel of guests from across the political spectrum discuss the biggest international stories of the day. [S] [HD]",
       "start": 1783974600,
       "stop": 1783976400,
-      "icon": "https://images.metadata.sky.com/pd-image/6b6097dd-fa60-42ef-b719-badcfc2efb78/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/63ba03e1-1368-4638-80a3-76ec760e9f5e/cover",
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
@@ -21255,11 +21431,11 @@
       "episode": 0.0
     },
     {
-      "title": "BBC News at Ten",
-      "description": "The latest national and international news, with reports from BBC correspondents worldwide. [S] [HD]",
+      "title": "BBC News",
+      "description": "The latest news from the BBC. [S] [HD]",
       "start": 1784149200,
       "stop": 1784151000,
-      "icon": "https://images.metadata.sky.com/pd-image/94c92db4-1193-404b-87a9-49840a71c395/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/823b2827-b6b1-402f-857d-04cc2e4f0b61/cover",
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
@@ -21529,7 +21705,7 @@
       "channel": "BBCOneChannelIslands.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 48.0
     },
     {
       "title": "Celebrity Escape to the Country",
@@ -22050,7 +22226,7 @@
     },
     {
       "title": "MOTD Live: England v Argentina",
-      "description": "Live coverage of the semi-final between England and Argentina at the 2026 FIFA World Cup. [S,AD] [HD]",
+      "description": "Live coverage from Atlanta Stadium, Georgia, of the semi-final between England and Argentina at the 2026 FIFA World Cup. [S,AD] [HD]",
       "start": 1784138400,
       "stop": 1784151000,
       "icon": "https://images.metadata.sky.com/pd-image/8e2282af-c73b-4dd8-8e5b-e896cf9b1772/cover",
@@ -22334,7 +22510,7 @@
       "channel": "BBCOneEast.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 48.0
     },
     {
       "title": "Celebrity Escape to the Country",
@@ -22855,7 +23031,7 @@
     },
     {
       "title": "MOTD Live: England v Argentina",
-      "description": "Live coverage of the semi-final between England and Argentina at the 2026 FIFA World Cup. [S,AD] [HD]",
+      "description": "Live coverage from Atlanta Stadium, Georgia, of the semi-final between England and Argentina at the 2026 FIFA World Cup. [S,AD] [HD]",
       "start": 1784138400,
       "stop": 1784151000,
       "icon": "https://images.metadata.sky.com/pd-image/8e2282af-c73b-4dd8-8e5b-e896cf9b1772/cover",
@@ -23139,7 +23315,7 @@
       "channel": "BBCOneEastMidlands.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 48.0
     },
     {
       "title": "Celebrity Escape to the Country",
@@ -23660,7 +23836,7 @@
     },
     {
       "title": "MOTD Live: England v Argentina",
-      "description": "Live coverage of the semi-final between England and Argentina at the 2026 FIFA World Cup. [S,AD] [HD]",
+      "description": "Live coverage from Atlanta Stadium, Georgia, of the semi-final between England and Argentina at the 2026 FIFA World Cup. [S,AD] [HD]",
       "start": 1784138400,
       "stop": 1784151000,
       "icon": "https://images.metadata.sky.com/pd-image/8e2282af-c73b-4dd8-8e5b-e896cf9b1772/cover",
@@ -23944,7 +24120,7 @@
       "channel": "BBCOneLondonHD.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 48.0
     },
     {
       "title": "Celebrity Escape to the Country",
@@ -24465,7 +24641,7 @@
     },
     {
       "title": "MOTD Live: England v Argentina",
-      "description": "Live coverage of the semi-final between England and Argentina at the 2026 FIFA World Cup. [S,AD] [HD]",
+      "description": "Live coverage from Atlanta Stadium, Georgia, of the semi-final between England and Argentina at the 2026 FIFA World Cup. [S,AD] [HD]",
       "start": 1784138400,
       "stop": 1784151000,
       "icon": "https://images.metadata.sky.com/pd-image/8e2282af-c73b-4dd8-8e5b-e896cf9b1772/cover",
@@ -24749,7 +24925,7 @@
       "channel": "BBCOneNorthEastCumbria.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 48.0
     },
     {
       "title": "Celebrity Escape to the Country",
@@ -25270,7 +25446,7 @@
     },
     {
       "title": "MOTD Live: England v Argentina",
-      "description": "Live coverage of the semi-final between England and Argentina at the 2026 FIFA World Cup. [S,AD] [HD]",
+      "description": "Live coverage from Atlanta Stadium, Georgia, of the semi-final between England and Argentina at the 2026 FIFA World Cup. [S,AD] [HD]",
       "start": 1784138400,
       "stop": 1784151000,
       "icon": "https://images.metadata.sky.com/pd-image/8e2282af-c73b-4dd8-8e5b-e896cf9b1772/cover",
@@ -25554,7 +25730,7 @@
       "channel": "BBCOneNorthWest.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 48.0
     },
     {
       "title": "Celebrity Escape to the Country",
@@ -26075,7 +26251,7 @@
     },
     {
       "title": "MOTD Live: England v Argentina",
-      "description": "Live coverage of the semi-final between England and Argentina at the 2026 FIFA World Cup. [S,AD] [HD]",
+      "description": "Live coverage from Atlanta Stadium, Georgia, of the semi-final between England and Argentina at the 2026 FIFA World Cup. [S,AD] [HD]",
       "start": 1784138400,
       "stop": 1784151000,
       "icon": "https://images.metadata.sky.com/pd-image/8e2282af-c73b-4dd8-8e5b-e896cf9b1772/cover",
@@ -26359,7 +26535,7 @@
       "channel": "BBCOneNorthernIreland.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 48.0
     },
     {
       "title": "Barra's Return of the Wild",
@@ -26880,7 +27056,7 @@
     },
     {
       "title": "MOTD Live: England v Argentina",
-      "description": "Live coverage of the semi-final between England and Argentina at the 2026 FIFA World Cup. [S,AD] [HD]",
+      "description": "Live coverage from Atlanta Stadium, Georgia, of the semi-final between England and Argentina at the 2026 FIFA World Cup. [S,AD] [HD]",
       "start": 1784138400,
       "stop": 1784151000,
       "icon": "https://images.metadata.sky.com/pd-image/8e2282af-c73b-4dd8-8e5b-e896cf9b1772/cover",
@@ -27164,7 +27340,7 @@
       "channel": "BBCOneScotHD.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 48.0
     },
     {
       "title": "Celebrity Escape to the Country",
@@ -27421,7 +27597,7 @@
     },
     {
       "title": "River City",
-      "description": "Desperate to stop Mikey from speaking to the press, Gillian's meddling backfires disastrously. Meanwhile, Lenny's suspicions over Lydia's behaviour sparks a shock revelation. [S] [HD]",
+      "description": "Desperate to stop Mikey from speaking to the press, Gillian's meddling backfires disastrously. Meanwhile, Lenny's suspicions over Lydia's behaviour sparks a shock revelation. [S,AD] [HD]",
       "start": 1784052000,
       "stop": 1784053800,
       "icon": "https://images.metadata.sky.com/pd-image/c5f12810-d3bb-4378-956b-c08c15b3dce3/cover",
@@ -27696,7 +27872,7 @@
     },
     {
       "title": "MOTD Live: England v Argentina",
-      "description": "Live coverage of the semi-final between England and Argentina at the 2026 FIFA World Cup. [S,AD] [HD]",
+      "description": "Live coverage from Atlanta Stadium, Georgia, of the semi-final between England and Argentina at the 2026 FIFA World Cup. [S,AD] [HD]",
       "start": 1784138400,
       "stop": 1784151000,
       "icon": "https://images.metadata.sky.com/pd-image/8e2282af-c73b-4dd8-8e5b-e896cf9b1772/cover",
@@ -28457,7 +28633,7 @@
     },
     {
       "title": "MOTD Live: England v Argentina",
-      "description": "Live coverage of the semi-final between England and Argentina at the 2026 FIFA World Cup. [S,AD] [HD]",
+      "description": "Live coverage from Atlanta Stadium, Georgia, of the semi-final between England and Argentina at the 2026 FIFA World Cup. [S,AD] [HD]",
       "start": 1784138400,
       "stop": 1784151000,
       "icon": "https://images.metadata.sky.com/pd-image/8e2282af-c73b-4dd8-8e5b-e896cf9b1772/cover",
@@ -28741,7 +28917,7 @@
       "channel": "BBCOneSouthEast.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 48.0
     },
     {
       "title": "Celebrity Escape to the Country",
@@ -29262,7 +29438,7 @@
     },
     {
       "title": "MOTD Live: England v Argentina",
-      "description": "Live coverage of the semi-final between England and Argentina at the 2026 FIFA World Cup. [S,AD] [HD]",
+      "description": "Live coverage from Atlanta Stadium, Georgia, of the semi-final between England and Argentina at the 2026 FIFA World Cup. [S,AD] [HD]",
       "start": 1784138400,
       "stop": 1784151000,
       "icon": "https://images.metadata.sky.com/pd-image/8e2282af-c73b-4dd8-8e5b-e896cf9b1772/cover",
@@ -29546,7 +29722,7 @@
       "channel": "BBCOneSouthWest.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 48.0
     },
     {
       "title": "Celebrity Escape to the Country",
@@ -30067,7 +30243,7 @@
     },
     {
       "title": "MOTD Live: England v Argentina",
-      "description": "Live coverage of the semi-final between England and Argentina at the 2026 FIFA World Cup. [S,AD] [HD]",
+      "description": "Live coverage from Atlanta Stadium, Georgia, of the semi-final between England and Argentina at the 2026 FIFA World Cup. [S,AD] [HD]",
       "start": 1784138400,
       "stop": 1784151000,
       "icon": "https://images.metadata.sky.com/pd-image/8e2282af-c73b-4dd8-8e5b-e896cf9b1772/cover",
@@ -30322,7 +30498,7 @@
     },
     {
       "title": "Our Lives: Sleigh",
-      "description": "Documentary following Joe Swiffen and her junior team at Mynydd Sleddog Adventures, as they fight to represent Great Britain at the sled dog racing European championships in Sweden. [S] [HD]",
+      "description": "Documentary following Joe Swiffen and her junior team at Mynydd Sleddog Adventures as they fight to represent Great Britain at the sled dog racing European championships in Sweden. [S] [HD]",
       "start": 1783965600,
       "stop": 1783967400,
       "icon": "https://images.metadata.sky.com/pd-image/1de4fd9b-f708-4990-bd56-ed09f1a61cec/cover",
@@ -30351,7 +30527,7 @@
       "channel": "BBCOneWalesHD.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 48.0
     },
     {
       "title": "Celebrity Escape to the Country",
@@ -30872,7 +31048,7 @@
     },
     {
       "title": "MOTD Live: England v Argentina",
-      "description": "Live coverage of the semi-final between England and Argentina at the 2026 FIFA World Cup. [S,AD] [HD]",
+      "description": "Live coverage from Atlanta Stadium, Georgia, of the semi-final between England and Argentina at the 2026 FIFA World Cup. [S,AD] [HD]",
       "start": 1784138400,
       "stop": 1784151000,
       "icon": "https://images.metadata.sky.com/pd-image/8e2282af-c73b-4dd8-8e5b-e896cf9b1772/cover",
@@ -31156,7 +31332,7 @@
       "channel": "BBCOneWest.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 48.0
     },
     {
       "title": "Celebrity Escape to the Country",
@@ -31677,7 +31853,7 @@
     },
     {
       "title": "MOTD Live: England v Argentina",
-      "description": "Live coverage of the semi-final between England and Argentina at the 2026 FIFA World Cup. [S,AD] [HD]",
+      "description": "Live coverage from Atlanta Stadium, Georgia, of the semi-final between England and Argentina at the 2026 FIFA World Cup. [S,AD] [HD]",
       "start": 1784138400,
       "stop": 1784151000,
       "icon": "https://images.metadata.sky.com/pd-image/8e2282af-c73b-4dd8-8e5b-e896cf9b1772/cover",
@@ -31961,7 +32137,7 @@
       "channel": "BBCOneWestMidlands.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 48.0
     },
     {
       "title": "Celebrity Escape to the Country",
@@ -32482,7 +32658,7 @@
     },
     {
       "title": "MOTD Live: England v Argentina",
-      "description": "Live coverage of the semi-final between England and Argentina at the 2026 FIFA World Cup. [S,AD] [HD]",
+      "description": "Live coverage from Atlanta Stadium, Georgia, of the semi-final between England and Argentina at the 2026 FIFA World Cup. [S,AD] [HD]",
       "start": 1784138400,
       "stop": 1784151000,
       "icon": "https://images.metadata.sky.com/pd-image/8e2282af-c73b-4dd8-8e5b-e896cf9b1772/cover",
@@ -32766,7 +32942,7 @@
       "channel": "BBCOneYorksLincs.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 48.0
     },
     {
       "title": "Celebrity Escape to the Country",
@@ -33287,7 +33463,7 @@
     },
     {
       "title": "MOTD Live: England v Argentina",
-      "description": "Live coverage of the semi-final between England and Argentina at the 2026 FIFA World Cup. [S,AD] [HD]",
+      "description": "Live coverage from Atlanta Stadium, Georgia, of the semi-final between England and Argentina at the 2026 FIFA World Cup. [S,AD] [HD]",
       "start": 1784138400,
       "stop": 1784151000,
       "icon": "https://images.metadata.sky.com/pd-image/8e2282af-c73b-4dd8-8e5b-e896cf9b1772/cover",
@@ -33571,7 +33747,7 @@
       "channel": "BBCOneYorkshire.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 48.0
     },
     {
       "title": "Celebrity Escape to the Country",
@@ -34092,7 +34268,7 @@
     },
     {
       "title": "MOTD Live: England v Argentina",
-      "description": "Live coverage of the semi-final between England and Argentina at the 2026 FIFA World Cup. [S,AD] [HD]",
+      "description": "Live coverage from Atlanta Stadium, Georgia, of the semi-final between England and Argentina at the 2026 FIFA World Cup. [S,AD] [HD]",
       "start": 1784138400,
       "stop": 1784151000,
       "icon": "https://images.metadata.sky.com/pd-image/8e2282af-c73b-4dd8-8e5b-e896cf9b1772/cover",
@@ -34152,55 +34328,55 @@
       "description": "Coverage of an urgent question on the legal status of Shabir Ahmed, on Monday 6 July. [S,SL] [HD]",
       "start": 1783899000,
       "stop": 1783900500,
-      "icon": "https://images.metadata.sky.com/pd-image/64b95eb3-cfc9-4c8e-b36f-35893ff46238/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/87468980-7ba6-467e-a454-6606d6d95473/cover",
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 662.0
     },
     {
       "title": "Foreign Interference in UK Politics Statement",
       "description": "Coverage of a statement on foreign interference in UK politics, on Monday 6 July. [S,SL] [HD]",
       "start": 1783900500,
       "stop": 1783903500,
-      "icon": "https://images.metadata.sky.com/pd-image/cab02dcf-d030-41cf-a61a-9c9d6b2d1aaa/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/3c053578-e676-4dd3-b437-228458bb3a5e/cover",
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 660.0
     },
     {
       "title": "Police Leadership Commission Report Statement",
       "description": "A statement on the findings of the Police Leadership Commission report, on Monday 6 July. [S,SL] [HD]",
       "start": 1783903500,
       "stop": 1783906200,
-      "icon": "https://images.metadata.sky.com/pd-image/d8974759-a1e1-46dc-88a7-9976fb320f36/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/40be266d-d63b-4e81-b709-a77f0257ec36/cover",
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 661.0
     },
     {
       "title": "Civil Service Pensions Statement",
       "description": "Coverage of a statement in the House of Commons by cabinet office minister Nick Thomas-Symonds on civil service pensions following delays to payments, on Monday 6 July. [S,SL] [HD]",
       "start": 1783906200,
       "stop": 1783910100,
-      "icon": "https://images.metadata.sky.com/pd-image/f6646121-0b37-4c35-9cfe-e14cb1459b14/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/40be266d-d63b-4e81-b709-a77f0257ec36/cover",
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 661.0
     },
     {
       "title": "European Entry System Urgent Question",
       "description": "Coverage of an urgent question in the House of Commons on the impact of the European Entry System (EES), tabled by the Conservative MP, Sir Roger Gale, on Wednesday 8 July. [S,SL] [HD]",
       "start": 1783910100,
       "stop": 1783912800,
-      "icon": "https://images.metadata.sky.com/pd-image/f10fe176-e1aa-4feb-ab7e-b4e77cd30710/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/04e48f4e-c6a8-49ba-ab98-ef1de0c63628/cover",
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 669.0
     },
     {
       "title": "Prime Minister's Questions",
@@ -34233,18 +34409,18 @@
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 160.0
+      "episode": 159.0
     },
     {
       "title": "House of Lords - Foreign Influence Statement",
       "description": "A statement on countering foreign financial influence and interference in UK politics. [S] [HD]",
       "start": 1783928400,
       "stop": 1783930800,
-      "icon": "https://images.metadata.sky.com/pd-image/bc2e2904-fe3e-46b6-8f60-badf05afca7c/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/575b827f-c4ac-4e7c-8693-5f805597bad1/cover",
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 815.0
     },
     {
       "title": "Welsh First Minister's Questions",
@@ -34291,15 +34467,59 @@
       "episode": 278.0
     },
     {
-      "title": "Live House of Commons",
-      "description": "Coverage of the day's proceedings in the House of Commons, including the second reading debate on the general principles of the Immigration and Asylum Bill, on Monday 13 July. [S] [HD]",
+      "title": "Live Local Government...",
+      "description": "...Reorganisation Urgent Question. An urgent question on local government reorganisation, on Monday 13 July. [S] [HD]",
       "start": 1783953000,
-      "stop": 1783978200,
-      "icon": "https://images.metadata.sky.com/pd-image/e4071b79-88f6-4766-8ff6-1a7066547470/cover",
+      "stop": 1783955700,
+      "icon": "https://images.metadata.sky.com/pd-image/7250b554-4597-48ed-b8ae-63bc5f6fe9a1/cover",
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 680.0
+      "episode": null
+    },
+    {
+      "title": "Live Business Statement by the Leader of the House",
+      "description": "Coverage of a statement in the House of Commons by the leader of the House, Sir Alan Campbell, on the upcoming business in the chamber, on Monday 13 July. [S] [HD]",
+      "start": 1783955700,
+      "stop": 1783956600,
+      "icon": "https://images.metadata.sky.com/pd-image/1b4dd45c-97cb-430f-848e-29ed62addc97/cover",
+      "channel": "BBCParliament.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "Live Statement on the Death of Ann Widdecombe",
+      "description": "The statement on the death of Ann Widdecombe and the security of MPs and politicians. [S] [HD]",
+      "start": 1783956600,
+      "stop": 1783960200,
+      "icon": "https://images.metadata.sky.com/pd-image/a25d0b2e-4619-4519-8a05-f2f8c1cf50fa/cover",
+      "channel": "BBCParliament.uk",
+      "premiere": false,
+      "season": null,
+      "episode": 683.0
+    },
+    {
+      "title": "Live Statement on the State of Nature and Climate 2026",
+      "description": "Coverage of the statement in the House of Commons by nature minister Mary Creagh, on the state of nature and climate 2026, on Monday 13 July. [S] [HD]",
+      "start": 1783960200,
+      "stop": 1783963800,
+      "icon": "https://images.metadata.sky.com/pd-image/d7af6ff7-2907-4d72-92d5-20b195e288e3/cover",
+      "channel": "BBCParliament.uk",
+      "premiere": false,
+      "season": null,
+      "episode": 682.0
+    },
+    {
+      "title": "Live House of Commons",
+      "description": "Coverage of the day's proceedings in the House of Commons including the second reading debate on the general principles of the Immigration and Asylum Bill, on Monday 13 July. [S] [HD]",
+      "start": 1783963800,
+      "stop": 1783978200,
+      "icon": "https://images.metadata.sky.com/pd-image/ffbfdf05-2019-47f8-a640-596c9cd1991c/cover",
+      "channel": "BBCParliament.uk",
+      "premiere": false,
+      "season": null,
+      "episode": 685.0
     },
     {
       "title": "Lords Questions",
@@ -34313,10 +34533,54 @@
       "episode": 141.0
     },
     {
+      "title": "House of Lords - Civil Service Pensions",
+      "description": "Coverage of the statement in the House of Lords by cabinet office minister Baroness Anderson of Stoke-on-Trent on civil service pensions, on Monday 13 July. [S] [HD]",
+      "start": 1783980900,
+      "stop": 1783983300,
+      "icon": "https://images.metadata.sky.com/pd-image/32a2e1bd-088f-42c1-b8c8-e32c2b8859af/cover",
+      "channel": "BBCParliament.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "Live Civil Aviation Bill, Part 1",
+      "description": "Coverage of the debate in the House of Lords on the report stage of the Civil Aviation (Consumer Protection and Regulatory Reform) Bill, on Monday 13 July. [S] [HD]",
+      "start": 1783983300,
+      "stop": 1783990500,
+      "icon": "https://images.metadata.sky.com/pd-image/d056d8d0-3ce9-4cdd-95c5-91bd7d492155/cover",
+      "channel": "BBCParliament.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "House of Lords   Civil Aviation Bill, Part 2",
+      "description": "Coverage of the debate in the House of Lords on the report stage of the Civil Aviation (Consumer Protection and Regulatory Reform) Bill, on Monday 13 July. [S] [HD]",
+      "start": 1783990500,
+      "stop": 1783997700,
+      "icon": "https://images.metadata.sky.com/pd-image/c7dadebc-8747-43fc-a08e-02a66b56511f/cover",
+      "channel": "BBCParliament.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "House of Lords - Civil Aviation Bill, Part 3",
+      "description": "Coverage of the debate in the House of Lords on the report stage of the Civil Aviation (Consumer Protection and Regulatory Reform) Bill, on Monday 13 July. [S] [HD]",
+      "start": 1783997700,
+      "stop": 1784008800,
+      "icon": "https://images.metadata.sky.com/pd-image/b6a43258-a442-4e6c-b826-2ccb6a1d573b/cover",
+      "channel": "BBCParliament.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
       "title": "Home Office Questions",
       "description": "Coverage of questions in the House of Commons to Shabana Mahmood, the home secretary, and her team of ministers on Monday 13 July. [S] [HD]",
       "start": 1784008800,
-      "stop": 1784012400,
+      "stop": 1784012700,
       "icon": "https://images.metadata.sky.com/pd-image/fdea4489-e614-472b-be8b-99b64b12dceb/cover",
       "channel": "BBCParliament.uk",
       "premiere": false,
@@ -34324,26 +34588,37 @@
       "episode": 278.0
     },
     {
-      "title": "House of Commons",
-      "description": "Highlights of proceedings in the House of Commons from Monday 13 July. [S] [HD]",
-      "start": 1784012400,
-      "stop": 1784018700,
-      "icon": "https://images.metadata.sky.com/pd-image/45c07d79-7ac2-4a7a-8f24-c137b804c910/cover",
+      "title": "Defence Committee on the Defence Investment Plan",
+      "description": "Coverage of the Defence select committee session on the Defence Investment Plan, on Tuesday 7 July. [S] [HD]",
+      "start": 1784012700,
+      "stop": 1784018100,
+      "icon": "https://images.metadata.sky.com/pd-image/a77aba17-d34d-4d7a-b0b4-820d4cac992f/cover",
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 686.0
+      "episode": null
+    },
+    {
+      "title": "Ten Minute Rule Bill - Mental Capacity",
+      "description": "Coverage of the introduction to the House of Commons of a bill under the ten minute rule, tabled by Chris Coghlan MP, on a duty to assess mental capacity, from Tuesday 7 July. [S] [HD]",
+      "start": 1784018100,
+      "stop": 1784018700,
+      "icon": "https://images.metadata.sky.com/pd-image/54a6c7c4-7a58-4d1c-a2a9-fcaaf86eb5ff/cover",
+      "channel": "BBCParliament.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
     },
     {
       "title": "Live Treasury Committee with the Bank of England",
       "description": "Coverage of the treasury select committee session on the latest financial stability reports from the Bank of England, on Tuesday 14 July. [S] [HD]",
       "start": 1784018700,
       "stop": 1784025000,
-      "icon": "https://images.metadata.sky.com/pd-image/7db794f9-0b41-4c0f-b1f1-1521c9d421e2/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/80063359-14bc-444c-8bfb-ab8c038222e0/cover",
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 253.0
     },
     {
       "title": "Live Health and Social Care Questions",
@@ -34376,7 +34651,7 @@
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 829.0
+      "episode": 825.0
     },
     {
       "title": "Welsh First Minister's Questions",
@@ -34409,7 +34684,7 @@
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 830.0
+      "episode": 826.0
     },
     {
       "title": "Health and Social Care Questions",
@@ -34438,11 +34713,11 @@
       "description": "Coverage of the Health and Social Care select committee session on the reviews of maternity care in the NHS in England, on Wednesday 15 July. [S] [HD]",
       "start": 1784104200,
       "stop": 1784111400,
-      "icon": "https://images.metadata.sky.com/pd-image/7503c82f-e367-4ec4-95e6-4d619e81825b/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/3047278f-9183-44ba-8616-0b4b0406b122/cover",
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 254.0
     },
     {
       "title": "Live Scotland Office Questions",
@@ -34486,7 +34761,7 @@
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 836.0
+      "episode": 832.0
     },
     {
       "title": "Prime Minister's Questions",
@@ -34515,11 +34790,11 @@
       "description": "Business in the House of Lords including the debate on the report stage of the Sporting Events Bill, on Wednesday 15 July. [S] [HD]",
       "start": 1784154000,
       "stop": 1784181600,
-      "icon": "https://images.metadata.sky.com/pd-image/cf9b0926-18a0-48e4-b492-3b660ad752a7/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/c12f4efa-66f0-41bb-89a6-68a3c9890e96/cover",
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 833.0
     }
   ],
   "BBCRedButton1.uk": [
@@ -34531,8 +34806,8 @@
       "icon": "https://images.metadata.sky.com/pd-image/23973fd0-e1ea-4d0e-bd37-b6b94fb9776a/cover",
       "channel": "BBCRedButton1.uk",
       "premiere": false,
-      "season": 2026,
-      "episode": 1
+      "season": 2026.0,
+      "episode": 1.0
     },
     {
       "title": "Springwatch 2026: Northern Ireland: Wild Stories",
@@ -34542,8 +34817,8 @@
       "icon": "https://images.metadata.sky.com/pd-image/23973fd0-e1ea-4d0e-bd37-b6b94fb9776a/cover",
       "channel": "BBCRedButton1.uk",
       "premiere": false,
-      "season": 2026,
-      "episode": 1
+      "season": 2026.0,
+      "episode": 1.0
     },
     {
       "title": "Springwatch 2026: Northern Ireland: Wild Stories",
@@ -34553,8 +34828,8 @@
       "icon": "https://images.metadata.sky.com/pd-image/23973fd0-e1ea-4d0e-bd37-b6b94fb9776a/cover",
       "channel": "BBCRedButton1.uk",
       "premiere": false,
-      "season": 2026,
-      "episode": 1
+      "season": 2026.0,
+      "episode": 1.0
     },
     {
       "title": "Springwatch 2026: Northern Ireland: Wild Stories",
@@ -34564,8 +34839,8 @@
       "icon": "https://images.metadata.sky.com/pd-image/23973fd0-e1ea-4d0e-bd37-b6b94fb9776a/cover",
       "channel": "BBCRedButton1.uk",
       "premiere": false,
-      "season": 2026,
-      "episode": 1
+      "season": 2026.0,
+      "episode": 1.0
     },
     {
       "title": "Springwatch 2026: Northern Ireland: Wild Stories",
@@ -34575,8 +34850,8 @@
       "icon": "https://images.metadata.sky.com/pd-image/23973fd0-e1ea-4d0e-bd37-b6b94fb9776a/cover",
       "channel": "BBCRedButton1.uk",
       "premiere": false,
-      "season": 2026,
-      "episode": 1
+      "season": 2026.0,
+      "episode": 1.0
     },
     {
       "title": "Springwatch 2026: Northern Ireland: Wild Stories",
@@ -34586,8 +34861,8 @@
       "icon": "https://images.metadata.sky.com/pd-image/23973fd0-e1ea-4d0e-bd37-b6b94fb9776a/cover",
       "channel": "BBCRedButton1.uk",
       "premiere": false,
-      "season": 2026,
-      "episode": 1
+      "season": 2026.0,
+      "episode": 1.0
     },
     {
       "title": "Springwatch 2026: Northern Ireland: Wild Stories",
@@ -34597,8 +34872,8 @@
       "icon": "https://images.metadata.sky.com/pd-image/23973fd0-e1ea-4d0e-bd37-b6b94fb9776a/cover",
       "channel": "BBCRedButton1.uk",
       "premiere": false,
-      "season": 2026,
-      "episode": 1
+      "season": 2026.0,
+      "episode": 1.0
     },
     {
       "title": "Springwatch 2026: Northern Ireland: Wild Stories",
@@ -34608,8 +34883,8 @@
       "icon": "https://images.metadata.sky.com/pd-image/23973fd0-e1ea-4d0e-bd37-b6b94fb9776a/cover",
       "channel": "BBCRedButton1.uk",
       "premiere": false,
-      "season": 2026,
-      "episode": 1
+      "season": 2026.0,
+      "episode": 1.0
     },
     {
       "title": "Springwatch 2026: Northern Ireland: Wild Stories",
@@ -34619,8 +34894,8 @@
       "icon": "https://images.metadata.sky.com/pd-image/23973fd0-e1ea-4d0e-bd37-b6b94fb9776a/cover",
       "channel": "BBCRedButton1.uk",
       "premiere": false,
-      "season": 2026,
-      "episode": 1
+      "season": 2026.0,
+      "episode": 1.0
     },
     {
       "title": "Springwatch 2026: Northern Ireland: Wild Stories",
@@ -34630,8 +34905,8 @@
       "icon": "https://images.metadata.sky.com/pd-image/23973fd0-e1ea-4d0e-bd37-b6b94fb9776a/cover",
       "channel": "BBCRedButton1.uk",
       "premiere": false,
-      "season": 2026,
-      "episode": 1
+      "season": 2026.0,
+      "episode": 1.0
     },
     {
       "title": "Springwatch 2026: Northern Ireland: Wild Stories",
@@ -34641,19 +34916,41 @@
       "icon": "https://images.metadata.sky.com/pd-image/23973fd0-e1ea-4d0e-bd37-b6b94fb9776a/cover",
       "channel": "BBCRedButton1.uk",
       "premiere": false,
-      "season": 2026,
-      "episode": 1
+      "season": 2026.0,
+      "episode": 1.0
     },
     {
       "title": "Springwatch 2026: Northern Ireland: Wild Stories",
       "description": "Enjoy the very best of spring 2026 in Northern Ireland as nature does the talking. [HD]",
       "start": 1784134800,
-      "stop": 1784156400,
+      "stop": 1784138100,
       "icon": "https://images.metadata.sky.com/pd-image/23973fd0-e1ea-4d0e-bd37-b6b94fb9776a/cover",
       "channel": "BBCRedButton1.uk",
       "premiere": false,
-      "season": 2026,
-      "episode": 1
+      "season": 2026.0,
+      "episode": 1.0
+    },
+    {
+      "title": "2026 World Cup Semi-Final:...",
+      "description": "...England v Argentina - Watch with 5 Live. Coverage of England v Argentina in the World Cup semi-final, with 5 Live commentary. [HD]",
+      "start": 1784138100,
+      "stop": 1784151000,
+      "icon": "https://images.metadata.sky.com/pd-image/ff13c685-2f80-4928-9c41-1089e9e1aaf4/cover",
+      "channel": "BBCRedButton1.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "Springwatch 2026: Northern Ireland: Wild Stories",
+      "description": "Enjoy the very best of spring 2026 in Northern Ireland as nature does the talking. [HD]",
+      "start": 1784151000,
+      "stop": 1784156400,
+      "icon": "https://images.metadata.sky.com/pd-image/b16d8ccf-a72a-4cfa-8232-937ed8a25921/cover",
+      "channel": "BBCRedButton1.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
     }
   ],
   "BBCScotland.uk": [
@@ -35088,7 +35385,7 @@
     },
     {
       "title": "David Wilson's Crime Files",
-      "description": "3/10. Criminologist David Wilson discusses and offers compelling arguments for the links between systemic poverty and extreme antisocial behaviour. [S] [HD]",
+      "description": "3/10. Criminologist David Wilson discusses and offers compelling arguments for the links between systemic poverty and extreme antisocial behaviour. [S,AD] [HD]",
       "start": 1784152800,
       "stop": 1784156400,
       "icon": "https://images.metadata.sky.com/pd-image/7039a01e-3750-47c3-b8d5-d68ad6619e2d/cover",
@@ -35222,7 +35519,7 @@
     },
     {
       "title": "The Catch Up",
-      "description": "A round-up of the day's news. [S] [HD]",
+      "description": "A round-up of the day's news with Lola Schroer. [S] [HD]",
       "start": 1783965600,
       "stop": 1783965900,
       "icon": "https://images.metadata.sky.com/pd-image/ea384ba4-07cb-4487-9438-c07cb3d14f1c/cover",
@@ -35409,7 +35706,7 @@
     },
     {
       "title": "I Kissed a Girl",
-      "description": "9/10. It's the final Kiss-Off and emotions are high. Will the divas decide to turn for their partner and commit to a relationship back home or call time on their summer of love? [S,AD] [HD]",
+      "description": "9/10. Strap in for an epic final Kiss-Off as Dannii plays Cupid one last time. Contains some strong language. [S,AD] [HD]",
       "start": 1784060100,
       "stop": 1784063100,
       "icon": "https://images.metadata.sky.com/pd-image/bd9bda61-5422-47e3-89a4-202cdb0eb8c7/cover",
@@ -35796,7 +36093,7 @@
     },
     {
       "title": "Global Eye",
-      "description": "Bringing forensic journalism from all corners of the world. [S] [HD]",
+      "description": "Shawn Yuan investigates the story of one of the world's most wanted fugitives. [S] [HD]",
       "start": 1783965600,
       "stop": 1783967400,
       "icon": "https://images.metadata.sky.com/pd-image/08854779-6074-4682-8abf-22d5c490d184/cover",
@@ -36656,7 +36953,7 @@
     },
     {
       "title": "Global Eye",
-      "description": "Bringing forensic journalism from all corners of the world. [S] [HD]",
+      "description": "Shawn Yuan investigates the story of one of the world's most wanted fugitives. [S] [HD]",
       "start": 1783965600,
       "stop": 1783967400,
       "icon": "https://images.metadata.sky.com/pd-image/08854779-6074-4682-8abf-22d5c490d184/cover",
@@ -37516,7 +37813,7 @@
     },
     {
       "title": "Global Eye",
-      "description": "Bringing forensic journalism from all corners of the world. [S] [HD]",
+      "description": "Shawn Yuan investigates the story of one of the world's most wanted fugitives. [S] [HD]",
       "start": 1783965600,
       "stop": 1783967400,
       "icon": "https://images.metadata.sky.com/pd-image/08854779-6074-4682-8abf-22d5c490d184/cover",
@@ -38387,7 +38684,7 @@
     },
     {
       "title": "Global Eye",
-      "description": "Bringing forensic journalism from all corners of the world. [S] [HD]",
+      "description": "Shawn Yuan investigates the story of one of the world's most wanted fugitives. [S] [HD]",
       "start": 1783965600,
       "stop": 1783967400,
       "icon": "https://images.metadata.sky.com/pd-image/08854779-6074-4682-8abf-22d5c490d184/cover",
@@ -45371,7 +45668,7 @@
     },
     {
       "title": "Channel 4 News",
-      "description": "Channel 4's flagship news programme. Including the weather.",
+      "description": "In a special programme on climate change we ask whether Europe's deadly heatwaves are only going to get worse - and what we can do. Plus: the latest on the Ann Widdecombe investigation.",
       "start": 1783965600,
       "stop": 1783969200,
       "icon": "https://images.metadata.sky.com/pd-image/6c6223ab-63d8-41ae-bfe0-254d38bbfbc3/cover",
@@ -46481,6 +46778,17 @@
       "premiere": false,
       "season": 2025.0,
       "episode": 31.0
+    },
+    {
+      "title": "Channel 4 News",
+      "description": "In a special programme on climate change we ask whether Europe's deadly heatwaves are only going to get worse - and what we can do. Plus: the latest on the Ann Widdecombe investigation.",
+      "start": 1783969200,
+      "stop": 1783972800,
+      "icon": "https://images.metadata.sky.com/pd-image/6c6223ab-63d8-41ae-bfe0-254d38bbfbc3/cover",
+      "channel": "Channel4Plus1.uk",
+      "premiere": false,
+      "season": null,
+      "episode": 0.0
     },
     {
       "title": "New: Dover 24/7: Britain's...",
@@ -47761,15 +48069,15 @@
       "episode": 6.0
     },
     {
-      "title": "New: World Cup 2026: Uncensored with Piers Morgan",
-      "description": "Piers partners with former Crystal Palace chairman Simon Jordan for a star-studded show featuring former England captain John Terry and a host of special guests. (Ep4)",
+      "title": "England's March to Glory: World Cup Uncensored",
+      "description": "The final beckons, but England's fiercest opponents stand in our way. Can we really bring it home? Piers Morgan partners with Simon Jordan to discuss. (Ep4)",
       "start": 1783985400,
       "stop": 1783989000,
-      "icon": "https://images.metadata.sky.com/pd-image/8185f228-6418-4e48-b206-2132744299a3/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/44666529-6d1c-41f3-87da-0945d37b80a2/cover",
       "channel": "Channel5Plus1.uk",
-      "premiere": true,
-      "season": 1.0,
-      "episode": 4.0
+      "premiere": false,
+      "season": null,
+      "episode": null
     },
     {
       "title": "Cops",
@@ -48314,7 +48622,7 @@
       "title": "Castle",
       "description": "Beckett assumes the identity of a low-level drug pusher when she is asked to go undercover in pursuit of an elusive crime lord. (S6 Ep17)",
       "start": 1784080800,
-      "stop": 1784083500,
+      "stop": 1784083800,
       "icon": "https://images.metadata.sky.com/pd-image/874caa80-3b67-4d58-82e5-430f9fc79f6c/cover",
       "channel": "Channel5Plus1.uk",
       "premiere": false,
@@ -48324,7 +48632,7 @@
     {
       "title": "Build Your Dream Home in the Country",
       "description": "Mark Millar helps a family build a luxury home in stunning Lanarkshire countryside, with a showpiece floating glass staircase, bar, cinema room and five bedrooms. (S1 Ep14)",
-      "start": 1784083500,
+      "start": 1784083800,
       "stop": 1784086800,
       "icon": "https://images.metadata.sky.com/pd-image/6a04f231-e3c3-42bb-9fc0-a0cd6f641d83/cover",
       "channel": "Channel5Plus1.uk",
@@ -58894,7 +59202,7 @@
     },
     {
       "title": "Europe Today",
-      "description": "Breaking News. In depth analysis on the biggest stories making headlines in Europe and across the world.",
+      "description": "Euronews' flagship morning TV show with the news and insights that drive Europe, live from ...",
       "start": 1783922400,
       "stop": 1783924200,
       "icon": "https://images.metadata.sky.com/pd-image/cf919578-6b54-4425-a87d-d35d9ec47f01/cover",
@@ -58927,7 +59235,7 @@
     },
     {
       "title": "Europe Today",
-      "description": "Breaking News. In depth analysis on the biggest stories making headlines in Europe and across the world.",
+      "description": "Euronews' flagship morning TV show with the news and insights that drive Europe, live from ...",
       "start": 1783926000,
       "stop": 1783927800,
       "icon": "https://images.metadata.sky.com/pd-image/87e8c686-b7fe-459a-96f6-93f5a08920e6/cover",
@@ -58949,7 +59257,7 @@
     },
     {
       "title": "Europe Today",
-      "description": "Breaking News. In depth analysis on the biggest stories making headlines in Europe and across the world.",
+      "description": "Euronews' flagship morning TV show with the news and insights that drive Europe, live from ...",
       "start": 1783929600,
       "stop": 1783931400,
       "icon": "https://images.metadata.sky.com/pd-image/4ce18f02-484f-4665-8587-4702b07dca51/cover",
@@ -59697,7 +60005,7 @@
     },
     {
       "title": "Europe Today",
-      "description": "Breaking News. In depth analysis on the biggest stories making headlines in Europe and across the world.",
+      "description": "Euronews' flagship morning TV show with the news and insights that drive Europe, live from ...",
       "start": 1784008800,
       "stop": 1784010600,
       "icon": "https://images.metadata.sky.com/pd-image/4f05e5d8-eff6-4008-becb-32a82260013e/cover",
@@ -59730,7 +60038,7 @@
     },
     {
       "title": "Europe Today",
-      "description": "Breaking News. In depth analysis on the biggest stories making headlines in Europe and across the world.",
+      "description": "Euronews' flagship morning TV show with the news and insights that drive Europe, live from ...",
       "start": 1784012400,
       "stop": 1784014200,
       "icon": "https://images.metadata.sky.com/pd-image/45fcb9bb-83bb-43d4-8b75-c795715badb8/cover",
@@ -59763,7 +60071,7 @@
     },
     {
       "title": "Europe Today",
-      "description": "Breaking News. In depth analysis on the biggest stories making headlines in Europe and across the world.",
+      "description": "Euronews' flagship morning TV show with the news and insights that drive Europe, live from ...",
       "start": 1784016000,
       "stop": 1784017800,
       "icon": "https://images.metadata.sky.com/pd-image/79376fd7-0aed-4735-ad8a-860aac5ea305/cover",
@@ -60533,7 +60841,7 @@
     },
     {
       "title": "Europe Today",
-      "description": "Breaking News. In depth analysis on the biggest stories making headlines in Europe and across the world.",
+      "description": "Euronews' flagship morning TV show with the news and insights that drive Europe, live from ...",
       "start": 1784095200,
       "stop": 1784097000,
       "icon": "https://images.metadata.sky.com/pd-image/d1353808-7d33-4333-80fe-e4e86179bb62/cover",
@@ -60566,7 +60874,7 @@
     },
     {
       "title": "Europe Today",
-      "description": "Breaking News. In depth analysis on the biggest stories making headlines in Europe and across the world.",
+      "description": "Euronews' flagship morning TV show with the news and insights that drive Europe, live from ...",
       "start": 1784098800,
       "stop": 1784100600,
       "icon": "https://images.metadata.sky.com/pd-image/5dd34ab5-63ae-4297-ae31-f333f322c4c7/cover",
@@ -60599,7 +60907,7 @@
     },
     {
       "title": "Europe Today",
-      "description": "Breaking News. In depth analysis on the biggest stories making headlines in Europe and across the world.",
+      "description": "Euronews' flagship morning TV show with the news and insights that drive Europe, live from ...",
       "start": 1784102400,
       "stop": 1784104200,
       "icon": "https://images.metadata.sky.com/pd-image/66102162-ffba-4b2f-ac37-67e0f47f6952/cover",
@@ -62389,7 +62697,7 @@
     },
     {
       "title": "This Morning",
-      "description": "Magazine show with news and topical items, celebrity guests, expert advice, real-life stories, competitions and a mix of cookery, health, beauty, lifestyle and more.",
+      "description": "Actress Mollie Gallagher discusses her upcoming Corrie exit plus her stage debut, John Torode's making a fuss-free chicken dinner, and Sian Welby is back with her showbiz gossip.",
       "start": 1783933200,
       "stop": 1783942200,
       "icon": "https://images.metadata.sky.com/pd-image/3483b45d-94e8-4b81-8dc6-ce256036f244/cover",
@@ -62755,7 +63063,7 @@
       "description": "Sneak peek of a brand new game show hosted by Gary Lineker in which celebrity contestants are plunged into the unknown as they visit mystery locations while enclosed in a box.",
       "start": 1784051400,
       "stop": 1784052000,
-      "icon": "https://images.metadata.sky.com/pd-image/d44b4d14-5bbe-4040-93bf-9429c6824cc8/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/9c4d1db8-af74-4e58-8ddf-bac4d4b89046/cover",
       "channel": "ITV1CentralE.uk",
       "premiere": false,
       "season": null,
@@ -63117,7 +63425,7 @@
     },
     {
       "title": "This Morning",
-      "description": "Magazine show with news and topical items, celebrity guests, expert advice, real-life stories, competitions and a mix of cookery, health, beauty, lifestyle and more.",
+      "description": "Actress Mollie Gallagher discusses her upcoming Corrie exit plus her stage debut, John Torode's making a fuss-free chicken dinner, and Sian Welby is back with her showbiz gossip.",
       "start": 1783933200,
       "stop": 1783942200,
       "icon": "https://images.metadata.sky.com/pd-image/3483b45d-94e8-4b81-8dc6-ce256036f244/cover",
@@ -63483,7 +63791,7 @@
       "description": "Sneak peek of a brand new game show hosted by Gary Lineker in which celebrity contestants are plunged into the unknown as they visit mystery locations while enclosed in a box.",
       "start": 1784051400,
       "stop": 1784052000,
-      "icon": "https://images.metadata.sky.com/pd-image/bbb5ba40-d2e0-4950-9870-d5a603aaffd8/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/9c4d1db8-af74-4e58-8ddf-bac4d4b89046/cover",
       "channel": "ITV1CentralW.uk",
       "premiere": false,
       "season": null,
@@ -63845,7 +64153,7 @@
     },
     {
       "title": "This Morning",
-      "description": "Magazine show with news and topical items, celebrity guests, expert advice, real-life stories, competitions and a mix of cookery, health, beauty, lifestyle and more.",
+      "description": "Actress Mollie Gallagher discusses her upcoming Corrie exit plus her stage debut, John Torode's making a fuss-free chicken dinner, and Sian Welby is back with her showbiz gossip.",
       "start": 1783933200,
       "stop": 1783942200,
       "icon": "https://images.metadata.sky.com/pd-image/3483b45d-94e8-4b81-8dc6-ce256036f244/cover",
@@ -64211,7 +64519,7 @@
       "description": "Sneak peek of a brand new game show hosted by Gary Lineker in which celebrity contestants are plunged into the unknown as they visit mystery locations while enclosed in a box.",
       "start": 1784051400,
       "stop": 1784052000,
-      "icon": "https://images.metadata.sky.com/pd-image/35d1e777-ec9f-48fd-b7a2-2f990ee2728c/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/9c4d1db8-af74-4e58-8ddf-bac4d4b89046/cover",
       "channel": "ITV1London.uk",
       "premiere": false,
       "season": null,
@@ -64573,7 +64881,7 @@
     },
     {
       "title": "This Morning",
-      "description": "Magazine show with news and topical items, celebrity guests, expert advice, real-life stories, competitions and a mix of cookery, health, beauty, lifestyle and more.",
+      "description": "Actress Mollie Gallagher discusses her upcoming Corrie exit plus her stage debut, John Torode's making a fuss-free chicken dinner, and Sian Welby is back with her showbiz gossip.",
       "start": 1783933200,
       "stop": 1783942200,
       "icon": "https://images.metadata.sky.com/pd-image/3483b45d-94e8-4b81-8dc6-ce256036f244/cover",
@@ -64927,12 +65235,23 @@
       "title": "ITV Evening News",
       "description": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world, plus a focus on the stories that matter to you.",
       "start": 1784050200,
-      "stop": 1784052000,
+      "stop": 1784051400,
       "icon": "https://images.metadata.sky.com/pd-image/09e5cd5c-2a7b-47c6-a115-4ece7dd1f91c/cover",
       "channel": "ITV1MeridianE.uk",
       "premiere": false,
       "season": null,
       "episode": 0.0
+    },
+    {
+      "title": "The Box Sneak Peek",
+      "description": "Sneak peek of a brand new game show hosted by Gary Lineker in which celebrity contestants are plunged into the unknown as they visit mystery locations while enclosed in a box.",
+      "start": 1784051400,
+      "stop": 1784052000,
+      "icon": "https://images.metadata.sky.com/pd-image/9c4d1db8-af74-4e58-8ddf-bac4d4b89046/cover",
+      "channel": "ITV1MeridianE.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
     },
     {
       "title": "FIFA WC2026: France v Spain",
@@ -65290,7 +65609,7 @@
     },
     {
       "title": "This Morning",
-      "description": "Magazine show with news and topical items, celebrity guests, expert advice, real-life stories, competitions and a mix of cookery, health, beauty, lifestyle and more.",
+      "description": "Actress Mollie Gallagher discusses her upcoming Corrie exit plus her stage debut, John Torode's making a fuss-free chicken dinner, and Sian Welby is back with her showbiz gossip.",
       "start": 1783933200,
       "stop": 1783942200,
       "icon": "https://images.metadata.sky.com/pd-image/3483b45d-94e8-4b81-8dc6-ce256036f244/cover",
@@ -65644,12 +65963,23 @@
       "title": "ITV Evening News",
       "description": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world, plus a focus on the stories that matter to you.",
       "start": 1784050200,
-      "stop": 1784052000,
+      "stop": 1784051400,
       "icon": "https://images.metadata.sky.com/pd-image/9315e79b-22d9-434b-ad54-fb4dfc70bd27/cover",
       "channel": "ITV1MeridianN.uk",
       "premiere": false,
       "season": null,
       "episode": 0.0
+    },
+    {
+      "title": "The Box Sneak Peek",
+      "description": "Sneak peek of a brand new game show hosted by Gary Lineker in which celebrity contestants are plunged into the unknown as they visit mystery locations while enclosed in a box.",
+      "start": 1784051400,
+      "stop": 1784052000,
+      "icon": "https://images.metadata.sky.com/pd-image/9c4d1db8-af74-4e58-8ddf-bac4d4b89046/cover",
+      "channel": "ITV1MeridianN.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
     },
     {
       "title": "FIFA WC2026: France v Spain",
@@ -66007,7 +66337,7 @@
     },
     {
       "title": "This Morning",
-      "description": "Magazine show with news and topical items, celebrity guests, expert advice, real-life stories, competitions and a mix of cookery, health, beauty, lifestyle and more.",
+      "description": "Actress Mollie Gallagher discusses her upcoming Corrie exit plus her stage debut, John Torode's making a fuss-free chicken dinner, and Sian Welby is back with her showbiz gossip.",
       "start": 1783933200,
       "stop": 1783942200,
       "icon": "https://images.metadata.sky.com/pd-image/3483b45d-94e8-4b81-8dc6-ce256036f244/cover",
@@ -66361,12 +66691,23 @@
       "title": "ITV Evening News",
       "description": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world, plus a focus on the stories that matter to you.",
       "start": 1784050200,
-      "stop": 1784052000,
+      "stop": 1784051400,
       "icon": "https://images.metadata.sky.com/pd-image/aa439d2d-da9a-4169-ba95-cd46458ddfc8/cover",
       "channel": "ITV1MeridianS.uk",
       "premiere": false,
       "season": null,
       "episode": 0.0
+    },
+    {
+      "title": "The Box Sneak Peek",
+      "description": "Sneak peek of a brand new game show hosted by Gary Lineker in which celebrity contestants are plunged into the unknown as they visit mystery locations while enclosed in a box.",
+      "start": 1784051400,
+      "stop": 1784052000,
+      "icon": "https://images.metadata.sky.com/pd-image/9c4d1db8-af74-4e58-8ddf-bac4d4b89046/cover",
+      "channel": "ITV1MeridianS.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
     },
     {
       "title": "FIFA WC2026: France v Spain",
@@ -66724,7 +67065,7 @@
     },
     {
       "title": "This Morning",
-      "description": "Magazine show with news and topical items, celebrity guests, expert advice, real-life stories, competitions and a mix of cookery, health, beauty, lifestyle and more.",
+      "description": "Actress Mollie Gallagher discusses her upcoming Corrie exit plus her stage debut, John Torode's making a fuss-free chicken dinner, and Sian Welby is back with her showbiz gossip.",
       "start": 1783933200,
       "stop": 1783942200,
       "icon": "https://images.metadata.sky.com/pd-image/3483b45d-94e8-4b81-8dc6-ce256036f244/cover",
@@ -67090,7 +67431,7 @@
       "description": "Sneak peek of a brand new game show hosted by Gary Lineker in which celebrity contestants are plunged into the unknown as they visit mystery locations while enclosed in a box.",
       "start": 1784051400,
       "stop": 1784052000,
-      "icon": "https://images.metadata.sky.com/pd-image/4fcd3ff6-da09-4599-adb6-1e753ea9bb06/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/9c4d1db8-af74-4e58-8ddf-bac4d4b89046/cover",
       "channel": "ITV1North.uk",
       "premiere": false,
       "season": null,
@@ -67463,7 +67804,7 @@
     },
     {
       "title": "Good Morning Britain",
-      "description": "News, current affairs and lively debate.",
+      "description": "Harry Redknapp joines Ed and Susanna after England reached the World Cup semi-finals. Claire Sweeney discusses leaving Corrie, and social media star Big John visits the studio.",
       "start": 1783922400,
       "stop": 1783936800,
       "icon": "https://images.metadata.sky.com/pd-image/20e74a08-d0a2-4e44-8b50-808247ccd41e/cover",
@@ -67474,7 +67815,7 @@
     },
     {
       "title": "This Morning",
-      "description": "Magazine show with news and topical items, celebrity guests, expert advice, real-life stories, competitions and a mix of cookery, health, beauty, lifestyle and more.",
+      "description": "Actress Mollie Gallagher discusses her upcoming Corrie exit plus her stage debut, John Torode's making a fuss-free chicken dinner, and Sian Welby is back with her showbiz gossip.",
       "start": 1783936800,
       "stop": 1783945800,
       "icon": "https://images.metadata.sky.com/pd-image/3483b45d-94e8-4b81-8dc6-ce256036f244/cover",
@@ -67840,7 +68181,7 @@
       "description": "Sneak peek of a brand new game show hosted by Gary Lineker in which celebrity contestants are plunged into the unknown as they visit mystery locations while enclosed in a box.",
       "start": 1784055000,
       "stop": 1784055600,
-      "icon": "https://images.metadata.sky.com/pd-image/80a07edd-3a96-40a9-9e6c-0f4d70add090/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/9c4d1db8-af74-4e58-8ddf-bac4d4b89046/cover",
       "channel": "ITV1Plus1Granada.uk",
       "premiere": false,
       "season": null,
@@ -68213,7 +68554,7 @@
     },
     {
       "title": "Good Morning Britain",
-      "description": "News, current affairs and lively debate.",
+      "description": "Harry Redknapp joines Ed and Susanna after England reached the World Cup semi-finals. Claire Sweeney discusses leaving Corrie, and social media star Big John visits the studio.",
       "start": 1783922400,
       "stop": 1783936800,
       "icon": "https://images.metadata.sky.com/pd-image/20e74a08-d0a2-4e44-8b50-808247ccd41e/cover",
@@ -68224,7 +68565,7 @@
     },
     {
       "title": "This Morning",
-      "description": "Magazine show with news and topical items, celebrity guests, expert advice, real-life stories, competitions and a mix of cookery, health, beauty, lifestyle and more.",
+      "description": "Actress Mollie Gallagher discusses her upcoming Corrie exit plus her stage debut, John Torode's making a fuss-free chicken dinner, and Sian Welby is back with her showbiz gossip.",
       "start": 1783936800,
       "stop": 1783945800,
       "icon": "https://images.metadata.sky.com/pd-image/3483b45d-94e8-4b81-8dc6-ce256036f244/cover",
@@ -68590,7 +68931,7 @@
       "description": "Sneak peek of a brand new game show hosted by Gary Lineker in which celebrity contestants are plunged into the unknown as they visit mystery locations while enclosed in a box.",
       "start": 1784055000,
       "stop": 1784055600,
-      "icon": "https://images.metadata.sky.com/pd-image/10a7151a-e75e-4f90-81fe-98851cd9258d/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/9c4d1db8-af74-4e58-8ddf-bac4d4b89046/cover",
       "channel": "ITV1Plus1London.uk",
       "premiere": false,
       "season": null,
@@ -68963,7 +69304,7 @@
     },
     {
       "title": "Good Morning Britain",
-      "description": "News, current affairs and lively debate.",
+      "description": "Harry Redknapp joines Ed and Susanna after England reached the World Cup semi-finals. Claire Sweeney discusses leaving Corrie, and social media star Big John visits the studio.",
       "start": 1783922400,
       "stop": 1783936800,
       "icon": "https://images.metadata.sky.com/pd-image/20e74a08-d0a2-4e44-8b50-808247ccd41e/cover",
@@ -68974,7 +69315,7 @@
     },
     {
       "title": "This Morning",
-      "description": "Magazine show with news and topical items, celebrity guests, expert advice, real-life stories, competitions and a mix of cookery, health, beauty, lifestyle and more.",
+      "description": "Actress Mollie Gallagher discusses her upcoming Corrie exit plus her stage debut, John Torode's making a fuss-free chicken dinner, and Sian Welby is back with her showbiz gossip.",
       "start": 1783936800,
       "stop": 1783945800,
       "icon": "https://images.metadata.sky.com/pd-image/3483b45d-94e8-4b81-8dc6-ce256036f244/cover",
@@ -69328,12 +69669,23 @@
       "title": "ITV Evening News",
       "description": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world, plus a focus on the stories that matter to you.",
       "start": 1784053800,
-      "stop": 1784055600,
+      "stop": 1784055000,
       "icon": "https://images.metadata.sky.com/pd-image/93179d29-2214-4a7d-a9c9-09f11dab4ea0/cover",
       "channel": "ITV1Plus1Meridian.uk",
       "premiere": false,
       "season": null,
       "episode": 0.0
+    },
+    {
+      "title": "The Box Sneak Peek",
+      "description": "Sneak peek of a brand new game show hosted by Gary Lineker in which celebrity contestants are plunged into the unknown as they visit mystery locations while enclosed in a box.",
+      "start": 1784055000,
+      "stop": 1784055600,
+      "icon": "https://images.metadata.sky.com/pd-image/9c4d1db8-af74-4e58-8ddf-bac4d4b89046/cover",
+      "channel": "ITV1Plus1Meridian.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
     },
     {
       "title": "FIFA WC2026: France v Spain",
@@ -69702,7 +70054,7 @@
     },
     {
       "title": "Good Morning Britain",
-      "description": "News, current affairs and lively debate.",
+      "description": "Harry Redknapp joines Ed and Susanna after England reached the World Cup semi-finals. Claire Sweeney discusses leaving Corrie, and social media star Big John visits the studio.",
       "start": 1783922400,
       "stop": 1783936800,
       "icon": "https://images.metadata.sky.com/pd-image/20e74a08-d0a2-4e44-8b50-808247ccd41e/cover",
@@ -69713,7 +70065,7 @@
     },
     {
       "title": "This Morning",
-      "description": "Magazine show with news and topical items, celebrity guests, expert advice, real-life stories, competitions and a mix of cookery, health, beauty, lifestyle and more.",
+      "description": "Actress Mollie Gallagher discusses her upcoming Corrie exit plus her stage debut, John Torode's making a fuss-free chicken dinner, and Sian Welby is back with her showbiz gossip.",
       "start": 1783936800,
       "stop": 1783945800,
       "icon": "https://images.metadata.sky.com/pd-image/3483b45d-94e8-4b81-8dc6-ce256036f244/cover",
@@ -70067,12 +70419,23 @@
       "title": "ITV Evening News",
       "description": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world, plus a focus on the stories that matter to you.",
       "start": 1784053800,
-      "stop": 1784055600,
+      "stop": 1784055000,
       "icon": "https://images.metadata.sky.com/pd-image/5d9f9d05-13fc-4262-ab23-e4a333ac527c/cover",
       "channel": "ITV1Plus1Midlands.uk",
       "premiere": false,
       "season": null,
       "episode": 0.0
+    },
+    {
+      "title": "The Box Sneak Peek",
+      "description": "Sneak peek of a brand new game show hosted by Gary Lineker in which celebrity contestants are plunged into the unknown as they visit mystery locations while enclosed in a box.",
+      "start": 1784055000,
+      "stop": 1784055600,
+      "icon": "https://images.metadata.sky.com/pd-image/9c4d1db8-af74-4e58-8ddf-bac4d4b89046/cover",
+      "channel": "ITV1Plus1Midlands.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
     },
     {
       "title": "FIFA WC2026: France v Spain",
@@ -70430,7 +70793,7 @@
     },
     {
       "title": "This Morning",
-      "description": "Magazine show with news and topical items, celebrity guests, expert advice, real-life stories, competitions and a mix of cookery, health, beauty, lifestyle and more.",
+      "description": "Actress Mollie Gallagher discusses her upcoming Corrie exit plus her stage debut, John Torode's making a fuss-free chicken dinner, and Sian Welby is back with her showbiz gossip.",
       "start": 1783933200,
       "stop": 1783942200,
       "icon": "https://images.metadata.sky.com/pd-image/3483b45d-94e8-4b81-8dc6-ce256036f244/cover",
@@ -70784,12 +71147,23 @@
       "title": "ITV Evening News",
       "description": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world, plus a focus on the stories that matter to you.",
       "start": 1784050200,
-      "stop": 1784052000,
+      "stop": 1784051400,
       "icon": "https://images.metadata.sky.com/pd-image/cc0f29ff-4017-47c8-8ce3-0c4d20b129bf/cover",
       "channel": "ITV1TyneTees.uk",
       "premiere": false,
       "season": null,
       "episode": 0.0
+    },
+    {
+      "title": "The Box Sneak Peek",
+      "description": "Sneak peek of a brand new game show hosted by Gary Lineker in which celebrity contestants are plunged into the unknown as they visit mystery locations while enclosed in a box.",
+      "start": 1784051400,
+      "stop": 1784052000,
+      "icon": "https://images.metadata.sky.com/pd-image/9c4d1db8-af74-4e58-8ddf-bac4d4b89046/cover",
+      "channel": "ITV1TyneTees.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
     },
     {
       "title": "FIFA WC2026: France v Spain",
@@ -71147,7 +71521,7 @@
     },
     {
       "title": "This Morning",
-      "description": "Magazine show with news and topical items, celebrity guests, expert advice, real-life stories, competitions and a mix of cookery, health, beauty, lifestyle and more.",
+      "description": "Actress Mollie Gallagher discusses her upcoming Corrie exit plus her stage debut, John Torode's making a fuss-free chicken dinner, and Sian Welby is back with her showbiz gossip.",
       "start": 1783933200,
       "stop": 1783942200,
       "icon": "https://images.metadata.sky.com/pd-image/3483b45d-94e8-4b81-8dc6-ce256036f244/cover",
@@ -71501,12 +71875,23 @@
       "title": "ITV Evening News",
       "description": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world, plus a focus on the stories that matter to you.",
       "start": 1784050200,
-      "stop": 1784052000,
+      "stop": 1784051400,
       "icon": "https://images.metadata.sky.com/pd-image/5a605907-93bb-4c03-803f-36c0f71a0005/cover",
       "channel": "ITV1Wales.uk",
       "premiere": false,
       "season": null,
       "episode": 0.0
+    },
+    {
+      "title": "The Box Sneak Peek",
+      "description": "Sneak peek of a brand new game show hosted by Gary Lineker in which celebrity contestants are plunged into the unknown as they visit mystery locations while enclosed in a box.",
+      "start": 1784051400,
+      "stop": 1784052000,
+      "icon": "https://images.metadata.sky.com/pd-image/9c4d1db8-af74-4e58-8ddf-bac4d4b89046/cover",
+      "channel": "ITV1Wales.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
     },
     {
       "title": "FIFA WC2026: France v Spain",
@@ -71864,7 +72249,7 @@
     },
     {
       "title": "This Morning",
-      "description": "Magazine show with news and topical items, celebrity guests, expert advice, real-life stories, competitions and a mix of cookery, health, beauty, lifestyle and more.",
+      "description": "Actress Mollie Gallagher discusses her upcoming Corrie exit plus her stage debut, John Torode's making a fuss-free chicken dinner, and Sian Welby is back with her showbiz gossip.",
       "start": 1783933200,
       "stop": 1783942200,
       "icon": "https://images.metadata.sky.com/pd-image/3483b45d-94e8-4b81-8dc6-ce256036f244/cover",
@@ -72218,12 +72603,23 @@
       "title": "ITV Evening News",
       "description": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world, plus a focus on the stories that matter to you.",
       "start": 1784050200,
-      "stop": 1784052000,
+      "stop": 1784051400,
       "icon": "https://images.metadata.sky.com/pd-image/a7946df6-eb27-4bf6-be72-fa37c7baf4eb/cover",
       "channel": "ITV1West.uk",
       "premiere": false,
       "season": null,
       "episode": 0.0
+    },
+    {
+      "title": "The Box Sneak Peek",
+      "description": "Sneak peek of a brand new game show hosted by Gary Lineker in which celebrity contestants are plunged into the unknown as they visit mystery locations while enclosed in a box.",
+      "start": 1784051400,
+      "stop": 1784052000,
+      "icon": "https://images.metadata.sky.com/pd-image/9c4d1db8-af74-4e58-8ddf-bac4d4b89046/cover",
+      "channel": "ITV1West.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
     },
     {
       "title": "FIFA WC2026: France v Spain",
@@ -72581,7 +72977,7 @@
     },
     {
       "title": "This Morning",
-      "description": "Magazine show with news and topical items, celebrity guests, expert advice, real-life stories, competitions and a mix of cookery, health, beauty, lifestyle and more.",
+      "description": "Actress Mollie Gallagher discusses her upcoming Corrie exit plus her stage debut, John Torode's making a fuss-free chicken dinner, and Sian Welby is back with her showbiz gossip.",
       "start": 1783933200,
       "stop": 1783942200,
       "icon": "https://images.metadata.sky.com/pd-image/3483b45d-94e8-4b81-8dc6-ce256036f244/cover",
@@ -72935,12 +73331,23 @@
       "title": "ITV Evening News",
       "description": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world, plus a focus on the stories that matter to you.",
       "start": 1784050200,
-      "stop": 1784052000,
+      "stop": 1784051400,
       "icon": "https://images.metadata.sky.com/pd-image/e4cf1591-c89e-4f7e-9e94-c847ba976192/cover",
       "channel": "ITV1WestCountry.uk",
       "premiere": false,
       "season": null,
       "episode": 0.0
+    },
+    {
+      "title": "The Box Sneak Peek",
+      "description": "Sneak peek of a brand new game show hosted by Gary Lineker in which celebrity contestants are plunged into the unknown as they visit mystery locations while enclosed in a box.",
+      "start": 1784051400,
+      "stop": 1784052000,
+      "icon": "https://images.metadata.sky.com/pd-image/9c4d1db8-af74-4e58-8ddf-bac4d4b89046/cover",
+      "channel": "ITV1WestCountry.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
     },
     {
       "title": "FIFA WC2026: France v Spain",
@@ -73298,7 +73705,7 @@
     },
     {
       "title": "This Morning",
-      "description": "Magazine show with news and topical items, celebrity guests, expert advice, real-life stories, competitions and a mix of cookery, health, beauty, lifestyle and more.",
+      "description": "Actress Mollie Gallagher discusses her upcoming Corrie exit plus her stage debut, John Torode's making a fuss-free chicken dinner, and Sian Welby is back with her showbiz gossip.",
       "start": 1783933200,
       "stop": 1783942200,
       "icon": "https://images.metadata.sky.com/pd-image/3483b45d-94e8-4b81-8dc6-ce256036f244/cover",
@@ -73652,12 +74059,23 @@
       "title": "ITV Evening News",
       "description": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world, plus a focus on the stories that matter to you.",
       "start": 1784050200,
-      "stop": 1784052000,
+      "stop": 1784051400,
       "icon": "https://images.metadata.sky.com/pd-image/06a1209b-639b-49d7-b033-880f0d2372a6/cover",
       "channel": "ITV1YorkshireEast.uk",
       "premiere": false,
       "season": null,
       "episode": 0.0
+    },
+    {
+      "title": "The Box Sneak Peek",
+      "description": "Sneak peek of a brand new game show hosted by Gary Lineker in which celebrity contestants are plunged into the unknown as they visit mystery locations while enclosed in a box.",
+      "start": 1784051400,
+      "stop": 1784052000,
+      "icon": "https://images.metadata.sky.com/pd-image/9c4d1db8-af74-4e58-8ddf-bac4d4b89046/cover",
+      "channel": "ITV1YorkshireEast.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
     },
     {
       "title": "FIFA WC2026: France v Spain",
@@ -74015,7 +74433,7 @@
     },
     {
       "title": "This Morning",
-      "description": "Magazine show with news and topical items, celebrity guests, expert advice, real-life stories, competitions and a mix of cookery, health, beauty, lifestyle and more.",
+      "description": "Actress Mollie Gallagher discusses her upcoming Corrie exit plus her stage debut, John Torode's making a fuss-free chicken dinner, and Sian Welby is back with her showbiz gossip.",
       "start": 1783933200,
       "stop": 1783942200,
       "icon": "https://images.metadata.sky.com/pd-image/3483b45d-94e8-4b81-8dc6-ce256036f244/cover",
@@ -74369,12 +74787,23 @@
       "title": "ITV Evening News",
       "description": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world, plus a focus on the stories that matter to you.",
       "start": 1784050200,
-      "stop": 1784052000,
+      "stop": 1784051400,
       "icon": "https://images.metadata.sky.com/pd-image/94a26bd9-8037-4d90-b31d-30512f9887d8/cover",
       "channel": "ITV1YorkshireWest.uk",
       "premiere": false,
       "season": null,
       "episode": 0.0
+    },
+    {
+      "title": "The Box Sneak Peek",
+      "description": "Sneak peek of a brand new game show hosted by Gary Lineker in which celebrity contestants are plunged into the unknown as they visit mystery locations while enclosed in a box.",
+      "start": 1784051400,
+      "stop": 1784052000,
+      "icon": "https://images.metadata.sky.com/pd-image/9c4d1db8-af74-4e58-8ddf-bac4d4b89046/cover",
+      "channel": "ITV1YorkshireWest.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
     },
     {
       "title": "FIFA WC2026: France v Spain",
@@ -74867,11 +75296,11 @@
       "description": "Fresh Faces, High Stakes: Rob Lowe hosts the American version of the dramatic and fast-paced game show. Contestants test their knowledge of sandwich ingredients, rappers and sports. S3 Ep3",
       "start": 1783948200,
       "stop": 1783951800,
-      "icon": "https://images.metadata.sky.com/pd-image/4d27a6a7-b4f2-4ea0-85e1-08582f6d02be/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/74a71006-86f9-4136-b5fc-a2e936487767/cover",
       "channel": "ITV2.uk",
       "premiere": false,
-      "season": null,
-      "episode": null
+      "season": 3.0,
+      "episode": 3.0
     },
     {
       "title": "The Only Way is Essex",
@@ -74922,11 +75351,11 @@
       "description": "A Twist in the Game: Rob Lowe hosts the American version of the game show. Contestants test their knowledge of sports films, college basketball, Star Trek, and yoga. S3 Ep4",
       "start": 1783965600,
       "stop": 1783969200,
-      "icon": "https://images.metadata.sky.com/pd-image/701b83c7-7624-4ce9-a203-c59ea9f05f22/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/4c1572ee-b998-4811-b1aa-a32b36ba53a3/cover",
       "channel": "ITV2.uk",
       "premiere": true,
-      "season": null,
-      "episode": null
+      "season": 3.0,
+      "episode": 4.0
     },
     {
       "title": "The 1% Club",
@@ -74941,9 +75370,9 @@
     },
     {
       "title": "New: Love Island",
-      "description": "Reality show. Glamorous singles live in a beautiful villa under the watchful gaze of an audience at home who have the power to decide who goes and who will win a huge cash prize. S13 Ep43",
+      "description": "A dramatic double date puts connections to the ultimate test. As Finley faces major fallout from the dates, Simba decides to step up and put his heart on the line. S13 Ep43",
       "start": 1783972800,
-      "stop": 1783976700,
+      "stop": 1783977600,
       "icon": "https://images.metadata.sky.com/pd-image/c7f7480b-0572-4edd-b76d-921e3d9af51b/cover",
       "channel": "ITV2.uk",
       "premiere": true,
@@ -74953,8 +75382,8 @@
     {
       "title": "New: Love Island: The Debrief",
       "description": "Your daily drop of hot Love Island tea, and all the Villa gossip. With Shakira Khan, Toni Laites and Yasmin Pettet, nothing is off-topic or out of the question. S1 Ep31",
-      "start": 1783976700,
-      "stop": 1783978500,
+      "start": 1783977600,
+      "stop": 1783979400,
       "icon": "https://images.metadata.sky.com/pd-image/c350776e-8e86-48f3-868c-0d14fd2a75c2/cover",
       "channel": "ITV2.uk",
       "premiere": true,
@@ -74964,8 +75393,8 @@
     {
       "title": "New: G'wed",
       "description": "Almost Famous: Aimee's big theatre debut is upended by family truths, Mia-Louise must choose her footballing future, and the boys' antics run wildly out of control. S3 Ep6",
-      "start": 1783978500,
-      "stop": 1783980900,
+      "start": 1783979400,
+      "stop": 1783981800,
       "icon": "https://images.metadata.sky.com/pd-image/b57315ae-0624-47ba-8b5b-d52d05207a79/cover",
       "channel": "ITV2.uk",
       "premiere": true,
@@ -74975,8 +75404,8 @@
     {
       "title": "Family Guy",
       "description": "The Griffin Family History: Animated comedy about family life. After robbers enter the house, the family hides in Peter's panic room, where he tells them about their ancestry. S4 Ep27",
-      "start": 1783980900,
-      "stop": 1783982700,
+      "start": 1783981800,
+      "stop": 1783983600,
       "icon": "https://images.metadata.sky.com/pd-image/3a4d45b5-2116-4dfb-bc61-664db76bbca6/cover",
       "channel": "ITV2.uk",
       "premiere": false,
@@ -74986,8 +75415,8 @@
     {
       "title": "Family Guy",
       "description": "Sibling Rivalry: Animated comedy series about family life. Stewie's half-brother and arch-rival Bertram confronts him, and they declare an all-out war for control of the playground. S4 Ep22",
-      "start": 1783982700,
-      "stop": 1783984500,
+      "start": 1783983600,
+      "stop": 1783985400,
       "icon": "https://images.metadata.sky.com/pd-image/7bd8e445-e811-4d72-96d1-dca86c486cda/cover",
       "channel": "ITV2.uk",
       "premiere": false,
@@ -74997,8 +75426,8 @@
     {
       "title": "American Dad!",
       "description": "Family Affair: Animated comedy. When the Smiths try to plan a family game night, they realise Roger has been cheating on them with other families. S5 Ep10",
-      "start": 1783984500,
-      "stop": 1783986300,
+      "start": 1783985400,
+      "stop": 1783987200,
       "icon": "https://images.metadata.sky.com/pd-image/c2272e90-bd66-46cb-a9c0-b56b4389e042/cover",
       "channel": "ITV2.uk",
       "premiere": false,
@@ -75008,8 +75437,8 @@
     {
       "title": "American Dad!",
       "description": "Pulling Double Booty: Animated series. Hayley breaks up with her boyfriend and ends up in the arms of Stan's body double from the CIA. S5 Ep6",
-      "start": 1783986300,
-      "stop": 1783987800,
+      "start": 1783987200,
+      "stop": 1783989000,
       "icon": "https://images.metadata.sky.com/pd-image/f1e44f65-c377-4093-8b49-7c227cbddeb6/cover",
       "channel": "ITV2.uk",
       "premiere": false,
@@ -75019,8 +75448,8 @@
     {
       "title": "Bob's Burgers",
       "description": "Bully-Ieve It or Not: Animated comedy. The Belcher kids uncover a secret about Zeke's past when a new student arrives at Wagstaff, and Bob rekindles his feud with Jimmy Pesto Sr. S14 Ep5",
-      "start": 1783987800,
-      "stop": 1783989600,
+      "start": 1783989000,
+      "stop": 1783990500,
       "icon": "https://images.metadata.sky.com/pd-image/81cbf331-39a5-3229-aa72-d9941c2103f1/cover",
       "channel": "ITV2.uk",
       "premiere": false,
@@ -75030,8 +75459,8 @@
     {
       "title": "Bob's Burgers",
       "description": "The Amazing Rudy: Animated comedy. Bob and Linda get a chance to see how kind Louise can be when an embarrassed Rudy runs away from a monthly dinner with his divorced parents. S14 Ep2",
-      "start": 1783989600,
-      "stop": 1783991100,
+      "start": 1783990500,
+      "stop": 1783992000,
       "icon": "https://images.metadata.sky.com/pd-image/d9a9f3f1-db63-36eb-a459-d80fd9511646/cover",
       "channel": "ITV2.uk",
       "premiere": false,
@@ -75041,8 +75470,8 @@
     {
       "title": "Plebs",
       "description": "The Best Men: Sitcom set in ancient Rome. Marcus is asked to be best man for the upcoming wedding of Aurelius, and Stylax takes chariot lessons from a volatile driving instructor. [SL] S2 Ep2",
-      "start": 1783991100,
-      "stop": 1783992600,
+      "start": 1783992000,
+      "stop": 1783993500,
       "icon": "https://images.metadata.sky.com/pd-image/1251e65a-a024-48be-be83-ad82014997d7/cover",
       "channel": "ITV2.uk",
       "premiere": false,
@@ -75052,7 +75481,7 @@
     {
       "title": "Unwind with ITV",
       "description": "Your daily escape designed to calm the mind and encourage relaxation and reflection.",
-      "start": 1783992600,
+      "start": 1783993500,
       "stop": 1783994400,
       "icon": "https://images.metadata.sky.com/pd-image/9f34f636-8ec5-41d2-a54b-3eabfd72e781/cover",
       "channel": "ITV2.uk",
@@ -75175,11 +75604,11 @@
       "description": "A Twist in the Game: Rob Lowe hosts the American version of the game show. Contestants test their knowledge of sports films, college basketball, Star Trek, and yoga. S3 Ep4",
       "start": 1784034600,
       "stop": 1784038200,
-      "icon": "https://images.metadata.sky.com/pd-image/a49dd622-8421-4f48-97ea-1ccfd1fdd61f/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/4c1572ee-b998-4811-b1aa-a32b36ba53a3/cover",
       "channel": "ITV2.uk",
       "premiere": false,
-      "season": null,
-      "episode": null
+      "season": 3.0,
+      "episode": 4.0
     },
     {
       "title": "The Only Way is Essex",
@@ -75230,11 +75659,11 @@
       "description": "Strategic Showdown: Rob Lowe hosts the American version of the game show. Contestants test their knowledge of TV mums, the Met Gala, fictional fathers and directors. S3 Ep5",
       "start": 1784052000,
       "stop": 1784055600,
-      "icon": "https://images.metadata.sky.com/pd-image/079ebfa4-49d0-479c-bebb-d1226ac10a04/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/56f23390-80a7-4c91-bce0-c8016fe6098b/cover",
       "channel": "ITV2.uk",
       "premiere": true,
-      "season": null,
-      "episode": null
+      "season": 3.0,
+      "episode": 5.0
     },
     {
       "title": "The 1% Club",
@@ -75483,11 +75912,11 @@
       "description": "Strategic Showdown: Rob Lowe hosts the American version of the game show. Contestants test their knowledge of TV mums, the Met Gala, fictional fathers and directors. S3 Ep5",
       "start": 1784121000,
       "stop": 1784124600,
-      "icon": "https://images.metadata.sky.com/pd-image/b13a93b9-cbab-44f3-a18f-bd0dc13b79e4/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/56f23390-80a7-4c91-bce0-c8016fe6098b/cover",
       "channel": "ITV2.uk",
       "premiere": false,
-      "season": null,
-      "episode": null
+      "season": 3.0,
+      "episode": 5.0
     },
     {
       "title": "The Only Way is Essex",
@@ -75538,11 +75967,11 @@
       "description": "Call My Bluff: Rob Lowe hosts the fast-paced game show. Contestants test their knowledge of natural history, Real Housewives, space travel, TV chefs and more. S3 Ep6",
       "start": 1784138400,
       "stop": 1784142000,
-      "icon": "https://images.metadata.sky.com/pd-image/3606fbf6-ac05-412d-b4c8-0b3d57d47fde/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/046f191f-022d-45e5-b443-9b583fa620a5/cover",
       "channel": "ITV2.uk",
       "premiere": true,
-      "season": null,
-      "episode": null
+      "season": 3.0,
+      "episode": 6.0
     },
     {
       "title": "The 1% Club",
@@ -75614,7 +76043,7 @@
   "ITV2Plus1.uk": [
     {
       "title": "New: Love Island",
-      "description": "Reality show. Glamorous singles live in a beautiful villa under the watchful gaze of an audience at home who have the power to decide who goes and who will win a huge cash prize. S13 Ep42",
+      "description": "Big decisions loom for Julia and Lorenzo as they must decide who to dump from the Villa, Finley and Elicia's connection heats up, and the bombshells have the power to steal. S13 Ep42",
       "start": 1783890000,
       "stop": 1783893600,
       "icon": "https://images.metadata.sky.com/pd-image/ef599c06-e60b-4123-8690-7aa7800c0f00/cover",
@@ -75837,11 +76266,11 @@
       "description": "Fresh Faces, High Stakes: Rob Lowe hosts the American version of the dramatic and fast-paced game show. Contestants test their knowledge of sandwich ingredients, rappers and sports. S3 Ep3",
       "start": 1783951800,
       "stop": 1783955400,
-      "icon": "https://images.metadata.sky.com/pd-image/ffe5b717-7345-4bc6-9c3c-4d8fcaf2e9af/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/74a71006-86f9-4136-b5fc-a2e936487767/cover",
       "channel": "ITV2Plus1.uk",
       "premiere": false,
-      "season": null,
-      "episode": null
+      "season": 3.0,
+      "episode": 3.0
     },
     {
       "title": "The Only Way is Essex",
@@ -75892,11 +76321,11 @@
       "description": "A Twist in the Game: Rob Lowe hosts the American version of the game show. Contestants test their knowledge of sports films, college basketball, Star Trek, and yoga. S3 Ep4",
       "start": 1783969200,
       "stop": 1783972800,
-      "icon": "https://images.metadata.sky.com/pd-image/6484f733-1ac7-4ead-b804-24bb75e71c6c/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/4c1572ee-b998-4811-b1aa-a32b36ba53a3/cover",
       "channel": "ITV2Plus1.uk",
       "premiere": true,
-      "season": null,
-      "episode": null
+      "season": 3.0,
+      "episode": 4.0
     },
     {
       "title": "The 1% Club",
@@ -75911,9 +76340,9 @@
     },
     {
       "title": "New: Love Island",
-      "description": "Reality show. Glamorous singles live in a beautiful villa under the watchful gaze of an audience at home who have the power to decide who goes and who will win a huge cash prize. S13 Ep43",
+      "description": "A dramatic double date puts connections to the ultimate test. As Finley faces major fallout from the dates, Simba decides to step up and put his heart on the line. S13 Ep43",
       "start": 1783976400,
-      "stop": 1783980300,
+      "stop": 1783981200,
       "icon": "https://images.metadata.sky.com/pd-image/c7f7480b-0572-4edd-b76d-921e3d9af51b/cover",
       "channel": "ITV2Plus1.uk",
       "premiere": true,
@@ -75923,8 +76352,8 @@
     {
       "title": "New: Love Island: The Debrief",
       "description": "Your daily drop of hot Love Island tea, and all the Villa gossip. With Shakira Khan, Toni Laites and Yasmin Pettet, nothing is off-topic or out of the question. S1 Ep31",
-      "start": 1783980300,
-      "stop": 1783982100,
+      "start": 1783981200,
+      "stop": 1783983000,
       "icon": "https://images.metadata.sky.com/pd-image/c350776e-8e86-48f3-868c-0d14fd2a75c2/cover",
       "channel": "ITV2Plus1.uk",
       "premiere": true,
@@ -75934,8 +76363,8 @@
     {
       "title": "New: G'wed",
       "description": "Almost Famous: Aimee's big theatre debut is upended by family truths, Mia-Louise must choose her footballing future, and the boys' antics run wildly out of control. S3 Ep6",
-      "start": 1783982100,
-      "stop": 1783984500,
+      "start": 1783983000,
+      "stop": 1783985400,
       "icon": "https://images.metadata.sky.com/pd-image/b57315ae-0624-47ba-8b5b-d52d05207a79/cover",
       "channel": "ITV2Plus1.uk",
       "premiere": true,
@@ -75945,8 +76374,8 @@
     {
       "title": "Family Guy",
       "description": "The Griffin Family History: Animated comedy about family life. After robbers enter the house, the family hides in Peter's panic room, where he tells them about their ancestry. S4 Ep27",
-      "start": 1783984500,
-      "stop": 1783986300,
+      "start": 1783985400,
+      "stop": 1783987200,
       "icon": "https://images.metadata.sky.com/pd-image/3a4d45b5-2116-4dfb-bc61-664db76bbca6/cover",
       "channel": "ITV2Plus1.uk",
       "premiere": false,
@@ -75956,8 +76385,8 @@
     {
       "title": "Family Guy",
       "description": "Sibling Rivalry: Animated comedy series about family life. Stewie's half-brother and arch-rival Bertram confronts him, and they declare an all-out war for control of the playground. S4 Ep22",
-      "start": 1783986300,
-      "stop": 1783988100,
+      "start": 1783987200,
+      "stop": 1783989000,
       "icon": "https://images.metadata.sky.com/pd-image/7bd8e445-e811-4d72-96d1-dca86c486cda/cover",
       "channel": "ITV2Plus1.uk",
       "premiere": false,
@@ -75967,8 +76396,8 @@
     {
       "title": "American Dad!",
       "description": "Family Affair: Animated comedy. When the Smiths try to plan a family game night, they realise Roger has been cheating on them with other families. S5 Ep10",
-      "start": 1783988100,
-      "stop": 1783989900,
+      "start": 1783989000,
+      "stop": 1783990800,
       "icon": "https://images.metadata.sky.com/pd-image/c2272e90-bd66-46cb-a9c0-b56b4389e042/cover",
       "channel": "ITV2Plus1.uk",
       "premiere": false,
@@ -75978,8 +76407,8 @@
     {
       "title": "American Dad!",
       "description": "Pulling Double Booty: Animated series. Hayley breaks up with her boyfriend and ends up in the arms of Stan's body double from the CIA. S5 Ep6",
-      "start": 1783989900,
-      "stop": 1783991400,
+      "start": 1783990800,
+      "stop": 1783992600,
       "icon": "https://images.metadata.sky.com/pd-image/f1e44f65-c377-4093-8b49-7c227cbddeb6/cover",
       "channel": "ITV2Plus1.uk",
       "premiere": false,
@@ -75989,8 +76418,8 @@
     {
       "title": "Bob's Burgers",
       "description": "Bully-Ieve It or Not: Animated comedy. The Belcher kids uncover a secret about Zeke's past when a new student arrives at Wagstaff, and Bob rekindles his feud with Jimmy Pesto Sr. S14 Ep5",
-      "start": 1783991400,
-      "stop": 1783993200,
+      "start": 1783992600,
+      "stop": 1783994100,
       "icon": "https://images.metadata.sky.com/pd-image/81cbf331-39a5-3229-aa72-d9941c2103f1/cover",
       "channel": "ITV2Plus1.uk",
       "premiere": false,
@@ -76000,8 +76429,8 @@
     {
       "title": "Bob's Burgers",
       "description": "The Amazing Rudy: Animated comedy. Bob and Linda get a chance to see how kind Louise can be when an embarrassed Rudy runs away from a monthly dinner with his divorced parents. S14 Ep2",
-      "start": 1783993200,
-      "stop": 1783994700,
+      "start": 1783994100,
+      "stop": 1783995600,
       "icon": "https://images.metadata.sky.com/pd-image/d9a9f3f1-db63-36eb-a459-d80fd9511646/cover",
       "channel": "ITV2Plus1.uk",
       "premiere": false,
@@ -76011,8 +76440,8 @@
     {
       "title": "Plebs",
       "description": "The Best Men: Sitcom set in ancient Rome. Marcus is asked to be best man for the upcoming wedding of Aurelius, and Stylax takes chariot lessons from a volatile driving instructor. [SL] S2 Ep2",
-      "start": 1783994700,
-      "stop": 1783996200,
+      "start": 1783995600,
+      "stop": 1783997100,
       "icon": "https://images.metadata.sky.com/pd-image/1251e65a-a024-48be-be83-ad82014997d7/cover",
       "channel": "ITV2Plus1.uk",
       "premiere": false,
@@ -76022,7 +76451,7 @@
     {
       "title": "Unwind with ITV",
       "description": "Your daily escape designed to calm the mind and encourage relaxation and reflection.",
-      "start": 1783996200,
+      "start": 1783997100,
       "stop": 1783998000,
       "icon": "https://images.metadata.sky.com/pd-image/9f34f636-8ec5-41d2-a54b-3eabfd72e781/cover",
       "channel": "ITV2Plus1.uk",
@@ -76145,11 +76574,11 @@
       "description": "A Twist in the Game: Rob Lowe hosts the American version of the game show. Contestants test their knowledge of sports films, college basketball, Star Trek, and yoga. S3 Ep4",
       "start": 1784038200,
       "stop": 1784041800,
-      "icon": "https://images.metadata.sky.com/pd-image/d454f2e1-fecf-4e9a-bc1f-174e88cf0bd7/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/4c1572ee-b998-4811-b1aa-a32b36ba53a3/cover",
       "channel": "ITV2Plus1.uk",
       "premiere": false,
-      "season": null,
-      "episode": null
+      "season": 3.0,
+      "episode": 4.0
     },
     {
       "title": "The Only Way is Essex",
@@ -76200,11 +76629,11 @@
       "description": "Strategic Showdown: Rob Lowe hosts the American version of the game show. Contestants test their knowledge of TV mums, the Met Gala, fictional fathers and directors. S3 Ep5",
       "start": 1784055600,
       "stop": 1784059200,
-      "icon": "https://images.metadata.sky.com/pd-image/e89f426a-9ef2-43ca-9812-4e8f69833d4b/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/56f23390-80a7-4c91-bce0-c8016fe6098b/cover",
       "channel": "ITV2Plus1.uk",
       "premiere": true,
-      "season": null,
-      "episode": null
+      "season": 3.0,
+      "episode": 5.0
     },
     {
       "title": "The 1% Club",
@@ -76453,11 +76882,11 @@
       "description": "Strategic Showdown: Rob Lowe hosts the American version of the game show. Contestants test their knowledge of TV mums, the Met Gala, fictional fathers and directors. S3 Ep5",
       "start": 1784124600,
       "stop": 1784128200,
-      "icon": "https://images.metadata.sky.com/pd-image/380b9cb9-31ca-4ba7-b1e1-06fb1de28347/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/56f23390-80a7-4c91-bce0-c8016fe6098b/cover",
       "channel": "ITV2Plus1.uk",
       "premiere": false,
-      "season": null,
-      "episode": null
+      "season": 3.0,
+      "episode": 5.0
     },
     {
       "title": "The Only Way is Essex",
@@ -76508,11 +76937,11 @@
       "description": "Call My Bluff: Rob Lowe hosts the fast-paced game show. Contestants test their knowledge of natural history, Real Housewives, space travel, TV chefs and more. S3 Ep6",
       "start": 1784142000,
       "stop": 1784145600,
-      "icon": "https://images.metadata.sky.com/pd-image/8d10261b-f0cf-4d2b-bcd8-85b88f3de41d/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/046f191f-022d-45e5-b443-9b583fa620a5/cover",
       "channel": "ITV2Plus1.uk",
       "premiere": true,
-      "season": null,
-      "episode": null
+      "season": 3.0,
+      "episode": 6.0
     },
     {
       "title": "The 1% Club",
@@ -78586,7 +79015,7 @@
       "channel": "ITV4.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 9.0
     },
     {
       "title": "Ice Road Truckers",
@@ -79413,7 +79842,7 @@
       "channel": "ITV4Plus1.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 9.0
     },
     {
       "title": "Ice Road Truckers",
@@ -85126,24 +85555,24 @@
       "episode": 5.0
     },
     {
-      "title": "Outback Terror: The Falconio Murder",
+      "title": "New: Outback Terror: The Falconio Murder",
       "description": "In 2001, British tourist Peter Falconio was murdered in the Australian Outback, and his girlfriend Joanne Lees escaped. Experts revisit the crime as they search for Peter's remains. S1 Ep1",
       "start": 1783972800,
       "stop": 1783976400,
       "icon": "https://images.metadata.sky.com/pd-image/d766690d-ca5f-4c8f-9898-16bf2d5396e5/cover",
       "channel": "UAndW.uk",
-      "premiere": false,
+      "premiere": true,
       "season": 1.0,
       "episode": 1.0
     },
     {
-      "title": "Outback Terror: The Falconio Murder",
+      "title": "New: Outback Terror: The Falconio Murder",
       "description": "As the experts apply a modern lens to the crime, clues are revealed that point to an abandoned racecourse. Another case 1800km away offers an alternative site that can't be ignored. S1 Ep2",
       "start": 1783976400,
       "stop": 1783980000,
       "icon": "https://images.metadata.sky.com/pd-image/2d3e8d26-e000-4f6c-8db4-e4193aa37f15/cover",
       "channel": "UAndW.uk",
-      "premiere": false,
+      "premiere": true,
       "season": 1.0,
       "episode": 2.0
     },
@@ -85909,24 +86338,24 @@
       "episode": 5.0
     },
     {
-      "title": "Outback Terror: The Falconio Murder",
+      "title": "New: Outback Terror: The Falconio Murder",
       "description": "In 2001, British tourist Peter Falconio was murdered in the Australian Outback, and his girlfriend Joanne Lees escaped. Experts revisit the crime as they search for Peter's remains. S1 Ep1",
       "start": 1783976400,
       "stop": 1783980000,
       "icon": "https://images.metadata.sky.com/pd-image/d766690d-ca5f-4c8f-9898-16bf2d5396e5/cover",
       "channel": "UAndWPlus1.uk",
-      "premiere": false,
+      "premiere": true,
       "season": 1.0,
       "episode": 1.0
     },
     {
-      "title": "Outback Terror: The Falconio Murder",
+      "title": "New: Outback Terror: The Falconio Murder",
       "description": "As the experts apply a modern lens to the crime, clues are revealed that point to an abandoned racecourse. Another case 1800km away offers an alternative site that can't be ignored. S1 Ep2",
       "start": 1783980000,
       "stop": 1783983600,
       "icon": "https://images.metadata.sky.com/pd-image/2d3e8d26-e000-4f6c-8db4-e4193aa37f15/cover",
       "channel": "UAndWPlus1.uk",
-      "premiere": false,
+      "premiere": true,
       "season": 1.0,
       "episode": 2.0
     },
