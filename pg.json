@@ -145,7 +145,7 @@
     },
     {
       "title": "Live: The Hundred",
-      "description": "Welsh Fire play Southern Brave in the Women's Hundred.",
+      "description": "The Women's Hundred table toppers Southern Brave go again as Lauren Bell and co face Welsh Fire at Sophia Gardens in Cardiff. Brave look to maintain their perfect record so far.",
       "start": 1785765600,
       "stop": 1785776400,
       "icon": "https://images.metadata.sky.com/pd-image/eac3161f-9895-4125-bfa0-003ecb38dcb4/cover",
@@ -178,7 +178,7 @@
     },
     {
       "title": "Live: WTA Toronto/ATP Montreal",
-      "description": "Enjoy live action from the ATP and WTA Tours.",
+      "description": "Italy's Matteo Berrettini and Mariano Navone of Argentina open a packed Monday in Montreal as the pair battle it out for a place in round two of the ATP Masters 1000 event.",
       "start": 1785791700,
       "stop": 1785798000,
       "icon": "https://images.metadata.sky.com/pd-image/964cdb62-dcf5-439c-b7ef-a580e54990b8/cover",
@@ -189,7 +189,7 @@
     },
     {
       "title": "Live: WTA Toronto/ATP Montreal",
-      "description": "Enjoy live action from the ATP and WTA Tours.",
+      "description": "Gael Monfils' final Montreal run begins as the Frenchman plays Kamil Majchrzak in round one. After coming through qualifying, Stefanos Tsitsipas enters the main draw to play Martin Damm.",
       "start": 1785798000,
       "stop": 1785812400,
       "icon": "https://images.metadata.sky.com/pd-image/964cdb62-dcf5-439c-b7ef-a580e54990b8/cover",
@@ -354,7 +354,7 @@
     },
     {
       "title": "Live: The Hundred",
-      "description": "Sunrisers Leeds face London Spirit in the Women's Hundred.",
+      "description": "SunRisers Leeds face London Spirit in the Women's Hundred. With just one win in four, Eliminator qualification looks out of reach for the SunRisers at this stage in the campaign.",
       "start": 1785852000,
       "stop": 1785862800,
       "icon": "https://images.metadata.sky.com/pd-image/70be5992-8d56-4d48-83cf-25b7c880612e/cover",
@@ -365,7 +365,7 @@
     },
     {
       "title": "Live: The Hundred",
-      "description": "Sunrisers Leeds face London Spirit in the Men's Hundred.",
+      "description": "SunRisers Leeds face London Spirit in the Men's Hundred. With eight points from four matches, Leeds are firmly in the mix for the knockout stages.",
       "start": 1785862800,
       "stop": 1785875400,
       "icon": "https://images.metadata.sky.com/pd-image/55ce49ed-f8a1-43c0-b0bb-b56394e9eb4e/cover",
@@ -2842,7 +2842,7 @@
       "channel": "sky.tennis.uk",
       "premiere": false,
       "season": null,
-      "episode": 2
+      "episode": 2.0
     },
     {
       "title": "ATP Final: Indian Wells",
@@ -2853,7 +2853,7 @@
       "channel": "sky.tennis.uk",
       "premiere": false,
       "season": null,
-      "episode": 16
+      "episode": 16.0
     },
     {
       "title": "WTA Final: Rome",
@@ -2864,7 +2864,7 @@
       "channel": "sky.tennis.uk",
       "premiere": false,
       "season": null,
-      "episode": 26
+      "episode": 26.0
     },
     {
       "title": "ATP Final: Monte Carlo",
@@ -2875,7 +2875,7 @@
       "channel": "sky.tennis.uk",
       "premiere": false,
       "season": null,
-      "episode": 23
+      "episode": 23.0
     },
     {
       "title": "WTA Final: Dubai",
@@ -2886,7 +2886,7 @@
       "channel": "sky.tennis.uk",
       "premiere": false,
       "season": null,
-      "episode": 11
+      "episode": 11.0
     },
     {
       "title": "ATP Final: Bastad",
@@ -2897,95 +2897,128 @@
       "channel": "sky.tennis.uk",
       "premiere": false,
       "season": null,
-      "episode": 36
+      "episode": 36.0
     },
     {
-      "title": "WTA Final: Washington",
-      "description": "Jessica Pegula targets a second Washington crown as the American takes on Filipino star Alex Eala, who is searching for a first career WTA title. (02.08)",
+      "title": "Tennis Highlights",
+      "description": "Four-time Grand Slam winner Naomi Osaka competes in her first Washington final-four clash with a first-time meeting against Filipino star Alex Eala. (01.08)",
       "start": 1785733200,
-      "stop": 1785740400,
+      "stop": 1785738600,
       "icon": "https://images.metadata.sky.com/pd-image/b7027ab2-f138-4765-8d3e-74e1d9c04b7e/cover",
       "channel": "sky.tennis.uk",
       "premiere": false,
       "season": null,
-      "episode": 27
+      "episode": 27.0
     },
     {
-      "title": "ATP Final: Washington",
-      "description": "Taylor Fritz prepares for his first Washington final appearance as the third seed plays rising star Rafael Jodar. Spain's Jodar features in his first ATP 500 title match. (02.08)",
-      "start": 1785740400,
-      "stop": 1785747600,
+      "title": "Tennis Highlights",
+      "description": "Rafael Jodar, bound for the world's top 20 after beating Lorenzo Musetti, enters a semi-final meeting with Alejandro Tabilo, who defeated the Spaniard this year at Indian Wells. (01.08)",
+      "start": 1785738600,
+      "stop": 1785744000,
       "icon": "https://images.metadata.sky.com/pd-image/87812eef-6dd2-4431-93d1-44b9ea2c72e9/cover",
       "channel": "sky.tennis.uk",
       "premiere": false,
       "season": null,
-      "episode": 41
+      "episode": 41.0
+    },
+    {
+      "title": "ATP Final: Toronto 2025",
+      "description": "Ben Shelton features in his first ATP Masters final as the 22-year-old eyes world number six status against Karen Khachanov, who ends a seven-year wait to compete on this stage. (07.08)",
+      "start": 1785744000,
+      "stop": 1785747600,
+      "icon": null,
+      "channel": "sky.tennis.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
     },
     {
       "title": "Tennis Highlights",
-      "description": "Gabriel Diallo launches his Masters 1000 bid in Montreal as the Canadian plays Frenchman Kyrian Jacquet. (02.08)",
+      "description": "On day one of the WTA Toronto 1000 event, Colombian number one Camila Osorio takes on Italian wildcard Lucrezia Sefanini.",
       "start": 1785747600,
       "stop": 1785753000,
       "icon": "https://images.metadata.sky.com/pd-image/d84d3034-e39b-425c-9800-4aa13bda3999/cover",
       "channel": "sky.tennis.uk",
       "premiere": false,
       "season": null,
-      "episode": 1
+      "episode": 1.0
     },
     {
       "title": "Tennis Highlights",
-      "description": "Former Grand Slam champion Bianca Vanessa, a winner of the National Bank Open back in 2019, plays Nikola Bartunkova in the opening round. (02.08)",
+      "description": "A 46-year-old Venus Williams features at the National Bank Open in Toronto as a wild card, going up against Kamilla Rakhimova in round one. (02.08)",
       "start": 1785753000,
       "stop": 1785758400,
       "icon": "https://images.metadata.sky.com/pd-image/655a0dfe-5a92-45f6-9404-98827b42cbbf/cover",
       "channel": "sky.tennis.uk",
       "premiere": false,
       "season": null,
-      "episode": 1
+      "episode": 1.0
     },
     {
       "title": "Tennis Highlights",
-      "description": "Gabriel Diallo launches his Masters 1000 bid in Montreal as the Canadian plays Frenchman Kyrian Jacquet. (02.08)",
+      "description": "In the opening round of the National Bank Open, a WTA 1000 event held in Toronto, Lucrezia Stefanini and Camila Osorio go toe to toe. (02.08)",
       "start": 1785758400,
       "stop": 1785763800,
       "icon": "https://images.metadata.sky.com/pd-image/d84d3034-e39b-425c-9800-4aa13bda3999/cover",
       "channel": "sky.tennis.uk",
       "premiere": false,
       "season": null,
-      "episode": 1
+      "episode": 1.0
     },
     {
       "title": "Tennis Highlights",
-      "description": "Former Grand Slam champion Bianca Vanessa, a winner of the National Bank Open back in 2019, plays Nikola Bartunkova in the opening round. (02.08)",
+      "description": "A 46-year-old Venus Williams features at the National Bank Open in Toronto as a wild card, going up against Kamilla Rakhimova in round one. (02.08)",
       "start": 1785763800,
       "stop": 1785769200,
       "icon": "https://images.metadata.sky.com/pd-image/655a0dfe-5a92-45f6-9404-98827b42cbbf/cover",
       "channel": "sky.tennis.uk",
       "premiere": false,
       "season": null,
-      "episode": 1
+      "episode": 1.0
     },
     {
       "title": "Live: WTA Toronto/ATP Montreal",
-      "description": "Enjoy live action from the ATP and WTA Tours.",
+      "description": "Italy's Matteo Berrettini and Mariano Navone of Argentina open a packed Monday in Montreal as the pair battle it out for a place in round two of the ATP Masters 1000 event.",
       "start": 1785769200,
-      "stop": 1785798000,
+      "stop": 1785772800,
       "icon": "https://images.metadata.sky.com/pd-image/964cdb62-dcf5-439c-b7ef-a580e54990b8/cover",
       "channel": "sky.tennis.uk",
       "premiere": false,
       "season": null,
-      "episode": 50
+      "episode": 50.0
+    },
+    {
+      "title": "Live: WTA/ATP Washington Finals",
+      "description": "Cam Norrie, the current British number two, attempts to dethrone reigning champion Denis Shapovalov as two former Los Cabos champions battle it out for a place in the final of the ATP 250.",
+      "start": 1785772800,
+      "stop": 1785783600,
+      "icon": "https://images.metadata.sky.com/pd-image/10691ac4-3833-4e9e-a2ca-26ba90dc1b6c/cover",
+      "channel": "sky.tennis.uk",
+      "premiere": false,
+      "season": null,
+      "episode": 25.0
     },
     {
       "title": "Live: WTA Toronto/ATP Montreal",
-      "description": "Enjoy live action from the ATP and WTA Tours.",
+      "description": null,
+      "start": 1785783600,
+      "stop": 1785798000,
+      "icon": null,
+      "channel": "sky.tennis.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "Live: WTA Toronto/ATP Montreal",
+      "description": "Gael Monfils' final Montreal run begins as the Frenchman plays Kamil Majchrzak in round one. After coming through qualifying, Stefanos Tsitsipas enters the main draw to play Martin Damm.",
       "start": 1785798000,
       "stop": 1785812400,
       "icon": "https://images.metadata.sky.com/pd-image/964cdb62-dcf5-439c-b7ef-a580e54990b8/cover",
       "channel": "sky.tennis.uk",
       "premiere": false,
       "season": null,
-      "episode": 50
+      "episode": 50.0
     },
     {
       "title": "ATP Final: Indian Wells",
@@ -2996,7 +3029,7 @@
       "channel": "sky.tennis.uk",
       "premiere": false,
       "season": null,
-      "episode": 16
+      "episode": 16.0
     },
     {
       "title": "ATP Final: Miami",
@@ -3007,7 +3040,7 @@
       "channel": "sky.tennis.uk",
       "premiere": false,
       "season": null,
-      "episode": 18
+      "episode": 18.0
     },
     {
       "title": "WTA Final: Doha",
@@ -3018,7 +3051,7 @@
       "channel": "sky.tennis.uk",
       "premiere": false,
       "season": null,
-      "episode": 9
+      "episode": 9.0
     },
     {
       "title": "WTA Final: Dubai",
@@ -3029,7 +3062,7 @@
       "channel": "sky.tennis.uk",
       "premiere": false,
       "season": null,
-      "episode": 11
+      "episode": 11.0
     },
     {
       "title": "ATP Final: Gstaad",
@@ -3040,84 +3073,62 @@
       "channel": "sky.tennis.uk",
       "premiere": false,
       "season": null,
-      "episode": 37
+      "episode": 37.0
     },
     {
       "title": "WTA Final: Washington",
       "description": "Jessica Pegula targets a second Washington crown as the American takes on Filipino star Alex Eala, who is searching for a first career WTA title. (02.08)",
       "start": 1785819600,
-      "stop": 1785823200,
-      "icon": "https://images.metadata.sky.com/pd-image/a2638f95-26d5-49d4-9632-a4af06adc8b5/cover",
+      "stop": 1785826800,
+      "icon": "https://images.metadata.sky.com/pd-image/b7027ab2-f138-4765-8d3e-74e1d9c04b7e/cover",
       "channel": "sky.tennis.uk",
       "premiere": false,
       "season": null,
-      "episode": 36
+      "episode": 27.0
     },
     {
       "title": "ATP Final: Washington",
       "description": "Taylor Fritz prepares for his first Washington final appearance as the third seed plays rising star Rafael Jodar. Spain's Jodar features in his first ATP 500 title match. (02.08)",
-      "start": 1785823200,
-      "stop": 1785826800,
+      "start": 1785826800,
+      "stop": 1785834000,
       "icon": "https://images.metadata.sky.com/pd-image/87812eef-6dd2-4431-93d1-44b9ea2c72e9/cover",
       "channel": "sky.tennis.uk",
       "premiere": false,
       "season": null,
-      "episode": 41
+      "episode": 41.0
     },
     {
       "title": "Tennis Highlights",
-      "description": "Revisit a standout match from yesterday's action on the ATP and WTA Tours.",
-      "start": 1785826800,
-      "stop": 1785832200,
+      "description": "British number two Katie Boulter arrives in Toronto for the National Bank Open - a WTA 1000 event - as the 30-year-old opens her bid against home favourite Kayla Cross. (03.08)",
+      "start": 1785834000,
+      "stop": 1785839400,
       "icon": "https://images.metadata.sky.com/pd-image/cc065a14-db10-4eab-9c7c-6b5fd0d39ff1/cover",
       "channel": "sky.tennis.uk",
       "premiere": false,
       "season": null,
-      "episode": 3
+      "episode": 3.0
     },
     {
       "title": "Tennis Highlights",
       "description": "Revisit a standout match from yesterday's action on the ATP and WTA Tours.",
-      "start": 1785832200,
-      "stop": 1785837600,
+      "start": 1785839400,
+      "stop": 1785844800,
       "icon": "https://images.metadata.sky.com/pd-image/08e8f1c4-a3bf-45d7-a145-b00c2ef4dfe1/cover",
       "channel": "sky.tennis.uk",
       "premiere": false,
       "season": null,
-      "episode": 3
-    },
-    {
-      "title": "ATP Final: Los Cabos",
-      "description": "A chance for defending champion Denis Shapovalov to go back to back in Los Cabos as the 27-year-old Canadian meets Frenchman Arthur Gea in the decider for the ATP 250 crown. (01.08)",
-      "start": 1785837600,
-      "stop": 1785841200,
-      "icon": "https://images.metadata.sky.com/pd-image/aef28646-525d-4f9a-a071-c441786da91e/cover",
-      "channel": "sky.tennis.uk",
-      "premiere": false,
-      "season": null,
-      "episode": 42
-    },
-    {
-      "title": "WTA Final: Memphis",
-      "description": "Teenager Kristina Liutova bids to cap her breakthrough run in Memphis with a WTA title on debut as the 16-year-old plays fellow first-time finalist Darja Vidmanova. (02.08)",
-      "start": 1785841200,
-      "stop": 1785844800,
-      "icon": "https://images.metadata.sky.com/pd-image/b264b2ef-06bf-4eb6-81b6-c8dd5e5d6655/cover",
-      "channel": "sky.tennis.uk",
-      "premiere": false,
-      "season": null,
-      "episode": 37
+      "episode": 3.0
     },
     {
       "title": "Tennis Highlights",
-      "description": "Revisit a standout match from yesterday's action on the ATP and WTA Tours.",
+      "description": "British number two Katie Boulter arrives in Toronto for the National Bank Open - a WTA 1000 event - as the 30-year-old opens her bid against home favourite Kayla Cross. (03.08)",
       "start": 1785844800,
       "stop": 1785850200,
       "icon": "https://images.metadata.sky.com/pd-image/cc065a14-db10-4eab-9c7c-6b5fd0d39ff1/cover",
       "channel": "sky.tennis.uk",
       "premiere": false,
       "season": null,
-      "episode": 3
+      "episode": 3.0
     },
     {
       "title": "Tennis Highlights",
@@ -3128,7 +3139,7 @@
       "channel": "sky.tennis.uk",
       "premiere": false,
       "season": null,
-      "episode": 3
+      "episode": 3.0
     },
     {
       "title": "Live: WTA Toronto/ATP Montreal",
@@ -3139,7 +3150,7 @@
       "channel": "sky.tennis.uk",
       "premiere": false,
       "season": null,
-      "episode": 52
+      "episode": 52.0
     },
     {
       "title": "Live: WTA Toronto/ATP Montreal",
@@ -3150,7 +3161,7 @@
       "channel": "sky.tennis.uk",
       "premiere": false,
       "season": null,
-      "episode": 52
+      "episode": 52.0
     },
     {
       "title": "ATP Final: Monte Carlo",
@@ -3161,7 +3172,7 @@
       "channel": "sky.tennis.uk",
       "premiere": false,
       "season": null,
-      "episode": 23
+      "episode": 23.0
     },
     {
       "title": "ATP Final: Madrid",
@@ -3172,7 +3183,7 @@
       "channel": "sky.tennis.uk",
       "premiere": false,
       "season": null,
-      "episode": 27
+      "episode": 27.0
     },
     {
       "title": "WTA Final: Indian Wells",
@@ -3183,7 +3194,7 @@
       "channel": "sky.tennis.uk",
       "premiere": false,
       "season": null,
-      "episode": 15
+      "episode": 15.0
     },
     {
       "title": "WTA Final: Miami",
@@ -3194,7 +3205,7 @@
       "channel": "sky.tennis.uk",
       "premiere": false,
       "season": null,
-      "episode": 17
+      "episode": 17.0
     },
     {
       "title": "ATP Final: Umag",
@@ -3205,29 +3216,29 @@
       "channel": "sky.tennis.uk",
       "premiere": false,
       "season": null,
-      "episode": 38
+      "episode": 38.0
     },
     {
-      "title": "WTA Final: Prague",
-      "description": "A women's singles champion is crowned in Prague.",
+      "title": "WTA Final: Washington",
+      "description": "Jessica Pegula targets a second Washington crown as the American takes on Filipino star Alex Eala, who is searching for a first career WTA title. (02.08)",
       "start": 1785906000,
       "stop": 1785909600,
-      "icon": "https://images.metadata.sky.com/pd-image/d6b3beb1-d728-415b-b412-540e67f770a7/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/a2638f95-26d5-49d4-9632-a4af06adc8b5/cover",
       "channel": "sky.tennis.uk",
       "premiere": false,
       "season": null,
-      "episode": 34
+      "episode": 36.0
     },
     {
-      "title": "ATP Final: Los Cabos",
-      "description": "A chance for defending champion Denis Shapovalov to go back to back in Los Cabos as the 27-year-old Canadian meets Frenchman Arthur Gea in the decider for the ATP 250 crown. (01.08)",
+      "title": "ATP Final: Washington",
+      "description": "Taylor Fritz prepares for his first Washington final appearance as the third seed plays rising star Rafael Jodar. Spain's Jodar features in his first ATP 500 title match. (02.08)",
       "start": 1785909600,
       "stop": 1785913200,
-      "icon": "https://images.metadata.sky.com/pd-image/aef28646-525d-4f9a-a071-c441786da91e/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/87812eef-6dd2-4431-93d1-44b9ea2c72e9/cover",
       "channel": "sky.tennis.uk",
       "premiere": false,
       "season": null,
-      "episode": 42
+      "episode": 41.0
     },
     {
       "title": "Tennis Highlights",
@@ -3238,7 +3249,7 @@
       "channel": "sky.tennis.uk",
       "premiere": false,
       "season": null,
-      "episode": 5
+      "episode": 5.0
     },
     {
       "title": "Tennis Highlights",
@@ -3249,7 +3260,7 @@
       "channel": "sky.tennis.uk",
       "premiere": false,
       "season": null,
-      "episode": 5
+      "episode": 5.0
     },
     {
       "title": "WTA Final: Washington",
@@ -3260,7 +3271,7 @@
       "channel": "sky.tennis.uk",
       "premiere": false,
       "season": null,
-      "episode": 36
+      "episode": 36.0
     },
     {
       "title": "ATP Washington 2026 Review",
@@ -3271,7 +3282,7 @@
       "channel": "sky.tennis.uk",
       "premiere": false,
       "season": null,
-      "episode": 10
+      "episode": 10.0
     },
     {
       "title": "Tennis Highlights",
@@ -3282,7 +3293,7 @@
       "channel": "sky.tennis.uk",
       "premiere": false,
       "season": null,
-      "episode": 5
+      "episode": 5.0
     },
     {
       "title": "Tennis Highlights",
@@ -3293,7 +3304,7 @@
       "channel": "sky.tennis.uk",
       "premiere": false,
       "season": null,
-      "episode": 5
+      "episode": 5.0
     },
     {
       "title": "Live: WTA Toronto/ATP Montreal",
@@ -3304,7 +3315,7 @@
       "channel": "sky.tennis.uk",
       "premiere": false,
       "season": null,
-      "episode": 7
+      "episode": 7.0
     }
   ],
   "sky.f1.uk": [
@@ -4433,7 +4444,7 @@
       "episode": 1
     },
     {
-      "title": "Solheim Cup Captain's Picks",
+      "title": "Live Solheim Cup Captain's Picks",
       "description": "Team Europe's Anna Nordqvist, a three-time Major champion, finalises her team for this September's Solheim Cup at Bernardus with four captain's picks.",
       "start": 1785765600,
       "stop": 1785769200,
@@ -5213,7 +5224,7 @@
       "channel": "sky.racing.uk",
       "premiere": false,
       "season": null,
-      "episode": 178.0
+      "episode": 178
     },
     {
       "title": "Australian Racing Live",
@@ -5224,7 +5235,7 @@
       "channel": "sky.racing.uk",
       "premiere": false,
       "season": null,
-      "episode": 219.0
+      "episode": 219
     },
     {
       "title": "Australian Racing Live",
@@ -5235,7 +5246,7 @@
       "channel": "sky.racing.uk",
       "premiere": false,
       "season": null,
-      "episode": 219.0
+      "episode": 219
     },
     {
       "title": "Sky Sports Breakfast",
@@ -5246,7 +5257,7 @@
       "channel": "sky.racing.uk",
       "premiere": false,
       "season": null,
-      "episode": 3.0
+      "episode": 3
     },
     {
       "title": "The Enduring Race",
@@ -5257,7 +5268,7 @@
       "channel": "sky.racing.uk",
       "premiere": false,
       "season": null,
-      "episode": 132.0
+      "episode": 132
     },
     {
       "title": "Eddie Greatrex: Comeback Kid",
@@ -5268,7 +5279,7 @@
       "channel": "sky.racing.uk",
       "premiere": false,
       "season": null,
-      "episode": 25.0
+      "episode": 25
     },
     {
       "title": "International Raceday Live",
@@ -5279,7 +5290,7 @@
       "channel": "sky.racing.uk",
       "premiere": false,
       "season": null,
-      "episode": 226.0
+      "episode": 226
     },
     {
       "title": "Raceday Live",
@@ -5290,7 +5301,7 @@
       "channel": "sky.racing.uk",
       "premiere": false,
       "season": null,
-      "episode": 803.0
+      "episode": 803
     },
     {
       "title": "Monday Night Racing",
@@ -5301,7 +5312,7 @@
       "channel": "sky.racing.uk",
       "premiere": false,
       "season": null,
-      "episode": 832.0
+      "episode": 832
     },
     {
       "title": "Stateside Live",
@@ -5312,7 +5323,7 @@
       "channel": "sky.racing.uk",
       "premiere": false,
       "season": null,
-      "episode": 213.0
+      "episode": 213
     },
     {
       "title": "Eddie Greatrex: Comeback Kid",
@@ -5323,7 +5334,7 @@
       "channel": "sky.racing.uk",
       "premiere": false,
       "season": null,
-      "episode": 25.0
+      "episode": 25
     },
     {
       "title": "The Enduring Race",
@@ -5334,7 +5345,7 @@
       "channel": "sky.racing.uk",
       "premiere": false,
       "season": null,
-      "episode": 132.0
+      "episode": 132
     },
     {
       "title": "Sky Sports News",
@@ -5345,7 +5356,7 @@
       "channel": "sky.racing.uk",
       "premiere": false,
       "season": null,
-      "episode": 155.0
+      "episode": 155
     },
     {
       "title": "Australian Racing Live",
@@ -5356,7 +5367,7 @@
       "channel": "sky.racing.uk",
       "premiere": false,
       "season": null,
-      "episode": 221.0
+      "episode": 221
     },
     {
       "title": "Australian Racing Live",
@@ -5367,7 +5378,7 @@
       "channel": "sky.racing.uk",
       "premiere": false,
       "season": null,
-      "episode": 221.0
+      "episode": 221
     },
     {
       "title": "Sky Sports Breakfast",
@@ -5378,7 +5389,7 @@
       "channel": "sky.racing.uk",
       "premiere": false,
       "season": null,
-      "episode": 4.0
+      "episode": 4
     },
     {
       "title": "The Enduring Race",
@@ -5389,7 +5400,7 @@
       "channel": "sky.racing.uk",
       "premiere": false,
       "season": null,
-      "episode": 132.0
+      "episode": 132
     },
     {
       "title": "Eddie Greatrex: Comeback Kid",
@@ -5400,7 +5411,7 @@
       "channel": "sky.racing.uk",
       "premiere": false,
       "season": null,
-      "episode": 25.0
+      "episode": 25
     },
     {
       "title": "International Raceday Live",
@@ -5411,7 +5422,7 @@
       "channel": "sky.racing.uk",
       "premiere": false,
       "season": null,
-      "episode": 227.0
+      "episode": 227
     },
     {
       "title": "Raceday Live",
@@ -5422,7 +5433,7 @@
       "channel": "sky.racing.uk",
       "premiere": false,
       "season": null,
-      "episode": 804.0
+      "episode": 804
     },
     {
       "title": "Stateside Live",
@@ -5433,7 +5444,7 @@
       "channel": "sky.racing.uk",
       "premiere": false,
       "season": null,
-      "episode": 214.0
+      "episode": 214
     },
     {
       "title": "Eddie Greatrex: Comeback Kid",
@@ -5444,7 +5455,7 @@
       "channel": "sky.racing.uk",
       "premiere": false,
       "season": null,
-      "episode": 25.0
+      "episode": 25
     },
     {
       "title": "The Enduring Race",
@@ -5455,7 +5466,7 @@
       "channel": "sky.racing.uk",
       "premiere": false,
       "season": null,
-      "episode": 132.0
+      "episode": 132
     },
     {
       "title": "Sky Sports News",
@@ -5466,7 +5477,7 @@
       "channel": "sky.racing.uk",
       "premiere": false,
       "season": null,
-      "episode": 156.0
+      "episode": 156
     },
     {
       "title": "Australian Racing Live",
@@ -5477,7 +5488,7 @@
       "channel": "sky.racing.uk",
       "premiere": false,
       "season": null,
-      "episode": 222.0
+      "episode": 222
     },
     {
       "title": "Australian Racing Live",
@@ -5488,7 +5499,7 @@
       "channel": "sky.racing.uk",
       "premiere": false,
       "season": null,
-      "episode": 222.0
+      "episode": 222
     },
     {
       "title": "Sky Sports Breakfast",
@@ -5499,7 +5510,7 @@
       "channel": "sky.racing.uk",
       "premiere": false,
       "season": null,
-      "episode": 5.0
+      "episode": 5
     },
     {
       "title": "The Enduring Race",
@@ -5510,18 +5521,18 @@
       "channel": "sky.racing.uk",
       "premiere": false,
       "season": null,
-      "episode": 132.0
+      "episode": 132
     },
     {
       "title": "International Raceday Live",
       "description": "Live French racing from Teste Buch and greyhounds from Monmore. We look ahead to Day 1 of the Brighton Festival.",
-      "start": 1785923100,
+      "start": 1785921300,
       "stop": 1785934800,
       "icon": "https://images.metadata.sky.com/pd-image/c64e50d2-abb0-4c86-b464-d54d0312eb8e/cover",
       "channel": "sky.racing.uk",
       "premiere": false,
       "season": null,
-      "episode": 228.0
+      "episode": 228
     },
     {
       "title": "Raceday Live",
@@ -5532,29 +5543,18 @@
       "channel": "sky.racing.uk",
       "premiere": false,
       "season": null,
-      "episode": 805.0
+      "episode": 805
     },
     {
       "title": "Stateside Live",
       "description": "Live US racing from Thistledown, Finger Lakes, Horseshoe Indianapolis, Saratoga and Presque Isle Downs.",
       "start": 1785960000,
-      "stop": 1785965400,
+      "stop": 1785967200,
       "icon": "https://images.metadata.sky.com/pd-image/b09818c9-69cb-423d-9f7f-44206e554e9e/cover",
       "channel": "sky.racing.uk",
       "premiere": false,
       "season": null,
-      "episode": 215.0
-    },
-    {
-      "title": "Lilly Pinchin: I Love What I Do",
-      "description": "There's a lot more than meets the eye with up-and-coming jump jockey Lilly Pinchin, who talks through her life in and out of the saddle.",
-      "start": 1785965400,
-      "stop": 1785967200,
-      "icon": "https://images.metadata.sky.com/pd-image/2f9b92e5-3299-4552-b4c6-ff4b2945fdcb/cover",
-      "channel": "sky.racing.uk",
-      "premiere": false,
-      "season": null,
-      "episode": null
+      "episode": 215
     },
     {
       "title": "Sky Sports News",
@@ -5565,7 +5565,7 @@
       "channel": "sky.racing.uk",
       "premiere": false,
       "season": null,
-      "episode": 157.0
+      "episode": 157
     }
   ],
   "sky.mix.uk": [
@@ -6087,26 +6087,26 @@
       "episode": 3
     },
     {
-      "title": "ATP Final: Hong Kong",
-      "description": "Chasing his first title since the two he won back in 2022, the top-five-bound Italian Lorenzo Musetti battles Hong Kong second seed Alexander Bublik. (11.01)",
+      "title": "ATP Final: Los Cabos",
+      "description": "A chance for defending champion Denis Shapovalov to go back to back in Los Cabos as the 27-year-old Canadian meets Frenchman Arthur Gea in the decider for the ATP 250 crown. (01.08)",
       "start": 1785826800,
       "stop": 1785830400,
-      "icon": "https://images.metadata.sky.com/pd-image/d2521e08-6e6e-4eb1-86d3-f5e232c8861e/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/aef28646-525d-4f9a-a071-c441786da91e/cover",
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 2
+      "episode": 42
     },
     {
-      "title": "US Women's Open Golf",
-      "description": "The second day of the 2026 US Women's Open at the Riviera Country Club. Last year, Sweden's Maja Stark ended a 19-year wait for a European winner of the Harton S Semple trophy. (05.06)",
+      "title": "WTA Final: Memphis",
+      "description": "Teenager Kristina Liutova bids to cap her breakthrough run in Memphis with a WTA title on debut as the 16-year-old plays fellow first-time finalist Darja Vidmanova. (02.08)",
       "start": 1785830400,
       "stop": 1785834000,
-      "icon": "https://images.metadata.sky.com/pd-image/0c974042-17f5-4610-92f7-8ba94c4c8e80/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/b264b2ef-06bf-4eb6-81b6-c8dd5e5d6655/cover",
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": null,
-      "episode": 2
+      "episode": 37
     },
     {
       "title": "PGA Tour Golf Highlights",
@@ -6179,11 +6179,11 @@
       "description": "One of the NFL's most dominant teams in 2023, the San Francisco 49ers battle the New York Jets in week one of the NFL. 40-year-old quarterback Aaron Rodgers returns for the Jets. (09.09)",
       "start": 1785844800,
       "stop": 1785848400,
-      "icon": "https://images.metadata.sky.com/pd-image/afe3b482-e71d-30df-9695-5d771fe52770/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/8c5affde-70dc-3229-a025-1b906f851969/cover",
       "channel": "sky.mix.uk",
       "premiere": false,
       "season": 2024.0,
-      "episode": 158
+      "episode": 159
     },
     {
       "title": "My Icon: Jeanette Kwakye",
@@ -6220,7 +6220,7 @@
     },
     {
       "title": "Live: The Hundred",
-      "description": "Sunrisers Leeds face London Spirit in the Women's Hundred.",
+      "description": "SunRisers Leeds face London Spirit in the Women's Hundred. With just one win in four, Eliminator qualification looks out of reach for the SunRisers at this stage in the campaign.",
       "start": 1785851100,
       "stop": 1785862800,
       "icon": "https://images.metadata.sky.com/pd-image/70be5992-8d56-4d48-83cf-25b7c880612e/cover",
@@ -6231,7 +6231,7 @@
     },
     {
       "title": "Live: The Hundred",
-      "description": "Sunrisers Leeds face London Spirit in the Men's Hundred.",
+      "description": "SunRisers Leeds face London Spirit in the Men's Hundred. With eight points from four matches, Leeds are firmly in the mix for the knockout stages.",
       "start": 1785862800,
       "stop": 1785875400,
       "icon": "https://images.metadata.sky.com/pd-image/55ce49ed-f8a1-43c0-b0bb-b56394e9eb4e/cover",
@@ -6937,7 +6937,7 @@
     },
     {
       "title": "Live: The Hundred",
-      "description": "Welsh Fire play Southern Brave in the Women's Hundred.",
+      "description": "The Women's Hundred table toppers Southern Brave go again as Lauren Bell and co face Welsh Fire at Sophia Gardens in Cardiff. Brave look to maintain their perfect record so far.",
       "start": 1785764700,
       "stop": 1785776400,
       "icon": "https://images.metadata.sky.com/pd-image/eac3161f-9895-4125-bfa0-003ecb38dcb4/cover",
@@ -6948,7 +6948,7 @@
     },
     {
       "title": "Live: The Hundred",
-      "description": "Welsh Fire face Southern Brave in the Men's Hundred.",
+      "description": "Welsh Fire, coming from victory over Birmingham, host Southern Brave. Newly reappointed England Test captain Joe Root starred for Fire on Saturday, hitting a match-winning 58 not out.",
       "start": 1785776400,
       "stop": 1785789000,
       "icon": "https://images.metadata.sky.com/pd-image/eaf77b94-65da-49ca-94a3-a88a799c32d2/cover",
@@ -6959,7 +6959,7 @@
     },
     {
       "title": "The Hundred Highlights",
-      "description": "Welsh Fire play Southern Brave in the Women's Hundred. (03.08)",
+      "description": "The Women's Hundred table toppers Southern Brave go again as Lauren Bell and co face Welsh Fire at Sophia Gardens in Cardiff. Brave look to maintain their perfect record so far. (03.08)",
       "start": 1785789000,
       "stop": 1785789900,
       "icon": "https://images.metadata.sky.com/pd-image/72818a43-18ef-40e3-9498-a2d46c7f7e57/cover",
@@ -6970,7 +6970,7 @@
     },
     {
       "title": "The Hundred Highlights",
-      "description": "Welsh Fire face Southern Brave in the Men's Hundred. (03.08)",
+      "description": "Welsh Fire, coming from victory over Phoenix, host Southern Brave. Newly reappointed England Test captain Joe Root starred for Fire on Saturday, hitting a match-winning 58 not out. (03.08)",
       "start": 1785789900,
       "stop": 1785790800,
       "icon": "https://images.metadata.sky.com/pd-image/f5605944-51bc-4784-80cc-58986733534d/cover",
@@ -6981,7 +6981,7 @@
     },
     {
       "title": "The Hundred",
-      "description": "Welsh Fire face Southern Brave in the Men's Hundred.",
+      "description": "Welsh Fire, coming from victory over Birmingham, host Southern Brave. Newly reappointed England Test captain Joe Root starred for Fire on Saturday, hitting a match-winning 58 not out.",
       "start": 1785790800,
       "stop": 1785803400,
       "icon": "https://images.metadata.sky.com/pd-image/eaf77b94-65da-49ca-94a3-a88a799c32d2/cover",
@@ -6992,7 +6992,7 @@
     },
     {
       "title": "The Hundred Highlights",
-      "description": "Welsh Fire play Southern Brave in the Women's Hundred. (03.08)",
+      "description": "The Women's Hundred table toppers Southern Brave go again as Lauren Bell and co face Welsh Fire at Sophia Gardens in Cardiff. Brave look to maintain their perfect record so far. (03.08)",
       "start": 1785803400,
       "stop": 1785804300,
       "icon": "https://images.metadata.sky.com/pd-image/72818a43-18ef-40e3-9498-a2d46c7f7e57/cover",
@@ -7003,7 +7003,7 @@
     },
     {
       "title": "The Hundred Highlights",
-      "description": "Welsh Fire face Southern Brave in the Men's Hundred. (03.08)",
+      "description": "Welsh Fire, coming from victory over Phoenix, host Southern Brave. Newly reappointed England Test captain Joe Root starred for Fire on Saturday, hitting a match-winning 58 not out. (03.08)",
       "start": 1785804300,
       "stop": 1785805200,
       "icon": "https://images.metadata.sky.com/pd-image/f5605944-51bc-4784-80cc-58986733534d/cover",
@@ -7014,7 +7014,7 @@
     },
     {
       "title": "The Hundred",
-      "description": "Welsh Fire play Southern Brave in the Women's Hundred.",
+      "description": "The Women's Hundred table toppers Southern Brave go again as Lauren Bell and co face Welsh Fire at Sophia Gardens in Cardiff. Brave look to maintain their perfect record so far.",
       "start": 1785805200,
       "stop": 1785816900,
       "icon": "https://images.metadata.sky.com/pd-image/eac3161f-9895-4125-bfa0-003ecb38dcb4/cover",
@@ -7058,7 +7058,7 @@
     },
     {
       "title": "The Hundred",
-      "description": "Welsh Fire play Southern Brave in the Women's Hundred.",
+      "description": "The Women's Hundred table toppers Southern Brave go again as Lauren Bell and co face Welsh Fire at Sophia Gardens in Cardiff. Brave look to maintain their perfect record so far.",
       "start": 1785819600,
       "stop": 1785831300,
       "icon": "https://images.metadata.sky.com/pd-image/eac3161f-9895-4125-bfa0-003ecb38dcb4/cover",
@@ -7179,7 +7179,7 @@
     },
     {
       "title": "The Hundred Highlights",
-      "description": "Welsh Fire play Southern Brave in the Women's Hundred. (03.08)",
+      "description": "The Women's Hundred table toppers Southern Brave go again as Lauren Bell and co face Welsh Fire at Sophia Gardens in Cardiff. Brave look to maintain their perfect record so far. (03.08)",
       "start": 1785841200,
       "stop": 1785842100,
       "icon": "https://images.metadata.sky.com/pd-image/72818a43-18ef-40e3-9498-a2d46c7f7e57/cover",
@@ -7190,7 +7190,7 @@
     },
     {
       "title": "The Hundred Highlights",
-      "description": "Welsh Fire face Southern Brave in the Men's Hundred. (03.08)",
+      "description": "Welsh Fire, coming from victory over Phoenix, host Southern Brave. Newly reappointed England Test captain Joe Root starred for Fire on Saturday, hitting a match-winning 58 not out. (03.08)",
       "start": 1785842100,
       "stop": 1785843000,
       "icon": "https://images.metadata.sky.com/pd-image/f5605944-51bc-4784-80cc-58986733534d/cover",
@@ -7278,7 +7278,7 @@
     },
     {
       "title": "The Hundred Highlights",
-      "description": "Welsh Fire play Southern Brave in the Women's Hundred. (03.08)",
+      "description": "The Women's Hundred table toppers Southern Brave go again as Lauren Bell and co face Welsh Fire at Sophia Gardens in Cardiff. Brave look to maintain their perfect record so far. (03.08)",
       "start": 1785849300,
       "stop": 1785850200,
       "icon": "https://images.metadata.sky.com/pd-image/72818a43-18ef-40e3-9498-a2d46c7f7e57/cover",
@@ -7289,7 +7289,7 @@
     },
     {
       "title": "The Hundred Highlights",
-      "description": "Welsh Fire face Southern Brave in the Men's Hundred. (03.08)",
+      "description": "Welsh Fire, coming from victory over Phoenix, host Southern Brave. Newly reappointed England Test captain Joe Root starred for Fire on Saturday, hitting a match-winning 58 not out. (03.08)",
       "start": 1785850200,
       "stop": 1785851100,
       "icon": "https://images.metadata.sky.com/pd-image/f5605944-51bc-4784-80cc-58986733534d/cover",
@@ -7300,7 +7300,7 @@
     },
     {
       "title": "Live: The Hundred",
-      "description": "Sunrisers Leeds face London Spirit in the Women's Hundred.",
+      "description": "SunRisers Leeds face London Spirit in the Women's Hundred. With just one win in four, Eliminator qualification looks out of reach for the SunRisers at this stage in the campaign.",
       "start": 1785851100,
       "stop": 1785862800,
       "icon": "https://images.metadata.sky.com/pd-image/70be5992-8d56-4d48-83cf-25b7c880612e/cover",
@@ -7311,7 +7311,7 @@
     },
     {
       "title": "Live: The Hundred",
-      "description": "Sunrisers Leeds face London Spirit in the Men's Hundred.",
+      "description": "SunRisers Leeds face London Spirit in the Men's Hundred. With eight points from four matches, Leeds are firmly in the mix for the knockout stages.",
       "start": 1785862800,
       "stop": 1785875400,
       "icon": "https://images.metadata.sky.com/pd-image/55ce49ed-f8a1-43c0-b0bb-b56394e9eb4e/cover",
@@ -7322,14 +7322,14 @@
     },
     {
       "title": "The Hundred Highlights",
-      "description": "Sunrisers Leeds face London Spirit in the Women's Hundred. (04.08)",
+      "description": "SunRisers Leeds face London Spirit in the Women's Hundred. With just one win in four, Eliminator qualification looks out of reach for the SunRisers at this stage in the campaign. (04.08)",
       "start": 1785875400,
       "stop": 1785876300,
       "icon": "https://images.metadata.sky.com/pd-image/e058c5ac-e3fe-45ab-a529-9ecbb22b4672/cover",
       "channel": "sky.cricket.uk",
       "premiere": false,
       "season": null,
-      "episode": 20
+      "episode": 38
     },
     {
       "title": "The Hundred Highlights",
@@ -7344,7 +7344,7 @@
     },
     {
       "title": "The Hundred",
-      "description": "Sunrisers Leeds face London Spirit in the Men's Hundred.",
+      "description": "SunRisers Leeds face London Spirit in the Men's Hundred. With eight points from four matches, Leeds are firmly in the mix for the knockout stages.",
       "start": 1785877200,
       "stop": 1785889800,
       "icon": "https://images.metadata.sky.com/pd-image/55ce49ed-f8a1-43c0-b0bb-b56394e9eb4e/cover",
@@ -7355,14 +7355,14 @@
     },
     {
       "title": "The Hundred Highlights",
-      "description": "Sunrisers Leeds face London Spirit in the Women's Hundred. (04.08)",
+      "description": "SunRisers Leeds face London Spirit in the Women's Hundred. With just one win in four, Eliminator qualification looks out of reach for the SunRisers at this stage in the campaign. (04.08)",
       "start": 1785889800,
       "stop": 1785890700,
       "icon": "https://images.metadata.sky.com/pd-image/e058c5ac-e3fe-45ab-a529-9ecbb22b4672/cover",
       "channel": "sky.cricket.uk",
       "premiere": false,
       "season": null,
-      "episode": 20
+      "episode": 38
     },
     {
       "title": "The Hundred Highlights",
@@ -7377,7 +7377,7 @@
     },
     {
       "title": "The Hundred",
-      "description": "Sunrisers Leeds face London Spirit in the Women's Hundred.",
+      "description": "SunRisers Leeds face London Spirit in the Women's Hundred. With just one win in four, Eliminator qualification looks out of reach for the SunRisers at this stage in the campaign.",
       "start": 1785891600,
       "stop": 1785903300,
       "icon": "https://images.metadata.sky.com/pd-image/70be5992-8d56-4d48-83cf-25b7c880612e/cover",
@@ -7421,7 +7421,7 @@
     },
     {
       "title": "The Hundred",
-      "description": "Sunrisers Leeds face London Spirit in the Women's Hundred.",
+      "description": "SunRisers Leeds face London Spirit in the Women's Hundred. With just one win in four, Eliminator qualification looks out of reach for the SunRisers at this stage in the campaign.",
       "start": 1785906000,
       "stop": 1785917700,
       "icon": "https://images.metadata.sky.com/pd-image/70be5992-8d56-4d48-83cf-25b7c880612e/cover",
@@ -7432,7 +7432,7 @@
     },
     {
       "title": "The Hundred Highlights",
-      "description": "Welsh Fire play Southern Brave in the Women's Hundred. (03.08)",
+      "description": "The Women's Hundred table toppers Southern Brave go again as Lauren Bell and co face Welsh Fire at Sophia Gardens in Cardiff. Brave look to maintain their perfect record so far. (03.08)",
       "start": 1785917700,
       "stop": 1785918600,
       "icon": "https://images.metadata.sky.com/pd-image/72818a43-18ef-40e3-9498-a2d46c7f7e57/cover",
@@ -7443,7 +7443,7 @@
     },
     {
       "title": "The Hundred Highlights",
-      "description": "Welsh Fire face Southern Brave in the Men's Hundred. (03.08)",
+      "description": "Welsh Fire, coming from victory over Phoenix, host Southern Brave. Newly reappointed England Test captain Joe Root starred for Fire on Saturday, hitting a match-winning 58 not out. (03.08)",
       "start": 1785918600,
       "stop": 1785919500,
       "icon": "https://images.metadata.sky.com/pd-image/f5605944-51bc-4784-80cc-58986733534d/cover",
@@ -7454,7 +7454,7 @@
     },
     {
       "title": "The Hundred Highlights",
-      "description": "Welsh Fire play Southern Brave in the Women's Hundred. (03.08)",
+      "description": "The Women's Hundred table toppers Southern Brave go again as Lauren Bell and co face Welsh Fire at Sophia Gardens in Cardiff. Brave look to maintain their perfect record so far. (03.08)",
       "start": 1785919500,
       "stop": 1785920400,
       "icon": "https://images.metadata.sky.com/pd-image/72818a43-18ef-40e3-9498-a2d46c7f7e57/cover",
@@ -7465,7 +7465,7 @@
     },
     {
       "title": "The Hundred Highlights",
-      "description": "Welsh Fire face Southern Brave in the Men's Hundred. (03.08)",
+      "description": "Welsh Fire, coming from victory over Phoenix, host Southern Brave. Newly reappointed England Test captain Joe Root starred for Fire on Saturday, hitting a match-winning 58 not out. (03.08)",
       "start": 1785920400,
       "stop": 1785921300,
       "icon": "https://images.metadata.sky.com/pd-image/f5605944-51bc-4784-80cc-58986733534d/cover",
@@ -7498,14 +7498,14 @@
     },
     {
       "title": "The Hundred Highlights",
-      "description": "Sunrisers Leeds face London Spirit in the Women's Hundred. (04.08)",
+      "description": "SunRisers Leeds face London Spirit in the Women's Hundred. With just one win in four, Eliminator qualification looks out of reach for the SunRisers at this stage in the campaign. (04.08)",
       "start": 1785923100,
       "stop": 1785924000,
       "icon": "https://images.metadata.sky.com/pd-image/e058c5ac-e3fe-45ab-a529-9ecbb22b4672/cover",
       "channel": "sky.cricket.uk",
       "premiere": false,
       "season": null,
-      "episode": 20
+      "episode": 38
     },
     {
       "title": "The Hundred Highlights",
@@ -7593,7 +7593,7 @@
       "channel": "sky.cricket.uk",
       "premiere": false,
       "season": null,
-      "episode": 22
+      "episode": 41
     },
     {
       "title": "The Hundred",
@@ -7962,7 +7962,7 @@
     },
     {
       "title": "Live MLB: Giants @ Rangers",
-      "description": "Action from Major League Baseball as San Francisco Giants face Texas Rangers.",
+      "description": "Action from Major League Baseball as San Francisco Giants face Texas Rangers in the opening game of this series at Globe Life Field.",
       "start": 1785801600,
       "stop": 1785812400,
       "icon": "https://images.metadata.sky.com/pd-image/172f2a84-35e7-4b9d-8ed6-36aba5ece3ee/cover",
@@ -8050,7 +8050,7 @@
     },
     {
       "title": "2nd Test: WI v PAK - Day 2",
-      "description": "Action from day two of the second Test between West Indies and Pakistan at Queen's Park Oval in Port of Spain, Trinidad and Tobago.",
+      "description": "Action from day two of the second Test between West Indies and Pakistan at Queen's Park Oval in Port of Spain, Trinidad and Tobago. The hosts will resume on 239 for five.",
       "start": 1785830400,
       "stop": 1785834000,
       "icon": "https://images.metadata.sky.com/pd-image/d0b11e89-5eed-4a7b-9949-7959faaf74a4/cover",
@@ -8127,7 +8127,7 @@
     },
     {
       "title": "The Gruppetto",
-      "description": "Hosted by Rob Hatch, The Gruppetto brings you everything you need to stay up to speed with the world of cycling, from in-depth race reviews to the latest news from the peloton.",
+      "description": "Rob Hatch brings you all the key news and reaction from the peloton as the Tour de France Femmes avec Zwift kicked off in Lausanne and Remco Evenepoel returned to the DSSK.",
       "start": 1785861900,
       "stop": 1785862800,
       "icon": "https://images.metadata.sky.com/pd-image/003d0a13-743c-4053-be0e-e1284e0510e0/cover",
@@ -8402,7 +8402,7 @@
     },
     {
       "title": "The Gruppetto",
-      "description": "Hosted by Rob Hatch, The Gruppetto brings you everything you need to stay up to speed with the world of cycling, from in-depth race reviews to the latest news from the peloton.",
+      "description": "Rob Hatch brings you all the key news and reaction from the peloton as the Tour de France Femmes avec Zwift kicked off in Lausanne and Remco Evenepoel returned to the DSSK.",
       "start": 1785924900,
       "stop": 1785925800,
       "icon": "https://images.metadata.sky.com/pd-image/003d0a13-743c-4053-be0e-e1284e0510e0/cover",
@@ -8510,7 +8510,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Glasgow 2026 Commonwealth Games",
@@ -8521,7 +8521,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Glasgow 2026 Commonwealth Games",
@@ -8532,7 +8532,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Commonwealth Games - Netball",
@@ -8543,7 +8543,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Commonwealth Games Highlights",
@@ -8554,7 +8554,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Commonwealth Games - Netball",
@@ -8565,7 +8565,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Commonwealth Games A-Z",
@@ -8576,7 +8576,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Commonwealth Games Highlights",
@@ -8587,128 +8587,117 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Commonwealth Games - Netball",
-      "description": "Netball action from the gold medal match at The Hydro.",
+      "description": "Netball action from the gold medal match between Jamaica and New Zealand at The Hydro.",
       "start": 1785736800,
       "stop": 1785740400,
       "icon": "https://images.metadata.sky.com/pd-image/797ad1ae-3d21-46f3-8151-077d4a812937/cover",
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Glasgow 2026 Commonwealth Games",
-      "description": "Coverage of the Track Cycling and Para Track Cycling at the Glasgow 2026 Commonwealth Games.",
+      "description": "Action from the penultimate session of the Track Cycling and Para Track Cycling, featuring the Men's 1000m Time Trial and Women's Keirin.",
       "start": 1785740400,
       "stop": 1785744000,
       "icon": "https://images.metadata.sky.com/pd-image/1bfdf9d4-9511-4585-b812-d8292caf5fdd/cover",
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Glasgow 2026 Commonwealth Games",
-      "description": "Coverage of the Track Cycling and Para Track Cycling at the Glasgow 2026 Commonwealth Games.",
+      "description": "Action from the final session of the Track Cycling and Para Track Cycling, featuring the Men's 40km Point Race, Women's Keirin, Women's C4-5 1000m Time Trial, and more.",
       "start": 1785744000,
       "stop": 1785747600,
       "icon": "https://images.metadata.sky.com/pd-image/ddc8f063-48e0-4676-b9eb-a4fd47577c68/cover",
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
-    },
-    {
-      "title": "UEC Mountain Bike European Champ",
-      "description": "Action from the women's elite XCO, part of the 2026 UEC Mountain Bike European Championship in Monteceneri, Switzerland.",
-      "start": 1785747600,
-      "stop": 1785749400,
-      "icon": "https://images.metadata.sky.com/pd-image/b6d80da0-01f8-4988-9cac-88c84b0ac3f1/cover",
-      "channel": "tnt2",
-      "premiere": false,
-      "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "UEC Mountain Bike European Champ",
       "description": "Action from the men's elite XCO, part of the 2026 UEC Mountain Bike European Championship in Monteceneri, Switzerland.",
-      "start": 1785749400,
-      "stop": 1785751200,
-      "icon": "https://images.metadata.sky.com/pd-image/b6d80da0-01f8-4988-9cac-88c84b0ac3f1/cover",
+      "start": 1785747600,
+      "stop": 1785749400,
+      "icon": "https://images.metadata.sky.com/pd-image/b8135042-7360-42f3-8a5e-a859c549b7f5/cover",
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": null
     },
     {
       "title": "British Superbikes",
       "description": "Action from round six and race one of the 2026 British Superbike Championship at Oulton Park Circuit in Cheshire.",
-      "start": 1785751200,
-      "stop": 1785753000,
-      "icon": "https://images.metadata.sky.com/pd-image/7df3d35b-07a8-4298-acf3-7bb4f9aae666/cover",
+      "start": 1785749400,
+      "stop": 1785751200,
+      "icon": "https://images.metadata.sky.com/pd-image/0844acbe-9e02-4233-8f6b-4207ac9fd761/cover",
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": null
     },
     {
       "title": "British Superbikes",
       "description": "Action from round six and race two of the 2026 British Superbike Championship at Oulton Park Circuit in Cheshire.",
-      "start": 1785753000,
-      "stop": 1785754800,
-      "icon": "https://images.metadata.sky.com/pd-image/bac6a4d0-cde4-473d-bfac-b91cd5e78427/cover",
+      "start": 1785751200,
+      "stop": 1785753000,
+      "icon": "https://images.metadata.sky.com/pd-image/d863f6f7-8474-4694-b14f-c1e03d9a0568/cover",
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "British Superbikes",
       "description": "Action from round six and race three of the 2026 British Superbike Championship at Oulton Park Circuit in Cheshire.",
-      "start": 1785754800,
-      "stop": 1785756600,
-      "icon": "https://images.metadata.sky.com/pd-image/bac6a4d0-cde4-473d-bfac-b91cd5e78427/cover",
+      "start": 1785753000,
+      "stop": 1785754800,
+      "icon": "https://images.metadata.sky.com/pd-image/7df3d35b-07a8-4298-acf3-7bb4f9aae666/cover",
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "MLB Highlights",
       "description": "Highlights from Major League Baseball. (02.08)",
-      "start": 1785756600,
-      "stop": 1785760200,
+      "start": 1785754800,
+      "stop": 1785758400,
       "icon": "https://images.metadata.sky.com/pd-image/71372e28-fb7d-446e-aed7-5980af48a0f6/cover",
       "channel": "tnt2",
       "premiere": false,
       "season": 2026.0,
-      "episode": 129
+      "episode": 129.0
     },
     {
       "title": "2nd Test: WI v PAK - Day 1",
       "description": "Action from day one of the second Test between West Indies and Pakistan at Queen's Park Oval, as the hosts look to build on their victory in the series opener.",
-      "start": 1785760200,
-      "stop": 1785763800,
+      "start": 1785758400,
+      "stop": 1785762000,
       "icon": "https://images.metadata.sky.com/pd-image/f0364297-be98-48fe-a134-edcaa8c3fe37/cover",
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Live 2nd Test: WI v PAK - Day 2",
-      "description": "Action from day two of the second Test between West Indies and Pakistan at Queen's Park Oval in Port of Spain, Trinidad and Tobago.",
-      "start": 1785763800,
+      "description": "Action from day two of the second Test between West Indies and Pakistan at Queen's Park Oval in Port of Spain, Trinidad and Tobago. The hosts will resume on 239 for five.",
+      "start": 1785762000,
       "stop": 1785794400,
-      "icon": "https://images.metadata.sky.com/pd-image/984b3499-3692-415b-8d69-ae88cbf08378/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/f0364297-be98-48fe-a134-edcaa8c3fe37/cover",
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "TNT Sports Cricket Reload",
@@ -8719,7 +8708,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 25.0,
-      "episode": 182
+      "episode": 182.0
     },
     {
       "title": "TNT Sports Cricket Reload",
@@ -8730,7 +8719,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 25.0,
-      "episode": 180
+      "episode": 180.0
     },
     {
       "title": "TNT Sports Cricket Reload",
@@ -8741,7 +8730,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 25.0,
-      "episode": 181
+      "episode": 181.0
     },
     {
       "title": "TNT Sports Cricket Reload",
@@ -8752,7 +8741,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 25.0,
-      "episode": 177
+      "episode": 177.0
     },
     {
       "title": "World Series of Poker 2026",
@@ -8763,7 +8752,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 2026.0,
-      "episode": 21
+      "episode": 21.0
     },
     {
       "title": "World Series of Poker 2026",
@@ -8774,18 +8763,18 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 2026.0,
-      "episode": 24
+      "episode": 24.0
     },
     {
       "title": "Live: World Series of Poker",
-      "description": "Coverage of the World Series of Poker.",
+      "description": "Action from the World Series of Poker Main Event Final Table as the remaining nine players, including Lucas Jumalon and Rami Hammoud, battle for a place in the final six.",
       "start": 1785805200,
       "stop": 1785816000,
       "icon": "https://images.metadata.sky.com/pd-image/3335b92d-f265-4dda-a70d-c1b16ad1d37c/cover",
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "UEC Mountain Bike European Champ",
@@ -8796,7 +8785,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "UEC Mountain Bike European Champ",
@@ -8807,7 +8796,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "MotoGP Classics: Donington 1992",
@@ -8818,7 +8807,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "MotoGP Classics: Donington 1993",
@@ -8829,7 +8818,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "MotoGP Classics: Donington 1994",
@@ -8840,7 +8829,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "British Superbikes Highlights",
@@ -8851,7 +8840,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "MX2: Flanders - Race 1",
@@ -8862,7 +8851,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 2026.0,
-      "episode": 133
+      "episode": 133.0
     },
     {
       "title": "MXGP: Flanders - Race 1",
@@ -8873,7 +8862,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 2026.0,
-      "episode": 134
+      "episode": 134.0
     },
     {
       "title": "MX2: Flanders - Race 2",
@@ -8884,7 +8873,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 2026.0,
-      "episode": 135
+      "episode": 135.0
     },
     {
       "title": "MXGP: Flanders - Race 2",
@@ -8895,29 +8884,29 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 2026.0,
-      "episode": 136
+      "episode": 136.0
     },
     {
       "title": "eSports Show",
-      "description": "Coverage of the latest news and events from the world of eSports.",
+      "description": "We look ahead to the 2026 Esports World Cup, as the world's top gamers descend on Paris, France, for over a month of intense competition.",
       "start": 1785844800,
       "stop": 1785846600,
       "icon": "https://images.metadata.sky.com/pd-image/260c9cc0-46e0-4ee5-830b-29e2e145b5d8/cover",
       "channel": "tnt2",
       "premiere": false,
       "season": 26.0,
-      "episode": 1
+      "episode": 1.0
     },
     {
       "title": "2nd Test: WI v PAK - Day 2",
-      "description": "Action from day two of the second Test between West Indies and Pakistan at Queen's Park Oval in Port of Spain, Trinidad and Tobago.",
+      "description": "Action from day two of the second Test between West Indies and Pakistan at Queen's Park Oval in Port of Spain, Trinidad and Tobago. The hosts will resume on 239 for five.",
       "start": 1785846600,
       "stop": 1785850200,
       "icon": "https://images.metadata.sky.com/pd-image/d0b11e89-5eed-4a7b-9949-7959faaf74a4/cover",
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Live 2nd Test: WI v PAK - Day 3",
@@ -8928,7 +8917,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "TNT Sports Cricket Reload",
@@ -8939,7 +8928,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 25.0,
-      "episode": 183
+      "episode": 183.0
     },
     {
       "title": "TNT Sports Cricket Reload",
@@ -8950,7 +8939,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 25.0,
-      "episode": 184
+      "episode": 184.0
     },
     {
       "title": "PL Stories: The Ipswich Way",
@@ -8961,7 +8950,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 6.0,
-      "episode": 10
+      "episode": 10.0
     },
     {
       "title": "Premier League Review: 2014/15",
@@ -8972,7 +8961,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Live: World Series of Poker",
@@ -8983,7 +8972,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Formula E Flashback - Season 1",
@@ -8994,7 +8983,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 1.0,
-      "episode": 5
+      "episode": 5.0
     },
     {
       "title": "Formula E Flashback - Season 1",
@@ -9005,7 +8994,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 1.0,
-      "episode": 6
+      "episode": 6.0
     },
     {
       "title": "MotoGP Classics: Donington 1997",
@@ -9016,7 +9005,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "MotoGP Classics: Donington 2000",
@@ -9027,7 +9016,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "MotoGP Classics: Donington 2009",
@@ -9038,7 +9027,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "MotoGP Classics: Silverstone 2013",
@@ -9049,7 +9038,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "MotoGP Classics: Silverstone 2014",
@@ -9060,7 +9049,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "TNT Sports Cricket Reload",
@@ -9071,7 +9060,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 25.0,
-      "episode": 180
+      "episode": 180.0
     },
     {
       "title": "TNT Sports Cricket Reload",
@@ -9082,7 +9071,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 25.0,
-      "episode": 181
+      "episode": 181.0
     },
     {
       "title": "West Indies - Test Match Cricket",
@@ -9093,7 +9082,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "2nd Test: WI v PAK - Day 3",
@@ -9104,7 +9093,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Live 2nd Test: WI v PAK - Day 4",
@@ -9115,7 +9104,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "TNT Sports Cricket Reload",
@@ -9126,7 +9115,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 25.0,
-      "episode": 182
+      "episode": 182.0
     },
     {
       "title": "TNT Sports Cricket Reload",
@@ -9137,7 +9126,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 25.0,
-      "episode": 190
+      "episode": 190.0
     },
     {
       "title": "TNT Sports Cricket Reload",
@@ -9148,7 +9137,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 25.0,
-      "episode": 191
+      "episode": 191.0
     },
     {
       "title": "TNT Sports Cricket Reload",
@@ -9159,7 +9148,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 25.0,
-      "episode": 192
+      "episode": 192.0
     }
   ],
   "tnt3": [
@@ -9363,7 +9352,7 @@
     },
     {
       "title": "eSports Show",
-      "description": "Coverage of the latest news and events from the world of eSports.",
+      "description": "We look ahead to the 2026 Esports World Cup, as the world's top gamers descend on Paris, France, for over a month of intense competition.",
       "start": 1785783600,
       "stop": 1785785400,
       "icon": "https://images.metadata.sky.com/pd-image/260c9cc0-46e0-4ee5-830b-29e2e145b5d8/cover",
@@ -9385,7 +9374,7 @@
     },
     {
       "title": "The Gruppetto",
-      "description": "Hosted by Rob Hatch, The Gruppetto brings you everything you need to stay up to speed with the world of cycling, from in-depth race reviews to the latest news from the peloton.",
+      "description": "Rob Hatch brings you all the key news and reaction from the peloton as the Tour de France Femmes avec Zwift kicked off in Lausanne and Remco Evenepoel returned to the DSSK.",
       "start": 1785786300,
       "stop": 1785787200,
       "icon": "https://images.metadata.sky.com/pd-image/003d0a13-743c-4053-be0e-e1284e0510e0/cover",
@@ -9561,7 +9550,7 @@
     },
     {
       "title": "The Gruppetto",
-      "description": "Hosted by Rob Hatch, The Gruppetto brings you everything you need to stay up to speed with the world of cycling, from in-depth race reviews to the latest news from the peloton.",
+      "description": "Rob Hatch brings you all the key news and reaction from the peloton as the Tour de France Femmes avec Zwift kicked off in Lausanne and Remco Evenepoel returned to the DSSK.",
       "start": 1785833100,
       "stop": 1785834000,
       "icon": "https://images.metadata.sky.com/pd-image/003d0a13-743c-4053-be0e-e1284e0510e0/cover",
@@ -9715,7 +9704,7 @@
     },
     {
       "title": "The Gruppetto",
-      "description": "Hosted by Rob Hatch, The Gruppetto brings you everything you need to stay up to speed with the world of cycling, from in-depth race reviews to the latest news from the peloton.",
+      "description": "Rob Hatch brings you all the key news and reaction from the peloton as the Tour de France Femmes avec Zwift kicked off in Lausanne and Remco Evenepoel returned to the DSSK.",
       "start": 1785884400,
       "stop": 1785885300,
       "icon": "https://images.metadata.sky.com/pd-image/003d0a13-743c-4053-be0e-e1284e0510e0/cover",
@@ -9737,7 +9726,7 @@
     },
     {
       "title": "eSports Show",
-      "description": "Coverage of the latest news and events from the world of eSports.",
+      "description": "We look ahead to the 2026 Esports World Cup, as the world's top gamers descend on Paris, France, for over a month of intense competition.",
       "start": 1785886200,
       "stop": 1785888000,
       "icon": "https://images.metadata.sky.com/pd-image/260c9cc0-46e0-4ee5-830b-29e2e145b5d8/cover",
@@ -9814,7 +9803,7 @@
     },
     {
       "title": "eSports Show",
-      "description": "Coverage of the latest news and events from the world of eSports.",
+      "description": "We look ahead to the 2026 Esports World Cup, as the world's top gamers descend on Paris, France, for over a month of intense competition.",
       "start": 1785909600,
       "stop": 1785911400,
       "icon": "https://images.metadata.sky.com/pd-image/260c9cc0-46e0-4ee5-830b-29e2e145b5d8/cover",
@@ -9968,7 +9957,7 @@
     },
     {
       "title": "The Gruppetto",
-      "description": "Hosted by Rob Hatch, The Gruppetto brings you everything you need to stay up to speed with the world of cycling, from in-depth race reviews to the latest news from the peloton.",
+      "description": "Rob Hatch brings you all the key news and reaction from the peloton as the Tour de France Femmes avec Zwift kicked off in Lausanne and Remco Evenepoel returned to the DSSK.",
       "start": 1785962700,
       "stop": 1785963600,
       "icon": "https://images.metadata.sky.com/pd-image/003d0a13-743c-4053-be0e-e1284e0510e0/cover",
@@ -10465,7 +10454,7 @@
     },
     {
       "title": "World Series of Poker 2026",
-      "description": "Coverage of the World Series of Poker.",
+      "description": "Action from the World Series of Poker Main Event Final Table as the remaining nine players, including Lucas Jumalon and Rami Hammoud, battle for a place in the final six.",
       "start": 1785879000,
       "stop": 1785886200,
       "icon": "https://images.metadata.sky.com/pd-image/b0eaf32a-3efb-4cd2-8b64-e8f904a4a1cf/cover",
@@ -20990,7 +20979,7 @@
       "channel": "BBCOneChannelIslands.uk",
       "premiere": false,
       "season": null,
-      "episode": 10.0
+      "episode": 9.0
     },
     {
       "title": "Animal Park",
@@ -21254,7 +21243,7 @@
       "channel": "BBCOneChannelIslands.uk",
       "premiere": false,
       "season": null,
-      "episode": 11.0
+      "episode": 10.0
     },
     {
       "title": "Animal Park",
@@ -21507,7 +21496,7 @@
       "channel": "BBCOneChannelIslands.uk",
       "premiere": false,
       "season": null,
-      "episode": 12.0
+      "episode": 11.0
     },
     {
       "title": "Animal Park",
@@ -21784,7 +21773,7 @@
       "channel": "BBCOneEast.uk",
       "premiere": false,
       "season": null,
-      "episode": 10.0
+      "episode": 9.0
     },
     {
       "title": "Animal Park",
@@ -22048,7 +22037,7 @@
       "channel": "BBCOneEast.uk",
       "premiere": false,
       "season": null,
-      "episode": 11.0
+      "episode": 10.0
     },
     {
       "title": "Animal Park",
@@ -22301,7 +22290,7 @@
       "channel": "BBCOneEast.uk",
       "premiere": false,
       "season": null,
-      "episode": 12.0
+      "episode": 11.0
     },
     {
       "title": "Animal Park",
@@ -22578,7 +22567,7 @@
       "channel": "BBCOneEastMidlands.uk",
       "premiere": false,
       "season": null,
-      "episode": 10.0
+      "episode": 9.0
     },
     {
       "title": "Animal Park",
@@ -22842,7 +22831,7 @@
       "channel": "BBCOneEastMidlands.uk",
       "premiere": false,
       "season": null,
-      "episode": 11.0
+      "episode": 10.0
     },
     {
       "title": "Animal Park",
@@ -23095,7 +23084,7 @@
       "channel": "BBCOneEastMidlands.uk",
       "premiere": false,
       "season": null,
-      "episode": 12.0
+      "episode": 11.0
     },
     {
       "title": "Animal Park",
@@ -23372,7 +23361,7 @@
       "channel": "BBCOneLondonHD.uk",
       "premiere": false,
       "season": null,
-      "episode": 10.0
+      "episode": 9.0
     },
     {
       "title": "Animal Park",
@@ -23636,7 +23625,7 @@
       "channel": "BBCOneLondonHD.uk",
       "premiere": false,
       "season": null,
-      "episode": 11.0
+      "episode": 10.0
     },
     {
       "title": "Animal Park",
@@ -23889,7 +23878,7 @@
       "channel": "BBCOneLondonHD.uk",
       "premiere": false,
       "season": null,
-      "episode": 12.0
+      "episode": 11.0
     },
     {
       "title": "Animal Park",
@@ -24166,7 +24155,7 @@
       "channel": "BBCOneNorthEastCumbria.uk",
       "premiere": false,
       "season": null,
-      "episode": 10.0
+      "episode": 9.0
     },
     {
       "title": "Animal Park",
@@ -24430,7 +24419,7 @@
       "channel": "BBCOneNorthEastCumbria.uk",
       "premiere": false,
       "season": null,
-      "episode": 11.0
+      "episode": 10.0
     },
     {
       "title": "Animal Park",
@@ -24683,7 +24672,7 @@
       "channel": "BBCOneNorthEastCumbria.uk",
       "premiere": false,
       "season": null,
-      "episode": 12.0
+      "episode": 11.0
     },
     {
       "title": "Animal Park",
@@ -24960,7 +24949,7 @@
       "channel": "BBCOneNorthWest.uk",
       "premiere": false,
       "season": null,
-      "episode": 10.0
+      "episode": 9.0
     },
     {
       "title": "Animal Park",
@@ -25224,7 +25213,7 @@
       "channel": "BBCOneNorthWest.uk",
       "premiere": false,
       "season": null,
-      "episode": 11.0
+      "episode": 10.0
     },
     {
       "title": "Animal Park",
@@ -25477,7 +25466,7 @@
       "channel": "BBCOneNorthWest.uk",
       "premiere": false,
       "season": null,
-      "episode": 12.0
+      "episode": 11.0
     },
     {
       "title": "Animal Park",
@@ -25754,7 +25743,7 @@
       "channel": "BBCOneNorthernIreland.uk",
       "premiere": false,
       "season": null,
-      "episode": 10.0
+      "episode": 9.0
     },
     {
       "title": "Animal Park",
@@ -26018,7 +26007,7 @@
       "channel": "BBCOneNorthernIreland.uk",
       "premiere": false,
       "season": null,
-      "episode": 11.0
+      "episode": 10.0
     },
     {
       "title": "Animal Park",
@@ -26271,7 +26260,7 @@
       "channel": "BBCOneNorthernIreland.uk",
       "premiere": false,
       "season": null,
-      "episode": 12.0
+      "episode": 11.0
     },
     {
       "title": "Animal Park",
@@ -26559,7 +26548,7 @@
       "channel": "BBCOneScotHD.uk",
       "premiere": false,
       "season": null,
-      "episode": 10.0
+      "episode": 9.0
     },
     {
       "title": "Animal Park",
@@ -26790,7 +26779,7 @@
       "channel": "BBCOneScotHD.uk",
       "premiere": false,
       "season": null,
-      "episode": 7.0
+      "episode": 9.0
     },
     {
       "title": "The Mist",
@@ -26845,7 +26834,7 @@
       "channel": "BBCOneScotHD.uk",
       "premiere": false,
       "season": null,
-      "episode": 11.0
+      "episode": 10.0
     },
     {
       "title": "Animal Park",
@@ -27109,7 +27098,7 @@
       "channel": "BBCOneScotHD.uk",
       "premiere": false,
       "season": null,
-      "episode": 12.0
+      "episode": 11.0
     },
     {
       "title": "Animal Park",
@@ -27386,7 +27375,7 @@
       "channel": "BBCOneSouth.uk",
       "premiere": false,
       "season": null,
-      "episode": 10.0
+      "episode": 9.0
     },
     {
       "title": "Animal Park",
@@ -27650,7 +27639,7 @@
       "channel": "BBCOneSouth.uk",
       "premiere": false,
       "season": null,
-      "episode": 11.0
+      "episode": 10.0
     },
     {
       "title": "Animal Park",
@@ -27903,7 +27892,7 @@
       "channel": "BBCOneSouth.uk",
       "premiere": false,
       "season": null,
-      "episode": 12.0
+      "episode": 11.0
     },
     {
       "title": "Animal Park",
@@ -28180,7 +28169,7 @@
       "channel": "BBCOneSouthEast.uk",
       "premiere": false,
       "season": null,
-      "episode": 10.0
+      "episode": 9.0
     },
     {
       "title": "Animal Park",
@@ -28444,7 +28433,7 @@
       "channel": "BBCOneSouthEast.uk",
       "premiere": false,
       "season": null,
-      "episode": 11.0
+      "episode": 10.0
     },
     {
       "title": "Animal Park",
@@ -28697,7 +28686,7 @@
       "channel": "BBCOneSouthEast.uk",
       "premiere": false,
       "season": null,
-      "episode": 12.0
+      "episode": 11.0
     },
     {
       "title": "Animal Park",
@@ -28974,7 +28963,7 @@
       "channel": "BBCOneSouthWest.uk",
       "premiere": false,
       "season": null,
-      "episode": 10.0
+      "episode": 9.0
     },
     {
       "title": "Animal Park",
@@ -29238,7 +29227,7 @@
       "channel": "BBCOneSouthWest.uk",
       "premiere": false,
       "season": null,
-      "episode": 11.0
+      "episode": 10.0
     },
     {
       "title": "Animal Park",
@@ -29491,7 +29480,7 @@
       "channel": "BBCOneSouthWest.uk",
       "premiere": false,
       "season": null,
-      "episode": 12.0
+      "episode": 11.0
     },
     {
       "title": "Animal Park",
@@ -29768,7 +29757,7 @@
       "channel": "BBCOneWalesHD.uk",
       "premiere": false,
       "season": null,
-      "episode": 10.0
+      "episode": 9.0
     },
     {
       "title": "Animal Park",
@@ -30054,7 +30043,7 @@
       "channel": "BBCOneWalesHD.uk",
       "premiere": false,
       "season": null,
-      "episode": 11.0
+      "episode": 10.0
     },
     {
       "title": "Animal Park",
@@ -30329,7 +30318,7 @@
       "channel": "BBCOneWalesHD.uk",
       "premiere": false,
       "season": null,
-      "episode": 12.0
+      "episode": 11.0
     },
     {
       "title": "Animal Park",
@@ -30650,7 +30639,7 @@
       "channel": "BBCOneWest.uk",
       "premiere": false,
       "season": null,
-      "episode": 10.0
+      "episode": 9.0
     },
     {
       "title": "Animal Park",
@@ -30914,7 +30903,7 @@
       "channel": "BBCOneWest.uk",
       "premiere": false,
       "season": null,
-      "episode": 11.0
+      "episode": 10.0
     },
     {
       "title": "Animal Park",
@@ -31167,7 +31156,7 @@
       "channel": "BBCOneWest.uk",
       "premiere": false,
       "season": null,
-      "episode": 12.0
+      "episode": 11.0
     },
     {
       "title": "Animal Park",
@@ -31444,7 +31433,7 @@
       "channel": "BBCOneWestMidlands.uk",
       "premiere": false,
       "season": null,
-      "episode": 10.0
+      "episode": 9.0
     },
     {
       "title": "Animal Park",
@@ -31708,7 +31697,7 @@
       "channel": "BBCOneWestMidlands.uk",
       "premiere": false,
       "season": null,
-      "episode": 11.0
+      "episode": 10.0
     },
     {
       "title": "Animal Park",
@@ -31961,7 +31950,7 @@
       "channel": "BBCOneWestMidlands.uk",
       "premiere": false,
       "season": null,
-      "episode": 12.0
+      "episode": 11.0
     },
     {
       "title": "Animal Park",
@@ -32238,7 +32227,7 @@
       "channel": "BBCOneYorksLincs.uk",
       "premiere": false,
       "season": null,
-      "episode": 10.0
+      "episode": 9.0
     },
     {
       "title": "Animal Park",
@@ -32502,7 +32491,7 @@
       "channel": "BBCOneYorksLincs.uk",
       "premiere": false,
       "season": null,
-      "episode": 11.0
+      "episode": 10.0
     },
     {
       "title": "Animal Park",
@@ -32755,7 +32744,7 @@
       "channel": "BBCOneYorksLincs.uk",
       "premiere": false,
       "season": null,
-      "episode": 12.0
+      "episode": 11.0
     },
     {
       "title": "Animal Park",
@@ -33032,7 +33021,7 @@
       "channel": "BBCOneYorkshire.uk",
       "premiere": false,
       "season": null,
-      "episode": 10.0
+      "episode": 9.0
     },
     {
       "title": "Animal Park",
@@ -33296,7 +33285,7 @@
       "channel": "BBCOneYorkshire.uk",
       "premiere": false,
       "season": null,
-      "episode": 11.0
+      "episode": 10.0
     },
     {
       "title": "Animal Park",
@@ -33549,7 +33538,7 @@
       "channel": "BBCOneYorkshire.uk",
       "premiere": false,
       "season": null,
-      "episode": 12.0
+      "episode": 11.0
     },
     {
       "title": "Animal Park",
@@ -33966,7 +33955,7 @@
       "title": "Major League Baseball: New York Yankees v Chicago Cubs",
       "description": "The Yankees meet the Cubs at Wrigley Field. [HD]",
       "start": 1785747600,
-      "stop": 1785758400,
+      "stop": 1785758700,
       "icon": "https://images.metadata.sky.com/pd-image/b5d2d729-2e2b-4332-900f-03dd617c729a/cover",
       "channel": "BBCRedButton1.uk",
       "premiere": false,
@@ -33976,7 +33965,7 @@
     {
       "title": "The Story So Far: The Best of, Part 4",
       "description": "The best of Ali Plumb's Story So Far programmes. Part 4. [HD]",
-      "start": 1785758400,
+      "start": 1785758700,
       "stop": 1785772800,
       "icon": "https://images.metadata.sky.com/pd-image/7b5e9534-9179-4315-974f-a55bf6ed8f78/cover",
       "channel": "BBCRedButton1.uk",
@@ -33988,7 +33977,7 @@
       "title": "Major League Baseball: New York Yankees v Chicago Cubs",
       "description": "The Yankees meet the Cubs at Wrigley Field. [HD]",
       "start": 1785772800,
-      "stop": 1785783600,
+      "stop": 1785783900,
       "icon": "https://images.metadata.sky.com/pd-image/b5d2d729-2e2b-4332-900f-03dd617c729a/cover",
       "channel": "BBCRedButton1.uk",
       "premiere": false,
@@ -33998,7 +33987,7 @@
     {
       "title": "The Story So Far: The Best of, Part 4",
       "description": "The best of Ali Plumb's Story So Far programmes. Part 4. [HD]",
-      "start": 1785783600,
+      "start": 1785783900,
       "stop": 1785798000,
       "icon": "https://images.metadata.sky.com/pd-image/7b5e9534-9179-4315-974f-a55bf6ed8f78/cover",
       "channel": "BBCRedButton1.uk",
@@ -34694,7 +34683,7 @@
     },
     {
       "title": "The Catch Up",
-      "description": "A round-up of the day's news. [S] [HD]",
+      "description": "A round-up of the day's news with Vanessa Igoe. [S] [HD]",
       "start": 1785780000,
       "stop": 1785780300,
       "icon": "https://images.metadata.sky.com/pd-image/36a23556-294e-4dc5-8f5f-e2629fe2accf/cover",
@@ -35325,7 +35314,7 @@
       "title": "The Farmers' Country Showdown",
       "description": "15/20. Pig farmer Peter returns to the Staffordshire County Show for the first time since he was a teenager. For show day, Lianne and Mark give their South Devon cows a beauty makeover. [S] [HD]",
       "start": 1785768300,
-      "stop": 1785770700,
+      "stop": 1785771000,
       "icon": "https://images.metadata.sky.com/pd-image/8a3afc20-6278-4bd7-9585-4aa078288207/cover",
       "channel": "BBCTwoEngland.uk",
       "premiere": false,
@@ -35335,8 +35324,8 @@
     {
       "title": "Vintage Antiques Roadshow",
       "description": "16/27. Michael Aspel presents the show in which antiques are evaluated from Mansion House, London. Finds include a lock of Nelson's hair and a hand sculpted by Rodin. [S]",
-      "start": 1785770700,
-      "stop": 1785773400,
+      "start": 1785771000,
+      "stop": 1785773700,
       "icon": "https://images.metadata.sky.com/pd-image/d9e72565-104a-46fe-a360-ceb1c6a66931/cover",
       "channel": "BBCTwoEngland.uk",
       "premiere": false,
@@ -35346,7 +35335,7 @@
     {
       "title": "Flog It!",
       "description": "15/60. Antiques series. This edition comes from Manchester, a city famous for its music scene. Caroline Hawley finds an autograph from one of rock 'n' roll's biggest names. [S] [HD]",
-      "start": 1785773400,
+      "start": 1785773700,
       "stop": 1785776400,
       "icon": "https://images.metadata.sky.com/pd-image/5b0312d6-1f03-470f-abc6-cbd3024d7678/cover",
       "channel": "BBCTwoEngland.uk",
@@ -35965,7 +35954,7 @@
       "title": "The Farmers' Country Showdown",
       "description": "15/20. Pig farmer Peter returns to the Staffordshire County Show for the first time since he was a teenager. For show day, Lianne and Mark give their South Devon cows a beauty makeover. [S] [HD]",
       "start": 1785768300,
-      "stop": 1785770700,
+      "stop": 1785771000,
       "icon": "https://images.metadata.sky.com/pd-image/8a3afc20-6278-4bd7-9585-4aa078288207/cover",
       "channel": "BBCTwoHD.uk",
       "premiere": false,
@@ -35975,8 +35964,8 @@
     {
       "title": "Vintage Antiques Roadshow",
       "description": "16/27. Michael Aspel presents the show in which antiques are evaluated from Mansion House, London. Finds include a lock of Nelson's hair and a hand sculpted by Rodin. [S]",
-      "start": 1785770700,
-      "stop": 1785773400,
+      "start": 1785771000,
+      "stop": 1785773700,
       "icon": "https://images.metadata.sky.com/pd-image/d9e72565-104a-46fe-a360-ceb1c6a66931/cover",
       "channel": "BBCTwoHD.uk",
       "premiere": false,
@@ -35986,7 +35975,7 @@
     {
       "title": "Flog It!",
       "description": "15/60. Antiques series. This edition comes from Manchester, a city famous for its music scene. Caroline Hawley finds an autograph from one of rock 'n' roll's biggest names. [S] [HD]",
-      "start": 1785773400,
+      "start": 1785773700,
       "stop": 1785776400,
       "icon": "https://images.metadata.sky.com/pd-image/5b0312d6-1f03-470f-abc6-cbd3024d7678/cover",
       "channel": "BBCTwoHD.uk",
@@ -36605,7 +36594,7 @@
       "title": "The Farmers' Country Showdown",
       "description": "15/20. Pig farmer Peter returns to the Staffordshire County Show for the first time since he was a teenager. For show day, Lianne and Mark give their South Devon cows a beauty makeover. [S] [HD]",
       "start": 1785768300,
-      "stop": 1785770700,
+      "stop": 1785771000,
       "icon": "https://images.metadata.sky.com/pd-image/8a3afc20-6278-4bd7-9585-4aa078288207/cover",
       "channel": "BBCTwoNorthernIreland.uk",
       "premiere": false,
@@ -36615,8 +36604,8 @@
     {
       "title": "Vintage Antiques Roadshow",
       "description": "16/27. Michael Aspel presents the show in which antiques are evaluated from Mansion House, London. Finds include a lock of Nelson's hair and a hand sculpted by Rodin. [S]",
-      "start": 1785770700,
-      "stop": 1785773400,
+      "start": 1785771000,
+      "stop": 1785773700,
       "icon": "https://images.metadata.sky.com/pd-image/d9e72565-104a-46fe-a360-ceb1c6a66931/cover",
       "channel": "BBCTwoNorthernIreland.uk",
       "premiere": false,
@@ -36626,7 +36615,7 @@
     {
       "title": "Flog It!",
       "description": "15/60. Antiques series. This edition comes from Manchester, a city famous for its music scene. Caroline Hawley finds an autograph from one of rock 'n' roll's biggest names. [S] [HD]",
-      "start": 1785773400,
+      "start": 1785773700,
       "stop": 1785776400,
       "icon": "https://images.metadata.sky.com/pd-image/5b0312d6-1f03-470f-abc6-cbd3024d7678/cover",
       "channel": "BBCTwoNorthernIreland.uk",
@@ -37245,7 +37234,7 @@
       "title": "The Farmers' Country Showdown",
       "description": "15/20. Pig farmer Peter returns to the Staffordshire County Show for the first time since he was a teenager. For show day, Lianne and Mark give their South Devon cows a beauty makeover. [S] [HD]",
       "start": 1785768300,
-      "stop": 1785770700,
+      "stop": 1785771000,
       "icon": "https://images.metadata.sky.com/pd-image/8a3afc20-6278-4bd7-9585-4aa078288207/cover",
       "channel": "BBCTwoWales.uk",
       "premiere": false,
@@ -37255,8 +37244,8 @@
     {
       "title": "Vintage Antiques Roadshow",
       "description": "16/27. Michael Aspel presents the show in which antiques are evaluated from Mansion House, London. Finds include a lock of Nelson's hair and a hand sculpted by Rodin. [S]",
-      "start": 1785770700,
-      "stop": 1785773400,
+      "start": 1785771000,
+      "stop": 1785773700,
       "icon": "https://images.metadata.sky.com/pd-image/d9e72565-104a-46fe-a360-ceb1c6a66931/cover",
       "channel": "BBCTwoWales.uk",
       "premiere": false,
@@ -37266,7 +37255,7 @@
     {
       "title": "Flog It!",
       "description": "15/60. Antiques series. This edition comes from Manchester, a city famous for its music scene. Caroline Hawley finds an autograph from one of rock 'n' roll's biggest names. [S] [HD]",
-      "start": 1785773400,
+      "start": 1785773700,
       "stop": 1785776400,
       "icon": "https://images.metadata.sky.com/pd-image/5b0312d6-1f03-470f-abc6-cbd3024d7678/cover",
       "channel": "BBCTwoWales.uk",
@@ -45767,7 +45756,7 @@
       "channel": "Channel5Plus1.uk",
       "premiere": true,
       "season": null,
-      "episode": 0.0
+      "episode": 10.0
     },
     {
       "title": "JFK Assassination: Inside the Trauma Room",
