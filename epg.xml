@@ -516,7 +516,7 @@
   </programme>
   <programme channel="sky.main.uk" start="20260815050500 +0000" stop="20260815071500 +0000">
     <title lang="en">Live Int Rugby Union: AUS v JAP</title>
-    <desc lang="en">The Wallabies head home for the second Test after a trip to Osaka as Les Kiss' Australian side welcome Japan to Queensland Country Bank Stadium.</desc>
+    <desc lang="en">The Wallabies head home for the second Test after a tense 35-23 win in Osaka as Les Kiss' Australian side welcome Japan to Queensland Country Bank Stadium.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d2ca1413-a436-48da-807c-e9337f6c8398/cover"/>
   </programme>
   <programme channel="sky.main.uk" start="20260815071500 +0000" stop="20260815080000 +0000">
@@ -3000,17 +3000,27 @@
     <desc lang="en">Live Australian racing from Moruya, Ballarat, Pakenham, Wyong and Sunshine Coast.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5fff3821-efd2-4385-831c-0c2607673c4c/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20260816060000 +0000" stop="20260816100000 +0000">
+  <programme channel="sky.racing.uk" start="20260816060000 +0000" stop="20260816090000 +0000">
     <title lang="en">Sky Sports Breakfast</title>
     <desc lang="en">Stay across the biggest sports stories this morning with a wrap-up of the headlines.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/72d808e5-988f-4ff1-836e-91fcb8ec009e/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20260816100000 +0000" stop="20260816130000 +0000">
+  <programme channel="sky.racing.uk" start="20260816090000 +0000" stop="20260816094500 +0000">
+    <title lang="en">The Enduring Race</title>
+    <desc lang="en">5 years after Leading The Way, Josh Apiafi reunites with Rishi Persad &amp; Brian Finch to explore how horse racing is tackling diversity &amp; inclusion. Has the sport really delivered its promise to change?</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/c86be44a-e58e-492a-bcfb-c96346a2cd0f/cover"/>
+  </programme>
+  <programme channel="sky.racing.uk" start="20260816094500 +0000" stop="20260816100000 +0000">
+    <title lang="en">Eddie Greatrex: Comeback Kid</title>
+    <desc lang="en">Forced to retire at 23 battling pain every day, jockey Eddy Greatrex has made a remarkable return to the saddle in the form of his life as he fights to reignite his career.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8af9bd10-1529-4303-a5ee-68ca1324fbe7/cover"/>
+  </programme>
+  <programme channel="sky.racing.uk" start="20260816100000 +0000" stop="20260816121500 +0000">
     <title lang="en">International Raceday Live</title>
     <desc lang="en">Live French racing from Deauville where Katherine Ford and Laurent Barbarin are trackside. Sunderland greyhounds also feature.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e1324889-c7b8-4d31-bfe7-652eadafe58a/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20260816130000 +0000" stop="20260816180000 +0000">
+  <programme channel="sky.racing.uk" start="20260816121500 +0000" stop="20260816180000 +0000">
     <title lang="en">Raceday Live</title>
     <desc lang="en">Live Racing: Matt Chapman brings you the G1 Prix Jacques le Marios from Deauville with Katherine Ford and Laurent Barbarin on course. AW action from Southwell with Simon Mapletoft.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b8916c1f-6bd9-48a6-8df5-81e76ea174dd/cover"/>
@@ -3214,7 +3224,7 @@
   </programme>
   <programme channel="sky.mix.uk" start="20260814133000 +0000" stop="20260814163000 +0000">
     <title lang="en">Live Ladies European Tour Golf</title>
-    <desc lang="en">Second-round competition from the VP Bank Swiss Ladies Open, an LET event staged at Migros Golfpark Holzhausern. England's Alice Hewson claimed last season's victory at this event.</desc>
+    <desc lang="en">Second-round competition from the VP Bank Swiss Ladies Open, an LET event staged at Migros Golfpark Holzhausern. Kajsa Arwefjall leads Spanish duo Luna Sobron Galmes and Amaia Latorre.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/89fe57eb-48eb-46d2-8e3a-3c4bf2d8a9db/cover"/>
   </programme>
   <programme channel="sky.mix.uk" start="20260814163000 +0000" stop="20260814164500 +0000">
@@ -3224,17 +3234,22 @@
     <episode-num system="xmltv_ns">2024.474.0</episode-num>
     <episode-num system="onscreen">S2025E475</episode-num>
   </programme>
-  <programme channel="sky.mix.uk" start="20260814164500 +0000" stop="20260814170000 +0000">
+  <programme channel="sky.mix.uk" start="20260814164500 +0000" stop="20260814170001 +0000">
     <title lang="en">NFL Highlights</title>
     <desc lang="en">Bitesize highlights as Tampa Bay - whose grasp is slipping on the division title, bid to avoid a fifth straight loss against a Panthers side looking to clinch the NFC South. (03.01)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/93e91a10-ff4f-4577-b07d-abc02be9b61a/cover"/>
     <episode-num system="xmltv_ns">2025.9.0</episode-num>
     <episode-num system="onscreen">S2026E10</episode-num>
   </programme>
-  <programme channel="sky.mix.uk" start="20260814170000 +0000" stop="20260814190000 +0000">
-    <title lang="en">NBC Pro Football Talk</title>
-    <desc lang="en">Mike Florio and Chris Simms present this NFL talk show, as they discuss and debate the biggest stories from around the league.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/daada6ee-b308-465e-8ce9-8eb169290b99/cover"/>
+  <programme channel="sky.mix.uk" start="20260814170001 +0000" stop="20260814180000 +0000">
+    <title lang="en">NFL Super Bowl LIX Hlts</title>
+    <desc lang="en">Out to become the first team in history to win three consecutive Super Bowls, the Chiefs run it back to where it began in a rematch with Saquon Barkley's Philadelphia Eagles. (09.02)</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/e86dac79-0df4-4509-8ca2-c5e53f4d647b/cover"/>
+  </programme>
+  <programme channel="sky.mix.uk" start="20260814180000 +0000" stop="20260814190000 +0000">
+    <title lang="en">NFL Super Bowl LX Hlts</title>
+    <desc lang="en">The Seahawks and the Patriots enter a Santa Clara showdown as Super Bowl LX is here. This contest comes as a repeat of the 2015 Super Bowl - a day that belonged to the Patriots. (08.02)</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1554cf8d-36a4-4807-94be-030a1f1ffa66/cover"/>
   </programme>
   <programme channel="sky.mix.uk" start="20260814190000 +0000" stop="20260814203000 +0000">
     <title lang="en">Live Indycar Series: Practice</title>
@@ -3301,7 +3316,7 @@
   </programme>
   <programme channel="sky.mix.uk" start="20260815024500 +0000" stop="20260815044500 +0000">
     <title lang="en">Live NRLW: Titans v Dragons</title>
-    <desc lang="en">The Titans and Dragons get the seventh round of the 2026 Telstra Women's Premiership underway.</desc>
+    <desc lang="en">The Titans and Dragons get the seventh round of the 2026 Telstra Women's Premiership underway. The hosts come from a reaffirming win over the Sharks.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/81d38a82-c7df-4a81-9b21-5faa8509284a/cover"/>
   </programme>
   <programme channel="sky.mix.uk" start="20260815044500 +0000" stop="20260815050000 +0000">
@@ -3316,12 +3331,12 @@
   </programme>
   <programme channel="sky.mix.uk" start="20260815051500 +0000" stop="20260815071500 +0000">
     <title lang="en">Live NRLW: Eels v Bulldogs</title>
-    <desc lang="en">The Eels face the Bulldogs in a clash from round seven of the Telstra Women's Premiership.</desc>
+    <desc lang="en">The Eels face the Bulldogs in a clash from round seven of the Telstra Women's Premiership. Firmly in finals contention, the Bulldogs eye another win following victory over the Cowboys.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e3d20e0e-a44f-4f93-a517-d1eb1ee0dd8a/cover"/>
   </programme>
   <programme channel="sky.mix.uk" start="20260815071500 +0000" stop="20260815091500 +0000">
     <title lang="en">Live NRLW: Broncos v Roosters</title>
-    <desc lang="en">The Broncos face the Roosters in a clash from round seven of the Telstra Women's Premiership.</desc>
+    <desc lang="en">The Broncos and the Roosters - the top two - go head to head in a blockbuster grand final rematch during round seven of the Telstra Women's Premiership.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9a67858e-811a-44e7-8ecc-b65375baa516/cover"/>
   </programme>
   <programme channel="sky.mix.uk" start="20260815091500 +0000" stop="20260815093000 +0000">
@@ -3435,17 +3450,17 @@
   </programme>
   <programme channel="sky.mix.uk" start="20260816015000 +0000" stop="20260816034500 +0000">
     <title lang="en">Live NRLW: Knights v Raiders</title>
-    <desc lang="en">The Knights face the Raiders in a clash from round seven of the Telstra Women's Premiership.</desc>
+    <desc lang="en">The Knights face the Raiders in a clash from round seven of the Telstra Women's Premiership. Newcastle are looking to rebound after a 22-14 loss to the Warriors.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/26f6edae-3ecc-4a4b-8d99-77d927f35043/cover"/>
   </programme>
   <programme channel="sky.mix.uk" start="20260816034500 +0000" stop="20260816050000 +0000">
     <title lang="en">Live NRLW: Tigers v Warriors</title>
-    <desc lang="en">Wests Tigers face the Warriors in a clash from round seven of the Telstra Women's Premiership.</desc>
+    <desc lang="en">Wests Tigers face the Warriors in a clash from round seven of the Telstra Women's Premiership. Both teams impressed previously, collecting wins over the Dragons and Newcastle respectively.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f1103d45-6e34-4aa2-8597-dd29a57e55c9/cover"/>
   </programme>
   <programme channel="sky.mix.uk" start="20260816050000 +0000" stop="20260816054500 +0000">
     <title lang="en">Live NRLW: Tigers v Warriors</title>
-    <desc lang="en">Wests Tigers face the Warriors in a clash from round seven of the Telstra Women's Premiership.</desc>
+    <desc lang="en">Wests Tigers face the Warriors in a clash from round seven of the Telstra Women's Premiership. Both teams impressed previously, collecting wins over the Dragons and Newcastle respectively.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f1103d45-6e34-4aa2-8597-dd29a57e55c9/cover"/>
   </programme>
   <programme channel="sky.mix.uk" start="20260816054500 +0000" stop="20260816060000 +0000">
@@ -3474,7 +3489,7 @@
   </programme>
   <programme channel="sky.mix.uk" start="20260816081500 +0000" stop="20260816101500 +0000">
     <title lang="en">Live NRLW: Cowboys v Sharks</title>
-    <desc lang="en">The Cowboys face the Sharks in a clash from round seven of the Telstra Women's Premiership.</desc>
+    <desc lang="en">The Cowboys face the Sharks in a clash from round seven of the Telstra Women's Premiership. It was heartbreak last time out for the Cowboys, going down 28-26 to Canterbury.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/652798d9-0699-401c-9649-46f077738ef2/cover"/>
   </programme>
   <programme channel="sky.mix.uk" start="20260816101500 +0000" stop="20260816103000 +0000">
@@ -3678,15 +3693,15 @@
     <desc lang="en">The Eliminators continue at the Oval as Manchester Super Giants and SunRisers Leeds vie for a place in Sunday's final against Men's Hundred table toppers Trent Rockets.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/acc0ac03-594e-4809-8bea-21e3bc4b82e6/cover"/>
   </programme>
-  <programme channel="sky.cricket.uk" start="20260814200000 +0000" stop="20260814201500 +0000">
-    <title lang="en">Women's The Hundred M33</title>
-    <desc lang="en">The Women's Hundred enters its knockout stage with an Eliminator at the Oval as Southern Brave take on SunRisers Leeds for a place in Sunday's final against Trent Rockets. (14.08)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f14c87c2-62fc-4400-88a1-45f1de576164/cover"/>
-  </programme>
-  <programme channel="sky.cricket.uk" start="20260814201500 +0000" stop="20260814203000 +0000">
+  <programme channel="sky.cricket.uk" start="20260814200000 +0000" stop="20260814201501 +0000">
     <title lang="en">Men's The Hundred M33</title>
     <desc lang="en">The Eliminators continue at the Oval as Manchester Super Giants and SunRisers Leeds vie for a place in Sunday's final against Men's Hundred table toppers Trent Rockets. (14.08)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/673a9cb8-9410-4b4a-9686-c1b931b3d21d/cover"/>
+  </programme>
+  <programme channel="sky.cricket.uk" start="20260814201501 +0000" stop="20260814203000 +0000">
+    <title lang="en">Women's The Hundred M33</title>
+    <desc lang="en">The Women's Hundred enters its knockout stage with an Eliminator at the Oval as Southern Brave take on SunRisers Leeds for a place in Sunday's final against Trent Rockets. (14.08)</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f14c87c2-62fc-4400-88a1-45f1de576164/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20260814203000 +0000" stop="20260814204500 +0000">
     <title lang="en">Women's The Hundred M28</title>
@@ -3958,53 +3973,15 @@
     <desc lang="en">A review of the best action and biggest stories from LIV Golf at the Trump National Golf Club Bedminster, where Jon Rahm sealed a third-straight title.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/81f30e33-fffd-47ef-8e72-dd7d35325b32/cover"/>
   </programme>
-  <programme channel="tnt1" start="20260814060000 +0000" stop="20260814093000 +0000">
+  <programme channel="tnt1" start="20260814060000 +0000" stop="20260814113000 +0000">
     <title lang="en">Live Snooker: China Open</title>
     <desc lang="en">Snooker action from the quarter-finals of the 2026 China Open as Thaiand's Noppon Saengkham looks to repeat his impressive win over Ronnie O'Sullivan against Shaun Murphy.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/336d4afe-c187-4012-9c75-ce15b9547273/cover"/>
   </programme>
-  <programme channel="tnt1" start="20260814093000 +0000" stop="20260814100000 +0000">
-    <title lang="en">TNT Sports Reload</title>
-    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/66589a23-1c9a-4f8c-a8e6-bf19f7123045/cover"/>
-    <episode-num system="xmltv_ns">25.31.0</episode-num>
-    <episode-num system="onscreen">S26E32</episode-num>
-  </programme>
-  <programme channel="tnt1" start="20260814100000 +0000" stop="20260814103000 +0000">
-    <title lang="en">Discovery Golf</title>
-    <desc lang="en">As the FedExCup Playoffs begin with the FedEx St. Jude Championship, we look at Justin Rose's win last year, while Cameron Young hits the range.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/573eead3-6f1c-4058-a756-bb727a03aa87/cover"/>
-    <episode-num system="xmltv_ns">25.25.0</episode-num>
-    <episode-num system="onscreen">S26E26</episode-num>
-  </programme>
-  <programme channel="tnt1" start="20260814103000 +0000" stop="20260814110000 +0000">
-    <title lang="en">UIM F1H2O World Championship</title>
-    <desc lang="en">We review the best action from the Grand Prix of Kyrgyzstan at Issyk-Kul Lake, part of the 2026 UIM F1H2O World Championship.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a0cb12ae-98bd-4f24-8a62-ed9e16d83df9/cover"/>
-  </programme>
-  <programme channel="tnt1" start="20260814110000 +0000" stop="20260814113000 +0000">
-    <title lang="en">Champions League Final 2009</title>
-    <desc lang="en">A look back at the 2009 UEFA Champions League final between Barcelona and Man Utd in Rome. United were bidding to become the first team to defend the trophy in the modern era.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/657983dd-2658-371b-ad8f-687154e5d574/cover"/>
-  </programme>
-  <programme channel="tnt1" start="20260814113000 +0000" stop="20260814150000 +0000">
+  <programme channel="tnt1" start="20260814113000 +0000" stop="20260814163000 +0000">
     <title lang="en">Live Snooker: China Open</title>
     <desc lang="en">Snooker action from the quarter-finals of the 2026 China Open where Neil Robertson goes up against Mark Selby for a place in the final four.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/867be180-d58a-4711-8abd-19f78a159815/cover"/>
-  </programme>
-  <programme channel="tnt1" start="20260814150000 +0000" stop="20260814160000 +0000">
-    <title lang="en">Serie A - Full Impact</title>
-    <desc lang="en">A look ahead to the 2026/27 Serie A season, as Cristian Chivu's Inter prepare to defend their crown.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/69f75eed-0e4c-4659-8978-723cc2f1e2d3/cover"/>
-    <episode-num system="xmltv_ns">2025.39.0</episode-num>
-    <episode-num system="onscreen">S2026E40</episode-num>
-  </programme>
-  <programme channel="tnt1" start="20260814160000 +0000" stop="20260814163000 +0000">
-    <title lang="en">TNT Sports Reload</title>
-    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/66589a23-1c9a-4f8c-a8e6-bf19f7123045/cover"/>
-    <episode-num system="xmltv_ns">25.31.0</episode-num>
-    <episode-num system="onscreen">S26E32</episode-num>
   </programme>
   <programme channel="tnt1" start="20260814163000 +0000" stop="20260814170000 +0000">
     <title lang="en">MLB Plays of the Week</title>
@@ -4675,15 +4652,10 @@
     <desc lang="en">A review of the best action and biggest stories from LIV Golf at the Trump National Golf Club Bedminster, where Jon Rahm sealed a third-straight title.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/81f30e33-fffd-47ef-8e72-dd7d35325b32/cover"/>
   </programme>
-  <programme channel="tnt3" start="20260814093000 +0000" stop="20260814121500 +0000">
+  <programme channel="tnt3" start="20260814093000 +0000" stop="20260814124500 +0000">
     <title lang="en">Live: European Athletics Champs</title>
     <desc lang="en">The European Athletics Championships continue at Alexander Stadium, with action in the men's 1,500m, women's 4x400m relay, and women's javelin throw.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1a0bdad2-c8db-4110-ba85-5efb4f222488/cover"/>
-  </programme>
-  <programme channel="tnt3" start="20260814121500 +0000" stop="20260814124500 +0000">
-    <title lang="en">CPL Highlights</title>
-    <desc lang="en">Highlights from the Caribbean Premier League showdown between Jamaica Kingsmen and Guyana Amazon Warriors at Sabina Park.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/26a70ba4-7e14-4d65-8d41-7a13d1d29cad/cover"/>
   </programme>
   <programme channel="tnt3" start="20260814124500 +0000" stop="20260814134500 +0000">
     <title lang="en">MLB Highlights</title>
@@ -4901,17 +4873,17 @@
     <desc lang="en">Highlights from the 2026 Qatar Airways Grand Prix of Great Britain at Silverstone, where Raul Fernandez became the 12th different winner in the last 12 MotoGP races at the circuit.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/49f65f3f-8993-44d1-b18a-b5cf5c020d1e/cover"/>
   </programme>
-  <programme channel="tnt3" start="20260816180000 +0000" stop="20260816203000 +0000">
-    <title lang="en">European Athletics Championships</title>
-    <desc lang="en">The 2026 European Athletics Championships in Birmingham come to a close with eight finals, including the women's 1,500m and the 4x400m relays.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/2ae10c26-cea4-4e9e-8bcf-1bea42b07fda/cover"/>
-  </programme>
-  <programme channel="tnt3" start="20260816203000 +0000" stop="20260816210000 +0000">
+  <programme channel="tnt3" start="20260816180000 +0000" stop="20260816183000 +0000">
     <title lang="en">TNT Sports Reload</title>
     <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/66589a23-1c9a-4f8c-a8e6-bf19f7123045/cover"/>
     <episode-num system="xmltv_ns">25.31.0</episode-num>
     <episode-num system="onscreen">S26E32</episode-num>
+  </programme>
+  <programme channel="tnt3" start="20260816183000 +0000" stop="20260816210000 +0000">
+    <title lang="en">European Athletics Championships</title>
+    <desc lang="en">The 2026 European Athletics Championships in Birmingham come to a close with eight finals, including the women's 1,500m and the 4x400m relays.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/2ae10c26-cea4-4e9e-8bcf-1bea42b07fda/cover"/>
   </programme>
   <programme channel="tnt3" start="20260816210000 +0000" stop="20260816230000 +0000">
     <title lang="en">Snooker: China Open Highlights</title>
@@ -5639,21 +5611,21 @@
   </programme>
   <programme channel="4seven.uk" start="20260816103000 +0000" stop="20260816110000 +0000">
     <title lang="en">Four in a Bed</title>
-    <desc lang="en">The competition starts at Chimneys B&amp;B in Suffolk, where Carolyn Spilling hopes that her guests will like her uptempo personality. But Andrea and John aren't keen on being in self-catering.</desc>
+    <desc lang="en">The competition starts at Chimneys B&amp;B in Suffolk, where Carolyn hopes that her guests will like her uptempo personality. But Andrea and John aren't keen on being in self-catering.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/36effb26-0f48-44bd-9944-a030083b146a/cover"/>
     <episode-num system="xmltv_ns">10.80.0</episode-num>
     <episode-num system="onscreen">S11E81</episode-num>
   </programme>
   <programme channel="4seven.uk" start="20260816110000 +0000" stop="20260816113000 +0000">
     <title lang="en">Four in a Bed</title>
-    <desc lang="en">Neale and Julie Taylor welcome their rivals to their vegetarian B&amp;B, Copperfields Guest House in Broadstairs, Kent. But parking causes concern for guests Andrea and John.</desc>
+    <desc lang="en">Neale and Julie welcome their rivals to their vegetarian B&amp;B, Copperfields Guest House in Broadstairs, Kent. But parking causes concern for guests Andrea and John.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fc3cb190-19b9-46a7-8009-dca7b9198f9a/cover"/>
     <episode-num system="xmltv_ns">10.81.0</episode-num>
     <episode-num system="onscreen">S11E82</episode-num>
   </programme>
   <programme channel="4seven.uk" start="20260816113000 +0000" stop="20260816120000 +0000">
     <title lang="en">Four in a Bed</title>
-    <desc lang="en">The third visit is to Andrea Gardner and John Marr's The George and Abbotsford in Melrose, Scotland. Carolyn and Delia have toilet troubles, and Massimo and Raf find the facilities basic.</desc>
+    <desc lang="en">The third visit is to Andrea and John's The George and Abbotsford in Melrose. Carolyn and Delia have toilet troubles, and Massimo and Raf find the facilities basic.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0a1b330f-5880-4d96-aa5d-126b11d86b46/cover"/>
     <episode-num system="xmltv_ns">10.82.0</episode-num>
     <episode-num system="onscreen">S11E83</episode-num>
@@ -5674,7 +5646,7 @@
   </programme>
   <programme channel="4seven.uk" start="20260816130000 +0000" stop="20260816140000 +0000">
     <title lang="en">Location, Location, Location</title>
-    <desc lang="en">Phil Spencer and Kirstie Allsopp help a young family and a pair of first-time buyers get a slice of the north London property pie in and around Archway, Holloway and West Hampstead.</desc>
+    <desc lang="en">Phil Spencer and Kirstie Allsopp help a young family and two first-time buyers get a slice of the north London property pie in and around Archway, Holloway and West Hampstead.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/06e102d8-5712-3ef9-98e0-45ce0542fa7b/cover"/>
     <episode-num system="xmltv_ns">21.3.0</episode-num>
     <episode-num system="onscreen">S22E4</episode-num>
@@ -8713,17 +8685,10 @@
     <episode-num system="xmltv_ns">2025.37.0</episode-num>
     <episode-num system="onscreen">S2026E38</episode-num>
   </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260814090000 +0000" stop="20260814093000 +0000">
+  <programme channel="AlJazeeraEnglish.qa" start="20260814090000 +0000" stop="20260814100000 +0000">
     <title lang="en">Al Jazeera World</title>
     <desc lang="en">Ep.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8a2c3369-be29-422d-b711-1350a0c1f990/cover"/>
-  </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260814093000 +0000" stop="20260814100000 +0000">
-    <title lang="en">The Bottom Line</title>
-    <desc lang="en">Ep.32 After visiting the West Bank, former president of Ireland Mary Robinson says Israel is trying to make Palestine disappear.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/fd959bdf-1249-465d-a63e-3d1f65a9b834/cover"/>
-    <episode-num system="xmltv_ns">2025.31.0</episode-num>
-    <episode-num system="onscreen">S2026E32</episode-num>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260814100000 +0000" stop="20260814110000 +0000">
     <title lang="en">Newshour</title>
@@ -8884,15 +8849,10 @@
     <desc lang="en">Challenging Notions of AI: AI experts Camille Francois and Meredith Whittaker discuss how to break up Big Tech and build a safe and ethical AI.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c0e4b950-5006-3482-a417-cb7c8bb9aa3a/cover"/>
   </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260815040000 +0000" stop="20260815043000 +0000">
+  <programme channel="AlJazeeraEnglish.qa" start="20260815040000 +0000" stop="20260815050000 +0000">
     <title lang="en">Al Jazeera World</title>
     <desc lang="en">Ep.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8a2c3369-be29-422d-b711-1350a0c1f990/cover"/>
-  </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260815043000 +0000" stop="20260815050000 +0000">
-    <title lang="en">Nuked</title>
-    <desc lang="en">The Promise: A Pacific paradise turned nuclear wasteland - the islanders of Bikini Atoll in the Pacific begin their story of the human cost of US Cold War nuclear ambitions.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/936eb717-f665-47a7-958d-980f840bcd01/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260815050000 +0000" stop="20260815053000 +0000">
     <title lang="en">News Live</title>
@@ -9296,27 +9256,37 @@
   <programme channel="BBCAlba.uk" start="20260814160000 +0000" stop="20260814161500 +0000">
     <title lang="en">Na Clangairean</title>
     <desc lang="en">49/52. Everyone is busy doing what they're good at, except for Beag Chlangair - he doesn't appear to be too busy. Beag also decides he would like to try to do something he's good at.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/45b56269-f7df-4d5f-9ca2-92133fec6b13/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/fd572626-2535-33c5-ac03-34410d4e8af8/cover"/>
+    <episode-num system="xmltv_ns">0.48.0</episode-num>
+    <episode-num system="onscreen">S1E49</episode-num>
   </programme>
   <programme channel="BBCAlba.uk" start="20260814161500 +0000" stop="20260814162000 +0000">
     <title lang="en">Losgannan/Froglets</title>
     <desc lang="en">11/26. When Alex sets up a tent, the Froglets head into the desert as ancient pyramid explorers.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/041936c8-0cb1-4bc4-b8bf-d77ff20c40e8/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/0887ca72-d737-42ce-8ab8-e5a8124a3109/cover"/>
+    <episode-num system="xmltv_ns">0.10.0</episode-num>
+    <episode-num system="onscreen">S1E11</episode-num>
   </programme>
   <programme channel="BBCAlba.uk" start="20260814162000 +0000" stop="20260814163000 +0000">
     <title lang="en">Creag nam Buthaidean/Puffin Rock</title>
     <desc lang="en">19/39. Tha Oona 's May ri farpais ach cò 's luaithe. Preschool animation. Oona and May decide to race one another to see who is the fastest.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/4a3dbb01-cd6b-4770-a6ae-c6cf9a41a811/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/bfe18ef8-2c36-4fb4-973a-df98e5a3a556/cover"/>
+    <episode-num system="xmltv_ns">0.18.0</episode-num>
+    <episode-num system="onscreen">S1E19</episode-num>
   </programme>
   <programme channel="BBCAlba.uk" start="20260814163000 +0000" stop="20260814163500 +0000">
     <title lang="en">Creag nam Buthaidean/Puffin Rock</title>
     <desc lang="en">20/39. Tha stoirm a' fàgail Silky ann an staing. Preschool animation. A wild storm causes havoc on the rock, leaving some residents feeling a bit topsy turvy.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/439635af-ffa8-4ee2-9159-58c713ce33d0/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/34c200ae-0ce8-444f-9fec-1a7255dbf65b/cover"/>
+    <episode-num system="xmltv_ns">0.19.0</episode-num>
+    <episode-num system="onscreen">S1E20</episode-num>
   </programme>
   <programme channel="BBCAlba.uk" start="20260814163500 +0000" stop="20260814164000 +0000">
     <title lang="en">Peataichean/Pets</title>
     <desc lang="en">2/15. Eilidh is joined by Florence and her guinea pigs, Buttercup and Bluebell.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a9adc109-8305-4e82-b0c7-5c6d7380515e/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/5eb91b1c-e20a-4b0b-b2b9-e27d7cf4d594/cover"/>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="BBCAlba.uk" start="20260814164000 +0000" stop="20260814165500 +0000">
     <title lang="en">Abadas</title>
@@ -9363,7 +9333,7 @@
   <programme channel="BBCAlba.uk" start="20260814175000 +0000" stop="20260814180000 +0000">
     <title lang="en">Seonaidh/Shaun the Sheep</title>
     <desc lang="en">12/30. Children's series. The farmer discovers he's sprung a leak and calls the water board. The flock are thrilled by the opportunity to have some watery fun.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/684b18f3-7849-466e-bc58-50437668cc13/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/702c50e6-4214-49f7-98de-6e56afcbb8ec/cover"/>
   </programme>
   <programme channel="BBCAlba.uk" start="20260814180000 +0000" stop="20260814182500 +0000">
     <title lang="en">An Là</title>
@@ -9387,7 +9357,9 @@
   <programme channel="BBCAlba.uk" start="20260814190000 +0000" stop="20260814193000 +0000">
     <title lang="en">An Cuan Sgith, le Anne Lundon</title>
     <desc lang="en">1/6. Anne Lundon goes in search of stories and people connected to the famous stretch of sea, known as The Minch.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/8cd12d2b-4b29-4bae-a133-3f1a489fb791/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/be65e2c7-2ea1-4db6-a62f-a00b4ace239b/cover"/>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme channel="BBCAlba.uk" start="20260814193000 +0000" stop="20260814200000 +0000">
     <title lang="en">Mas Fhior</title>
@@ -9399,7 +9371,9 @@
   <programme channel="BBCAlba.uk" start="20260814200000 +0000" stop="20260814212500 +0000">
     <title lang="en">Valtos | Aig a' Mhullach</title>
     <desc lang="en">2/2. Seata ciùil High Water Mark aig mullach a' Chùirn Ghuirm. Featuring a full DJ set on top of Cairngorm Mountain.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/82471c0b-2f39-40ff-b137-cab62bad6708/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/f3bde4d1-4618-4daf-aa00-0b6e9c576b4b/cover"/>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="BBCAlba.uk" start="20260814212500 +0000" stop="20260814230000 +0000">
     <title lang="en">Runrig - The Last Dance</title>
@@ -9474,7 +9448,9 @@
   <programme channel="BBCAlba.uk" start="20260815210000 +0000" stop="20260815214500 +0000">
     <title lang="en">Na Sgiobairean mu Dheireadh/The Last Captains</title>
     <desc lang="en">7/8. A harbour fire rocks the fleet as Adam risks everything on tuna. Contains strong language.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d1342a12-f9b8-42f0-86ec-8cc02163b25a/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/74a4b5f7-193b-4aed-9423-4403b844260a/cover"/>
+    <episode-num system="xmltv_ns">0.6.0</episode-num>
+    <episode-num system="onscreen">S1E7</episode-num>
   </programme>
   <programme channel="BBCAlba.uk" start="20260815214500 +0000" stop="20260815220000 +0000">
     <title lang="en">Rurachd (Foraging)</title>
@@ -9486,12 +9462,16 @@
   <programme channel="BBCAlba.uk" start="20260815220000 +0000" stop="20260815230500 +0000">
     <title lang="en">Peat &amp; Diesel -Trying to find a way to make a living</title>
     <desc lang="en">1/2. Being on the road all the time brings challenges for Peat &amp; Diesel. Contains some strong language and adult humour.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/de5cb3af-9b3f-4342-9445-0fecfce4df92/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/304e3991-1d42-3bfe-968f-2275a1d7500b/cover"/>
+    <episode-num system="xmltv_ns">1.0.0</episode-num>
+    <episode-num system="onscreen">S2E1</episode-num>
   </programme>
   <programme channel="BBCAlba.uk" start="20260815230500 +0000" stop="20260816000000 +0000">
     <title lang="en">Belladrum 2025 - Texas</title>
     <desc lang="en">24/30. Iconic Scottish band Texas return to Belladrum to headline Saturday night. Contains strong language.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/2c0cf24d-eacd-4b0d-bf6f-de2bed6d655c/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/96aa4290-82df-4396-a373-cd7bb0ed05df/cover"/>
+    <episode-num system="xmltv_ns">2024.23.0</episode-num>
+    <episode-num system="onscreen">S2025E24</episode-num>
   </programme>
   <programme channel="BBCAlba.uk" start="20260816000000 +0000" stop="20260816050000 +0000">
     <title lang="en">Alba Today</title>
@@ -9514,7 +9494,7 @@
   <programme channel="BBCAlba.uk" start="20260816173000 +0000" stop="20260816183000 +0000">
     <title lang="en">Seachd Là/News Review</title>
     <desc lang="en">Naidheachdan ionadail, nàiseanta is eadar-nàiseanta gach seachdainn le sgioba-naidheachd BBC ALBA. Local, national and international news from BBC ALBA.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/241d3e79-f2d7-4142-9738-0a1ffe3dc75d/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/6c42bd88-b21e-41a7-9248-85115642b9cb/cover"/>
   </programme>
   <programme channel="BBCAlba.uk" start="20260816183000 +0000" stop="20260816190000 +0000">
     <title lang="en">Alleluia!</title>
@@ -9554,12 +9534,16 @@
   <programme channel="BBCAlba.uk" start="20260816210000 +0000" stop="20260816220000 +0000">
     <title lang="en">Peat &amp; Diesel -Trying to find a way to make a living</title>
     <desc lang="en">1/2. Being on the road all the time brings challenges for Peat &amp; Diesel. Contains some strong language and adult humour.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/cdeddbae-d6ca-4886-a976-06bcc7af43d4/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/304e3991-1d42-3bfe-968f-2275a1d7500b/cover"/>
+    <episode-num system="xmltv_ns">1.0.0</episode-num>
+    <episode-num system="onscreen">S2E1</episode-num>
   </programme>
   <programme channel="BBCAlba.uk" start="20260816220000 +0000" stop="20260816230000 +0000">
     <title lang="en">Coin Trusaidh/Muster Dogs</title>
     <desc lang="en">2/4. It's spring and the puppies are four months old, time for assessments already!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/7485b11a-36b8-478b-80fd-df7198ace227/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/a1114a3f-f84c-433c-ad07-9343e5724c7a/cover"/>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="BBCFourHD.uk" start="20260813210000 +0000" stop="20260813224000 +0000">
     <title lang="en">Inside Llewyn Davis</title>
@@ -10022,7 +10006,7 @@
   </programme>
   <programme channel="BBCNews.uk" start="20260814223000 +0000" stop="20260814224500 +0000">
     <title lang="en">The President's Path</title>
-    <desc lang="en">Join Caitríona Perry and Sumi Somaskanda for a dynamic weekly discussion on the US presidency.</desc>
+    <desc lang="en">Artificial intelligence data centres take centre stage in the US political debate.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/906c52fa-f106-4c10-bb51-d62c775db821/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260814224500 +0000" stop="20260814230000 +0000">
@@ -10056,8 +10040,8 @@
     <icon src="https://images.metadata.sky.com/pd-image/99795492-b92e-4fd7-a011-a15d35194242/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260815013000 +0000" stop="20260815020000 +0000">
-    <title lang="en">World's Ultimate Adventures</title>
-    <desc lang="en">Chef Julie Lin's Turkish adventure blends food and history in the country's south east.</desc>
+    <title lang="en">World's Ultimate Adventures:...</title>
+    <desc lang="en">...Turkey's South Eastern Soul. Chef Julie Lin's Turkish adventure blends food and history in the country's south east.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/436d9681-7585-46f8-8546-dce9d66eed03/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260815020000 +0000" stop="20260815023000 +0000">
@@ -10243,7 +10227,7 @@
   <programme channel="BBCNews.uk" start="20260816003000 +0000" stop="20260816010000 +0000">
     <title lang="en">World's Ultimate Adventures: The Land of Troy</title>
     <desc lang="en">Janina Ramirez explores Turkey's Aegean coast, the land of the legend of Troy.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f6e66e69-31a3-4648-aa41-0044b8940073/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/7de50c8e-12a8-429d-8ecb-c03697e49d91/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260816010000 +0000" stop="20260816013000 +0000">
     <title lang="en">BBC News</title>
@@ -10281,8 +10265,8 @@
     <icon src="https://images.metadata.sky.com/pd-image/266c9ce7-8642-4aa1-8d05-5ce2ebbf62f4/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260816043000 +0000" stop="20260816050000 +0000">
-    <title lang="en">World's Ultimate Adventures</title>
-    <desc lang="en">Chef Julie Lin's Turkish adventure blends food and history in the country's south east.</desc>
+    <title lang="en">World's Ultimate Adventures:...</title>
+    <desc lang="en">...Turkey's South Eastern Soul. Chef Julie Lin's Turkish adventure blends food and history in the country's south east.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/436d9681-7585-46f8-8546-dce9d66eed03/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260816050000 +0000" stop="20260816080000 +0000">
@@ -10317,7 +10301,7 @@
   </programme>
   <programme channel="BBCNews.uk" start="20260816104500 +0000" stop="20260816110000 +0000">
     <title lang="en">The President's Path</title>
-    <desc lang="en">Join Caitríona Perry and Sumi Somaskanda for a dynamic weekly discussion on the US presidency.</desc>
+    <desc lang="en">Artificial intelligence data centres take centre stage in the US political debate.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/906c52fa-f106-4c10-bb51-d62c775db821/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260816110000 +0000" stop="20260816113000 +0000">
@@ -10528,7 +10512,7 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260814180000 +0000" stop="20260814190000 +0000">
     <title lang="en">The One Show at 20</title>
-    <desc lang="en">An extended 20th anniversary special sees Alex Jones and Roman Kemp bring together some of the biggest names, favourite stories and greatest moments from the show.</desc>
+    <desc lang="en">Christine Lampard, Matt Baker and Tom Grennan join Alex Jones, Roman Kemp and the team to celebrate the biggest names, favourite stories and greatest moments from the last two decades.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/90202314-835b-4273-ba15-8792fccaa309/cover"/>
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260814190000 +0000" stop="20260814210000 +0000">
@@ -10895,7 +10879,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20260814180000 +0000" stop="20260814190000 +0000">
     <title lang="en">The One Show at 20</title>
-    <desc lang="en">An extended 20th anniversary special sees Alex Jones and Roman Kemp bring together some of the biggest names, favourite stories and greatest moments from the show.</desc>
+    <desc lang="en">Christine Lampard, Matt Baker and Tom Grennan join Alex Jones, Roman Kemp and the team to celebrate the biggest names, favourite stories and greatest moments from the last two decades.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/90202314-835b-4273-ba15-8792fccaa309/cover"/>
   </programme>
   <programme channel="BBCOneEast.uk" start="20260814190000 +0000" stop="20260814210000 +0000">
@@ -11262,7 +11246,7 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260814180000 +0000" stop="20260814190000 +0000">
     <title lang="en">The One Show at 20</title>
-    <desc lang="en">An extended 20th anniversary special sees Alex Jones and Roman Kemp bring together some of the biggest names, favourite stories and greatest moments from the show.</desc>
+    <desc lang="en">Christine Lampard, Matt Baker and Tom Grennan join Alex Jones, Roman Kemp and the team to celebrate the biggest names, favourite stories and greatest moments from the last two decades.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/90202314-835b-4273-ba15-8792fccaa309/cover"/>
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260814190000 +0000" stop="20260814210000 +0000">
@@ -11629,7 +11613,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260814180000 +0000" stop="20260814190000 +0000">
     <title lang="en">The One Show at 20</title>
-    <desc lang="en">An extended 20th anniversary special sees Alex Jones and Roman Kemp bring together some of the biggest names, favourite stories and greatest moments from the show.</desc>
+    <desc lang="en">Christine Lampard, Matt Baker and Tom Grennan join Alex Jones, Roman Kemp and the team to celebrate the biggest names, favourite stories and greatest moments from the last two decades.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/90202314-835b-4273-ba15-8792fccaa309/cover"/>
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260814190000 +0000" stop="20260814210000 +0000">
@@ -11996,7 +11980,7 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260814180000 +0000" stop="20260814190000 +0000">
     <title lang="en">The One Show at 20</title>
-    <desc lang="en">An extended 20th anniversary special sees Alex Jones and Roman Kemp bring together some of the biggest names, favourite stories and greatest moments from the show.</desc>
+    <desc lang="en">Christine Lampard, Matt Baker and Tom Grennan join Alex Jones, Roman Kemp and the team to celebrate the biggest names, favourite stories and greatest moments from the last two decades.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/90202314-835b-4273-ba15-8792fccaa309/cover"/>
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260814190000 +0000" stop="20260814210000 +0000">
@@ -12363,7 +12347,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260814180000 +0000" stop="20260814190000 +0000">
     <title lang="en">The One Show at 20</title>
-    <desc lang="en">An extended 20th anniversary special sees Alex Jones and Roman Kemp bring together some of the biggest names, favourite stories and greatest moments from the show.</desc>
+    <desc lang="en">Christine Lampard, Matt Baker and Tom Grennan join Alex Jones, Roman Kemp and the team to celebrate the biggest names, favourite stories and greatest moments from the last two decades.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/90202314-835b-4273-ba15-8792fccaa309/cover"/>
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260814190000 +0000" stop="20260814210000 +0000">
@@ -12737,7 +12721,7 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260814180000 +0000" stop="20260814190000 +0000">
     <title lang="en">The One Show at 20</title>
-    <desc lang="en">An extended 20th anniversary special sees Alex Jones and Roman Kemp bring together some of the biggest names, favourite stories and greatest moments from the show.</desc>
+    <desc lang="en">Christine Lampard, Matt Baker and Tom Grennan join Alex Jones, Roman Kemp and the team to celebrate the biggest names, favourite stories and greatest moments from the last two decades.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/90202314-835b-4273-ba15-8792fccaa309/cover"/>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260814190000 +0000" stop="20260814210000 +0000">
@@ -13096,7 +13080,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260814180000 +0000" stop="20260814190000 +0000">
     <title lang="en">The One Show at 20</title>
-    <desc lang="en">An extended 20th anniversary special sees Alex Jones and Roman Kemp bring together some of the biggest names, favourite stories and greatest moments from the show.</desc>
+    <desc lang="en">Christine Lampard, Matt Baker and Tom Grennan join Alex Jones, Roman Kemp and the team to celebrate the biggest names, favourite stories and greatest moments from the last two decades.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/90202314-835b-4273-ba15-8792fccaa309/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260814190000 +0000" stop="20260814210000 +0000">
@@ -13463,7 +13447,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260814180000 +0000" stop="20260814190000 +0000">
     <title lang="en">The One Show at 20</title>
-    <desc lang="en">An extended 20th anniversary special sees Alex Jones and Roman Kemp bring together some of the biggest names, favourite stories and greatest moments from the show.</desc>
+    <desc lang="en">Christine Lampard, Matt Baker and Tom Grennan join Alex Jones, Roman Kemp and the team to celebrate the biggest names, favourite stories and greatest moments from the last two decades.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/90202314-835b-4273-ba15-8792fccaa309/cover"/>
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260814190000 +0000" stop="20260814210000 +0000">
@@ -13830,7 +13814,7 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260814180000 +0000" stop="20260814190000 +0000">
     <title lang="en">The One Show at 20</title>
-    <desc lang="en">An extended 20th anniversary special sees Alex Jones and Roman Kemp bring together some of the biggest names, favourite stories and greatest moments from the show.</desc>
+    <desc lang="en">Christine Lampard, Matt Baker and Tom Grennan join Alex Jones, Roman Kemp and the team to celebrate the biggest names, favourite stories and greatest moments from the last two decades.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/90202314-835b-4273-ba15-8792fccaa309/cover"/>
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260814190000 +0000" stop="20260814210000 +0000">
@@ -14197,7 +14181,7 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260814180000 +0000" stop="20260814190000 +0000">
     <title lang="en">The One Show at 20</title>
-    <desc lang="en">An extended 20th anniversary special sees Alex Jones and Roman Kemp bring together some of the biggest names, favourite stories and greatest moments from the show.</desc>
+    <desc lang="en">Christine Lampard, Matt Baker and Tom Grennan join Alex Jones, Roman Kemp and the team to celebrate the biggest names, favourite stories and greatest moments from the last two decades.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/90202314-835b-4273-ba15-8792fccaa309/cover"/>
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260814190000 +0000" stop="20260814210000 +0000">
@@ -14564,7 +14548,7 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20260814180000 +0000" stop="20260814190000 +0000">
     <title lang="en">The One Show at 20</title>
-    <desc lang="en">An extended 20th anniversary special sees Alex Jones and Roman Kemp bring together some of the biggest names, favourite stories and greatest moments from the show.</desc>
+    <desc lang="en">Christine Lampard, Matt Baker and Tom Grennan join Alex Jones, Roman Kemp and the team to celebrate the biggest names, favourite stories and greatest moments from the last two decades.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/90202314-835b-4273-ba15-8792fccaa309/cover"/>
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20260814190000 +0000" stop="20260814210000 +0000">
@@ -14931,7 +14915,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20260814180000 +0000" stop="20260814190000 +0000">
     <title lang="en">The One Show at 20</title>
-    <desc lang="en">An extended 20th anniversary special sees Alex Jones and Roman Kemp bring together some of the biggest names, favourite stories and greatest moments from the show.</desc>
+    <desc lang="en">Christine Lampard, Matt Baker and Tom Grennan join Alex Jones, Roman Kemp and the team to celebrate the biggest names, favourite stories and greatest moments from the last two decades.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/90202314-835b-4273-ba15-8792fccaa309/cover"/>
   </programme>
   <programme channel="BBCOneWest.uk" start="20260814190000 +0000" stop="20260814210000 +0000">
@@ -15298,7 +15282,7 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260814180000 +0000" stop="20260814190000 +0000">
     <title lang="en">The One Show at 20</title>
-    <desc lang="en">An extended 20th anniversary special sees Alex Jones and Roman Kemp bring together some of the biggest names, favourite stories and greatest moments from the show.</desc>
+    <desc lang="en">Christine Lampard, Matt Baker and Tom Grennan join Alex Jones, Roman Kemp and the team to celebrate the biggest names, favourite stories and greatest moments from the last two decades.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/90202314-835b-4273-ba15-8792fccaa309/cover"/>
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260814190000 +0000" stop="20260814210000 +0000">
@@ -15665,7 +15649,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260814180000 +0000" stop="20260814190000 +0000">
     <title lang="en">The One Show at 20</title>
-    <desc lang="en">An extended 20th anniversary special sees Alex Jones and Roman Kemp bring together some of the biggest names, favourite stories and greatest moments from the show.</desc>
+    <desc lang="en">Christine Lampard, Matt Baker and Tom Grennan join Alex Jones, Roman Kemp and the team to celebrate the biggest names, favourite stories and greatest moments from the last two decades.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/90202314-835b-4273-ba15-8792fccaa309/cover"/>
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260814190000 +0000" stop="20260814210000 +0000">
@@ -16032,7 +16016,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260814180000 +0000" stop="20260814190000 +0000">
     <title lang="en">The One Show at 20</title>
-    <desc lang="en">An extended 20th anniversary special sees Alex Jones and Roman Kemp bring together some of the biggest names, favourite stories and greatest moments from the show.</desc>
+    <desc lang="en">Christine Lampard, Matt Baker and Tom Grennan join Alex Jones, Roman Kemp and the team to celebrate the biggest names, favourite stories and greatest moments from the last two decades.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/90202314-835b-4273-ba15-8792fccaa309/cover"/>
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260814190000 +0000" stop="20260814210000 +0000">
@@ -16603,7 +16587,7 @@
   </programme>
   <programme channel="BBCScotland.uk" start="20260816200000 +0000" stop="20260816210000 +0000">
     <title lang="en">New: Paramedics on Scene</title>
-    <desc lang="en">8/10. The Special Operations Response Team deal with the aftermath of a public brawl in Glasgow City Centre. Elsewhere in the city, a crew treat a man who has collapsed in church.</desc>
+    <desc lang="en">8/10. The Special Operations Response Team deal with the aftermath of a public brawl in Glasgow city centre. Elsewhere in the city, a crew treat a man who has collapsed in church.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/80521dc7-e42a-4633-8fbc-0e6641d8f5f4/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">6.7.0</episode-num>
@@ -22675,7 +22659,7 @@
   </programme>
   <programme channel="Channel4.uk" start="20260814180000 +0000" stop="20260814190000 +0000">
     <title lang="en">Channel 4 News</title>
-    <desc lang="en">Channel 4's flagship news programme. Including the weather.</desc>
+    <desc lang="en">Andy Burnham warns the UK is like a tinderbox as wildfires reach record levels. Plus: Nigel Farage is re-elected and the parliamentary watchdog resumes its investigation into his finances.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/61ec1f13-02f0-41f0-839d-55cc3ee2e06a/cover"/>
   </programme>
   <programme channel="Channel4.uk" start="20260814190000 +0000" stop="20260814200000 +0000">
@@ -23395,7 +23379,7 @@
   </programme>
   <programme channel="Channel4Plus1.uk" start="20260814190000 +0000" stop="20260814200000 +0000">
     <title lang="en">Channel 4 News</title>
-    <desc lang="en">Channel 4's flagship news programme. Including the weather.</desc>
+    <desc lang="en">Andy Burnham warns the UK is like a tinderbox as wildfires reach record levels. Plus: Nigel Farage is re-elected and the parliamentary watchdog resumes its investigation into his finances.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/61ec1f13-02f0-41f0-839d-55cc3ee2e06a/cover"/>
   </programme>
   <programme channel="Channel4Plus1.uk" start="20260814200000 +0000" stop="20260814210000 +0000">
@@ -24413,8 +24397,8 @@
     <episode-num system="onscreen">S1E4</episode-num>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20260815124000 +0000" stop="20260815134000 +0000">
-    <title lang="en">New: The Royals: Uncensored</title>
-    <desc lang="en">Katie Nicholl and Jo Elvin host this show that pulls back the velvet curtain on the world's most famous family with fearless debate, insider analysis and exclusive insights.</desc>
+    <title lang="en">New: The Royals: Uncensored:...</title>
+    <desc lang="en">...Harry's Royal Reconciliation? Harry's determined to reconcile, but can it ever happen? Katie Nicholl and Jo Elvin discuss.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1ee01737-0512-4b62-b3f9-61db8e2697b8/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.7.0</episode-num>
@@ -41289,12 +41273,15 @@
     <desc lang="en">A selection of dramatic horse racing finishes from ITV Racing's coverage that features thrilling races from Cheltenham, Aintree, Ascot and York.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/87b19cdf-02e4-4ecf-9a89-f8a2ca4e56d7/cover"/>
   </programme>
-  <programme channel="ITV4.uk" start="20260814111000 +0000" stop="20260814131000 +0000">
-    <title lang="en">Magnum, P.I.</title>
-    <desc lang="en">LA: When Robin sends Thomas on a business trip to Los Angeles, the PI meets a comedian who is promptly murdered and accidentally proposes to a woman.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a5bc903f-9a4c-3ca1-96fd-14a8e046b799/cover"/>
-    <episode-num system="xmltv_ns">6.0.0</episode-num>
-    <episode-num system="onscreen">S7E1</episode-num>
+  <programme channel="ITV4.uk" start="20260814111000 +0000" stop="20260814124000 +0000">
+    <title lang="en">The Motorbike Show</title>
+    <desc lang="en">Henry Cole rides through the Cotswolds, tells the story of the Yamaha V-Max, meets top rider Maria Costello and finishes restoring the Suzuki JiXR.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ccc4ef21-a152-4f54-9bcc-a097fe9772eb/cover"/>
+  </programme>
+  <programme channel="ITV4.uk" start="20260814124000 +0000" stop="20260814131000 +0000">
+    <title lang="en">Made in Britain</title>
+    <desc lang="en">Edwin Jagger Safety Razors and Savile Row Suits: Meet the Sheffield man making classic safety razors, then learn about the labour of love that goes into making a Savile Row suit.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/fd0194fc-e86a-4323-b373-be2821058887/cover"/>
   </programme>
   <programme channel="ITV4.uk" start="20260814131000 +0000" stop="20260814141500 +0000">
     <title lang="en">Magnum, P.I.</title>
@@ -41450,7 +41437,7 @@
   <programme channel="ITV4.uk" start="20260815210000 +0000" stop="20260815211500 +0000">
     <title lang="en">Goals of the 1990s</title>
     <desc lang="en">A look at some of the greatest goals from the 1990s, including memorable World Cup strikes by Platt, Maradona and Owen, and Euros classics from Gascoigne, Suker and Poborsky.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/2cfcd1cf-2f33-4f3d-a0da-afe0e17c80f3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/4aa3e9de-4cbd-40a6-8694-aa76c6ca5a7d/cover"/>
   </programme>
   <programme channel="ITV4.uk" start="20260815211500 +0000" stop="20260815224500 +0000">
     <title lang="en">English Football League Highlights</title>
@@ -41527,7 +41514,7 @@
   <programme channel="ITV4.uk" start="20260816094500 +0000" stop="20260816100000 +0000">
     <title lang="en">Football League Legends</title>
     <desc lang="en">A selection of goals from some of the superstars of the game - including Kevin Keegan and Paul Gascoigne - who played in the old First Division in the 1970s, 1980s and 1990s.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/003380af-3caa-4302-bec5-aa9e90883fb5/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/ea9975c3-f014-4fad-95d7-479fd9e578f3/cover"/>
   </programme>
   <programme channel="ITV4.uk" start="20260816100000 +0000" stop="20260816114000 +0000">
     <title lang="en">Cadfael</title>
@@ -41558,7 +41545,9 @@
   <programme channel="ITV4.uk" start="20260816180000 +0000" stop="20260816183000 +0000">
     <title lang="en">River Monsters</title>
     <desc lang="en">Japanese Horrors: Angler Jeremy Wade goes on the trail of an extraordinary legend - a sinister child-snatching killer called the kappa - when he visits Japan for the first time.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/ca9d54e6-51ce-433a-af04-df0f517ba5e5/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/7f25d9e7-f078-4901-b74d-634547c7ad7d/cover"/>
+    <episode-num system="xmltv_ns">2.6.0</episode-num>
+    <episode-num system="onscreen">S3E7</episode-num>
   </programme>
   <programme channel="ITV4.uk" start="20260816183000 +0000" stop="20260816205500 +0000">
     <title lang="en">French Super Cup: RC Lens v PSG</title>
@@ -41568,7 +41557,7 @@
   <programme channel="ITV4.uk" start="20260816205500 +0000" stop="20260816210000 +0000">
     <title lang="en">Nijinsky's Triple Crown</title>
     <desc lang="en">A short sports film about the legendary racehorse.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/83f0ba8d-a966-4246-b2ce-75d3e6b137ba/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/eb8bb6fe-9389-3789-af0f-1cd40070b2d2/cover"/>
   </programme>
   <programme channel="ITV4.uk" start="20260816210000 +0000" stop="20260816220000 +0000">
     <title lang="en">Under Siege 2: Dark Territory</title>
@@ -41583,7 +41572,7 @@
   <programme channel="ITV4.uk" start="20260816220500 +0000" stop="20260816230500 +0000">
     <title lang="en">Under Siege 2: Dark Territory</title>
     <desc lang="en">Action thriller film sequel starring Steven Seagal and Katherine Heigl, 1995. Ex-Navy SEAL Casey Ryback re-enters action when a train he is on is hijacked by nefarious mercenaries.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/2251e5c7-b6cc-47dc-a775-0b3990528a56/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/541785c4-228e-467f-b9ac-67fa39b86311/cover"/>
   </programme>
   <programme channel="ITV4Plus1.uk" start="20260813213500 +0000" stop="20260813220000 +0000">
     <title lang="en">Benidorm</title>
@@ -41670,12 +41659,15 @@
     <desc lang="en">A selection of dramatic horse racing finishes from ITV Racing's coverage that features thrilling races from Cheltenham, Aintree, Ascot and York.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/87b19cdf-02e4-4ecf-9a89-f8a2ca4e56d7/cover"/>
   </programme>
-  <programme channel="ITV4Plus1.uk" start="20260814121000 +0000" stop="20260814141000 +0000">
-    <title lang="en">Magnum, P.I.</title>
-    <desc lang="en">LA: When Robin sends Thomas on a business trip to Los Angeles, the PI meets a comedian who is promptly murdered and accidentally proposes to a woman.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a5bc903f-9a4c-3ca1-96fd-14a8e046b799/cover"/>
-    <episode-num system="xmltv_ns">6.0.0</episode-num>
-    <episode-num system="onscreen">S7E1</episode-num>
+  <programme channel="ITV4Plus1.uk" start="20260814121000 +0000" stop="20260814134000 +0000">
+    <title lang="en">The Motorbike Show</title>
+    <desc lang="en">Henry Cole rides through the Cotswolds, tells the story of the Yamaha V-Max, meets top rider Maria Costello and finishes restoring the Suzuki JiXR.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f8aa714b-e6e5-407d-87a1-bf6e7248b4b2/cover"/>
+  </programme>
+  <programme channel="ITV4Plus1.uk" start="20260814134000 +0000" stop="20260814141000 +0000">
+    <title lang="en">Made in Britain</title>
+    <desc lang="en">Edwin Jagger Safety Razors and Savile Row Suits: Meet the Sheffield man making classic safety razors, then learn about the labour of love that goes into making a Savile Row suit.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/c71eb924-250f-43f1-9f7f-8be6521b8928/cover"/>
   </programme>
   <programme channel="ITV4Plus1.uk" start="20260814141000 +0000" stop="20260814151500 +0000">
     <title lang="en">Magnum, P.I.</title>
@@ -41831,7 +41823,7 @@
   <programme channel="ITV4Plus1.uk" start="20260815220000 +0000" stop="20260815221500 +0000">
     <title lang="en">Goals of the 1990s</title>
     <desc lang="en">A look at some of the greatest goals from the 1990s, including memorable World Cup strikes by Platt, Maradona and Owen, and Euros classics from Gascoigne, Suker and Poborsky.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a43dfec3-094c-4e2b-b01c-e3448a818386/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/4aa3e9de-4cbd-40a6-8694-aa76c6ca5a7d/cover"/>
   </programme>
   <programme channel="ITV4Plus1.uk" start="20260815221500 +0000" stop="20260815234500 +0000">
     <title lang="en">English Football League Highlights</title>
@@ -41908,7 +41900,7 @@
   <programme channel="ITV4Plus1.uk" start="20260816104500 +0000" stop="20260816110000 +0000">
     <title lang="en">Football League Legends</title>
     <desc lang="en">A selection of goals from some of the superstars of the game - including Kevin Keegan and Paul Gascoigne - who played in the old First Division in the 1970s, 1980s and 1990s.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f42d0973-6249-48a0-abe0-1db502f283f6/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/ea9975c3-f014-4fad-95d7-479fd9e578f3/cover"/>
   </programme>
   <programme channel="ITV4Plus1.uk" start="20260816110000 +0000" stop="20260816124000 +0000">
     <title lang="en">Cadfael</title>
@@ -41939,7 +41931,9 @@
   <programme channel="ITV4Plus1.uk" start="20260816190000 +0000" stop="20260816193000 +0000">
     <title lang="en">River Monsters</title>
     <desc lang="en">Japanese Horrors: Angler Jeremy Wade goes on the trail of an extraordinary legend - a sinister child-snatching killer called the kappa - when he visits Japan for the first time.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/04892035-7148-4f10-ac21-e273224dbb07/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/7f25d9e7-f078-4901-b74d-634547c7ad7d/cover"/>
+    <episode-num system="xmltv_ns">2.6.0</episode-num>
+    <episode-num system="onscreen">S3E7</episode-num>
   </programme>
   <programme channel="ITV4Plus1.uk" start="20260816193000 +0000" stop="20260816215500 +0000">
     <title lang="en">French Super Cup: RC Lens v PSG</title>
@@ -41949,7 +41943,7 @@
   <programme channel="ITV4Plus1.uk" start="20260816215500 +0000" stop="20260816220000 +0000">
     <title lang="en">Nijinsky's Triple Crown</title>
     <desc lang="en">A short sports film about the legendary racehorse.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1a954958-8988-4847-a7d2-16f376662c60/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/eb8bb6fe-9389-3789-af0f-1cd40070b2d2/cover"/>
   </programme>
   <programme channel="ITV4Plus1.uk" start="20260816220000 +0000" stop="20260816230000 +0000">
     <title lang="en">Under Siege 2: Dark Territory</title>
