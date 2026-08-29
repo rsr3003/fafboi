@@ -9,7 +9,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 20
+      "episode": 20.0
     },
     {
       "title": "Sky Sports News",
@@ -20,7 +20,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 28
+      "episode": 28.0
     },
     {
       "title": "Sky Sports News",
@@ -31,7 +31,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 28
+      "episode": 28.0
     },
     {
       "title": "Live NFL P/S: Giants @ Jets",
@@ -42,7 +42,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 5
+      "episode": 5.0
     },
     {
       "title": "Sky Sports News",
@@ -53,7 +53,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 28
+      "episode": 28.0
     },
     {
       "title": "Sky Sports News",
@@ -64,7 +64,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 28
+      "episode": 28.0
     },
     {
       "title": "Sky Sports News",
@@ -75,7 +75,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 28
+      "episode": 28.0
     },
     {
       "title": "Sky Sports News",
@@ -86,7 +86,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 28
+      "episode": 28.0
     },
     {
       "title": "Sky Sports Breakfast",
@@ -97,7 +97,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 29
+      "episode": 29.0
     },
     {
       "title": "Sky Sports Breakfast",
@@ -108,7 +108,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 29
+      "episode": 29.0
     },
     {
       "title": "Sky Sports Breakfast",
@@ -119,7 +119,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 29
+      "episode": 29.0
     },
     {
       "title": "Sky Sports Breakfast",
@@ -130,29 +130,51 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 29
+      "episode": 29.0
     },
     {
       "title": "Premier League Weekend Live",
       "description": "Roman Kemp brings you your guide to the weekend's action in the best league in the world. Celebrity guests, interviews and expert opinion around the Premier League's big talking points.",
       "start": 1787994000,
-      "stop": 1787997600,
+      "stop": 1787997601,
       "icon": "https://images.metadata.sky.com/pd-image/2b597af9-ce7b-423b-8be9-695c2ffddd48/cover",
       "channel": "sky.main.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 2
+      "episode": 2.0
+    },
+    {
+      "title": "Live DP World Tour Golf: British Masters",
+      "description": "The third day of the 2026 Husqvarna British Masters hosted by Sir Nick Faldo, taking place at The Belfry. Alex Noren claimed his second title at this event last season.",
+      "start": 1787997601,
+      "stop": 1788003000,
+      "icon": "https://images.metadata.sky.com/pd-image/d0a40f9c-c45c-4c63-a68e-6b7f9208e680/cover",
+      "channel": "sky.main.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "Live EFL: Middlesbrough v West Bromwich",
+      "description": "Out to maintain their winning start to the 2026-27 Championship campaign, James Morrison's buoyant Baggies travel to the Riverside to face Kim Hellberg's Middlesbrough.",
+      "start": 1788003000,
+      "stop": 1788012000,
+      "icon": "https://images.metadata.sky.com/pd-image/7156acb0-d4f4-462c-be21-60fd15ecc5f9/cover",
+      "channel": "sky.main.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
     },
     {
       "title": "Live 2nd Test Day 3: ENG v PAK",
-      "description": "Day three of the second Test in a three-match series between England and Pakistan at Lord's.",
-      "start": 1787997600,
+      "description": "Starting day three at Lord's in command of the second Test with a 261-run lead over Pakistan, England look to pull away. Yesterday, the hosts' pace attack rattled through the tourists.",
+      "start": 1788012000,
       "stop": 1788019200,
       "icon": "https://images.metadata.sky.com/pd-image/7ca82449-c97e-4410-ad9f-de03c97ab1f9/cover",
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 8
+      "episode": 8.0
     },
     {
       "title": "Live SNF: Spurs v Newcastle",
@@ -163,7 +185,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 2
+      "episode": 2.0
     },
     {
       "title": "Live Fight Night: MVP Boxing",
@@ -174,18 +196,18 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 7
+      "episode": 7.0
     },
     {
       "title": "Live PGA Tour Golf",
-      "description": "Day three of the Tour Championship - the climactic event of the FedEx Cup Playoffs - at East Lake Golf Club in Atlanta. A year ago, Tommy Fleetwood's ended his wait for PGA Tour triumph.",
+      "description": "Day three of the Tour Championship - the climactic event of the FedEx Cup Playoffs. Ryan Gerard and Viktor Hovland shared the 36-hole lead with Scottie Scheffler two shots back.",
       "start": 1788040800,
       "stop": 1788044400,
       "icon": "https://images.metadata.sky.com/pd-image/ab88435e-9d47-4176-ab17-f9c1c41238b8/cover",
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 127
+      "episode": 127.0
     },
     {
       "title": "Sky Sports News",
@@ -196,18 +218,18 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 29
+      "episode": 29.0
     },
     {
       "title": "Live: WTA Monterrey Final",
-      "description": "A women's singles champion is crowned in the Monterrey final.",
+      "description": "The Monterrey second seed Elise Mertens competes in her 17th singles final, and first of the year, against first-time WTA finalist, Diane Parry of France.",
       "start": 1788046200,
       "stop": 1788053400,
       "icon": "https://images.metadata.sky.com/pd-image/e6bf197c-6e5b-49dd-a433-d7b2696a6ae1/cover",
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 24
+      "episode": 24.0
     },
     {
       "title": "Sky Sports News",
@@ -218,7 +240,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 29
+      "episode": 29.0
     },
     {
       "title": "Sky Sports News",
@@ -229,7 +251,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 29
+      "episode": 29.0
     },
     {
       "title": "Sky Sports News",
@@ -240,7 +262,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 29
+      "episode": 29.0
     },
     {
       "title": "Sky Sports News",
@@ -251,7 +273,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 29
+      "episode": 29.0
     },
     {
       "title": "Sky Sports News",
@@ -262,7 +284,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 29
+      "episode": 29.0
     },
     {
       "title": "Sky Sports Breakfast",
@@ -273,7 +295,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 30
+      "episode": 30.0
     },
     {
       "title": "Sky Sports Breakfast",
@@ -284,7 +306,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 30
+      "episode": 30.0
     },
     {
       "title": "Sunday Supplement",
@@ -295,7 +317,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 25
+      "episode": 25.0
     },
     {
       "title": "Live SPFL: Aberdeen v Rangers",
@@ -306,7 +328,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 13
+      "episode": 13.0
     },
     {
       "title": "Live PL: Chelsea v Brighton",
@@ -317,7 +339,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 2
+      "episode": 2.0
     },
     {
       "title": "Live PL: Manchester Utd v Ipswich",
@@ -328,7 +350,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 2
+      "episode": 2.0
     },
     {
       "title": "Live PGA Tour Golf",
@@ -339,7 +361,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 128
+      "episode": 128.0
     },
     {
       "title": "Live: US Open Day 1",
@@ -350,7 +372,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 8
+      "episode": 8.0
     },
     {
       "title": "Live: US Open Day 1",
@@ -361,7 +383,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 23
+      "episode": 23.0
     },
     {
       "title": "Live: US Open Day 1",
@@ -372,7 +394,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 24
+      "episode": 24.0
     },
     {
       "title": "Sky Sports News",
@@ -383,7 +405,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 30
+      "episode": 30.0
     },
     {
       "title": "Sky Sports News",
@@ -394,7 +416,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 30
+      "episode": 30.0
     },
     {
       "title": "Sky Sports Breakfast",
@@ -405,7 +427,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 31
+      "episode": 31.0
     },
     {
       "title": "Sky Sports Breakfast",
@@ -416,7 +438,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 31
+      "episode": 31.0
     },
     {
       "title": "Good Morning Transfers",
@@ -427,7 +449,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 21
+      "episode": 21.0
     },
     {
       "title": "2nd Test D4: ENG v PAK Highlights",
@@ -438,7 +460,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 9
+      "episode": 9.0
     },
     {
       "title": "Live 2nd Test Day 5: ENG v PAK",
@@ -449,7 +471,7 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 10
+      "episode": 10.0
     },
     {
       "title": "Live MNF: Aston Villa v Arsenal",
@@ -460,18 +482,18 @@
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 2
+      "episode": 2.0
     },
     {
       "title": "Live: US Open Day 2",
       "description": "Day two of the 2026 US Open - the fourth and final Grand Slam of the year - at Flushing Meadows in New York City.",
-      "start": 1788213600,
-      "stop": 1788217200,
+      "start": 1788211800,
+      "stop": 1788215400,
       "icon": "https://images.metadata.sky.com/pd-image/3ee0a0f5-cef9-41a3-97f0-eab7a38d581d/cover",
       "channel": "sky.main.uk",
       "premiere": false,
       "season": null,
-      "episode": 9
+      "episode": 9.0
     }
   ],
   "sky.premier.uk": [
@@ -3330,7 +3352,7 @@
     },
     {
       "title": "Live: ATP Winston Salem Final",
-      "description": "A men's singles champion is crowned in the Winston-Salem final.",
+      "description": "Britain's Arthur Fery, a Wimbledon semi-finalist last month, now seeks his first ATP Tour title as the 24-year-old plays world number 36 Ignacio Buse in the Winston-Salem final.",
       "start": 1788033600,
       "stop": 1788040800,
       "icon": "https://images.metadata.sky.com/pd-image/20e0eb3e-6401-42b6-a4f9-759096bbc2d9/cover",
@@ -3363,7 +3385,7 @@
     },
     {
       "title": "Live: WTA Monterrey Final",
-      "description": "A women's singles champion is crowned in the Monterrey final.",
+      "description": "The Monterrey second seed Elise Mertens competes in her 17th singles final, and first of the year, against first-time WTA finalist, Diane Parry of France.",
       "start": 1788046200,
       "stop": 1788053400,
       "icon": "https://images.metadata.sky.com/pd-image/e6bf197c-6e5b-49dd-a433-d7b2696a6ae1/cover",
@@ -3451,7 +3473,7 @@
     },
     {
       "title": "ATP Final: Winston Salem",
-      "description": "A men's singles champion is crowned in the Winston-Salem final.",
+      "description": "Britain's Arthur Fery, a Wimbledon semi-finalist last month, now seeks his first ATP Tour title as the 24-year-old plays world number 36 Ignacio Buse in the Winston-Salem final. (29.08)",
       "start": 1788066000,
       "stop": 1788071400,
       "icon": "https://images.metadata.sky.com/pd-image/d88b2d09-29e8-4c84-9b49-d37bc4bc63b8/cover",
@@ -3462,7 +3484,7 @@
     },
     {
       "title": "WTA Final: Monterrey",
-      "description": "A women's singles champion is crowned in the Monterrey final.",
+      "description": "The Monterrey second seed Elise Mertens competes in her 17th singles final, and first of the year, against first-time WTA finalist, Diane Parry of France. (29.08)",
       "start": 1788071400,
       "stop": 1788076800,
       "icon": "https://images.metadata.sky.com/pd-image/99dd47b5-b5ee-4679-a51c-f9bacbf475a5/cover",
@@ -6761,7 +6783,7 @@
     },
     {
       "title": "Live 2nd Test Day 3: ENG v PAK",
-      "description": "Day three of the second Test in a three-match series between England and Pakistan at Lord's.",
+      "description": "Starting day three at Lord's in command of the second Test with a 261-run lead over Pakistan, England look to pull away. Yesterday, the hosts' pace attack rattled through the tourists.",
       "start": 1787994900,
       "stop": 1788026400,
       "icon": "https://images.metadata.sky.com/pd-image/7ca82449-c97e-4410-ad9f-de03c97ab1f9/cover",
@@ -6805,7 +6827,7 @@
     },
     {
       "title": "2nd Test D3: ENG v PAK Highlights",
-      "description": "The third day of the second Test in a three-match series between England and Pakistan at Lord's. (29.08)",
+      "description": "Starting day three in command of the second Test with a 261-run lead over Pakistan, England look to pull away. Yesterday, the hosts' pace attack rattled through the tourists. (29.08)",
       "start": 1788030000,
       "stop": 1788033600,
       "icon": "https://images.metadata.sky.com/pd-image/f4d019c0-bd6a-4380-ba82-0eba8a264e71/cover",
@@ -6827,7 +6849,7 @@
     },
     {
       "title": "2nd Test D3: ENG v PAK Highlights",
-      "description": "Bitesize highlights from the third day of the second Test in a three-match series between England and Pakistan at Lord's. (29.08)",
+      "description": "Bitesize highlights from the third day of the second Test in a three-match series. England are firmly in command with a 261-run lead over Pakistan. (29.08)",
       "start": 1788035400,
       "stop": 1788036300,
       "icon": "https://images.metadata.sky.com/pd-image/73c11c56-323c-4db3-9e99-910623531457/cover",
@@ -6849,7 +6871,7 @@
     },
     {
       "title": "2nd Test D3: ENG v PAK Highlights",
-      "description": "The third day of the second Test in a three-match series between England and Pakistan at Lord's. (29.08)",
+      "description": "Starting day three in command of the second Test with a 261-run lead over Pakistan, England look to pull away. Yesterday, the hosts' pace attack rattled through the tourists. (29.08)",
       "start": 1788037200,
       "stop": 1788040800,
       "icon": "https://images.metadata.sky.com/pd-image/f4d019c0-bd6a-4380-ba82-0eba8a264e71/cover",
@@ -6871,7 +6893,7 @@
     },
     {
       "title": "2nd Test D3: ENG v PAK Highlights",
-      "description": "The third day of the second Test in a three-match series between England and Pakistan at Lord's. (29.08)",
+      "description": "Starting day three in command of the second Test with a 261-run lead over Pakistan, England look to pull away. Yesterday, the hosts' pace attack rattled through the tourists. (29.08)",
       "start": 1788044400,
       "stop": 1788048000,
       "icon": "https://images.metadata.sky.com/pd-image/f4d019c0-bd6a-4380-ba82-0eba8a264e71/cover",
@@ -6937,7 +6959,7 @@
     },
     {
       "title": "2nd Test D3: ENG v PAK Highlights",
-      "description": "The third day of the second Test in a three-match series between England and Pakistan at Lord's. (29.08)",
+      "description": "Starting day three in command of the second Test with a 261-run lead over Pakistan, England look to pull away. Yesterday, the hosts' pace attack rattled through the tourists. (29.08)",
       "start": 1788066000,
       "stop": 1788069600,
       "icon": "https://images.metadata.sky.com/pd-image/f4d019c0-bd6a-4380-ba82-0eba8a264e71/cover",
@@ -6970,7 +6992,7 @@
     },
     {
       "title": "2nd Test D3: ENG v PAK Highlights",
-      "description": "The third day of the second Test in a three-match series between England and Pakistan at Lord's. (29.08)",
+      "description": "Starting day three in command of the second Test with a 261-run lead over Pakistan, England look to pull away. Yesterday, the hosts' pace attack rattled through the tourists. (29.08)",
       "start": 1788073200,
       "stop": 1788076800,
       "icon": "https://images.metadata.sky.com/pd-image/f4d019c0-bd6a-4380-ba82-0eba8a264e71/cover",
@@ -6992,7 +7014,7 @@
     },
     {
       "title": "2nd Test D3: ENG v PAK Highlights",
-      "description": "Bitesize highlights from the third day of the second Test in a three-match series between England and Pakistan at Lord's. (29.08)",
+      "description": "Bitesize highlights from the third day of the second Test in a three-match series. England are firmly in command with a 261-run lead over Pakistan. (29.08)",
       "start": 1788080400,
       "stop": 1788081300,
       "icon": "https://images.metadata.sky.com/pd-image/73c11c56-323c-4db3-9e99-910623531457/cover",
@@ -7080,7 +7102,7 @@
     },
     {
       "title": "2nd Test D3: ENG v PAK Highlights",
-      "description": "Bitesize highlights from the third day of the second Test in a three-match series between England and Pakistan at Lord's. (29.08)",
+      "description": "Bitesize highlights from the third day of the second Test in a three-match series. England are firmly in command with a 261-run lead over Pakistan. (29.08)",
       "start": 1788122700,
       "stop": 1788123600,
       "icon": "https://images.metadata.sky.com/pd-image/73c11c56-323c-4db3-9e99-910623531457/cover",
@@ -7135,7 +7157,7 @@
     },
     {
       "title": "2nd Test D3: ENG v PAK Highlights",
-      "description": "The third day of the second Test in a three-match series between England and Pakistan at Lord's. (29.08)",
+      "description": "Starting day three in command of the second Test with a 261-run lead over Pakistan, England look to pull away. Yesterday, the hosts' pace attack rattled through the tourists. (29.08)",
       "start": 1788134400,
       "stop": 1788138000,
       "icon": "https://images.metadata.sky.com/pd-image/f4d019c0-bd6a-4380-ba82-0eba8a264e71/cover",
@@ -7190,7 +7212,7 @@
     },
     {
       "title": "2nd Test D3: ENG v PAK Highlights",
-      "description": "The third day of the second Test in a three-match series between England and Pakistan at Lord's. (29.08)",
+      "description": "Starting day three in command of the second Test with a 261-run lead over Pakistan, England look to pull away. Yesterday, the hosts' pace attack rattled through the tourists. (29.08)",
       "start": 1788156000,
       "stop": 1788159600,
       "icon": "https://images.metadata.sky.com/pd-image/f4d019c0-bd6a-4380-ba82-0eba8a264e71/cover",
@@ -7212,7 +7234,7 @@
     },
     {
       "title": "2nd Test D3: ENG v PAK Highlights",
-      "description": "The third day of the second Test in a three-match series between England and Pakistan at Lord's. (29.08)",
+      "description": "Starting day three in command of the second Test with a 261-run lead over Pakistan, England look to pull away. Yesterday, the hosts' pace attack rattled through the tourists. (29.08)",
       "start": 1788163200,
       "stop": 1788166800,
       "icon": "https://images.metadata.sky.com/pd-image/f4d019c0-bd6a-4380-ba82-0eba8a264e71/cover",
@@ -18399,11 +18421,11 @@
       "description": "The Zoological Society of London - the charity that runs London Zoo - is celebrating its 200th birthday this year. Roma Wells asks: what are zoos for? [S] [HD]",
       "start": 1787999400,
       "stop": 1788001200,
-      "icon": "https://images.metadata.sky.com/pd-image/f2191b57-769e-4e55-a296-861012cceec4/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/34393d21-2877-41d3-83d1-e3a960931e3d/cover",
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 27.0
     },
     {
       "title": "BBC News",
@@ -18475,19 +18497,8 @@
       "title": "BBC News",
       "description": "The latest news from the BBC. [S] [HD]",
       "start": 1788012000,
-      "stop": 1788013800,
-      "icon": "https://images.metadata.sky.com/pd-image/26ab7493-29dc-4782-aa79-64bd645be3be/cover",
-      "channel": "BBCNews.uk",
-      "premiere": false,
-      "season": null,
-      "episode": 0.0
-    },
-    {
-      "title": "BBC News",
-      "description": "The latest news from the BBC. [S] [HD]",
-      "start": 1788013800,
       "stop": 1788015600,
-      "icon": "https://images.metadata.sky.com/pd-image/b3b2644f-c52b-485d-b665-0040867d49dc/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/26ab7493-29dc-4782-aa79-64bd645be3be/cover",
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
@@ -18674,11 +18685,11 @@
       "description": "Elon Musk's SpaceX has sparked the public's imagination after its recent stock market debut, but what will all the money being thrown into the space industry actually achieve? [S] [HD]",
       "start": 1788049800,
       "stop": 1788051600,
-      "icon": "https://images.metadata.sky.com/pd-image/3846eb1b-000c-46f2-a69f-69639f96b29e/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/0706a1bb-8442-48c5-adea-8edfe7221e14/cover",
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 40.0
     },
     {
       "title": "BBC News",
@@ -19761,8 +19772,8 @@
       "episode": 0.0
     },
     {
-      "title": "Frank Lampard: The Football Interview",
-      "description": "Bold, in-depth conversations full of insight about the nation's favourite sport. [S] [HD]",
+      "title": "Frank Lampard with Tom Grennan: The Football Interview",
+      "description": "Musician and Coventry City fan Tom Grennan sits down with manager Frank Lampard to discuss the club's long-awaited return to the Premier League. [S] [HD]",
       "start": 1788003900,
       "stop": 1788004800,
       "icon": "https://images.metadata.sky.com/pd-image/8b4b174a-6138-4423-bf5d-dce26ebdf024/cover",
@@ -19967,7 +19978,7 @@
       "channel": "BBCOneChannelIslands.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 16.0
+      "episode": 23.0
     },
     {
       "title": "Weather for the Week Ahead",
@@ -20026,7 +20037,7 @@
     },
     {
       "title": "Sunday Morning Live",
-      "description": "2/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most. [S] [HD]",
+      "description": "2/23. Should pensioners pay more tax? Is it time to look at alternatives to prison? Plus, with the Notting Hill Carnival celebrating it's 60th birthday, there's a taste of the Caribbean. [S] [HD]",
       "start": 1788082200,
       "stop": 1788085800,
       "icon": "https://images.metadata.sky.com/pd-image/05dd4f6c-e5fa-43e1-87ad-90a4f73daa04/cover",
@@ -20176,7 +20187,7 @@
       "channel": "BBCOneChannelIslands.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 0.0
+      "episode": 73.0
     },
     {
       "title": "Hamza: African Birds of Prey",
@@ -20253,7 +20264,7 @@
       "channel": "BBCOneChannelIslands.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 17.0
+      "episode": 24.0
     },
     {
       "title": "Weather for the Week Ahead",
@@ -20610,8 +20621,8 @@
       "episode": 0.0
     },
     {
-      "title": "Frank Lampard: The Football Interview",
-      "description": "Bold, in-depth conversations full of insight about the nation's favourite sport. [S] [HD]",
+      "title": "Frank Lampard with Tom Grennan: The Football Interview",
+      "description": "Musician and Coventry City fan Tom Grennan sits down with manager Frank Lampard to discuss the club's long-awaited return to the Premier League. [S] [HD]",
       "start": 1788003900,
       "stop": 1788004800,
       "icon": "https://images.metadata.sky.com/pd-image/8b4b174a-6138-4423-bf5d-dce26ebdf024/cover",
@@ -20816,7 +20827,7 @@
       "channel": "BBCOneEast.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 16.0
+      "episode": 23.0
     },
     {
       "title": "Weather for the Week Ahead",
@@ -20875,7 +20886,7 @@
     },
     {
       "title": "Sunday Morning Live",
-      "description": "2/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most. [S] [HD]",
+      "description": "2/23. Should pensioners pay more tax? Is it time to look at alternatives to prison? Plus, with the Notting Hill Carnival celebrating it's 60th birthday, there's a taste of the Caribbean. [S] [HD]",
       "start": 1788082200,
       "stop": 1788085800,
       "icon": "https://images.metadata.sky.com/pd-image/05dd4f6c-e5fa-43e1-87ad-90a4f73daa04/cover",
@@ -21025,7 +21036,7 @@
       "channel": "BBCOneEast.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 0.0
+      "episode": 73.0
     },
     {
       "title": "Hamza: African Birds of Prey",
@@ -21102,7 +21113,7 @@
       "channel": "BBCOneEast.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 17.0
+      "episode": 24.0
     },
     {
       "title": "Weather for the Week Ahead",
@@ -21459,8 +21470,8 @@
       "episode": 0.0
     },
     {
-      "title": "Frank Lampard: The Football Interview",
-      "description": "Bold, in-depth conversations full of insight about the nation's favourite sport. [S] [HD]",
+      "title": "Frank Lampard with Tom Grennan: The Football Interview",
+      "description": "Musician and Coventry City fan Tom Grennan sits down with manager Frank Lampard to discuss the club's long-awaited return to the Premier League. [S] [HD]",
       "start": 1788003900,
       "stop": 1788004800,
       "icon": "https://images.metadata.sky.com/pd-image/8b4b174a-6138-4423-bf5d-dce26ebdf024/cover",
@@ -21665,7 +21676,7 @@
       "channel": "BBCOneEastMidlands.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 16.0
+      "episode": 23.0
     },
     {
       "title": "Weather for the Week Ahead",
@@ -21724,7 +21735,7 @@
     },
     {
       "title": "Sunday Morning Live",
-      "description": "2/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most. [S] [HD]",
+      "description": "2/23. Should pensioners pay more tax? Is it time to look at alternatives to prison? Plus, with the Notting Hill Carnival celebrating it's 60th birthday, there's a taste of the Caribbean. [S] [HD]",
       "start": 1788082200,
       "stop": 1788085800,
       "icon": "https://images.metadata.sky.com/pd-image/05dd4f6c-e5fa-43e1-87ad-90a4f73daa04/cover",
@@ -21874,7 +21885,7 @@
       "channel": "BBCOneEastMidlands.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 0.0
+      "episode": 73.0
     },
     {
       "title": "Hamza: African Birds of Prey",
@@ -21951,7 +21962,7 @@
       "channel": "BBCOneEastMidlands.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 17.0
+      "episode": 24.0
     },
     {
       "title": "Weather for the Week Ahead",
@@ -22308,8 +22319,8 @@
       "episode": 0.0
     },
     {
-      "title": "Frank Lampard: The Football Interview",
-      "description": "Bold, in-depth conversations full of insight about the nation's favourite sport. [S] [HD]",
+      "title": "Frank Lampard with Tom Grennan: The Football Interview",
+      "description": "Musician and Coventry City fan Tom Grennan sits down with manager Frank Lampard to discuss the club's long-awaited return to the Premier League. [S] [HD]",
       "start": 1788003900,
       "stop": 1788004800,
       "icon": "https://images.metadata.sky.com/pd-image/8b4b174a-6138-4423-bf5d-dce26ebdf024/cover",
@@ -22514,7 +22525,7 @@
       "channel": "BBCOneLondonHD.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 16.0
+      "episode": 23.0
     },
     {
       "title": "Weather for the Week Ahead",
@@ -22573,7 +22584,7 @@
     },
     {
       "title": "Sunday Morning Live",
-      "description": "2/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most. [S] [HD]",
+      "description": "2/23. Should pensioners pay more tax? Is it time to look at alternatives to prison? Plus, with the Notting Hill Carnival celebrating it's 60th birthday, there's a taste of the Caribbean. [S] [HD]",
       "start": 1788082200,
       "stop": 1788085800,
       "icon": "https://images.metadata.sky.com/pd-image/05dd4f6c-e5fa-43e1-87ad-90a4f73daa04/cover",
@@ -22723,7 +22734,7 @@
       "channel": "BBCOneLondonHD.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 0.0
+      "episode": 73.0
     },
     {
       "title": "Hamza: African Birds of Prey",
@@ -22800,7 +22811,7 @@
       "channel": "BBCOneLondonHD.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 17.0
+      "episode": 24.0
     },
     {
       "title": "Weather for the Week Ahead",
@@ -23157,8 +23168,8 @@
       "episode": 0.0
     },
     {
-      "title": "Frank Lampard: The Football Interview",
-      "description": "Bold, in-depth conversations full of insight about the nation's favourite sport. [S] [HD]",
+      "title": "Frank Lampard with Tom Grennan: The Football Interview",
+      "description": "Musician and Coventry City fan Tom Grennan sits down with manager Frank Lampard to discuss the club's long-awaited return to the Premier League. [S] [HD]",
       "start": 1788003900,
       "stop": 1788004800,
       "icon": "https://images.metadata.sky.com/pd-image/8b4b174a-6138-4423-bf5d-dce26ebdf024/cover",
@@ -23363,7 +23374,7 @@
       "channel": "BBCOneNorthEastCumbria.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 16.0
+      "episode": 23.0
     },
     {
       "title": "Weather for the Week Ahead",
@@ -23422,7 +23433,7 @@
     },
     {
       "title": "Sunday Morning Live",
-      "description": "2/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most. [S] [HD]",
+      "description": "2/23. Should pensioners pay more tax? Is it time to look at alternatives to prison? Plus, with the Notting Hill Carnival celebrating it's 60th birthday, there's a taste of the Caribbean. [S] [HD]",
       "start": 1788082200,
       "stop": 1788085800,
       "icon": "https://images.metadata.sky.com/pd-image/05dd4f6c-e5fa-43e1-87ad-90a4f73daa04/cover",
@@ -23572,7 +23583,7 @@
       "channel": "BBCOneNorthEastCumbria.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 0.0
+      "episode": 73.0
     },
     {
       "title": "Hamza: African Birds of Prey",
@@ -23649,7 +23660,7 @@
       "channel": "BBCOneNorthEastCumbria.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 17.0
+      "episode": 24.0
     },
     {
       "title": "Weather for the Week Ahead",
@@ -24006,8 +24017,8 @@
       "episode": 0.0
     },
     {
-      "title": "Frank Lampard: The Football Interview",
-      "description": "Bold, in-depth conversations full of insight about the nation's favourite sport. [S] [HD]",
+      "title": "Frank Lampard with Tom Grennan: The Football Interview",
+      "description": "Musician and Coventry City fan Tom Grennan sits down with manager Frank Lampard to discuss the club's long-awaited return to the Premier League. [S] [HD]",
       "start": 1788003900,
       "stop": 1788004800,
       "icon": "https://images.metadata.sky.com/pd-image/8b4b174a-6138-4423-bf5d-dce26ebdf024/cover",
@@ -24212,7 +24223,7 @@
       "channel": "BBCOneNorthWest.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 16.0
+      "episode": 23.0
     },
     {
       "title": "Weather for the Week Ahead",
@@ -24271,7 +24282,7 @@
     },
     {
       "title": "Sunday Morning Live",
-      "description": "2/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most. [S] [HD]",
+      "description": "2/23. Should pensioners pay more tax? Is it time to look at alternatives to prison? Plus, with the Notting Hill Carnival celebrating it's 60th birthday, there's a taste of the Caribbean. [S] [HD]",
       "start": 1788082200,
       "stop": 1788085800,
       "icon": "https://images.metadata.sky.com/pd-image/05dd4f6c-e5fa-43e1-87ad-90a4f73daa04/cover",
@@ -24421,7 +24432,7 @@
       "channel": "BBCOneNorthWest.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 0.0
+      "episode": 73.0
     },
     {
       "title": "Hamza: African Birds of Prey",
@@ -24498,7 +24509,7 @@
       "channel": "BBCOneNorthWest.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 17.0
+      "episode": 24.0
     },
     {
       "title": "Weather for the Week Ahead",
@@ -24855,8 +24866,8 @@
       "episode": 0.0
     },
     {
-      "title": "Frank Lampard: The Football Interview",
-      "description": "Bold, in-depth conversations full of insight about the nation's favourite sport. [S] [HD]",
+      "title": "Frank Lampard with Tom Grennan: The Football Interview",
+      "description": "Musician and Coventry City fan Tom Grennan sits down with manager Frank Lampard to discuss the club's long-awaited return to the Premier League. [S] [HD]",
       "start": 1788003900,
       "stop": 1788004800,
       "icon": "https://images.metadata.sky.com/pd-image/8b4b174a-6138-4423-bf5d-dce26ebdf024/cover",
@@ -25050,7 +25061,7 @@
       "channel": "BBCOneNorthernIreland.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 16.0
+      "episode": 23.0
     },
     {
       "title": "Weather for the Week Ahead",
@@ -25109,7 +25120,7 @@
     },
     {
       "title": "Sunday Morning Live",
-      "description": "2/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most. [S] [HD]",
+      "description": "2/23. Should pensioners pay more tax? Is it time to look at alternatives to prison? Plus, with the Notting Hill Carnival celebrating it's 60th birthday, there's a taste of the Caribbean. [S] [HD]",
       "start": 1788082200,
       "stop": 1788085800,
       "icon": "https://images.metadata.sky.com/pd-image/05dd4f6c-e5fa-43e1-87ad-90a4f73daa04/cover",
@@ -25248,7 +25259,7 @@
       "channel": "BBCOneNorthernIreland.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 0.0
+      "episode": 73.0
     },
     {
       "title": "Hamza: African Birds of Prey",
@@ -25325,7 +25336,7 @@
       "channel": "BBCOneNorthernIreland.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 17.0
+      "episode": 24.0
     },
     {
       "title": "Weather for the Week Ahead",
@@ -25397,12 +25408,23 @@
       "title": "Bargain Hunt",
       "description": "The teams have to take shelter at Ardingly antiques fair when the heavens open, but will there be pennies from heaven for one team at the auction? [S,AD] [HD]",
       "start": 1788174900,
-      "stop": 1788178800,
+      "stop": 1788177600,
       "icon": "https://images.metadata.sky.com/pd-image/108e7817-62ce-4d6c-8f1b-ddc7265c6c37/cover",
       "channel": "BBCOneNorthernIreland.uk",
       "premiere": false,
       "season": 63.0,
       "episode": 4.0
+    },
+    {
+      "title": "BBC News at One",
+      "description": "The latest national and international news from the BBC. [S] [HD]",
+      "start": 1788177600,
+      "stop": 1788178800,
+      "icon": "https://images.metadata.sky.com/pd-image/7ee09d41-69c9-448c-8389-4f48dae3e349/cover",
+      "channel": "BBCOneNorthernIreland.uk",
+      "premiere": false,
+      "season": null,
+      "episode": 0.0
     },
     {
       "title": "BBC Newsline",
@@ -25682,8 +25704,8 @@
       "episode": 0.0
     },
     {
-      "title": "Frank Lampard: The Football Interview",
-      "description": "Bold, in-depth conversations full of insight about the nation's favourite sport. [S] [HD]",
+      "title": "Frank Lampard with Tom Grennan: The Football Interview",
+      "description": "Musician and Coventry City fan Tom Grennan sits down with manager Frank Lampard to discuss the club's long-awaited return to the Premier League. [S] [HD]",
       "start": 1788003900,
       "stop": 1788004800,
       "icon": "https://images.metadata.sky.com/pd-image/8b4b174a-6138-4423-bf5d-dce26ebdf024/cover",
@@ -25888,7 +25910,7 @@
       "channel": "BBCOneScotHD.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 16.0
+      "episode": 23.0
     },
     {
       "title": "Weather for the Week Ahead",
@@ -25947,7 +25969,7 @@
     },
     {
       "title": "Sunday Morning Live",
-      "description": "2/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most. [S] [HD]",
+      "description": "2/23. Should pensioners pay more tax? Is it time to look at alternatives to prison? Plus, with the Notting Hill Carnival celebrating it's 60th birthday, there's a taste of the Caribbean. [S] [HD]",
       "start": 1788082200,
       "stop": 1788085800,
       "icon": "https://images.metadata.sky.com/pd-image/05dd4f6c-e5fa-43e1-87ad-90a4f73daa04/cover",
@@ -26097,7 +26119,7 @@
       "channel": "BBCOneScotHD.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 0.0
+      "episode": 73.0
     },
     {
       "title": "Hamza: African Birds of Prey",
@@ -26185,7 +26207,7 @@
       "channel": "BBCOneScotHD.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 17.0
+      "episode": 24.0
     },
     {
       "title": "Weather for the Week Ahead",
@@ -26257,12 +26279,23 @@
       "title": "Bargain Hunt",
       "description": "The teams have to take shelter at Ardingly antiques fair when the heavens open, but will there be pennies from heaven for one team at the auction? [S,AD] [HD]",
       "start": 1788174900,
-      "stop": 1788178800,
+      "stop": 1788177600,
       "icon": "https://images.metadata.sky.com/pd-image/108e7817-62ce-4d6c-8f1b-ddc7265c6c37/cover",
       "channel": "BBCOneScotHD.uk",
       "premiere": false,
       "season": 63.0,
       "episode": 4.0
+    },
+    {
+      "title": "BBC News at One",
+      "description": "The latest national and international news from the BBC. [S] [HD]",
+      "start": 1788177600,
+      "stop": 1788178800,
+      "icon": "https://images.metadata.sky.com/pd-image/f15bb962-37d5-4582-a4a2-7c4be8377d01/cover",
+      "channel": "BBCOneScotHD.uk",
+      "premiere": false,
+      "season": null,
+      "episode": 0.0
     },
     {
       "title": "Reporting Scotland",
@@ -26553,8 +26586,8 @@
       "episode": 0.0
     },
     {
-      "title": "Frank Lampard: The Football Interview",
-      "description": "Bold, in-depth conversations full of insight about the nation's favourite sport. [S] [HD]",
+      "title": "Frank Lampard with Tom Grennan: The Football Interview",
+      "description": "Musician and Coventry City fan Tom Grennan sits down with manager Frank Lampard to discuss the club's long-awaited return to the Premier League. [S] [HD]",
       "start": 1788003900,
       "stop": 1788004800,
       "icon": "https://images.metadata.sky.com/pd-image/8b4b174a-6138-4423-bf5d-dce26ebdf024/cover",
@@ -26759,7 +26792,7 @@
       "channel": "BBCOneSouth.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 16.0
+      "episode": 23.0
     },
     {
       "title": "Weather for the Week Ahead",
@@ -26818,7 +26851,7 @@
     },
     {
       "title": "Sunday Morning Live",
-      "description": "2/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most. [S] [HD]",
+      "description": "2/23. Should pensioners pay more tax? Is it time to look at alternatives to prison? Plus, with the Notting Hill Carnival celebrating it's 60th birthday, there's a taste of the Caribbean. [S] [HD]",
       "start": 1788082200,
       "stop": 1788085800,
       "icon": "https://images.metadata.sky.com/pd-image/05dd4f6c-e5fa-43e1-87ad-90a4f73daa04/cover",
@@ -26968,7 +27001,7 @@
       "channel": "BBCOneSouth.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 0.0
+      "episode": 73.0
     },
     {
       "title": "Hamza: African Birds of Prey",
@@ -27045,7 +27078,7 @@
       "channel": "BBCOneSouth.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 17.0
+      "episode": 24.0
     },
     {
       "title": "Weather for the Week Ahead",
@@ -27402,8 +27435,8 @@
       "episode": 0.0
     },
     {
-      "title": "Frank Lampard: The Football Interview",
-      "description": "Bold, in-depth conversations full of insight about the nation's favourite sport. [S] [HD]",
+      "title": "Frank Lampard with Tom Grennan: The Football Interview",
+      "description": "Musician and Coventry City fan Tom Grennan sits down with manager Frank Lampard to discuss the club's long-awaited return to the Premier League. [S] [HD]",
       "start": 1788003900,
       "stop": 1788004800,
       "icon": "https://images.metadata.sky.com/pd-image/8b4b174a-6138-4423-bf5d-dce26ebdf024/cover",
@@ -27608,7 +27641,7 @@
       "channel": "BBCOneSouthEast.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 16.0
+      "episode": 23.0
     },
     {
       "title": "Weather for the Week Ahead",
@@ -27667,7 +27700,7 @@
     },
     {
       "title": "Sunday Morning Live",
-      "description": "2/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most. [S] [HD]",
+      "description": "2/23. Should pensioners pay more tax? Is it time to look at alternatives to prison? Plus, with the Notting Hill Carnival celebrating it's 60th birthday, there's a taste of the Caribbean. [S] [HD]",
       "start": 1788082200,
       "stop": 1788085800,
       "icon": "https://images.metadata.sky.com/pd-image/05dd4f6c-e5fa-43e1-87ad-90a4f73daa04/cover",
@@ -27817,7 +27850,7 @@
       "channel": "BBCOneSouthEast.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 0.0
+      "episode": 73.0
     },
     {
       "title": "Hamza: African Birds of Prey",
@@ -27894,7 +27927,7 @@
       "channel": "BBCOneSouthEast.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 17.0
+      "episode": 24.0
     },
     {
       "title": "Weather for the Week Ahead",
@@ -28251,8 +28284,8 @@
       "episode": 0.0
     },
     {
-      "title": "Frank Lampard: The Football Interview",
-      "description": "Bold, in-depth conversations full of insight about the nation's favourite sport. [S] [HD]",
+      "title": "Frank Lampard with Tom Grennan: The Football Interview",
+      "description": "Musician and Coventry City fan Tom Grennan sits down with manager Frank Lampard to discuss the club's long-awaited return to the Premier League. [S] [HD]",
       "start": 1788003900,
       "stop": 1788004800,
       "icon": "https://images.metadata.sky.com/pd-image/8b4b174a-6138-4423-bf5d-dce26ebdf024/cover",
@@ -28457,7 +28490,7 @@
       "channel": "BBCOneSouthWest.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 16.0
+      "episode": 23.0
     },
     {
       "title": "Weather for the Week Ahead",
@@ -28516,7 +28549,7 @@
     },
     {
       "title": "Sunday Morning Live",
-      "description": "2/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most. [S] [HD]",
+      "description": "2/23. Should pensioners pay more tax? Is it time to look at alternatives to prison? Plus, with the Notting Hill Carnival celebrating it's 60th birthday, there's a taste of the Caribbean. [S] [HD]",
       "start": 1788082200,
       "stop": 1788085800,
       "icon": "https://images.metadata.sky.com/pd-image/05dd4f6c-e5fa-43e1-87ad-90a4f73daa04/cover",
@@ -28666,7 +28699,7 @@
       "channel": "BBCOneSouthWest.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 0.0
+      "episode": 73.0
     },
     {
       "title": "Hamza: African Birds of Prey",
@@ -28743,7 +28776,7 @@
       "channel": "BBCOneSouthWest.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 17.0
+      "episode": 24.0
     },
     {
       "title": "Weather for the Week Ahead",
@@ -29100,8 +29133,8 @@
       "episode": 0.0
     },
     {
-      "title": "Frank Lampard: The Football Interview",
-      "description": "Bold, in-depth conversations full of insight about the nation's favourite sport. [S] [HD]",
+      "title": "Frank Lampard with Tom Grennan: The Football Interview",
+      "description": "Musician and Coventry City fan Tom Grennan sits down with manager Frank Lampard to discuss the club's long-awaited return to the Premier League. [S] [HD]",
       "start": 1788003900,
       "stop": 1788004800,
       "icon": "https://images.metadata.sky.com/pd-image/8b4b174a-6138-4423-bf5d-dce26ebdf024/cover",
@@ -29306,7 +29339,7 @@
       "channel": "BBCOneWalesHD.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 16.0
+      "episode": 23.0
     },
     {
       "title": "Weather for the Week Ahead",
@@ -29365,7 +29398,7 @@
     },
     {
       "title": "Sunday Morning Live",
-      "description": "2/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most. [S] [HD]",
+      "description": "2/23. Should pensioners pay more tax? Is it time to look at alternatives to prison? Plus, with the Notting Hill Carnival celebrating it's 60th birthday, there's a taste of the Caribbean. [S] [HD]",
       "start": 1788082200,
       "stop": 1788085800,
       "icon": "https://images.metadata.sky.com/pd-image/05dd4f6c-e5fa-43e1-87ad-90a4f73daa04/cover",
@@ -29526,7 +29559,7 @@
       "channel": "BBCOneWalesHD.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 0.0
+      "episode": 73.0
     },
     {
       "title": "Hamza: African Birds of Prey",
@@ -29603,7 +29636,7 @@
       "channel": "BBCOneWalesHD.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 17.0
+      "episode": 24.0
     },
     {
       "title": "Weather for the Week Ahead",
@@ -29675,12 +29708,23 @@
       "title": "Bargain Hunt",
       "description": "The teams have to take shelter at Ardingly antiques fair when the heavens open, but will there be pennies from heaven for one team at the auction? [S,AD] [HD]",
       "start": 1788174900,
-      "stop": 1788178800,
+      "stop": 1788177600,
       "icon": "https://images.metadata.sky.com/pd-image/108e7817-62ce-4d6c-8f1b-ddc7265c6c37/cover",
       "channel": "BBCOneWalesHD.uk",
       "premiere": false,
       "season": 63.0,
       "episode": 4.0
+    },
+    {
+      "title": "BBC News at One",
+      "description": "The latest national and international news from the BBC. [S] [HD]",
+      "start": 1788177600,
+      "stop": 1788178800,
+      "icon": "https://images.metadata.sky.com/pd-image/00aee732-bbf6-48d4-8e20-b127e46b442b/cover",
+      "channel": "BBCOneWalesHD.uk",
+      "premiere": false,
+      "season": null,
+      "episode": 0.0
     },
     {
       "title": "BBC Wales Today",
@@ -29971,8 +30015,8 @@
       "episode": 0.0
     },
     {
-      "title": "Frank Lampard: The Football Interview",
-      "description": "Bold, in-depth conversations full of insight about the nation's favourite sport. [S] [HD]",
+      "title": "Frank Lampard with Tom Grennan: The Football Interview",
+      "description": "Musician and Coventry City fan Tom Grennan sits down with manager Frank Lampard to discuss the club's long-awaited return to the Premier League. [S] [HD]",
       "start": 1788003900,
       "stop": 1788004800,
       "icon": "https://images.metadata.sky.com/pd-image/8b4b174a-6138-4423-bf5d-dce26ebdf024/cover",
@@ -30177,7 +30221,7 @@
       "channel": "BBCOneWest.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 16.0
+      "episode": 23.0
     },
     {
       "title": "Weather for the Week Ahead",
@@ -30236,7 +30280,7 @@
     },
     {
       "title": "Sunday Morning Live",
-      "description": "2/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most. [S] [HD]",
+      "description": "2/23. Should pensioners pay more tax? Is it time to look at alternatives to prison? Plus, with the Notting Hill Carnival celebrating it's 60th birthday, there's a taste of the Caribbean. [S] [HD]",
       "start": 1788082200,
       "stop": 1788085800,
       "icon": "https://images.metadata.sky.com/pd-image/05dd4f6c-e5fa-43e1-87ad-90a4f73daa04/cover",
@@ -30386,7 +30430,7 @@
       "channel": "BBCOneWest.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 0.0
+      "episode": 73.0
     },
     {
       "title": "Hamza: African Birds of Prey",
@@ -30463,7 +30507,7 @@
       "channel": "BBCOneWest.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 17.0
+      "episode": 24.0
     },
     {
       "title": "Weather for the Week Ahead",
@@ -30820,8 +30864,8 @@
       "episode": 0.0
     },
     {
-      "title": "Frank Lampard: The Football Interview",
-      "description": "Bold, in-depth conversations full of insight about the nation's favourite sport. [S] [HD]",
+      "title": "Frank Lampard with Tom Grennan: The Football Interview",
+      "description": "Musician and Coventry City fan Tom Grennan sits down with manager Frank Lampard to discuss the club's long-awaited return to the Premier League. [S] [HD]",
       "start": 1788003900,
       "stop": 1788004800,
       "icon": "https://images.metadata.sky.com/pd-image/8b4b174a-6138-4423-bf5d-dce26ebdf024/cover",
@@ -31026,7 +31070,7 @@
       "channel": "BBCOneWestMidlands.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 16.0
+      "episode": 23.0
     },
     {
       "title": "Weather for the Week Ahead",
@@ -31085,7 +31129,7 @@
     },
     {
       "title": "Sunday Morning Live",
-      "description": "2/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most. [S] [HD]",
+      "description": "2/23. Should pensioners pay more tax? Is it time to look at alternatives to prison? Plus, with the Notting Hill Carnival celebrating it's 60th birthday, there's a taste of the Caribbean. [S] [HD]",
       "start": 1788082200,
       "stop": 1788085800,
       "icon": "https://images.metadata.sky.com/pd-image/05dd4f6c-e5fa-43e1-87ad-90a4f73daa04/cover",
@@ -31235,7 +31279,7 @@
       "channel": "BBCOneWestMidlands.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 0.0
+      "episode": 73.0
     },
     {
       "title": "Hamza: African Birds of Prey",
@@ -31312,7 +31356,7 @@
       "channel": "BBCOneWestMidlands.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 17.0
+      "episode": 24.0
     },
     {
       "title": "Weather for the Week Ahead",
@@ -31669,8 +31713,8 @@
       "episode": 0.0
     },
     {
-      "title": "Frank Lampard: The Football Interview",
-      "description": "Bold, in-depth conversations full of insight about the nation's favourite sport. [S] [HD]",
+      "title": "Frank Lampard with Tom Grennan: The Football Interview",
+      "description": "Musician and Coventry City fan Tom Grennan sits down with manager Frank Lampard to discuss the club's long-awaited return to the Premier League. [S] [HD]",
       "start": 1788003900,
       "stop": 1788004800,
       "icon": "https://images.metadata.sky.com/pd-image/8b4b174a-6138-4423-bf5d-dce26ebdf024/cover",
@@ -31875,7 +31919,7 @@
       "channel": "BBCOneYorksLincs.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 16.0
+      "episode": 23.0
     },
     {
       "title": "Weather for the Week Ahead",
@@ -31934,7 +31978,7 @@
     },
     {
       "title": "Sunday Morning Live",
-      "description": "2/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most. [S] [HD]",
+      "description": "2/23. Should pensioners pay more tax? Is it time to look at alternatives to prison? Plus, with the Notting Hill Carnival celebrating it's 60th birthday, there's a taste of the Caribbean. [S] [HD]",
       "start": 1788082200,
       "stop": 1788085800,
       "icon": "https://images.metadata.sky.com/pd-image/05dd4f6c-e5fa-43e1-87ad-90a4f73daa04/cover",
@@ -32084,7 +32128,7 @@
       "channel": "BBCOneYorksLincs.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 0.0
+      "episode": 73.0
     },
     {
       "title": "Hamza: African Birds of Prey",
@@ -32161,7 +32205,7 @@
       "channel": "BBCOneYorksLincs.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 17.0
+      "episode": 24.0
     },
     {
       "title": "Weather for the Week Ahead",
@@ -32518,8 +32562,8 @@
       "episode": 0.0
     },
     {
-      "title": "Frank Lampard: The Football Interview",
-      "description": "Bold, in-depth conversations full of insight about the nation's favourite sport. [S] [HD]",
+      "title": "Frank Lampard with Tom Grennan: The Football Interview",
+      "description": "Musician and Coventry City fan Tom Grennan sits down with manager Frank Lampard to discuss the club's long-awaited return to the Premier League. [S] [HD]",
       "start": 1788003900,
       "stop": 1788004800,
       "icon": "https://images.metadata.sky.com/pd-image/8b4b174a-6138-4423-bf5d-dce26ebdf024/cover",
@@ -32724,7 +32768,7 @@
       "channel": "BBCOneYorkshire.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 16.0
+      "episode": 23.0
     },
     {
       "title": "Weather for the Week Ahead",
@@ -32783,7 +32827,7 @@
     },
     {
       "title": "Sunday Morning Live",
-      "description": "2/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most. [S] [HD]",
+      "description": "2/23. Should pensioners pay more tax? Is it time to look at alternatives to prison? Plus, with the Notting Hill Carnival celebrating it's 60th birthday, there's a taste of the Caribbean. [S] [HD]",
       "start": 1788082200,
       "stop": 1788085800,
       "icon": "https://images.metadata.sky.com/pd-image/05dd4f6c-e5fa-43e1-87ad-90a4f73daa04/cover",
@@ -32933,7 +32977,7 @@
       "channel": "BBCOneYorkshire.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 0.0
+      "episode": 73.0
     },
     {
       "title": "Hamza: African Birds of Prey",
@@ -33010,7 +33054,7 @@
       "channel": "BBCOneYorkshire.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 17.0
+      "episode": 24.0
     },
     {
       "title": "Weather for the Week Ahead",
@@ -47650,7 +47694,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "The Brief with Jim Sciutto",
@@ -47661,7 +47705,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Erin Burnett OutFront",
@@ -47672,7 +47716,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Anderson Cooper 360",
@@ -47683,7 +47727,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "The Source with Kaitlan Collins",
@@ -47694,7 +47738,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "CNN NewsNight",
@@ -47705,7 +47749,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Laura Coates Live",
@@ -47716,7 +47760,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "The Story Is With Elex Michaelson",
@@ -47727,7 +47771,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "The Story Is With Elex Michaelson",
@@ -47738,7 +47782,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Africa Inc.",
@@ -47749,7 +47793,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "CNN Newsroom",
@@ -47760,7 +47804,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "African Voices",
@@ -47771,7 +47815,7 @@
       "channel": "CNNInternational.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 29
+      "episode": 29.0
     },
     {
       "title": "CNN Newsroom",
@@ -47782,18 +47826,18 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Quest's World of Wonder",
-      "description": "August 2026. Larger-than-life characters take us on a journey with Richard Quest to experience cities in a way tourists can't.",
+      "description": "Route 66, USA Part 2: New Mexico to California. The 250th birthday of the U.S. is the perfect reason for a summer holiday and a great American road trip!",
       "start": 1787988600,
       "stop": 1787990400,
       "icon": "https://images.metadata.sky.com/pd-image/84a5e48e-98e8-4b3b-98d8-ef08d85b6dec/cover",
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "CNN Newsroom",
@@ -47804,18 +47848,18 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "CNN Creators",
-      "description": "Thursday, August 27, 2026 1130am ET.",
+      "description": "Thursday, August 27, 2026 1130am ET. The Creators look back on their most viral stories from 2026 so far.",
       "start": 1787992200,
       "stop": 1787994000,
       "icon": "https://images.metadata.sky.com/pd-image/19e65ce1-d63c-40d0-a196-ac5323577a1a/cover",
       "channel": "CNNInternational.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "CNN Newsroom",
@@ -47826,7 +47870,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "African Voices",
@@ -47837,18 +47881,18 @@
       "channel": "CNNInternational.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 29
+      "episode": 29.0
     },
     {
       "title": "Quest's World of Wonder",
-      "description": "August 2026. Larger-than-life characters take us on a journey with Richard Quest to experience cities in a way tourists can't.",
+      "description": "Route 66, USA Part 2: New Mexico to California. The 250th birthday of the U.S. is the perfect reason for a summer holiday and a great American road trip!",
       "start": 1787999400,
       "stop": 1788001200,
       "icon": "https://images.metadata.sky.com/pd-image/6e7be22f-2dd7-43d6-9d21-7fe791e97106/cover",
       "channel": "CNNInternational.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "CNN This Morning Weekend",
@@ -47859,7 +47903,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "First of All With Victor Blackwell",
@@ -47870,7 +47914,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Smerconish",
@@ -47881,29 +47925,29 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "CNN Creators",
-      "description": "Thursday, August 27, 2026 1130am ET.",
+      "description": "Thursday, August 27, 2026 1130am ET. The Creators look back on their most viral stories from 2026 so far.",
       "start": 1788012000,
       "stop": 1788013800,
       "icon": "https://images.metadata.sky.com/pd-image/f798ad54-1b52-4571-98e1-41330b6a31c1/cover",
       "channel": "CNNInternational.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Inside Africa",
-      "description": "Episode 733. Inside Africa takes its viewers on a journey across Africa, exploring the true diversity and depth of different cultures, countries and regions.",
+      "description": "Lesotho's Last Riding Frontier. How the centuries-old equestrian culture in Lesotho, known as the \"Kingdom in the Sky\", continues to shape transport, livelihoods, and tourism.",
       "start": 1788013800,
       "stop": 1788015600,
       "icon": "https://images.metadata.sky.com/pd-image/7624d118-8dad-41d3-8f18-c2919a0f039f/cover",
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "The Amanpour Hour",
@@ -47914,7 +47958,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "World Sport",
@@ -47925,18 +47969,18 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Quest's World of Wonder",
-      "description": "August 2026. Larger-than-life characters take us on a journey with Richard Quest to experience cities in a way tourists can't.",
+      "description": "Route 66, USA Part 2: New Mexico to California. The 250th birthday of the U.S. is the perfect reason for a summer holiday and a great American road trip!",
       "start": 1788021000,
       "stop": 1788022800,
       "icon": "https://images.metadata.sky.com/pd-image/e90a5e94-cc1b-4329-af4a-1765851c80f0/cover",
       "channel": "CNNInternational.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Smerconish",
@@ -47947,7 +47991,7 @@
       "channel": "CNNInternational.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "CNN Newsroom Saturday",
@@ -47958,7 +48002,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "CNN Newsroom Saturday",
@@ -47969,7 +48013,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "The Arena: Saturday",
@@ -47980,7 +48024,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "World Sport",
@@ -47991,18 +48035,18 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "CNN Creators",
-      "description": "Thursday, August 27, 2026 1130am ET.",
+      "description": "Thursday, August 27, 2026 1130am ET. The Creators look back on their most viral stories from 2026 so far.",
       "start": 1788039000,
       "stop": 1788040800,
       "icon": "https://images.metadata.sky.com/pd-image/f94cb0e2-393e-47b2-adce-83f85d5f7ec1/cover",
       "channel": "CNNInternational.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "CNN Newsroom Saturday",
@@ -48013,7 +48057,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "CNN Newsroom Saturday",
@@ -48024,7 +48068,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Smerconish",
@@ -48035,7 +48079,7 @@
       "channel": "CNNInternational.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "World Sport",
@@ -48046,29 +48090,29 @@
       "channel": "CNNInternational.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Quest's World of Wonder",
-      "description": "August 2026. Larger-than-life characters take us on a journey with Richard Quest to experience cities in a way tourists can't.",
+      "description": "Route 66, USA Part 2: New Mexico to California. The 250th birthday of the U.S. is the perfect reason for a summer holiday and a great American road trip!",
       "start": 1788053400,
       "stop": 1788055200,
       "icon": "https://images.metadata.sky.com/pd-image/b6ba4ced-5196-4b11-9109-ac1cc754be76/cover",
       "channel": "CNNInternational.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Inside Africa",
-      "description": "Episode 733. Inside Africa takes its viewers on a journey across Africa, exploring the true diversity and depth of different cultures, countries and regions.",
+      "description": "Lesotho's Last Riding Frontier. How the centuries-old equestrian culture in Lesotho, known as the \"Kingdom in the Sky\", continues to shape transport, livelihoods, and tourism.",
       "start": 1788055200,
       "stop": 1788057000,
       "icon": "https://images.metadata.sky.com/pd-image/fb320dc4-0849-4bee-9850-4fab8a86c6b8/cover",
       "channel": "CNNInternational.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "African Voices",
@@ -48079,18 +48123,18 @@
       "channel": "CNNInternational.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 29
+      "episode": 29.0
     },
     {
       "title": "Africa Inc.",
-      "description": "Episode 101.",
+      "description": "Building Afro Nation. We explore the business behind the growth of African music through The Malachite Group (TMG), the company behind Afro Nation Portugal.",
       "start": 1788058800,
       "stop": 1788060600,
       "icon": "https://images.metadata.sky.com/pd-image/2cfc2f2d-8442-4ed9-abff-e927c8b2f956/cover",
       "channel": "CNNInternational.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Marketplace Europe",
@@ -48101,7 +48145,7 @@
       "channel": "CNNInternational.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Marketplace Middle East",
@@ -48112,7 +48156,7 @@
       "channel": "CNNInternational.uk",
       "premiere": false,
       "season": 1.0,
-      "episode": 55
+      "episode": 55.0
     },
     {
       "title": "CNN Newsroom",
@@ -48123,7 +48167,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "World Sport",
@@ -48134,7 +48178,7 @@
       "channel": "CNNInternational.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "CNN Newsroom",
@@ -48145,18 +48189,18 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Inside Africa",
-      "description": "Episode 733. Inside Africa takes its viewers on a journey across Africa, exploring the true diversity and depth of different cultures, countries and regions.",
+      "description": "Lesotho's Last Riding Frontier. How the centuries-old equestrian culture in Lesotho, known as the \"Kingdom in the Sky\", continues to shape transport, livelihoods, and tourism.",
       "start": 1788067800,
       "stop": 1788069600,
       "icon": "https://images.metadata.sky.com/pd-image/0d9dbd98-bdb7-41cf-89de-590c9b653ab2/cover",
       "channel": "CNNInternational.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "CNN Newsroom",
@@ -48167,18 +48211,18 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Quest's World of Wonder",
-      "description": "August 2026. Larger-than-life characters take us on a journey with Richard Quest to experience cities in a way tourists can't.",
+      "description": "Route 66, USA Part 2: New Mexico to California. The 250th birthday of the U.S. is the perfect reason for a summer holiday and a great American road trip!",
       "start": 1788071400,
       "stop": 1788073200,
       "icon": "https://images.metadata.sky.com/pd-image/1faa16dc-e8ab-497e-8cd3-a1bbd0de806d/cover",
       "channel": "CNNInternational.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "CNN Newsroom",
@@ -48189,18 +48233,18 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Africa Inc.",
-      "description": "Episode 101.",
+      "description": "Building Afro Nation. We explore the business behind the growth of African music through The Malachite Group (TMG), the company behind Afro Nation Portugal.",
       "start": 1788075000,
       "stop": 1788076800,
       "icon": "https://images.metadata.sky.com/pd-image/3fed2d39-6cb1-4b2a-abe0-26c387a78860/cover",
       "channel": "CNNInternational.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "CNN Newsroom",
@@ -48211,7 +48255,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "CNN Newsroom",
@@ -48222,29 +48266,29 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Africa Inc.",
-      "description": "Episode 101.",
+      "description": "Building Afro Nation. We explore the business behind the growth of African music through The Malachite Group (TMG), the company behind Afro Nation Portugal.",
       "start": 1788084000,
       "stop": 1788085800,
       "icon": "https://images.metadata.sky.com/pd-image/f438de0d-2969-4867-8a68-aa029f8afd2f/cover",
       "channel": "CNNInternational.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Inside Africa",
-      "description": "Episode 733. Inside Africa takes its viewers on a journey across Africa, exploring the true diversity and depth of different cultures, countries and regions.",
+      "description": "Lesotho's Last Riding Frontier. How the centuries-old equestrian culture in Lesotho, known as the \"Kingdom in the Sky\", continues to shape transport, livelihoods, and tourism.",
       "start": 1788085800,
       "stop": 1788087600,
       "icon": "https://images.metadata.sky.com/pd-image/bb8c23d9-cd59-48d3-a492-e264186b0eed/cover",
       "channel": "CNNInternational.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "CNN This Morning Weekend",
@@ -48255,7 +48299,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Inside Politics With Manu Raju",
@@ -48266,7 +48310,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "State of the Union with Jake Tapper and Dana Bash",
@@ -48277,7 +48321,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "The Imperial Presidency: A Fareed Zakaria Special",
@@ -48288,7 +48332,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Inside Politics With Manu Raju",
@@ -48299,7 +48343,7 @@
       "channel": "CNNInternational.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "World Sport",
@@ -48310,18 +48354,18 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Inside Africa",
-      "description": "Episode 733. Inside Africa takes its viewers on a journey across Africa, exploring the true diversity and depth of different cultures, countries and regions.",
+      "description": "Lesotho's Last Riding Frontier. How the centuries-old equestrian culture in Lesotho, known as the \"Kingdom in the Sky\", continues to shape transport, livelihoods, and tourism.",
       "start": 1788107400,
       "stop": 1788109200,
       "icon": "https://images.metadata.sky.com/pd-image/6feba354-8025-4f85-8bbe-8043538c899a/cover",
       "channel": "CNNInternational.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "African Voices",
@@ -48332,18 +48376,18 @@
       "channel": "CNNInternational.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 29
+      "episode": 29.0
     },
     {
       "title": "Africa Inc.",
-      "description": "Episode 101.",
+      "description": "Building Afro Nation. We explore the business behind the growth of African music through The Malachite Group (TMG), the company behind Afro Nation Portugal.",
       "start": 1788111000,
       "stop": 1788112800,
       "icon": "https://images.metadata.sky.com/pd-image/984ecdff-5f69-4c32-aa37-1abafe198a48/cover",
       "channel": "CNNInternational.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "CNN Newsroom Sunday",
@@ -48354,7 +48398,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "CNN Newsroom Sunday",
@@ -48365,7 +48409,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "CNN Newsroom Sunday",
@@ -48376,7 +48420,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "World Sport",
@@ -48387,18 +48431,18 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Quest's World of Wonder",
-      "description": "August 2026. Larger-than-life characters take us on a journey with Richard Quest to experience cities in a way tourists can't.",
+      "description": "Route 66, USA Part 2: New Mexico to California. The 250th birthday of the U.S. is the perfect reason for a summer holiday and a great American road trip!",
       "start": 1788125400,
       "stop": 1788127200,
       "icon": "https://images.metadata.sky.com/pd-image/d87e4e08-6ac8-46af-afc4-93e0f4d5190e/cover",
       "channel": "CNNInternational.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "CNN Newsroom Sunday",
@@ -48409,7 +48453,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "CNN Newsroom Sunday",
@@ -48420,7 +48464,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "The Whole Story With Anderson Cooper",
@@ -48431,18 +48475,18 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
-      "title": "The Imperial Presidency: A Fareed Zakaria Special",
-      "description": "The Imperial Presidency: A Fareed Zakaria Special.",
+      "title": "Dolly Parton: In Her Own Words: A Larry King Exclusive",
+      "description": "Dolly Parton: In Her Own Words: A Larry King Exclusive.",
       "start": 1788138000,
       "stop": 1788141600,
-      "icon": "https://images.metadata.sky.com/pd-image/6b99cdd1-8678-45da-89df-4b94b65b64dc/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/7e853684-1601-4c38-8c39-b518309a23fc/cover",
       "channel": "CNNInternational.uk",
-      "premiere": false,
+      "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": null
     },
     {
       "title": "African Voices",
@@ -48453,40 +48497,40 @@
       "channel": "CNNInternational.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 29
+      "episode": 29.0
     },
     {
       "title": "Africa Inc.",
-      "description": "Episode 101.",
+      "description": "Building Afro Nation. We explore the business behind the growth of African music through The Malachite Group (TMG), the company behind Afro Nation Portugal.",
       "start": 1788143400,
       "stop": 1788145200,
       "icon": "https://images.metadata.sky.com/pd-image/343b60d6-0d46-4faa-a088-d91b15257c37/cover",
       "channel": "CNNInternational.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Quest's World of Wonder",
-      "description": "August 2026. Larger-than-life characters take us on a journey with Richard Quest to experience cities in a way tourists can't.",
+      "description": "Route 66, USA Part 2: New Mexico to California. The 250th birthday of the U.S. is the perfect reason for a summer holiday and a great American road trip!",
       "start": 1788145200,
       "stop": 1788147000,
       "icon": "https://images.metadata.sky.com/pd-image/2298a746-6f17-4257-9108-a94a07a82c68/cover",
       "channel": "CNNInternational.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Inside Africa",
-      "description": "Episode 733. Inside Africa takes its viewers on a journey across Africa, exploring the true diversity and depth of different cultures, countries and regions.",
+      "description": "Lesotho's Last Riding Frontier. How the centuries-old equestrian culture in Lesotho, known as the \"Kingdom in the Sky\", continues to shape transport, livelihoods, and tourism.",
       "start": 1788147000,
       "stop": 1788148800,
       "icon": "https://images.metadata.sky.com/pd-image/b830f624-3af8-450b-9368-27888842de9b/cover",
       "channel": "CNNInternational.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "CNN Newsroom",
@@ -48497,7 +48541,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "CNN Newsroom",
@@ -48508,7 +48552,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "World Sport",
@@ -48519,7 +48563,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "CNN Newsroom",
@@ -48530,7 +48574,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "CNN Newsroom",
@@ -48541,7 +48585,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "World Sport",
@@ -48552,7 +48596,7 @@
       "channel": "CNNInternational.uk",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "CNN Newsroom",
@@ -48563,7 +48607,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "CNN Headline Express",
@@ -48574,7 +48618,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "CNN This Morning",
@@ -48585,7 +48629,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "CNN News Central",
@@ -48596,7 +48640,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "CNN News Central",
@@ -48607,7 +48651,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "World Sport",
@@ -48618,7 +48662,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Connect the World",
@@ -48629,7 +48673,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "World Sport",
@@ -48640,7 +48684,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Connect the World",
@@ -48651,7 +48695,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "One World",
@@ -48662,18 +48706,29 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "One World",
       "description": "Monday, August 31, 2026 12pm ET. Zain Asher and Bianna Golodryga cover the top global and national issues of the day.",
       "start": 1788192000,
-      "stop": 1788195600,
-      "icon": "https://images.metadata.sky.com/pd-image/adbbe274-94e4-4cbf-bb5d-0ebc8350252e/cover",
+      "stop": 1788194700,
+      "icon": "https://images.metadata.sky.com/pd-image/100b91f3-a184-4b50-8adc-43c3508ecf97/cover",
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
+    },
+    {
+      "title": "African Voices",
+      "description": "Arlette Amuli and BM Matundu. Arlette Amuli and BM Matundu, the Congolese creators behind the viral dating show \"Pop the Balloon or Find Love,\" discuss their rise to internet fame.",
+      "start": 1788194700,
+      "stop": 1788195600,
+      "icon": "https://images.metadata.sky.com/pd-image/69cac74c-2179-4cf3-9437-d4be01f0b09e/cover",
+      "channel": "CNNInternational.uk",
+      "premiere": false,
+      "season": 2026.0,
+      "episode": 29.0
     },
     {
       "title": "Amanpour",
@@ -48684,7 +48739,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Isa Soares Tonight",
@@ -48695,7 +48750,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "What We Know with Max Foster",
@@ -48706,7 +48761,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Quest Means Business",
@@ -48717,7 +48772,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Quest's World of Wonder",
@@ -48728,7 +48783,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "The Lead with Jake Tapper",
@@ -48739,7 +48794,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "World Sport",
@@ -48750,7 +48805,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "The Brief with Jim Sciutto",
@@ -48761,7 +48816,7 @@
       "channel": "CNNInternational.uk",
       "premiere": true,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     }
   ],
   "UAndDave.uk": [
