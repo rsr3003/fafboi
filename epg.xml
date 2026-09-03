@@ -1159,11 +1159,6 @@
     <episode-num system="xmltv_ns">2025.257.0</episode-num>
     <episode-num system="onscreen">S2026E258</episode-num>
   </programme>
-  <programme channel="sky.football.uk" start="20260902180000 +0000" stop="20260902220000 +0000">
-    <title lang="en">Live SPFL: Falkirk v Rangers</title>
-    <desc lang="en">After capturing his first Scottish Premiership win in charge of Rangers on Sunday, Derek McInnes takes his side to Falkirk - who were beaten away to Celtic over the weekend.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/139baf03-5635-4423-973a-e936b298a9b3/cover"/>
-  </programme>
   <programme channel="sky.football.uk" start="20260902220000 +0000" stop="20260902221500 +0000">
     <title lang="en">EFL 26/27: Preston v Bristol City</title>
     <desc lang="en">Preston North End play host to Bristol City at Deepdale in the Sky Bet Championship. (01.09)</desc>
@@ -1829,11 +1824,6 @@
     <title lang="en">WSL: London City v Manchester Utd</title>
     <desc lang="en">After a summer of big-name arrivals, the London City Lionesses get their campaign underway against Manchester United in the Barclays Women's Super League opener. (04.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9faf098a-a3a6-4dcb-a745-fce932d36a03/cover"/>
-  </programme>
-  <programme channel="sky.tennis.uk" start="20260902143000 +0000" stop="20260902230000 +0000">
-    <title lang="en">Live: US Open Day 4</title>
-    <desc lang="en">British number one Katie Boulter meets Karolina Muchova, while fellow Brit Jacob Fearnley takes on Tomas Martin Etcheverry. Former champion Daniil Medvedev opens against Sebastian Gorzny.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/5cf2ea2a-4285-4aec-b243-d0aebdf33e02/cover"/>
   </programme>
   <programme channel="sky.tennis.uk" start="20260902230000 +0000" stop="20260903013000 +0000">
     <title lang="en">Live US Open: Samuel v Lehecka</title>
@@ -4081,12 +4071,12 @@
   </programme>
   <programme channel="tnt1" start="20260903180000 +0000" stop="20260903210000 +0000">
     <title lang="en">Live MLB: White Sox @ Astros</title>
-    <desc lang="en">Action from Major League Baseball as Chicago White Sox take on Houston Astros.</desc>
+    <desc lang="en">Action from Major League Baseball as Chicago White Sox take on Houston Astros in the final contest of this series at Daikin Park.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0c798524-b713-4382-b4a8-5652d0909a61/cover"/>
   </programme>
   <programme channel="tnt1" start="20260903210000 +0000" stop="20260903220000 +0000">
     <title lang="en">Hard Knocks: Seattle Seahawks</title>
-    <desc lang="en">An inside look at Seattle Seahawks' NFL training camp and what it takes, professionally and personally, for the players and staff to make it all the way.</desc>
+    <desc lang="en">The season finale captures the emotional intensity of NFL cutdown day as Mike Macdonald makes tough decisions to finalise the Seahawks' 53-man roster.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b70fcb43-6c4b-4296-9189-68b36f5d3816/cover"/>
     <episode-num system="xmltv_ns">2025.20.0</episode-num>
     <episode-num system="onscreen">S2026E21</episode-num>
@@ -4107,7 +4097,7 @@
   </programme>
   <programme channel="tnt1" start="20260903231500 +0000" stop="20260904020000 +0000">
     <title lang="en">Live MLB: Brewers @ Cubs</title>
-    <desc lang="en">Action from Major League Baseball as Chicago Cubs host Milwaukee Brewers.</desc>
+    <desc lang="en">Action from Major League Baseball as Chicago Cubs host National League Central leaders Milwaukee Brewers in the final game of this series at Wrigley Field.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/af1b69ea-100d-41a2-ba5c-af94a9cc279b/cover"/>
   </programme>
   <programme channel="tnt1" start="20260904020000 +0000" stop="20260904023000 +0000">
@@ -4207,26 +4197,26 @@
   </programme>
   <programme channel="tnt1" start="20260904180000 +0000" stop="20260904210000 +0000">
     <title lang="en">Live MLB: Tigers @ Guardians</title>
-    <desc lang="en">Action from Major League Baseball as Detroit Tigers meet Cleveland Guardians.</desc>
+    <desc lang="en">Action from Major League Baseball as Cleveland Guardians take on Detroit Tigers in the first game of a crucial American League Central four-match series.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/50037590-8b3c-465e-8a0f-4453f7147ea3/cover"/>
   </programme>
   <programme channel="tnt1" start="20260904210000 +0000" stop="20260904213000 +0000">
     <title lang="en">UEFA Champions League Magazine</title>
-    <desc lang="en">The latest news and updates from the UEFA Champions League.</desc>
+    <desc lang="en">Jose Mourinho explores how he has evolved as both a coach and a person since his first spell at Real Madrid 16 years ago. Plus, we tell the story of UCL newcomers Viking FK.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/236010d0-f061-4018-89eb-667afd6d0963/cover"/>
     <episode-num system="xmltv_ns">25.1.0</episode-num>
     <episode-num system="onscreen">S26E2</episode-num>
   </programme>
   <programme channel="tnt1" start="20260904213000 +0000" stop="20260904223000 +0000">
     <title lang="en">MLB Highlights</title>
-    <desc lang="en">Highlights from Major League Baseball. (03.09)</desc>
+    <desc lang="en">Action from Wednesday's Major League Baseball games, including the St. Louis Cardinals taking on Los Angeles Angels and Chicago White Sox versus Houston Astros. (03.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/eca299ab-1d65-4442-8b2a-d462b49c0f2d/cover"/>
     <episode-num system="xmltv_ns">2025.166.0</episode-num>
     <episode-num system="onscreen">S2026E167</episode-num>
   </programme>
   <programme channel="tnt1" start="20260904223000 +0000" stop="20260905013000 +0000">
     <title lang="en">Live MLB: Braves @ Phillies</title>
-    <desc lang="en">Action from the Major League Baseball clash between Atlanta Braves and Philadelphia Phillies.</desc>
+    <desc lang="en">Action from Major League Baseball as Philadelphia Phillies host Atlanta Braves at Citizens Bank Park.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4a60cdef-d148-40cd-9b90-25428e3171df/cover"/>
   </programme>
   <programme channel="tnt1" start="20260905013000 +0000" stop="20260905020000 +0000">
@@ -4262,7 +4252,7 @@
   </programme>
   <programme channel="tnt1" start="20260905080000 +0000" stop="20260905083000 +0000">
     <title lang="en">UEFA Champions League Magazine</title>
-    <desc lang="en">The latest news and updates from the UEFA Champions League.</desc>
+    <desc lang="en">Jose Mourinho explores how he has evolved as both a coach and a person since his first spell at Real Madrid 16 years ago. Plus, we tell the story of UCL newcomers Viking FK.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/236010d0-f061-4018-89eb-667afd6d0963/cover"/>
     <episode-num system="xmltv_ns">25.1.0</episode-num>
     <episode-num system="onscreen">S26E2</episode-num>
@@ -4392,12 +4382,12 @@
   </programme>
   <programme channel="tnt2" start="20260903124500 +0000" stop="20260903163000 +0000">
     <title lang="en">Live ETPL: Amsterdam v Glasgow</title>
-    <desc lang="en">Action from the European T20 Premier League as Amsterdam Flames and Glasgow Cosmic face off.</desc>
+    <desc lang="en">Action from the European T20 Premier League as Amsterdam Flames and Glasgow Cosmic face off in Voorburg.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ac5f0c8d-4ada-4910-8024-ab21d20f80a0/cover"/>
   </programme>
   <programme channel="tnt2" start="20260903163000 +0000" stop="20260903170000 +0000">
     <title lang="en">CPL Highlights</title>
-    <desc lang="en">Highlights from the 2026 Caribbean Premier League as Trinbago Knight Riders face Antigua and Barbuda Falcons.</desc>
+    <desc lang="en">Highlights from the 2026 Caribbean Premier League as Nicholas Pooran's Trinbago Knight Riders face Antigua and Moeen Ali's Barbuda Falcons at Queen's Park Oval .</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b9c4b7fc-0fed-4a6e-8dca-870bbf00c618/cover"/>
   </programme>
   <programme channel="tnt2" start="20260903170000 +0000" stop="20260903173000 +0000">
@@ -4459,12 +4449,12 @@
   </programme>
   <programme channel="tnt2" start="20260903220000 +0000" stop="20260903223000 +0000">
     <title lang="en">CPL Highlights</title>
-    <desc lang="en">Highlights from the 2026 Caribbean Premier League as Trinbago Knight Riders face Antigua and Barbuda Falcons.</desc>
+    <desc lang="en">Highlights from the 2026 Caribbean Premier League as Nicholas Pooran's Trinbago Knight Riders face Antigua and Moeen Ali's Barbuda Falcons at Queen's Park Oval .</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b9c4b7fc-0fed-4a6e-8dca-870bbf00c618/cover"/>
   </programme>
   <programme channel="tnt2" start="20260903223000 +0000" stop="20260904024500 +0000">
     <title lang="en">Live CPL: Patriots v Kings</title>
-    <desc lang="en">Caribbean Premier League action as St Kitts and Nevis Patriots face Saint Lucia Kings.</desc>
+    <desc lang="en">Caribbean Premier League action as Jason Holder's St Kitts and Nevis Patriots face Roston Chase's Saint Lucia Kings at Warner Park.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/065b2301-5bb3-4591-bd33-76a8609b5d49/cover"/>
   </programme>
   <programme channel="tnt2" start="20260904024500 +0000" stop="20260904030000 +0000">
@@ -4592,7 +4582,7 @@
   </programme>
   <programme channel="tnt2" start="20260904153000 +0000" stop="20260904160000 +0000">
     <title lang="en">CPL Highlights</title>
-    <desc lang="en">Highlights from the Caribbean Premier League as St Kitts and Nevis Patriots faced Saint Lucia Kings.</desc>
+    <desc lang="en">Highlights from the Caribbean Premier League as St Kitts and Nevis Patriots faced Saint Lucia Kings at Warner Park.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1f7aafd5-5645-44c8-aa2e-427f19d86ff0/cover"/>
   </programme>
   <programme channel="tnt2" start="20260904160000 +0000" stop="20260904163000 +0000">
@@ -4604,7 +4594,7 @@
   </programme>
   <programme channel="tnt2" start="20260904163000 +0000" stop="20260904173000 +0000">
     <title lang="en">MLB Highlights</title>
-    <desc lang="en">Highlights from Major League Baseball. (03.09)</desc>
+    <desc lang="en">Action from Wednesday's Major League Baseball games, including the St. Louis Cardinals taking on Los Angeles Angels and Chicago White Sox versus Houston Astros. (03.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/eca299ab-1d65-4442-8b2a-d462b49c0f2d/cover"/>
     <episode-num system="xmltv_ns">2025.166.0</episode-num>
     <episode-num system="onscreen">S2026E167</episode-num>
@@ -4635,12 +4625,12 @@
   </programme>
   <programme channel="tnt2" start="20260904213000 +0000" stop="20260904220000 +0000">
     <title lang="en">CPL Highlights</title>
-    <desc lang="en">Highlights from the 2026 Caribbean Premier League as Trinbago Knight Riders face Antigua and Barbuda Falcons.</desc>
+    <desc lang="en">Highlights from the 2026 Caribbean Premier League as Nicholas Pooran's Trinbago Knight Riders face Antigua and Moeen Ali's Barbuda Falcons at Queen's Park Oval .</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b9c4b7fc-0fed-4a6e-8dca-870bbf00c618/cover"/>
   </programme>
   <programme channel="tnt2" start="20260904220000 +0000" stop="20260904223000 +0000">
     <title lang="en">CPL Highlights</title>
-    <desc lang="en">Highlights from the Caribbean Premier League as St Kitts and Nevis Patriots faced Saint Lucia Kings.</desc>
+    <desc lang="en">Highlights from the Caribbean Premier League as St Kitts and Nevis Patriots faced Saint Lucia Kings at Warner Park.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1f7aafd5-5645-44c8-aa2e-427f19d86ff0/cover"/>
   </programme>
   <programme channel="tnt2" start="20260904223000 +0000" stop="20260905024500 +0000">
@@ -4750,7 +4740,7 @@
   </programme>
   <programme channel="tnt2" start="20260905180000 +0000" stop="20260905183000 +0000">
     <title lang="en">UEFA Champions League Magazine</title>
-    <desc lang="en">The latest news and updates from the UEFA Champions League.</desc>
+    <desc lang="en">Jose Mourinho explores how he has evolved as both a coach and a person since his first spell at Real Madrid 16 years ago. Plus, we tell the story of UCL newcomers Viking FK.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/236010d0-f061-4018-89eb-667afd6d0963/cover"/>
     <episode-num system="xmltv_ns">25.1.0</episode-num>
     <episode-num system="onscreen">S26E2</episode-num>
@@ -4923,7 +4913,7 @@
   </programme>
   <programme channel="tnt3" start="20260903193000 +0000" stop="20260903200000 +0000">
     <title lang="en">CPL Highlights</title>
-    <desc lang="en">Highlights from the 2026 Caribbean Premier League as Trinbago Knight Riders face Antigua and Barbuda Falcons.</desc>
+    <desc lang="en">Highlights from the 2026 Caribbean Premier League as Nicholas Pooran's Trinbago Knight Riders face Antigua and Moeen Ali's Barbuda Falcons at Queen's Park Oval .</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b9c4b7fc-0fed-4a6e-8dca-870bbf00c618/cover"/>
   </programme>
   <programme channel="tnt3" start="20260903200000 +0000" stop="20260903210000 +0000">
@@ -5053,7 +5043,7 @@
   </programme>
   <programme channel="tnt3" start="20260904113000 +0000" stop="20260904123000 +0000">
     <title lang="en">MLB Highlights</title>
-    <desc lang="en">Highlights from Major League Baseball. (03.09)</desc>
+    <desc lang="en">Action from Wednesday's Major League Baseball games, including the St. Louis Cardinals taking on Los Angeles Angels and Chicago White Sox versus Houston Astros. (03.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/eca299ab-1d65-4442-8b2a-d462b49c0f2d/cover"/>
     <episode-num system="xmltv_ns">2025.166.0</episode-num>
     <episode-num system="onscreen">S2026E167</episode-num>
@@ -5086,7 +5076,7 @@
   </programme>
   <programme channel="tnt3" start="20260904180000 +0000" stop="20260904193000 +0000">
     <title lang="en">AFL: Geelong Cats v Carlton</title>
-    <desc lang="en">Action from the Australian Football League.</desc>
+    <desc lang="en">Action from the Australian Football League elimination final between Geelong Cats and Carlton at the MCG.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/06bbf0a7-3aed-42e8-94d0-81e4dc99c0a2/cover"/>
   </programme>
   <programme channel="tnt3" start="20260904193000 +0000" stop="20260904200000 +0000">
@@ -5108,7 +5098,7 @@
   </programme>
   <programme channel="tnt3" start="20260904220000 +0000" stop="20260904230000 +0000">
     <title lang="en">Hard Knocks: Seattle Seahawks</title>
-    <desc lang="en">An inside look at Seattle Seahawks' NFL training camp and what it takes, professionally and personally, for the players and staff to make it all the way.</desc>
+    <desc lang="en">The season finale captures the emotional intensity of NFL cutdown day as Mike Macdonald makes tough decisions to finalise the Seahawks' 53-man roster.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b70fcb43-6c4b-4296-9189-68b36f5d3816/cover"/>
     <episode-num system="xmltv_ns">2025.20.0</episode-num>
     <episode-num system="onscreen">S2026E21</episode-num>
@@ -5122,7 +5112,7 @@
   </programme>
   <programme channel="tnt3" start="20260904233000 +0000" stop="20260905000000 +0000">
     <title lang="en">UEFA Champions League Magazine</title>
-    <desc lang="en">The latest news and updates from the UEFA Champions League.</desc>
+    <desc lang="en">Jose Mourinho explores how he has evolved as both a coach and a person since his first spell at Real Madrid 16 years ago. Plus, we tell the story of UCL newcomers Viking FK.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/236010d0-f061-4018-89eb-667afd6d0963/cover"/>
     <episode-num system="xmltv_ns">25.1.0</episode-num>
     <episode-num system="onscreen">S26E2</episode-num>
@@ -5363,7 +5353,7 @@
   </programme>
   <programme channel="tnt4" start="20260904013000 +0000" stop="20260904023000 +0000">
     <title lang="en">Hard Knocks: Seattle Seahawks</title>
-    <desc lang="en">An inside look at Seattle Seahawks' NFL training camp and what it takes, professionally and personally, for the players and staff to make it all the way.</desc>
+    <desc lang="en">The season finale captures the emotional intensity of NFL cutdown day as Mike Macdonald makes tough decisions to finalise the Seahawks' 53-man roster.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b70fcb43-6c4b-4296-9189-68b36f5d3816/cover"/>
     <episode-num system="xmltv_ns">2025.20.0</episode-num>
     <episode-num system="onscreen">S2026E21</episode-num>
@@ -5447,7 +5437,7 @@
   </programme>
   <programme channel="tnt4" start="20260904091500 +0000" stop="20260904121500 +0000">
     <title lang="en">Live AFL: Geelong Cats v Carlton</title>
-    <desc lang="en">Action from the Australian Football League.</desc>
+    <desc lang="en">Action from the Australian Football League elimination final between Geelong Cats and Carlton at the MCG.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6aea81c3-3aa1-4ff4-a1c3-0cf40a11ca38/cover"/>
   </programme>
   <programme channel="tnt4" start="20260904121500 +0000" stop="20260904123000 +0000">
@@ -5466,12 +5456,12 @@
   </programme>
   <programme channel="tnt4" start="20260904124500 +0000" stop="20260904163000 +0000">
     <title lang="en">Live ETPL: Glasgow v Belfast</title>
-    <desc lang="en">Action from the European T20 Premier League as Glasgow Cosmic meet Belfast Wolves.</desc>
+    <desc lang="en">Action from the European T20 Premier League as Glasgow Cosmic meet Belfast Wolves in Voorburg, Netherlands.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/76c50552-0b86-46a5-a349-7b9032f377da/cover"/>
   </programme>
   <programme channel="tnt4" start="20260904163000 +0000" stop="20260904170000 +0000">
     <title lang="en">CPL Highlights</title>
-    <desc lang="en">Highlights from the Caribbean Premier League as St Kitts and Nevis Patriots faced Saint Lucia Kings.</desc>
+    <desc lang="en">Highlights from the Caribbean Premier League as St Kitts and Nevis Patriots faced Saint Lucia Kings at Warner Park.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1f7aafd5-5645-44c8-aa2e-427f19d86ff0/cover"/>
   </programme>
   <programme channel="tnt4" start="20260904170000 +0000" stop="20260904180000 +0000">
@@ -5488,7 +5478,7 @@
   </programme>
   <programme channel="tnt4" start="20260904183000 +0000" stop="20260904190000 +0000">
     <title lang="en">CPL Highlights</title>
-    <desc lang="en">Highlights from the Caribbean Premier League as St Kitts and Nevis Patriots faced Saint Lucia Kings.</desc>
+    <desc lang="en">Highlights from the Caribbean Premier League as St Kitts and Nevis Patriots faced Saint Lucia Kings at Warner Park.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1f7aafd5-5645-44c8-aa2e-427f19d86ff0/cover"/>
   </programme>
   <programme channel="tnt4" start="20260904190000 +0000" stop="20260904200000 +0000">
@@ -5610,7 +5600,7 @@
   </programme>
   <programme channel="tnt4" start="20260905144500 +0000" stop="20260905154500 +0000">
     <title lang="en">MLB Highlights</title>
-    <desc lang="en">Highlights from Major League Baseball. (04.09)</desc>
+    <desc lang="en">Highlights from across the Major League Basenball including Milwaukee Brewers taking on Chicago Cubs and Detroit Tigers facing Cleveland Guardians. (04.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8421b233-1f80-4e88-aa33-d382a8b190ae/cover"/>
     <episode-num system="xmltv_ns">2025.167.0</episode-num>
     <episode-num system="onscreen">S2026E168</episode-num>
@@ -5621,9 +5611,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/48b75df6-04a3-4df0-a60c-774957612f08/cover"/>
   </programme>
   <programme channel="tnt4" start="20260905171500 +0000" stop="20260905184500 +0000">
-    <title lang="en">AFL</title>
-    <desc lang="en">Action from the Australian Football League.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/55cd909e-0bbb-4694-9412-12eaef0a0c3a/cover"/>
+    <title lang="en">AFL: Adelaide Crows v Bulldogs</title>
+    <desc lang="en">Action from the Australian Football League elimination final between Adelaide Crows and Western Bulldogs at the Adelaide Oval.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/eb6864b1-5d5a-495a-844a-6fd26f370169/cover"/>
   </programme>
   <programme channel="tnt4" start="20260905184500 +0000" stop="20260905221500 +0000">
     <title lang="en">Live WCPL: Barbados v Trinbago</title>
@@ -5973,7 +5963,7 @@
   </programme>
   <programme channel="4seven.uk" start="20260904221500 +0000" stop="20260904232000 +0000">
     <title lang="en">Gogglebox</title>
-    <desc lang="en">Britain's sharpest armchair critics return for a new run. What do they think of the biggest and best programmes on TV?</desc>
+    <desc lang="en">The Goggleboxers return for the best on TV, watching Trigger Point, Celebrity MasterChef, Love Is Blind: UK, Millionaire Hot Seat, Long Lost Family and Race Against the Tide.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1c80efa7-b087-47de-bb35-42adca2b20fb/cover"/>
     <episode-num system="xmltv_ns">27.0.0</episode-num>
     <episode-num system="onscreen">S28E1</episode-num>
@@ -6131,11 +6121,6 @@
     <episode-num system="xmltv_ns">0.1.0</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
   </programme>
-  <programme channel="5Action.uk" start="20260902174500 +0000" stop="20260902235000 +0000">
-    <title lang="en">Live: Snooker British Open</title>
-    <desc lang="en">Day 3 coverage of the iconic British Open, live from Cheltenham, featuring Mark Selby v Jackson Page followed by Kyren Wilson v Liam Highfield. Presented by Katie Shanahan.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/bcb9dfbd-d942-4956-8caa-7a872aba69b0/cover"/>
-  </programme>
   <programme channel="5Action.uk" start="20260902235000 +0000" stop="20260903000000 +0000">
     <title lang="en">Entertainment News on 5</title>
     <desc lang="en">A daily round-up of showbiz news and gossip from around the world, focusing on celebrities, movies, music and entertainment.</desc>
@@ -6265,15 +6250,15 @@
   </programme>
   <programme channel="5Action.uk" start="20260903174500 +0000" stop="20260903220000 +0000">
     <title lang="en">Live: Snooker British Open</title>
-    <desc lang="en">Coverage from Day 4 of the British Open, live from Cheltenham. Presented by Katie Shanahan with Stephen Hendry, Ken Doherty and Joe Perry.</desc>
+    <desc lang="en">Coverage from Day 4 of the British Open, live from Cheltenham. Featuring Stan Moody v John Higgins, followed by Judd Trump in action. Presented by Katie Shanahan with Stephen Hendry.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/dbabb3a7-0d46-4938-8454-fe4790b18c9b/cover"/>
   </programme>
   <programme channel="5Action.uk" start="20260903220000 +0000" stop="20260903230000 +0000">
     <title lang="en">The X-Files</title>
-    <desc lang="en">Mulder and Scully attempt to prevent an alien invasion of Earth, but reversals and betrayals are everywhere.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b0c605cd-b5a6-49df-a39b-d57eaee88f8a/cover"/>
-    <episode-num system="xmltv_ns">5.12.0</episode-num>
-    <episode-num system="onscreen">S6E13</episode-num>
+    <desc lang="en">While the Cigarette-Smoking Man narrates the history of the Syndicate, Cassandra Spender reappears.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/2e344127-454a-463d-95fb-0ba57eb5f88d/cover"/>
+    <episode-num system="xmltv_ns">5.11.0</episode-num>
+    <episode-num system="onscreen">S6E12</episode-num>
   </programme>
   <programme channel="5Action.uk" start="20260903230000 +0000" stop="20260904000000 +0000">
     <title lang="en">Behind Bars: World's Toughest Prisons</title>
@@ -6392,14 +6377,14 @@
     <episode-num system="xmltv_ns">4.5.0</episode-num>
     <episode-num system="onscreen">S5E6</episode-num>
   </programme>
-  <programme channel="5Action.uk" start="20260904172000 +0000" stop="20260904175500 +0000">
+  <programme channel="5Action.uk" start="20260904172000 +0000" stop="20260904175000 +0000">
     <title lang="en">Cops</title>
     <desc lang="en">Deputies are concerned when a fleeing man leaves a trail of illicit items. A young woman unwisely decides to hang out with a man she nicknamed 'Sketchy'.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/33173a1c-dd0f-49f8-bb66-36cb473beaa1/cover"/>
     <episode-num system="xmltv_ns">32.5.0</episode-num>
     <episode-num system="onscreen">S33E6</episode-num>
   </programme>
-  <programme channel="5Action.uk" start="20260904175500 +0000" stop="20260904180000 +0000">
+  <programme channel="5Action.uk" start="20260904175000 +0000" stop="20260904180000 +0000">
     <title lang="en">Entertainment News on 5</title>
     <desc lang="en">A daily round-up of showbiz news and gossip from around the world, focusing on celebrities, movies, music and entertainment.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f5889cee-cf9c-4b05-9424-8c40ac18f610/cover"/>
@@ -6435,7 +6420,7 @@
   </programme>
   <programme channel="5Action.uk" start="20260904222000 +0000" stop="20260904232000 +0000">
     <title lang="en">The X-Files</title>
-    <desc lang="en">A woman desperately attempts to alter the outcome of events of a day that she is being forced to relive again and again.</desc>
+    <desc lang="en">Mulder and Scully attempt to prevent an alien invasion of Earth, but reversals and betrayals are everywhere.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2d547b5f-10d6-4752-a2b5-b7f23d8e41f0/cover"/>
     <episode-num system="xmltv_ns">5.13.0</episode-num>
     <episode-num system="onscreen">S6E14</episode-num>
@@ -10273,14 +10258,12 @@
   </programme>
   <programme channel="BBCFourHD.uk" start="20260905010000 +0000" stop="20260905013000 +0000">
     <title lang="en">TOTP: 2000</title>
-    <desc lang="en">Gail Porter presents the pop chart programme, first broadcast on 7 April 2000 and featuring B*Witched, Destiny's Child, Moloko, Atomic Kitten, Idlewild, Santana and Westlife.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1aed6990-5943-4788-aae4-84db7892aa12/cover"/>
-    <episode-num system="xmltv_ns">1999.18.0</episode-num>
-    <episode-num system="onscreen">S2000E19</episode-num>
+    <desc lang="en">Jamie Theakston presents the pop chart programme, featuring Santana, Savage Garden, Moloko, Precious, M2M, N'n'G ft Kallaghan, Beck and Melanie C ft Lisa 'Left Eye' Lopes.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/09192ded-7ba3-447f-8cc8-80f8326062da/cover"/>
   </programme>
   <programme channel="BBCFourHD.uk" start="20260905013000 +0000" stop="20260905020000 +0000">
-    <title lang="en">TOTP: 2000</title>
-    <desc lang="en">Sara Cox presents the pop chart programme, featuring Steps, Angie Stone, Sweet Female Attitude, Bloodhound Gang, Lock 'n' Load, Hanson, Lonestar and Craig David.</desc>
+    <title lang="en">Top of the Pops</title>
+    <desc lang="en">Gail Porter presents the pop chart programme, first broadcast on 7 April 2000 and featuring B*Witched, Destiny's Child, Moloko, Atomic Kitten, Idlewild, Santana and Westlife.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/13c93cef-d020-4734-9bdb-92056312ee5b/cover"/>
   </programme>
   <programme channel="BBCFourHD.uk" start="20260905020000 +0000" stop="20260905030000 +0000">
@@ -11000,7 +10983,7 @@
   </programme>
   <programme channel="BBCNews.uk" start="20260905133000 +0000" stop="20260905140000 +0000">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.</desc>
+    <desc lang="en">China can build a robot that runs faster than Usain Bolt. So why can't it reliably empty a dishwasher? We explore the gap between what AI can think and what robots can actually do.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d3d23b24-cd21-40b1-901f-4bf5d025afe4/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260905140000 +0000" stop="20260905143000 +0000">
@@ -11156,8 +11139,8 @@
     <title lang="en">Escape to the Country</title>
     <desc lang="en">Briony May Williams helps a couple move from Belfast to Herefordshire to be closer to their family.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/38ca2eaa-7e05-447a-aa40-d515ac6553e5/cover"/>
-    <episode-num system="xmltv_ns">23.13.0</episode-num>
-    <episode-num system="onscreen">S24E14</episode-num>
+    <episode-num system="xmltv_ns">23.12.0</episode-num>
+    <episode-num system="onscreen">S24E13</episode-num>
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260903144500 +0000" stop="20260903153000 +0000">
     <title lang="en">Garden Rescue</title>
@@ -11193,7 +11176,7 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260903180000 +0000" stop="20260903183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Clara Amfo bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Sandi Toksvig and new hosts of The Grand Tour, James Engelsman, Thomas Holland and Francis Bourgeois, join Alex Jones and Lauren Laverne on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/542048e9-395a-4ce7-b072-b507db3dc90e/cover"/>
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260903183000 +0000" stop="20260903190000 +0000">
@@ -11488,12 +11471,12 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260905190000 +0000" stop="20260905195000 +0000">
     <title lang="en">Casualty: 40th Anniversary</title>
-    <desc lang="en">Lives hang in the balance as a huge firebomb lights up the skies of Holby.</desc>
+    <desc lang="en">Lives hang in the balance as a huge firebomb lights up the skies of Holby. Contains some scenes which some viewers may find upsetting.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b4d421e9-699f-44f9-92b2-73eb8e929a14/cover"/>
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260905195000 +0000" stop="20260905204000 +0000">
     <title lang="en">Casualty: 40th Anniversary</title>
-    <desc lang="en">As the team look to Dylan for guidance in their hour of need, does he have the strength to keep fighting?</desc>
+    <desc lang="en">As the team look to Dylan for guidance in their hour of need, does he have the strength to keep fighting? Contains some scenes which some viewers may find upsetting.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e2a35d4d-4bee-42c0-a232-87ae112036ba/cover"/>
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260905204000 +0000" stop="20260905211000 +0000">
@@ -11591,8 +11574,8 @@
     <title lang="en">Escape to the Country</title>
     <desc lang="en">Briony May Williams helps a couple move from Belfast to Herefordshire to be closer to their family.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/38ca2eaa-7e05-447a-aa40-d515ac6553e5/cover"/>
-    <episode-num system="xmltv_ns">23.13.0</episode-num>
-    <episode-num system="onscreen">S24E14</episode-num>
+    <episode-num system="xmltv_ns">23.12.0</episode-num>
+    <episode-num system="onscreen">S24E13</episode-num>
   </programme>
   <programme channel="BBCOneEast.uk" start="20260903144500 +0000" stop="20260903153000 +0000">
     <title lang="en">Garden Rescue</title>
@@ -11628,7 +11611,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20260903180000 +0000" stop="20260903183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Clara Amfo bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Sandi Toksvig and new hosts of The Grand Tour, James Engelsman, Thomas Holland and Francis Bourgeois, join Alex Jones and Lauren Laverne on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/542048e9-395a-4ce7-b072-b507db3dc90e/cover"/>
   </programme>
   <programme channel="BBCOneEast.uk" start="20260903183000 +0000" stop="20260903190000 +0000">
@@ -11923,12 +11906,12 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20260905190000 +0000" stop="20260905195000 +0000">
     <title lang="en">Casualty: 40th Anniversary</title>
-    <desc lang="en">Lives hang in the balance as a huge firebomb lights up the skies of Holby.</desc>
+    <desc lang="en">Lives hang in the balance as a huge firebomb lights up the skies of Holby. Contains some scenes which some viewers may find upsetting.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b4d421e9-699f-44f9-92b2-73eb8e929a14/cover"/>
   </programme>
   <programme channel="BBCOneEast.uk" start="20260905195000 +0000" stop="20260905204000 +0000">
     <title lang="en">Casualty: 40th Anniversary</title>
-    <desc lang="en">As the team look to Dylan for guidance in their hour of need, does he have the strength to keep fighting?</desc>
+    <desc lang="en">As the team look to Dylan for guidance in their hour of need, does he have the strength to keep fighting? Contains some scenes which some viewers may find upsetting.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e2a35d4d-4bee-42c0-a232-87ae112036ba/cover"/>
   </programme>
   <programme channel="BBCOneEast.uk" start="20260905204000 +0000" stop="20260905211000 +0000">
@@ -12026,8 +12009,8 @@
     <title lang="en">Escape to the Country</title>
     <desc lang="en">Briony May Williams helps a couple move from Belfast to Herefordshire to be closer to their family.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/38ca2eaa-7e05-447a-aa40-d515ac6553e5/cover"/>
-    <episode-num system="xmltv_ns">23.13.0</episode-num>
-    <episode-num system="onscreen">S24E14</episode-num>
+    <episode-num system="xmltv_ns">23.12.0</episode-num>
+    <episode-num system="onscreen">S24E13</episode-num>
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260903144500 +0000" stop="20260903153000 +0000">
     <title lang="en">Garden Rescue</title>
@@ -12063,7 +12046,7 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260903180000 +0000" stop="20260903183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Clara Amfo bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Sandi Toksvig and new hosts of The Grand Tour, James Engelsman, Thomas Holland and Francis Bourgeois, join Alex Jones and Lauren Laverne on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/542048e9-395a-4ce7-b072-b507db3dc90e/cover"/>
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260903183000 +0000" stop="20260903190000 +0000">
@@ -12358,12 +12341,12 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260905190000 +0000" stop="20260905195000 +0000">
     <title lang="en">Casualty: 40th Anniversary</title>
-    <desc lang="en">Lives hang in the balance as a huge firebomb lights up the skies of Holby.</desc>
+    <desc lang="en">Lives hang in the balance as a huge firebomb lights up the skies of Holby. Contains some scenes which some viewers may find upsetting.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b4d421e9-699f-44f9-92b2-73eb8e929a14/cover"/>
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260905195000 +0000" stop="20260905204000 +0000">
     <title lang="en">Casualty: 40th Anniversary</title>
-    <desc lang="en">As the team look to Dylan for guidance in their hour of need, does he have the strength to keep fighting?</desc>
+    <desc lang="en">As the team look to Dylan for guidance in their hour of need, does he have the strength to keep fighting? Contains some scenes which some viewers may find upsetting.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e2a35d4d-4bee-42c0-a232-87ae112036ba/cover"/>
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260905204000 +0000" stop="20260905211000 +0000">
@@ -12461,8 +12444,8 @@
     <title lang="en">Escape to the Country</title>
     <desc lang="en">Briony May Williams helps a couple move from Belfast to Herefordshire to be closer to their family.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/38ca2eaa-7e05-447a-aa40-d515ac6553e5/cover"/>
-    <episode-num system="xmltv_ns">23.13.0</episode-num>
-    <episode-num system="onscreen">S24E14</episode-num>
+    <episode-num system="xmltv_ns">23.12.0</episode-num>
+    <episode-num system="onscreen">S24E13</episode-num>
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260903144500 +0000" stop="20260903153000 +0000">
     <title lang="en">Garden Rescue</title>
@@ -12498,7 +12481,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260903180000 +0000" stop="20260903183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Clara Amfo bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Sandi Toksvig and new hosts of The Grand Tour, James Engelsman, Thomas Holland and Francis Bourgeois, join Alex Jones and Lauren Laverne on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/542048e9-395a-4ce7-b072-b507db3dc90e/cover"/>
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260903183000 +0000" stop="20260903190000 +0000">
@@ -12793,12 +12776,12 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260905190000 +0000" stop="20260905195000 +0000">
     <title lang="en">Casualty: 40th Anniversary</title>
-    <desc lang="en">Lives hang in the balance as a huge firebomb lights up the skies of Holby.</desc>
+    <desc lang="en">Lives hang in the balance as a huge firebomb lights up the skies of Holby. Contains some scenes which some viewers may find upsetting.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b4d421e9-699f-44f9-92b2-73eb8e929a14/cover"/>
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260905195000 +0000" stop="20260905204000 +0000">
     <title lang="en">Casualty: 40th Anniversary</title>
-    <desc lang="en">As the team look to Dylan for guidance in their hour of need, does he have the strength to keep fighting?</desc>
+    <desc lang="en">As the team look to Dylan for guidance in their hour of need, does he have the strength to keep fighting? Contains some scenes which some viewers may find upsetting.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e2a35d4d-4bee-42c0-a232-87ae112036ba/cover"/>
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260905204000 +0000" stop="20260905211000 +0000">
@@ -12896,8 +12879,8 @@
     <title lang="en">Escape to the Country</title>
     <desc lang="en">Briony May Williams helps a couple move from Belfast to Herefordshire to be closer to their family.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/38ca2eaa-7e05-447a-aa40-d515ac6553e5/cover"/>
-    <episode-num system="xmltv_ns">23.13.0</episode-num>
-    <episode-num system="onscreen">S24E14</episode-num>
+    <episode-num system="xmltv_ns">23.12.0</episode-num>
+    <episode-num system="onscreen">S24E13</episode-num>
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260903144500 +0000" stop="20260903153000 +0000">
     <title lang="en">Garden Rescue</title>
@@ -12933,7 +12916,7 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260903180000 +0000" stop="20260903183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Clara Amfo bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Sandi Toksvig and new hosts of The Grand Tour, James Engelsman, Thomas Holland and Francis Bourgeois, join Alex Jones and Lauren Laverne on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/542048e9-395a-4ce7-b072-b507db3dc90e/cover"/>
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260903183000 +0000" stop="20260903190000 +0000">
@@ -13228,12 +13211,12 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260905190000 +0000" stop="20260905195000 +0000">
     <title lang="en">Casualty: 40th Anniversary</title>
-    <desc lang="en">Lives hang in the balance as a huge firebomb lights up the skies of Holby.</desc>
+    <desc lang="en">Lives hang in the balance as a huge firebomb lights up the skies of Holby. Contains some scenes which some viewers may find upsetting.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b4d421e9-699f-44f9-92b2-73eb8e929a14/cover"/>
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260905195000 +0000" stop="20260905204000 +0000">
     <title lang="en">Casualty: 40th Anniversary</title>
-    <desc lang="en">As the team look to Dylan for guidance in their hour of need, does he have the strength to keep fighting?</desc>
+    <desc lang="en">As the team look to Dylan for guidance in their hour of need, does he have the strength to keep fighting? Contains some scenes which some viewers may find upsetting.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e2a35d4d-4bee-42c0-a232-87ae112036ba/cover"/>
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260905204000 +0000" stop="20260905211000 +0000">
@@ -13331,8 +13314,8 @@
     <title lang="en">Escape to the Country</title>
     <desc lang="en">Briony May Williams helps a couple move from Belfast to Herefordshire to be closer to their family.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/38ca2eaa-7e05-447a-aa40-d515ac6553e5/cover"/>
-    <episode-num system="xmltv_ns">23.13.0</episode-num>
-    <episode-num system="onscreen">S24E14</episode-num>
+    <episode-num system="xmltv_ns">23.12.0</episode-num>
+    <episode-num system="onscreen">S24E13</episode-num>
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260903144500 +0000" stop="20260903153000 +0000">
     <title lang="en">Garden Rescue</title>
@@ -13368,7 +13351,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260903180000 +0000" stop="20260903183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Clara Amfo bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Sandi Toksvig and new hosts of The Grand Tour, James Engelsman, Thomas Holland and Francis Bourgeois, join Alex Jones and Lauren Laverne on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/542048e9-395a-4ce7-b072-b507db3dc90e/cover"/>
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260903183000 +0000" stop="20260903190000 +0000">
@@ -13663,12 +13646,12 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260905190000 +0000" stop="20260905195000 +0000">
     <title lang="en">Casualty: 40th Anniversary</title>
-    <desc lang="en">Lives hang in the balance as a huge firebomb lights up the skies of Holby.</desc>
+    <desc lang="en">Lives hang in the balance as a huge firebomb lights up the skies of Holby. Contains some scenes which some viewers may find upsetting.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b4d421e9-699f-44f9-92b2-73eb8e929a14/cover"/>
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260905195000 +0000" stop="20260905204000 +0000">
     <title lang="en">Casualty: 40th Anniversary</title>
-    <desc lang="en">As the team look to Dylan for guidance in their hour of need, does he have the strength to keep fighting?</desc>
+    <desc lang="en">As the team look to Dylan for guidance in their hour of need, does he have the strength to keep fighting? Contains some scenes which some viewers may find upsetting.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e2a35d4d-4bee-42c0-a232-87ae112036ba/cover"/>
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260905204000 +0000" stop="20260905211000 +0000">
@@ -13768,8 +13751,8 @@
     <title lang="en">Escape to the Country</title>
     <desc lang="en">Briony May Williams helps a couple move from Belfast to Herefordshire to be closer to their family.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/38ca2eaa-7e05-447a-aa40-d515ac6553e5/cover"/>
-    <episode-num system="xmltv_ns">23.13.0</episode-num>
-    <episode-num system="onscreen">S24E14</episode-num>
+    <episode-num system="xmltv_ns">23.12.0</episode-num>
+    <episode-num system="onscreen">S24E13</episode-num>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260903144500 +0000" stop="20260903153000 +0000">
     <title lang="en">Garden Rescue</title>
@@ -13805,7 +13788,7 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260903180000 +0000" stop="20260903183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Clara Amfo bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Sandi Toksvig and new hosts of The Grand Tour, James Engelsman, Thomas Holland and Francis Bourgeois, join Alex Jones and Lauren Laverne on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/542048e9-395a-4ce7-b072-b507db3dc90e/cover"/>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260903183000 +0000" stop="20260903190000 +0000">
@@ -14090,12 +14073,12 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260905190000 +0000" stop="20260905195000 +0000">
     <title lang="en">Casualty: 40th Anniversary</title>
-    <desc lang="en">Lives hang in the balance as a huge firebomb lights up the skies of Holby.</desc>
+    <desc lang="en">Lives hang in the balance as a huge firebomb lights up the skies of Holby. Contains some scenes which some viewers may find upsetting.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b4d421e9-699f-44f9-92b2-73eb8e929a14/cover"/>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260905195000 +0000" stop="20260905204000 +0000">
     <title lang="en">Casualty: 40th Anniversary</title>
-    <desc lang="en">As the team look to Dylan for guidance in their hour of need, does he have the strength to keep fighting?</desc>
+    <desc lang="en">As the team look to Dylan for guidance in their hour of need, does he have the strength to keep fighting? Contains some scenes which some viewers may find upsetting.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e2a35d4d-4bee-42c0-a232-87ae112036ba/cover"/>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260905204000 +0000" stop="20260905211000 +0000">
@@ -14231,7 +14214,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260903180000 +0000" stop="20260903183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Clara Amfo bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Sandi Toksvig and new hosts of The Grand Tour, James Engelsman, Thomas Holland and Francis Bourgeois, join Alex Jones and Lauren Laverne on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/542048e9-395a-4ce7-b072-b507db3dc90e/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260903183000 +0000" stop="20260903190000 +0000">
@@ -14278,7 +14261,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260904001000 +0000" stop="20260904004000 +0000">
     <title lang="en">Scotcast</title>
-    <desc lang="en">Conversation about Scotland's biggest news stories, hosted by Martin Geissler.</desc>
+    <desc lang="en">Political analysis with David Wallace Lockhart, Lynsey Bews and Nicola Sturgeon's former chief of staff Liz Lloyd.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9155f118-aba9-44ff-accb-f70f64cd8066/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260904004000 +0000" stop="20260904004500 +0000">
@@ -14531,12 +14514,12 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260905190000 +0000" stop="20260905195000 +0000">
     <title lang="en">Casualty: 40th Anniversary</title>
-    <desc lang="en">Lives hang in the balance as a huge firebomb lights up the skies of Holby.</desc>
+    <desc lang="en">Lives hang in the balance as a huge firebomb lights up the skies of Holby. Contains some scenes which some viewers may find upsetting.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b4d421e9-699f-44f9-92b2-73eb8e929a14/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260905195000 +0000" stop="20260905204000 +0000">
     <title lang="en">Casualty: 40th Anniversary</title>
-    <desc lang="en">As the team look to Dylan for guidance in their hour of need, does he have the strength to keep fighting?</desc>
+    <desc lang="en">As the team look to Dylan for guidance in their hour of need, does he have the strength to keep fighting? Contains some scenes which some viewers may find upsetting.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e2a35d4d-4bee-42c0-a232-87ae112036ba/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260905204000 +0000" stop="20260905211000 +0000">
@@ -14639,8 +14622,8 @@
     <title lang="en">Escape to the Country</title>
     <desc lang="en">Briony May Williams helps a couple move from Belfast to Herefordshire to be closer to their family.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/38ca2eaa-7e05-447a-aa40-d515ac6553e5/cover"/>
-    <episode-num system="xmltv_ns">23.13.0</episode-num>
-    <episode-num system="onscreen">S24E14</episode-num>
+    <episode-num system="xmltv_ns">23.12.0</episode-num>
+    <episode-num system="onscreen">S24E13</episode-num>
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260903144500 +0000" stop="20260903153000 +0000">
     <title lang="en">Garden Rescue</title>
@@ -14676,7 +14659,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260903180000 +0000" stop="20260903183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Clara Amfo bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Sandi Toksvig and new hosts of The Grand Tour, James Engelsman, Thomas Holland and Francis Bourgeois, join Alex Jones and Lauren Laverne on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/542048e9-395a-4ce7-b072-b507db3dc90e/cover"/>
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260903183000 +0000" stop="20260903190000 +0000">
@@ -14971,12 +14954,12 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260905190000 +0000" stop="20260905195000 +0000">
     <title lang="en">Casualty: 40th Anniversary</title>
-    <desc lang="en">Lives hang in the balance as a huge firebomb lights up the skies of Holby.</desc>
+    <desc lang="en">Lives hang in the balance as a huge firebomb lights up the skies of Holby. Contains some scenes which some viewers may find upsetting.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b4d421e9-699f-44f9-92b2-73eb8e929a14/cover"/>
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260905195000 +0000" stop="20260905204000 +0000">
     <title lang="en">Casualty: 40th Anniversary</title>
-    <desc lang="en">As the team look to Dylan for guidance in their hour of need, does he have the strength to keep fighting?</desc>
+    <desc lang="en">As the team look to Dylan for guidance in their hour of need, does he have the strength to keep fighting? Contains some scenes which some viewers may find upsetting.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e2a35d4d-4bee-42c0-a232-87ae112036ba/cover"/>
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260905204000 +0000" stop="20260905211000 +0000">
@@ -15074,8 +15057,8 @@
     <title lang="en">Escape to the Country</title>
     <desc lang="en">Briony May Williams helps a couple move from Belfast to Herefordshire to be closer to their family.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/38ca2eaa-7e05-447a-aa40-d515ac6553e5/cover"/>
-    <episode-num system="xmltv_ns">23.13.0</episode-num>
-    <episode-num system="onscreen">S24E14</episode-num>
+    <episode-num system="xmltv_ns">23.12.0</episode-num>
+    <episode-num system="onscreen">S24E13</episode-num>
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260903144500 +0000" stop="20260903153000 +0000">
     <title lang="en">Garden Rescue</title>
@@ -15111,7 +15094,7 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260903180000 +0000" stop="20260903183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Clara Amfo bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Sandi Toksvig and new hosts of The Grand Tour, James Engelsman, Thomas Holland and Francis Bourgeois, join Alex Jones and Lauren Laverne on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/542048e9-395a-4ce7-b072-b507db3dc90e/cover"/>
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260903183000 +0000" stop="20260903190000 +0000">
@@ -15406,12 +15389,12 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260905190000 +0000" stop="20260905195000 +0000">
     <title lang="en">Casualty: 40th Anniversary</title>
-    <desc lang="en">Lives hang in the balance as a huge firebomb lights up the skies of Holby.</desc>
+    <desc lang="en">Lives hang in the balance as a huge firebomb lights up the skies of Holby. Contains some scenes which some viewers may find upsetting.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b4d421e9-699f-44f9-92b2-73eb8e929a14/cover"/>
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260905195000 +0000" stop="20260905204000 +0000">
     <title lang="en">Casualty: 40th Anniversary</title>
-    <desc lang="en">As the team look to Dylan for guidance in their hour of need, does he have the strength to keep fighting?</desc>
+    <desc lang="en">As the team look to Dylan for guidance in their hour of need, does he have the strength to keep fighting? Contains some scenes which some viewers may find upsetting.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e2a35d4d-4bee-42c0-a232-87ae112036ba/cover"/>
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260905204000 +0000" stop="20260905211000 +0000">
@@ -15509,8 +15492,8 @@
     <title lang="en">Escape to the Country</title>
     <desc lang="en">Briony May Williams helps a couple move from Belfast to Herefordshire to be closer to their family.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/38ca2eaa-7e05-447a-aa40-d515ac6553e5/cover"/>
-    <episode-num system="xmltv_ns">23.13.0</episode-num>
-    <episode-num system="onscreen">S24E14</episode-num>
+    <episode-num system="xmltv_ns">23.12.0</episode-num>
+    <episode-num system="onscreen">S24E13</episode-num>
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260903144500 +0000" stop="20260903153000 +0000">
     <title lang="en">Garden Rescue</title>
@@ -15546,7 +15529,7 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260903180000 +0000" stop="20260903183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Clara Amfo bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Sandi Toksvig and new hosts of The Grand Tour, James Engelsman, Thomas Holland and Francis Bourgeois, join Alex Jones and Lauren Laverne on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/542048e9-395a-4ce7-b072-b507db3dc90e/cover"/>
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260903183000 +0000" stop="20260903190000 +0000">
@@ -15841,12 +15824,12 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260905190000 +0000" stop="20260905195000 +0000">
     <title lang="en">Casualty: 40th Anniversary</title>
-    <desc lang="en">Lives hang in the balance as a huge firebomb lights up the skies of Holby.</desc>
+    <desc lang="en">Lives hang in the balance as a huge firebomb lights up the skies of Holby. Contains some scenes which some viewers may find upsetting.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b4d421e9-699f-44f9-92b2-73eb8e929a14/cover"/>
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260905195000 +0000" stop="20260905204000 +0000">
     <title lang="en">Casualty: 40th Anniversary</title>
-    <desc lang="en">As the team look to Dylan for guidance in their hour of need, does he have the strength to keep fighting?</desc>
+    <desc lang="en">As the team look to Dylan for guidance in their hour of need, does he have the strength to keep fighting? Contains some scenes which some viewers may find upsetting.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e2a35d4d-4bee-42c0-a232-87ae112036ba/cover"/>
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260905204000 +0000" stop="20260905211000 +0000">
@@ -15949,8 +15932,8 @@
     <title lang="en">Escape to the Country</title>
     <desc lang="en">Briony May Williams helps a couple move from Belfast to Herefordshire to be closer to their family.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/38ca2eaa-7e05-447a-aa40-d515ac6553e5/cover"/>
-    <episode-num system="xmltv_ns">23.13.0</episode-num>
-    <episode-num system="onscreen">S24E14</episode-num>
+    <episode-num system="xmltv_ns">23.12.0</episode-num>
+    <episode-num system="onscreen">S24E13</episode-num>
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20260903144500 +0000" stop="20260903153000 +0000">
     <title lang="en">Garden Rescue</title>
@@ -15986,7 +15969,7 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20260903180000 +0000" stop="20260903183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Clara Amfo bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Sandi Toksvig and new hosts of The Grand Tour, James Engelsman, Thomas Holland and Francis Bourgeois, join Alex Jones and Lauren Laverne on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/542048e9-395a-4ce7-b072-b507db3dc90e/cover"/>
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20260903183000 +0000" stop="20260903190000 +0000">
@@ -16284,12 +16267,12 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20260905190000 +0000" stop="20260905195000 +0000">
     <title lang="en">Casualty: 40th Anniversary</title>
-    <desc lang="en">Lives hang in the balance as a huge firebomb lights up the skies of Holby.</desc>
+    <desc lang="en">Lives hang in the balance as a huge firebomb lights up the skies of Holby. Contains some scenes which some viewers may find upsetting.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b4d421e9-699f-44f9-92b2-73eb8e929a14/cover"/>
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20260905195000 +0000" stop="20260905204000 +0000">
     <title lang="en">Casualty: 40th Anniversary</title>
-    <desc lang="en">As the team look to Dylan for guidance in their hour of need, does he have the strength to keep fighting?</desc>
+    <desc lang="en">As the team look to Dylan for guidance in their hour of need, does he have the strength to keep fighting? Contains some scenes which some viewers may find upsetting.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e2a35d4d-4bee-42c0-a232-87ae112036ba/cover"/>
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20260905204000 +0000" stop="20260905211000 +0000">
@@ -16387,8 +16370,8 @@
     <title lang="en">Escape to the Country</title>
     <desc lang="en">Briony May Williams helps a couple move from Belfast to Herefordshire to be closer to their family.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/38ca2eaa-7e05-447a-aa40-d515ac6553e5/cover"/>
-    <episode-num system="xmltv_ns">23.13.0</episode-num>
-    <episode-num system="onscreen">S24E14</episode-num>
+    <episode-num system="xmltv_ns">23.12.0</episode-num>
+    <episode-num system="onscreen">S24E13</episode-num>
   </programme>
   <programme channel="BBCOneWest.uk" start="20260903144500 +0000" stop="20260903153000 +0000">
     <title lang="en">Garden Rescue</title>
@@ -16424,7 +16407,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20260903180000 +0000" stop="20260903183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Clara Amfo bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Sandi Toksvig and new hosts of The Grand Tour, James Engelsman, Thomas Holland and Francis Bourgeois, join Alex Jones and Lauren Laverne on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/542048e9-395a-4ce7-b072-b507db3dc90e/cover"/>
   </programme>
   <programme channel="BBCOneWest.uk" start="20260903183000 +0000" stop="20260903190000 +0000">
@@ -16719,12 +16702,12 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20260905190000 +0000" stop="20260905195000 +0000">
     <title lang="en">Casualty: 40th Anniversary</title>
-    <desc lang="en">Lives hang in the balance as a huge firebomb lights up the skies of Holby.</desc>
+    <desc lang="en">Lives hang in the balance as a huge firebomb lights up the skies of Holby. Contains some scenes which some viewers may find upsetting.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b4d421e9-699f-44f9-92b2-73eb8e929a14/cover"/>
   </programme>
   <programme channel="BBCOneWest.uk" start="20260905195000 +0000" stop="20260905204000 +0000">
     <title lang="en">Casualty: 40th Anniversary</title>
-    <desc lang="en">As the team look to Dylan for guidance in their hour of need, does he have the strength to keep fighting?</desc>
+    <desc lang="en">As the team look to Dylan for guidance in their hour of need, does he have the strength to keep fighting? Contains some scenes which some viewers may find upsetting.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e2a35d4d-4bee-42c0-a232-87ae112036ba/cover"/>
   </programme>
   <programme channel="BBCOneWest.uk" start="20260905204000 +0000" stop="20260905211000 +0000">
@@ -16822,8 +16805,8 @@
     <title lang="en">Escape to the Country</title>
     <desc lang="en">Briony May Williams helps a couple move from Belfast to Herefordshire to be closer to their family.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/38ca2eaa-7e05-447a-aa40-d515ac6553e5/cover"/>
-    <episode-num system="xmltv_ns">23.13.0</episode-num>
-    <episode-num system="onscreen">S24E14</episode-num>
+    <episode-num system="xmltv_ns">23.12.0</episode-num>
+    <episode-num system="onscreen">S24E13</episode-num>
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260903144500 +0000" stop="20260903153000 +0000">
     <title lang="en">Garden Rescue</title>
@@ -16859,7 +16842,7 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260903180000 +0000" stop="20260903183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Clara Amfo bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Sandi Toksvig and new hosts of The Grand Tour, James Engelsman, Thomas Holland and Francis Bourgeois, join Alex Jones and Lauren Laverne on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/542048e9-395a-4ce7-b072-b507db3dc90e/cover"/>
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260903183000 +0000" stop="20260903190000 +0000">
@@ -17154,12 +17137,12 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260905190000 +0000" stop="20260905195000 +0000">
     <title lang="en">Casualty: 40th Anniversary</title>
-    <desc lang="en">Lives hang in the balance as a huge firebomb lights up the skies of Holby.</desc>
+    <desc lang="en">Lives hang in the balance as a huge firebomb lights up the skies of Holby. Contains some scenes which some viewers may find upsetting.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b4d421e9-699f-44f9-92b2-73eb8e929a14/cover"/>
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260905195000 +0000" stop="20260905204000 +0000">
     <title lang="en">Casualty: 40th Anniversary</title>
-    <desc lang="en">As the team look to Dylan for guidance in their hour of need, does he have the strength to keep fighting?</desc>
+    <desc lang="en">As the team look to Dylan for guidance in their hour of need, does he have the strength to keep fighting? Contains some scenes which some viewers may find upsetting.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e2a35d4d-4bee-42c0-a232-87ae112036ba/cover"/>
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260905204000 +0000" stop="20260905211000 +0000">
@@ -17257,8 +17240,8 @@
     <title lang="en">Escape to the Country</title>
     <desc lang="en">Briony May Williams helps a couple move from Belfast to Herefordshire to be closer to their family.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/38ca2eaa-7e05-447a-aa40-d515ac6553e5/cover"/>
-    <episode-num system="xmltv_ns">23.13.0</episode-num>
-    <episode-num system="onscreen">S24E14</episode-num>
+    <episode-num system="xmltv_ns">23.12.0</episode-num>
+    <episode-num system="onscreen">S24E13</episode-num>
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260903144500 +0000" stop="20260903153000 +0000">
     <title lang="en">Garden Rescue</title>
@@ -17294,7 +17277,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260903180000 +0000" stop="20260903183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Clara Amfo bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Sandi Toksvig and new hosts of The Grand Tour, James Engelsman, Thomas Holland and Francis Bourgeois, join Alex Jones and Lauren Laverne on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/542048e9-395a-4ce7-b072-b507db3dc90e/cover"/>
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260903183000 +0000" stop="20260903190000 +0000">
@@ -17589,12 +17572,12 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260905190000 +0000" stop="20260905195000 +0000">
     <title lang="en">Casualty: 40th Anniversary</title>
-    <desc lang="en">Lives hang in the balance as a huge firebomb lights up the skies of Holby.</desc>
+    <desc lang="en">Lives hang in the balance as a huge firebomb lights up the skies of Holby. Contains some scenes which some viewers may find upsetting.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b4d421e9-699f-44f9-92b2-73eb8e929a14/cover"/>
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260905195000 +0000" stop="20260905204000 +0000">
     <title lang="en">Casualty: 40th Anniversary</title>
-    <desc lang="en">As the team look to Dylan for guidance in their hour of need, does he have the strength to keep fighting?</desc>
+    <desc lang="en">As the team look to Dylan for guidance in their hour of need, does he have the strength to keep fighting? Contains some scenes which some viewers may find upsetting.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e2a35d4d-4bee-42c0-a232-87ae112036ba/cover"/>
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260905204000 +0000" stop="20260905211000 +0000">
@@ -17692,8 +17675,8 @@
     <title lang="en">Escape to the Country</title>
     <desc lang="en">Briony May Williams helps a couple move from Belfast to Herefordshire to be closer to their family.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/38ca2eaa-7e05-447a-aa40-d515ac6553e5/cover"/>
-    <episode-num system="xmltv_ns">23.13.0</episode-num>
-    <episode-num system="onscreen">S24E14</episode-num>
+    <episode-num system="xmltv_ns">23.12.0</episode-num>
+    <episode-num system="onscreen">S24E13</episode-num>
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260903144500 +0000" stop="20260903153000 +0000">
     <title lang="en">Garden Rescue</title>
@@ -17729,7 +17712,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260903180000 +0000" stop="20260903183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Clara Amfo bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Sandi Toksvig and new hosts of The Grand Tour, James Engelsman, Thomas Holland and Francis Bourgeois, join Alex Jones and Lauren Laverne on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/542048e9-395a-4ce7-b072-b507db3dc90e/cover"/>
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260903183000 +0000" stop="20260903190000 +0000">
@@ -18024,12 +18007,12 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260905190000 +0000" stop="20260905195000 +0000">
     <title lang="en">Casualty: 40th Anniversary</title>
-    <desc lang="en">Lives hang in the balance as a huge firebomb lights up the skies of Holby.</desc>
+    <desc lang="en">Lives hang in the balance as a huge firebomb lights up the skies of Holby. Contains some scenes which some viewers may find upsetting.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b4d421e9-699f-44f9-92b2-73eb8e929a14/cover"/>
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260905195000 +0000" stop="20260905204000 +0000">
     <title lang="en">Casualty: 40th Anniversary</title>
-    <desc lang="en">As the team look to Dylan for guidance in their hour of need, does he have the strength to keep fighting?</desc>
+    <desc lang="en">As the team look to Dylan for guidance in their hour of need, does he have the strength to keep fighting? Contains some scenes which some viewers may find upsetting.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e2a35d4d-4bee-42c0-a232-87ae112036ba/cover"/>
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260905204000 +0000" stop="20260905211000 +0000">
@@ -18109,150 +18092,180 @@
     <desc lang="en">Coverage of questions in the House of Commons to Lisa Nandy, the digital, culture, media and sport secretary, and her team of ministers on Thursday 3 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/439e2332-b42b-440e-8829-815f6ae11870/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260903091000 +0000" stop="20260903093000 +0000">
+  <programme channel="BBCParliament.uk" start="20260903091000 +0000" stop="20260903094000 +0000">
     <title lang="en">Live Commissioners Questions</title>
     <desc lang="en">Coverage of Commissioners Questions in the House of Commons, on Thursday 3 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9e782d96-6b0c-333b-a3ce-9c698c553dc7/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260903093000 +0000" stop="20260903101500 +0000">
+  <programme channel="BBCParliament.uk" start="20260903094000 +0000" stop="20260903101500 +0000">
     <title lang="en">Live North Sea Oil and Gas Urgent Question</title>
     <desc lang="en">An urgent question on the future of the Jackdaw and Rosebank oil and gas field projects.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5a024167-f66f-47c2-aadd-643fe12d9945/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260903101500 +0000" stop="20260903110000 +0000">
+  <programme channel="BBCParliament.uk" start="20260903101500 +0000" stop="20260903105000 +0000">
     <title lang="en">Live Bluetongue Virus Urgent Question</title>
     <desc lang="en">Coverage of an urgent question in the House of Commons on Bluetongue Virus (BTV-3) in Livestock, on Thursday 3 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fe48545e-4186-4725-a8ac-d2a901de7b80/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260903110000 +0000" stop="20260903120000 +0000">
+  <programme channel="BBCParliament.uk" start="20260903105000 +0000" stop="20260903121000 +0000">
     <title lang="en">Live Commons Business Questions</title>
     <desc lang="en">Coverage of the announcement of future Commons business and questions to Alan Campbell, the leader of the Commons, on Thursday 3 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/98b7b6ac-9406-4742-b157-66b45e00903e/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260903120000 +0000" stop="20260903130000 +0000">
+  <programme channel="BBCParliament.uk" start="20260903121000 +0000" stop="20260903131500 +0000">
     <title lang="en">Live Building Homes and...</title>
     <desc lang="en">...Renewing Communities Statement. The statement on building homes and renewing communities, on Thursday 3 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fd07a36d-f585-4939-8d24-78df75f6a146/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260903130000 +0000" stop="20260903163000 +0000">
+  <programme channel="BBCParliament.uk" start="20260903131500 +0000" stop="20260903151000 +0000">
     <title lang="en">Live House of Commons</title>
     <desc lang="en">Coverage of the day's proceedings in the House of Commons including the second reading debate on the Sporting Events Bill, on Thursday 3 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fbe2fc5d-ee23-47b6-9c99-795461a544ac/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260903163000 +0000" stop="20260903170000 +0000">
+  <programme channel="BBCParliament.uk" start="20260903151000 +0000" stop="20260903161500 +0000">
+    <title lang="en">Building Homes and Renewing Communities Statement</title>
+    <desc lang="en">The statement on building homes and renewing communities, on Thursday 3 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/c7e3ad21-dddd-4d9c-9db5-4cafad41edf2/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260903161500 +0000" stop="20260903163000 +0000">
+    <title lang="en">Ten Minute Rule Bill on Road Safety Plans</title>
+    <desc lang="en">Coverage of the introduction to the House of Commons of a ten minute rule bill, introduced by Labour MP Adam Jogee, on road safety plans, from Tuesday 1 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/91831f38-3ec0-4eb0-a3ab-d57ce6fcd6bb/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260903163000 +0000" stop="20260903170500 +0000">
     <title lang="en">Scottish First Minister's Questions</title>
     <desc lang="en">Questions in the Scottish Parliament from party leaders to John Swinney, the first minister, on Thursday 3 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/368b20c6-98a1-44d8-8ec3-cf5f6a6f687e/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260903170000 +0000" stop="20260903174500 +0000">
+  <programme channel="BBCParliament.uk" start="20260903170500 +0000" stop="20260903174500 +0000">
     <title lang="en">Lords Questions</title>
     <desc lang="en">Questions in the House of Lords to government ministers covering litigation funding, the Office for Students, compulsory voting and on the summer drought, on Thursday 3 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/31d1befd-b8d2-4d1d-9475-bc51f14e048b/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260903174500 +0000" stop="20260903201500 +0000">
+  <programme channel="BBCParliament.uk" start="20260903174500 +0000" stop="20260903180000 +0000">
+    <title lang="en">House of Lords - Introductions</title>
+    <desc lang="en">Ceremony to introduce Ruth Mackenzie and Anas Sarwar as peers in the House of Lords, on Thursday 3 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/29f556f3-2f55-4172-8e07-91120000a38d/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260903180000 +0000" stop="20260903201500 +0000">
     <title lang="en">House of Lords - Skills,...</title>
     <desc lang="en">...Vocational Training and Further Education. The debate in the House of Lords on skills, vocational training and further education.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/886bb55b-7913-4a2d-a48b-b8cd5560f52e/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260903201500 +0000" stop="20260903211500 +0000">
+  <programme channel="BBCParliament.uk" start="20260903201500 +0000" stop="20260903210000 +0000">
     <title lang="en">House of Lords - Parcel Delivery Services</title>
     <desc lang="en">Coverage of the debate in the House of Lords on the quality and reliability of parcel delivery services, on Thursday 3 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7e962091-2fbe-40a7-8eac-dd3c1f23b81e/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260903211500 +0000" stop="20260903234500 +0000">
+  <programme channel="BBCParliament.uk" start="20260903210000 +0000" stop="20260903233000 +0000">
     <title lang="en">House of Lords - Government Political Priorities</title>
     <desc lang="en">Coverage of the debate in the House of Lords on the government's political priorities and legislative agenda, on Thursday 3 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d8a3b221-3cd7-4e25-9de0-c9f9473c82a9/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260903234500 +0000" stop="20260904010000 +0000">
+  <programme channel="BBCParliament.uk" start="20260903233000 +0000" stop="20260904003000 +0000">
     <title lang="en">House of Lords - Nature Restoration Levy</title>
     <desc lang="en">The debate on a motion to approve the Nature Restoration Levy Regulations 2026.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/db254bc9-a59f-4b5c-9d5a-090b15e2f5e9/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260904010000 +0000" stop="20260904014000 +0000">
+  <programme channel="BBCParliament.uk" start="20260904003000 +0000" stop="20260904011000 +0000">
+    <title lang="en">North Sea Oil and Gas Urgent Question</title>
+    <desc lang="en">An urgent question on the future of the Jackdaw and Rosebank oil and gas field projects.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/2210a719-e6ab-4a88-87f1-9a3caaa6fee3/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260904011000 +0000" stop="20260904015000 +0000">
     <title lang="en">Digital, Culture, Media and Sport Questions</title>
     <desc lang="en">Coverage of questions in the House of Commons to Lisa Nandy, the digital, culture, media and sport secretary, and her team of ministers on Thursday 3 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/439e2332-b42b-440e-8829-815f6ae11870/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260904014000 +0000" stop="20260904020000 +0000">
+  <programme channel="BBCParliament.uk" start="20260904015000 +0000" stop="20260904021500 +0000">
     <title lang="en">Commissioners Questions</title>
     <desc lang="en">Coverage of Commissioners Questions in the House of Commons, on Thursday 3 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9e782d96-6b0c-333b-a3ce-9c698c553dc7/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260904020000 +0000" stop="20260904030000 +0000">
+  <programme channel="BBCParliament.uk" start="20260904021500 +0000" stop="20260904033500 +0000">
     <title lang="en">Commons Business Questions</title>
     <desc lang="en">Coverage of the announcement of future Commons business and questions to Alan Campbell, the leader of the Commons, on Thursday 3 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/98b7b6ac-9406-4742-b157-66b45e00903e/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260904030000 +0000" stop="20260904050500 +0000">
-    <title lang="en">House of Commons</title>
-    <desc lang="en">Highlights of proceedings in the House of Commons from Thursday 3 September.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/4a0b12ec-c6c0-40db-9f7d-5e58736db955/cover"/>
+  <programme channel="BBCParliament.uk" start="20260904033500 +0000" stop="20260904044000 +0000">
+    <title lang="en">Strategic Lawsuits Against...</title>
+    <desc lang="en">...Public Participation Debate. Coverage of the debate in the House of Commons on the impact of strategic lawsuits against public participation (SLAPPs), from Tuesday 1 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f0ac1043-781e-4001-b509-674e21ea202c/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260904050500 +0000" stop="20260904053500 +0000">
-    <title lang="en">This is BBC Parliament HD</title>
-    <desc lang="en">This is BBC Parliament HD</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/416c203c-d39e-437b-b10c-4a63860c7092/cover"/>
+  <programme channel="BBCParliament.uk" start="20260904044000 +0000" stop="20260904050500 +0000">
+    <title lang="en">Scottish Parliament - General Questions</title>
+    <desc lang="en">Coverage of general questions in the Scottish Parliament to ministers in the Scottish government, from Tuesday 1 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f8df4292-00b3-4b13-84e6-3fc726ae6e6e/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260904053500 +0000" stop="20260904060500 +0000">
-    <title lang="en">This is BBC Parliament HD</title>
-    <desc lang="en">This is BBC Parliament HD</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3c7fd91d-7094-467b-974f-3a1b13364980/cover"/>
-  </programme>
-  <programme channel="BBCParliament.uk" start="20260904060500 +0000" stop="20260904063500 +0000">
-    <title lang="en">This is BBC Parliament HD</title>
-    <desc lang="en">This is BBC Parliament HD</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/7bbb5daf-d54a-4b03-8d72-38f0439e68c1/cover"/>
-  </programme>
-  <programme channel="BBCParliament.uk" start="20260904063500 +0000" stop="20260904070500 +0000">
-    <title lang="en">This is BBC Parliament HD</title>
-    <desc lang="en">This is BBC Parliament HD</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f1d7cc9d-5730-4f6c-b54c-458fef35b87c/cover"/>
-  </programme>
-  <programme channel="BBCParliament.uk" start="20260904070500 +0000" stop="20260904073500 +0000">
-    <title lang="en">This is BBC Parliament HD</title>
-    <desc lang="en">This is BBC Parliament HD</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/8ad58729-78e1-4118-ac97-92fe68214588/cover"/>
-  </programme>
-  <programme channel="BBCParliament.uk" start="20260904073500 +0000" stop="20260904080500 +0000">
-    <title lang="en">This is BBC Parliament HD</title>
-    <desc lang="en">This is BBC Parliament HD</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f9ef216c-3a85-404e-8072-6af302a50403/cover"/>
-  </programme>
-  <programme channel="BBCParliament.uk" start="20260904080500 +0000" stop="20260904083000 +0000">
-    <title lang="en">This is BBC Parliament HD</title>
-    <desc lang="en">This is BBC Parliament HD</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/ccce7818-54ad-432a-a722-0cabe486643a/cover"/>
+  <programme channel="BBCParliament.uk" start="20260904050500 +0000" stop="20260904083000 +0000">
+    <title lang="en">Prime Minister's Statement on Government Priorities</title>
+    <desc lang="en">Coverage of the statement in the House of Commons by Andy Burnham, the prime minister, on the government's priorities, on Tuesday 1 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6282b1b3-9d99-4169-88c4-867555aa5a2f/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260904083000 +0000" stop="20260904140000 +0000">
     <title lang="en">Live House of Commons</title>
     <desc lang="en">Coverage of the day's proceedings in the House of Commons on Friday 4 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f2fa5dc9-f241-4fd9-bb94-f583ed15d2cd/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260904140000 +0000" stop="20260904190000 +0000">
-    <title lang="en">House of Lords</title>
-    <desc lang="en">Business in the House of Lords on Friday 4 September.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a6159345-0e90-4c63-8310-5202f6fee53e/cover"/>
+  <programme channel="BBCParliament.uk" start="20260904140000 +0000" stop="20260904160000 +0000">
+    <title lang="en">House of Lords - Ageing Society Debate</title>
+    <desc lang="en">Coverage of the debate in the House of Lords on the report from the Lords Economic Affairs committee on 'preparing for an ageing society', on Friday 4 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ceb1a17f-ba13-490d-a654-91f4f8d9c0d5/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260904190000 +0000" stop="20260904210000 +0000">
-    <title lang="en">Select Committees</title>
-    <desc lang="en">Recorded coverage of select committee proceedings.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/89b39a12-f410-4eea-97f3-3a91e3032e02/cover"/>
+  <programme channel="BBCParliament.uk" start="20260904160000 +0000" stop="20260904173000 +0000">
+    <title lang="en">House of Lords - Social Mobility Debate</title>
+    <desc lang="en">Debate on the report on 'Social mobility: local roots, lasting change', on 4 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/23cf7ae9-9112-42af-aa60-5e9760dd6739/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260904210000 +0000" stop="20260904213000 +0000">
+  <programme channel="BBCParliament.uk" start="20260904173000 +0000" stop="20260904190000 +0000">
+    <title lang="en">House of Lords - Forced Labour...</title>
+    <desc lang="en">...in UK Supply Chains Debate. Coverage of the report in the House of Lords from the Lords Human Rights committee on 'forced labour in UK supply chains', on Friday 4 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/4f101c9d-60c6-4921-9238-9ac33bf88f08/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260904190000 +0000" stop="20260904204000 +0000">
+    <title lang="en">Work and Pensions Committee</title>
+    <desc lang="en">Coverage of the Work and Pensions select committee session on the department's safeguarding practices following the deaths and serious harm of vulnerable people under the department's care.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f4aa7e3f-d681-4a86-b769-1560fed3c1e9/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260904204000 +0000" stop="20260904210000 +0000">
+    <title lang="en">Scottish Parliament - General Questions</title>
+    <desc lang="en">Coverage of general questions in the Scottish Parliament to ministers in the Scottish government, from Tuesday 1 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/bbaf0d93-775e-40b3-9fed-0f675d78be64/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260904210000 +0000" stop="20260904214000 +0000">
     <title lang="en">Scottish First Minister's Questions</title>
     <desc lang="en">Questions in the Scottish Parliament from backbench MSPs to John Swinney, the first minister, on Tuesday 1 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4c5dbed4-1edb-4855-a83d-ae448a50f145/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260904213000 +0000" stop="20260904220000 +0000">
+  <programme channel="BBCParliament.uk" start="20260904214000 +0000" stop="20260904221500 +0000">
     <title lang="en">Scottish First Minister's Questions</title>
     <desc lang="en">Questions in the Scottish Parliament from party leaders to John Swinney, the first minister, on Thursday 3 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/368b20c6-98a1-44d8-8ec3-cf5f6a6f687e/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260904220000 +0000" stop="20260905050000 +0000">
-    <title lang="en">Scottish Parliament</title>
-    <desc lang="en">Highlights from the Scottish Parliament.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/8feea22c-1fcf-4719-b227-09e354880850/cover"/>
+  <programme channel="BBCParliament.uk" start="20260904221500 +0000" stop="20260905004000 +0000">
+    <title lang="en">Scottish Parliament - Programme for Government</title>
+    <desc lang="en">Statement on the Scottish government's legislative priorities and the following debate.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7083cf45-feaf-4866-a0a5-dcddc2cb36eb/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260905004000 +0000" stop="20260905012000 +0000">
+    <title lang="en">Scottish Parliament -...</title>
+    <desc lang="en">...Cairngorms Wildfires Statement. Coverage of the statement in the Scottish Parliament on the wildfires in the Cairngorms over the summer, from Thursday 3 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1e66dbfc-cd22-444e-8884-ec94db5ed3be/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260905012000 +0000" stop="20260905030500 +0000">
+    <title lang="en">Scottish Parliament -...</title>
+    <desc lang="en">...Eradicating Child Poverty Debate. The debate on the government's aim of eradicating child poverty, on Thursday 3 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a32fbdc5-765b-4f1c-9e9f-9208f8750333/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260905030500 +0000" stop="20260905034000 +0000">
+    <title lang="en">Scottish Parliament - General Questions</title>
+    <desc lang="en">Coverage of general questions in the Scottish Parliament to ministers in the Scottish government, from Thursday 3 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7f66684a-de3c-413a-8611-adeb8d2c8a85/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260905034000 +0000" stop="20260905050000 +0000">
+    <title lang="en">Commons Business Questions</title>
+    <desc lang="en">Coverage of the announcement of future Commons business and questions to Alan Campbell, the leader of the Commons, on Thursday 3 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/915c4ad4-e698-45fe-a5a6-81ec9fc04780/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260905050000 +0000" stop="20260905100000 +0000">
     <title lang="en">Westminster Hall</title>
@@ -18313,11 +18326,6 @@
     <title lang="en">Select Committees</title>
     <desc lang="en">Recorded coverage of select committee proceedings.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f56012ed-bf46-4281-8d07-77977e905d60/cover"/>
-  </programme>
-  <programme channel="BBCRedButton1.uk" start="20260902170000 +0000" stop="20260902230000 +0000">
-    <title lang="en">The Story So Far: The Best of, Part 4</title>
-    <desc lang="en">The best of Ali Plumb's Story So Far programmes. Part 4.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/7b5e9534-9179-4315-974f-a55bf6ed8f78/cover"/>
   </programme>
   <programme channel="BBCRedButton1.uk" start="20260902230000 +0000" stop="20260903050000 +0000">
     <title lang="en">The Story So Far: The Best of, Part 4</title>
@@ -18486,7 +18494,7 @@
   </programme>
   <programme channel="BBCScotland.uk" start="20260903220000 +0000" stop="20260903223000 +0000">
     <title lang="en">Scotcast</title>
-    <desc lang="en">Conversation about Scotland's biggest news stories, hosted by Martin Geissler.</desc>
+    <desc lang="en">Political analysis with David Wallace Lockhart, Lynsey Bews and Nicola Sturgeon's former chief of staff Liz Lloyd.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9155f118-aba9-44ff-accb-f70f64cd8066/cover"/>
   </programme>
   <programme channel="BBCScotland.uk" start="20260903223000 +0000" stop="20260903230000 +0000">
@@ -18620,8 +18628,8 @@
     <title lang="en">Loop: The Family from Skye...</title>
     <desc lang="en">...Turning Waste Plastic into Art. Artist couple Donna and Carl go scouting for buoys as they transform Skye's washed-up plastic into beautiful pieces of art.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f47ced16-0c59-4d11-979d-d69f3f449977/cover"/>
-    <episode-num system="xmltv_ns">3.1.0</episode-num>
-    <episode-num system="onscreen">S4E2</episode-num>
+    <episode-num system="xmltv_ns">3.2.0</episode-num>
+    <episode-num system="onscreen">S4E3</episode-num>
   </programme>
   <programme channel="BBCThreeHD.uk" start="20260902215000 +0000" stop="20260902223500 +0000">
     <title lang="en">Guy Montgomery's Guy...</title>
@@ -18710,7 +18718,7 @@
   </programme>
   <programme channel="BBCThreeHD.uk" start="20260903180000 +0000" stop="20260903180500 +0000">
     <title lang="en">The Catch Up</title>
-    <desc lang="en">A round-up of the day's news.</desc>
+    <desc lang="en">A round-up of the day's news with Lola Schroer.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/94254ccd-bbf4-453b-97a2-bc252d8f15e0/cover"/>
   </programme>
   <programme channel="BBCThreeHD.uk" start="20260903180500 +0000" stop="20260903183000 +0000">
@@ -19259,15 +19267,10 @@
     <episode-num system="xmltv_ns">5.2.0</episode-num>
     <episode-num system="onscreen">S6E3</episode-num>
   </programme>
-  <programme channel="BBCTwoEngland.uk" start="20260904080000 +0000" stop="20260904111500 +0000">
+  <programme channel="BBCTwoEngland.uk" start="20260904080000 +0000" stop="20260904120000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">Twenty-four hours a day, the latest national and international stories as they break.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/65127a89-a50b-4ff1-bbe0-beded01e631a/cover"/>
-  </programme>
-  <programme channel="BBCTwoEngland.uk" start="20260904111500 +0000" stop="20260904120000 +0000">
-    <title lang="en">Politics Live</title>
-    <desc lang="en">The big political issues of the day.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/de4c41c8-120f-4f13-bd10-666c1e5afedc/cover"/>
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20260904120000 +0000" stop="20260904123000 +0000">
     <title lang="en">Richard Osman's House of Games</title>
@@ -19291,30 +19294,19 @@
     <episode-num system="onscreen">S13E5</episode-num>
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20260904134500 +0000" stop="20260904143000 +0000">
-    <title lang="en">Animal Park</title>
-    <desc lang="en">1/15. Ben and Kate return to Longleat where hopes are rising for the first baby southern koala in Europe.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/662f4c85-ff1a-43c3-b5a8-e3953457412f/cover"/>
-    <episode-num system="xmltv_ns">17.0.0</episode-num>
-    <episode-num system="onscreen">S18E1</episode-num>
-  </programme>
-  <programme channel="BBCTwoEngland.uk" start="20260904143000 +0000" stop="20260904153000 +0000">
     <title lang="en">Dogs in the Wild: Meet the Family</title>
-    <desc lang="en">3/3. The people going to extraordinary lengths to understand and protect canids, from preventing wild dogs dying of grief in South Africa to protecting the tiny Darwin's fox.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/587e582d-bedf-4b3d-8619-10427a86aa0e/cover"/>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
+    <desc lang="en">1/15. Ben and Kate return to Longleat where hopes are rising for the first baby southern koala in Europe.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d634b818-0079-4d9a-af0b-ba9c1b573d81/cover"/>
   </programme>
-  <programme channel="BBCTwoEngland.uk" start="20260904153000 +0000" stop="20260904160500 +0000">
-    <title lang="en">Vintage Antiques Roadshow</title>
-    <desc lang="en">15/26. Michael Aspel visits Mount Stewart in Northern Ireland. Treasures include a painting once thrown on a skip, and a memento from Laurel and Hardy.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/79d54ecc-f919-477f-8dfc-53a3f2c39bc1/cover"/>
-    <episode-num system="xmltv_ns">25.14.0</episode-num>
-    <episode-num system="onscreen">S26E15</episode-num>
+  <programme channel="BBCTwoEngland.uk" start="20260904143000 +0000" stop="20260904160000 +0000">
+    <title lang="en">Politics Live</title>
+    <desc lang="en">The big political issues of the day.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/edefd638-7a8d-4301-a150-eb1a6bc80411/cover"/>
   </programme>
-  <programme channel="BBCTwoEngland.uk" start="20260904160500 +0000" stop="20260904170000 +0000">
+  <programme channel="BBCTwoEngland.uk" start="20260904160000 +0000" stop="20260904170000 +0000">
     <title lang="en">Flog It!</title>
-    <desc lang="en">Antiques series. Paul Martin presents from Wallasey Town Hall on the Wirral Peninsula, with experts Anita Manning and Nick Davies.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f90ebe90-0b65-305e-bcc1-c686768b1e15/cover"/>
+    <desc lang="en">Paul Martin and antiques experts Michael Baggott and Anita Manning find some real gems among the bags and boxes at the RAF Museum at Hendon in London.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/cb57ec51-f443-431d-bc1f-325f56092ef5/cover"/>
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20260904170000 +0000" stop="20260904173000 +0000">
     <title lang="en">Richard Osman's House of Games</title>
@@ -19765,15 +19757,10 @@
     <episode-num system="xmltv_ns">5.2.0</episode-num>
     <episode-num system="onscreen">S6E3</episode-num>
   </programme>
-  <programme channel="BBCTwoHD.uk" start="20260904080000 +0000" stop="20260904111500 +0000">
+  <programme channel="BBCTwoHD.uk" start="20260904080000 +0000" stop="20260904120000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">Twenty-four hours a day, the latest national and international stories as they break.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/65127a89-a50b-4ff1-bbe0-beded01e631a/cover"/>
-  </programme>
-  <programme channel="BBCTwoHD.uk" start="20260904111500 +0000" stop="20260904120000 +0000">
-    <title lang="en">Politics Live</title>
-    <desc lang="en">The big political issues of the day.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/de4c41c8-120f-4f13-bd10-666c1e5afedc/cover"/>
   </programme>
   <programme channel="BBCTwoHD.uk" start="20260904120000 +0000" stop="20260904123000 +0000">
     <title lang="en">Richard Osman's House of Games</title>
@@ -19797,30 +19784,19 @@
     <episode-num system="onscreen">S13E5</episode-num>
   </programme>
   <programme channel="BBCTwoHD.uk" start="20260904134500 +0000" stop="20260904143000 +0000">
-    <title lang="en">Animal Park</title>
-    <desc lang="en">1/15. Ben and Kate return to Longleat where hopes are rising for the first baby southern koala in Europe.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/662f4c85-ff1a-43c3-b5a8-e3953457412f/cover"/>
-    <episode-num system="xmltv_ns">17.0.0</episode-num>
-    <episode-num system="onscreen">S18E1</episode-num>
-  </programme>
-  <programme channel="BBCTwoHD.uk" start="20260904143000 +0000" stop="20260904153000 +0000">
     <title lang="en">Dogs in the Wild: Meet the Family</title>
-    <desc lang="en">3/3. The people going to extraordinary lengths to understand and protect canids, from preventing wild dogs dying of grief in South Africa to protecting the tiny Darwin's fox.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/587e582d-bedf-4b3d-8619-10427a86aa0e/cover"/>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
+    <desc lang="en">1/15. Ben and Kate return to Longleat where hopes are rising for the first baby southern koala in Europe.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d634b818-0079-4d9a-af0b-ba9c1b573d81/cover"/>
   </programme>
-  <programme channel="BBCTwoHD.uk" start="20260904153000 +0000" stop="20260904160500 +0000">
-    <title lang="en">Vintage Antiques Roadshow</title>
-    <desc lang="en">15/26. Michael Aspel visits Mount Stewart in Northern Ireland. Treasures include a painting once thrown on a skip, and a memento from Laurel and Hardy.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/79d54ecc-f919-477f-8dfc-53a3f2c39bc1/cover"/>
-    <episode-num system="xmltv_ns">25.14.0</episode-num>
-    <episode-num system="onscreen">S26E15</episode-num>
+  <programme channel="BBCTwoHD.uk" start="20260904143000 +0000" stop="20260904160000 +0000">
+    <title lang="en">Politics Live</title>
+    <desc lang="en">The big political issues of the day.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/edefd638-7a8d-4301-a150-eb1a6bc80411/cover"/>
   </programme>
-  <programme channel="BBCTwoHD.uk" start="20260904160500 +0000" stop="20260904170000 +0000">
+  <programme channel="BBCTwoHD.uk" start="20260904160000 +0000" stop="20260904170000 +0000">
     <title lang="en">Flog It!</title>
-    <desc lang="en">Antiques series. Paul Martin presents from Wallasey Town Hall on the Wirral Peninsula, with experts Anita Manning and Nick Davies.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f90ebe90-0b65-305e-bcc1-c686768b1e15/cover"/>
+    <desc lang="en">Paul Martin and antiques experts Michael Baggott and Anita Manning find some real gems among the bags and boxes at the RAF Museum at Hendon in London.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/cb57ec51-f443-431d-bc1f-325f56092ef5/cover"/>
   </programme>
   <programme channel="BBCTwoHD.uk" start="20260904170000 +0000" stop="20260904173000 +0000">
     <title lang="en">Richard Osman's House of Games</title>
@@ -20271,15 +20247,10 @@
     <episode-num system="xmltv_ns">5.2.0</episode-num>
     <episode-num system="onscreen">S6E3</episode-num>
   </programme>
-  <programme channel="BBCTwoNorthernIreland.uk" start="20260904080000 +0000" stop="20260904111500 +0000">
+  <programme channel="BBCTwoNorthernIreland.uk" start="20260904080000 +0000" stop="20260904120000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">Twenty-four hours a day, the latest national and international stories as they break.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/35f0583e-a95d-4e24-b1ef-1ab78ce98227/cover"/>
-  </programme>
-  <programme channel="BBCTwoNorthernIreland.uk" start="20260904111500 +0000" stop="20260904120000 +0000">
-    <title lang="en">Politics Live</title>
-    <desc lang="en">The big political issues of the day.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/de4c41c8-120f-4f13-bd10-666c1e5afedc/cover"/>
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20260904120000 +0000" stop="20260904123000 +0000">
     <title lang="en">Richard Osman's House of Games</title>
@@ -20303,30 +20274,19 @@
     <episode-num system="onscreen">S13E5</episode-num>
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20260904134500 +0000" stop="20260904143000 +0000">
-    <title lang="en">Animal Park</title>
-    <desc lang="en">1/15. Ben and Kate return to Longleat where hopes are rising for the first baby southern koala in Europe.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/662f4c85-ff1a-43c3-b5a8-e3953457412f/cover"/>
-    <episode-num system="xmltv_ns">17.0.0</episode-num>
-    <episode-num system="onscreen">S18E1</episode-num>
-  </programme>
-  <programme channel="BBCTwoNorthernIreland.uk" start="20260904143000 +0000" stop="20260904153000 +0000">
     <title lang="en">Dogs in the Wild: Meet the Family</title>
-    <desc lang="en">3/3. The people going to extraordinary lengths to understand and protect canids, from preventing wild dogs dying of grief in South Africa to protecting the tiny Darwin's fox.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/587e582d-bedf-4b3d-8619-10427a86aa0e/cover"/>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
+    <desc lang="en">1/15. Ben and Kate return to Longleat where hopes are rising for the first baby southern koala in Europe.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7d9286d1-a368-4375-a561-450c6284570c/cover"/>
   </programme>
-  <programme channel="BBCTwoNorthernIreland.uk" start="20260904153000 +0000" stop="20260904160500 +0000">
-    <title lang="en">Vintage Antiques Roadshow</title>
-    <desc lang="en">15/26. Michael Aspel visits Mount Stewart in Northern Ireland. Treasures include a painting once thrown on a skip, and a memento from Laurel and Hardy.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/79d54ecc-f919-477f-8dfc-53a3f2c39bc1/cover"/>
-    <episode-num system="xmltv_ns">25.14.0</episode-num>
-    <episode-num system="onscreen">S26E15</episode-num>
+  <programme channel="BBCTwoNorthernIreland.uk" start="20260904143000 +0000" stop="20260904160000 +0000">
+    <title lang="en">Politics Live</title>
+    <desc lang="en">The big political issues of the day.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/c71bee03-c639-4b0a-8c30-919dbeb589db/cover"/>
   </programme>
-  <programme channel="BBCTwoNorthernIreland.uk" start="20260904160500 +0000" stop="20260904170000 +0000">
+  <programme channel="BBCTwoNorthernIreland.uk" start="20260904160000 +0000" stop="20260904170000 +0000">
     <title lang="en">Flog It!</title>
-    <desc lang="en">Antiques series. Paul Martin presents from Wallasey Town Hall on the Wirral Peninsula, with experts Anita Manning and Nick Davies.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f90ebe90-0b65-305e-bcc1-c686768b1e15/cover"/>
+    <desc lang="en">Paul Martin and antiques experts Michael Baggott and Anita Manning find some real gems among the bags and boxes at the RAF Museum at Hendon in London.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8f6a908f-0cda-44d6-9293-364f124e8a5d/cover"/>
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20260904170000 +0000" stop="20260904173000 +0000">
     <title lang="en">Richard Osman's House of Games</title>
@@ -20775,15 +20735,10 @@
     <episode-num system="xmltv_ns">5.2.0</episode-num>
     <episode-num system="onscreen">S6E3</episode-num>
   </programme>
-  <programme channel="BBCTwoWales.uk" start="20260904080000 +0000" stop="20260904111500 +0000">
+  <programme channel="BBCTwoWales.uk" start="20260904080000 +0000" stop="20260904120000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">Twenty-four hours a day, the latest national and international stories as they break.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3865778f-7020-409a-8e0e-e4f5b2a4ec81/cover"/>
-  </programme>
-  <programme channel="BBCTwoWales.uk" start="20260904111500 +0000" stop="20260904120000 +0000">
-    <title lang="en">Politics Live</title>
-    <desc lang="en">The big political issues of the day.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/de4c41c8-120f-4f13-bd10-666c1e5afedc/cover"/>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20260904120000 +0000" stop="20260904123000 +0000">
     <title lang="en">Richard Osman's House of Games</title>
@@ -20807,30 +20762,19 @@
     <episode-num system="onscreen">S13E5</episode-num>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20260904134500 +0000" stop="20260904143000 +0000">
-    <title lang="en">Animal Park</title>
-    <desc lang="en">1/15. Ben and Kate return to Longleat where hopes are rising for the first baby southern koala in Europe.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/662f4c85-ff1a-43c3-b5a8-e3953457412f/cover"/>
-    <episode-num system="xmltv_ns">17.0.0</episode-num>
-    <episode-num system="onscreen">S18E1</episode-num>
-  </programme>
-  <programme channel="BBCTwoWales.uk" start="20260904143000 +0000" stop="20260904153000 +0000">
     <title lang="en">Dogs in the Wild: Meet the Family</title>
-    <desc lang="en">3/3. The people going to extraordinary lengths to understand and protect canids, from preventing wild dogs dying of grief in South Africa to protecting the tiny Darwin's fox.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/587e582d-bedf-4b3d-8619-10427a86aa0e/cover"/>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
+    <desc lang="en">1/15. Ben and Kate return to Longleat where hopes are rising for the first baby southern koala in Europe.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d361ff9c-537c-4d2b-aa4a-20912c479c5d/cover"/>
   </programme>
-  <programme channel="BBCTwoWales.uk" start="20260904153000 +0000" stop="20260904160500 +0000">
-    <title lang="en">Vintage Antiques Roadshow</title>
-    <desc lang="en">15/26. Michael Aspel visits Mount Stewart in Northern Ireland. Treasures include a painting once thrown on a skip, and a memento from Laurel and Hardy.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/79d54ecc-f919-477f-8dfc-53a3f2c39bc1/cover"/>
-    <episode-num system="xmltv_ns">25.14.0</episode-num>
-    <episode-num system="onscreen">S26E15</episode-num>
+  <programme channel="BBCTwoWales.uk" start="20260904143000 +0000" stop="20260904160000 +0000">
+    <title lang="en">Politics Live</title>
+    <desc lang="en">The big political issues of the day.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ea605be2-71ea-49b7-948d-2f019db4620e/cover"/>
   </programme>
-  <programme channel="BBCTwoWales.uk" start="20260904160500 +0000" stop="20260904170000 +0000">
+  <programme channel="BBCTwoWales.uk" start="20260904160000 +0000" stop="20260904170000 +0000">
     <title lang="en">Flog It!</title>
-    <desc lang="en">Antiques series. Paul Martin presents from Wallasey Town Hall on the Wirral Peninsula, with experts Anita Manning and Nick Davies.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f90ebe90-0b65-305e-bcc1-c686768b1e15/cover"/>
+    <desc lang="en">Paul Martin and antiques experts Michael Baggott and Anita Manning find some real gems among the bags and boxes at the RAF Museum at Hendon in London.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/26a1df65-ba5c-4779-b1fa-afee44be0597/cover"/>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20260904170000 +0000" stop="20260904173000 +0000">
     <title lang="en">Richard Osman's House of Games</title>
@@ -22232,9 +22176,6 @@
     <desc lang="en">Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/afb8e2eb-45bc-44d8-8934-86b689ec6f57/cover"/>
   </programme>
-  <programme channel="CBBC.uk" start="20260902175800 +0000" stop="20260902235800 +0000">
-    <title lang="en">.programmes start at 7.00am</title>
-  </programme>
   <programme channel="CBBC.uk" start="20260902235800 +0000" stop="20260903042959 +0000">
     <title lang="en">.programmes start at 7.00am</title>
   </programme>
@@ -22274,6 +22215,8 @@
     <title lang="en">Newsround</title>
     <desc lang="en">03/09/2026. Topical news magazine for children.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c508a7d2-a40c-4e6a-ab30-95fd57cbc7e5/cover"/>
+    <episode-num system="xmltv_ns">2025.111.0</episode-num>
+    <episode-num system="onscreen">S2026E112</episode-num>
   </programme>
   <programme channel="CBBC.uk" start="20260903065500 +0000" stop="20260903070500 +0000">
     <title lang="en">Grizzy and the Lemmings</title>
@@ -23251,9 +23194,6 @@
   </programme>
   <programme channel="CBBC.uk" start="20260905175800 +0000" stop="20260905235800 +0000">
     <title lang="en">.programmes start at 7.00am</title>
-  </programme>
-  <programme channel="CBeebies.uk" start="20260902175800 +0000" stop="20260902235800 +0000">
-    <title lang="en">..programmes start at 6.00am</title>
   </programme>
   <programme channel="CBeebies.uk" start="20260902235800 +0000" stop="20260903042959 +0000">
     <title lang="en">..programmes start at 6.00am</title>
@@ -25221,7 +25161,7 @@
   </programme>
   <programme channel="Channel4.uk" start="20260904200000 +0000" stop="20260904210000 +0000">
     <title lang="en">New: Gogglebox</title>
-    <desc lang="en">Britain's sharpest armchair critics return for a new run. What do they think of the biggest and best programmes on TV?</desc>
+    <desc lang="en">The Goggleboxers return for the best on TV, watching Trigger Point, Celebrity MasterChef, Love Is Blind: UK, Millionaire Hot Seat, Long Lost Family and Race Against the Tide.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1c80efa7-b087-47de-bb35-42adca2b20fb/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">27.0.0</episode-num>
@@ -25229,7 +25169,7 @@
   </programme>
   <programme channel="Channel4.uk" start="20260904210000 +0000" stop="20260904220500 +0000">
     <title lang="en">New: Live from The Lycett Arms</title>
-    <desc lang="en">Join pub landlord Joe Lycett and his celebrity punters for the grand opening of Joe's new boozer, The Lycett Arms - a place where everyone can escape the world and put it to rights. (Ep1)</desc>
+    <desc lang="en">Join pub landlord Joe Lycett and celeb guests Sara Cox and Guz Khan for the grand opening of Joe's new boozer - a place where everyone can escape the world and also put it to rights. (Ep1)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/350df76b-d272-454b-a9a6-29b5317f5fce/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
@@ -25900,7 +25840,7 @@
   </programme>
   <programme channel="Channel4Plus1.uk" start="20260904210000 +0000" stop="20260904220000 +0000">
     <title lang="en">New: Gogglebox</title>
-    <desc lang="en">Britain's sharpest armchair critics return for a new run. What do they think of the biggest and best programmes on TV?</desc>
+    <desc lang="en">The Goggleboxers return for the best on TV, watching Trigger Point, Celebrity MasterChef, Love Is Blind: UK, Millionaire Hot Seat, Long Lost Family and Race Against the Tide.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1c80efa7-b087-47de-bb35-42adca2b20fb/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">27.0.0</episode-num>
@@ -25908,7 +25848,7 @@
   </programme>
   <programme channel="Channel4Plus1.uk" start="20260904220000 +0000" stop="20260904230500 +0000">
     <title lang="en">New: Live from The Lycett Arms</title>
-    <desc lang="en">Join pub landlord Joe Lycett and his celebrity punters for the grand opening of Joe's new boozer, The Lycett Arms - a place where everyone can escape the world and put it to rights. (Ep1)</desc>
+    <desc lang="en">Join pub landlord Joe Lycett and celeb guests Sara Cox and Guz Khan for the grand opening of Joe's new boozer - a place where everyone can escape the world and also put it to rights. (Ep1)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/350df76b-d272-454b-a9a6-29b5317f5fce/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
@@ -26408,10 +26348,15 @@
     <episode-num system="xmltv_ns">2025.173.0</episode-num>
     <episode-num system="onscreen">S2026E174</episode-num>
   </programme>
-  <programme channel="Channel5Plus1.uk" start="20260903123000 +0000" stop="20260903173000 +0000">
+  <programme channel="Channel5Plus1.uk" start="20260903123000 +0000" stop="20260903170000 +0000">
     <title lang="en">Live: Snooker British Open</title>
     <desc lang="en">Day 4 coverage from Cheltenham, featuring Elliot Slessor v Judd Trump, followed by Zhao Xintong v Michael Holt. Presented by Katie Shanahan, alongside Stephen Hendry.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/896a4d4f-7e45-40a4-920b-728d738f73a9/cover"/>
+  </programme>
+  <programme channel="Channel5Plus1.uk" start="20260903170000 +0000" stop="20260903173000 +0000">
+    <title lang="en">The Best of World's Strongest Man</title>
+    <desc lang="en">Highlights from the competition in which supersized athletes compete in the ultimate test of strength. (Ep10)</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/25dcf09b-bb72-41ff-abf4-d277b3b4832d/cover"/>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20260903173000 +0000" stop="20260903182500 +0000">
     <title lang="en">5 News with Dan Walker</title>
@@ -26491,20 +26436,17 @@
     <episode-num system="xmltv_ns">1.0.0</episode-num>
     <episode-num system="onscreen">S2E1</episode-num>
   </programme>
-  <programme channel="Channel5Plus1.uk" start="20260904041500 +0000" stop="20260904044500 +0000">
+  <programme channel="Channel5Plus1.uk" start="20260904041500 +0000" stop="20260904050300 +0000">
+    <title lang="en">**Visually Signed** Yorkshire with Jane McDonald</title>
+    <desc lang="en">Jane's off to Scarborough, where she used to come here on family day trips when she was growing up. Join Jane as she retraces her steps. (VS)</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/245c705c-02ff-41ec-8fa1-50ec6b093dd9/cover"/>
+    <episode-num system="xmltv_ns">0.3.0</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme channel="Channel5Plus1.uk" start="20260904050300 +0000" stop="20260904051500 +0000">
     <title lang="en">This is Channel 5 +1</title>
     <desc lang="en">This is Channel 5 +1</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/755e922c-502f-46fe-9e3a-18d3e016448c/cover"/>
-  </programme>
-  <programme channel="Channel5Plus1.uk" start="20260904044500 +0000" stop="20260904050000 +0000">
-    <title lang="en">This is Channel 5 +1</title>
-    <desc lang="en">This is Channel 5 +1</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/448c26cd-627b-437c-bd45-aa93fb36c961/cover"/>
-  </programme>
-  <programme channel="Channel5Plus1.uk" start="20260904050000 +0000" stop="20260904051500 +0000">
-    <title lang="en">Entertainment News on 5</title>
-    <desc lang="en">A daily round-up of showbiz news and gossip from around the world, focusing on celebrities, movies, music and entertainment.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/59897ad9-d8a3-400b-91ac-90ff6695bdee/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/cd329193-ca7a-4c2b-8e64-1418913e1897/cover"/>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20260904051500 +0000" stop="20260904052500 +0000">
     <title lang="en">**Visually Signed** Ben and Holly's Little Kingdom</title>
@@ -30026,7 +29968,7 @@
   </programme>
   <programme channel="UAndDrama.uk" start="20260903220000 +0000" stop="20260903230000 +0000">
     <title lang="en">Copper</title>
-    <desc lang="en">New. The Empty Locket: Corcoran uncovers evidence that provides clues about his daughter's death and the disappearance of his wife, and finds a tragic personal link to a current investigation.</desc>
+    <desc lang="en">The Empty Locket: Corcoran uncovers evidence that provides clues about his daughter's death and the disappearance of his wife, and finds a tragic personal link to a current investigation.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5f24859b-e967-4a7e-94b4-964bdc7927ef/cover"/>
     <episode-num system="xmltv_ns">0.3.0</episode-num>
     <episode-num system="onscreen">S1E4</episode-num>
@@ -30203,7 +30145,7 @@
   </programme>
   <programme channel="UAndDrama.uk" start="20260904220000 +0000" stop="20260904230000 +0000">
     <title lang="en">Copper</title>
-    <desc lang="en">New. La Tempete: A scheme to rob the wealthiest families in New York at a fundraiser is uncovered, and Corcoran must ensure their safety. Tensions mount between the detectives and their superiors. S1</desc>
+    <desc lang="en">La Tempete: A scheme to rob the wealthiest families in New York at a fundraiser is uncovered, and Corcoran must ensure their safety. Tensions mount between the detectives and their superiors.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4b9cb09d-6feb-4d62-8267-174c745506ab/cover"/>
     <episode-num system="xmltv_ns">0.4.0</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
@@ -30527,7 +30469,7 @@
   </programme>
   <programme channel="UAndDramaPlus1.uk" start="20260903230000 +0000" stop="20260904000000 +0000">
     <title lang="en">Copper</title>
-    <desc lang="en">New. The Empty Locket: Corcoran uncovers evidence that provides clues about his daughter's death and the disappearance of his wife, and finds a tragic personal link to a current investigation.</desc>
+    <desc lang="en">The Empty Locket: Corcoran uncovers evidence that provides clues about his daughter's death and the disappearance of his wife, and finds a tragic personal link to a current investigation.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5f24859b-e967-4a7e-94b4-964bdc7927ef/cover"/>
     <episode-num system="xmltv_ns">0.3.0</episode-num>
     <episode-num system="onscreen">S1E4</episode-num>
@@ -30704,7 +30646,7 @@
   </programme>
   <programme channel="UAndDramaPlus1.uk" start="20260904230000 +0000" stop="20260905000000 +0000">
     <title lang="en">Copper</title>
-    <desc lang="en">New. La Tempete: A scheme to rob the wealthiest families in New York at a fundraiser is uncovered, and Corcoran must ensure their safety. Tensions mount between the detectives and their superiors. S1</desc>
+    <desc lang="en">La Tempete: A scheme to rob the wealthiest families in New York at a fundraiser is uncovered, and Corcoran must ensure their safety. Tensions mount between the detectives and their superiors.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4b9cb09d-6feb-4d62-8267-174c745506ab/cover"/>
     <episode-num system="xmltv_ns">0.4.0</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
@@ -43937,10 +43879,20 @@
     <episode-num system="xmltv_ns">2.0.0</episode-num>
     <episode-num system="onscreen">S3E1</episode-num>
   </programme>
-  <programme channel="ITV4.uk" start="20260903091500 +0000" stop="20260903144500 +0000">
+  <programme channel="ITV4.uk" start="20260903091500 +0000" stop="20260903141000 +0000">
     <title lang="en">Cycling: Tour of Britain Live</title>
     <desc lang="en">Day two of the Tour of Britain is a fast 185.2km stage. The race starts in Boston, and heads through the East Midlands before a final sprint into Skegness to decide the winner.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b28ed880-b17c-4fe5-ad44-6a22f5fb73d8/cover"/>
+  </programme>
+  <programme channel="ITV4.uk" start="20260903141000 +0000" stop="20260903143000 +0000">
+    <title lang="en">World of Sport</title>
+    <desc lang="en">TV Firsts: Richard Henwood takes a look back at some television sporting firsts that include a 14-year-old Ronnie O'Sullivan.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/53368a64-462c-4971-baf2-712ed3dcb574/cover"/>
+  </programme>
+  <programme channel="ITV4.uk" start="20260903143000 +0000" stop="20260903144500 +0000">
+    <title lang="en">World of Sport</title>
+    <desc lang="en">Kings of the Canvas: Richard Henwood takes a look back at the glory days of British wrestling with some classic action from the archives.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/9fed9958-43d2-4aa3-86cb-c7610a44c386/cover"/>
   </programme>
   <programme channel="ITV4.uk" start="20260903144500 +0000" stop="20260903155000 +0000">
     <title lang="en">The Sweeney</title>
@@ -44097,11 +44049,21 @@
     <desc lang="en">Day three is a 200.6 km stage, departing from Hull and heading along the East Coast before returning back down to Beverley for the finish.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f1c78f3b-6c99-4787-a414-ec2ce9e061d4/cover"/>
   </programme>
-  <programme channel="ITV4.uk" start="20260904200000 +0000" stop="20260905020000 +0000">
+  <programme channel="ITV4.uk" start="20260904200000 +0000" stop="20260905010000 +0000">
     <title lang="en">New: AEW: All In 2026</title>
     <desc lang="en">Action from the wrestling extravaganza at Wembley Stadium - with matches including Kenny Omega v Will Ospreay, and Willow Nightingale v Mercedes Mone.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6fe80f06-7d5d-453e-b1c2-d579633afd37/cover"/>
     <premiere/>
+  </programme>
+  <programme channel="ITV4.uk" start="20260905010000 +0000" stop="20260905015000 +0000">
+    <title lang="en">Dark Side of the Ring</title>
+    <desc lang="en">The Last Ride of the Road Warriors: Wrestling documentary series. The inside story of how wrestling's ultimate tag team partnership was undone by alcohol and substance abuse.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d32e7f8e-dd62-4597-8e7e-a70a41bed188/cover"/>
+  </programme>
+  <programme channel="ITV4.uk" start="20260905015000 +0000" stop="20260905020000 +0000">
+    <title lang="en">Unwind with ITV</title>
+    <desc lang="en">Your daily escape designed to calm the mind and encourage relaxation and reflection.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/0f9e05d6-4345-4532-9173-b6f0aa81c6a8/cover"/>
   </programme>
   <programme channel="ITV4.uk" start="20260905020000 +0000" stop="20260905050000 +0000">
     <title lang="en">Teleshopping</title>
@@ -44260,10 +44222,20 @@
     <episode-num system="xmltv_ns">2.0.0</episode-num>
     <episode-num system="onscreen">S3E1</episode-num>
   </programme>
-  <programme channel="ITV4Plus1.uk" start="20260903101500 +0000" stop="20260903154500 +0000">
+  <programme channel="ITV4Plus1.uk" start="20260903101500 +0000" stop="20260903151000 +0000">
     <title lang="en">Cycling: Tour of Britain Live</title>
     <desc lang="en">Day two of the Tour of Britain is a fast 185.2km stage. The race starts in Boston, and heads through the East Midlands before a final sprint into Skegness to decide the winner.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b28ed880-b17c-4fe5-ad44-6a22f5fb73d8/cover"/>
+  </programme>
+  <programme channel="ITV4Plus1.uk" start="20260903151000 +0000" stop="20260903153000 +0000">
+    <title lang="en">World of Sport</title>
+    <desc lang="en">TV Firsts: Richard Henwood takes a look back at some television sporting firsts that include a 14-year-old Ronnie O'Sullivan.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/e6a4b2ea-1e99-4eff-8644-9c99151a0a77/cover"/>
+  </programme>
+  <programme channel="ITV4Plus1.uk" start="20260903153000 +0000" stop="20260903154500 +0000">
+    <title lang="en">World of Sport</title>
+    <desc lang="en">Kings of the Canvas: Richard Henwood takes a look back at the glory days of British wrestling with some classic action from the archives.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3ba38578-9b0e-440e-b520-1633c9be4814/cover"/>
   </programme>
   <programme channel="ITV4Plus1.uk" start="20260903154500 +0000" stop="20260903165000 +0000">
     <title lang="en">The Sweeney</title>
@@ -44420,11 +44392,21 @@
     <desc lang="en">Day three is a 200.6 km stage, departing from Hull and heading along the East Coast before returning back down to Beverley for the finish.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f1c78f3b-6c99-4787-a414-ec2ce9e061d4/cover"/>
   </programme>
-  <programme channel="ITV4Plus1.uk" start="20260904210000 +0000" stop="20260905030000 +0000">
+  <programme channel="ITV4Plus1.uk" start="20260904210000 +0000" stop="20260905020000 +0000">
     <title lang="en">New: AEW: All In 2026</title>
     <desc lang="en">Action from the wrestling extravaganza at Wembley Stadium - with matches including Kenny Omega v Will Ospreay, and Willow Nightingale v Mercedes Mone.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6fe80f06-7d5d-453e-b1c2-d579633afd37/cover"/>
     <premiere/>
+  </programme>
+  <programme channel="ITV4Plus1.uk" start="20260905020000 +0000" stop="20260905025000 +0000">
+    <title lang="en">Dark Side of the Ring</title>
+    <desc lang="en">The Last Ride of the Road Warriors: Wrestling documentary series. The inside story of how wrestling's ultimate tag team partnership was undone by alcohol and substance abuse.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/35b5ce02-b89d-465e-b8e6-1519eb110964/cover"/>
+  </programme>
+  <programme channel="ITV4Plus1.uk" start="20260905025000 +0000" stop="20260905030000 +0000">
+    <title lang="en">Unwind with ITV</title>
+    <desc lang="en">Your daily escape designed to calm the mind and encourage relaxation and reflection.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/24e4ea7f-ad84-4731-8f92-04204f739b0c/cover"/>
   </programme>
   <programme channel="ITV4Plus1.uk" start="20260905030000 +0000" stop="20260905060000 +0000">
     <title lang="en">Teleshopping</title>
@@ -45178,9 +45160,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/2c450207-cb55-401e-a365-916f49e3df8b/cover"/>
   </programme>
   <programme channel="More4.uk" start="20260904060000 +0000" stop="20260904075500 +0000">
-    <title lang="en">Discover Must Have Ideas: Shopping</title>
-    <desc lang="en">Discover the very latest must-haves for your home and garden with Must Have Ideas.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/bc0c3e97-fde2-473b-81bc-3caaf4ba7417/cover"/>
+    <title lang="en">High Street - Shopping</title>
+    <desc lang="en">Teleshopping with High Street TV</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/5ab938e1-d80f-4478-8cea-dbd2e8f238f5/cover"/>
   </programme>
   <programme channel="More4.uk" start="20260904075500 +0000" stop="20260904090000 +0000">
     <title lang="en">Find It, Fix It, Flog It</title>
@@ -45366,9 +45348,9 @@
     <episode-num system="onscreen">S2E14</episode-num>
   </programme>
   <programme channel="More4.uk" start="20260905025500 +0000" stop="20260905060000 +0000">
-    <title lang="en">Discover Must Have Ideas: Shopping</title>
-    <desc lang="en">Discover the very latest must-haves for your home and garden with Must Have Ideas.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/fbb89474-f610-4a76-9e1a-1ad2f7e88524/cover"/>
+    <title lang="en">High Street - Shopping</title>
+    <desc lang="en">Teleshopping with High Street TV</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/69494743-f75b-49de-87ff-5a96b0d552c1/cover"/>
   </programme>
   <programme channel="More4.uk" start="20260905060000 +0000" stop="20260905075500 +0000">
     <title lang="en">High Street - Shopping</title>
@@ -45777,9 +45759,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/2c450207-cb55-401e-a365-916f49e3df8b/cover"/>
   </programme>
   <programme channel="More4Plus1.uk" start="20260904060000 +0000" stop="20260904085500 +0000">
-    <title lang="en">Discover Must Have Ideas: Shopping</title>
-    <desc lang="en">Discover the very latest must-haves for your home and garden with Must Have Ideas.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/bc0c3e97-fde2-473b-81bc-3caaf4ba7417/cover"/>
+    <title lang="en">High Street - Shopping</title>
+    <desc lang="en">Teleshopping with High Street TV</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/5ab938e1-d80f-4478-8cea-dbd2e8f238f5/cover"/>
   </programme>
   <programme channel="More4Plus1.uk" start="20260904085500 +0000" stop="20260904100000 +0000">
     <title lang="en">Find It, Fix It, Flog It</title>
@@ -45965,9 +45947,9 @@
     <episode-num system="onscreen">S2E14</episode-num>
   </programme>
   <programme channel="More4Plus1.uk" start="20260905035500 +0000" stop="20260905060000 +0000">
-    <title lang="en">Discover Must Have Ideas: Shopping</title>
-    <desc lang="en">Discover the very latest must-haves for your home and garden with Must Have Ideas.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/fbb89474-f610-4a76-9e1a-1ad2f7e88524/cover"/>
+    <title lang="en">High Street - Shopping</title>
+    <desc lang="en">Teleshopping with High Street TV</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/69494743-f75b-49de-87ff-5a96b0d552c1/cover"/>
   </programme>
   <programme channel="More4Plus1.uk" start="20260905060000 +0000" stop="20260905085500 +0000">
     <title lang="en">High Street - Shopping</title>
