@@ -407,11 +407,6 @@
     <display-name lang="en">U&amp;Yesterday+1</display-name>
     <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/U%26YESTERDAYPlus1.png"></icon>
   </channel>
-  <programme channel="sky.main.uk" start="20260903143000 +0000" stop="20260903230000 +0000">
-    <title lang="en">Live: US Open Day 5</title>
-    <desc lang="en">Brits Fran Jones and Harriet Dart compete in round two, facing Iva Jovic and Marie Bouzkova. Naomi Osaka opens on Ashe against Katerina Siniakova as Mirra Andreeva and Alex Eala feature.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b6c8dd1f-277a-40a3-b031-1c54a3bc9a7b/cover"/>
-  </programme>
   <programme channel="sky.main.uk" start="20260903230000 +0000" stop="20260904013000 +0000">
     <title lang="en">Live US Open: Gauff v Badosa</title>
     <desc lang="en">The 2023 US Open champion Coco Gauff, into round two after dispatching Zeynep Sonmez, meets New York City-born Spaniard Paula Badosa - a former world number two.</desc>
@@ -1905,11 +1900,6 @@
     <desc lang="en">A round-up of the Sky Bet League One goals from the latest batch of fixtures during the 2026-27 season.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/93293480-1844-4d1e-b6d2-2464d7325744/cover"/>
   </programme>
-  <programme channel="sky.tennis.uk" start="20260903143000 +0000" stop="20260903230000 +0000">
-    <title lang="en">Live: US Open Day 5</title>
-    <desc lang="en">Brits Fran Jones and Harriet Dart compete in round two, facing Iva Jovic and Marie Bouzkova. Naomi Osaka opens on Ashe against Katerina Siniakova as Mirra Andreeva and Alex Eala feature.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b6c8dd1f-277a-40a3-b031-1c54a3bc9a7b/cover"/>
-  </programme>
   <programme channel="sky.tennis.uk" start="20260903230000 +0000" stop="20260904013000 +0000">
     <title lang="en">Live US Open: Gauff v Badosa</title>
     <desc lang="en">The 2023 US Open champion Coco Gauff, into round two after dispatching Zeynep Sonmez, meets New York City-born Spaniard Paula Badosa - a former world number two.</desc>
@@ -2202,18 +2192,18 @@
   </programme>
   <programme channel="sky.f1.uk" start="20260904133500 +0000" stop="20260904151500 +0000">
     <title lang="en">Live Italian F1 GP: Practice 2</title>
-    <desc lang="en">The second Formula 1 practice session gets underway during Italian Grand Prix weekend at Monza.</desc>
+    <desc lang="en">The second Formula 1 practice session gets underway during Italian Grand Prix weekend at Monza. Charles Leclerc led a Ferrari one-two in FP1, with Mercedes' George Russell coming in third.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/958cf88d-e018-40a8-8a97-542a5bf794ba/cover"/>
   </programme>
-  <programme channel="sky.f1.uk" start="20260904151500 +0000" stop="20260904161500 +0000">
+  <programme channel="sky.f1.uk" start="20260904151500 +0000" stop="20260904161501 +0000">
     <title lang="en">Live The F1 Show: Italy</title>
     <desc lang="en">The F1 Show positions itself at the centre of the Italian Grand Prix, providing a sneak peek of the paddock and the personalities involved at the heart of the race.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b411e920-c6a4-4313-ac2d-a91601d633aa/cover"/>
   </programme>
-  <programme channel="sky.f1.uk" start="20260904161500 +0000" stop="20260904164500 +0000">
-    <title lang="en">Team Principals' Press Conference</title>
-    <desc lang="en">Formula 1 team bosses sit down to answer questions from the media ahead of the Italian Grand Prix.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/79c92f17-ad88-4543-92ea-2808f3732032/cover"/>
+  <programme channel="sky.f1.uk" start="20260904161501 +0000" stop="20260904164500 +0000">
+    <title lang="en">F1 Paddock Uncut: Italy</title>
+    <desc lang="en">Join Sky F1's leading voices as they dissect and discuss the top stories coming out of media day in the build-up to the Italian Grand Prix.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/5e352de5-f00c-45c1-a45b-69ac74ae3927/cover"/>
   </programme>
   <programme channel="sky.f1.uk" start="20260904164500 +0000" stop="20260904170000 +0000">
     <title lang="en">The Cornwall Air Ambulance</title>
@@ -2230,15 +2220,15 @@
     <desc lang="en">Haas' British star Ollie Bearman pilots Ayrton Senna's legendary Lotus in an emotionally charged drive around Silverstone.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/05443205-a6ba-4d8b-b0d7-739c85ade27f/cover"/>
   </programme>
-  <programme channel="sky.f1.uk" start="20260904181500 +0000" stop="20260904193000 +0000">
+  <programme channel="sky.f1.uk" start="20260904181500 +0000" stop="20260904193001 +0000">
     <title lang="en">Italian F1 GP: Practice 2</title>
-    <desc lang="en">The second Formula 1 practice session gets underway during Italian Grand Prix weekend at Monza. (04.09)</desc>
+    <desc lang="en">The second F1 practice session gets underway during Italian Grand Prix weekend at Monza. Charles Leclerc led a Ferrari one-two in FP1, with Mercedes' George Russell coming in third. (04.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/619ae8f0-9359-4e45-b43f-63253a1a6833/cover"/>
   </programme>
-  <programme channel="sky.f1.uk" start="20260904193000 +0000" stop="20260904200000 +0000">
-    <title lang="en">Team Principals' Press Conference</title>
-    <desc lang="en">Formula 1 team bosses sit down to answer questions from the media ahead of the Italian Grand Prix.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/79c92f17-ad88-4543-92ea-2808f3732032/cover"/>
+  <programme channel="sky.f1.uk" start="20260904193001 +0000" stop="20260904200000 +0000">
+    <title lang="en">F1 Paddock Uncut: Italy</title>
+    <desc lang="en">Join Sky F1's leading voices as they dissect and discuss the top stories coming out of media day in the build-up to the Italian Grand Prix.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/5e352de5-f00c-45c1-a45b-69ac74ae3927/cover"/>
   </programme>
   <programme channel="sky.f1.uk" start="20260904200000 +0000" stop="20260904210000 +0000">
     <title lang="en">The F1 Show: Italy</title>
@@ -2262,7 +2252,7 @@
   </programme>
   <programme channel="sky.f1.uk" start="20260905004500 +0000" stop="20260905020000 +0000">
     <title lang="en">Italian F1 GP: Practice 2</title>
-    <desc lang="en">The second Formula 1 practice session gets underway during Italian Grand Prix weekend at Monza. (04.09)</desc>
+    <desc lang="en">The second F1 practice session gets underway during Italian Grand Prix weekend at Monza. Charles Leclerc led a Ferrari one-two in FP1, with Mercedes' George Russell coming in third. (04.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/619ae8f0-9359-4e45-b43f-63253a1a6833/cover"/>
   </programme>
   <programme channel="sky.f1.uk" start="20260905020000 +0000" stop="20260905022500 +0000">
@@ -2297,7 +2287,7 @@
   </programme>
   <programme channel="sky.f1.uk" start="20260905050000 +0000" stop="20260905061500 +0000">
     <title lang="en">Italian F1 GP: Practice 2</title>
-    <desc lang="en">The second Formula 1 practice session gets underway during Italian Grand Prix weekend at Monza. (04.09)</desc>
+    <desc lang="en">The second F1 practice session gets underway during Italian Grand Prix weekend at Monza. Charles Leclerc led a Ferrari one-two in FP1, with Mercedes' George Russell coming in third. (04.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/619ae8f0-9359-4e45-b43f-63253a1a6833/cover"/>
   </programme>
   <programme channel="sky.f1.uk" start="20260905061500 +0000" stop="20260905071500 +0000">
@@ -2313,7 +2303,7 @@
   <programme channel="sky.f1.uk" start="20260905072500 +0000" stop="20260905082500 +0000">
     <title lang="en">Live Italian F3: Sprint</title>
     <desc lang="en">The seventh FIA Formula 3 Sprint Race of the season gets underway at Monza.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/076f0608-05f7-4a01-9ca7-0cc6d3e9e6d2/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/2d2ee676-6b13-4241-836c-fedef2f0813f/cover"/>
   </programme>
   <programme channel="sky.f1.uk" start="20260905082500 +0000" stop="20260905083500 +0000">
     <title lang="en">Martin Brundle on Kimi Antonelli</title>
@@ -2368,7 +2358,7 @@
   <programme channel="sky.f1.uk" start="20260905163500 +0000" stop="20260905170000 +0000">
     <title lang="en">Italian F1 GP Bitesize Quali Hlts</title>
     <desc lang="en">The starting grid for Sunday's Italian Grand Prix is set with F1 qualifying as the drivers look to battle their way through to the Q3 top-10 shootout for a shot at pole position. (05.09)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0bf54c49-71ba-464d-8334-5ba20d68ca7d/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/071f7cb8-3037-4275-bf56-2284bc95354c/cover"/>
   </programme>
   <programme channel="sky.f1.uk" start="20260905170000 +0000" stop="20260905180000 +0000">
     <title lang="en">Live Indycar Series: Practice</title>
@@ -3006,10 +2996,15 @@
     <desc lang="en">Live Australian racing from Morphetville, Sandown, Randwick and Eagle Farm.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/71daf439-845f-4f26-b07b-e9831258454d/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20260905073000 +0000" stop="20260905080000 +0000">
-    <title lang="en">Unbridled On Tour</title>
-    <desc lang="en">Matt Chapman and Paddy Brennan head to Ireland to meet footballer turned horse breeder Kevin Doyle and retired equine legends such as Faugheen, Hurricane Fly and Bob Olinger.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/cc6f86f0-c41e-4d18-9720-3a99e1fe33ee/cover"/>
+  <programme channel="sky.racing.uk" start="20260905073000 +0000" stop="20260905074500 +0000">
+    <title lang="en">Eddie Greatrex: Comeback Kid</title>
+    <desc lang="en">Forced to retire at 23 battling pain every day, jockey Eddy Greatrex has made a remarkable return to the saddle in the form of his life as he fights to reignite his career.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8af9bd10-1529-4303-a5ee-68ca1324fbe7/cover"/>
+  </programme>
+  <programme channel="sky.racing.uk" start="20260905074500 +0000" stop="20260905080000 +0000">
+    <title lang="en">St Leger: 250 Years of History</title>
+    <desc lang="en">Jim McGrath explores the history and origins of the world's oldest Classic, the St Leger and how a quarter of a millennia shaped the Doncaster showpiece.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a3ae48f8-7206-4f2f-82c8-92e18aef30f1/cover"/>
   </programme>
   <programme channel="sky.racing.uk" start="20260905080000 +0000" stop="20260905083000 +0000">
     <title lang="en">Racing To Win</title>
@@ -3379,7 +3374,7 @@
   <programme channel="sky.mix.uk" start="20260905193500 +0000" stop="20260905200000 +0000">
     <title lang="en">Italian F1 GP Bitesize Quali Hlts</title>
     <desc lang="en">The starting grid for Sunday's Italian Grand Prix is set with F1 qualifying as the drivers look to battle their way through to the Q3 top-10 shootout for a shot at pole position. (05.09)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0bf54c49-71ba-464d-8334-5ba20d68ca7d/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/071f7cb8-3037-4275-bf56-2284bc95354c/cover"/>
   </programme>
   <programme channel="sky.mix.uk" start="20260905200000 +0000" stop="20260905203000 +0000">
     <title lang="en">All In: Indycar</title>
@@ -4051,33 +4046,33 @@
     <episode-num system="xmltv_ns">25.0.0</episode-num>
     <episode-num system="onscreen">S26E1</episode-num>
   </programme>
-  <programme channel="tnt1" start="20260904173000 +0000" stop="20260904180000 +0000">
+  <programme channel="tnt1" start="20260904173000 +0000" stop="20260904181500 +0000">
     <title lang="en">Premier League Preview</title>
     <desc lang="en">A look ahead to matchday three of the Premier League, including Newcastle v Bournemouth, Man City v Coventry, Everton v Man United, and Arsenal v Chelsea.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c55a59e1-2cfa-4e43-86b0-1db73e184359/cover"/>
     <episode-num system="xmltv_ns">25.2.0</episode-num>
     <episode-num system="onscreen">S26E3</episode-num>
   </programme>
-  <programme channel="tnt1" start="20260904180000 +0000" stop="20260904210000 +0000">
+  <programme channel="tnt1" start="20260904181500 +0000" stop="20260904210000 +0000">
     <title lang="en">Live MLB: Tigers @ Guardians</title>
     <desc lang="en">Action from Major League Baseball as Cleveland Guardians take on Detroit Tigers in the first game of a crucial American League Central four-match series.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/50037590-8b3c-465e-8a0f-4453f7147ea3/cover"/>
   </programme>
-  <programme channel="tnt1" start="20260904210000 +0000" stop="20260904213000 +0000">
+  <programme channel="tnt1" start="20260904210000 +0000" stop="20260904214500 +0000">
     <title lang="en">UEFA Champions League Magazine</title>
     <desc lang="en">Jose Mourinho explores how he has evolved as both a coach and a person since his first spell at Real Madrid 16 years ago. Plus, we tell the story of UCL newcomers Viking FK.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/236010d0-f061-4018-89eb-667afd6d0963/cover"/>
     <episode-num system="xmltv_ns">25.1.0</episode-num>
     <episode-num system="onscreen">S26E2</episode-num>
   </programme>
-  <programme channel="tnt1" start="20260904213000 +0000" stop="20260904223000 +0000">
+  <programme channel="tnt1" start="20260904214500 +0000" stop="20260904224500 +0000">
     <title lang="en">MLB Highlights</title>
     <desc lang="en">Action from Wednesday's Major League Baseball games, including the St. Louis Cardinals taking on Los Angeles Angels and Chicago White Sox versus Houston Astros. (03.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/eca299ab-1d65-4442-8b2a-d462b49c0f2d/cover"/>
     <episode-num system="xmltv_ns">2025.166.0</episode-num>
     <episode-num system="onscreen">S2026E167</episode-num>
   </programme>
-  <programme channel="tnt1" start="20260904223000 +0000" stop="20260905013000 +0000">
+  <programme channel="tnt1" start="20260904224500 +0000" stop="20260905013000 +0000">
     <title lang="en">Live MLB: Braves @ Phillies</title>
     <desc lang="en">Action from Major League Baseball as Philadelphia Phillies host National League East leaders Atlanta Braves in the opening game of this series at Citizens Bank Park.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4a60cdef-d148-40cd-9b90-25428e3171df/cover"/>
@@ -4392,42 +4387,35 @@
     <desc lang="en">Highlights from the United Kingdom round of the 2026 FIM Superbike World Championship at Donington Park Circuit.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/161e4691-4756-4117-a558-bc8c14d293d0/cover"/>
   </programme>
-  <programme channel="tnt2" start="20260904120000 +0000" stop="20260904124500 +0000">
+  <programme channel="tnt2" start="20260904120000 +0000" stop="20260904130000 +0000">
     <title lang="en">Live WorldSBK: Sportbike Superpole</title>
     <desc lang="en">FIM Superbike World Championship action from the Sportbike Superpole at Circuit de Nevers Magny-Cours.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/583bdf4e-9eff-4e2e-8a64-619bd8437656/cover"/>
-  </programme>
-  <programme channel="tnt2" start="20260904124500 +0000" stop="20260904130000 +0000">
-    <title lang="en">British Superbikes Rewind</title>
-    <desc lang="en">We look back at the best action from round eight of the 2026 British Superbike Championship at Cadwell Park Circuit in Lincolnshire.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/eb3826a2-c726-49b2-86fd-c9f086e22ecd/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/e3a3aaee-ef73-4aac-b05a-dce7e8102d16/cover"/>
   </programme>
   <programme channel="tnt2" start="20260904130000 +0000" stop="20260904140000 +0000">
     <title lang="en">Live WorldSBK: Superbike FP2</title>
     <desc lang="en">FIM Superbike World Championship action from the Superbike second free practice session at Circuit de Nevers Magny-Cours.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/dece349c-4930-47c5-ac81-8034efece5c8/cover"/>
   </programme>
-  <programme channel="tnt2" start="20260904140000 +0000" stop="20260904144500 +0000">
+  <programme channel="tnt2" start="20260904140000 +0000" stop="20260904144600 +0000">
     <title lang="en">Live WorldSBK: Superbike Superpole</title>
     <desc lang="en">FIM Superbike World Championship action from the Supersport Superpole at Circuit de Nevers Magny-Cours.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f9091e2c-ed5d-4d58-bd0f-87b3e410a2fc/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/10b6f967-92c3-4c4f-9bbe-f8d923c392f1/cover"/>
   </programme>
-  <programme channel="tnt2" start="20260904144500 +0000" stop="20260904150000 +0000">
+  <programme channel="tnt2" start="20260904144600 +0000" stop="20260904150000 +0000">
     <title lang="en">MotoGP Rewind: Aragon 2026</title>
     <desc lang="en">A look back at the best of the action from the 2026 MotoGP Grand Prix of Aragon. Could reigning world champion Marc Marquez record yet another win here?</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/20a9678e-bbd5-4d0e-88de-54118782fdae/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/213a8a7b-5be7-4f27-b83c-b19c62f73f9e/cover"/>
   </programme>
   <programme channel="tnt2" start="20260904150000 +0000" stop="20260904153000 +0000">
-    <title lang="en">TNT Sports Reload</title>
-    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1631a27e-f639-4a9b-9415-ec464c0cfbf1/cover"/>
-    <episode-num system="xmltv_ns">25.34.0</episode-num>
-    <episode-num system="onscreen">S26E35</episode-num>
+    <title lang="en">Inside Serie A</title>
+    <desc lang="en">A round up of all the latest news from Serie A.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/929e5947-bd44-44da-9542-4e6410cc10ed/cover"/>
   </programme>
   <programme channel="tnt2" start="20260904153000 +0000" stop="20260904160000 +0000">
-    <title lang="en">CPL Highlights</title>
-    <desc lang="en">Highlights from the Caribbean Premier League as St Kitts and Nevis Patriots faced Saint Lucia Kings at Warner Park.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1f7aafd5-5645-44c8-aa2e-427f19d86ff0/cover"/>
+    <title lang="en">TNT Sports Reload</title>
+    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/10c1d9af-9640-4951-8293-16d81d9f0ee0/cover"/>
   </programme>
   <programme channel="tnt2" start="20260904160000 +0000" stop="20260904163000 +0000">
     <title lang="en">Discovery Golf</title>
@@ -4450,15 +4438,15 @@
     <episode-num system="xmltv_ns">2025.21.0</episode-num>
     <episode-num system="onscreen">S2026E22</episode-num>
   </programme>
-  <programme channel="tnt2" start="20260904180000 +0000" stop="20260904204500 +0000">
+  <programme channel="tnt2" start="20260904180000 +0000" stop="20260904204400 +0000">
     <title lang="en">IFSC Climbing World Series</title>
     <desc lang="en">Action from men's and women's lead semi-finals, part of the 2026 IFSC Climbing World Series in Koper, Slovenia.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d482d278-2452-456f-9e91-1b2bb3648e72/cover"/>
   </programme>
-  <programme channel="tnt2" start="20260904204500 +0000" stop="20260904210000 +0000">
+  <programme channel="tnt2" start="20260904204400 +0000" stop="20260904210000 +0000">
     <title lang="en">MotoGP Rewind: Aragon 2026</title>
     <desc lang="en">A look back at the best of the action from the 2026 MotoGP Grand Prix of Aragon. Could reigning world champion Marc Marquez record yet another win here?</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/20a9678e-bbd5-4d0e-88de-54118782fdae/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/0e1bb84f-cf51-4c01-8ae8-7c314620c9ce/cover"/>
   </programme>
   <programme channel="tnt2" start="20260904210000 +0000" stop="20260904213000 +0000">
     <title lang="en">TNT Sports Reload</title>
@@ -4482,17 +4470,27 @@
     <desc lang="en">Action from the Caribbean Premier League as Guyana Amazon Warriors take on Jamaica Kingsmen.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/87a36e94-5ce5-4a1c-ba4a-26e2698a1510/cover"/>
   </programme>
-  <programme channel="tnt2" start="20260905024500 +0000" stop="20260905030000 +0000">
+  <programme channel="tnt2" start="20260905024500 +0000" stop="20260905025500 +0000">
     <title lang="en">TNT Sports Cricket Reload</title>
     <desc lang="en">We revisit the second ODI between West Indies and New Zealand at Providence Stadium, featuring a five-wicket haul by Jayden Lennox.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f014c56f-eb1e-4db8-bb9c-feeef690f80f/cover"/>
     <episode-num system="xmltv_ns">24.190.0</episode-num>
     <episode-num system="onscreen">S25E191</episode-num>
   </programme>
-  <programme channel="tnt2" start="20260905030000 +0000" stop="20260905050000 +0000">
-    <title lang="en">Live AFLW: St Kilda v N Melbourne</title>
-    <desc lang="en">Action from the AFLW as St Kilda host North Melbourne.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/8a5b6fb6-4005-4542-ab4a-d5bbfdc95aa3/cover"/>
+  <programme channel="tnt2" start="20260905025500 +0000" stop="20260905032500 +0000">
+    <title lang="en">Formula E Flashback - Season 1</title>
+    <desc lang="en">We revisit the best action from the 2018 Punta del Este ePrix. The race would feature a breathtaking final lap with Jean-Eric Vergne, Lucas di Grassi and Sam Bird in contention.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/106c60dc-b8b4-4619-8030-89d715ea7821/cover"/>
+  </programme>
+  <programme channel="tnt2" start="20260905032500 +0000" stop="20260905035500 +0000">
+    <title lang="en">Formula E Flashback - Season 1</title>
+    <desc lang="en">A look back at thrilling events of the 2018 New York City ePrix at Brooklyn Street Circuit. Could Jean-Eric Vergne seal the Formula E title?</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/aeb800f9-3604-4e0f-a177-45bfcf203398/cover"/>
+  </programme>
+  <programme channel="tnt2" start="20260905035500 +0000" stop="20260905050000 +0000">
+    <title lang="en">Fishing: On the Bank</title>
+    <desc lang="en">Rob Hughes and Andy Ford present coverage of round three of the UK Angling Championships.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/05932636-dda4-4c33-9e38-f827c113092d/cover"/>
   </programme>
   <programme channel="tnt2" start="20260905050000 +0000" stop="20260905060000 +0000">
     <title lang="en">La Vuelta Men Highlights</title>
@@ -4682,19 +4680,10 @@
     <desc lang="en">FIM Superbike World Championship action from Sportbike race two at Circuit de Nevers Magny-Cours.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9b727e45-9748-49c6-adeb-2782732c66b4/cover"/>
   </programme>
-  <programme channel="tnt2" start="20260906140000 +0000" stop="20260906143000 +0000">
-    <title lang="en">Endurance Uncovered</title>
-    <desc lang="en">Halfway through the 2026 season, we catch up with Harry Tincknell on the padel court and explore the importance of both strategy and momentum with the top hypercar teams.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/6715faf3-902f-401d-867b-a4d446f67fa9/cover"/>
-    <episode-num system="xmltv_ns">25.4.0</episode-num>
-    <episode-num system="onscreen">S26E5</episode-num>
-  </programme>
-  <programme channel="tnt2" start="20260906143000 +0000" stop="20260906150000 +0000">
-    <title lang="en">UEFA Champions League Magazine</title>
-    <desc lang="en">Jose Mourinho explores how he has evolved as both a coach and a person since his first spell at Real Madrid 16 years ago. Plus, we tell the story of UCL newcomers Viking FK.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/236010d0-f061-4018-89eb-667afd6d0963/cover"/>
-    <episode-num system="xmltv_ns">25.1.0</episode-num>
-    <episode-num system="onscreen">S26E2</episode-num>
+  <programme channel="tnt2" start="20260906140000 +0000" stop="20260906150000 +0000">
+    <title lang="en">Live MXGP: Turkey - Race 2</title>
+    <desc lang="en">FIM Motocross World Championship action from MXGP race two at Afyon Motor Sports Center in Turkey.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/b9dafbba-027d-4bd2-8e53-76874cd89a82/cover"/>
   </programme>
   <programme channel="tnt2" start="20260906150000 +0000" stop="20260906160000 +0000">
     <title lang="en">Bristol Bears v Gloucester Rugby</title>
@@ -4790,17 +4779,15 @@
     <episode-num system="xmltv_ns">2019.12.0</episode-num>
     <episode-num system="onscreen">S2020E13</episode-num>
   </programme>
-  <programme channel="tnt3" start="20260904070000 +0000" stop="20260904073100 +0000">
+  <programme channel="tnt3" start="20260904070000 +0000" stop="20260904073000 +0000">
     <title lang="en">The Football Archives: UCL 2005/06</title>
     <desc lang="en">This episode of The Football Archives takes a look at the 2005/06 UEFA Champions League season. After Liverpool's win in Istanbul, could another English side reach the final?</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/bc9c1ea3-c282-470f-a496-d50f6e1b1fc8/cover"/>
-    <episode-num system="xmltv_ns">2019.13.0</episode-num>
-    <episode-num system="onscreen">S2020E14</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/28f8b76f-dc11-4e3b-bd9f-274ae6d664cf/cover"/>
   </programme>
-  <programme channel="tnt3" start="20260904073100 +0000" stop="20260904083000 +0000">
+  <programme channel="tnt3" start="20260904073000 +0000" stop="20260904083000 +0000">
     <title lang="en">La Vuelta Men Highlights</title>
     <desc lang="en">Highlights from stage 12 of the 2026 La Vuelta, featuring a 166.6km mountain route from Vera to a summit finish at Europe's largest astronomical observatory, Calar Alto.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/20ac100a-55b1-481d-adf8-fc0d896e3902/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/950c95cb-bed2-46eb-b4ee-e1f574d5391f/cover"/>
   </programme>
   <programme channel="tnt3" start="20260904083000 +0000" stop="20260904090000 +0000">
     <title lang="en">TNT Sports Reload</title>
@@ -4938,7 +4925,7 @@
   </programme>
   <programme channel="tnt3" start="20260905043000 +0000" stop="20260905063000 +0000">
     <title lang="en">Live AFLW: P Adelaide v Gold Coast</title>
-    <desc lang="en">Action from the AFLW as Port Adelaide face Gold Coast.</desc>
+    <desc lang="en">Action from the AFLW as Port Adelaide face Gold Coast at Alberton Oval. The Power won 108-40 when they last faced the Suns.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b1b71fa1-b070-44ac-9e22-1979360ab15c/cover"/>
   </programme>
   <programme channel="tnt3" start="20260905063000 +0000" stop="20260905073000 +0000">
@@ -5048,10 +5035,20 @@
     <desc lang="en">FIM Superbike World Championship action from Superbike race one at Circuit de Nevers Magny-Cours.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d0820077-81b3-4687-b7ac-86948acabd36/cover"/>
   </programme>
-  <programme channel="tnt3" start="20260906030000 +0000" stop="20260906063000 +0000">
+  <programme channel="tnt3" start="20260906030000 +0000" stop="20260906050000 +0000">
     <title lang="en">Live AFLW: Hawthorn v Adelaide</title>
     <desc lang="en">Action from the AFLW as Hawthorn face Adelaide at Kennedy Community Centre. The Crows have never lost to the Hawks in this competition.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/62c16503-e421-4172-9a1f-fc355ca649b2/cover"/>
+  </programme>
+  <programme channel="tnt3" start="20260906050000 +0000" stop="20260906060000 +0000">
+    <title lang="en">British Superbikes Highlights</title>
+    <desc lang="en">Highlights from round eight of the 2026 British Superbike Championship at Cadwell Park Circuit in Lincolnshire.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/0aac7c1f-fed6-49ed-8b11-4a5be4f670c9/cover"/>
+  </programme>
+  <programme channel="tnt3" start="20260906060000 +0000" stop="20260906063000 +0000">
+    <title lang="en">MLB Plays of the Week</title>
+    <desc lang="en">This weekly MLB highlights show showcases the most exciting plays from the past week's matches.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/4c9aa4a2-ebb2-4737-abbc-ca8364aa4388/cover"/>
   </programme>
   <programme channel="tnt3" start="20260906063000 +0000" stop="20260906070000 +0000">
     <title lang="en">Endurance Uncovered</title>
@@ -5311,33 +5308,15 @@
     <episode-num system="xmltv_ns">25.4.0</episode-num>
     <episode-num system="onscreen">S26E5</episode-num>
   </programme>
-  <programme channel="tnt4" start="20260905023000 +0000" stop="20260905030000 +0000">
+  <programme channel="tnt4" start="20260905023000 +0000" stop="20260905025500 +0000">
     <title lang="en">The Big Interview: Pedro Porro</title>
     <desc lang="en">Fresh from lifting the World Cup with Spain, Spurs defender Pedro Porro reflects on his tournament and tells the story of the grandfather whose influence helped shape his journey.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/64d1e83a-b764-4a2f-83b3-32cb49d601e0/cover"/>
-    <episode-num system="xmltv_ns">25.2.0</episode-num>
-    <episode-num system="onscreen">S26E3</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/003f65dd-b6bb-4788-af57-cb96f4ea638b/cover"/>
   </programme>
-  <programme channel="tnt4" start="20260905030000 +0000" stop="20260905033000 +0000">
-    <title lang="en">Formula E Flashback - Season 1</title>
-    <desc lang="en">We revisit the best action from the 2018 Punta del Este ePrix. The race would feature a breathtaking final lap with Jean-Eric Vergne, Lucas di Grassi and Sam Bird in contention.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/112cdec8-2493-3a68-8471-27df60577dc9/cover"/>
-    <episode-num system="xmltv_ns">0.6.0</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
-  </programme>
-  <programme channel="tnt4" start="20260905033000 +0000" stop="20260905040000 +0000">
-    <title lang="en">Formula E Flashback - Season 1</title>
-    <desc lang="en">A look back at thrilling events of the 2018 New York City ePrix at Brooklyn Street Circuit. Could Jean-Eric Vergne seal the Formula E title?</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e936a05e-2c3e-3a7e-aefb-b66205bdf4ea/cover"/>
-    <episode-num system="xmltv_ns">0.7.0</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
-  </programme>
-  <programme channel="tnt4" start="20260905040000 +0000" stop="20260905050000 +0000">
-    <title lang="en">Fishing: On the Bank</title>
-    <desc lang="en">Rob Hughes and Andy Ford present coverage of round three of the UK Angling Championships.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e5f7488d-9f1a-4263-9c5a-33034b3e796f/cover"/>
-    <episode-num system="xmltv_ns">25.8.0</episode-num>
-    <episode-num system="onscreen">S26E9</episode-num>
+  <programme channel="tnt4" start="20260905025500 +0000" stop="20260905050000 +0000">
+    <title lang="en">Live AFLW: St Kilda v N Melbourne</title>
+    <desc lang="en">Action from the AFLW as St Kilda host North Melbourne at RSEA Park. Can the winless Saints pull off an almighty shock and end the Ross' winning streak?</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/bfea7fa9-cdba-48f9-a1fe-03e01f566613/cover"/>
   </programme>
   <programme channel="tnt4" start="20260905050000 +0000" stop="20260905060000 +0000">
     <title lang="en">WRC Review: Rally Paraguay 2026</title>
@@ -8931,17 +8910,10 @@
     <episode-num system="xmltv_ns">2024.77.0</episode-num>
     <episode-num system="onscreen">S2025E78</episode-num>
   </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260904090000 +0000" stop="20260904093000 +0000">
+  <programme channel="AlJazeeraEnglish.qa" start="20260904090000 +0000" stop="20260904100000 +0000">
     <title lang="en">Srebrenica: Genocide On Trial</title>
     <desc lang="en">Thirty years after the Dayton Agreement ended the Balkan wars, how the war crimes trials over the Srebrenica genocide created the International Criminal Court.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/52af9626-d23e-4944-b665-fcda608456a1/cover"/>
-  </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260904093000 +0000" stop="20260904100000 +0000">
-    <title lang="en">The Bottom Line</title>
-    <desc lang="en">Ep.35 With his trade war with Canada and renewed threats against Iran, is President Donald Trump testing the limits of U.S. power?</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/4d98ce44-2481-436d-a73e-7b51069c61de/cover"/>
-    <episode-num system="xmltv_ns">2025.34.0</episode-num>
-    <episode-num system="onscreen">S2026E35</episode-num>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260904100000 +0000" stop="20260904110000 +0000">
     <title lang="en">Newshour</title>
@@ -9100,15 +9072,10 @@
     <desc lang="en">Shahidul Alam &amp; Andrew Feinstein Pt 2: Photojournalist Shahidul Alam and anti-arms trade campaigner Andrew Feinstein on challenging the global status quo and standing up to power.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9941062d-c953-3b01-b59b-7cc1a2713253/cover"/>
   </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260905040000 +0000" stop="20260905043000 +0000">
+  <programme channel="AlJazeeraEnglish.qa" start="20260905040000 +0000" stop="20260905050000 +0000">
     <title lang="en">Srebrenica: Genocide On Trial</title>
     <desc lang="en">Thirty years after the Dayton Agreement ended the Balkan wars, how the war crimes trials over the Srebrenica genocide created the International Criminal Court.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/765081b8-f8d4-44f6-9026-ce0a6e9db039/cover"/>
-  </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260905043000 +0000" stop="20260905050000 +0000">
-    <title lang="en">Fight For The Pacific</title>
-    <desc lang="en">The Battlefield:</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e92d2fc8-43c9-469a-bba5-c48357c904cf/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260905050000 +0000" stop="20260905053000 +0000">
     <title lang="en">News Live</title>
@@ -9414,17 +9381,10 @@
     <episode-num system="xmltv_ns">2025.275.0</episode-num>
     <episode-num system="onscreen">S2026E276</episode-num>
   </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260906140000 +0000" stop="20260906143000 +0000">
+  <programme channel="AlJazeeraEnglish.qa" start="20260906140000 +0000" stop="20260906150000 +0000">
     <title lang="en">Srebrenica: Genocide On Trial</title>
     <desc lang="en">Thirty years after the Dayton Agreement ended the Balkan wars, how the war crimes trials over the Srebrenica genocide created the International Criminal Court.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2bfc0f22-9059-4920-a17a-25887e7c5f74/cover"/>
-  </programme>
-  <programme channel="AlJazeeraEnglish.qa" start="20260906143000 +0000" stop="20260906150000 +0000">
-    <title lang="en">The Listening Post</title>
-    <desc lang="en">Ep.32 What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e496f371-6173-4c7a-ac4e-3114b07fcc50/cover"/>
-    <episode-num system="xmltv_ns">24.31.0</episode-num>
-    <episode-num system="onscreen">S25E32</episode-num>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260906150000 +0000" stop="20260906160000 +0000">
     <title lang="en">Newshour</title>
@@ -9469,7 +9429,7 @@
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260906193000 +0000" stop="20260906200000 +0000">
     <title lang="en">Talk to Al Jazeera</title>
-    <desc lang="en">Ep.492 31082026: One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <desc lang="en">Ep.493 Khalid Abdalla: British-Egyptian actor Khalid Abdalla talks identity, fame, and the fight for a better world. He shares the experiences that shaped his political engagement.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/41e45f8e-eeaa-4459-97e6-36b18405a628/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260906200000 +0000" stop="20260906203000 +0000">
@@ -10227,25 +10187,10 @@
     <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5869a840-2438-410b-9505-194fe6b88cc7/cover"/>
   </programme>
-  <programme channel="BBCNews.uk" start="20260904120000 +0000" stop="20260904130000 +0000">
+  <programme channel="BBCNews.uk" start="20260904120000 +0000" stop="20260904140000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ee208cb2-03b4-44e7-93eb-65b8ed1f2648/cover"/>
-  </programme>
-  <programme channel="BBCNews.uk" start="20260904130000 +0000" stop="20260904133000 +0000">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0f5a958a-28fd-4e65-a1eb-28439f8e6415/cover"/>
-  </programme>
-  <programme channel="BBCNews.uk" start="20260904133000 +0000" stop="20260904134500 +0000">
-    <title lang="en">Business Today - NYSE Opening Bell</title>
-    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from New York and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/ed07acc7-3cc5-42c9-b345-9996d53ed3d1/cover"/>
-  </programme>
-  <programme channel="BBCNews.uk" start="20260904134500 +0000" stop="20260904140000 +0000">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/08acd083-cc3d-43a6-b00f-1615f51c5e86/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260904140000 +0000" stop="20260904143000 +0000">
     <title lang="en">Verified Live</title>
@@ -10257,30 +10202,25 @@
     <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/cc720022-748f-4de7-b189-848bccb8ca90/cover"/>
   </programme>
-  <programme channel="BBCNews.uk" start="20260904150000 +0000" stop="20260904153000 +0000">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1d35b472-c027-47a9-ac56-dc1625d128b1/cover"/>
+  <programme channel="BBCNews.uk" start="20260904150000 +0000" stop="20260904152500 +0000">
+    <title lang="en">Politics Live</title>
+    <desc lang="en">The big political issues of the day.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a0602279-e310-4ee7-a4ea-337d9942e1ed/cover"/>
   </programme>
-  <programme channel="BBCNews.uk" start="20260904153000 +0000" stop="20260904160000 +0000">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1d942bc5-d8f5-4994-bd3a-c03e45eedda1/cover"/>
-  </programme>
-  <programme channel="BBCNews.uk" start="20260904160000 +0000" stop="20260904163000 +0000">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a28ca452-389e-42c5-905b-b1bc8dcb9003/cover"/>
-  </programme>
-  <programme channel="BBCNews.uk" start="20260904163000 +0000" stop="20260904170000 +0000">
+  <programme channel="BBCNews.uk" start="20260904152500 +0000" stop="20260904155500 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/8e83c9f0-128b-4d0b-a700-53d302fad838/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/ba3b4e52-8b40-4ed4-a068-af23d7047d6b/cover"/>
+  </programme>
+  <programme channel="BBCNews.uk" start="20260904155500 +0000" stop="20260904170000 +0000">
+    <title lang="en">Politics Live</title>
+    <desc lang="en">The big political issues of the day.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/93c65227-4754-4d5c-85cf-b899dc348055/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260904170000 +0000" stop="20260904173000 +0000">
-    <title lang="en">Signed: BBC News at Six</title>
-    <desc lang="en">The latest national and international news from the BBC.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/650c2ecf-8a48-4561-86cb-ed1ad6602662/cover"/>
+    <title lang="en">The World Today with Maryam Moshiri</title>
+    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7f814e0e-c1fe-4f57-8207-0fa0ed764d67/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260904173000 +0000" stop="20260904180000 +0000">
     <title lang="en">The World Today with Maryam Moshiri</title>
@@ -10385,9 +10325,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/20cc41c7-2775-4ad3-94e1-7ea0c9215437/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260905033000 +0000" stop="20260905040000 +0000">
-    <title lang="en">The Media Show: Meet the Meat Proxies</title>
+    <title lang="en">The Media Show</title>
     <desc lang="en">What happens when people become 'meat proxies' for AI? Also on the show, Lyse Doucet on reporting from Afghanistan under the Taliban, and the executive producer of The Grand Tour.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/852588cf-34b5-4859-804c-0cebe37e3338/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/692994fa-4fa3-4a22-9de6-70c52f0615d7/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260905040000 +0000" stop="20260905043000 +0000">
     <title lang="en">BBC News</title>
@@ -10890,19 +10830,17 @@
     <episode-num system="xmltv_ns">7.0.0</episode-num>
     <episode-num system="onscreen">S8E1</episode-num>
   </programme>
-  <programme channel="BBCOneChannelIslands.uk" start="20260904230000 +0000" stop="20260904235000 +0000">
-    <title lang="en">Alan Carr's Celebrity Picture Slam</title>
-    <desc lang="en">7/9. Picturing a £10,000 win for charity are soap stars Sue Cleaver and Charlie Brooks, Radio 2's Richie Anderson and Jason Mohammed, and pop legends Lee Latchford-Evans and Kelle Bryan.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0b345be3-2404-4fc1-a442-b4edaecbb382/cover"/>
-    <episode-num system="xmltv_ns">3.6.0</episode-num>
-    <episode-num system="onscreen">S4E7</episode-num>
+  <programme channel="BBCOneChannelIslands.uk" start="20260904230000 +0000" stop="20260904234500 +0000">
+    <title lang="en">Alan Carr's Picture Slam</title>
+    <desc lang="en">1/8. Attempting to Picture Slam their way to £10,000 are friends Lou and Jude from Grimsby, cousins Sibtain and Umar from London and Nottingham, and friends Steph and Jo from Barry.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a643ac66-4f3a-49c6-a1e2-e66748a45f29/cover"/>
   </programme>
-  <programme channel="BBCOneChannelIslands.uk" start="20260904235000 +0000" stop="20260904235500 +0000">
+  <programme channel="BBCOneChannelIslands.uk" start="20260904234500 +0000" stop="20260904235000 +0000">
     <title lang="en">Weather for the Week Ahead</title>
     <desc lang="en">Detailed weather forecast.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/488af04a-097f-48b8-938a-02b9e5ed5995/cover"/>
   </programme>
-  <programme channel="BBCOneChannelIslands.uk" start="20260904235500 +0000" stop="20260905050000 +0000">
+  <programme channel="BBCOneChannelIslands.uk" start="20260904235000 +0000" stop="20260905050000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">BBC One joins the BBC's rolling news channel for a night of news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/dcd34afd-526d-4e1d-badd-3be5c8c24de7/cover"/>
@@ -11338,19 +11276,17 @@
     <episode-num system="xmltv_ns">7.0.0</episode-num>
     <episode-num system="onscreen">S8E1</episode-num>
   </programme>
-  <programme channel="BBCOneEast.uk" start="20260904230000 +0000" stop="20260904235000 +0000">
-    <title lang="en">Alan Carr's Celebrity Picture Slam</title>
-    <desc lang="en">7/9. Picturing a £10,000 win for charity are soap stars Sue Cleaver and Charlie Brooks, Radio 2's Richie Anderson and Jason Mohammed, and pop legends Lee Latchford-Evans and Kelle Bryan.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0b345be3-2404-4fc1-a442-b4edaecbb382/cover"/>
-    <episode-num system="xmltv_ns">3.6.0</episode-num>
-    <episode-num system="onscreen">S4E7</episode-num>
+  <programme channel="BBCOneEast.uk" start="20260904230000 +0000" stop="20260904234500 +0000">
+    <title lang="en">Alan Carr's Picture Slam</title>
+    <desc lang="en">1/8. Attempting to Picture Slam their way to £10,000 are friends Lou and Jude from Grimsby, cousins Sibtain and Umar from London and Nottingham, and friends Steph and Jo from Barry.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/4f473991-f658-4451-97d5-9b9659d2f167/cover"/>
   </programme>
-  <programme channel="BBCOneEast.uk" start="20260904235000 +0000" stop="20260904235500 +0000">
+  <programme channel="BBCOneEast.uk" start="20260904234500 +0000" stop="20260904235000 +0000">
     <title lang="en">Weather for the Week Ahead</title>
     <desc lang="en">Detailed weather forecast.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d94edab5-23af-48a7-86ac-b995c7905e8c/cover"/>
   </programme>
-  <programme channel="BBCOneEast.uk" start="20260904235500 +0000" stop="20260905050000 +0000">
+  <programme channel="BBCOneEast.uk" start="20260904235000 +0000" stop="20260905050000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">BBC One joins the BBC's rolling news channel for a night of news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/dcd34afd-526d-4e1d-badd-3be5c8c24de7/cover"/>
@@ -11786,19 +11722,17 @@
     <episode-num system="xmltv_ns">7.0.0</episode-num>
     <episode-num system="onscreen">S8E1</episode-num>
   </programme>
-  <programme channel="BBCOneEastMidlands.uk" start="20260904230000 +0000" stop="20260904235000 +0000">
-    <title lang="en">Alan Carr's Celebrity Picture Slam</title>
-    <desc lang="en">7/9. Picturing a £10,000 win for charity are soap stars Sue Cleaver and Charlie Brooks, Radio 2's Richie Anderson and Jason Mohammed, and pop legends Lee Latchford-Evans and Kelle Bryan.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0b345be3-2404-4fc1-a442-b4edaecbb382/cover"/>
-    <episode-num system="xmltv_ns">3.6.0</episode-num>
-    <episode-num system="onscreen">S4E7</episode-num>
+  <programme channel="BBCOneEastMidlands.uk" start="20260904230000 +0000" stop="20260904234500 +0000">
+    <title lang="en">Alan Carr's Picture Slam</title>
+    <desc lang="en">1/8. Attempting to Picture Slam their way to £10,000 are friends Lou and Jude from Grimsby, cousins Sibtain and Umar from London and Nottingham, and friends Steph and Jo from Barry.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/26907561-4ea3-44ed-b5fb-756058c9b978/cover"/>
   </programme>
-  <programme channel="BBCOneEastMidlands.uk" start="20260904235000 +0000" stop="20260904235500 +0000">
+  <programme channel="BBCOneEastMidlands.uk" start="20260904234500 +0000" stop="20260904235000 +0000">
     <title lang="en">Weather for the Week Ahead</title>
     <desc lang="en">Detailed weather forecast.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8ac045e4-fc30-4ede-80de-de6cb23e167b/cover"/>
   </programme>
-  <programme channel="BBCOneEastMidlands.uk" start="20260904235500 +0000" stop="20260905050000 +0000">
+  <programme channel="BBCOneEastMidlands.uk" start="20260904235000 +0000" stop="20260905050000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">BBC One joins the BBC's rolling news channel for a night of news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/dcd34afd-526d-4e1d-badd-3be5c8c24de7/cover"/>
@@ -12234,19 +12168,17 @@
     <episode-num system="xmltv_ns">7.0.0</episode-num>
     <episode-num system="onscreen">S8E1</episode-num>
   </programme>
-  <programme channel="BBCOneLondonHD.uk" start="20260904230000 +0000" stop="20260904235000 +0000">
-    <title lang="en">Alan Carr's Celebrity Picture Slam</title>
-    <desc lang="en">7/9. Picturing a £10,000 win for charity are soap stars Sue Cleaver and Charlie Brooks, Radio 2's Richie Anderson and Jason Mohammed, and pop legends Lee Latchford-Evans and Kelle Bryan.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0b345be3-2404-4fc1-a442-b4edaecbb382/cover"/>
-    <episode-num system="xmltv_ns">3.6.0</episode-num>
-    <episode-num system="onscreen">S4E7</episode-num>
+  <programme channel="BBCOneLondonHD.uk" start="20260904230000 +0000" stop="20260904234500 +0000">
+    <title lang="en">Alan Carr's Picture Slam</title>
+    <desc lang="en">1/8. Attempting to Picture Slam their way to £10,000 are friends Lou and Jude from Grimsby, cousins Sibtain and Umar from London and Nottingham, and friends Steph and Jo from Barry.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/06102599-a4bb-4e1d-a043-bec267991eed/cover"/>
   </programme>
-  <programme channel="BBCOneLondonHD.uk" start="20260904235000 +0000" stop="20260904235500 +0000">
+  <programme channel="BBCOneLondonHD.uk" start="20260904234500 +0000" stop="20260904235000 +0000">
     <title lang="en">Weather for the Week Ahead</title>
     <desc lang="en">Detailed weather forecast.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a9548957-1abf-4a2e-8646-7858897b6292/cover"/>
   </programme>
-  <programme channel="BBCOneLondonHD.uk" start="20260904235500 +0000" stop="20260905050000 +0000">
+  <programme channel="BBCOneLondonHD.uk" start="20260904235000 +0000" stop="20260905050000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">BBC One joins the BBC's rolling news channel for a night of news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/dcd34afd-526d-4e1d-badd-3be5c8c24de7/cover"/>
@@ -12682,19 +12614,17 @@
     <episode-num system="xmltv_ns">7.0.0</episode-num>
     <episode-num system="onscreen">S8E1</episode-num>
   </programme>
-  <programme channel="BBCOneNorthEastCumbria.uk" start="20260904230000 +0000" stop="20260904235000 +0000">
-    <title lang="en">Alan Carr's Celebrity Picture Slam</title>
-    <desc lang="en">7/9. Picturing a £10,000 win for charity are soap stars Sue Cleaver and Charlie Brooks, Radio 2's Richie Anderson and Jason Mohammed, and pop legends Lee Latchford-Evans and Kelle Bryan.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0b345be3-2404-4fc1-a442-b4edaecbb382/cover"/>
-    <episode-num system="xmltv_ns">3.6.0</episode-num>
-    <episode-num system="onscreen">S4E7</episode-num>
+  <programme channel="BBCOneNorthEastCumbria.uk" start="20260904230000 +0000" stop="20260904234500 +0000">
+    <title lang="en">Alan Carr's Picture Slam</title>
+    <desc lang="en">1/8. Attempting to Picture Slam their way to £10,000 are friends Lou and Jude from Grimsby, cousins Sibtain and Umar from London and Nottingham, and friends Steph and Jo from Barry.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/b87d25a7-f281-48ca-be72-42155ae4e490/cover"/>
   </programme>
-  <programme channel="BBCOneNorthEastCumbria.uk" start="20260904235000 +0000" stop="20260904235500 +0000">
+  <programme channel="BBCOneNorthEastCumbria.uk" start="20260904234500 +0000" stop="20260904235000 +0000">
     <title lang="en">Weather for the Week Ahead</title>
     <desc lang="en">Detailed weather forecast.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4e982434-7835-4918-a256-d310e2950baa/cover"/>
   </programme>
-  <programme channel="BBCOneNorthEastCumbria.uk" start="20260904235500 +0000" stop="20260905050000 +0000">
+  <programme channel="BBCOneNorthEastCumbria.uk" start="20260904235000 +0000" stop="20260905050000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">BBC One joins the BBC's rolling news channel for a night of news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/dcd34afd-526d-4e1d-badd-3be5c8c24de7/cover"/>
@@ -13130,19 +13060,17 @@
     <episode-num system="xmltv_ns">7.0.0</episode-num>
     <episode-num system="onscreen">S8E1</episode-num>
   </programme>
-  <programme channel="BBCOneNorthWest.uk" start="20260904230000 +0000" stop="20260904235000 +0000">
-    <title lang="en">Alan Carr's Celebrity Picture Slam</title>
-    <desc lang="en">7/9. Picturing a £10,000 win for charity are soap stars Sue Cleaver and Charlie Brooks, Radio 2's Richie Anderson and Jason Mohammed, and pop legends Lee Latchford-Evans and Kelle Bryan.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0b345be3-2404-4fc1-a442-b4edaecbb382/cover"/>
-    <episode-num system="xmltv_ns">3.6.0</episode-num>
-    <episode-num system="onscreen">S4E7</episode-num>
+  <programme channel="BBCOneNorthWest.uk" start="20260904230000 +0000" stop="20260904234500 +0000">
+    <title lang="en">Alan Carr's Picture Slam</title>
+    <desc lang="en">1/8. Attempting to Picture Slam their way to £10,000 are friends Lou and Jude from Grimsby, cousins Sibtain and Umar from London and Nottingham, and friends Steph and Jo from Barry.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f78f837a-3e1a-4b94-8af5-f3afcc5810a9/cover"/>
   </programme>
-  <programme channel="BBCOneNorthWest.uk" start="20260904235000 +0000" stop="20260904235500 +0000">
+  <programme channel="BBCOneNorthWest.uk" start="20260904234500 +0000" stop="20260904235000 +0000">
     <title lang="en">Weather for the Week Ahead</title>
     <desc lang="en">Detailed weather forecast.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/77d035dc-45ec-4afc-8a1a-93f63c995036/cover"/>
   </programme>
-  <programme channel="BBCOneNorthWest.uk" start="20260904235500 +0000" stop="20260905050000 +0000">
+  <programme channel="BBCOneNorthWest.uk" start="20260904235000 +0000" stop="20260905050000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">BBC One joins the BBC's rolling news channel for a night of news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/dcd34afd-526d-4e1d-badd-3be5c8c24de7/cover"/>
@@ -13573,19 +13501,17 @@
     <episode-num system="xmltv_ns">7.0.0</episode-num>
     <episode-num system="onscreen">S8E1</episode-num>
   </programme>
-  <programme channel="BBCOneNorthernIreland.uk" start="20260904230000 +0000" stop="20260904235000 +0000">
-    <title lang="en">Alan Carr's Celebrity Picture Slam</title>
-    <desc lang="en">7/9. Picturing a £10,000 win for charity are soap stars Sue Cleaver and Charlie Brooks, Radio 2's Richie Anderson and Jason Mohammed, and pop legends Lee Latchford-Evans and Kelle Bryan.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0b345be3-2404-4fc1-a442-b4edaecbb382/cover"/>
-    <episode-num system="xmltv_ns">3.6.0</episode-num>
-    <episode-num system="onscreen">S4E7</episode-num>
+  <programme channel="BBCOneNorthernIreland.uk" start="20260904230000 +0000" stop="20260904234500 +0000">
+    <title lang="en">Alan Carr's Picture Slam</title>
+    <desc lang="en">1/8. Attempting to Picture Slam their way to £10,000 are friends Lou and Jude from Grimsby, cousins Sibtain and Umar from London and Nottingham, and friends Steph and Jo from Barry.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/465cbc93-c574-4abf-be15-e9c564abb6bd/cover"/>
   </programme>
-  <programme channel="BBCOneNorthernIreland.uk" start="20260904235000 +0000" stop="20260904235500 +0000">
+  <programme channel="BBCOneNorthernIreland.uk" start="20260904234500 +0000" stop="20260904235000 +0000">
     <title lang="en">Weather for the Week Ahead</title>
     <desc lang="en">Detailed weather forecast.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ae4e7bfe-c78a-4da3-b331-4927fd221f92/cover"/>
   </programme>
-  <programme channel="BBCOneNorthernIreland.uk" start="20260904235500 +0000" stop="20260905050000 +0000">
+  <programme channel="BBCOneNorthernIreland.uk" start="20260904235000 +0000" stop="20260905050000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">BBC One joins the BBC's rolling news channel for a night of news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/dcd34afd-526d-4e1d-badd-3be5c8c24de7/cover"/>
@@ -14021,19 +13947,17 @@
     <episode-num system="xmltv_ns">7.0.0</episode-num>
     <episode-num system="onscreen">S8E1</episode-num>
   </programme>
-  <programme channel="BBCOneScotHD.uk" start="20260904230000 +0000" stop="20260904235000 +0000">
-    <title lang="en">Alan Carr's Celebrity Picture Slam</title>
-    <desc lang="en">7/9. Picturing a £10,000 win for charity are soap stars Sue Cleaver and Charlie Brooks, Radio 2's Richie Anderson and Jason Mohammed, and pop legends Lee Latchford-Evans and Kelle Bryan.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0b345be3-2404-4fc1-a442-b4edaecbb382/cover"/>
-    <episode-num system="xmltv_ns">3.6.0</episode-num>
-    <episode-num system="onscreen">S4E7</episode-num>
+  <programme channel="BBCOneScotHD.uk" start="20260904230000 +0000" stop="20260904234500 +0000">
+    <title lang="en">Alan Carr's Picture Slam</title>
+    <desc lang="en">1/8. Attempting to Picture Slam their way to £10,000 are friends Lou and Jude from Grimsby, cousins Sibtain and Umar from London and Nottingham, and friends Steph and Jo from Barry.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7f5a3484-b152-4a80-88a4-bb208075364a/cover"/>
   </programme>
-  <programme channel="BBCOneScotHD.uk" start="20260904235000 +0000" stop="20260904235500 +0000">
+  <programme channel="BBCOneScotHD.uk" start="20260904234500 +0000" stop="20260904235000 +0000">
     <title lang="en">Weather for the Week Ahead</title>
     <desc lang="en">Detailed weather forecast.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/80cbb7a5-0e2f-4b93-9fa0-9bd2f83f7461/cover"/>
   </programme>
-  <programme channel="BBCOneScotHD.uk" start="20260904235500 +0000" stop="20260905050000 +0000">
+  <programme channel="BBCOneScotHD.uk" start="20260904235000 +0000" stop="20260905050000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">BBC One joins the BBC's rolling news channel for a night of news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/dcd34afd-526d-4e1d-badd-3be5c8c24de7/cover"/>
@@ -14467,19 +14391,17 @@
     <episode-num system="xmltv_ns">7.0.0</episode-num>
     <episode-num system="onscreen">S8E1</episode-num>
   </programme>
-  <programme channel="BBCOneSouth.uk" start="20260904230000 +0000" stop="20260904235000 +0000">
-    <title lang="en">Alan Carr's Celebrity Picture Slam</title>
-    <desc lang="en">7/9. Picturing a £10,000 win for charity are soap stars Sue Cleaver and Charlie Brooks, Radio 2's Richie Anderson and Jason Mohammed, and pop legends Lee Latchford-Evans and Kelle Bryan.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0b345be3-2404-4fc1-a442-b4edaecbb382/cover"/>
-    <episode-num system="xmltv_ns">3.6.0</episode-num>
-    <episode-num system="onscreen">S4E7</episode-num>
+  <programme channel="BBCOneSouth.uk" start="20260904230000 +0000" stop="20260904234500 +0000">
+    <title lang="en">Alan Carr's Picture Slam</title>
+    <desc lang="en">1/8. Attempting to Picture Slam their way to £10,000 are friends Lou and Jude from Grimsby, cousins Sibtain and Umar from London and Nottingham, and friends Steph and Jo from Barry.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d9ff37d3-5beb-450f-bb0b-bb91d85e0af2/cover"/>
   </programme>
-  <programme channel="BBCOneSouth.uk" start="20260904235000 +0000" stop="20260904235500 +0000">
+  <programme channel="BBCOneSouth.uk" start="20260904234500 +0000" stop="20260904235000 +0000">
     <title lang="en">Weather for the Week Ahead</title>
     <desc lang="en">Detailed weather forecast.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/86192e72-43bb-48e0-bae7-0c4e3852344f/cover"/>
   </programme>
-  <programme channel="BBCOneSouth.uk" start="20260904235500 +0000" stop="20260905050000 +0000">
+  <programme channel="BBCOneSouth.uk" start="20260904235000 +0000" stop="20260905050000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">BBC One joins the BBC's rolling news channel for a night of news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/dcd34afd-526d-4e1d-badd-3be5c8c24de7/cover"/>
@@ -14915,19 +14837,17 @@
     <episode-num system="xmltv_ns">7.0.0</episode-num>
     <episode-num system="onscreen">S8E1</episode-num>
   </programme>
-  <programme channel="BBCOneSouthEast.uk" start="20260904230000 +0000" stop="20260904235000 +0000">
-    <title lang="en">Alan Carr's Celebrity Picture Slam</title>
-    <desc lang="en">7/9. Picturing a £10,000 win for charity are soap stars Sue Cleaver and Charlie Brooks, Radio 2's Richie Anderson and Jason Mohammed, and pop legends Lee Latchford-Evans and Kelle Bryan.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0b345be3-2404-4fc1-a442-b4edaecbb382/cover"/>
-    <episode-num system="xmltv_ns">3.6.0</episode-num>
-    <episode-num system="onscreen">S4E7</episode-num>
+  <programme channel="BBCOneSouthEast.uk" start="20260904230000 +0000" stop="20260904234500 +0000">
+    <title lang="en">Alan Carr's Picture Slam</title>
+    <desc lang="en">1/8. Attempting to Picture Slam their way to £10,000 are friends Lou and Jude from Grimsby, cousins Sibtain and Umar from London and Nottingham, and friends Steph and Jo from Barry.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3c1c8edf-336d-4ed3-8dab-25785c7cc9e6/cover"/>
   </programme>
-  <programme channel="BBCOneSouthEast.uk" start="20260904235000 +0000" stop="20260904235500 +0000">
+  <programme channel="BBCOneSouthEast.uk" start="20260904234500 +0000" stop="20260904235000 +0000">
     <title lang="en">Weather for the Week Ahead</title>
     <desc lang="en">Detailed weather forecast.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ed415241-6425-4778-b458-d8d9eb6a192a/cover"/>
   </programme>
-  <programme channel="BBCOneSouthEast.uk" start="20260904235500 +0000" stop="20260905050000 +0000">
+  <programme channel="BBCOneSouthEast.uk" start="20260904235000 +0000" stop="20260905050000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">BBC One joins the BBC's rolling news channel for a night of news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/dcd34afd-526d-4e1d-badd-3be5c8c24de7/cover"/>
@@ -15363,19 +15283,17 @@
     <episode-num system="xmltv_ns">7.0.0</episode-num>
     <episode-num system="onscreen">S8E1</episode-num>
   </programme>
-  <programme channel="BBCOneSouthWest.uk" start="20260904230000 +0000" stop="20260904235000 +0000">
-    <title lang="en">Alan Carr's Celebrity Picture Slam</title>
-    <desc lang="en">7/9. Picturing a £10,000 win for charity are soap stars Sue Cleaver and Charlie Brooks, Radio 2's Richie Anderson and Jason Mohammed, and pop legends Lee Latchford-Evans and Kelle Bryan.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0b345be3-2404-4fc1-a442-b4edaecbb382/cover"/>
-    <episode-num system="xmltv_ns">3.6.0</episode-num>
-    <episode-num system="onscreen">S4E7</episode-num>
+  <programme channel="BBCOneSouthWest.uk" start="20260904230000 +0000" stop="20260904234500 +0000">
+    <title lang="en">Alan Carr's Picture Slam</title>
+    <desc lang="en">1/8. Attempting to Picture Slam their way to £10,000 are friends Lou and Jude from Grimsby, cousins Sibtain and Umar from London and Nottingham, and friends Steph and Jo from Barry.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/40653043-c1b2-4db3-bec9-ea3bb75609ad/cover"/>
   </programme>
-  <programme channel="BBCOneSouthWest.uk" start="20260904235000 +0000" stop="20260904235500 +0000">
+  <programme channel="BBCOneSouthWest.uk" start="20260904234500 +0000" stop="20260904235000 +0000">
     <title lang="en">Weather for the Week Ahead</title>
     <desc lang="en">Detailed weather forecast.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/290e6cf7-d899-487c-90db-fef9ef3ee9ab/cover"/>
   </programme>
-  <programme channel="BBCOneSouthWest.uk" start="20260904235500 +0000" stop="20260905050000 +0000">
+  <programme channel="BBCOneSouthWest.uk" start="20260904235000 +0000" stop="20260905050000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">BBC One joins the BBC's rolling news channel for a night of news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/dcd34afd-526d-4e1d-badd-3be5c8c24de7/cover"/>
@@ -15814,19 +15732,17 @@
     <episode-num system="xmltv_ns">7.0.0</episode-num>
     <episode-num system="onscreen">S8E1</episode-num>
   </programme>
-  <programme channel="BBCOneWalesHD.uk" start="20260904230000 +0000" stop="20260904235000 +0000">
-    <title lang="en">Alan Carr's Celebrity Picture Slam</title>
-    <desc lang="en">7/9. Picturing a £10,000 win for charity are soap stars Sue Cleaver and Charlie Brooks, Radio 2's Richie Anderson and Jason Mohammed, and pop legends Lee Latchford-Evans and Kelle Bryan.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0b345be3-2404-4fc1-a442-b4edaecbb382/cover"/>
-    <episode-num system="xmltv_ns">3.6.0</episode-num>
-    <episode-num system="onscreen">S4E7</episode-num>
+  <programme channel="BBCOneWalesHD.uk" start="20260904230000 +0000" stop="20260904234500 +0000">
+    <title lang="en">Alan Carr's Picture Slam</title>
+    <desc lang="en">1/8. Attempting to Picture Slam their way to £10,000 are friends Lou and Jude from Grimsby, cousins Sibtain and Umar from London and Nottingham, and friends Steph and Jo from Barry.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/b877cb19-abe0-45e7-8af5-8f18edce59d1/cover"/>
   </programme>
-  <programme channel="BBCOneWalesHD.uk" start="20260904235000 +0000" stop="20260904235500 +0000">
+  <programme channel="BBCOneWalesHD.uk" start="20260904234500 +0000" stop="20260904235000 +0000">
     <title lang="en">Weather for the Week Ahead</title>
     <desc lang="en">Detailed weather forecast.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bae48b13-f8d8-403e-93f9-848dea6f1a86/cover"/>
   </programme>
-  <programme channel="BBCOneWalesHD.uk" start="20260904235500 +0000" stop="20260905050000 +0000">
+  <programme channel="BBCOneWalesHD.uk" start="20260904235000 +0000" stop="20260905050000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">BBC One joins the BBC's rolling news channel for a night of news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/dcd34afd-526d-4e1d-badd-3be5c8c24de7/cover"/>
@@ -16265,19 +16181,17 @@
     <episode-num system="xmltv_ns">7.0.0</episode-num>
     <episode-num system="onscreen">S8E1</episode-num>
   </programme>
-  <programme channel="BBCOneWest.uk" start="20260904230000 +0000" stop="20260904235000 +0000">
-    <title lang="en">Alan Carr's Celebrity Picture Slam</title>
-    <desc lang="en">7/9. Picturing a £10,000 win for charity are soap stars Sue Cleaver and Charlie Brooks, Radio 2's Richie Anderson and Jason Mohammed, and pop legends Lee Latchford-Evans and Kelle Bryan.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0b345be3-2404-4fc1-a442-b4edaecbb382/cover"/>
-    <episode-num system="xmltv_ns">3.6.0</episode-num>
-    <episode-num system="onscreen">S4E7</episode-num>
+  <programme channel="BBCOneWest.uk" start="20260904230000 +0000" stop="20260904234500 +0000">
+    <title lang="en">Alan Carr's Picture Slam</title>
+    <desc lang="en">1/8. Attempting to Picture Slam their way to £10,000 are friends Lou and Jude from Grimsby, cousins Sibtain and Umar from London and Nottingham, and friends Steph and Jo from Barry.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d9e94c83-d4df-498d-a0ef-f84ccdf35210/cover"/>
   </programme>
-  <programme channel="BBCOneWest.uk" start="20260904235000 +0000" stop="20260904235500 +0000">
+  <programme channel="BBCOneWest.uk" start="20260904234500 +0000" stop="20260904235000 +0000">
     <title lang="en">Weather for the Week Ahead</title>
     <desc lang="en">Detailed weather forecast.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c62e8f5e-33d3-45aa-bd69-e45b96e04f62/cover"/>
   </programme>
-  <programme channel="BBCOneWest.uk" start="20260904235500 +0000" stop="20260905050000 +0000">
+  <programme channel="BBCOneWest.uk" start="20260904235000 +0000" stop="20260905050000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">BBC One joins the BBC's rolling news channel for a night of news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/dcd34afd-526d-4e1d-badd-3be5c8c24de7/cover"/>
@@ -16713,19 +16627,17 @@
     <episode-num system="xmltv_ns">7.0.0</episode-num>
     <episode-num system="onscreen">S8E1</episode-num>
   </programme>
-  <programme channel="BBCOneWestMidlands.uk" start="20260904230000 +0000" stop="20260904235000 +0000">
-    <title lang="en">Alan Carr's Celebrity Picture Slam</title>
-    <desc lang="en">7/9. Picturing a £10,000 win for charity are soap stars Sue Cleaver and Charlie Brooks, Radio 2's Richie Anderson and Jason Mohammed, and pop legends Lee Latchford-Evans and Kelle Bryan.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0b345be3-2404-4fc1-a442-b4edaecbb382/cover"/>
-    <episode-num system="xmltv_ns">3.6.0</episode-num>
-    <episode-num system="onscreen">S4E7</episode-num>
+  <programme channel="BBCOneWestMidlands.uk" start="20260904230000 +0000" stop="20260904234500 +0000">
+    <title lang="en">Alan Carr's Picture Slam</title>
+    <desc lang="en">1/8. Attempting to Picture Slam their way to £10,000 are friends Lou and Jude from Grimsby, cousins Sibtain and Umar from London and Nottingham, and friends Steph and Jo from Barry.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/44084ad0-a339-4b64-aada-36684b0d79e9/cover"/>
   </programme>
-  <programme channel="BBCOneWestMidlands.uk" start="20260904235000 +0000" stop="20260904235500 +0000">
+  <programme channel="BBCOneWestMidlands.uk" start="20260904234500 +0000" stop="20260904235000 +0000">
     <title lang="en">Weather for the Week Ahead</title>
     <desc lang="en">Detailed weather forecast.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b45598d2-0dcf-418d-b0bd-94acb60c6767/cover"/>
   </programme>
-  <programme channel="BBCOneWestMidlands.uk" start="20260904235500 +0000" stop="20260905050000 +0000">
+  <programme channel="BBCOneWestMidlands.uk" start="20260904235000 +0000" stop="20260905050000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">BBC One joins the BBC's rolling news channel for a night of news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/dcd34afd-526d-4e1d-badd-3be5c8c24de7/cover"/>
@@ -17161,19 +17073,17 @@
     <episode-num system="xmltv_ns">7.0.0</episode-num>
     <episode-num system="onscreen">S8E1</episode-num>
   </programme>
-  <programme channel="BBCOneYorksLincs.uk" start="20260904230000 +0000" stop="20260904235000 +0000">
-    <title lang="en">Alan Carr's Celebrity Picture Slam</title>
-    <desc lang="en">7/9. Picturing a £10,000 win for charity are soap stars Sue Cleaver and Charlie Brooks, Radio 2's Richie Anderson and Jason Mohammed, and pop legends Lee Latchford-Evans and Kelle Bryan.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0b345be3-2404-4fc1-a442-b4edaecbb382/cover"/>
-    <episode-num system="xmltv_ns">3.6.0</episode-num>
-    <episode-num system="onscreen">S4E7</episode-num>
+  <programme channel="BBCOneYorksLincs.uk" start="20260904230000 +0000" stop="20260904234500 +0000">
+    <title lang="en">Alan Carr's Picture Slam</title>
+    <desc lang="en">1/8. Attempting to Picture Slam their way to £10,000 are friends Lou and Jude from Grimsby, cousins Sibtain and Umar from London and Nottingham, and friends Steph and Jo from Barry.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/c4746748-253e-459c-b328-c37fe69083c8/cover"/>
   </programme>
-  <programme channel="BBCOneYorksLincs.uk" start="20260904235000 +0000" stop="20260904235500 +0000">
+  <programme channel="BBCOneYorksLincs.uk" start="20260904234500 +0000" stop="20260904235000 +0000">
     <title lang="en">Weather for the Week Ahead</title>
     <desc lang="en">Detailed weather forecast.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/07bbe5ff-1590-4c93-aa21-b59846fba7cd/cover"/>
   </programme>
-  <programme channel="BBCOneYorksLincs.uk" start="20260904235500 +0000" stop="20260905050000 +0000">
+  <programme channel="BBCOneYorksLincs.uk" start="20260904235000 +0000" stop="20260905050000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">BBC One joins the BBC's rolling news channel for a night of news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/dcd34afd-526d-4e1d-badd-3be5c8c24de7/cover"/>
@@ -17609,19 +17519,17 @@
     <episode-num system="xmltv_ns">7.0.0</episode-num>
     <episode-num system="onscreen">S8E1</episode-num>
   </programme>
-  <programme channel="BBCOneYorkshire.uk" start="20260904230000 +0000" stop="20260904235000 +0000">
-    <title lang="en">Alan Carr's Celebrity Picture Slam</title>
-    <desc lang="en">7/9. Picturing a £10,000 win for charity are soap stars Sue Cleaver and Charlie Brooks, Radio 2's Richie Anderson and Jason Mohammed, and pop legends Lee Latchford-Evans and Kelle Bryan.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0b345be3-2404-4fc1-a442-b4edaecbb382/cover"/>
-    <episode-num system="xmltv_ns">3.6.0</episode-num>
-    <episode-num system="onscreen">S4E7</episode-num>
+  <programme channel="BBCOneYorkshire.uk" start="20260904230000 +0000" stop="20260904234500 +0000">
+    <title lang="en">Alan Carr's Picture Slam</title>
+    <desc lang="en">1/8. Attempting to Picture Slam their way to £10,000 are friends Lou and Jude from Grimsby, cousins Sibtain and Umar from London and Nottingham, and friends Steph and Jo from Barry.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/bdb8807e-4907-4e65-b3f1-e9ae4af5a470/cover"/>
   </programme>
-  <programme channel="BBCOneYorkshire.uk" start="20260904235000 +0000" stop="20260904235500 +0000">
+  <programme channel="BBCOneYorkshire.uk" start="20260904234500 +0000" stop="20260904235000 +0000">
     <title lang="en">Weather for the Week Ahead</title>
     <desc lang="en">Detailed weather forecast.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f0ad8468-3b93-4b7c-a1ee-c61d74daff05/cover"/>
   </programme>
-  <programme channel="BBCOneYorkshire.uk" start="20260904235500 +0000" stop="20260905050000 +0000">
+  <programme channel="BBCOneYorkshire.uk" start="20260904235000 +0000" stop="20260905050000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">BBC One joins the BBC's rolling news channel for a night of news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/dcd34afd-526d-4e1d-badd-3be5c8c24de7/cover"/>
@@ -17945,7 +17853,7 @@
   </programme>
   <programme channel="BBCParliament.uk" start="20260904050500 +0000" stop="20260904083000 +0000">
     <title lang="en">Prime Minister's Statement on Government Priorities</title>
-    <desc lang="en">Coverage of the statement in the House of Commons by Andy Burnham, the prime minister, on the government's priorities, on Tuesday 1 September.</desc>
+    <desc lang="en">Coverage of a statement in the House of Commons by Andy Burnham, the prime minister, on the government's priorities, on Tuesday 1 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bd7ca627-0759-46f1-9409-df7b03e99534/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260904083000 +0000" stop="20260904140000 +0000">
@@ -17955,7 +17863,7 @@
   </programme>
   <programme channel="BBCParliament.uk" start="20260904140000 +0000" stop="20260904160000 +0000">
     <title lang="en">House of Lords - Ageing Society Debate</title>
-    <desc lang="en">Coverage of the debate in the House of Lords on the report from the Lords Economic Affairs committee on 'preparing for an ageing society', on Friday 4 September.</desc>
+    <desc lang="en">Coverage of a debate in the House of Lords on the report from the Lords Economic Affairs committee on 'preparing for an ageing society', on Friday 4 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a6159345-0e90-4c63-8310-5202f6fee53e/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260904160000 +0000" stop="20260904173000 +0000">
@@ -17993,190 +17901,185 @@
     <desc lang="en">Statement on the Scottish government's legislative priorities and the following debate.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7083cf45-feaf-4866-a0a5-dcddc2cb36eb/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260905004000 +0000" stop="20260905012000 +0000">
+  <programme channel="BBCParliament.uk" start="20260905004000 +0000" stop="20260905011500 +0000">
     <title lang="en">Scottish Parliament -...</title>
     <desc lang="en">...Cairngorms Wildfires Statement. Coverage of the statement in the Scottish Parliament on the wildfires in the Cairngorms over the summer, from Thursday 3 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/368b20c6-98a1-44d8-8ec3-cf5f6a6f687e/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260905012000 +0000" stop="20260905030500 +0000">
+  <programme channel="BBCParliament.uk" start="20260905011500 +0000" stop="20260905031000 +0000">
     <title lang="en">Scottish Parliament -...</title>
-    <desc lang="en">...Eradicating Child Poverty Debate. The debate on the government's aim of eradicating child poverty, on Thursday 3 September.</desc>
+    <desc lang="en">...Eradicating Child Poverty Debate. A debate on the government's aim of eradicating child poverty, on Thursday 3 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4c5dbed4-1edb-4855-a83d-ae448a50f145/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260905030500 +0000" stop="20260905034000 +0000">
+  <programme channel="BBCParliament.uk" start="20260905031000 +0000" stop="20260905034500 +0000">
     <title lang="en">Scottish Parliament - General Questions</title>
     <desc lang="en">Coverage of general questions in the Scottish Parliament to ministers in the Scottish government, from Thursday 3 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9af54fdc-243a-4617-8b9f-dab7611d4b5a/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260905034000 +0000" stop="20260905050000 +0000">
+  <programme channel="BBCParliament.uk" start="20260905034500 +0000" stop="20260905050500 +0000">
     <title lang="en">Commons Business Questions</title>
     <desc lang="en">Coverage of the announcement of future Commons business and questions to Alan Campbell, the leader of the Commons, on Thursday 3 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/98b7b6ac-9406-4742-b157-66b45e00903e/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260905050000 +0000" stop="20260905100000 +0000">
+  <programme channel="BBCParliament.uk" start="20260905050500 +0000" stop="20260905095500 +0000">
     <title lang="en">Westminster Hall</title>
-    <desc lang="en">House of Commons proceedings in Westminster Hall, from Tuesday 1 September.</desc>
+    <desc lang="en">House of Commons proceedings in Westminster Hall, including a debate on provision of face-to-face banking services in rural areas, from Tuesday 1 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1ad8e5e2-51ba-4d8c-98af-751b131eab2b/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260905100000 +0000" stop="20260905103500 +0000">
+  <programme channel="BBCParliament.uk" start="20260905095500 +0000" stop="20260905100500 +0000">
+    <title lang="en">Ten Minute Rule Bill</title>
+    <desc lang="en">Coverage of the introduction to the House of Commons of a ten minute rule bill, introduced by Labour MP Adam Jogee, on road safety plans, from Tuesday 1 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/b347f5c8-0fa3-46d7-97bb-c8173e8eaaa5/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260905100500 +0000" stop="20260905105000 +0000">
     <title lang="en">Prime Minister's Questions</title>
     <desc lang="en">Coverage of questions in the House of Commons to Andy Burnham, the prime minister, on Wednesday 2 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f878e43f-8d1e-45a2-a3d6-61e225503b7c/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260905103500 +0000" stop="20260905110500 +0000">
+  <programme channel="BBCParliament.uk" start="20260905105000 +0000" stop="20260905113000 +0000">
     <title lang="en">Scottish First Minister's Questions</title>
     <desc lang="en">Questions in the Scottish Parliament from backbench MSPs to John Swinney, the first minister, on Tuesday 1 September.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/4c5dbed4-1edb-4855-a83d-ae448a50f145/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/3e447c58-8e83-46d0-b400-16725d2df923/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260905110500 +0000" stop="20260905113500 +0000">
+  <programme channel="BBCParliament.uk" start="20260905113000 +0000" stop="20260905120500 +0000">
     <title lang="en">Scottish First Minister's Questions</title>
     <desc lang="en">Questions in the Scottish Parliament from party leaders to John Swinney, the first minister, on Thursday 3 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/368b20c6-98a1-44d8-8ec3-cf5f6a6f687e/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260905113500 +0000" stop="20260905122000 +0000">
-    <title lang="en">House of Lords</title>
-    <desc lang="en">Coverage of a statement in the House of Lords.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/6fa55f46-0a34-4357-8dff-76194a60041e/cover"/>
+  <programme channel="BBCParliament.uk" start="20260905120500 +0000" stop="20260905131000 +0000">
+    <title lang="en">House of Lords - Government Direction Statement</title>
+    <desc lang="en">Coverage of a statement in the House of Lords on the government's priorities, with Baroness Smith of Basildon, leader of the House of Lords, on Wednesday 2 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/0e616466-d9c4-4177-a812-2ca7492f453a/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260905122000 +0000" stop="20260905130500 +0000">
-    <title lang="en">House of Commons</title>
-    <desc lang="en">Coverage of a statement in the House of Commons.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/20a50a2c-7ea8-4ea1-976e-b265766f6bc5/cover"/>
+  <programme channel="BBCParliament.uk" start="20260905131000 +0000" stop="20260905134000 +0000">
+    <title lang="en">Scottish Parliament - General Questions</title>
+    <desc lang="en">Coverage of general questions in the Scottish Parliament to ministers in the Scottish government, from Thursday 3 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/b23ce515-9263-4678-98ad-3686ffe7a72e/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260905130500 +0000" stop="20260905135000 +0000">
-    <title lang="en">House of Lords</title>
-    <desc lang="en">Coverage of a debate in the House of Lords.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/cb724ff5-57c3-4d4d-8dd2-427785c6ed5f/cover"/>
+  <programme channel="BBCParliament.uk" start="20260905134000 +0000" stop="20260905170500 +0000">
+    <title lang="en">Prime Minister's Statement on Government Priorities</title>
+    <desc lang="en">Coverage of a statement in the House of Commons by Andy Burnham, the prime minister, on the government's priorities, on Tuesday 1 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/65714a5a-232b-4a74-856f-3bf4eda96c73/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260905135000 +0000" stop="20260905143500 +0000">
-    <title lang="en">Scottish Parliament</title>
-    <desc lang="en">Coverage of a statement in the Scottish Parliament.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/2e6a81a5-c690-4350-ad17-14bb078d20b1/cover"/>
+  <programme channel="BBCParliament.uk" start="20260905170500 +0000" stop="20260905183000 +0000">
+    <title lang="en">Lords Built Environment Committee on New Towns</title>
+    <desc lang="en">Coverage of the Lords Built Environment committee session on the construction of new towns, from Tuesday 1 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a9dade29-b8c0-4ec3-bac5-61939d51ed8b/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260905143500 +0000" stop="20260905152000 +0000">
-    <title lang="en">House of Lords</title>
-    <desc lang="en">Coverage of a private notice question in the House of Lords.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/48a695d7-1f14-4c22-a395-c2ecb7e58aab/cover"/>
+  <programme channel="BBCParliament.uk" start="20260905183000 +0000" stop="20260905200000 +0000">
+    <title lang="en">Sporting Events Bill</title>
+    <desc lang="en">A debate on the second reading of the Sporting Events Bill, from Wednesday 2 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/4b2a6d07-19ef-4755-9149-5183e29dae1c/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260905152000 +0000" stop="20260905160500 +0000">
-    <title lang="en">House of Commons</title>
-    <desc lang="en">Coverage of an urgent question in the House of Commons.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1b410025-ac50-4f46-b2a5-fb36d20ed977/cover"/>
+  <programme channel="BBCParliament.uk" start="20260905200000 +0000" stop="20260905204000 +0000">
+    <title lang="en">North Sea Oil and Gas Urgent Question</title>
+    <desc lang="en">An urgent question on the future of the Jackdaw and Rosebank oil and gas field projects.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/581b6edb-f1cd-4fdf-8c04-5ecc5ed76021/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260905160500 +0000" stop="20260905170000 +0000">
-    <title lang="en">House of Lords</title>
-    <desc lang="en">Coverage of a debate in the House of Lords.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/cb724ff5-57c3-4d4d-8dd2-427785c6ed5f/cover"/>
+  <programme channel="BBCParliament.uk" start="20260905204000 +0000" stop="20260905223500 +0000">
+    <title lang="en">Scottish Parliament -...</title>
+    <desc lang="en">...Eradicating Child Poverty Debate. A debate on the government's aim of eradicating child poverty, on Thursday 3 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/08b90cb5-be2a-480b-8040-1aab394f5d30/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260905170000 +0000" stop="20260905235500 +0000">
-    <title lang="en">Select Committees</title>
-    <desc lang="en">Recorded coverage of select committee proceedings.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f56012ed-bf46-4281-8d07-77977e905d60/cover"/>
+  <programme channel="BBCParliament.uk" start="20260905223500 +0000" stop="20260905233500 +0000">
+    <title lang="en">Criminal Justice Reform Statement</title>
+    <desc lang="en">Coverage of the statement in the House of Commons by justice secretary Alex Norris on criminal justice reform and the prisoner release scheme for England and Wales, on Tuesday 1 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/e015d03b-93ca-4086-9aba-8c0d099ff82c/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260905235500 +0000" stop="20260906003000 +0000">
+  <programme channel="BBCParliament.uk" start="20260905233500 +0000" stop="20260906002000 +0000">
     <title lang="en">Prime Minister's Questions</title>
     <desc lang="en">Coverage of questions in the House of Commons to Andy Burnham, the prime minister, on Wednesday 2 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f878e43f-8d1e-45a2-a3d6-61e225503b7c/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260906003000 +0000" stop="20260906010000 +0000">
+  <programme channel="BBCParliament.uk" start="20260906002000 +0000" stop="20260906010000 +0000">
     <title lang="en">Scottish First Minister's Questions</title>
     <desc lang="en">Questions in the Scottish Parliament from backbench MSPs to John Swinney, the first minister, on Tuesday 1 September.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/4c5dbed4-1edb-4855-a83d-ae448a50f145/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/2ded4695-847f-4b7f-a09e-62e918c676bc/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260906010000 +0000" stop="20260906013000 +0000">
+  <programme channel="BBCParliament.uk" start="20260906010000 +0000" stop="20260906013500 +0000">
     <title lang="en">Scottish First Minister's Questions</title>
     <desc lang="en">Questions in the Scottish Parliament from party leaders to John Swinney, the first minister, on Thursday 3 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/368b20c6-98a1-44d8-8ec3-cf5f6a6f687e/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260906013000 +0000" stop="20260906023000 +0000">
+  <programme channel="BBCParliament.uk" start="20260906013500 +0000" stop="20260906023500 +0000">
     <title lang="en">Foreign, Commonwealth and...</title>
     <desc lang="en">...Development Office Questions. Coverage of questions in the House of Commons to Ed Miliband, the foreign secretary, and his team of ministers on Tuesday 1 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/129035c1-9afd-490c-bf62-9e861504e652/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260906023000 +0000" stop="20260906030000 +0000">
+  <programme channel="BBCParliament.uk" start="20260906023500 +0000" stop="20260906030500 +0000">
     <title lang="en">Wales Office Questions</title>
     <desc lang="en">Coverage of questions in the House of Commons to Stephen Kinnock, the Welsh secretary, and his team of ministers on Wednesday 2 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/db205625-7e07-31cf-81d8-72a255102c6c/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260906030000 +0000" stop="20260906034000 +0000">
+  <programme channel="BBCParliament.uk" start="20260906030500 +0000" stop="20260906034500 +0000">
     <title lang="en">Digital, Culture, Media and Sport Questions</title>
     <desc lang="en">Coverage of questions in the House of Commons to Lisa Nandy, the digital, culture, media and sport secretary, and her team of ministers on Thursday 3 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/439e2332-b42b-440e-8829-815f6ae11870/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260906034000 +0000" stop="20260906040000 +0000">
+  <programme channel="BBCParliament.uk" start="20260906034500 +0000" stop="20260906041000 +0000">
     <title lang="en">Commissioners Questions</title>
     <desc lang="en">Coverage of Commissioners Questions in the House of Commons, on Thursday 3 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9e782d96-6b0c-333b-a3ce-9c698c553dc7/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260906040000 +0000" stop="20260906050000 +0000">
+  <programme channel="BBCParliament.uk" start="20260906041000 +0000" stop="20260906053000 +0000">
     <title lang="en">Commons Business Questions</title>
     <desc lang="en">Coverage of the announcement of future Commons business and questions to Alan Campbell, the leader of the Commons, on Thursday 3 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/98b7b6ac-9406-4742-b157-66b45e00903e/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260906050000 +0000" stop="20260906100000 +0000">
+  <programme channel="BBCParliament.uk" start="20260906053000 +0000" stop="20260906094500 +0000">
     <title lang="en">Westminster Hall</title>
-    <desc lang="en">House of Commons proceedings in Westminster Hall, from Wednesday 2 September.</desc>
+    <desc lang="en">House of Commons proceedings in Westminster Hall, including a debate on the impact of the 2016 EU membership referendum on the UK, from Wednesday 2 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/18815010-5499-42b4-bf99-a13aa84ce344/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260906100000 +0000" stop="20260906105500 +0000">
-    <title lang="en">House of Lords</title>
-    <desc lang="en">Coverage of a debate in the House of Lords.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/cb724ff5-57c3-4d4d-8dd2-427785c6ed5f/cover"/>
+  <programme channel="BBCParliament.uk" start="20260906094500 +0000" stop="20260906121000 +0000">
+    <title lang="en">Scottish Parliament - Programme for Government</title>
+    <desc lang="en">Statement on the Scottish government's legislative priorities and the following debate.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ed3419f3-8c07-4cdf-90c0-65bf5e70a02e/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260906105500 +0000" stop="20260906114000 +0000">
-    <title lang="en">House of Commons</title>
-    <desc lang="en">Coverage of a statement in the House of Commons.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/20a50a2c-7ea8-4ea1-976e-b265766f6bc5/cover"/>
+  <programme channel="BBCParliament.uk" start="20260906121000 +0000" stop="20260906144000 +0000">
+    <title lang="en">House of Lords - Government Political Priorities</title>
+    <desc lang="en">Coverage of a debate in the House of Lords on the government's political priorities and legislative agenda, on Thursday 3 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7103fa05-4616-4352-8a84-f39e6bf0ddd2/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260906114000 +0000" stop="20260906122500 +0000">
-    <title lang="en">House of Lords</title>
-    <desc lang="en">Coverage of a private notice question in the House of Lords.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/48a695d7-1f14-4c22-a395-c2ecb7e58aab/cover"/>
+  <programme channel="BBCParliament.uk" start="20260906144000 +0000" stop="20260906150000 +0000">
+    <title lang="en">House of Lords - Nepal Private Notice Question</title>
+    <desc lang="en">Coverage of a private notice question in the House of Lords on government support for Nepal following the flooding, on Tuesday 1 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/49b75bf8-8408-4e07-9007-44160949575c/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260906122500 +0000" stop="20260906131000 +0000">
-    <title lang="en">Scottish Parliament</title>
-    <desc lang="en">Coverage of a statement in the Scottish Parliament.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/2e6a81a5-c690-4350-ad17-14bb078d20b1/cover"/>
-  </programme>
-  <programme channel="BBCParliament.uk" start="20260906131000 +0000" stop="20260906135500 +0000">
-    <title lang="en">House of Lords</title>
-    <desc lang="en">Coverage of a debate in the House of Lords.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/cb724ff5-57c3-4d4d-8dd2-427785c6ed5f/cover"/>
-  </programme>
-  <programme channel="BBCParliament.uk" start="20260906135500 +0000" stop="20260906144000 +0000">
-    <title lang="en">House of Commons</title>
-    <desc lang="en">Coverage of an urgent question in the House of Commons.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1b410025-ac50-4f46-b2a5-fb36d20ed977/cover"/>
-  </programme>
-  <programme channel="BBCParliament.uk" start="20260906144000 +0000" stop="20260906152500 +0000">
-    <title lang="en">House of Lords</title>
-    <desc lang="en">Coverage of a statement in the House of Lords.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/6fa55f46-0a34-4357-8dff-76194a60041e/cover"/>
-  </programme>
-  <programme channel="BBCParliament.uk" start="20260906152500 +0000" stop="20260906160000 +0000">
+  <programme channel="BBCParliament.uk" start="20260906150000 +0000" stop="20260906154500 +0000">
     <title lang="en">Prime Minister's Questions</title>
     <desc lang="en">Coverage of questions in the House of Commons to Andy Burnham, the prime minister, on Wednesday 2 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f878e43f-8d1e-45a2-a3d6-61e225503b7c/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260906160000 +0000" stop="20260906163000 +0000">
+  <programme channel="BBCParliament.uk" start="20260906154500 +0000" stop="20260906162500 +0000">
     <title lang="en">Scottish First Minister's Questions</title>
     <desc lang="en">Questions in the Scottish Parliament from backbench MSPs to John Swinney, the first minister, on Tuesday 1 September.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/4c5dbed4-1edb-4855-a83d-ae448a50f145/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/7c366100-1947-4eb5-a4b6-ed528da49cb2/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260906163000 +0000" stop="20260906170000 +0000">
+  <programme channel="BBCParliament.uk" start="20260906162500 +0000" stop="20260906170000 +0000">
     <title lang="en">Scottish First Minister's Questions</title>
     <desc lang="en">Questions in the Scottish Parliament from party leaders to John Swinney, the first minister, on Thursday 3 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/368b20c6-98a1-44d8-8ec3-cf5f6a6f687e/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260906170000 +0000" stop="20260906235500 +0000">
-    <title lang="en">Select Committees</title>
-    <desc lang="en">Recorded coverage of select committee proceedings.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3f822048-7427-4075-922d-0bbeaaa97bb3/cover"/>
+  <programme channel="BBCParliament.uk" start="20260906170000 +0000" stop="20260906183000 +0000">
+    <title lang="en">Lords Domestic Abuse Act Committee</title>
+    <desc lang="en">Coverage of the Lords Domestic Abuse Act 2021 committee evidence session on the effectiveness of the legislation, from Thursday 3 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/745ce668-539e-40f6-869a-d70785219214/cover"/>
   </programme>
-  <programme channel="BBCRedButton1.uk" start="20260903170000 +0000" stop="20260903220000 +0000">
-    <title lang="en">The Story So Far: The Best of, Part 4</title>
-    <desc lang="en">The best of Ali Plumb's Story So Far programmes. Part 4.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/7b5e9534-9179-4315-974f-a55bf6ed8f78/cover"/>
+  <programme channel="BBCParliament.uk" start="20260906183000 +0000" stop="20260906203000 +0000">
+    <title lang="en">House of Lords - Ageing Society Debate</title>
+    <desc lang="en">Coverage of a debate in the House of Lords on the report from the Lords Economic Affairs committee on 'preparing for an ageing society', on Friday 4 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/17f45af6-e77b-4a4c-bb3a-29ef3ff24b22/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260906203000 +0000" stop="20260906215000 +0000">
+    <title lang="en">Rewiring the State Statement</title>
+    <desc lang="en">Coverage of a statement in the House of Commons on 'rewiring the state', with Louise Haigh, first secretary of state, on Wednesday 2 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/688e101a-ed7b-488a-a6c5-4a09057135f1/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260906215000 +0000" stop="20260906232000 +0000">
+    <title lang="en">House of Lords - Social Mobility Debate</title>
+    <desc lang="en">Debate on the report on 'Social mobility: local roots, lasting change', on 4 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/b646e76f-dcd6-4256-bddb-d4d0cd7a1343/cover"/>
   </programme>
   <programme channel="BBCRedButton1.uk" start="20260903220000 +0000" stop="20260903223000 +0000">
     <title lang="en">International Women's Cricket:...</title>
@@ -18974,17 +18877,17 @@
     <episode-num system="xmltv_ns">17.0.0</episode-num>
     <episode-num system="onscreen">S18E1</episode-num>
   </programme>
-  <programme channel="BBCTwoEngland.uk" start="20260904143000 +0000" stop="20260904160000 +0000">
+  <programme channel="BBCTwoEngland.uk" start="20260904143000 +0000" stop="20260904150000 +0000">
+    <title lang="en">The Wonder of Animals</title>
+    <desc lang="en">7/12. Chris Packham explores what makes animal groups successful. He looks at how the great ape's brain has been adapted by its anatomy, ingenuity and sociability.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/b2c9c540-14df-4615-b220-16a825c8ab70/cover"/>
+    <episode-num system="xmltv_ns">0.6.0</episode-num>
+    <episode-num system="onscreen">S1E7</episode-num>
+  </programme>
+  <programme channel="BBCTwoEngland.uk" start="20260904150000 +0000" stop="20260904170000 +0000">
     <title lang="en">Politics Live</title>
     <desc lang="en">The big political issues of the day.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/de4c41c8-120f-4f13-bd10-666c1e5afedc/cover"/>
-  </programme>
-  <programme channel="BBCTwoEngland.uk" start="20260904160000 +0000" stop="20260904170000 +0000">
-    <title lang="en">Flog It!</title>
-    <desc lang="en">Paul Martin and antiques experts Michael Baggott and Anita Manning find some real gems among the bags and boxes at the RAF Museum at Hendon in London.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d99b0d55-644f-336c-a20a-46b8c7aefd4b/cover"/>
-    <episode-num system="xmltv_ns">13.27.0</episode-num>
-    <episode-num system="onscreen">S14E28</episode-num>
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20260904170000 +0000" stop="20260904173000 +0000">
     <title lang="en">Richard Osman's House of Games</title>
@@ -19414,17 +19317,17 @@
     <episode-num system="xmltv_ns">17.0.0</episode-num>
     <episode-num system="onscreen">S18E1</episode-num>
   </programme>
-  <programme channel="BBCTwoHD.uk" start="20260904143000 +0000" stop="20260904160000 +0000">
+  <programme channel="BBCTwoHD.uk" start="20260904143000 +0000" stop="20260904150000 +0000">
+    <title lang="en">The Wonder of Animals</title>
+    <desc lang="en">7/12. Chris Packham explores what makes animal groups successful. He looks at how the great ape's brain has been adapted by its anatomy, ingenuity and sociability.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/b2c9c540-14df-4615-b220-16a825c8ab70/cover"/>
+    <episode-num system="xmltv_ns">0.6.0</episode-num>
+    <episode-num system="onscreen">S1E7</episode-num>
+  </programme>
+  <programme channel="BBCTwoHD.uk" start="20260904150000 +0000" stop="20260904170000 +0000">
     <title lang="en">Politics Live</title>
     <desc lang="en">The big political issues of the day.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/de4c41c8-120f-4f13-bd10-666c1e5afedc/cover"/>
-  </programme>
-  <programme channel="BBCTwoHD.uk" start="20260904160000 +0000" stop="20260904170000 +0000">
-    <title lang="en">Flog It!</title>
-    <desc lang="en">Paul Martin and antiques experts Michael Baggott and Anita Manning find some real gems among the bags and boxes at the RAF Museum at Hendon in London.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d99b0d55-644f-336c-a20a-46b8c7aefd4b/cover"/>
-    <episode-num system="xmltv_ns">13.27.0</episode-num>
-    <episode-num system="onscreen">S14E28</episode-num>
   </programme>
   <programme channel="BBCTwoHD.uk" start="20260904170000 +0000" stop="20260904173000 +0000">
     <title lang="en">Richard Osman's House of Games</title>
@@ -19854,17 +19757,17 @@
     <episode-num system="xmltv_ns">17.0.0</episode-num>
     <episode-num system="onscreen">S18E1</episode-num>
   </programme>
-  <programme channel="BBCTwoNorthernIreland.uk" start="20260904143000 +0000" stop="20260904160000 +0000">
+  <programme channel="BBCTwoNorthernIreland.uk" start="20260904143000 +0000" stop="20260904150000 +0000">
+    <title lang="en">The Wonder of Animals</title>
+    <desc lang="en">7/12. Chris Packham explores what makes animal groups successful. He looks at how the great ape's brain has been adapted by its anatomy, ingenuity and sociability.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/b2c9c540-14df-4615-b220-16a825c8ab70/cover"/>
+    <episode-num system="xmltv_ns">0.6.0</episode-num>
+    <episode-num system="onscreen">S1E7</episode-num>
+  </programme>
+  <programme channel="BBCTwoNorthernIreland.uk" start="20260904150000 +0000" stop="20260904170000 +0000">
     <title lang="en">Politics Live</title>
     <desc lang="en">The big political issues of the day.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/de4c41c8-120f-4f13-bd10-666c1e5afedc/cover"/>
-  </programme>
-  <programme channel="BBCTwoNorthernIreland.uk" start="20260904160000 +0000" stop="20260904170000 +0000">
-    <title lang="en">Flog It!</title>
-    <desc lang="en">Paul Martin and antiques experts Michael Baggott and Anita Manning find some real gems among the bags and boxes at the RAF Museum at Hendon in London.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d99b0d55-644f-336c-a20a-46b8c7aefd4b/cover"/>
-    <episode-num system="xmltv_ns">13.27.0</episode-num>
-    <episode-num system="onscreen">S14E28</episode-num>
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20260904170000 +0000" stop="20260904173000 +0000">
     <title lang="en">Richard Osman's House of Games</title>
@@ -20301,17 +20204,17 @@
     <episode-num system="xmltv_ns">17.0.0</episode-num>
     <episode-num system="onscreen">S18E1</episode-num>
   </programme>
-  <programme channel="BBCTwoWales.uk" start="20260904143000 +0000" stop="20260904160000 +0000">
+  <programme channel="BBCTwoWales.uk" start="20260904143000 +0000" stop="20260904150000 +0000">
+    <title lang="en">The Wonder of Animals</title>
+    <desc lang="en">7/12. Chris Packham explores what makes animal groups successful. He looks at how the great ape's brain has been adapted by its anatomy, ingenuity and sociability.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/b2c9c540-14df-4615-b220-16a825c8ab70/cover"/>
+    <episode-num system="xmltv_ns">0.6.0</episode-num>
+    <episode-num system="onscreen">S1E7</episode-num>
+  </programme>
+  <programme channel="BBCTwoWales.uk" start="20260904150000 +0000" stop="20260904170000 +0000">
     <title lang="en">Politics Live</title>
     <desc lang="en">The big political issues of the day.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/de4c41c8-120f-4f13-bd10-666c1e5afedc/cover"/>
-  </programme>
-  <programme channel="BBCTwoWales.uk" start="20260904160000 +0000" stop="20260904170000 +0000">
-    <title lang="en">Flog It!</title>
-    <desc lang="en">Paul Martin and antiques experts Michael Baggott and Anita Manning find some real gems among the bags and boxes at the RAF Museum at Hendon in London.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d99b0d55-644f-336c-a20a-46b8c7aefd4b/cover"/>
-    <episode-num system="xmltv_ns">13.27.0</episode-num>
-    <episode-num system="onscreen">S14E28</episode-num>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20260904170000 +0000" stop="20260904173000 +0000">
     <title lang="en">Richard Osman's House of Games</title>
@@ -21567,7 +21470,9 @@
   <programme channel="BloombergTVEurope.uk" start="20260905003000 +0000" stop="20260905010000 +0000">
     <title lang="en">Leaders with Francine Lacqua: The Podcast</title>
     <desc lang="en">HSBC CEO Georges Elhedery reflects on leadership, integrity and cultural fluency, and shares how HSBC is adapting to geopolitical tensions, shifting trade routes and AI. S1, Ep2</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/eadfc208-0995-4590-966d-68735418c941/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/f151e11d-29a3-451b-8060-218ec19c3701/cover"/>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20260905010000 +0000" stop="20260905013000 +0000">
     <title lang="en">The David Rubenstein Show</title>
@@ -21697,7 +21602,7 @@
   <programme channel="BloombergTVEurope.uk" start="20260905200000 +0000" stop="20260905203000 +0000">
     <title lang="en">Leaders with Francine Lacqua: The Podcast</title>
     <desc lang="en">Melinda French Gates reflects on the choices that set her path, from Microsoft executive to philanthropist and now founder of Pivotal. S1, Ep1</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0a0ae409-e027-4f62-b4a2-c1649275a5ff/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/40399b00-88ec-4b8d-bbeb-70f822d291b8/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20260905203000 +0000" stop="20260905210000 +0000">
     <title lang="en">Bloomberg Primer</title>
@@ -24572,7 +24477,7 @@
   </programme>
   <programme channel="Channel4.uk" start="20260904180000 +0000" stop="20260904190000 +0000">
     <title lang="en">Channel 4 News</title>
-    <desc lang="en">Channel 4's flagship news programme. Including the weather.</desc>
+    <desc lang="en">We speak to leading Reform politician Nadine Dorries after two senior Reform UK officials step down in the wake of a Channel 4 News undercover investigation into party donations.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ede2a512-62c0-4589-b5e9-ced99a6bc188/cover"/>
   </programme>
   <programme channel="Channel4.uk" start="20260904190000 +0000" stop="20260904200000 +0000">
@@ -25243,7 +25148,7 @@
   </programme>
   <programme channel="Channel4Plus1.uk" start="20260904190000 +0000" stop="20260904200000 +0000">
     <title lang="en">Channel 4 News</title>
-    <desc lang="en">Channel 4's flagship news programme. Including the weather.</desc>
+    <desc lang="en">We speak to leading Reform politician Nadine Dorries after two senior Reform UK officials step down in the wake of a Channel 4 News undercover investigation into party donations.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ede2a512-62c0-4589-b5e9-ced99a6bc188/cover"/>
   </programme>
   <programme channel="Channel4Plus1.uk" start="20260904200000 +0000" stop="20260904210000 +0000">
@@ -26027,17 +25932,20 @@
     <episode-num system="xmltv_ns">1.3.0</episode-num>
     <episode-num system="onscreen">S2E4</episode-num>
   </programme>
-  <programme channel="Channel5Plus1.uk" start="20260905041500 +0000" stop="20260905050300 +0000">
-    <title lang="en">**Visually Signed** Yorkshire with Jane McDonald</title>
-    <desc lang="en">Jane starts out in Hawes, the pretty market town of Upper Wensleydale in the Yorkshire Dales National Park, where she visits an old-fashioned sweet shop. (VS)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/6189060e-a980-4793-83ef-89ec704b8663/cover"/>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
-  <programme channel="Channel5Plus1.uk" start="20260905050300 +0000" stop="20260905051500 +0000">
+  <programme channel="Channel5Plus1.uk" start="20260905041500 +0000" stop="20260905044500 +0000">
     <title lang="en">This is Channel 5 +1</title>
     <desc lang="en">This is Channel 5 +1</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/7db22b7c-f17f-4d4c-9aca-257182a67af7/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/b6d15847-3a98-44f3-b9df-7fcd2a26d31d/cover"/>
+  </programme>
+  <programme channel="Channel5Plus1.uk" start="20260905044500 +0000" stop="20260905050000 +0000">
+    <title lang="en">This is Channel 5 +1</title>
+    <desc lang="en">This is Channel 5 +1</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8200db90-4021-4dfc-8493-64f453f5510b/cover"/>
+  </programme>
+  <programme channel="Channel5Plus1.uk" start="20260905050000 +0000" stop="20260905051500 +0000">
+    <title lang="en">Entertainment News on 5</title>
+    <desc lang="en">A daily round-up of showbiz news and gossip from around the world, focusing on celebrities, movies, music and entertainment.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/c7bd3fd4-115d-4da9-8532-827d3794446d/cover"/>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20260905051500 +0000" stop="20260905052500 +0000">
     <title lang="en">**Visually Signed** Ben and Holly's Little Kingdom</title>
@@ -26163,16 +26071,16 @@
     <episode-num system="xmltv_ns">7.44.0</episode-num>
     <episode-num system="onscreen">S8E45</episode-num>
   </programme>
-  <programme channel="Channel5Plus1.uk" start="20260905080000 +0000" stop="20260905081000 +0000">
+  <programme channel="Channel5Plus1.uk" start="20260905080000 +0000" stop="20260905081500 +0000">
     <title lang="en">Animal Care Club</title>
     <desc lang="en">The Cadets visit The Donkey Sanctuary in Devon, where they make a whirligig toy with snacks for Rupert and Jericho, check Wonky the donkey's teeth, and give Toby a groom.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3ee112e1-8cac-4084-81de-7a0365b24f15/cover"/>
     <episode-num system="xmltv_ns">1.15.0</episode-num>
     <episode-num system="onscreen">S2E16</episode-num>
   </programme>
-  <programme channel="Channel5Plus1.uk" start="20260905081000 +0000" stop="20260905082500 +0000">
+  <programme channel="Channel5Plus1.uk" start="20260905081500 +0000" stop="20260905082500 +0000">
     <title lang="en">The Creature Cases</title>
-    <desc lang="en">Sam and Kit investigate strange reports of a rampaging 'dinosaur' in the wetlands, but there's more to the mysterious creature than meets the eye.</desc>
+    <desc lang="en">Sam and Kit must get a lost silver ant back home before she overheats. While silver ants may be adapted to survive the heat, they can't last forever!</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4bd95f3c-e337-4896-812c-674f0f33aa90/cover"/>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20260905082500 +0000" stop="20260905083500 +0000">
@@ -26227,15 +26135,16 @@
     <icon src="https://images.metadata.sky.com/pd-image/8bfcf05f-04de-416f-99d8-a3256442b956/cover"/>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20260905114500 +0000" stop="20260905124500 +0000">
-    <title lang="en">The Royals Uncensored:...</title>
+    <title lang="en">New: The Royals Uncensored:...</title>
     <desc lang="en">...What's Harry Up To? Harry and Meghan are on UK soil, but are they just here to cause trouble? And which royal noses are most out of joint? Katie Nicholl and Jo Elvin discuss.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a717570c-565d-45d8-8e36-5441a17bc894/cover"/>
+    <premiere/>
     <episode-num system="xmltv_ns">0.10.0</episode-num>
     <episode-num system="onscreen">S1E11</episode-num>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20260905124500 +0000" stop="20260905163000 +0000">
     <title lang="en">Live Snooker: British Open Semi Finals</title>
-    <desc lang="en">Live coverage of the first Semi Final of the British Open from Cheltenham. The final four players compete over the best of 11 frames for a place in Sunday's showpiece Final.</desc>
+    <desc lang="en">4-time World Champion Mark Selby takes on Liam Highfield, who has beaten Kyren Wilson and Stan Moody on his way to a first-ever ranking Semi Final, for a place in Sunday's Final.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9c0bea13-6f22-4d60-82e8-36f87ebdff78/cover"/>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20260905163000 +0000" stop="20260905172500 +0000">
@@ -26313,7 +26222,7 @@
   <programme channel="Channel5Plus1.uk" start="20260906050200 +0000" stop="20260906051500 +0000">
     <title lang="en">This is Channel 5 +1</title>
     <desc lang="en">This is Channel 5 +1</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/6ad1a2c1-8ced-4141-b068-d55c0da9939c/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/c3695bb1-ee4e-45a2-9c49-ecd71dfeeda6/cover"/>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20260906051500 +0000" stop="20260906052500 +0000">
     <title lang="en">**Visually Signed** Ben and Holly's Little Kingdom</title>
@@ -26500,7 +26409,7 @@
   </programme>
   <programme channel="Channel5Plus1.uk" start="20260906123000 +0000" stop="20260906163000 +0000">
     <title lang="en">Live Snooker: British Open Final</title>
-    <desc lang="en">Live coverage of the Final of the British Open, from the Centaur in Cheltenham. The finalists compete over 19 frames for the Ray Reardon trophy. Presented by Katie Shanahan.</desc>
+    <desc lang="en">Live coverage of the Final of the British Open, from the Centaur in Cheltenham. The finalists compete over 19 frames for the Clive Everton Trophy. Presented by Katie Shanahan.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/df94477d-7994-4de8-a02d-b145ef837845/cover"/>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20260906163000 +0000" stop="20260906173000 +0000">
@@ -26520,7 +26429,7 @@
   </programme>
   <programme channel="Channel5Plus1.uk" start="20260906184500 +0000" stop="20260906220000 +0000">
     <title lang="en">Live Snooker: British Open Final</title>
-    <desc lang="en">Live coverage of the conclusion of the Final of the British Open, from the Centaur in Cheltenham. The finalists compete over 19 frames for the Ray Reardon trophy. Presented by Katie Shanahan.</desc>
+    <desc lang="en">Live coverage of the conclusion of the Final of the British Open, from the Centaur in Cheltenham. The finalists compete over 19 frames for the Clive Everton Trophy. Presented by Katie Shanahan.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b28b201e-1ee8-42fd-a816-bda02b8eee42/cover"/>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20260906220000 +0000" stop="20260906230500 +0000">
@@ -43520,10 +43429,25 @@
     <desc lang="en">A selection of nine-dart finishes from ITV Sport's darts coverage - every darts player strives to produce one, and this prowess is even more impressive in front of the TV cameras.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/687a0abd-786f-48f3-800a-2fc7df9addc9/cover"/>
   </programme>
-  <programme channel="ITV4.uk" start="20260904092000 +0000" stop="20260904151500 +0000">
+  <programme channel="ITV4.uk" start="20260904092000 +0000" stop="20260904141000 +0000">
     <title lang="en">Cycling: Tour of Britain Live</title>
     <desc lang="en">Day 3 of the Tour of Britain is a 200.6km stage departing from Hull and heading along the East Coast, before returning back down to Beverley for the finish.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/377593de-f096-4ab0-904a-6f0a6cedaa20/cover"/>
+  </programme>
+  <programme channel="ITV4.uk" start="20260904141000 +0000" stop="20260904144500 +0000">
+    <title lang="en">Made in Britain</title>
+    <desc lang="en">Birds Eye Peas and Marbles: See how frozen peas get from field to freezer in a few hours, then learn about the labour of love that goes into creating beautiful handmade marbles.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/14e4bf8e-6036-4d34-928d-300aa75e36a2/cover"/>
+  </programme>
+  <programme channel="ITV4.uk" start="20260904144500 +0000" stop="20260904145500 +0000">
+    <title lang="en">Football League Legends</title>
+    <desc lang="en">A selection of goals from some of the superstars of the game - including Kevin Keegan and Paul Gascoigne - who played in the old First Division in the 1970s, 1980s and 1990s.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/fdfa41d5-57cd-44a7-aaf1-7ec1529a9aed/cover"/>
+  </programme>
+  <programme channel="ITV4.uk" start="20260904145500 +0000" stop="20260904151500 +0000">
+    <title lang="en">The Best of the 70s</title>
+    <desc lang="en">A look back at the wide variety of sports covered by ITV during the 1970s - from horse racing to table football and Formula One to darts - that includes many memorable moments.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/93babefb-8e4e-499a-8465-8647b4c42352/cover"/>
   </programme>
   <programme channel="ITV4.uk" start="20260904151500 +0000" stop="20260904154500 +0000">
     <title lang="en">River Monsters</title>
@@ -43844,10 +43768,25 @@
     <desc lang="en">A selection of nine-dart finishes from ITV Sport's darts coverage - every darts player strives to produce one, and this prowess is even more impressive in front of the TV cameras.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/687a0abd-786f-48f3-800a-2fc7df9addc9/cover"/>
   </programme>
-  <programme channel="ITV4Plus1.uk" start="20260904102000 +0000" stop="20260904161500 +0000">
+  <programme channel="ITV4Plus1.uk" start="20260904102000 +0000" stop="20260904151000 +0000">
     <title lang="en">Cycling: Tour of Britain Live</title>
     <desc lang="en">Day 3 of the Tour of Britain is a 200.6km stage departing from Hull and heading along the East Coast, before returning back down to Beverley for the finish.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/377593de-f096-4ab0-904a-6f0a6cedaa20/cover"/>
+  </programme>
+  <programme channel="ITV4Plus1.uk" start="20260904151000 +0000" stop="20260904154500 +0000">
+    <title lang="en">Made in Britain</title>
+    <desc lang="en">Birds Eye Peas and Marbles: See how frozen peas get from field to freezer in a few hours, then learn about the labour of love that goes into creating beautiful handmade marbles.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/4daf5151-3c2a-454f-afc9-e58f8e7dec3e/cover"/>
+  </programme>
+  <programme channel="ITV4Plus1.uk" start="20260904154500 +0000" stop="20260904155500 +0000">
+    <title lang="en">Football League Legends</title>
+    <desc lang="en">A selection of goals from some of the superstars of the game - including Kevin Keegan and Paul Gascoigne - who played in the old First Division in the 1970s, 1980s and 1990s.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/b3858f51-797b-400e-983d-2caf03f12e31/cover"/>
+  </programme>
+  <programme channel="ITV4Plus1.uk" start="20260904155500 +0000" stop="20260904161500 +0000">
+    <title lang="en">The Best of the 70s</title>
+    <desc lang="en">A look back at the wide variety of sports covered by ITV during the 1970s - from horse racing to table football and Formula One to darts - that includes many memorable moments.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f1f4c0ec-7ef0-496c-b493-c4ae3b665aa0/cover"/>
   </programme>
   <programme channel="ITV4Plus1.uk" start="20260904161500 +0000" stop="20260904164500 +0000">
     <title lang="en">River Monsters</title>
@@ -46289,10 +46228,10 @@
   </programme>
   <programme channel="SkyMix.uk" start="20260906120000 +0000" stop="20260906130000 +0000">
     <title lang="en">Caught On Dashcam</title>
-    <desc lang="en">Get ready for crazy police chases, hilarious stunts that go wrong, snow and ice causing mayhem, and heroic acts of rescue, all caught on camera. (S2, ep 2)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f23bb9e0-5030-4afe-97bf-de38a24465b4/cover"/>
-    <episode-num system="xmltv_ns">1.1.0</episode-num>
-    <episode-num system="onscreen">S2E2</episode-num>
+    <desc lang="en">From explosive driving mayhem to dare-devil bikers, and even chaotic landslides, we've got it all caught on camera. (S2, ep 4)</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8b8fb88c-d15b-4490-b695-7d820d1ff236/cover"/>
+    <episode-num system="xmltv_ns">1.3.0</episode-num>
+    <episode-num system="onscreen">S2E4</episode-num>
   </programme>
   <programme channel="SkyMix.uk" start="20260906130000 +0000" stop="20260906140000 +0000">
     <title lang="en">Police 24/7</title>
