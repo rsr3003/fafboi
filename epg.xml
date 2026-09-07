@@ -407,11 +407,6 @@
     <display-name lang="en">U&amp;Yesterday+1</display-name>
     <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/U%26YESTERDAYPlus1.png"></icon>
   </channel>
-  <programme channel="sky.main.uk" start="20260906180000 +0000" stop="20260906230000 +0000">
-    <title lang="en">Live: US Open Day 8</title>
-    <desc lang="en">Aryna Sabalenka, first up on Ashe, meets Taylor Townsend before the defending men's singles champion Carlos Alcaraz faces Tommy Paul. Home hopes Frances Tiafoe and Jess Pegula also feature.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/65db00a6-89a2-4e0b-8778-22a1340c0604/cover"/>
-  </programme>
   <programme channel="sky.main.uk" start="20260906230000 +0000" stop="20260907013000 +0000">
     <title lang="en">Live US Open: Shelton v Tsitsipas</title>
     <desc lang="en">American number eight seed Ben Shelton, a semi-finalist back in 2023, plays the resurgent Greek Stefanos Tsitsipas - competing in the last 16 at Flushing Meadows for the first time.</desc>
@@ -2013,11 +2008,6 @@
     <desc lang="en">Cardiff City play host to Stoke City at the Cardiff City Stadium in the Sky Bet Championship. (08.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5e9294a8-06d7-489f-adf7-fcadb38c5174/cover"/>
   </programme>
-  <programme channel="sky.tennis.uk" start="20260906143000 +0000" stop="20260906230000 +0000">
-    <title lang="en">Live: US Open Day 8</title>
-    <desc lang="en">Aryna Sabalenka, first up on Ashe, meets Taylor Townsend before the defending men's singles champion Carlos Alcaraz faces Tommy Paul. Home hopes Frances Tiafoe and Jess Pegula also feature.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/65db00a6-89a2-4e0b-8778-22a1340c0604/cover"/>
-  </programme>
   <programme channel="sky.tennis.uk" start="20260906230000 +0000" stop="20260907013000 +0000">
     <title lang="en">Live US Open: Shelton v Tsitsipas</title>
     <desc lang="en">American number eight seed Ben Shelton, a semi-finalist back in 2023, plays the resurgent Greek Stefanos Tsitsipas - competing in the last 16 at Flushing Meadows for the first time.</desc>
@@ -2968,11 +2958,6 @@
     <title lang="en">Sky Sports News</title>
     <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c06640c5-c831-4cb7-9e7e-6910210394a3/cover"/>
-  </programme>
-  <programme channel="sky.racing.uk" start="20260906170000 +0000" stop="20260907010000 +0000">
-    <title lang="en">Stateside Live</title>
-    <desc lang="en">Live US racing from Colonial Downs, Saratoga, Gulfstream, Woodbine, Del Mar, Monmouth, Kentucky Downs, Emerald Downs, Canterbury and Mountaineer.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f099e962-2707-4e67-934b-340944bd0820/cover"/>
   </programme>
   <programme channel="sky.racing.uk" start="20260907010000 +0000" stop="20260907050000 +0000">
     <title lang="en">Australian Racing Live</title>
@@ -4177,26 +4162,12 @@
     <desc lang="en">Action from round one of the BetVictor English Open 2026 as world number four Neil Robertson goes head-to-head with China's Zetao Luo.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/cbea4f67-c5ca-4a1a-80c2-0369117d3fc0/cover"/>
   </programme>
-  <programme channel="tnt1" start="20260907140000 +0000" stop="20260907160000 +0000">
+  <programme channel="tnt1" start="20260907140000 +0000" stop="20260907173000 +0000">
     <title lang="en">Live Snooker: English Open</title>
     <desc lang="en">Action from round one of the BetVictor English Open 2026 as world number eight Kyren Wilson takes on Poland's Mateusz Baranowski.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4364bd2b-2bf9-4c17-9d91-99eb4f85deac/cover"/>
   </programme>
-  <programme channel="tnt1" start="20260907160000 +0000" stop="20260907163000 +0000">
-    <title lang="en">The Football Archives: UCL 2011/12</title>
-    <desc lang="en">This episode of The Football Archives takes a look at the 2011/12 UEFA Champions League season. Bayern Munich were hoping to claim the crown on home soil.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/6171f3c2-396c-4464-a813-3e209c616c45/cover"/>
-    <episode-num system="xmltv_ns">2019.19.0</episode-num>
-    <episode-num system="onscreen">S2020E20</episode-num>
-  </programme>
-  <programme channel="tnt1" start="20260907163000 +0000" stop="20260907170000 +0000">
-    <title lang="en">PL Stories: Petr Cech</title>
-    <desc lang="en">We sit down with Chelsea legend Petr Cech to discuss his remarkable journey to the top, before discovering how his competitive drive has continued through ice hockey.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/65c393e3-8604-4f0b-99e5-0248d875399e/cover"/>
-    <episode-num system="xmltv_ns">5.13.0</episode-num>
-    <episode-num system="onscreen">S6E14</episode-num>
-  </programme>
-  <programme channel="tnt1" start="20260907170000 +0000" stop="20260907180000 +0000">
+  <programme channel="tnt1" start="20260907173000 +0000" stop="20260907180000 +0000">
     <title lang="en">Premier League Review</title>
     <desc lang="en">A look back at the best action from matchday three of the Premier League, including Newcastle v Bournemouth, Ipswich v Liverpool, Man City v Coventry, and Arsenal v Chelsea.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/933691d1-c6db-4552-b633-ca05cd0f7ee1/cover"/>
@@ -4403,7 +4374,7 @@
   </programme>
   <programme channel="tnt1" start="20260909140000 +0000" stop="20260909160000 +0000">
     <title lang="en">Live: Liverpool U19 v Atletico U19</title>
-    <desc lang="en">Action from the UEFA Youth League as Liverpool U19 and Atletico Madrid U19 face off at Kirkby Academy.</desc>
+    <desc lang="en">Liverpool U19 kick off their UEFA Youth League campaign as they face Atletico Madrid U19 at Kirkby Academy.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/439be451-c6e4-4cba-907e-f435c72b4b2a/cover"/>
   </programme>
   <programme channel="tnt1" start="20260909160000 +0000" stop="20260909163000 +0000">
@@ -4560,12 +4531,12 @@
   </programme>
   <programme channel="tnt2" start="20260907120000 +0000" stop="20260907123000 +0000">
     <title lang="en">CPL Highlights</title>
-    <desc lang="en">Highlights from the Caribbean Premier League as Guyana Amazon Warriors face St Kitts and Nevis Patriots.</desc>
+    <desc lang="en">Highlights from the Caribbean Premier League as Guyana Amazon Warriors put their unbeaten record on the line against St Kitts and Nevis Patriots at Providence Stadium.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0a46e930-dc2f-4527-8a23-81fa80bd2c8b/cover"/>
   </programme>
   <programme channel="tnt2" start="20260907123000 +0000" stop="20260907130000 +0000">
     <title lang="en">CPL Highlights</title>
-    <desc lang="en">Highlights from the Caribbean Premier League as Barbados Tridents meet Saint Lucia Kings.</desc>
+    <desc lang="en">Highlights from the Caribbean Premier League as Barbados Tridents meet Saint Lucia Kings at Kensington Oval.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6998b860-1c38-4ed0-ba96-c171ff734332/cover"/>
   </programme>
   <programme channel="tnt2" start="20260907130000 +0000" stop="20260907133000 +0000">
@@ -4710,7 +4681,7 @@
   </programme>
   <programme channel="tnt2" start="20260908144500 +0000" stop="20260908151500 +0000">
     <title lang="en">CPL Highlights</title>
-    <desc lang="en">Highlights from the Caribbean Premier League as Barbados Tridents meet Saint Lucia Kings.</desc>
+    <desc lang="en">Highlights from the Caribbean Premier League as Barbados Tridents meet Saint Lucia Kings at Kensington Oval.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6998b860-1c38-4ed0-ba96-c171ff734332/cover"/>
   </programme>
   <programme channel="tnt2" start="20260908151500 +0000" stop="20260908161500 +0000">
@@ -4754,17 +4725,17 @@
   </programme>
   <programme channel="tnt2" start="20260908213000 +0000" stop="20260908220000 +0000">
     <title lang="en">CPL Highlights</title>
-    <desc lang="en">Highlights from the Caribbean Premier League as Guyana Amazon Warriors face St Kitts and Nevis Patriots.</desc>
+    <desc lang="en">Highlights from the Caribbean Premier League as Guyana Amazon Warriors put their unbeaten record on the line against St Kitts and Nevis Patriots at Providence Stadium.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0a46e930-dc2f-4527-8a23-81fa80bd2c8b/cover"/>
   </programme>
   <programme channel="tnt2" start="20260908220000 +0000" stop="20260908223000 +0000">
     <title lang="en">CPL Highlights</title>
-    <desc lang="en">Highlights from the Caribbean Premier League as Barbados Tridents meet Saint Lucia Kings.</desc>
+    <desc lang="en">Highlights from the Caribbean Premier League as Barbados Tridents meet Saint Lucia Kings at Kensington Oval.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6998b860-1c38-4ed0-ba96-c171ff734332/cover"/>
   </programme>
   <programme channel="tnt2" start="20260908223000 +0000" stop="20260909024500 +0000">
     <title lang="en">Live CPL: Warriors v Falcons</title>
-    <desc lang="en">Action from the Caribbean Premier League as Guyana Amazon Warriors face Antigua and Barbuda Falcons.</desc>
+    <desc lang="en">Action from the Caribbean Premier League as the unbeaten Guyana Amazon Warriors face Moeen Ali's Antigua and Barbuda Falcons at Providence Stadium.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/94670ecb-d1f0-4780-80f8-3f5dc2ff8cdb/cover"/>
   </programme>
   <programme channel="tnt2" start="20260909024500 +0000" stop="20260909031500 +0000">
@@ -4829,7 +4800,7 @@
   </programme>
   <programme channel="tnt2" start="20260909103000 +0000" stop="20260909113000 +0000">
     <title lang="en">UEFA Champions League Highlights</title>
-    <desc lang="en">A round-up of all the goals from the UEFA Champions League.</desc>
+    <desc lang="en">A round-up of all the goals from Tuesday's UEFA Champions League fixtures, including Club Brugge v Aston Villa, Real Madrid v Inter, and Porto v Manchester City.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/026a0039-7ff3-410b-8dfc-18d3bcec014f/cover"/>
     <episode-num system="xmltv_ns">25.0.0</episode-num>
     <episode-num system="onscreen">S26E1</episode-num>
@@ -4843,17 +4814,17 @@
   </programme>
   <programme channel="tnt2" start="20260909121500 +0000" stop="20260909124500 +0000">
     <title lang="en">CPL Highlights</title>
-    <desc lang="en">Highlights from the Caribbean Premier League as Guyana Amazon Warriors meet Antigua and Barbuda Falcons.</desc>
+    <desc lang="en">Highlights from the Caribbean Premier League as Imran Tahir's Guyana Amazon Warriors meet Mooen Ali's Antigua and Barbuda Falcons.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f5608883-419e-47bd-a861-2e162fb6c61f/cover"/>
   </programme>
   <programme channel="tnt2" start="20260909124500 +0000" stop="20260909163000 +0000">
     <title lang="en">Live ETPL: Dublin v Belfast</title>
-    <desc lang="en">Action from the European T20 Premier League as Dublin Guardians face Belfast Wolves.</desc>
+    <desc lang="en">Action from the European T20 Premier League as Ravichandran Ashwin's Dublin Guardians face Glenn Maxwell's Belfast Wolves at Malahide Cricket Club.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/68fd2e6c-974c-4c8c-b134-a7161296e2a0/cover"/>
   </programme>
   <programme channel="tnt2" start="20260909163000 +0000" stop="20260909170000 +0000">
     <title lang="en">CPL Highlights</title>
-    <desc lang="en">Highlights from the Caribbean Premier League as Guyana Amazon Warriors meet Antigua and Barbuda Falcons.</desc>
+    <desc lang="en">Highlights from the Caribbean Premier League as Imran Tahir's Guyana Amazon Warriors meet Mooen Ali's Antigua and Barbuda Falcons.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f5608883-419e-47bd-a861-2e162fb6c61f/cover"/>
   </programme>
   <programme channel="tnt2" start="20260909170000 +0000" stop="20260909173000 +0000">
@@ -4884,12 +4855,12 @@
   </programme>
   <programme channel="tnt2" start="20260909220000 +0000" stop="20260909223000 +0000">
     <title lang="en">CPL Highlights</title>
-    <desc lang="en">Highlights from the Caribbean Premier League as Guyana Amazon Warriors meet Antigua and Barbuda Falcons.</desc>
+    <desc lang="en">Highlights from the Caribbean Premier League as Imran Tahir's Guyana Amazon Warriors meet Mooen Ali's Antigua and Barbuda Falcons.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f5608883-419e-47bd-a861-2e162fb6c61f/cover"/>
   </programme>
   <programme channel="tnt2" start="20260909223000 +0000" stop="20260910024500 +0000">
     <title lang="en">Live CPL: Warriors v Kings</title>
-    <desc lang="en">Action from the Caribbean Premier League as Guyana Amazon Warriors take on Saint Lucia Kings.</desc>
+    <desc lang="en">Action from the Caribbean Premier League as Imran Tahir's Guyana Amazon Warriors take on Roston Chase's Saint Lucia Kings at Providence Stadium.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/97aa161f-bb70-44ba-9f8f-fd5ec2caa4b9/cover"/>
   </programme>
   <programme channel="tnt3" start="20260906200000 +0000" stop="20260906221500 +0000">
@@ -4999,12 +4970,12 @@
   </programme>
   <programme channel="tnt3" start="20260907150000 +0000" stop="20260907153000 +0000">
     <title lang="en">CPL Highlights</title>
-    <desc lang="en">Highlights from the Caribbean Premier League as Guyana Amazon Warriors face St Kitts and Nevis Patriots.</desc>
+    <desc lang="en">Highlights from the Caribbean Premier League as Guyana Amazon Warriors put their unbeaten record on the line against St Kitts and Nevis Patriots at Providence Stadium.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0a46e930-dc2f-4527-8a23-81fa80bd2c8b/cover"/>
   </programme>
   <programme channel="tnt3" start="20260907153000 +0000" stop="20260907160000 +0000">
     <title lang="en">CPL Highlights</title>
-    <desc lang="en">Highlights from the Caribbean Premier League as Barbados Tridents meet Saint Lucia Kings.</desc>
+    <desc lang="en">Highlights from the Caribbean Premier League as Barbados Tridents meet Saint Lucia Kings at Kensington Oval.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6998b860-1c38-4ed0-ba96-c171ff734332/cover"/>
   </programme>
   <programme channel="tnt3" start="20260907160000 +0000" stop="20260907163000 +0000">
@@ -5057,12 +5028,12 @@
   </programme>
   <programme channel="tnt3" start="20260908000000 +0000" stop="20260908003000 +0000">
     <title lang="en">CPL Highlights</title>
-    <desc lang="en">Highlights from the Caribbean Premier League as Guyana Amazon Warriors face St Kitts and Nevis Patriots.</desc>
+    <desc lang="en">Highlights from the Caribbean Premier League as Guyana Amazon Warriors put their unbeaten record on the line against St Kitts and Nevis Patriots at Providence Stadium.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0a46e930-dc2f-4527-8a23-81fa80bd2c8b/cover"/>
   </programme>
   <programme channel="tnt3" start="20260908003000 +0000" stop="20260908010000 +0000">
     <title lang="en">CPL Highlights</title>
-    <desc lang="en">Highlights from the Caribbean Premier League as Barbados Tridents meet Saint Lucia Kings.</desc>
+    <desc lang="en">Highlights from the Caribbean Premier League as Barbados Tridents meet Saint Lucia Kings at Kensington Oval.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6998b860-1c38-4ed0-ba96-c171ff734332/cover"/>
   </programme>
   <programme channel="tnt3" start="20260908010000 +0000" stop="20260908020000 +0000">
@@ -5089,12 +5060,12 @@
   </programme>
   <programme channel="tnt3" start="20260908060000 +0000" stop="20260908063000 +0000">
     <title lang="en">CPL Highlights</title>
-    <desc lang="en">Highlights from the Caribbean Premier League as Guyana Amazon Warriors face St Kitts and Nevis Patriots.</desc>
+    <desc lang="en">Highlights from the Caribbean Premier League as Guyana Amazon Warriors put their unbeaten record on the line against St Kitts and Nevis Patriots at Providence Stadium.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0a46e930-dc2f-4527-8a23-81fa80bd2c8b/cover"/>
   </programme>
   <programme channel="tnt3" start="20260908063000 +0000" stop="20260908070000 +0000">
     <title lang="en">CPL Highlights</title>
-    <desc lang="en">Highlights from the Caribbean Premier League as Barbados Tridents meet Saint Lucia Kings.</desc>
+    <desc lang="en">Highlights from the Caribbean Premier League as Barbados Tridents meet Saint Lucia Kings at Kensington Oval.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6998b860-1c38-4ed0-ba96-c171ff734332/cover"/>
   </programme>
   <programme channel="tnt3" start="20260908070000 +0000" stop="20260908073000 +0000">
@@ -5151,9 +5122,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/dd3baac2-9529-4afd-b6fb-2cbb3b54f872/cover"/>
   </programme>
   <programme channel="tnt3" start="20260908123000 +0000" stop="20260908160000 +0000">
-    <title lang="en">La Vuelta Men</title>
+    <title lang="en">Live: La Vuelta - Stage 16</title>
     <desc lang="en">The final week of La Vuelta begins with a 181km hilly route which runs from Cortegana to a finish near the historic Muelle de las Carabelas in La Rabida.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/45816a55-e182-418b-b97c-af711ea731e7/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/f42ba4ac-eadf-4b78-ac01-736f2a996195/cover"/>
   </programme>
   <programme channel="tnt3" start="20260908160000 +0000" stop="20260908170000 +0000">
     <title lang="en">SailGP Highlights</title>
@@ -5224,7 +5195,7 @@
   </programme>
   <programme channel="tnt3" start="20260909050000 +0000" stop="20260909060000 +0000">
     <title lang="en">UEFA Champions League Highlights</title>
-    <desc lang="en">A round-up of all the goals from the UEFA Champions League.</desc>
+    <desc lang="en">A round-up of all the goals from Tuesday's UEFA Champions League fixtures, including Club Brugge v Aston Villa, Real Madrid v Inter, and Porto v Manchester City.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/026a0039-7ff3-410b-8dfc-18d3bcec014f/cover"/>
     <episode-num system="xmltv_ns">25.0.0</episode-num>
     <episode-num system="onscreen">S26E1</episode-num>
@@ -5294,9 +5265,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/243db5ea-8fe5-43a6-895a-de123d63361b/cover"/>
   </programme>
   <programme channel="tnt3" start="20260909123000 +0000" stop="20260909160000 +0000">
-    <title lang="en">La Vuelta Men</title>
+    <title lang="en">Live: La Vuelta - Stage 17</title>
     <desc lang="en">La Vuelta continues with a sprinter-friendly 185km route, running from Dos Hermanas to the historic Andalusian capital of Sevilla.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/057c80f3-842c-4956-9d69-8313375097cc/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/e3e2092a-64f7-40b1-93ea-25fccac8f695/cover"/>
   </programme>
   <programme channel="tnt3" start="20260909160000 +0000" stop="20260909161500 +0000">
     <title lang="en">The Gruppetto</title>
@@ -5331,11 +5302,6 @@
     <title lang="en">Cycling: Giro della Toscana</title>
     <desc lang="en">Cycling action from the 2026 Giro della Toscana - Memorial Alfredo Martini, featuring a 189km loop through the rolling hills of Pisa's provincial countryside.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a5070900-7bfb-4293-bb07-9b98dbf1b5f7/cover"/>
-  </programme>
-  <programme channel="tnt4" start="20260906173000 +0000" stop="20260907003000 +0000">
-    <title lang="en">Live: Lone Star at Le Mans - Race</title>
-    <desc lang="en">FIA World Endurance Championship action from the Lone Star at Le Mans, a six-hour race taking place at the Circuit of the Americas in Austin, Texas.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/050ffce5-ec20-4f06-aa5c-f34548f76d5a/cover"/>
   </programme>
   <programme channel="tnt4" start="20260907003000 +0000" stop="20260907010000 +0000">
     <title lang="en">TNT Sports Reload</title>
@@ -5401,33 +5367,12 @@
     <desc lang="en">Action from round one of the BetVictor English Open 2026 as world number four Neil Robertson goes head-to-head with China's Zetao Luo.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/cbea4f67-c5ca-4a1a-80c2-0369117d3fc0/cover"/>
   </programme>
-  <programme channel="tnt4" start="20260907140000 +0000" stop="20260907160000 +0000">
+  <programme channel="tnt4" start="20260907140000 +0000" stop="20260907173000 +0000">
     <title lang="en">Live Snooker: English Open</title>
     <desc lang="en">Action from round one of the BetVictor English Open 2026 as world number eight Kyren Wilson takes on Poland's Mateusz Baranowski.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4364bd2b-2bf9-4c17-9d91-99eb4f85deac/cover"/>
   </programme>
-  <programme channel="tnt4" start="20260907160000 +0000" stop="20260907163000 +0000">
-    <title lang="en">Formula E Flashback - Season 2</title>
-    <desc lang="en">We rewind to 2021 and the first-ever ePrix held in Spain. Could driver Antonio Felix da Costa take advantage of his pole position and go on to win his first race of Season 7?</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/163b656a-6b4e-4e9b-a59d-b14783cad7f6/cover"/>
-    <episode-num system="xmltv_ns">1.5.0</episode-num>
-    <episode-num system="onscreen">S2E6</episode-num>
-  </programme>
-  <programme channel="tnt4" start="20260907163000 +0000" stop="20260907164500 +0000">
-    <title lang="en">The Greatest - Jonathan Rea</title>
-    <desc lang="en">A special look at those who supported Jonathan Rea along this journey, from his closest family to the crew that aided him to six world titles.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/42e6271b-9c57-4d22-8834-61409f9d5022/cover"/>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
-  <programme channel="tnt4" start="20260907164500 +0000" stop="20260907170000 +0000">
-    <title lang="en">The Greatest - Jonathan Rea</title>
-    <desc lang="en">The story behind Jonathan Rea's final throw of the dice and the bold move to Yamaha which, unfortunately, yielded little more than bad luck, a string of crashes and injuries.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/5cb373ac-8bfa-4fc9-890a-e95c3528beb1/cover"/>
-    <episode-num system="xmltv_ns">0.5.0</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
-  </programme>
-  <programme channel="tnt4" start="20260907170000 +0000" stop="20260907180000 +0000">
+  <programme channel="tnt4" start="20260907173000 +0000" stop="20260907180000 +0000">
     <title lang="en">World Superbike Highlights</title>
     <desc lang="en">Highlights from round nine of the 2026 FIM Superbike World Championship at Circuit de Nevers Magny-Cours in France.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d1194cab-35ad-4734-8176-1035853f4684/cover"/>
@@ -5558,19 +5503,10 @@
     <episode-num system="xmltv_ns">24.200.0</episode-num>
     <episode-num system="onscreen">S25E201</episode-num>
   </programme>
-  <programme channel="tnt4" start="20260908163000 +0000" stop="20260908164500 +0000">
-    <title lang="en">The Greatest - Jonathan Rea</title>
-    <desc lang="en">We journey through Jonathan Rea's seven-year stint on Honda machinery, all the way up to his decisive move to Kawasaki in late 2014.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0c709b7b-6c5c-4307-9d7b-9b3e8e6aa68c/cover"/>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme channel="tnt4" start="20260908164500 +0000" stop="20260908170000 +0000">
-    <title lang="en">The Greatest - Jonathan Rea</title>
-    <desc lang="en">A special look at those who supported Jonathan Rea along this journey, from his closest family to the crew that aided him to six world titles.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/42e6271b-9c57-4d22-8834-61409f9d5022/cover"/>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
+  <programme channel="tnt4" start="20260908163000 +0000" stop="20260908170000 +0000">
+    <title lang="en">CPL Highlights</title>
+    <desc lang="en">Highlights from the Caribbean Premier League as Barbados Tridents and Trinbago Knight Riders faced off.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f315962e-adce-4941-b9ed-12933114fd7c/cover"/>
   </programme>
   <programme channel="tnt4" start="20260908170000 +0000" stop="20260908180000 +0000">
     <title lang="en">World Superbike Highlights</title>
@@ -7577,19 +7513,13 @@
     <episode-num system="xmltv_ns">0.3.0</episode-num>
     <episode-num system="onscreen">S1E4</episode-num>
   </programme>
-  <programme channel="5Star.uk" start="20260909030000 +0000" stop="20260909050100 +0000">
+  <programme channel="5Star.uk" start="20260909030000 +0000" stop="20260909050000 +0000">
     <title lang="en">Teleshopping</title>
     <desc lang="en">Shop by phone from the comfort of your home.</desc>
   </programme>
-  <programme channel="5Star.uk" start="20260909050100 +0000" stop="20260909053100 +0000">
-    <title lang="en">This is 5STAR</title>
-    <desc lang="en">This is 5STAR</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/04647642-6a33-42ea-81d1-80cbb200ed0a/cover"/>
-  </programme>
-  <programme channel="5Star.uk" start="20260909053100 +0000" stop="20260909060000 +0000">
-    <title lang="en">This is 5STAR</title>
-    <desc lang="en">This is 5STAR</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/799392e6-8381-465c-8e36-91d27866bedc/cover"/>
+  <programme channel="5Star.uk" start="20260909050000 +0000" stop="20260909060000 +0000">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">Shop by phone from the comfort of your home.</desc>
   </programme>
   <programme channel="5Star.uk" start="20260909060000 +0000" stop="20260909063000 +0000">
     <title lang="en">Shop: Thane Offers</title>
@@ -7677,9 +7607,10 @@
     <episode-num system="onscreen">S39E141</episode-num>
   </programme>
   <programme channel="5Star.uk" start="20260909173000 +0000" stop="20260909180000 +0000">
-    <title lang="en">Home and Away</title>
+    <title lang="en">New: Home and Away</title>
     <desc lang="en">Sonny battles withdrawal. Dana says goodbye. Tane sets a trap. Leah and Marilyn ambush Alf.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a1f29174-ee9a-458a-b87c-9463360c9f4c/cover"/>
+    <premiere/>
     <episode-num system="xmltv_ns">38.141.0</episode-num>
     <episode-num system="onscreen">S39E142</episode-num>
   </programme>
@@ -8133,19 +8064,13 @@
     <episode-num system="xmltv_ns">0.3.0</episode-num>
     <episode-num system="onscreen">S1E4</episode-num>
   </programme>
-  <programme channel="5StarPlus1.uk" start="20260909040000 +0000" stop="20260909060100 +0000">
+  <programme channel="5StarPlus1.uk" start="20260909040000 +0000" stop="20260909060000 +0000">
     <title lang="en">Teleshopping</title>
     <desc lang="en">Shop by phone from the comfort of your home.</desc>
   </programme>
-  <programme channel="5StarPlus1.uk" start="20260909060100 +0000" stop="20260909063100 +0000">
-    <title lang="en">This is 5STAR +1</title>
-    <desc lang="en">This is 5STAR +1</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0fe2d93b-b97c-4a54-aedd-92cd4234383a/cover"/>
-  </programme>
-  <programme channel="5StarPlus1.uk" start="20260909063100 +0000" stop="20260909070000 +0000">
-    <title lang="en">This is 5STAR +1</title>
-    <desc lang="en">This is 5STAR +1</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a37cdc26-1d4e-4b37-90b2-5f34e12b954c/cover"/>
+  <programme channel="5StarPlus1.uk" start="20260909060000 +0000" stop="20260909070000 +0000">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">Shop by phone from the comfort of your home.</desc>
   </programme>
   <programme channel="5StarPlus1.uk" start="20260909070000 +0000" stop="20260909073000 +0000">
     <title lang="en">Shop: Thane Offers</title>
@@ -8233,9 +8158,10 @@
     <episode-num system="onscreen">S39E141</episode-num>
   </programme>
   <programme channel="5StarPlus1.uk" start="20260909183000 +0000" stop="20260909190000 +0000">
-    <title lang="en">Home and Away</title>
+    <title lang="en">New: Home and Away</title>
     <desc lang="en">Sonny battles withdrawal. Dana says goodbye. Tane sets a trap. Leah and Marilyn ambush Alf.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a1f29174-ee9a-458a-b87c-9463360c9f4c/cover"/>
+    <premiere/>
     <episode-num system="xmltv_ns">38.141.0</episode-num>
     <episode-num system="onscreen">S39E142</episode-num>
   </programme>
@@ -10784,20 +10710,10 @@
     <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/69e26d92-fa4d-4bb1-b0f0-9fba622af7af/cover"/>
   </programme>
-  <programme channel="BBCNews.uk" start="20260907150000 +0000" stop="20260907153000 +0000">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/19f0d4ad-f15a-41fc-82bc-0ace9c91398b/cover"/>
-  </programme>
-  <programme channel="BBCNews.uk" start="20260907153000 +0000" stop="20260907154500 +0000">
-    <title lang="en">Business Today</title>
-    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/17ea9d6f-bedd-4c0d-944e-6f74be87e6c6/cover"/>
-  </programme>
-  <programme channel="BBCNews.uk" start="20260907154500 +0000" stop="20260907160000 +0000">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/16e61b60-4663-4e7a-8258-88ec9984a4b3/cover"/>
+  <programme channel="BBCNews.uk" start="20260907150000 +0000" stop="20260907160000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/04a2cd62-03a4-4250-89d5-a3fa108935b0/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260907160000 +0000" stop="20260907163000 +0000">
     <title lang="en">Verified Live</title>
@@ -14520,7 +14436,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260907224000 +0000" stop="20260907231000 +0000">
     <title lang="en">Scotcast</title>
-    <desc lang="en">Conversation about Scotland's biggest news stories, hosted by Martin Geissler.</desc>
+    <desc lang="en">Laura Miller hears why the UK government is set to approve the Jackdaw gas field off the coast of Aberdeen.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/35d27883-c78f-444b-90a9-4d1aad32c3f9/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260907231000 +0000" stop="20260908011500 +0000">
@@ -18229,22 +18145,22 @@
   <programme channel="BBCParliament.uk" start="20260906215000 +0000" stop="20260906232000 +0000">
     <title lang="en">House of Lords - Social Mobility Debate</title>
     <desc lang="en">Debate on the report on 'Social mobility: local roots, lasting change', on 4 September.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b646e76f-dcd6-4256-bddb-d4d0cd7a1343/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/a6159345-0e90-4c63-8310-5202f6fee53e/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260906232000 +0000" stop="20260907011000 +0000">
     <title lang="en">Prime Minister's Statement on Government Priorities</title>
     <desc lang="en">Coverage of a statement in the House of Commons by Andy Burnham, the prime minister, on the government's priorities, on Tuesday 1 September.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/be45e93c-a526-4861-beb6-ccb643c81ee8/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/bd7ca627-0759-46f1-9409-df7b03e99534/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260907011000 +0000" stop="20260907014000 +0000">
     <title lang="en">Scottish Parliament - Programme for Government Statement</title>
     <desc lang="en">Coverage of a statement in the Scottish Parliament by first minister John Swinney on his government's legislative priorities, from Tuesday 1 September.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/220cf067-e97f-4ba0-8c6b-4092be46c87b/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/7083cf45-feaf-4866-a0a5-dcddc2cb36eb/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260907014000 +0000" stop="20260907030000 +0000">
     <title lang="en">Rewiring the State Statement</title>
     <desc lang="en">Coverage of a statement in the House of Commons on 'rewiring the state', with Louise Haigh, first secretary of state, on Wednesday 2 September.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/52f87a14-10ec-4851-8335-87ab4721e954/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/959a95e8-3212-415b-ac8c-81487e426c27/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260907030000 +0000" stop="20260907034500 +0000">
     <title lang="en">Prime Minister's Questions</title>
@@ -18302,9 +18218,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/b9c89e44-10cf-407f-8e48-afca8131332d/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260907143000 +0000" stop="20260907153000 +0000">
-    <title lang="en">Live Government Reorganisation Statement</title>
-    <desc lang="en">Coverage of the statement in the House of Commons by housing, communities and local government secretary Angela Rayner on local government reorganisation, on Monday 7 September.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/32d888b3-d6c9-4ad4-aa17-4a59a7c26c08/cover"/>
+    <title lang="en">Live Local Government Reorganisation Statement</title>
+    <desc lang="en">Coverage of the statement on local government reorganisation, on Monday 7 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/54716114-6abe-4657-b748-94881249eb5b/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260907153000 +0000" stop="20260907163000 +0000">
     <title lang="en">Live Dover and Portsmouth Protests Statement</title>
@@ -18324,17 +18240,47 @@
   <programme channel="BBCParliament.uk" start="20260907213000 +0000" stop="20260907221500 +0000">
     <title lang="en">Northern Ireland Assembly -...</title>
     <desc lang="en">...Executive Office Questions. Questions in Stormont to the Northern Ireland executive, with the deputy first minister, Emma Little-Pengelly, on Monday 7 September.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d3d1884a-0c1a-4bbc-86bc-20e4b030cd9c/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/6a3ba24d-625f-4a13-985a-3592cb607fbe/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260907221500 +0000" stop="20260907230000 +0000">
     <title lang="en">Lords Questions</title>
     <desc lang="en">Questions in the House of Lords to government ministers on Monday 7 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f7d8a9e6-de59-45cc-8bfa-99567839d819/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260907230000 +0000" stop="20260908060000 +0000">
-    <title lang="en">House of Lords</title>
-    <desc lang="en">Business in the House of Lords including the first day of debate on the report stage of the Financial Services and Markets Bill, on Monday 7 September.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/4326686b-48ed-4448-8bc6-0a58d5b48b56/cover"/>
+  <programme channel="BBCParliament.uk" start="20260907230000 +0000" stop="20260907231000 +0000">
+    <title lang="en">House of Lords - Introductions</title>
+    <desc lang="en">Coverage of the introductions of Baroness McAnea and Lord Smith of Ranmoor to the House of Lords, on Monday 7 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/77b0ea9d-1290-4cbc-bf21-7b115d634592/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260907231000 +0000" stop="20260907232500 +0000">
+    <title lang="en">House of Lords - Falklands Question</title>
+    <desc lang="en">Coverage of the private notice question in the House of Lords on the future of the Falkland Islands tabled by shadow foreign office minister Lord Callanan, on Monday 7 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/946ebe5c-66e7-4462-a8b3-aa9e8975cb03/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260907232500 +0000" stop="20260908012500 +0000">
+    <title lang="en">House of Lords - Financial...</title>
+    <desc lang="en">...Services and Markets Bill, Part 1. Coverage of the first day of debate in the House of Lords on the report stage of the Financial Services and Markets Bill, on Monday 7 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/26160973-b2d8-474d-ab49-dd4e63535210/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260908012500 +0000" stop="20260908032500 +0000">
+    <title lang="en">House of Lords - Financial...</title>
+    <desc lang="en">...Services and Markets Bill, Part 2. Coverage of the first day of debate in the House of Lords on the report stage of the Financial Services and Markets Bill, on Monday 7 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8307a6cd-6067-4cd4-ae42-2d1291fe7955/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260908032500 +0000" stop="20260908042500 +0000">
+    <title lang="en">House of Lords - Financial...</title>
+    <desc lang="en">...Services and Markets Bill, Part 3. Coverage of the first day of debate in the House of Lords on the report stage of the Financial Services and Markets Bill, on Monday 7 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a2859dc4-b119-4a5a-9991-cb99d28897c9/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260908042500 +0000" stop="20260908055500 +0000">
+    <title lang="en">House of Lords - Local...</title>
+    <desc lang="en">...Government Reorganisation Statement. Coverage of the statement in the House of Lords on local government reorganisation.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/df5c8fde-04c1-41db-a105-200bf18758fc/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260908055500 +0000" stop="20260908060000 +0000">
+    <title lang="en">This is BBC Parliament HD</title>
+    <desc lang="en">This is BBC Parliament HD</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/dd6b6ba5-df03-42ea-b75e-5fe8a76142e5/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260908060000 +0000" stop="20260908070000 +0000">
     <title lang="en">Housing, Communities and Local Government Questions</title>
@@ -18349,7 +18295,7 @@
   <programme channel="BBCParliament.uk" start="20260908091500 +0000" stop="20260908103000 +0000">
     <title lang="en">Lords Science and Technology Committee on ARIA</title>
     <desc lang="en">Coverage of the Lords Science and Technology select committee session on the work of the Advanced Research and Invention Agency (ARIA), on Tuesday 8 September.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/97150e93-6d55-4bc0-89ea-3e30ef630c13/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/8e5dd3d0-72af-4da6-832e-69d4c2d211f1/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260908103000 +0000" stop="20260908113000 +0000">
     <title lang="en">Live Treasury Questions</title>
@@ -18394,7 +18340,7 @@
   <programme channel="BBCParliament.uk" start="20260909083000 +0000" stop="20260909103000 +0000">
     <title lang="en">Live Health and Social Care...</title>
     <desc lang="en">...Committee on the Care Quality Commission. Pre-appointment committee hearing for the role of chair of the Care Quality Commission.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/99fbd67d-38fa-4759-b5a9-8e9caeade0db/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/0bd2aa5e-efd2-4ec1-9bcf-f4d74b35a642/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260909103000 +0000" stop="20260909110000 +0000">
     <title lang="en">Live Women and Equalities Questions</title>
@@ -18430,11 +18376,6 @@
     <title lang="en">House of Lords</title>
     <desc lang="en">Business in the House of Lords including the second day of debate on the report stage of the Financial Services and Markets Bill, on Wednesday 9 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9d40d60f-e61f-4a9f-b696-5d3573546aee/cover"/>
-  </programme>
-  <programme channel="BBCRedButton1.uk" start="20260906170000 +0000" stop="20260906220000 +0000">
-    <title lang="en">The Story So Far: The Best of, Part 4</title>
-    <desc lang="en">The best of Ali Plumb's Story So Far programmes. Part 4.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/7b5e9534-9179-4315-974f-a55bf6ed8f78/cover"/>
   </programme>
   <programme channel="BBCRedButton1.uk" start="20260906220000 +0000" stop="20260906223000 +0000">
     <title lang="en">International Women's Cricket:...</title>
@@ -18653,7 +18594,7 @@
   </programme>
   <programme channel="BBCScotland.uk" start="20260907220000 +0000" stop="20260907223000 +0000">
     <title lang="en">Scotcast</title>
-    <desc lang="en">Conversation about Scotland's biggest news stories, hosted by Martin Geissler.</desc>
+    <desc lang="en">Laura Miller hears why the UK government is set to approve the Jackdaw gas field off the coast of Aberdeen.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/35d27883-c78f-444b-90a9-4d1aad32c3f9/cover"/>
   </programme>
   <programme channel="BBCScotland.uk" start="20260907223000 +0000" stop="20260907230000 +0000">
@@ -22129,9 +22070,6 @@
     <desc lang="en">McLaren Racing CEO Zak Brown discusses the technology, data and effort required to propel the McLaren brand onto the modern F1 stage and into living rooms around the globe. S1, Ep4</desc>
     <icon src="https://images.metadata.sky.com/pd-image/807e4ce4-7af8-46c2-a142-b1e5ee437075/cover"/>
   </programme>
-  <programme channel="CBBC.uk" start="20260906175800 +0000" stop="20260906235800 +0000">
-    <title lang="en">.programmes start at 7.00am</title>
-  </programme>
   <programme channel="CBBC.uk" start="20260906235800 +0000" stop="20260907042959 +0000">
     <title lang="en">.programmes start at 7.00am</title>
   </programme>
@@ -23163,9 +23101,6 @@
   </programme>
   <programme channel="CBBC.uk" start="20260909175800 +0000" stop="20260909235800 +0000">
     <title lang="en">.programmes start at 7.00am</title>
-  </programme>
-  <programme channel="CBeebies.uk" start="20260906175800 +0000" stop="20260906235800 +0000">
-    <title lang="en">..programmes start at 6.00am</title>
   </programme>
   <programme channel="CBeebies.uk" start="20260906235800 +0000" stop="20260907042959 +0000">
     <title lang="en">..programmes start at 6.00am</title>
@@ -25402,13 +25337,13 @@
     <episode-num system="xmltv_ns">2.3.0</episode-num>
     <episode-num system="onscreen">S3E4</episode-num>
   </programme>
-  <programme channel="Channel4.uk" start="20260909210000 +0000" stop="20260909220500 +0000">
+  <programme channel="Channel4.uk" start="20260909210000 +0000" stop="20260909222000 +0000">
     <title lang="en">New: Tommy Robinson: Where's...</title>
     <desc lang="en">...The Money? Dispatches spent a year investigating the finances of Stephen Yaxley-Lennon, aka Tommy Robinson, raising serious questions about the high-profile right-wing campaigner.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6991086f-a8d8-42ab-8bfa-978ae3e4613d/cover"/>
     <premiere/>
   </programme>
-  <programme channel="Channel4.uk" start="20260909220500 +0000" stop="20260909231000 +0000">
+  <programme channel="Channel4.uk" start="20260909222000 +0000" stop="20260909232000 +0000">
     <title lang="en">24 Hours in A&amp;E</title>
     <desc lang="en">Claire, who's 22, is rushed to Queen's after she collapsed while she was out running. Emma has serious leg burns after spilling a kettle. Adele is struggling with an injured toe.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c5c34a26-2cd9-4f32-8438-74fbe0d057ec/cover"/>
@@ -26108,7 +26043,7 @@
     <episode-num system="xmltv_ns">2.3.0</episode-num>
     <episode-num system="onscreen">S3E4</episode-num>
   </programme>
-  <programme channel="Channel4Plus1.uk" start="20260909220000 +0000" stop="20260909230500 +0000">
+  <programme channel="Channel4Plus1.uk" start="20260909220000 +0000" stop="20260909232000 +0000">
     <title lang="en">New: Tommy Robinson: Where's...</title>
     <desc lang="en">...The Money? Dispatches spent a year investigating the finances of Stephen Yaxley-Lennon, aka Tommy Robinson, raising serious questions about the high-profile right-wing campaigner.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6991086f-a8d8-42ab-8bfa-978ae3e4613d/cover"/>
@@ -26171,11 +26106,6 @@
     <icon src="https://images.metadata.sky.com/pd-image/e0d7156e-8ada-473f-a67b-4b20f6518fc7/cover"/>
     <episode-num system="xmltv_ns">0.4.0</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
-  <programme channel="Channel5Plus1.uk" start="20260907050300 +0000" stop="20260907051500 +0000">
-    <title lang="en">This is Channel 5 +1</title>
-    <desc lang="en">This is Channel 5 +1</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/07e712cc-9de7-4c24-b46b-dfa0bb92f04e/cover"/>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20260907051500 +0000" stop="20260907052500 +0000">
     <title lang="en">**Visually Signed** Ben and Holly's Little Kingdom</title>
@@ -26482,17 +26412,22 @@
     <episode-num system="xmltv_ns">7.7.0</episode-num>
     <episode-num system="onscreen">S8E8</episode-num>
   </programme>
-  <programme channel="Channel5Plus1.uk" start="20260908041000 +0000" stop="20260908050100 +0000">
-    <title lang="en">**Visually Signed**The Highland Vet</title>
-    <desc lang="en">Observational documentary series following vets in Thurso and Wick. A pregnant Highland cow has serious complications. (VS)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/448a427f-50f6-4089-b955-bccafd2c7130/cover"/>
-    <episode-num system="xmltv_ns">2.1.0</episode-num>
-    <episode-num system="onscreen">S3E2</episode-num>
-  </programme>
-  <programme channel="Channel5Plus1.uk" start="20260908050100 +0000" stop="20260908052500 +0000">
+  <programme channel="Channel5Plus1.uk" start="20260908041000 +0000" stop="20260908044000 +0000">
     <title lang="en">This is Channel 5 +1</title>
     <desc lang="en">This is Channel 5 +1</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1769cce0-09d3-4e1f-9e67-36b4243f0e79/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/fc059117-4d2e-4e8d-a89f-fbd14895244b/cover"/>
+  </programme>
+  <programme channel="Channel5Plus1.uk" start="20260908044000 +0000" stop="20260908050000 +0000">
+    <title lang="en">This is Channel 5 +1</title>
+    <desc lang="en">This is Channel 5 +1</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/307053d2-c62d-41e6-9523-f13a37694eb8/cover"/>
+  </programme>
+  <programme channel="Channel5Plus1.uk" start="20260908050000 +0000" stop="20260908052500 +0000">
+    <title lang="en">**Visually Signed**The Wonderful..</title>
+    <desc lang="en">...World of Chocolate. A sweet selection from this mouthwatering documentary series. (VS)</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/17b4a125-0a8b-49c1-8ee8-4f51dfd2765e/cover"/>
+    <episode-num system="xmltv_ns">0.5.0</episode-num>
+    <episode-num system="onscreen">S1E6</episode-num>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20260908052500 +0000" stop="20260908053500 +0000">
     <title lang="en">Entertainment News on 5</title>
@@ -26794,17 +26729,17 @@
     <episode-num system="xmltv_ns">0.8.0</episode-num>
     <episode-num system="onscreen">S1E9</episode-num>
   </programme>
-  <programme channel="Channel5Plus1.uk" start="20260909043500 +0000" stop="20260909050000 +0000">
-    <title lang="en">This is Channel 5 +1</title>
-    <desc lang="en">This is Channel 5 +1</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e57e9418-df05-431e-8e5c-e87b525da804/cover"/>
-  </programme>
-  <programme channel="Channel5Plus1.uk" start="20260909050000 +0000" stop="20260909052500 +0000">
+  <programme channel="Channel5Plus1.uk" start="20260909043500 +0000" stop="20260909050100 +0000">
     <title lang="en">**Visually Signed**The Wonderful..</title>
     <desc lang="en">...World of Chocolate. A sweet selection from this mouthwatering documentary series. (VS)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a22e062e-d38a-4831-a324-8da629596c54/cover"/>
-    <episode-num system="xmltv_ns">1.2.0</episode-num>
-    <episode-num system="onscreen">S2E3</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/63dc6389-0ec2-4a6d-9637-d411a552710c/cover"/>
+    <episode-num system="xmltv_ns">1.1.0</episode-num>
+    <episode-num system="onscreen">S2E2</episode-num>
+  </programme>
+  <programme channel="Channel5Plus1.uk" start="20260909050100 +0000" stop="20260909052500 +0000">
+    <title lang="en">This is Channel 5 +1</title>
+    <desc lang="en">This is Channel 5 +1</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/478536fe-8e91-4017-b26c-33b24db6b4ca/cover"/>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20260909052500 +0000" stop="20260909053500 +0000">
     <title lang="en">Entertainment News on 5</title>
