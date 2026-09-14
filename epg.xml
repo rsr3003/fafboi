@@ -466,20 +466,20 @@
     <desc lang="en">The Sky Sports team analyse some of the big refereeing decisions from the weekend's games. Did the officials get it right?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b3dda15a-f13e-4018-9332-e46517fd01df/cover"/>
   </programme>
-  <programme channel="sky.main.uk" start="20260914110000 +0000" stop="20260914120000 +0000">
+  <programme channel="sky.main.uk" start="20260914110000 +0000" stop="20260914120001 +0000">
     <title lang="en">Lunchtime Live</title>
     <desc lang="en">Sit down with Sky Sports News as the team break down all the sports stories making the headlines this lunchtime.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/224563b2-9f73-4004-b8e6-84e3fb56e036/cover"/>
   </programme>
-  <programme channel="sky.main.uk" start="20260914120000 +0000" stop="20260914130000 +0000">
+  <programme channel="sky.main.uk" start="20260914120001 +0000" stop="20260914130001 +0000">
+    <title lang="en">Lunchtime Live</title>
+    <desc lang="en">Sit down with Sky Sports News as the team break down all the sports stories making the headlines this lunchtime.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/c8cb0c64-a430-4ff2-bf56-165f242d0caf/cover"/>
+  </programme>
+  <programme channel="sky.main.uk" start="20260914130001 +0000" stop="20260914140000 +0000">
     <title lang="en">The EFL Show</title>
     <desc lang="en">Stay across all the latest news and big talking points from across all three EFL divisions throughout the 2026-27 season.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/94f6a612-1043-4bbb-8efa-16e08341b607/cover"/>
-  </programme>
-  <programme channel="sky.main.uk" start="20260914130000 +0000" stop="20260914140000 +0000">
-    <title lang="en">Lunchtime Live</title>
-    <desc lang="en">Sit down with Sky Sports News as the team break down all the sports stories making the headlines this lunchtime.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/224563b2-9f73-4004-b8e6-84e3fb56e036/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/6c1e504c-5f99-4c82-96a6-50b887de57c8/cover"/>
   </programme>
   <programme channel="sky.main.uk" start="20260914140000 +0000" stop="20260914150000 +0000">
     <title lang="en">Sports Desk</title>
@@ -1165,12 +1165,17 @@
     <episode-num system="xmltv_ns">2025.110.0</episode-num>
     <episode-num system="onscreen">S2026E111</episode-num>
   </programme>
-  <programme channel="sky.premier.uk" start="20260915170000 +0000" stop="20260915180000 +0000">
-    <title lang="en">Live: The Premier League Show</title>
-    <desc lang="en">Your essential daily guide to the Premier League. With exclusive interviews, topical debate and the latest news from all 20 top-flight clubs.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/7564de99-1bc3-49e6-994b-da9ec222d754/cover"/>
-    <episode-num system="xmltv_ns">2025.110.0</episode-num>
-    <episode-num system="onscreen">S2026E111</episode-num>
+  <programme channel="sky.premier.uk" start="20260915170000 +0000" stop="20260915173000 +0000">
+    <title lang="en">New: Match Officials Mic'd Up</title>
+    <icon src="https://images.metadata.sky.com/pd-image/1395dded-e64c-4052-a81b-98418bdc6fef/cover"/>
+    <premiere/>
+  </programme>
+  <programme channel="sky.premier.uk" start="20260915173000 +0000" stop="20260915180000 +0000">
+    <title lang="en">Premier League Netbusters</title>
+    <desc lang="en">Relive the action from the Premier League in a unique way with fast-paced highlights using alternative angles, featuring every goal from every game.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/5518a0e4-d19a-4467-b749-c3489616e19e/cover"/>
+    <episode-num system="xmltv_ns">2025.3.0</episode-num>
+    <episode-num system="onscreen">S2026E4</episode-num>
   </programme>
   <programme channel="sky.premier.uk" start="20260915180000 +0000" stop="20260915213000 +0000">
     <title lang="en">Soccer Special</title>
@@ -1187,7 +1192,7 @@
     <episode-num system="onscreen">S2026E4</episode-num>
   </programme>
   <programme channel="sky.premier.uk" start="20260915223000 +0000" stop="20260915230000 +0000">
-    <title lang="en">Premier League The Big Interview</title>
+    <title lang="en">The Big Interview: Schmeichels</title>
     <desc lang="en">Among the best goalkeepers of the Premier League era, father and son Peter and Kasper Schmeichel discuss their dynamic and provide insight into the evolution of goalkeeping.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3b2cd343-0c74-4e3f-9f19-9e12efbc7f77/cover"/>
   </programme>
@@ -1305,7 +1310,7 @@
     <episode-num system="onscreen">S2026E4</episode-num>
   </programme>
   <programme channel="sky.premier.uk" start="20260916120000 +0000" stop="20260916123000 +0000">
-    <title lang="en">Premier League The Big Interview</title>
+    <title lang="en">The Big Interview: Schmeichels</title>
     <desc lang="en">Among the best goalkeepers of the Premier League era, father and son Peter and Kasper Schmeichel discuss their dynamic and provide insight into the evolution of goalkeeping.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3b2cd343-0c74-4e3f-9f19-9e12efbc7f77/cover"/>
   </programme>
@@ -1356,10 +1361,14 @@
     <episode-num system="xmltv_ns">2025.3.0</episode-num>
     <episode-num system="onscreen">S2026E4</episode-num>
   </programme>
-  <programme channel="sky.premier.uk" start="20260916190000 +0000" stop="20260916200000 +0000">
-    <title lang="en">Premier League Review</title>
-    <desc lang="en">A look back at the weekend's action in the Premier League, featuring all of the goals, news and major talking points from around the top flight.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3c337ef4-e382-4823-83bb-a3dbb94a3791/cover"/>
+  <programme channel="sky.premier.uk" start="20260916190000 +0000" stop="20260916193000 +0000">
+    <title lang="en">Match Officials Mic'd Up</title>
+    <icon src="https://images.metadata.sky.com/pd-image/1395dded-e64c-4052-a81b-98418bdc6fef/cover"/>
+  </programme>
+  <programme channel="sky.premier.uk" start="20260916193000 +0000" stop="20260916200000 +0000">
+    <title lang="en">Transfer 360: Kieran Trippier</title>
+    <desc lang="en">A transfer that changed a football club. Find out why Kieran Trippier's move to Newcastle proved so important in shaping the face of a new era.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3468d3d9-6e6c-49a2-9239-36ed1f34588d/cover"/>
     <episode-num system="xmltv_ns">2025.3.0</episode-num>
     <episode-num system="onscreen">S2026E4</episode-num>
   </programme>
@@ -1529,35 +1538,35 @@
     <desc lang="en">A round-up of the Sky Bet League Two goals from the latest batch of fixtures during the 2026-27 season.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/53007ebf-8b25-4553-a33f-e698cbc58650/cover"/>
   </programme>
-  <programme channel="sky.football.uk" start="20260914100000 +0000" stop="20260914120000 +0000">
+  <programme channel="sky.football.uk" start="20260914100000 +0000" stop="20260914120001 +0000">
     <title lang="en">EFL: Sheff Utd v Wolves</title>
     <desc lang="en">Wolves' travels continue with a third away game on the bounce in the Championship, as Cesar Peixoto's side pay a visit to Bramall Lane for a clash with Chris Wilder's Sheffield United.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/21e91d11-dda8-4318-af29-39712ec790f0/cover"/>
   </programme>
-  <programme channel="sky.football.uk" start="20260914120000 +0000" stop="20260914130000 +0000">
-    <title lang="en">The EFL Show</title>
-    <desc lang="en">Stay across all the latest news and big talking points from across all three EFL divisions throughout the 2026-27 season.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/94f6a612-1043-4bbb-8efa-16e08341b607/cover"/>
-  </programme>
-  <programme channel="sky.football.uk" start="20260914130000 +0000" stop="20260914131500 +0000">
+  <programme channel="sky.football.uk" start="20260914120001 +0000" stop="20260914121500 +0000">
     <title lang="en">EFL 26/27: So'ton v Bristol City</title>
     <desc lang="en">Southampton play host to Bristol City at St Mary's in the Sky Bet Championship. (12.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/cf7cdf61-d1ab-4a95-a4c8-3603a771f38e/cover"/>
   </programme>
-  <programme channel="sky.football.uk" start="20260914131500 +0000" stop="20260914133000 +0000">
+  <programme channel="sky.football.uk" start="20260914121500 +0000" stop="20260914123000 +0000">
     <title lang="en">EFL 26/27: Swansea City v Burnley</title>
     <desc lang="en">Swansea City play host to Burnley at the Swansea.com Stadium in the Sky Bet Championship. (12.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4f58bf41-9187-459e-bdc3-e60397ed67ba/cover"/>
   </programme>
-  <programme channel="sky.football.uk" start="20260914133000 +0000" stop="20260914134500 +0000">
+  <programme channel="sky.football.uk" start="20260914123000 +0000" stop="20260914124500 +0000">
     <title lang="en">EFL 26/27: Watford v Stoke City</title>
     <desc lang="en">Watford play host to Stoke City at Vicarage Road in the Sky Bet Championship. (12.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1cd2e451-2c3a-419f-b55d-6259cc7c6d60/cover"/>
   </programme>
-  <programme channel="sky.football.uk" start="20260914134500 +0000" stop="20260914140000 +0000">
+  <programme channel="sky.football.uk" start="20260914124500 +0000" stop="20260914130001 +0000">
     <title lang="en">EFL 26/27: Sheff Utd v Wolves</title>
     <desc lang="en">Wolves' travels continue with a third away game on the bounce in the Championship, as Cesar Peixoto's side go to Bramall Lane for a clash with Chris Wilder's Sheffield United. (13.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/198d3546-f579-43ef-82bc-0e7564cea0f7/cover"/>
+  </programme>
+  <programme channel="sky.football.uk" start="20260914130001 +0000" stop="20260914140000 +0000">
+    <title lang="en">The EFL Show</title>
+    <desc lang="en">Stay across all the latest news and big talking points from across all three EFL divisions throughout the 2026-27 season.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/94f6a612-1043-4bbb-8efa-16e08341b607/cover"/>
   </programme>
   <programme channel="sky.football.uk" start="20260914140000 +0000" stop="20260914141500 +0000">
     <title lang="en">EFL 26/27: Bolton v Cardiff City</title>
@@ -2110,17 +2119,17 @@
   </programme>
   <programme channel="sky.tennis.uk" start="20260914160000 +0000" stop="20260914180000 +0000">
     <title lang="en">Live: WTA Sao Paulo</title>
-    <desc lang="en">Enjoy live action from the WTA Tour.</desc>
+    <desc lang="en">Sao Paulo stages WTA 250 action as 23-year-old Spaniard Jessica Bouzas Maneiro goes up against Dominika Salkova of Czechia in the opening round of the hard-court event.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3aaa4e6e-7f58-400b-929c-ee1d61b08694/cover"/>
   </programme>
   <programme channel="sky.tennis.uk" start="20260914180000 +0000" stop="20260914223000 +0000">
     <title lang="en">Live: WTA Tennis</title>
-    <desc lang="en">Enjoy live action from the WTA Tour.</desc>
+    <desc lang="en">Renata Zarazua, competing on home soil, opens her Guadalajara Open campaign against Caroline Dolehide, while Americans Kayla Day and Elvina Kalieva go toe to toe.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/73cbab74-644c-461f-81a0-5c08d2e5ad94/cover"/>
   </programme>
   <programme channel="sky.tennis.uk" start="20260914223000 +0000" stop="20260915030000 +0000">
     <title lang="en">Live: WTA Guadalajara</title>
-    <desc lang="en">Enjoy live action from the WTA Tour.</desc>
+    <desc lang="en">Opening-round action continues in Guadalajara as eighth seed Liudmila Samsonova takes on Elsa Jacquemot. Plus, Turkey's Zeynep Sonmez plays Iryna Shymanovich.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2347f00f-1dac-4bd9-96d4-07a461ca20f6/cover"/>
   </programme>
   <programme channel="sky.tennis.uk" start="20260915030000 +0000" stop="20260915033000 +0000">
@@ -2189,12 +2198,12 @@
   </programme>
   <programme channel="sky.tennis.uk" start="20260915080000 +0000" stop="20260915093000 +0000">
     <title lang="en">Tennis Highlights</title>
-    <desc lang="en">Revisit a standout match from yesterday's action on the WTA Tour.</desc>
+    <desc lang="en">Mexico's Renata Zarazua, competing on home soil, opens her Guadalajara Open campaign against Caroline Dolehide of the United States. (14.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7a05cdbd-056e-4afc-8687-adfbe6266a7b/cover"/>
   </programme>
   <programme channel="sky.tennis.uk" start="20260915093000 +0000" stop="20260915110000 +0000">
     <title lang="en">Tennis Highlights</title>
-    <desc lang="en">Revisit a standout match from yesterday's action on the WTA Tour.</desc>
+    <desc lang="en">Twenty-four-year-old Turkish star Zeynep Sonmez, knocked out in the opening round of the US Open, heads to Guadalajara to face Iryna Shymanovich in round one. (14.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/626fcd69-08a8-4559-9421-e2c556a0570e/cover"/>
   </programme>
   <programme channel="sky.tennis.uk" start="20260915110000 +0000" stop="20260915120000 +0000">
@@ -2209,12 +2218,12 @@
   </programme>
   <programme channel="sky.tennis.uk" start="20260915130000 +0000" stop="20260915143000 +0000">
     <title lang="en">Tennis Highlights</title>
-    <desc lang="en">Revisit a standout match from yesterday's action on the WTA Tour.</desc>
+    <desc lang="en">Mexico's Renata Zarazua, competing on home soil, opens her Guadalajara Open campaign against Caroline Dolehide of the United States. (14.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7a05cdbd-056e-4afc-8687-adfbe6266a7b/cover"/>
   </programme>
   <programme channel="sky.tennis.uk" start="20260915143000 +0000" stop="20260915160000 +0000">
     <title lang="en">Tennis Highlights</title>
-    <desc lang="en">Revisit a standout match from yesterday's action on the WTA Tour.</desc>
+    <desc lang="en">Twenty-four-year-old Turkish star Zeynep Sonmez, knocked out in the opening round of the US Open, heads to Guadalajara to face Iryna Shymanovich in round one. (14.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/626fcd69-08a8-4559-9421-e2c556a0570e/cover"/>
   </programme>
   <programme channel="sky.tennis.uk" start="20260915160000 +0000" stop="20260915190000 +0000">
@@ -2564,37 +2573,27 @@
     <desc lang="en">Ted Kravitz is live as he gathers reaction from inside the paddock and reviews all the biggest stories from qualifying at the Spanish Grand Prix.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/95fa3fb5-8708-45ba-aa58-82c349472fc5/cover"/>
   </programme>
-  <programme channel="sky.f1.uk" start="20260915113000 +0000" stop="20260915134500 +0000">
+  <programme channel="sky.f1.uk" start="20260915113000 +0000" stop="20260915135000 +0000">
     <title lang="en">Spanish F1 Grand Prix</title>
     <desc lang="en">It's lights out for the Spanish Grand Prix, taking place at the brand-new Madring. Lando Norris starts from pole with Kimi Antonelli joining the Brit on the front row. (13.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/35d6c533-c228-4e35-91dd-7c4cbf067d81/cover"/>
   </programme>
-  <programme channel="sky.f1.uk" start="20260915134500 +0000" stop="20260915141500 +0000">
+  <programme channel="sky.f1.uk" start="20260915135000 +0000" stop="20260915142000 +0000">
     <title lang="en">Ted's Notebook: Spain</title>
     <desc lang="en">Ted Kravitz is live following the Spanish Grand Prix, as he shares his thoughts on the race while gathering reaction from the paddock.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fd561647-9178-4a6c-9c01-4a15ede1822a/cover"/>
   </programme>
-  <programme channel="sky.f1.uk" start="20260915141500 +0000" stop="20260915151500 +0000">
-    <title lang="en">Spanish F3: Sprint</title>
-    <desc lang="en">The concluding FIA Formula 3 Sprint Race of the season gets underway at the Madring. James Wharton leads the way having clinched reverse-grid pole.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/00a7a123-9059-42e9-abb3-25b971f4ae7c/cover"/>
-  </programme>
-  <programme channel="sky.f1.uk" start="20260915151500 +0000" stop="20260915161500 +0000">
+  <programme channel="sky.f1.uk" start="20260915142000 +0000" stop="20260915153500 +0000">
     <title lang="en">Spanish F3: Feature Race</title>
     <desc lang="en">The 2026 season of Formula 3 racing comes to an end in the Spanish capital with the weekend's second Feature Race as the drivers' championship hangs in the balance.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9a8fe67c-0302-40ab-ba78-91f870314e50/cover"/>
   </programme>
-  <programme channel="sky.f1.uk" start="20260915161500 +0000" stop="20260915172000 +0000">
+  <programme channel="sky.f1.uk" start="20260915153500 +0000" stop="20260915171500 +0000">
     <title lang="en">Spanish F2: Sprint</title>
     <desc lang="en">The 11th FIA F2 Sprint Race of the season gets underway at the Madring. Reverse-grid polesitter Emerson Fittipaldi completed the top 10 in qualifying to secure his place at the front.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8ff922ca-59ab-490a-a66f-6ce944467b92/cover"/>
   </programme>
-  <programme channel="sky.f1.uk" start="20260915172000 +0000" stop="20260915173000 +0000">
-    <title lang="en">Ferrari at Home in Monza</title>
-    <desc lang="en">With the Tifosi set to deck out the grandstands of the Temple of Speed, take a look at Ferrari and their home grand prix at Monza.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/913e84c8-a480-4d5d-9019-c8f6cc1bf67b/cover"/>
-  </programme>
-  <programme channel="sky.f1.uk" start="20260915173000 +0000" stop="20260915185000 +0000">
+  <programme channel="sky.f1.uk" start="20260915171500 +0000" stop="20260915185000 +0000">
     <title lang="en">Spanish F2: Feature Race</title>
     <desc lang="en">The FIA F2 Championship concludes its weekend at the Madring with a Feature Race. Dino Beganovic leads from the front, with Alexander Dunne and Rafael Câmara rounding out the top three.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c511f71f-83aa-4cf4-80d8-f0947f08fbeb/cover"/>
@@ -2614,20 +2613,20 @@
     <desc lang="en">The 2026 season of the NTT IndyCar Series reaches its climax at WeatherTech Raceway Laguna Seca with the Grand Prix of Monterey. (06.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/66af2ee7-7273-4f27-8e14-fcc333996a3b/cover"/>
   </programme>
-  <programme channel="sky.f1.uk" start="20260915210000 +0000" stop="20260915231500 +0000">
+  <programme channel="sky.f1.uk" start="20260915210000 +0000" stop="20260915232000 +0000">
     <title lang="en">Spanish F1 Grand Prix</title>
     <desc lang="en">It's lights out for the Spanish Grand Prix, taking place at the brand-new Madring. Lando Norris starts from pole with Kimi Antonelli joining the Brit on the front row. (13.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/35d6c533-c228-4e35-91dd-7c4cbf067d81/cover"/>
   </programme>
-  <programme channel="sky.f1.uk" start="20260915231500 +0000" stop="20260915234500 +0000">
+  <programme channel="sky.f1.uk" start="20260915232000 +0000" stop="20260915235000 +0000">
     <title lang="en">Ted's Notebook: Spain</title>
     <desc lang="en">Ted Kravitz is live following the Spanish Grand Prix, as he shares his thoughts on the race while gathering reaction from the paddock.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fd561647-9178-4a6c-9c01-4a15ede1822a/cover"/>
   </programme>
-  <programme channel="sky.f1.uk" start="20260915234500 +0000" stop="20260916000000 +0000">
-    <title lang="en">Ollie Bearman Drives Ayrton Senna'</title>
-    <desc lang="en">Haas' British star Ollie Bearman pilots Ayrton Senna's legendary Lotus in an emotionally charged drive around Silverstone.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05443205-a6ba-4d8b-b0d7-739c85ade27f/cover"/>
+  <programme channel="sky.f1.uk" start="20260915235000 +0000" stop="20260916000000 +0000">
+    <title lang="en">Ferrari at Home in Monza</title>
+    <desc lang="en">With the Tifosi set to deck out the grandstands of the Temple of Speed, take a look at Ferrari and their home grand prix at Monza.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/913e84c8-a480-4d5d-9019-c8f6cc1bf67b/cover"/>
   </programme>
   <programme channel="sky.f1.uk" start="20260916000000 +0000" stop="20260916010000 +0000">
     <title lang="en">F1 Explained...</title>
@@ -2694,60 +2693,45 @@
     <desc lang="en">Among the most physically demanding races on the calendar - this is the Singapore Grand Prix. Carlos Sainz starts from pole position and George Russell joins him on the front row. (17.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/11784c96-4896-35d9-8463-113501a7ab9f/cover"/>
   </programme>
-  <programme channel="sky.f1.uk" start="20260916090000 +0000" stop="20260916111500 +0000">
+  <programme channel="sky.f1.uk" start="20260916090000 +0000" stop="20260916112000 +0000">
     <title lang="en">Spanish F1 Grand Prix</title>
     <desc lang="en">It's lights out for the Spanish Grand Prix, taking place at the brand-new Madring. Lando Norris starts from pole with Kimi Antonelli joining the Brit on the front row. (13.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/35d6c533-c228-4e35-91dd-7c4cbf067d81/cover"/>
   </programme>
-  <programme channel="sky.f1.uk" start="20260916111500 +0000" stop="20260916114500 +0000">
+  <programme channel="sky.f1.uk" start="20260916112000 +0000" stop="20260916115000 +0000">
     <title lang="en">Ted's Notebook: Spain</title>
     <desc lang="en">Ted Kravitz is live following the Spanish Grand Prix, as he shares his thoughts on the race while gathering reaction from the paddock.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fd561647-9178-4a6c-9c01-4a15ede1822a/cover"/>
   </programme>
-  <programme channel="sky.f1.uk" start="20260916114500 +0000" stop="20260916124500 +0000">
+  <programme channel="sky.f1.uk" start="20260916115000 +0000" stop="20260916130500 +0000">
     <title lang="en">Spanish F3: Feature Race</title>
     <desc lang="en">The 2026 season of Formula 3 racing comes to an end in the Spanish capital with the weekend's second Feature Race as the drivers' championship hangs in the balance.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9a8fe67c-0302-40ab-ba78-91f870314e50/cover"/>
   </programme>
-  <programme channel="sky.f1.uk" start="20260916124500 +0000" stop="20260916140500 +0000">
+  <programme channel="sky.f1.uk" start="20260916130500 +0000" stop="20260916144000 +0000">
     <title lang="en">Spanish F2: Feature Race</title>
     <desc lang="en">The FIA F2 Championship concludes its weekend at the Madring with a Feature Race. Dino Beganovic leads from the front, with Alexander Dunne and Rafael Câmara rounding out the top three.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c511f71f-83aa-4cf4-80d8-f0947f08fbeb/cover"/>
   </programme>
-  <programme channel="sky.f1.uk" start="20260916140500 +0000" stop="20260916141500 +0000">
-    <title lang="en">Ferrari at Home in Monza</title>
-    <desc lang="en">With the Tifosi set to deck out the grandstands of the Temple of Speed, take a look at Ferrari and their home grand prix at Monza.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/913e84c8-a480-4d5d-9019-c8f6cc1bf67b/cover"/>
-  </programme>
-  <programme channel="sky.f1.uk" start="20260916141500 +0000" stop="20260916143000 +0000">
-    <title lang="en">Ollie Bearman Drives Ayrton Senna'</title>
-    <desc lang="en">Haas' British star Ollie Bearman pilots Ayrton Senna's legendary Lotus in an emotionally charged drive around Silverstone.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05443205-a6ba-4d8b-b0d7-739c85ade27f/cover"/>
-  </programme>
-  <programme channel="sky.f1.uk" start="20260916143000 +0000" stop="20260916153000 +0000">
+  <programme channel="sky.f1.uk" start="20260916144000 +0000" stop="20260916154000 +0000">
     <title lang="en">Spanish F1 GP Highlights</title>
     <desc lang="en">It's lights out for the Spanish Grand Prix, taking place at the brand-new Madring. Lando Norris starts from pole with Kimi Antonelli joining the Brit on the front row. (13.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/738c74fa-a34c-46d6-ae19-ad346f9a1dad/cover"/>
   </programme>
-  <programme channel="sky.f1.uk" start="20260916153000 +0000" stop="20260916160000 +0000">
+  <programme channel="sky.f1.uk" start="20260916154000 +0000" stop="20260916161000 +0000">
     <title lang="en">Ted's Notebook: Spain</title>
     <desc lang="en">Ted Kravitz is live following the Spanish Grand Prix, as he shares his thoughts on the race while gathering reaction from the paddock.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fd561647-9178-4a6c-9c01-4a15ede1822a/cover"/>
   </programme>
-  <programme channel="sky.f1.uk" start="20260916160000 +0000" stop="20260916181500 +0000">
+  <programme channel="sky.f1.uk" start="20260916161000 +0000" stop="20260916183000 +0000">
     <title lang="en">Spanish F1 Grand Prix</title>
     <desc lang="en">It's lights out for the Spanish Grand Prix, taking place at the brand-new Madring. Lando Norris starts from pole with Kimi Antonelli joining the Brit on the front row. (13.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/35d6c533-c228-4e35-91dd-7c4cbf067d81/cover"/>
   </programme>
-  <programme channel="sky.f1.uk" start="20260916181500 +0000" stop="20260916184500 +0000">
+  <programme channel="sky.f1.uk" start="20260916183000 +0000" stop="20260916190000 +0000">
     <title lang="en">Ted's Notebook: Spain</title>
     <desc lang="en">Ted Kravitz is live following the Spanish Grand Prix, as he shares his thoughts on the race while gathering reaction from the paddock.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fd561647-9178-4a6c-9c01-4a15ede1822a/cover"/>
-  </programme>
-  <programme channel="sky.f1.uk" start="20260916184500 +0000" stop="20260916190000 +0000">
-    <title lang="en">Ollie Bearman Drives Ayrton Senna'</title>
-    <desc lang="en">Haas' British star Ollie Bearman pilots Ayrton Senna's legendary Lotus in an emotionally charged drive around Silverstone.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05443205-a6ba-4d8b-b0d7-739c85ade27f/cover"/>
   </programme>
   <programme channel="sky.f1.uk" start="20260916190000 +0000" stop="20260916200000 +0000">
     <title lang="en">Ginetta Junior Champ Hlts</title>
@@ -2839,20 +2823,20 @@
     <desc lang="en">The Sky Sports team analyse some of the big refereeing decisions from the weekend's games. Did the officials get it right?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b3dda15a-f13e-4018-9332-e46517fd01df/cover"/>
   </programme>
-  <programme channel="sky.news.uk" start="20260914110000 +0000" stop="20260914120000 +0000">
+  <programme channel="sky.news.uk" start="20260914110000 +0000" stop="20260914120001 +0000">
     <title lang="en">Lunchtime Live</title>
     <desc lang="en">Sit down with Sky Sports News as the team break down all the sports stories making the headlines this lunchtime.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/224563b2-9f73-4004-b8e6-84e3fb56e036/cover"/>
   </programme>
-  <programme channel="sky.news.uk" start="20260914120000 +0000" stop="20260914130000 +0000">
+  <programme channel="sky.news.uk" start="20260914120001 +0000" stop="20260914130001 +0000">
+    <title lang="en">Lunchtime Live</title>
+    <desc lang="en">Sit down with Sky Sports News as the team break down all the sports stories making the headlines this lunchtime.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8bfd2887-050a-4d67-956b-44ba245953ee/cover"/>
+  </programme>
+  <programme channel="sky.news.uk" start="20260914130001 +0000" stop="20260914140000 +0000">
     <title lang="en">The EFL Show</title>
     <desc lang="en">Stay across all the latest news and big talking points from across all three EFL divisions throughout the 2026-27 season.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/94f6a612-1043-4bbb-8efa-16e08341b607/cover"/>
-  </programme>
-  <programme channel="sky.news.uk" start="20260914130000 +0000" stop="20260914140000 +0000">
-    <title lang="en">Lunchtime Live</title>
-    <desc lang="en">Sit down with Sky Sports News as the team break down all the sports stories making the headlines this lunchtime.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/224563b2-9f73-4004-b8e6-84e3fb56e036/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/eea67c98-9976-4102-ac7b-670336dfcf16/cover"/>
   </programme>
   <programme channel="sky.news.uk" start="20260914140000 +0000" stop="20260914150000 +0000">
     <title lang="en">Sports Desk</title>
@@ -3227,12 +3211,12 @@
   </programme>
   <programme channel="sky.racing.uk" start="20260915010000 +0000" stop="20260915050000 +0000">
     <title lang="en">Australian Racing Live</title>
-    <desc lang="en">Live Australian racing from Moruya and Bowen.</desc>
+    <desc lang="en">Live Australian racing from Moruya, Wellington, Wodonga and Bowen.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5daffc97-48a7-4d41-a894-eabcc0a816e2/cover"/>
   </programme>
   <programme channel="sky.racing.uk" start="20260915050000 +0000" stop="20260915060000 +0000">
     <title lang="en">Australian Racing Live</title>
-    <desc lang="en">Live Australian racing from Moruya and Bowen.</desc>
+    <desc lang="en">Live Australian racing from Moruya, Wellington, Wodonga and Bowen.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5daffc97-48a7-4d41-a894-eabcc0a816e2/cover"/>
   </programme>
   <programme channel="sky.racing.uk" start="20260915060000 +0000" stop="20260915090000 +0000">
@@ -3245,12 +3229,12 @@
     <desc lang="en">To celebrate all things great about the racehorse, four Sky Sports Racing presenters take us inside their homes to highlight the love and care racehorses receive in retirement.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/55fc6cad-2d2a-47ad-ad41-4c389c571a72/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20260915093000 +0000" stop="20260915123000 +0000">
+  <programme channel="sky.racing.uk" start="20260915093000 +0000" stop="20260915124500 +0000">
     <title lang="en">International Raceday Live</title>
     <desc lang="en">Live French racing from Lyon Parilly and Compiegne as well as selected greyhound racing. A look ahead to this afternoon's UK racing.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/35e9915b-c4b6-47f8-a4a4-12813fa53140/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20260915123000 +0000" stop="20260915200000 +0000">
+  <programme channel="sky.racing.uk" start="20260915124500 +0000" stop="20260915200000 +0000">
     <title lang="en">Raceday Live</title>
     <desc lang="en">Live Racing: John Hunt brings you action from Day 1 of the Eastern Festival from Yarmouth with Jason Weaver reporting. Sedgefield with Luke Harvey and Wolves with Simon Mapletoft.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c95dce56-7d81-46ed-8d4f-db4c0bf9a64d/cover"/>
@@ -3261,9 +3245,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/ff7626f9-9d99-47e6-b440-30d98d2806d7/cover"/>
   </programme>
   <programme channel="sky.racing.uk" start="20260915210000 +0000" stop="20260915213000 +0000">
-    <title lang="en">Racing To Win</title>
-    <desc lang="en">The latest in the series a comprehensive preview show for Hong Kong racing. With form analysis trackwork highlights and interviews an expert team of presenters will also provide their selections.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/687b123c-da04-46f8-8444-db91c8d3e59d/cover"/>
+    <title lang="en">Unbridled On Tour</title>
+    <desc lang="en">Matt Chapman and Paddy Brennan head to Ireland to meet footballer turned horse breeder Kevin Doyle and retired equine legends such as Faugheen, Hurricane Fly and Bob Olinger.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/cc6f86f0-c41e-4d18-9720-3a99e1fe33ee/cover"/>
   </programme>
   <programme channel="sky.racing.uk" start="20260915213000 +0000" stop="20260915220000 +0000">
     <title lang="en">For the Love of the Racehorse</title>
@@ -3277,12 +3261,12 @@
   </programme>
   <programme channel="sky.racing.uk" start="20260916010000 +0000" stop="20260916050000 +0000">
     <title lang="en">Australian Racing Live</title>
-    <desc lang="en">Live Australian racing from Canterbury and Doomben.</desc>
+    <desc lang="en">Live Australian racing from Canterbury, Cauldfield Heath, Balaklava and Doomben.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bd56b79f-710e-42bb-85ff-15d74ef3c7e3/cover"/>
   </programme>
   <programme channel="sky.racing.uk" start="20260916050000 +0000" stop="20260916060000 +0000">
     <title lang="en">Australian Racing Live</title>
-    <desc lang="en">Live Australian racing from Canterbury and Doomben.</desc>
+    <desc lang="en">Live Australian racing from Canterbury, Cauldfield Heath, Balaklava and Doomben.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bd56b79f-710e-42bb-85ff-15d74ef3c7e3/cover"/>
   </programme>
   <programme channel="sky.racing.uk" start="20260916060000 +0000" stop="20260916090000 +0000">
@@ -3290,30 +3274,30 @@
     <desc lang="en">Stay across the biggest sports stories this morning with a wrap-up of the headlines.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8b432a9d-be88-4772-aa41-71f6fa77b6b5/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20260916090000 +0000" stop="20260916091500 +0000">
-    <title lang="en">British Racing: Welfare Commitment</title>
-    <desc lang="en">Alex Hammond visits Newbury Racecourse and Lambourn Training Grounds to find out what measures British Racing is implementing to help improve horse welfare.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/52a54f99-3c8a-3f89-9525-737d68b874eb/cover"/>
-  </programme>
-  <programme channel="sky.racing.uk" start="20260916091500 +0000" stop="20260916094500 +0000">
+  <programme channel="sky.racing.uk" start="20260916090000 +0000" stop="20260916093000 +0000">
     <title lang="en">Racing To Win</title>
     <desc lang="en">The latest in the series a comprehensive preview show for Hong Kong racing. With form analysis trackwork highlights and interviews an expert team of presenters will also provide their selections.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/687b123c-da04-46f8-8444-db91c8d3e59d/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20260916094500 +0000" stop="20260916123000 +0000">
+  <programme channel="sky.racing.uk" start="20260916093000 +0000" stop="20260916121500 +0000">
     <title lang="en">International Raceday Live</title>
     <desc lang="en">Live international racing from Happy Valley as well as greyhound racing. We look ahead to this afternoon's Flat card from Yarmouth where the feature race is the Listed John Muster Fillies' Stakes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/cb830294-87b8-4d77-aafd-6ad1b91d2700/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20260916123000 +0000" stop="20260916190000 +0000">
+  <programme channel="sky.racing.uk" start="20260916121500 +0000" stop="20260916190000 +0000">
     <title lang="en">Raceday Live</title>
     <desc lang="en">Live Racing: Gina Bryce, Jason Weaver, and Matt Chapman bring you Day 2 of the Eastern Festival from Yarmouth featuring the Listed John Musker Fillies' Stakes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b105b679-8279-4c65-9c83-8bd6a3ca625b/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20260916190000 +0000" stop="20260916213000 +0000">
+  <programme channel="sky.racing.uk" start="20260916190000 +0000" stop="20260916210000 +0000">
     <title lang="en">Stateside Live</title>
     <desc lang="en">Live US racing from Finger Lakes, Thistledown, Delaware, Churchill Downs, Horseshoe Indianapolis and Presque Isle Downs. Greyhound racing also features.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/88a70dc7-b2ff-4c1b-ae90-238681d2cce8/cover"/>
+  </programme>
+  <programme channel="sky.racing.uk" start="20260916210000 +0000" stop="20260916213000 +0000">
+    <title lang="en">Unbridled On Tour</title>
+    <desc lang="en">Matt Chapman and Paddy Brennan head to Ireland to meet footballer turned horse breeder Kevin Doyle and retired equine legends such as Faugheen, Hurricane Fly and Bob Olinger.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/cc6f86f0-c41e-4d18-9720-3a99e1fe33ee/cover"/>
   </programme>
   <programme channel="sky.racing.uk" start="20260916213000 +0000" stop="20260916220000 +0000">
     <title lang="en">For the Love of the Racehorse</title>
@@ -3997,15 +3981,20 @@
     <desc lang="en">Closing in on an emphatic series sweep, a dominant England remain 268 runs ahead - with Pakistan reduced to 52-2 - on day three of the third and final Test at Edgbaston. (11.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f98f2b0f-1a23-490e-98fe-037c1c8459d6/cover"/>
   </programme>
-  <programme channel="sky.cricket.uk" start="20260914120000 +0000" stop="20260914130000 +0000">
+  <programme channel="sky.cricket.uk" start="20260914120000 +0000" stop="20260914130001 +0000">
     <title lang="en">3rd Test Day 4: ENG v PAK Hlts</title>
     <desc lang="en">Day four of the third and final Test between England and Pakistan at Edgbaston. All out for 449, Pakistan have set England 130 to win and complete a 3-0 series sweep. (12.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/07ffe6de-1182-4f19-882c-e616508fd423/cover"/>
   </programme>
-  <programme channel="sky.cricket.uk" start="20260914130000 +0000" stop="20260914140000 +0000">
-    <title lang="en">3rd Test Day 5: ENG v PAK Hlts</title>
-    <desc lang="en">The fifth and final day of the third and final Test between England and Pakistan at Edgbaston. (13.09)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1249d2d1-5fe2-44a2-9320-d449b0f4784f/cover"/>
+  <programme channel="sky.cricket.uk" start="20260914130001 +0000" stop="20260914133001 +0000">
+    <title lang="en">Film Room: ENG v IND Lord's 2002</title>
+    <desc lang="en">Nasser Hussain, Darren Gough and David Lloyd watch one of the most famous matches Lord's has ever seen - the 2002 NatWest final.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1538926d-0387-4d4c-a7ec-f36230ffc1d7/cover"/>
+  </programme>
+  <programme channel="sky.cricket.uk" start="20260914133001 +0000" stop="20260914140000 +0000">
+    <title lang="en">Film Room: ENG v IND 2017 Women's Final</title>
+    <desc lang="en">Charles Dagnall, Heather Knight and Lauren Winfield-Hill remember the thrilling 2017 World Cup final at Lord's.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/687be1b8-b812-4b52-875a-89473f24a1d3/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20260914140000 +0000" stop="20260914143000 +0000">
     <title lang="en">ICC WT20 WC Final: ENG v AUS Hlts</title>
@@ -4047,15 +4036,20 @@
     <desc lang="en">Closing in on an emphatic series sweep, a dominant England remain 268 runs ahead - with Pakistan reduced to 52-2 - on day three of the third and final Test at Edgbaston. (11.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f98f2b0f-1a23-490e-98fe-037c1c8459d6/cover"/>
   </programme>
-  <programme channel="sky.cricket.uk" start="20260914210000 +0000" stop="20260914220000 +0000">
+  <programme channel="sky.cricket.uk" start="20260914210000 +0000" stop="20260914220001 +0000">
     <title lang="en">3rd Test Day 4: ENG v PAK Hlts</title>
     <desc lang="en">Day four of the third and final Test between England and Pakistan at Edgbaston. All out for 449, Pakistan have set England 130 to win and complete a 3-0 series sweep. (12.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/07ffe6de-1182-4f19-882c-e616508fd423/cover"/>
   </programme>
-  <programme channel="sky.cricket.uk" start="20260914220000 +0000" stop="20260914230000 +0000">
-    <title lang="en">3rd Test Day 5: ENG v PAK Hlts</title>
-    <desc lang="en">The fifth and final day of the third and final Test between England and Pakistan at Edgbaston. (13.09)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1249d2d1-5fe2-44a2-9320-d449b0f4784f/cover"/>
+  <programme channel="sky.cricket.uk" start="20260914220001 +0000" stop="20260914223001 +0000">
+    <title lang="en">Film Room: ENG v IND Lord's 2002</title>
+    <desc lang="en">Nasser Hussain, Darren Gough and David Lloyd watch one of the most famous matches Lord's has ever seen - the 2002 NatWest final.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1538926d-0387-4d4c-a7ec-f36230ffc1d7/cover"/>
+  </programme>
+  <programme channel="sky.cricket.uk" start="20260914223001 +0000" stop="20260914230000 +0000">
+    <title lang="en">Film Room: ENG v IND 2017 Women's Final</title>
+    <desc lang="en">Charles Dagnall, Heather Knight and Lauren Winfield-Hill remember the thrilling 2017 World Cup final at Lord's.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/687be1b8-b812-4b52-875a-89473f24a1d3/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20260914230000 +0000" stop="20260914233000 +0000">
     <title lang="en">ICC WT20 WC Final: ENG v AUS Hlts</title>
@@ -4147,10 +4141,15 @@
     <desc lang="en">Day four of the third and final Test between England and Pakistan at Edgbaston. All out for 449, Pakistan have set England 130 to win and complete a 3-0 series sweep. (12.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/07ffe6de-1182-4f19-882c-e616508fd423/cover"/>
   </programme>
-  <programme channel="sky.cricket.uk" start="20260915130000 +0000" stop="20260915140000 +0000">
-    <title lang="en">3rd Test Day 5: ENG v PAK Hlts</title>
-    <desc lang="en">The fifth and final day of the third and final Test between England and Pakistan at Edgbaston. (13.09)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1249d2d1-5fe2-44a2-9320-d449b0f4784f/cover"/>
+  <programme channel="sky.cricket.uk" start="20260915130000 +0000" stop="20260915133000 +0000">
+    <title lang="en">The Film Room: England v India</title>
+    <desc lang="en">Nasser Hussain, Michael Atherton and Dominic Cork revisit the first Test of the 1996 summer.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/16fe30ec-6577-4dfa-ac1f-7126139f753b/cover"/>
+  </programme>
+  <programme channel="sky.cricket.uk" start="20260915133000 +0000" stop="20260915140000 +0000">
+    <title lang="en">The Film Room: England v India</title>
+    <desc lang="en">Nasser Hussain, Darren Gough and David Lloyd watch one of the most famous matches Lord's has ever seen - the 2002 NatWest final.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1538926d-0387-4d4c-a7ec-f36230ffc1d7/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20260915140000 +0000" stop="20260915143000 +0000">
     <title lang="en">Nepal Climbing Cricket's Mountain</title>
@@ -4485,7 +4484,7 @@
   </programme>
   <programme channel="tnt1" start="20260914211500 +0000" stop="20260914213000 +0000">
     <title lang="en">The Gruppetto</title>
-    <desc lang="en">Hosted by Rob Hatch, The Gruppetto brings you everything you need to stay up to speed with the world of cycling, from in-depth race reviews to the latest news from the peloton.</desc>
+    <desc lang="en">Rob Hatch brings you all the latest news and reaction as the final Grand Tour of the season came to an end, with Enric Mas ending his long wait for Vuelta triumph.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8f961804-91d3-48e6-b378-8592d8167331/cover"/>
     <episode-num system="xmltv_ns">25.32.0</episode-num>
     <episode-num system="onscreen">S26E33</episode-num>
@@ -4499,7 +4498,7 @@
   </programme>
   <programme channel="tnt1" start="20260914223000 +0000" stop="20260915013000 +0000">
     <title lang="en">Live MLB: White Sox @ Guardians</title>
-    <desc lang="en">Action from Major League Baseball as Chicago White Sox face Cleveland Guardians.</desc>
+    <desc lang="en">Action from Major League Baseball as American League Central leaders Chicago White Sox face Cleveland Guardians in this series opener at Progressive Field.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/11ccfd1f-3140-4dc4-85df-949439aea887/cover"/>
   </programme>
   <programme channel="tnt1" start="20260915013000 +0000" stop="20260915020000 +0000">
@@ -4567,7 +4566,7 @@
   </programme>
   <programme channel="tnt1" start="20260915133000 +0000" stop="20260915134500 +0000">
     <title lang="en">The Gruppetto</title>
-    <desc lang="en">Hosted by Rob Hatch, The Gruppetto brings you everything you need to stay up to speed with the world of cycling, from in-depth race reviews to the latest news from the peloton.</desc>
+    <desc lang="en">Rob Hatch brings you all the latest news and reaction as the final Grand Tour of the season came to an end, with Enric Mas ending his long wait for Vuelta triumph.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8f961804-91d3-48e6-b378-8592d8167331/cover"/>
     <episode-num system="xmltv_ns">25.32.0</episode-num>
     <episode-num system="onscreen">S26E33</episode-num>
@@ -4575,7 +4574,7 @@
   <programme channel="tnt1" start="20260915134500 +0000" stop="20260915144500 +0000">
     <title lang="en">La Vuelta Men Highlights</title>
     <desc lang="en">The 2026 La Vuelta comes to a close with a 99.4km city circuit in Granada ending at the historic Alhambra palace.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1f6890cd-c949-4991-979b-a6d088ec48d3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/2485acf4-56fe-4843-8442-31976e1ee35c/cover"/>
   </programme>
   <programme channel="tnt1" start="20260915144500 +0000" stop="20260915150000 +0000">
     <title lang="en">The Breakdown: Harry Kane</title>
@@ -4591,7 +4590,7 @@
   </programme>
   <programme channel="tnt1" start="20260915160000 +0000" stop="20260915163000 +0000">
     <title lang="en">Match Officials Mic'd Up</title>
-    <desc lang="en">PGMOL Chief Refereeing Officer Howard Webb joins Michael Owen in the studio to provide context and explanation behind refereeing decisions from the season so far.</desc>
+    <desc lang="en">Howard Webb discusses the biggest refereeing decisions from the early stages of the Premier League season, including Erling Haaland's controversial goal in the Manchester derby.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d511e918-2226-4a68-b0fe-52cd9d71b13c/cover"/>
     <episode-num system="xmltv_ns">25.0.0</episode-num>
     <episode-num system="onscreen">S26E1</episode-num>
@@ -4652,7 +4651,7 @@
   </programme>
   <programme channel="tnt1" start="20260915213000 +0000" stop="20260915220000 +0000">
     <title lang="en">Match Officials Mic'd Up</title>
-    <desc lang="en">PGMOL Chief Refereeing Officer Howard Webb joins Michael Owen in the studio to provide context and explanation behind refereeing decisions from the season so far.</desc>
+    <desc lang="en">Howard Webb discusses the biggest refereeing decisions from the early stages of the Premier League season, including Erling Haaland's controversial goal in the Manchester derby.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d511e918-2226-4a68-b0fe-52cd9d71b13c/cover"/>
     <episode-num system="xmltv_ns">25.0.0</episode-num>
     <episode-num system="onscreen">S26E1</episode-num>
@@ -4704,7 +4703,7 @@
   </programme>
   <programme channel="tnt1" start="20260916051500 +0000" stop="20260916053000 +0000">
     <title lang="en">The Gruppetto</title>
-    <desc lang="en">Hosted by Rob Hatch, The Gruppetto brings you everything you need to stay up to speed with the world of cycling, from in-depth race reviews to the latest news from the peloton.</desc>
+    <desc lang="en">Rob Hatch brings you all the latest news and reaction as the final Grand Tour of the season came to an end, with Enric Mas ending his long wait for Vuelta triumph.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8f961804-91d3-48e6-b378-8592d8167331/cover"/>
     <episode-num system="xmltv_ns">25.32.0</episode-num>
     <episode-num system="onscreen">S26E33</episode-num>
@@ -4747,7 +4746,7 @@
   </programme>
   <programme channel="tnt1" start="20260916101500 +0000" stop="20260916103000 +0000">
     <title lang="en">The Gruppetto</title>
-    <desc lang="en">Hosted by Rob Hatch, The Gruppetto brings you everything you need to stay up to speed with the world of cycling, from in-depth race reviews to the latest news from the peloton.</desc>
+    <desc lang="en">Rob Hatch brings you all the latest news and reaction as the final Grand Tour of the season came to an end, with Enric Mas ending his long wait for Vuelta triumph.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8f961804-91d3-48e6-b378-8592d8167331/cover"/>
     <episode-num system="xmltv_ns">25.32.0</episode-num>
     <episode-num system="onscreen">S26E33</episode-num>
@@ -4776,7 +4775,7 @@
   </programme>
   <programme channel="tnt1" start="20260916140000 +0000" stop="20260916141500 +0000">
     <title lang="en">The Gruppetto</title>
-    <desc lang="en">Hosted by Rob Hatch, The Gruppetto brings you everything you need to stay up to speed with the world of cycling, from in-depth race reviews to the latest news from the peloton.</desc>
+    <desc lang="en">Rob Hatch brings you all the latest news and reaction as the final Grand Tour of the season came to an end, with Enric Mas ending his long wait for Vuelta triumph.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8f961804-91d3-48e6-b378-8592d8167331/cover"/>
     <episode-num system="xmltv_ns">25.32.0</episode-num>
     <episode-num system="onscreen">S26E33</episode-num>
@@ -4807,7 +4806,7 @@
   </programme>
   <programme channel="tnt1" start="20260916213000 +0000" stop="20260916220000 +0000">
     <title lang="en">Match Officials Mic'd Up</title>
-    <desc lang="en">PGMOL Chief Refereeing Officer Howard Webb joins Michael Owen in the studio to provide context and explanation behind refereeing decisions from the season so far.</desc>
+    <desc lang="en">Howard Webb discusses the biggest refereeing decisions from the early stages of the Premier League season, including Erling Haaland's controversial goal in the Manchester derby.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d511e918-2226-4a68-b0fe-52cd9d71b13c/cover"/>
     <episode-num system="xmltv_ns">25.0.0</episode-num>
     <episode-num system="onscreen">S26E1</episode-num>
@@ -4834,7 +4833,7 @@
   <programme channel="tnt2" start="20260913230000 +0000" stop="20260914000000 +0000">
     <title lang="en">La Vuelta Men Highlights</title>
     <desc lang="en">The 2026 La Vuelta comes to a close with a 99.4km city circuit in Granada ending at the historic Alhambra palace.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1f6890cd-c949-4991-979b-a6d088ec48d3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/2485acf4-56fe-4843-8442-31976e1ee35c/cover"/>
   </programme>
   <programme channel="tnt2" start="20260914000000 +0000" stop="20260914010000 +0000">
     <title lang="en">Cycling: Grand Prix Fourmies</title>
@@ -4930,7 +4929,7 @@
   </programme>
   <programme channel="tnt2" start="20260914150000 +0000" stop="20260914170000 +0000">
     <title lang="en">Snooker English Open</title>
-    <desc lang="en">Highlights from the final of the BetVictor English Open, part of the Snooker Home Nations Series.</desc>
+    <desc lang="en">Highlights from the final of the BetVictor English Open as England's Ali Carter faces Wales' Mark Williams for the title.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/db199e35-f5df-4c9b-b8e3-69eaed41bf3f/cover"/>
   </programme>
   <programme channel="tnt2" start="20260914170000 +0000" stop="20260914203000 +0000">
@@ -5306,7 +5305,7 @@
   <programme channel="tnt3" start="20260914073000 +0000" stop="20260914083000 +0000">
     <title lang="en">La Vuelta Men Highlights</title>
     <desc lang="en">The 2026 La Vuelta comes to a close with a 99.4km city circuit in Granada ending at the historic Alhambra palace.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1f6890cd-c949-4991-979b-a6d088ec48d3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/2485acf4-56fe-4843-8442-31976e1ee35c/cover"/>
   </programme>
   <programme channel="tnt3" start="20260914083000 +0000" stop="20260914093000 +0000">
     <title lang="en">FIA World Endurance Championship</title>
@@ -5322,7 +5321,7 @@
   </programme>
   <programme channel="tnt3" start="20260914100000 +0000" stop="20260914120000 +0000">
     <title lang="en">Snooker English Open</title>
-    <desc lang="en">Highlights from the final of the BetVictor English Open, part of the Snooker Home Nations Series.</desc>
+    <desc lang="en">Highlights from the final of the BetVictor English Open as England's Ali Carter faces Wales' Mark Williams for the title.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/db199e35-f5df-4c9b-b8e3-69eaed41bf3f/cover"/>
   </programme>
   <programme channel="tnt3" start="20260914120000 +0000" stop="20260914123000 +0000">
@@ -5378,7 +5377,7 @@
   </programme>
   <programme channel="tnt3" start="20260914190000 +0000" stop="20260914191500 +0000">
     <title lang="en">The Gruppetto</title>
-    <desc lang="en">Hosted by Rob Hatch, The Gruppetto brings you everything you need to stay up to speed with the world of cycling, from in-depth race reviews to the latest news from the peloton.</desc>
+    <desc lang="en">Rob Hatch brings you all the latest news and reaction as the final Grand Tour of the season came to an end, with Enric Mas ending his long wait for Vuelta triumph.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8f961804-91d3-48e6-b378-8592d8167331/cover"/>
     <episode-num system="xmltv_ns">25.32.0</episode-num>
     <episode-num system="onscreen">S26E33</episode-num>
@@ -5445,7 +5444,7 @@
   <programme channel="tnt3" start="20260915040000 +0000" stop="20260915050000 +0000">
     <title lang="en">La Vuelta Men Highlights</title>
     <desc lang="en">The 2026 La Vuelta comes to a close with a 99.4km city circuit in Granada ending at the historic Alhambra palace.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1f6890cd-c949-4991-979b-a6d088ec48d3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/2485acf4-56fe-4843-8442-31976e1ee35c/cover"/>
   </programme>
   <programme channel="tnt3" start="20260915050000 +0000" stop="20260915060000 +0000">
     <title lang="en">NWSL: Kansas v Orlando</title>
@@ -5559,7 +5558,7 @@
   </programme>
   <programme channel="tnt3" start="20260915220000 +0000" stop="20260915221500 +0000">
     <title lang="en">The Gruppetto</title>
-    <desc lang="en">Hosted by Rob Hatch, The Gruppetto brings you everything you need to stay up to speed with the world of cycling, from in-depth race reviews to the latest news from the peloton.</desc>
+    <desc lang="en">Rob Hatch brings you all the latest news and reaction as the final Grand Tour of the season came to an end, with Enric Mas ending his long wait for Vuelta triumph.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8f961804-91d3-48e6-b378-8592d8167331/cover"/>
     <episode-num system="xmltv_ns">25.32.0</episode-num>
     <episode-num system="onscreen">S26E33</episode-num>
@@ -5736,7 +5735,7 @@
   <programme channel="tnt4" start="20260914020000 +0000" stop="20260914030000 +0000">
     <title lang="en">La Vuelta Men Highlights</title>
     <desc lang="en">The 2026 La Vuelta comes to a close with a 99.4km city circuit in Granada ending at the historic Alhambra palace.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1f6890cd-c949-4991-979b-a6d088ec48d3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/2485acf4-56fe-4843-8442-31976e1ee35c/cover"/>
   </programme>
   <programme channel="tnt4" start="20260914030000 +0000" stop="20260914040000 +0000">
     <title lang="en">Cycling: Grand Prix Fourmies</title>
@@ -5783,7 +5782,7 @@
   <programme channel="tnt4" start="20260914120000 +0000" stop="20260914130000 +0000">
     <title lang="en">La Vuelta Men Highlights</title>
     <desc lang="en">The 2026 La Vuelta comes to a close with a 99.4km city circuit in Granada ending at the historic Alhambra palace.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1f6890cd-c949-4991-979b-a6d088ec48d3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/2485acf4-56fe-4843-8442-31976e1ee35c/cover"/>
   </programme>
   <programme channel="tnt4" start="20260914130000 +0000" stop="20260914140000 +0000">
     <title lang="en">Cycling: Grand Prix Fourmies</title>
@@ -6747,7 +6746,7 @@
   <programme channel="5Action.uk" start="20260913210000 +0000" stop="20260913220000 +0000">
     <title lang="en">New: Cycling: Vuelta a Espana 2026</title>
     <desc lang="en">The 2026 La Vuelta comes to a close with a 99.4km city circuit in Granada ending at the historic Alhambra palace. Presented by Rebecca Charlton.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1f6890cd-c949-4991-979b-a6d088ec48d3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/c652e7cc-7fa3-470d-8ca7-44ade24ff732/cover"/>
     <premiere/>
   </programme>
   <programme channel="5Action.uk" start="20260913220000 +0000" stop="20260913223000 +0000">
@@ -11103,7 +11102,7 @@
   </programme>
   <programme channel="BBCFourHD.uk" start="20260916210000 +0000" stop="20260916211500 +0000">
     <title lang="en">Andrew Davies Remembers... Middlemarch</title>
-    <desc lang="en">Screenwriter Andrew Davies looks back on his acclaimed 1994 adaptation of George Eliot's Middlemarch.</desc>
+    <desc lang="en">Screenwriter Andrew Davies looks back on his acclaimed 1994 adaptation of George Eliot's Middlemarch. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a774c9cd-1376-4c72-a001-3a24ffec621f/cover"/>
   </programme>
   <programme channel="BBCFourHD.uk" start="20260916211500 +0000" stop="20260916224000 +0000">
@@ -11258,15 +11257,10 @@
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9b775b9d-71f2-45a9-a847-d374ad9378a9/cover"/>
   </programme>
-  <programme channel="BBCNews.uk" start="20260914100000 +0000" stop="20260914103000 +0000">
+  <programme channel="BBCNews.uk" start="20260914100000 +0000" stop="20260914104500 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/04c36fa3-1d3e-4458-8d9c-6e15a649d8a7/cover"/>
-  </programme>
-  <programme channel="BBCNews.uk" start="20260914103000 +0000" stop="20260914104500 +0000">
-    <title lang="en">Business Today</title>
-    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/77ddefd3-eea3-4edd-814c-b7a87490706c/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/f630f71f-3658-4e59-8320-d10c2b03e5e8/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260914104500 +0000" stop="20260914110000 +0000">
     <title lang="en">BBC News</title>
@@ -11309,9 +11303,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/336e1002-c93e-46b9-ad43-2b36ae9b5a0f/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260914143000 +0000" stop="20260914150000 +0000">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/60bb5d75-cb2b-4f94-8690-4475e70c9381/cover"/>
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/58e6faf6-9d85-4f19-9700-8d91a60fdbb2/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260914150000 +0000" stop="20260914153000 +0000">
     <title lang="en">Verified Live</title>
@@ -11940,7 +11934,7 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260914083000 +0000" stop="20260914094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin and Louise are joined by the Morning Live team to answer your questions. Also, fake inheritance letters, nuisance neighbours and the latest legal headlines that could affect you.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/08601e80-509b-4e0d-8f0d-3e43b4ea8292/cover"/>
     <episode-num system="xmltv_ns">7.73.0</episode-num>
     <episode-num system="onscreen">S8E74</episode-num>
@@ -12019,7 +12013,7 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260914180000 +0000" stop="20260914183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Eric Idle, Jack Whitehall and Daisy Edgar-Jones join Alex and Roman on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/58edcfaf-806b-4e53-a073-efd8128f3c6b/cover"/>
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260914183000 +0000" stop="20260914190000 +0000">
@@ -12362,7 +12356,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20260914083000 +0000" stop="20260914094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin and Louise are joined by the Morning Live team to answer your questions. Also, fake inheritance letters, nuisance neighbours and the latest legal headlines that could affect you.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/08601e80-509b-4e0d-8f0d-3e43b4ea8292/cover"/>
     <episode-num system="xmltv_ns">7.73.0</episode-num>
     <episode-num system="onscreen">S8E74</episode-num>
@@ -12441,7 +12435,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20260914180000 +0000" stop="20260914183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Eric Idle, Jack Whitehall and Daisy Edgar-Jones join Alex and Roman on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/58edcfaf-806b-4e53-a073-efd8128f3c6b/cover"/>
   </programme>
   <programme channel="BBCOneEast.uk" start="20260914183000 +0000" stop="20260914190000 +0000">
@@ -12784,7 +12778,7 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260914083000 +0000" stop="20260914094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin and Louise are joined by the Morning Live team to answer your questions. Also, fake inheritance letters, nuisance neighbours and the latest legal headlines that could affect you.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/08601e80-509b-4e0d-8f0d-3e43b4ea8292/cover"/>
     <episode-num system="xmltv_ns">7.73.0</episode-num>
     <episode-num system="onscreen">S8E74</episode-num>
@@ -12863,7 +12857,7 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260914180000 +0000" stop="20260914183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Eric Idle, Jack Whitehall and Daisy Edgar-Jones join Alex and Roman on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/58edcfaf-806b-4e53-a073-efd8128f3c6b/cover"/>
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260914183000 +0000" stop="20260914190000 +0000">
@@ -13206,7 +13200,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260914083000 +0000" stop="20260914094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin and Louise are joined by the Morning Live team to answer your questions. Also, fake inheritance letters, nuisance neighbours and the latest legal headlines that could affect you.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/08601e80-509b-4e0d-8f0d-3e43b4ea8292/cover"/>
     <episode-num system="xmltv_ns">7.73.0</episode-num>
     <episode-num system="onscreen">S8E74</episode-num>
@@ -13285,7 +13279,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260914180000 +0000" stop="20260914183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Eric Idle, Jack Whitehall and Daisy Edgar-Jones join Alex and Roman on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/58edcfaf-806b-4e53-a073-efd8128f3c6b/cover"/>
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260914183000 +0000" stop="20260914190000 +0000">
@@ -13628,7 +13622,7 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260914083000 +0000" stop="20260914094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin and Louise are joined by the Morning Live team to answer your questions. Also, fake inheritance letters, nuisance neighbours and the latest legal headlines that could affect you.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/08601e80-509b-4e0d-8f0d-3e43b4ea8292/cover"/>
     <episode-num system="xmltv_ns">7.73.0</episode-num>
     <episode-num system="onscreen">S8E74</episode-num>
@@ -13707,7 +13701,7 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260914180000 +0000" stop="20260914183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Eric Idle, Jack Whitehall and Daisy Edgar-Jones join Alex and Roman on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/58edcfaf-806b-4e53-a073-efd8128f3c6b/cover"/>
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260914183000 +0000" stop="20260914190000 +0000">
@@ -14050,7 +14044,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260914083000 +0000" stop="20260914094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin and Louise are joined by the Morning Live team to answer your questions. Also, fake inheritance letters, nuisance neighbours and the latest legal headlines that could affect you.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/08601e80-509b-4e0d-8f0d-3e43b4ea8292/cover"/>
     <episode-num system="xmltv_ns">7.73.0</episode-num>
     <episode-num system="onscreen">S8E74</episode-num>
@@ -14129,7 +14123,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260914180000 +0000" stop="20260914183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Eric Idle, Jack Whitehall and Daisy Edgar-Jones join Alex and Roman on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/58edcfaf-806b-4e53-a073-efd8128f3c6b/cover"/>
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260914183000 +0000" stop="20260914190000 +0000">
@@ -14472,7 +14466,7 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260914083000 +0000" stop="20260914094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin and Louise are joined by the Morning Live team to answer your questions. Also, fake inheritance letters, nuisance neighbours and the latest legal headlines that could affect you.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/08601e80-509b-4e0d-8f0d-3e43b4ea8292/cover"/>
     <episode-num system="xmltv_ns">7.73.0</episode-num>
     <episode-num system="onscreen">S8E74</episode-num>
@@ -14551,7 +14545,7 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260914180000 +0000" stop="20260914183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Eric Idle, Jack Whitehall and Daisy Edgar-Jones join Alex and Roman on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/58edcfaf-806b-4e53-a073-efd8128f3c6b/cover"/>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260914183000 +0000" stop="20260914190000 +0000">
@@ -14908,7 +14902,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260914083000 +0000" stop="20260914094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin and Louise are joined by the Morning Live team to answer your questions. Also, fake inheritance letters, nuisance neighbours and the latest legal headlines that could affect you.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/08601e80-509b-4e0d-8f0d-3e43b4ea8292/cover"/>
     <episode-num system="xmltv_ns">7.73.0</episode-num>
     <episode-num system="onscreen">S8E74</episode-num>
@@ -14987,7 +14981,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260914180000 +0000" stop="20260914183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Eric Idle, Jack Whitehall and Daisy Edgar-Jones join Alex and Roman on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/58edcfaf-806b-4e53-a073-efd8128f3c6b/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260914183000 +0000" stop="20260914190000 +0000">
@@ -15345,7 +15339,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260914083000 +0000" stop="20260914094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin and Louise are joined by the Morning Live team to answer your questions. Also, fake inheritance letters, nuisance neighbours and the latest legal headlines that could affect you.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/08601e80-509b-4e0d-8f0d-3e43b4ea8292/cover"/>
     <episode-num system="xmltv_ns">7.73.0</episode-num>
     <episode-num system="onscreen">S8E74</episode-num>
@@ -15424,7 +15418,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260914180000 +0000" stop="20260914183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Eric Idle, Jack Whitehall and Daisy Edgar-Jones join Alex and Roman on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/58edcfaf-806b-4e53-a073-efd8128f3c6b/cover"/>
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260914183000 +0000" stop="20260914190000 +0000">
@@ -15767,7 +15761,7 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260914083000 +0000" stop="20260914094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin and Louise are joined by the Morning Live team to answer your questions. Also, fake inheritance letters, nuisance neighbours and the latest legal headlines that could affect you.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/08601e80-509b-4e0d-8f0d-3e43b4ea8292/cover"/>
     <episode-num system="xmltv_ns">7.73.0</episode-num>
     <episode-num system="onscreen">S8E74</episode-num>
@@ -15846,7 +15840,7 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260914180000 +0000" stop="20260914183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Eric Idle, Jack Whitehall and Daisy Edgar-Jones join Alex and Roman on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/58edcfaf-806b-4e53-a073-efd8128f3c6b/cover"/>
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260914183000 +0000" stop="20260914190000 +0000">
@@ -16189,7 +16183,7 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260914083000 +0000" stop="20260914094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin and Louise are joined by the Morning Live team to answer your questions. Also, fake inheritance letters, nuisance neighbours and the latest legal headlines that could affect you.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/08601e80-509b-4e0d-8f0d-3e43b4ea8292/cover"/>
     <episode-num system="xmltv_ns">7.73.0</episode-num>
     <episode-num system="onscreen">S8E74</episode-num>
@@ -16268,7 +16262,7 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260914180000 +0000" stop="20260914183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Eric Idle, Jack Whitehall and Daisy Edgar-Jones join Alex and Roman on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/58edcfaf-806b-4e53-a073-efd8128f3c6b/cover"/>
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260914183000 +0000" stop="20260914190000 +0000">
@@ -16611,7 +16605,7 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20260914083000 +0000" stop="20260914094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin and Louise are joined by the Morning Live team to answer your questions. Also, fake inheritance letters, nuisance neighbours and the latest legal headlines that could affect you.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/08601e80-509b-4e0d-8f0d-3e43b4ea8292/cover"/>
     <episode-num system="xmltv_ns">7.73.0</episode-num>
     <episode-num system="onscreen">S8E74</episode-num>
@@ -16695,7 +16689,7 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20260914180000 +0000" stop="20260914183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Eric Idle, Jack Whitehall and Daisy Edgar-Jones join Alex and Roman on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/58edcfaf-806b-4e53-a073-efd8128f3c6b/cover"/>
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20260914183000 +0000" stop="20260914190000 +0000">
@@ -17048,7 +17042,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20260914083000 +0000" stop="20260914094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin and Louise are joined by the Morning Live team to answer your questions. Also, fake inheritance letters, nuisance neighbours and the latest legal headlines that could affect you.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/08601e80-509b-4e0d-8f0d-3e43b4ea8292/cover"/>
     <episode-num system="xmltv_ns">7.73.0</episode-num>
     <episode-num system="onscreen">S8E74</episode-num>
@@ -17127,7 +17121,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20260914180000 +0000" stop="20260914183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Eric Idle, Jack Whitehall and Daisy Edgar-Jones join Alex and Roman on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/58edcfaf-806b-4e53-a073-efd8128f3c6b/cover"/>
   </programme>
   <programme channel="BBCOneWest.uk" start="20260914183000 +0000" stop="20260914190000 +0000">
@@ -17470,7 +17464,7 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260914083000 +0000" stop="20260914094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin and Louise are joined by the Morning Live team to answer your questions. Also, fake inheritance letters, nuisance neighbours and the latest legal headlines that could affect you.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/08601e80-509b-4e0d-8f0d-3e43b4ea8292/cover"/>
     <episode-num system="xmltv_ns">7.73.0</episode-num>
     <episode-num system="onscreen">S8E74</episode-num>
@@ -17549,7 +17543,7 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260914180000 +0000" stop="20260914183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Eric Idle, Jack Whitehall and Daisy Edgar-Jones join Alex and Roman on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/58edcfaf-806b-4e53-a073-efd8128f3c6b/cover"/>
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260914183000 +0000" stop="20260914190000 +0000">
@@ -17892,7 +17886,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260914083000 +0000" stop="20260914094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin and Louise are joined by the Morning Live team to answer your questions. Also, fake inheritance letters, nuisance neighbours and the latest legal headlines that could affect you.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/08601e80-509b-4e0d-8f0d-3e43b4ea8292/cover"/>
     <episode-num system="xmltv_ns">7.73.0</episode-num>
     <episode-num system="onscreen">S8E74</episode-num>
@@ -17971,7 +17965,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260914180000 +0000" stop="20260914183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Eric Idle, Jack Whitehall and Daisy Edgar-Jones join Alex and Roman on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/58edcfaf-806b-4e53-a073-efd8128f3c6b/cover"/>
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260914183000 +0000" stop="20260914190000 +0000">
@@ -18314,7 +18308,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260914083000 +0000" stop="20260914094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Gethin and Louise are joined by the Morning Live team to answer your questions. Also, fake inheritance letters, nuisance neighbours and the latest legal headlines that could affect you.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/08601e80-509b-4e0d-8f0d-3e43b4ea8292/cover"/>
     <episode-num system="xmltv_ns">7.73.0</episode-num>
     <episode-num system="onscreen">S8E74</episode-num>
@@ -18393,7 +18387,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260914180000 +0000" stop="20260914183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Eric Idle, Jack Whitehall and Daisy Edgar-Jones join Alex and Roman on the sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/58edcfaf-806b-4e53-a073-efd8128f3c6b/cover"/>
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260914183000 +0000" stop="20260914190000 +0000">
@@ -18712,12 +18706,12 @@
   <programme channel="BBCParliament.uk" start="20260913200000 +0000" stop="20260913222000 +0000">
     <title lang="en">Scottish Parliament - Communities Debate</title>
     <desc lang="en">Coverage of the debate in the Scottish Parliament on the Scottish government's policies for communities, from Wednesday 9 September.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/6e51db32-6c35-4edc-8e1d-d3425a7d8bd1/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/aa0fe37e-9e72-4140-9617-936ebbaa27b8/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260913222000 +0000" stop="20260913225000 +0000">
     <title lang="en">Scottish Parliament - General Questions</title>
     <desc lang="en">Coverage of general questions in the Scottish Parliament to ministers in the Scottish Parliament, from Thursday 10 September.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0b6dfefe-dac1-4e1d-a7ef-73a592a3ba27/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9af54fdc-243a-4617-8b9f-dab7611d4b5a/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260913225000 +0000" stop="20260913232000 +0000">
     <title lang="en">Public Service Reform, Europe,...</title>
@@ -18727,12 +18721,12 @@
   <programme channel="BBCParliament.uk" start="20260913232000 +0000" stop="20260914013000 +0000">
     <title lang="en">Israel-Palestine Statement</title>
     <desc lang="en">Coverage of a statement in the House of Commons by foreign secretary Ed Miliband on Israel and Palestine, on Tuesday 8 September.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/78b971bc-a0dc-4be3-866e-e056c31e3d4b/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/28d41371-d511-4586-83f9-356372d71268/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260914013000 +0000" stop="20260914023500 +0000">
     <title lang="en">Dover and Portsmouth Protests Statement</title>
     <desc lang="en">Coverage of the statement in the House of Commons by policing and crime minister Sarah Jones on the weekend's protests in Dover and Portsmouth, on Monday 7 September.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/fbd8c41f-9007-49a7-8dbc-80d35566d0bf/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/2791392d-dd04-4d2d-b3f9-957722bb620c/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260914023500 +0000" stop="20260914042500 +0000">
     <title lang="en">Local Government Reorganisation Statement</title>
@@ -18742,7 +18736,7 @@
   <programme channel="BBCParliament.uk" start="20260914042500 +0000" stop="20260914050000 +0000">
     <title lang="en">Air Traffic Control Urgent Question</title>
     <desc lang="en">An urgent question on the disruption to flights caused by problems at air traffic control.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e42deb06-013a-4781-adf8-3bd7c0c71569/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/36e45909-a343-4b95-977f-8daeb7abd008/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260914050000 +0000" stop="20260914074000 +0000">
     <title lang="en">Westminster Hall</title>
@@ -18752,7 +18746,7 @@
   <programme channel="BBCParliament.uk" start="20260914074000 +0000" stop="20260914082000 +0000">
     <title lang="en">Air Traffic Control Urgent Question</title>
     <desc lang="en">An urgent question on the disruption to flights caused by problems at air traffic control.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/acc535eb-36e6-4229-9a12-0f5646e894fe/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/36e45909-a343-4b95-977f-8daeb7abd008/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260914082000 +0000" stop="20260914090500 +0000">
     <title lang="en">Northern Ireland Assembly -...</title>
@@ -18789,10 +18783,20 @@
     <desc lang="en">Coverage of questions in the House of Commons to Lucy Powell, the education secretary, and her team of ministers on Monday 14 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b7548311-b2de-4d2a-8a48-ae1b9210f90a/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260914143000 +0000" stop="20260914213000 +0000">
+  <programme channel="BBCParliament.uk" start="20260914143000 +0000" stop="20260914153000 +0000">
+    <title lang="en">Live Speciality Steel UK Statement</title>
+    <desc lang="en">Coverage of a statement in the House of Commons by business secretary Jonathan Reynolds on Speciality Steel UK, on Monday 14 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/0bee4e2c-a270-429f-8550-7dd6fdc7e8b3/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260914153000 +0000" stop="20260914163000 +0000">
+    <title lang="en">Live Robert Hamill Inquiry Report Publication</title>
+    <desc lang="en">A statement on the report into the death in 1997 of Robert Hamill in Portadown.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6ba07676-ba88-4c86-aed9-8957db8837f3/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260914163000 +0000" stop="20260914213000 +0000">
     <title lang="en">Live House of Commons</title>
-    <desc lang="en">Proceedings in the House of Commons including the debate on the remaining stages of the Sovereign Grant Bill, followed by a general debate on Israel and Palestine, on Monday 14 September.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/df6f8353-fb75-49f3-a13e-dd941927e665/cover"/>
+    <desc lang="en">Coverage of proceedings in the Commons, including the debate on the remaining stages of the Sovereign Grant Bill, followed by a general debate on Israel and Palestine, on Monday 14 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ec55f501-4525-4761-aae4-81102040328d/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260914213000 +0000" stop="20260914221500 +0000">
     <title lang="en">Northern Ireland Assembly - Economy Questions</title>
@@ -19589,7 +19593,7 @@
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20260914111500 +0000" stop="20260914120000 +0000">
     <title lang="en">Politics Live</title>
-    <desc lang="en">The big political issues of the day.</desc>
+    <desc lang="en">Two billionaires have donated £36 million each to Nigel Farage's Reform UK party.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9b47b6b8-5349-4c4e-bbf0-2d2d5894527a/cover"/>
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20260914120000 +0000" stop="20260914124500 +0000">
@@ -20102,7 +20106,7 @@
   </programme>
   <programme channel="BBCTwoHD.uk" start="20260914111500 +0000" stop="20260914120000 +0000">
     <title lang="en">Politics Live</title>
-    <desc lang="en">The big political issues of the day.</desc>
+    <desc lang="en">Two billionaires have donated £36 million each to Nigel Farage's Reform UK party.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9b47b6b8-5349-4c4e-bbf0-2d2d5894527a/cover"/>
   </programme>
   <programme channel="BBCTwoHD.uk" start="20260914120000 +0000" stop="20260914124500 +0000">
@@ -20615,7 +20619,7 @@
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20260914111500 +0000" stop="20260914120000 +0000">
     <title lang="en">Politics Live</title>
-    <desc lang="en">The big political issues of the day.</desc>
+    <desc lang="en">Two billionaires have donated £36 million each to Nigel Farage's Reform UK party.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9b47b6b8-5349-4c4e-bbf0-2d2d5894527a/cover"/>
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20260914120000 +0000" stop="20260914124500 +0000">
@@ -21135,7 +21139,7 @@
   </programme>
   <programme channel="BBCTwoWales.uk" start="20260914111500 +0000" stop="20260914120000 +0000">
     <title lang="en">Politics Live</title>
-    <desc lang="en">The big political issues of the day.</desc>
+    <desc lang="en">Two billionaires have donated £36 million each to Nigel Farage's Reform UK party.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9b47b6b8-5349-4c4e-bbf0-2d2d5894527a/cover"/>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20260914120000 +0000" stop="20260914124500 +0000">
@@ -24031,11 +24035,9 @@
     <episode-num system="onscreen">S1E24</episode-num>
   </programme>
   <programme channel="CBeebies.uk" start="20260914153000 +0000" stop="20260914154000 +0000">
-    <title lang="en">Do Not Watch This Show</title>
-    <desc lang="en">Dance. Wizz promises Nessie he will perform a dance with her at the end of the episode.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/67a532c4-33b1-46c5-8049-caf09927404f/cover"/>
-    <episode-num system="xmltv_ns">1.5.0</episode-num>
-    <episode-num system="onscreen">S2E6</episode-num>
+    <title lang="en">Mojo Swoptops</title>
+    <desc lang="en">Mojo Mail. What top would be best for delivering parcels around town? Mojo and Bo need to decide fast and get those parcels delivered, whether it's by land, water, or high in the air!</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/713e222d-8e0b-442f-8853-e89d0552a168/cover"/>
   </programme>
   <programme channel="CBeebies.uk" start="20260914154000 +0000" stop="20260914154500 +0000">
     <title lang="en">Bluey</title>
@@ -25424,38 +25426,29 @@
     <episode-num system="onscreen">S30E1</episode-num>
   </programme>
   <programme channel="Channel4.uk" start="20260914230500 +0000" stop="20260915000500 +0000">
-    <title lang="en">New: Walter Presents: The Twelve</title>
-    <desc lang="en">Botox Murders: Taut Belgian drama. When a famous author and his pregnant wife are murdered, his son Francis and Francis's partner Klara are charged. In Flemish/subs.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/abd9665e-ae2e-42ae-a48a-44435549d275/cover"/>
-    <premiere/>
-    <episode-num system="xmltv_ns">2.0.0</episode-num>
-    <episode-num system="onscreen">S3E1</episode-num>
-  </programme>
-  <programme channel="Channel4.uk" start="20260915000500 +0000" stop="20260915010000 +0000">
     <title lang="en">The Jury: 14 and on Trial for</title>
     <desc lang="en">Murder: After heated disagreements, the jury come to their verdict; are the brothers guilty of murder or of manslaughter? And is it the same verdict as the real-life case?</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/7a83c7be-c637-4c27-9745-07dc0f1dadda/cover"/>
-    <episode-num system="xmltv_ns">2.3.0</episode-num>
-    <episode-num system="onscreen">S3E4</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/d2748a0b-96f1-4214-b6b8-065b3468cb84/cover"/>
   </programme>
-  <programme channel="Channel4.uk" start="20260915010000 +0000" stop="20260915015000 +0000">
+  <programme channel="Channel4.uk" start="20260915000500 +0000" stop="20260915005500 +0000">
     <title lang="en">Ramsay's Kitchen Nightmares USA</title>
     <desc lang="en">Pantaleone's: In Colorado, Gordon visits Italian restaurant Pantaleone's, whose stubborn owner Pete claims that he makes 'the best pizza in Denver'. Sadly, Gordon doesn't agree.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/903bd0e1-53dc-4d89-8926-0e66c28a93cb/cover"/>
-    <episode-num system="xmltv_ns">5.1.0</episode-num>
-    <episode-num system="onscreen">S6E2</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/11f47705-8c8d-435c-9085-66b5d5647b13/cover"/>
   </programme>
-  <programme channel="Channel4.uk" start="20260915015000 +0000" stop="20260915024500 +0000">
+  <programme channel="Channel4.uk" start="20260915005500 +0000" stop="20260915015000 +0000">
     <title lang="en">The Dog House</title>
     <desc lang="en">Two teen brothers need a peacekeeper. Is Maggie, a cute Chihuahua cross, the one? And Nicola and Matt want very different dogs - can Woodgreen find them a compromise pooch?</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/4b46fd17-3fd6-3319-a905-438dd0212cee/cover"/>
-    <episode-num system="xmltv_ns">4.2.0</episode-num>
-    <episode-num system="onscreen">S5E3</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/02437f5c-eee9-4da5-9b71-f2458da8b9fc/cover"/>
   </programme>
-  <programme channel="Channel4.uk" start="20260915024500 +0000" stop="20260915034000 +0000">
+  <programme channel="Channel4.uk" start="20260915015000 +0000" stop="20260915024500 +0000">
     <title lang="en">Couples Come Dine with Me</title>
     <desc lang="en">In Marbella, three couples put their hosting skills to the test in a week featuring competitive piñata bashing, chicken critique and large helpings of frank feedback.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/5af69555-8302-3656-a755-80f68a4c21b2/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/6ebd17d5-abd9-4ff7-bb55-33b488269fde/cover"/>
+  </programme>
+  <programme channel="Channel4.uk" start="20260915024500 +0000" stop="20260915034000 +0000">
+    <title lang="en">Location, Location, Location</title>
+    <desc lang="en">Kirstie Allsopp catches up with a student in Liverpool who was desperate to flee a noisy flat, and two househunters in the south of England.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7cb6d554-ebc0-45b6-b878-a6cc4d4e12db/cover"/>
   </programme>
   <programme channel="Channel4.uk" start="20260915034000 +0000" stop="20260915045000 +0000">
     <title lang="en">Hollyoaks Omnibus</title>
@@ -26115,38 +26108,29 @@
     <episode-num system="onscreen">S30E1</episode-num>
   </programme>
   <programme channel="Channel4Plus1.uk" start="20260915000500 +0000" stop="20260915010500 +0000">
-    <title lang="en">New: Walter Presents: The Twelve</title>
-    <desc lang="en">Botox Murders: Taut Belgian drama. When a famous author and his pregnant wife are murdered, his son Francis and Francis's partner Klara are charged. In Flemish/subs.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/abd9665e-ae2e-42ae-a48a-44435549d275/cover"/>
-    <premiere/>
-    <episode-num system="xmltv_ns">2.0.0</episode-num>
-    <episode-num system="onscreen">S3E1</episode-num>
-  </programme>
-  <programme channel="Channel4Plus1.uk" start="20260915010500 +0000" stop="20260915020000 +0000">
     <title lang="en">The Jury: 14 and on Trial for</title>
     <desc lang="en">Murder: After heated disagreements, the jury come to their verdict; are the brothers guilty of murder or of manslaughter? And is it the same verdict as the real-life case?</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/7a83c7be-c637-4c27-9745-07dc0f1dadda/cover"/>
-    <episode-num system="xmltv_ns">2.3.0</episode-num>
-    <episode-num system="onscreen">S3E4</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/d2748a0b-96f1-4214-b6b8-065b3468cb84/cover"/>
   </programme>
-  <programme channel="Channel4Plus1.uk" start="20260915020000 +0000" stop="20260915025000 +0000">
+  <programme channel="Channel4Plus1.uk" start="20260915010500 +0000" stop="20260915015500 +0000">
     <title lang="en">Ramsay's Kitchen Nightmares USA</title>
     <desc lang="en">Pantaleone's: In Colorado, Gordon visits Italian restaurant Pantaleone's, whose stubborn owner Pete claims that he makes 'the best pizza in Denver'. Sadly, Gordon doesn't agree.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/903bd0e1-53dc-4d89-8926-0e66c28a93cb/cover"/>
-    <episode-num system="xmltv_ns">5.1.0</episode-num>
-    <episode-num system="onscreen">S6E2</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/11f47705-8c8d-435c-9085-66b5d5647b13/cover"/>
   </programme>
-  <programme channel="Channel4Plus1.uk" start="20260915025000 +0000" stop="20260915034500 +0000">
+  <programme channel="Channel4Plus1.uk" start="20260915015500 +0000" stop="20260915025000 +0000">
     <title lang="en">The Dog House</title>
     <desc lang="en">Two teen brothers need a peacekeeper. Is Maggie, a cute Chihuahua cross, the one? And Nicola and Matt want very different dogs - can Woodgreen find them a compromise pooch?</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/4b46fd17-3fd6-3319-a905-438dd0212cee/cover"/>
-    <episode-num system="xmltv_ns">4.2.0</episode-num>
-    <episode-num system="onscreen">S5E3</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/02437f5c-eee9-4da5-9b71-f2458da8b9fc/cover"/>
   </programme>
-  <programme channel="Channel4Plus1.uk" start="20260915034500 +0000" stop="20260915044000 +0000">
+  <programme channel="Channel4Plus1.uk" start="20260915025000 +0000" stop="20260915034500 +0000">
     <title lang="en">Couples Come Dine with Me</title>
     <desc lang="en">In Marbella, three couples put their hosting skills to the test in a week featuring competitive piñata bashing, chicken critique and large helpings of frank feedback.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/5af69555-8302-3656-a755-80f68a4c21b2/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/6ebd17d5-abd9-4ff7-bb55-33b488269fde/cover"/>
+  </programme>
+  <programme channel="Channel4Plus1.uk" start="20260915034500 +0000" stop="20260915044000 +0000">
+    <title lang="en">Location, Location, Location</title>
+    <desc lang="en">Kirstie Allsopp catches up with a student in Liverpool who was desperate to flee a noisy flat, and two househunters in the south of England.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7cb6d554-ebc0-45b6-b878-a6cc4d4e12db/cover"/>
   </programme>
   <programme channel="Channel4Plus1.uk" start="20260915044000 +0000" stop="20260915055000 +0000">
     <title lang="en">Hollyoaks Omnibus</title>
@@ -26554,7 +26538,7 @@
   <programme channel="Channel5Plus1.uk" start="20260913210000 +0000" stop="20260914003000 +0000">
     <title lang="en">Live: NFL on 5: Green Bay...</title>
     <desc lang="en">...Packers @ Minnesota Vikings. Dermot O'Leary, Sam Quek and Osi Umenyiora host a new season of live NFL, with expert analysis, celebrity guests, NFL stars and games, before a studio audience.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/4930c0da-a522-44a8-ba82-3dd1d9515451/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/d2614262-0bed-4540-aca5-29490f918248/cover"/>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20260914003000 +0000" stop="20260914005500 +0000">
     <title lang="en">Cops</title>
@@ -27202,14 +27186,14 @@
     <desc lang="en">Your one-stop-shop for all things cruise; bringing you the hottest destinations, ground-breaking ships and the latest deals to ensure your next cruise holiday is your greatest one!</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d15c6cab-2249-4f5a-8094-4cbc7aeaf32e/cover"/>
   </programme>
-  <programme channel="Channel5Plus1.uk" start="20260916021000 +0000" stop="20260916030500 +0000">
+  <programme channel="Channel5Plus1.uk" start="20260916021000 +0000" stop="20260916030000 +0000">
     <title lang="en">Amazing Railway Adventures with Nick Knowles</title>
     <desc lang="en">From the misty mountains of Sa Pa to the jam-packed city of Hanoi with its five million scooters, Nick discovers a Vietnam that is developing fast and thriving. (Ep3)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c53cb2cd-28f6-3134-9b51-6d8c42924658/cover"/>
     <episode-num system="xmltv_ns">0.2.0</episode-num>
     <episode-num system="onscreen">S1E3</episode-num>
   </programme>
-  <programme channel="Channel5Plus1.uk" start="20260916030500 +0000" stop="20260916035500 +0000">
+  <programme channel="Channel5Plus1.uk" start="20260916030000 +0000" stop="20260916035500 +0000">
     <title lang="en">Castle</title>
     <desc lang="en">In LA, Castle is approached by The Greatest Detective Society who offer him a place among their ranks if he can solve the murder of a private detective.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5a0779ef-d790-4cb1-aea5-104bcc16d592/cover"/>
@@ -27223,17 +27207,17 @@
     <episode-num system="xmltv_ns">0.5.0</episode-num>
     <episode-num system="onscreen">S1E6</episode-num>
   </programme>
-  <programme channel="Channel5Plus1.uk" start="20260916044500 +0000" stop="20260916051000 +0000">
+  <programme channel="Channel5Plus1.uk" start="20260916044500 +0000" stop="20260916051200 +0000">
     <title lang="en">**Visually Signed**The Wonderful..</title>
     <desc lang="en">...World of Chocolate. A sweet selection from this mouthwatering documentary series. (VS)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8bf995ff-cb8f-40a8-8acb-329881228fa4/cover"/>
     <episode-num system="xmltv_ns">2.5.0</episode-num>
     <episode-num system="onscreen">S3E6</episode-num>
   </programme>
-  <programme channel="Channel5Plus1.uk" start="20260916051000 +0000" stop="20260916053500 +0000">
-    <title lang="en">**Visually Signed**The Wonderful..</title>
-    <desc lang="en">...World of Chocolate. A sweet selection from this mouthwatering documentary series. (VS)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/53909895-0153-4c9d-b694-6492d611ebfa/cover"/>
+  <programme channel="Channel5Plus1.uk" start="20260916051200 +0000" stop="20260916053500 +0000">
+    <title lang="en">This is Channel 5 +1</title>
+    <desc lang="en">This is Channel 5 +1</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/b6f10f8d-5249-4d23-88f1-582c802c5097/cover"/>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20260916053500 +0000" stop="20260916055000 +0000">
     <title lang="en">Entertainment News on 5</title>
