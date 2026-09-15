@@ -1,17 +1,6 @@
 {
   "sky.main.uk": [
     {
-      "title": "Live MNF: Leeds v Newcastle",
-      "description": "Monday Night Football comes from Elland Road as unbeaten Leeds and Newcastle clash in the Premier League. Both sides have five points from the opening three games of the season.",
-      "start": 1789407000,
-      "stop": 1789423200,
-      "icon": "https://images.metadata.sky.com/pd-image/ee0f66bd-7cc8-404f-a604-6c31f014fd09/cover",
-      "channel": "sky.main.uk",
-      "premiere": false,
-      "season": null,
-      "episode": 3
-    },
-    {
       "title": "Sky Sports News",
       "description": "Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.",
       "start": 1789423200,
@@ -618,17 +607,6 @@
     }
   ],
   "sky.premier.uk": [
-    {
-      "title": "Live MNF: Leeds v Newcastle",
-      "description": "Monday Night Football comes from Elland Road as unbeaten Leeds and Newcastle clash in the Premier League. Both sides have five points from the opening three games of the season.",
-      "start": 1789407000,
-      "stop": 1789423200,
-      "icon": "https://images.metadata.sky.com/pd-image/ee0f66bd-7cc8-404f-a604-6c31f014fd09/cover",
-      "channel": "sky.premier.uk",
-      "premiere": false,
-      "season": null,
-      "episode": 3
-    },
     {
       "title": "Transfer 360: Kieran Trippier",
       "description": "A transfer that changed a football club. Find out why Kieran Trippier's move to Newcastle proved so important in shaping the face of a new era.",
@@ -2932,7 +2910,7 @@
     },
     {
       "title": "Live EFL: AFC Wimbledon v MK Dons",
-      "description": "AFC Wimbledon go in search of a third consecutive Sky Bet League One win as Johnnie Jackson's side entertain MK Dons at the Cherry Red Records Stadium.",
+      "description": "AFC Wimbledon search for a third straight League One win in a clash with MK Dons. Plus, watch third-round action from the EFL Cup, including Manchester City against Norwich, on Sky Sports+.",
       "start": 1789669800,
       "stop": 1789680600,
       "icon": "https://images.metadata.sky.com/pd-image/ef4d3df2-337f-45b8-a6fd-6defe33c8fd9/cover",
@@ -2987,17 +2965,6 @@
     }
   ],
   "sky.tennis.uk": [
-    {
-      "title": "Live: WTA Tennis",
-      "description": "Renata Zarazua, competing on home soil, opens her Guadalajara Open campaign against Caroline Dolehide, while Americans Kayla Day and Elvina Kalieva go toe to toe.",
-      "start": 1789408800,
-      "stop": 1789425000,
-      "icon": "https://images.metadata.sky.com/pd-image/73cbab74-644c-461f-81a0-5c08d2e5ad94/cover",
-      "channel": "sky.tennis.uk",
-      "premiere": false,
-      "season": null,
-      "episode": 3.0
-    },
     {
       "title": "Live: WTA Guadalajara",
       "description": "Opening-round action continues in Guadalajara as eighth seed Liudmila Samsonova takes on Elsa Jacquemot. Plus, Turkey's Zeynep Sonmez plays Iryna Shymanovich.",
@@ -5767,17 +5734,6 @@
     }
   ],
   "sky.mix.uk": [
-    {
-      "title": "PL Darts: Liverpool",
-      "description": "As the 2026 BetMGM Premier League enters the home stretch, night 12 comes from Liverpool as Luke Littler and Luke Humphries collide, while Stephen Bunting faces Jonny Clayton.",
-      "start": 1789408800,
-      "stop": 1789423200,
-      "icon": "https://images.metadata.sky.com/pd-image/35918a2a-a8b6-470a-8eb4-3a7572f44957/cover",
-      "channel": "sky.mix.uk",
-      "premiere": false,
-      "season": null,
-      "episode": 12.0
-    },
     {
       "title": "Best of the NFL 25/26",
       "description": "The Houston Texans and Tampa Bay meet in the NFL. It was another successful visit to Atlanta for Emeka Egbuka as the first-round pick starred on debut, helping Tampa Bay to victory. (15.09)",
@@ -8697,7 +8653,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 2026.0,
-      "episode": 90
+      "episode": 90.0
     },
     {
       "title": "Serie A: Sassuolo v Juventus",
@@ -8708,7 +8664,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Serie A: Inter v Udinese",
@@ -8719,7 +8675,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Cycling: Grand Prix Montreal",
@@ -8730,7 +8686,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Moto3: GP of San Marino",
@@ -8741,7 +8697,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Moto2: GP of San Marino",
@@ -8752,7 +8708,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "MotoGP: San Marino Sprint",
@@ -8763,7 +8719,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "MotoGP: GP of San Marino",
@@ -8774,7 +8730,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "MX2: China - Race 1",
@@ -8785,7 +8741,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 2026.0,
-      "episode": 185
+      "episode": 185.0
     },
     {
       "title": "MXGP: China - Race 1",
@@ -8796,7 +8752,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 2026.0,
-      "episode": 186
+      "episode": 186.0
     },
     {
       "title": "MX2: China - Race 2",
@@ -8807,7 +8763,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 2026.0,
-      "episode": 187
+      "episode": 187.0
     },
     {
       "title": "MXGP: China - Race 2",
@@ -8818,7 +8774,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 2026.0,
-      "episode": 188
+      "episode": 188.0
     },
     {
       "title": "Premier League Review",
@@ -8829,7 +8785,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 26.0,
-      "episode": 4
+      "episode": 4.0
     },
     {
       "title": "Live ETPL: Amsterdam v Dublin",
@@ -8840,139 +8796,161 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Live ETPL: Edinburgh v Rotterdam",
       "description": "Action from the European T20 Premier League as Edinburgh Castle Rockers face Rotterdam Dockers.",
       "start": 1789476300,
-      "stop": 1789489860,
-      "icon": "https://images.metadata.sky.com/pd-image/81364e84-9ad1-49ca-8b63-ab31a36e6589/cover",
+      "stop": 1789489800,
+      "icon": "https://images.metadata.sky.com/pd-image/ffe88a26-6e69-46ea-96d6-67459be1a79f/cover",
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": null
+    },
+    {
+      "title": "WCPL: Trinbago v Guyana",
+      "description": "Women's Caribbean Premier League action as Trinbago Knight Riders and Guyana Amazon Warriors face off.",
+      "start": 1789489800,
+      "stop": 1789491600,
+      "icon": "https://images.metadata.sky.com/pd-image/c3093b21-1393-427e-a17c-d3566ec3a458/cover",
+      "channel": "tnt2",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "WCPL: Barbados v Jamaica",
+      "description": "Women's Caribbean Premier League action as Barbados Tridents take on Jamaica Empress.",
+      "start": 1789491600,
+      "stop": 1789493400,
+      "icon": "https://images.metadata.sky.com/pd-image/edcd53b0-da2c-403f-9255-df2acd36b20d/cover",
+      "channel": "tnt2",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "WCPL: Guyana v Barbados",
+      "description": "Women's Caribbean Premier League as Guyana Amazon Warriors face Barbados Tridents.",
+      "start": 1789493400,
+      "stop": 1789495200,
+      "icon": "https://images.metadata.sky.com/pd-image/b1d1d222-19de-454b-b503-02cc3f65ff5e/cover",
+      "channel": "tnt2",
+      "premiere": false,
+      "season": null,
+      "episode": null
     },
     {
       "title": "Moto3: GP of San Marino",
       "description": "Race action from the 2026 Moto3 Grand Prix of San Marino at Misano World Circuit Marco Simoncelli, as Spain's Maximo Quiles hunts for back-to-back wins.",
-      "start": 1789489860,
-      "stop": 1789493400,
-      "icon": "https://images.metadata.sky.com/pd-image/bfdbde50-e288-4c98-9848-4fdb764fb825/cover",
+      "start": 1789495200,
+      "stop": 1789498800,
+      "icon": "https://images.metadata.sky.com/pd-image/6620d81c-f407-4fbe-9d89-555d5ea544f4/cover",
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": null
     },
     {
       "title": "Moto2: GP of San Marino",
       "description": "Race action from the 2026 Moto2 Grand Prix of San Marino at Misano World Circuit Marco Simoncelli. Italy's Celestino Vietti claimed victory in this race last season.",
-      "start": 1789493400,
-      "stop": 1789497000,
-      "icon": "https://images.metadata.sky.com/pd-image/41ee47f1-37b6-4174-8890-211e061c899b/cover",
-      "channel": "tnt2",
-      "premiere": false,
-      "season": null,
-      "episode": 0
-    },
-    {
-      "title": "MotoGP: San Marino Sprint",
-      "description": "Sprint race action from the 2026 MotoGP Grand Prix of San Marino at Misano World Circuit Marco Simoncelli. Italy's Marco Bezzecchi topped the podium in this race last season.",
-      "start": 1789497000,
-      "stop": 1789498800,
-      "icon": "https://images.metadata.sky.com/pd-image/199f2bf5-322a-4411-a778-545bcb7a6572/cover",
-      "channel": "tnt2",
-      "premiere": false,
-      "season": null,
-      "episode": 0
-    },
-    {
-      "title": "MotoGP: GP of San Marino",
-      "description": "Race action from the 2026 MotoGP Grand Prix of San Marino at Misano World Circuit Marco Simoncelli. Can Marc Marquez continue his dominant record at this venue?",
       "start": 1789498800,
       "stop": 1789502400,
       "icon": "https://images.metadata.sky.com/pd-image/ac0700a2-2396-4d66-8b3f-84290ffef981/cover",
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
-      "title": "MLB Highlights",
-      "description": "A look back at the latest MLB action, including Cleveland Guardians against Chicago White Sox and San Diego Padres' trip to San Francisco Giants. (14.09)",
+      "title": "MotoGP: San Marino Sprint",
+      "description": "Sprint race action from the 2026 MotoGP Grand Prix of San Marino at Misano World Circuit Marco Simoncelli. Italy's Marco Bezzecchi topped the podium in this race last season.",
       "start": 1789502400,
-      "stop": 1789506000,
-      "icon": "https://images.metadata.sky.com/pd-image/5f745c85-2358-4b4f-a6ca-07e664e0e569/cover",
+      "stop": 1789504200,
+      "icon": "https://images.metadata.sky.com/pd-image/a8f7eb21-98e7-4500-88d9-628cc9ff311f/cover",
       "channel": "tnt2",
       "premiere": false,
-      "season": 2026.0,
-      "episode": 180
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "MotoGP: GP of San Marino",
+      "description": "Race action from the 2026 MotoGP Grand Prix of San Marino at Misano World Circuit Marco Simoncelli. Can Marc Marquez continue his dominant record at this venue?",
+      "start": 1789504200,
+      "stop": 1789507800,
+      "icon": "https://images.metadata.sky.com/pd-image/dfc49137-8055-4cd7-9cf7-57b9d28a6c7c/cover",
+      "channel": "tnt2",
+      "premiere": false,
+      "season": null,
+      "episode": null
     },
     {
       "title": "Climbing World Series Highlights",
       "description": "Highlights from the 2026 IFSC Climbing World Series in Guiyang, China.",
-      "start": 1789506000,
-      "stop": 1789509600,
-      "icon": "https://images.metadata.sky.com/pd-image/f67b5d57-159b-4ad5-8e39-dba23d59a4b4/cover",
+      "start": 1789507800,
+      "stop": 1789511400,
+      "icon": "https://images.metadata.sky.com/pd-image/2b796df1-cff9-4173-a6bb-fe9a7ae46ad3/cover",
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": null
     },
     {
       "title": "Premier League Netbusters",
       "description": "A fast-paced look at the best action from matchday four of the Premier League, featuring Sunderland v Arsenal, Man United v Man City, and Leeds v Newcastle.",
-      "start": 1789509600,
-      "stop": 1789511400,
-      "icon": "https://images.metadata.sky.com/pd-image/9ab56eab-11ed-4d18-a10e-4e367bc79f33/cover",
+      "start": 1789511400,
+      "stop": 1789513200,
+      "icon": "https://images.metadata.sky.com/pd-image/eeef73f4-1bed-4848-893a-29b83e1642fa/cover",
       "channel": "tnt2",
       "premiere": false,
-      "season": 26.0,
-      "episode": 4
+      "season": null,
+      "episode": null
     },
     {
       "title": "PL Stories: John Stones",
       "description": "As John Stones begins a new life in Italy, we look back at the defining moments, relationships and challenges behind one of England's most decorated players.",
-      "start": 1789511400,
-      "stop": 1789513200,
-      "icon": "https://images.metadata.sky.com/pd-image/0534a205-6909-452f-89a0-96938b252f71/cover",
+      "start": 1789513200,
+      "stop": 1789515000,
+      "icon": "https://images.metadata.sky.com/pd-image/f8832b3c-0342-49d8-a487-55ccfe2bfa55/cover",
       "channel": "tnt2",
       "premiere": false,
-      "season": 6.0,
-      "episode": 16
+      "season": null,
+      "episode": null
     },
     {
       "title": "UFC Fight Night",
       "description": "Action from UFC Fight Night at Desert Diamond Arena in Arizona, headlined by the featherweight bout between Jean Silva and Jose Miguel Delgado.",
-      "start": 1789513200,
-      "stop": 1789524000,
-      "icon": "https://images.metadata.sky.com/pd-image/e1e54512-df7a-4e0f-bab6-33a44415e54c/cover",
+      "start": 1789515000,
+      "stop": 1789525800,
+      "icon": "https://images.metadata.sky.com/pd-image/91576bae-1daf-4ed4-8a8d-8bd0a649154e/cover",
       "channel": "tnt2",
       "premiere": false,
-      "season": 2026.0,
-      "episode": 45
+      "season": null,
+      "episode": null
     },
     {
       "title": "The UFC Breakdown",
       "description": "Our TNT Sports experts analyse and debate the biggest topics in MMA ahead of UFC 331, which will feature the clash between Joshua Van and Alexandre Pantoja.",
-      "start": 1789524000,
-      "stop": 1789525800,
-      "icon": "https://images.metadata.sky.com/pd-image/44968ef2-0b08-4bb7-92b4-fe811225f195/cover",
+      "start": 1789525800,
+      "stop": 1789527600,
+      "icon": "https://images.metadata.sky.com/pd-image/ef55b839-a0f6-44ce-bf29-36eef96a5919/cover",
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": null
     },
     {
-      "title": "UFC The Ultimate Fighter - S34",
-      "description": "Team Bisping put 21-year-old Azerbaijani prospect Mehemmedeli Osmanli up against Team Cormier's veteran Artem Belakh in a crucial men's bantamweight bout.",
-      "start": 1789525800,
+      "title": "British Open Polo Championship",
+      "description": "Coverage of the 2026 British Open Polo Championship, as international stars of the game compete in the setting of Cowdray Park's stunning grounds.",
+      "start": 1789527600,
       "stop": 1789529400,
-      "icon": "https://images.metadata.sky.com/pd-image/d8ffb73d-6d03-47f0-89da-0655ae9d7c9f/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/c93464e7-de03-4d37-ba0d-585d8b9bcb27/cover",
       "channel": "tnt2",
       "premiere": false,
-      "season": 34.0,
-      "episode": 4
+      "season": null,
+      "episode": null
     },
     {
       "title": "Premier League Reload",
@@ -8983,7 +8961,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 26.0,
-      "episode": 4
+      "episode": 4.0
     },
     {
       "title": "MotoGP Rewind",
@@ -8994,7 +8972,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Premier League Netbusters",
@@ -9005,7 +8983,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 26.0,
-      "episode": 4
+      "episode": 4.0
     },
     {
       "title": "PL Stories: John Stones",
@@ -9016,7 +8994,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 6.0,
-      "episode": 16
+      "episode": 16.0
     },
     {
       "title": "CPL Highlights",
@@ -9027,7 +9005,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Moto3: GP of San Marino",
@@ -9038,7 +9016,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Moto2: GP of San Marino",
@@ -9049,7 +9027,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "MotoGP: San Marino Sprint",
@@ -9060,7 +9038,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "MotoGP: GP of San Marino",
@@ -9071,7 +9049,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "MX2: China - Race 1",
@@ -9082,7 +9060,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 2026.0,
-      "episode": 185
+      "episode": 185.0
     },
     {
       "title": "MXGP: China - Race 1",
@@ -9093,7 +9071,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 2026.0,
-      "episode": 186
+      "episode": 186.0
     },
     {
       "title": "MX2: China - Race 2",
@@ -9104,7 +9082,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 2026.0,
-      "episode": 187
+      "episode": 187.0
     },
     {
       "title": "MXGP: China - Race 2",
@@ -9115,7 +9093,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 2026.0,
-      "episode": 188
+      "episode": 188.0
     },
     {
       "title": "Sign Up - Into Football",
@@ -9126,7 +9104,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 26.0,
-      "episode": 1
+      "episode": 1.0
     },
     {
       "title": "Live ETPL: Glasgow v Amsterdam",
@@ -9137,7 +9115,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "MLB Highlights",
@@ -9148,7 +9126,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 2026.0,
-      "episode": 181
+      "episode": 181.0
     },
     {
       "title": "MLB Plays of the Week",
@@ -9159,7 +9137,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 2026.0,
-      "episode": 24
+      "episode": 24.0
     },
     {
       "title": "PL Stories: John Stones",
@@ -9170,7 +9148,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 6.0,
-      "episode": 16
+      "episode": 16.0
     },
     {
       "title": "Serie A - Full Impact",
@@ -9181,7 +9159,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 2026.0,
-      "episode": 4
+      "episode": 4.0
     },
     {
       "title": "Live UEL: AC Milan v Benfica",
@@ -9192,7 +9170,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "MotoGP Highlights: San Marino 2026",
@@ -9203,7 +9181,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "CPL Highlights",
@@ -9214,7 +9192,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Live CPL: Tridents v Kingsmen",
@@ -9225,7 +9203,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "TNT Sports Cricket Reload",
@@ -9236,7 +9214,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 25.0,
-      "episode": 161
+      "episode": 161.0
     },
     {
       "title": "TNT Sports Cricket Reload",
@@ -9247,7 +9225,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 25.0,
-      "episode": 162
+      "episode": 162.0
     },
     {
       "title": "TNT Sports Cricket Reload",
@@ -9258,7 +9236,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 25.0,
-      "episode": 163
+      "episode": 163.0
     },
     {
       "title": "TNT Sports Cricket Reload",
@@ -9269,7 +9247,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 25.0,
-      "episode": 164
+      "episode": 164.0
     },
     {
       "title": "TNT Sports Cricket Reload",
@@ -9280,7 +9258,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 25.0,
-      "episode": 166
+      "episode": 166.0
     },
     {
       "title": "TNT Sports Cricket Reload",
@@ -9291,7 +9269,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 25.0,
-      "episode": 167
+      "episode": 167.0
     },
     {
       "title": "TNT Sports Cricket Reload",
@@ -9302,7 +9280,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 25.0,
-      "episode": 168
+      "episode": 168.0
     },
     {
       "title": "TNT Sports Cricket Reload",
@@ -9313,7 +9291,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 25.0,
-      "episode": 170
+      "episode": 170.0
     },
     {
       "title": "Playing For Our Future - Cricket",
@@ -9324,7 +9302,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 2.0,
-      "episode": 57
+      "episode": 57.0
     },
     {
       "title": "FIM Speedway Grand Prix Highlights",
@@ -9335,7 +9313,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "MotoGP Highlights: San Marino 2026",
@@ -9346,7 +9324,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Tour of Abruzzo - Stage 2",
@@ -9357,7 +9335,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Skoda Tour of Luxembourg - Stage 1",
@@ -9368,7 +9346,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Live ETPL: Edinburgh v Belfast",
@@ -9379,7 +9357,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Live ETPL: Rotterdam v Dublin",
@@ -9390,7 +9368,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "MLB Plays of the Week",
@@ -9401,7 +9379,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 2026.0,
-      "episode": 24
+      "episode": 24.0
     },
     {
       "title": "UEL & UECL Highlights Show",
@@ -9412,7 +9390,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 26.0,
-      "episode": 1
+      "episode": 1.0
     },
     {
       "title": "Live UEL: R Sociedad v Bournemouth",
@@ -9423,7 +9401,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Serie A - Full Impact",
@@ -9434,7 +9412,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": 2026.0,
-      "episode": 4
+      "episode": 4.0
     },
     {
       "title": "Rolex Grand Slam - Spruce Meadows",
@@ -9445,7 +9423,7 @@
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     }
   ],
   "tnt3": [
@@ -12759,7 +12737,7 @@
       "title": "Gunsmoke",
       "description": "With a drought around Dodge, a city slicker plans on profiting off local farmers. And the only hope the farmers have is a 'water-witch' named Sam'l. (S13 Ep24/25)",
       "start": 1789552800,
-      "stop": 1789556400,
+      "stop": 1789556700,
       "icon": "https://images.metadata.sky.com/pd-image/b4c63772-9c44-4ab0-9f78-fec96250fa5f/cover",
       "channel": "5Action.uk",
       "premiere": false,
@@ -12769,8 +12747,8 @@
     {
       "title": "Tall Stranger",
       "description": "Western starring Joel McCrea. Union soldier Ned Bannon survives an attack and joins a wagon train, only to discover their guide is leading settlers into his half-brother's deadly trap. (1957)",
-      "start": 1789556400,
-      "stop": 1789560000,
+      "start": 1789556700,
+      "stop": 1789560300,
       "icon": "https://images.metadata.sky.com/pd-image/2da7b80a-e02a-4020-9411-604aabce2ab7/cover",
       "channel": "5Action.uk",
       "premiere": false,
@@ -12780,8 +12758,8 @@
     {
       "title": "Entertainment News on 5",
       "description": "A daily round-up of showbiz news and gossip from around the world, focusing on celebrities, movies, music and entertainment.",
-      "start": 1789560000,
-      "stop": 1789560300,
+      "start": 1789560300,
+      "stop": 1789560600,
       "icon": "https://images.metadata.sky.com/pd-image/95eed3b4-0665-441c-ae58-2ce35d0289e9/cover",
       "channel": "5Action.uk",
       "premiere": false,
@@ -12791,8 +12769,8 @@
     {
       "title": "Tall Stranger",
       "description": "Western starring Joel McCrea. Union soldier Ned Bannon survives an attack and joins a wagon train, only to discover their guide is leading settlers into his half-brother's deadly trap. (1957)",
-      "start": 1789560300,
-      "stop": 1789563600,
+      "start": 1789560600,
+      "stop": 1789563000,
       "icon": "https://images.metadata.sky.com/pd-image/2da7b80a-e02a-4020-9411-604aabce2ab7/cover",
       "channel": "5Action.uk",
       "premiere": false,
@@ -12802,8 +12780,8 @@
     {
       "title": "Track of the Cat",
       "description": "Psychological drama starring Robert Mitchum and Diana Lynn. When a family experiencing difficulties is stranded in a remote cabin, the eldest son attempts to dominate them. (1954)",
-      "start": 1789563600,
-      "stop": 1789567200,
+      "start": 1789563000,
+      "stop": 1789566600,
       "icon": "https://images.metadata.sky.com/pd-image/d9e60d74-a519-4d60-9721-70525d64a96a/cover",
       "channel": "5Action.uk",
       "premiere": false,
@@ -12813,8 +12791,8 @@
     {
       "title": "Entertainment News on 5",
       "description": "A daily round-up of showbiz news and gossip from around the world, focusing on celebrities, movies, music and entertainment.",
-      "start": 1789567200,
-      "stop": 1789567500,
+      "start": 1789566600,
+      "stop": 1789566900,
       "icon": "https://images.metadata.sky.com/pd-image/ed00c043-bd28-46fc-b628-70a014495475/cover",
       "channel": "5Action.uk",
       "premiere": false,
@@ -12824,7 +12802,7 @@
     {
       "title": "Track of the Cat",
       "description": "Psychological drama starring Robert Mitchum and Diana Lynn. When a family experiencing difficulties is stranded in a remote cabin, the eldest son attempts to dominate them. (1954)",
-      "start": 1789567500,
+      "start": 1789566900,
       "stop": 1789570800,
       "icon": "https://images.metadata.sky.com/pd-image/d9e60d74-a519-4d60-9721-70525d64a96a/cover",
       "channel": "5Action.uk",
@@ -12922,7 +12900,7 @@
     },
     {
       "title": "Rescue 999: Seconds to Save a Life",
-      "description": "...Save a Life. The urgent rescues of a man hit by cardiac arrest while shopping, a fallen climber with a traumatic leg fracture, and a son's Father's Day gift of jet skiing goes wrong. (Ep2)",
+      "description": "The urgent rescues of a man hit by cardiac arrest while shopping, a fallen climber with a traumatic leg fracture, and a son's Father's Day gift of jet skiing goes wrong. (Ep2)",
       "start": 1789599600,
       "stop": 1789603200,
       "icon": "https://images.metadata.sky.com/pd-image/913d1749-4331-374c-875a-216b189f6c59/cover",
@@ -19932,7 +19910,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 245.0
+      "episode": 245
     },
     {
       "title": "BBC World News America",
@@ -19943,7 +19921,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News",
@@ -19954,7 +19932,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Newscast",
@@ -19965,7 +19943,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 19.0
+      "episode": 19
     },
     {
       "title": "BBC News",
@@ -19976,7 +19954,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Talking Business",
@@ -19987,7 +19965,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 44.0
+      "episode": 44
     },
     {
       "title": "Newsday",
@@ -19998,7 +19976,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Business Today",
@@ -20009,7 +19987,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC Sport",
@@ -20020,7 +19998,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Newsday",
@@ -20031,7 +20009,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Business Today",
@@ -20042,7 +20020,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC Sport",
@@ -20053,7 +20031,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Newsday",
@@ -20064,7 +20042,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Business Today",
@@ -20075,7 +20053,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC Sport",
@@ -20086,7 +20064,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News",
@@ -20097,7 +20075,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Business Today",
@@ -20108,7 +20086,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News",
@@ -20119,7 +20097,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Business Today",
@@ -20130,7 +20108,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News",
@@ -20141,7 +20119,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Business Today",
@@ -20152,7 +20130,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Signed: BBC News",
@@ -20163,7 +20141,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News",
@@ -20174,7 +20152,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News",
@@ -20185,7 +20163,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News",
@@ -20196,7 +20174,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News",
@@ -20207,7 +20185,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News",
@@ -20218,7 +20196,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News",
@@ -20229,7 +20207,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Business Today",
@@ -20240,7 +20218,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News",
@@ -20251,7 +20229,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News Now",
@@ -20262,7 +20240,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News",
@@ -20273,7 +20251,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 0
     },
     {
       "title": "BBC News",
@@ -20284,7 +20262,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News Now",
@@ -20295,29 +20273,18 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
-      "title": "Business Today - NYSE Opening Bell",
-      "description": "Bringing the latest business news and up-to-date informed analysis from New York and around the world. [S] [HD]",
+      "title": "BBC News",
+      "description": "The latest news from the BBC. [S] [HD]",
       "start": 1789479000,
-      "stop": 1789479900,
-      "icon": "https://images.metadata.sky.com/pd-image/ceec6b44-e4fd-40dc-8ed6-3202956adf8d/cover",
-      "channel": "BBCNews.uk",
-      "premiere": false,
-      "season": null,
-      "episode": 0.0
-    },
-    {
-      "title": "BBC News Now",
-      "description": "All the big stories, live as they happen, presented by Lucy Hockings. [S] [HD]",
-      "start": 1789479900,
       "stop": 1789480800,
-      "icon": "https://images.metadata.sky.com/pd-image/8f1953b4-5a7d-49f7-b59f-e1397ad7822d/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/709d1846-b638-43f8-8150-75f1708d7a8e/cover",
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Verified Live",
@@ -20328,7 +20295,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Verified Live",
@@ -20339,7 +20306,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Verified Live",
@@ -20350,7 +20317,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Business Today",
@@ -20361,7 +20328,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Verified Live",
@@ -20372,7 +20339,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Verified Live",
@@ -20383,7 +20350,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News",
@@ -20394,7 +20361,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Signed: BBC News at Six",
@@ -20405,7 +20372,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "The World Today with Maryam Moshiri",
@@ -20416,7 +20383,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "The World Today with Maryam Moshiri",
@@ -20427,7 +20394,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "The World Today with Maryam Moshiri",
@@ -20438,7 +20405,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "The Context USA",
@@ -20449,7 +20416,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "The Context USA",
@@ -20460,7 +20427,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "The Context",
@@ -20471,7 +20438,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "The Context",
@@ -20482,7 +20449,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News at Ten",
@@ -20493,7 +20460,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC World News America",
@@ -20504,7 +20471,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC World News America",
@@ -20515,7 +20482,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News",
@@ -20526,7 +20493,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Newscast",
@@ -20537,7 +20504,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 20.0
+      "episode": 20
     },
     {
       "title": "BBC News",
@@ -20548,7 +20515,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "The Media Show",
@@ -20559,7 +20526,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 46.0
+      "episode": 46
     },
     {
       "title": "Newsday",
@@ -20570,7 +20537,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Business Today",
@@ -20581,7 +20548,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC Sport",
@@ -20592,7 +20559,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Newsday",
@@ -20603,7 +20570,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Business Today",
@@ -20614,7 +20581,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Asia Specific",
@@ -20625,7 +20592,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 5.0
+      "episode": 5
     },
     {
       "title": "Newsday",
@@ -20636,7 +20603,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Business Today",
@@ -20647,7 +20614,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Asia Specific",
@@ -20658,7 +20625,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 5.0
+      "episode": 5
     },
     {
       "title": "BBC News",
@@ -20669,7 +20636,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Business Today",
@@ -20680,7 +20647,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News",
@@ -20691,7 +20658,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Business Today",
@@ -20702,7 +20669,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News",
@@ -20713,7 +20680,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Business Today",
@@ -20724,7 +20691,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Signed: BBC News",
@@ -20735,7 +20702,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News",
@@ -20746,7 +20713,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News",
@@ -20757,7 +20724,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News",
@@ -20768,7 +20735,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News",
@@ -20779,7 +20746,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News",
@@ -20790,7 +20757,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News",
@@ -20801,7 +20768,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Business Today",
@@ -20812,7 +20779,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News",
@@ -20823,7 +20790,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News Now",
@@ -20834,7 +20801,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News Now",
@@ -20845,7 +20812,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Signed: BBC News at One",
@@ -20856,7 +20823,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News Now",
@@ -20867,7 +20834,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Business Today - NYSE Opening Bell",
@@ -20878,7 +20845,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News Now",
@@ -20889,7 +20856,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Verified Live",
@@ -20900,7 +20867,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Verified Live",
@@ -20911,7 +20878,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Verified Live",
@@ -20922,7 +20889,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Business Today",
@@ -20933,7 +20900,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Verified Live",
@@ -20944,7 +20911,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Verified Live",
@@ -20955,7 +20922,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News",
@@ -20966,7 +20933,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Signed: BBC News at Six",
@@ -20977,7 +20944,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "The World Today with Maryam Moshiri",
@@ -20988,7 +20955,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "The World Today with Maryam Moshiri",
@@ -20999,7 +20966,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "The World Today with Maryam Moshiri",
@@ -21010,7 +20977,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "The Context USA",
@@ -21021,7 +20988,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "The Context USA",
@@ -21032,7 +20999,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "The Context",
@@ -21043,7 +21010,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "The Context",
@@ -21054,7 +21021,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News at Ten",
@@ -21065,7 +21032,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Newsnight",
@@ -21076,7 +21043,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 247.0
+      "episode": 247
     },
     {
       "title": "BBC World News America",
@@ -21087,7 +21054,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News",
@@ -21098,7 +21065,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Newscast",
@@ -21109,7 +21076,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 21.0
+      "episode": 21
     },
     {
       "title": "BBC News",
@@ -21120,7 +21087,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "AI Decoded",
@@ -21131,7 +21098,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 24.0
+      "episode": 24
     },
     {
       "title": "Newsday",
@@ -21142,7 +21109,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Business Today",
@@ -21153,7 +21120,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC Sport",
@@ -21164,7 +21131,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Newsday",
@@ -21175,7 +21142,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Business Today",
@@ -21186,7 +21153,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC Sport",
@@ -21197,7 +21164,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Newsday",
@@ -21208,7 +21175,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Business Today",
@@ -21219,7 +21186,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC Sport",
@@ -21230,7 +21197,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News",
@@ -21241,7 +21208,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Business Today",
@@ -21252,7 +21219,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News",
@@ -21263,7 +21230,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Business Today",
@@ -21274,7 +21241,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News",
@@ -21285,7 +21252,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Business Today",
@@ -21296,7 +21263,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Signed: BBC News",
@@ -21307,7 +21274,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News",
@@ -21318,7 +21285,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News",
@@ -21329,7 +21296,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News",
@@ -21340,7 +21307,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News",
@@ -21351,7 +21318,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News",
@@ -21362,7 +21329,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News",
@@ -21373,7 +21340,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Business Today",
@@ -21384,7 +21351,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News",
@@ -21395,7 +21362,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News Now",
@@ -21406,7 +21373,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News Now",
@@ -21417,7 +21384,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Signed: BBC News at One",
@@ -21428,7 +21395,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News Now",
@@ -21439,7 +21406,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Business Today - NYSE Opening Bell",
@@ -21450,7 +21417,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News Now",
@@ -21461,7 +21428,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Verified Live",
@@ -21472,7 +21439,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Verified Live",
@@ -21483,7 +21450,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Verified Live",
@@ -21494,7 +21461,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Business Today",
@@ -21505,7 +21472,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Verified Live",
@@ -21516,7 +21483,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Verified Live",
@@ -21527,7 +21494,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "BBC News",
@@ -21538,7 +21505,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Signed: BBC News at Six",
@@ -21549,7 +21516,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "The World Today with Maryam Moshiri",
@@ -21560,7 +21527,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "The World Today with Maryam Moshiri",
@@ -21571,7 +21538,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "The World Today with Maryam Moshiri",
@@ -21582,7 +21549,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "The Context USA",
@@ -21593,7 +21560,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "The Context USA",
@@ -21604,7 +21571,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Question Time",
@@ -21615,7 +21582,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": 2026.0,
-      "episode": 20.0
+      "episode": 20
     },
     {
       "title": "BBC News at Ten",
@@ -21626,7 +21593,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     },
     {
       "title": "Newsnight",
@@ -21637,7 +21604,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 248.0
+      "episode": 248
     },
     {
       "title": "BBC World News America",
@@ -21648,7 +21615,7 @@
       "channel": "BBCNews.uk",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": 0
     }
   ],
   "BBCOneChannelIslands.uk": [
@@ -21709,7 +21676,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Gethin Jones and Holly Hamilton reveal how to avoid the 'dirty oil' used car scam and have the latest on postal delays. [S] [HD]",
       "start": 1789461000,
       "stop": 1789465500,
       "icon": "https://images.metadata.sky.com/pd-image/b2a4d74c-7779-4469-b721-a397501d3a37/cover",
@@ -21980,7 +21947,7 @@
       "channel": "BBCOneChannelIslands.uk",
       "premiere": false,
       "season": 27.0,
-      "episode": 12.0
+      "episode": 11.0
     },
     {
       "title": "Bargain Hunt",
@@ -22470,7 +22437,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Gethin Jones and Holly Hamilton reveal how to avoid the 'dirty oil' used car scam and have the latest on postal delays. [S] [HD]",
       "start": 1789461000,
       "stop": 1789465500,
       "icon": "https://images.metadata.sky.com/pd-image/b2a4d74c-7779-4469-b721-a397501d3a37/cover",
@@ -22741,7 +22708,7 @@
       "channel": "BBCOneEast.uk",
       "premiere": false,
       "season": 27.0,
-      "episode": 12.0
+      "episode": 11.0
     },
     {
       "title": "Bargain Hunt",
@@ -23231,7 +23198,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Gethin Jones and Holly Hamilton reveal how to avoid the 'dirty oil' used car scam and have the latest on postal delays. [S] [HD]",
       "start": 1789461000,
       "stop": 1789465500,
       "icon": "https://images.metadata.sky.com/pd-image/b2a4d74c-7779-4469-b721-a397501d3a37/cover",
@@ -23502,7 +23469,7 @@
       "channel": "BBCOneEastMidlands.uk",
       "premiere": false,
       "season": 27.0,
-      "episode": 12.0
+      "episode": 11.0
     },
     {
       "title": "Bargain Hunt",
@@ -23992,7 +23959,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Gethin Jones and Holly Hamilton reveal how to avoid the 'dirty oil' used car scam and have the latest on postal delays. [S] [HD]",
       "start": 1789461000,
       "stop": 1789465500,
       "icon": "https://images.metadata.sky.com/pd-image/b2a4d74c-7779-4469-b721-a397501d3a37/cover",
@@ -24263,7 +24230,7 @@
       "channel": "BBCOneLondonHD.uk",
       "premiere": false,
       "season": 27.0,
-      "episode": 12.0
+      "episode": 11.0
     },
     {
       "title": "Bargain Hunt",
@@ -24753,7 +24720,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Gethin Jones and Holly Hamilton reveal how to avoid the 'dirty oil' used car scam and have the latest on postal delays. [S] [HD]",
       "start": 1789461000,
       "stop": 1789465500,
       "icon": "https://images.metadata.sky.com/pd-image/b2a4d74c-7779-4469-b721-a397501d3a37/cover",
@@ -25024,7 +24991,7 @@
       "channel": "BBCOneNorthEastCumbria.uk",
       "premiere": false,
       "season": 27.0,
-      "episode": 12.0
+      "episode": 11.0
     },
     {
       "title": "Bargain Hunt",
@@ -25514,7 +25481,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Gethin Jones and Holly Hamilton reveal how to avoid the 'dirty oil' used car scam and have the latest on postal delays. [S] [HD]",
       "start": 1789461000,
       "stop": 1789465500,
       "icon": "https://images.metadata.sky.com/pd-image/b2a4d74c-7779-4469-b721-a397501d3a37/cover",
@@ -25785,7 +25752,7 @@
       "channel": "BBCOneNorthWest.uk",
       "premiere": false,
       "season": 27.0,
-      "episode": 12.0
+      "episode": 11.0
     },
     {
       "title": "Bargain Hunt",
@@ -26275,7 +26242,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Gethin Jones and Holly Hamilton reveal how to avoid the 'dirty oil' used car scam and have the latest on postal delays. [S] [HD]",
       "start": 1789461000,
       "stop": 1789465500,
       "icon": "https://images.metadata.sky.com/pd-image/b2a4d74c-7779-4469-b721-a397501d3a37/cover",
@@ -26546,7 +26513,7 @@
       "channel": "BBCOneNorthernIreland.uk",
       "premiere": false,
       "season": 27.0,
-      "episode": 12.0
+      "episode": 11.0
     },
     {
       "title": "Bargain Hunt",
@@ -27047,7 +27014,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Gethin Jones and Holly Hamilton reveal how to avoid the 'dirty oil' used car scam and have the latest on postal delays. [S] [HD]",
       "start": 1789461000,
       "stop": 1789465500,
       "icon": "https://images.metadata.sky.com/pd-image/b2a4d74c-7779-4469-b721-a397501d3a37/cover",
@@ -27236,7 +27203,7 @@
       "title": "Reporting Scotland",
       "description": "The latest news and weather from BBC News Scotland. [S] [HD]",
       "start": 1789507800,
-      "stop": 1789508400,
+      "stop": 1789508700,
       "icon": "https://images.metadata.sky.com/pd-image/ca89a3c4-c714-475d-b94c-127f5ccebf16/cover",
       "channel": "BBCOneScotHD.uk",
       "premiere": false,
@@ -27246,8 +27213,8 @@
     {
       "title": "Sportscene: Premiership Highlights",
       "description": "Action and reaction from the Scottish Premiership. [S] [HD]",
-      "start": 1789508400,
-      "stop": 1789511100,
+      "start": 1789508700,
+      "stop": 1789511400,
       "icon": "https://images.metadata.sky.com/pd-image/52938b66-6d7f-4f5e-b41f-ac4f27c87b0e/cover",
       "channel": "BBCOneScotHD.uk",
       "premiere": false,
@@ -27256,9 +27223,9 @@
     },
     {
       "title": "Scotcast",
-      "description": "Conversation about Scotland's biggest news stories, hosted by Martin Geissler. [S] [HD]",
-      "start": 1789511100,
-      "stop": 1789512900,
+      "description": "Martin Geissler asks what is going on with the data centres debate, and can we get control of AI growth? [S] [HD]",
+      "start": 1789511400,
+      "stop": 1789513200,
       "icon": "https://images.metadata.sky.com/pd-image/9ebeef0b-4bf4-47dc-be67-46aabcd7958a/cover",
       "channel": "BBCOneScotHD.uk",
       "premiere": false,
@@ -27268,8 +27235,8 @@
     {
       "title": "Sicario",
       "description": "FBI special agent Kate Macer is recruited to help flush out a cartel drug lord. Contains very strong language, prolonged violence and disturbing scenes. [2015] [S,AD] [HD]",
-      "start": 1789512900,
-      "stop": 1789519800,
+      "start": 1789513200,
+      "stop": 1789520100,
       "icon": "https://images.metadata.sky.com/pd-image/e3f9c663-ca33-4b24-89a6-4c64c34115a5/cover",
       "channel": "BBCOneScotHD.uk",
       "premiere": false,
@@ -27279,8 +27246,8 @@
     {
       "title": "Weather for the Week Ahead",
       "description": "Detailed weather forecast. [S] [HD]",
-      "start": 1789519800,
-      "stop": 1789520100,
+      "start": 1789520100,
+      "stop": 1789520400,
       "icon": "https://images.metadata.sky.com/pd-image/f60bb192-d9c4-4fa3-bb0c-3ce751a95e8a/cover",
       "channel": "BBCOneScotHD.uk",
       "premiere": false,
@@ -27290,7 +27257,7 @@
     {
       "title": "BBC News",
       "description": "BBC One joins the BBC's rolling news channel for a night of news. [S] [HD]",
-      "start": 1789520100,
+      "start": 1789520400,
       "stop": 1789534800,
       "icon": "https://images.metadata.sky.com/pd-image/5bc850a5-1ec9-4432-9549-4fa936b00f7c/cover",
       "channel": "BBCOneScotHD.uk",
@@ -27340,7 +27307,7 @@
       "channel": "BBCOneScotHD.uk",
       "premiere": false,
       "season": 27.0,
-      "episode": 12.0
+      "episode": 11.0
     },
     {
       "title": "Bargain Hunt",
@@ -27626,7 +27593,7 @@
       "channel": "BBCOneScotHD.uk",
       "premiere": false,
       "season": null,
-      "episode": 67.0
+      "episode": 66.0
     },
     {
       "title": "Money for Nothing",
@@ -27841,7 +27808,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Gethin Jones and Holly Hamilton reveal how to avoid the 'dirty oil' used car scam and have the latest on postal delays. [S] [HD]",
       "start": 1789461000,
       "stop": 1789465500,
       "icon": "https://images.metadata.sky.com/pd-image/b2a4d74c-7779-4469-b721-a397501d3a37/cover",
@@ -28112,7 +28079,7 @@
       "channel": "BBCOneSouth.uk",
       "premiere": false,
       "season": 27.0,
-      "episode": 12.0
+      "episode": 11.0
     },
     {
       "title": "Bargain Hunt",
@@ -28602,7 +28569,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Gethin Jones and Holly Hamilton reveal how to avoid the 'dirty oil' used car scam and have the latest on postal delays. [S] [HD]",
       "start": 1789461000,
       "stop": 1789465500,
       "icon": "https://images.metadata.sky.com/pd-image/b2a4d74c-7779-4469-b721-a397501d3a37/cover",
@@ -28873,7 +28840,7 @@
       "channel": "BBCOneSouthEast.uk",
       "premiere": false,
       "season": 27.0,
-      "episode": 12.0
+      "episode": 11.0
     },
     {
       "title": "Bargain Hunt",
@@ -29363,7 +29330,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Gethin Jones and Holly Hamilton reveal how to avoid the 'dirty oil' used car scam and have the latest on postal delays. [S] [HD]",
       "start": 1789461000,
       "stop": 1789465500,
       "icon": "https://images.metadata.sky.com/pd-image/b2a4d74c-7779-4469-b721-a397501d3a37/cover",
@@ -29634,7 +29601,7 @@
       "channel": "BBCOneSouthWest.uk",
       "premiere": false,
       "season": 27.0,
-      "episode": 12.0
+      "episode": 11.0
     },
     {
       "title": "Bargain Hunt",
@@ -30124,7 +30091,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Gethin Jones and Holly Hamilton reveal how to avoid the 'dirty oil' used car scam and have the latest on postal delays. [S] [HD]",
       "start": 1789461000,
       "stop": 1789465500,
       "icon": "https://images.metadata.sky.com/pd-image/b2a4d74c-7779-4469-b721-a397501d3a37/cover",
@@ -30406,7 +30373,7 @@
       "channel": "BBCOneWalesHD.uk",
       "premiere": false,
       "season": 27.0,
-      "episode": 12.0
+      "episode": 11.0
     },
     {
       "title": "Bargain Hunt",
@@ -30918,7 +30885,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Gethin Jones and Holly Hamilton reveal how to avoid the 'dirty oil' used car scam and have the latest on postal delays. [S] [HD]",
       "start": 1789461000,
       "stop": 1789465500,
       "icon": "https://images.metadata.sky.com/pd-image/b2a4d74c-7779-4469-b721-a397501d3a37/cover",
@@ -31189,7 +31156,7 @@
       "channel": "BBCOneWest.uk",
       "premiere": false,
       "season": 27.0,
-      "episode": 12.0
+      "episode": 11.0
     },
     {
       "title": "Bargain Hunt",
@@ -31679,7 +31646,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Gethin Jones and Holly Hamilton reveal how to avoid the 'dirty oil' used car scam and have the latest on postal delays. [S] [HD]",
       "start": 1789461000,
       "stop": 1789465500,
       "icon": "https://images.metadata.sky.com/pd-image/b2a4d74c-7779-4469-b721-a397501d3a37/cover",
@@ -31950,7 +31917,7 @@
       "channel": "BBCOneWestMidlands.uk",
       "premiere": false,
       "season": 27.0,
-      "episode": 12.0
+      "episode": 11.0
     },
     {
       "title": "Bargain Hunt",
@@ -32440,7 +32407,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Gethin Jones and Holly Hamilton reveal how to avoid the 'dirty oil' used car scam and have the latest on postal delays. [S] [HD]",
       "start": 1789461000,
       "stop": 1789465500,
       "icon": "https://images.metadata.sky.com/pd-image/b2a4d74c-7779-4469-b721-a397501d3a37/cover",
@@ -32711,7 +32678,7 @@
       "channel": "BBCOneYorksLincs.uk",
       "premiere": false,
       "season": 27.0,
-      "episode": 12.0
+      "episode": 11.0
     },
     {
       "title": "Bargain Hunt",
@@ -33201,7 +33168,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Gethin Jones and Holly Hamilton reveal how to avoid the 'dirty oil' used car scam and have the latest on postal delays. [S] [HD]",
       "start": 1789461000,
       "stop": 1789465500,
       "icon": "https://images.metadata.sky.com/pd-image/b2a4d74c-7779-4469-b721-a397501d3a37/cover",
@@ -33472,7 +33439,7 @@
       "channel": "BBCOneYorkshire.uk",
       "premiere": false,
       "season": 27.0,
-      "episode": 12.0
+      "episode": 11.0
     },
     {
       "title": "Bargain Hunt",
@@ -33980,7 +33947,7 @@
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 829.0
+      "episode": 827.0
     },
     {
       "title": "House of Lords - Representation...",
@@ -34013,7 +33980,7 @@
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 550.0
+      "episode": 548.0
     },
     {
       "title": "Air Traffic Control Urgent Question",
@@ -34052,18 +34019,18 @@
       "title": "Live Justice Questions",
       "description": "Coverage of questions in the House of Commons to Alex Norris, the justice secretary, and his team of ministers on Tuesday 15 September. [S] [HD]",
       "start": 1789468200,
-      "stop": 1789471800,
+      "stop": 1789472400,
       "icon": "https://images.metadata.sky.com/pd-image/9ef65916-05fd-45d9-ad03-a9801c19fc8d/cover",
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 479.0
+      "episode": 477.0
     },
     {
       "title": "Live Tourism Tax Urgent Question",
       "description": "An urgent question on the impact of the proposed overnight visitor levy in England. [S] [HD]",
-      "start": 1789471800,
-      "stop": 1789474500,
+      "start": 1789472400,
+      "stop": 1789475100,
       "icon": "https://images.metadata.sky.com/pd-image/91a394a1-6f64-4207-bfdd-c394aac62814/cover",
       "channel": "BBCParliament.uk",
       "premiere": false,
@@ -34073,8 +34040,8 @@
     {
       "title": "Live Saudi Oil Pipeline Urgent Question",
       "description": "An urgent question on the impact of the closure of the Saudi East-West oil pipeline. [S] [HD]",
-      "start": 1789474500,
-      "stop": 1789477200,
+      "start": 1789475100,
+      "stop": 1789476900,
       "icon": "https://images.metadata.sky.com/pd-image/f36db4c6-568f-4de7-ab89-c6f74362306b/cover",
       "channel": "BBCParliament.uk",
       "premiere": false,
@@ -34084,8 +34051,8 @@
     {
       "title": "Live English Whisky Urgent Question",
       "description": "Coverage of an urgent question in the House of Commons on the English whisky geographical indication Single Malt definition, on Tuesday 15 September. [S] [HD]",
-      "start": 1789477200,
-      "stop": 1789479900,
+      "start": 1789476900,
+      "stop": 1789479000,
       "icon": "https://images.metadata.sky.com/pd-image/2ec5043a-4dbc-4b34-9b67-d1b3a62b0a30/cover",
       "channel": "BBCParliament.uk",
       "premiere": false,
@@ -34095,8 +34062,8 @@
     {
       "title": "Live Thirlwall Inquiry Statement",
       "description": "Coverage of the statement in the House of Commons on the final report and recommendations of the Thirlwall Inquiry, with the health secretary, Yvette Cooper, on Tuesday 15 September. [S] [HD]",
-      "start": 1789479900,
-      "stop": 1789483500,
+      "start": 1789479000,
+      "stop": 1789481400,
       "icon": "https://images.metadata.sky.com/pd-image/29099e5b-661c-43e4-8afe-8272bb11e1ad/cover",
       "channel": "BBCParliament.uk",
       "premiere": false,
@@ -34106,7 +34073,7 @@
     {
       "title": "Live House of Commons",
       "description": "Coverage of the day's proceedings in the House of Commons, on Tuesday 15 September. [S] [HD]",
-      "start": 1789483500,
+      "start": 1789481400,
       "stop": 1789497000,
       "icon": "https://images.metadata.sky.com/pd-image/c61af12a-ec55-41e3-921b-13ac68252f89/cover",
       "channel": "BBCParliament.uk",
@@ -34159,37 +34126,136 @@
       "episode": 141.0
     },
     {
-      "title": "House of Lords",
-      "description": "Business in the House of Lords including debates on the report stage of the Commercial Payments Bill and on regulations applying to batteries in Northern Ireland, on Tuesday 15 September. [S] [HD]",
+      "title": "House of Lords - Introductions",
+      "description": "Coverage of the ceremony to introduce Lord Khan of Tooting and Lord Neri as members of the House of Lords, on Tuesday 15 September. [S] [HD]",
       "start": 1789514100,
-      "stop": 1789538400,
-      "icon": "https://images.metadata.sky.com/pd-image/6211a715-b9a6-407e-be00-e0c1db7577d1/cover",
+      "stop": 1789514700,
+      "icon": "https://images.metadata.sky.com/pd-image/c5627da2-3fb1-4d88-9c77-be84966ceb67/cover",
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 824.0
+      "episode": null
+    },
+    {
+      "title": "House of Lords - China and UK Water Companies Question",
+      "description": "Coverage of a private notice question in the House of Lords on China's financial influence over UK water companies, on Tuesday 15 September. [S] [HD]",
+      "start": 1789514700,
+      "stop": 1789515600,
+      "icon": "https://images.metadata.sky.com/pd-image/742fed8e-3108-4151-a10e-e045a30b03a0/cover",
+      "channel": "BBCParliament.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "House of Lords - Speciality Steel UK Statement",
+      "description": "Coverage of the debate in the House of Lords on a ministerial statement on Speciality Steel UK, on Tuesday 15 September. [S] [HD]",
+      "start": 1789515600,
+      "stop": 1789518000,
+      "icon": "https://images.metadata.sky.com/pd-image/da6e05c1-8440-4d59-a95d-1892d6ed4d56/cover",
+      "channel": "BBCParliament.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "House of Lords - Ukraine and Russia Statement",
+      "description": "Coverage of the debate in the House of Lords on a ministerial statement on Ukraine and threats from Russia, on Tuesday 15 September. [S] [HD]",
+      "start": 1789518000,
+      "stop": 1789520400,
+      "icon": "https://images.metadata.sky.com/pd-image/a3194d81-ccf7-4b87-ab0d-601768de2958/cover",
+      "channel": "BBCParliament.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "House of Lords - Financial...",
+      "description": "...Services and Markets Bill. Coverage of the debate in the House of Lords on the third reading of the Financial Services and Markets Bill, on Tuesday 15 September. [S] [HD]",
+      "start": 1789520400,
+      "stop": 1789527600,
+      "icon": "https://images.metadata.sky.com/pd-image/0abed6c6-2786-4898-98f0-11180d8841e2/cover",
+      "channel": "BBCParliament.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "House of Lords - Commercial Payments Bill",
+      "description": "Coverage of the debate in the House of Lords on the report stage of the Commercial Payments Bill, on Tuesday 15 September. [S] [HD]",
+      "start": 1789527600,
+      "stop": 1789534800,
+      "icon": "https://images.metadata.sky.com/pd-image/952a6a8f-55b3-4e5b-98a1-6d0e81c981a1/cover",
+      "channel": "BBCParliament.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "House of Lords - Batteries Regulations",
+      "description": "Coverage of the debate in the House of Lords on the Batteries (Placing on the Market) (Northern Ireland) Regulations 2026, on Tuesday 15 September. [S] [HD]",
+      "start": 1789534800,
+      "stop": 1789538400,
+      "icon": "https://images.metadata.sky.com/pd-image/efc37685-5e83-4fab-aabe-b711b0845b95/cover",
+      "channel": "BBCParliament.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
     },
     {
       "title": "Justice Questions",
       "description": "Coverage of questions in the House of Commons to Alex Norris, the justice secretary, and his team of ministers on Tuesday 15 September. [S] [HD]",
       "start": 1789538400,
-      "stop": 1789542000,
+      "stop": 1789542300,
       "icon": "https://images.metadata.sky.com/pd-image/9ef65916-05fd-45d9-ad03-a9801c19fc8d/cover",
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 479.0
+      "episode": 477.0
     },
     {
-      "title": "House of Commons",
-      "description": "Commons proceedings on Tuesday 15 September, including a select committee statement on a report on student loans and a ten minute rule bill on a review of student finance. [S] [HD]",
-      "start": 1789542000,
-      "stop": 1789551000,
-      "icon": "https://images.metadata.sky.com/pd-image/02525e5b-98fb-4559-957a-7dd4ee813ffc/cover",
+      "title": "Tourism Tax Urgent Question",
+      "description": "An urgent question on the impact of the proposed overnight visitor levy in England. [S] [HD]",
+      "start": 1789542300,
+      "stop": 1789545300,
+      "icon": "https://images.metadata.sky.com/pd-image/e25e1d48-6723-45e1-bc5f-b2da13f4f9a8/cover",
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 679.0
+      "episode": null
+    },
+    {
+      "title": "Saudi Oil Pipeline Urgent Question",
+      "description": "Coverage of an urgent question in the House of Commons on the impact of the closure of the Saudi East-West oil pipeline on UK energy security and fuel prices, on Tuesday 15 September. [S] [HD]",
+      "start": 1789545300,
+      "stop": 1789546800,
+      "icon": "https://images.metadata.sky.com/pd-image/533e46a7-23d1-4e7a-8dc4-befce51a4cdb/cover",
+      "channel": "BBCParliament.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "English Whisky Urgent Question",
+      "description": "Coverage of an urgent question in the House of Commons on the English whisky geographical indication Single Malt definition, on Tuesday 15 September. [S] [HD]",
+      "start": 1789546800,
+      "stop": 1789548300,
+      "icon": "https://images.metadata.sky.com/pd-image/38982018-8a74-4b29-afe4-af46da356fd2/cover",
+      "channel": "BBCParliament.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "Lords Questions - 15/09/2026",
+      "description": "Questions in the House of Lords to government ministers on Tuesday 15 September. [S] [HD]",
+      "start": 1789548300,
+      "stop": 1789551000,
+      "icon": "https://images.metadata.sky.com/pd-image/0fa92cbf-ce51-4408-aa26-1e2970827261/cover",
+      "channel": "BBCParliament.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
     },
     {
       "title": "Live Lords Constitution Committee",
@@ -34288,7 +34354,7 @@
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 249.0
+      "episode": 248.0
     },
     {
       "title": "Live Lords Questions",
@@ -34659,7 +34725,7 @@
     },
     {
       "title": "Scotcast",
-      "description": "Conversation about Scotland's biggest news stories, hosted by Martin Geissler. [S] [HD]",
+      "description": "Martin Geissler asks what is going on with the data centres debate, and can we get control of AI growth? [S] [HD]",
       "start": 1789509600,
       "stop": 1789511400,
       "icon": "https://images.metadata.sky.com/pd-image/9ebeef0b-4bf4-47dc-be67-46aabcd7958a/cover",
@@ -35112,7 +35178,7 @@
     },
     {
       "title": "The Catch Up",
-      "description": "A round-up of the day's news. [S] [HD]",
+      "description": "A round-up of the day's news with Aisling Taylor. [S] [HD]",
       "start": 1789495200,
       "stop": 1789495500,
       "icon": "https://images.metadata.sky.com/pd-image/f1bc5aa0-05e6-4cac-9846-3f0b7f932d5c/cover",
@@ -35530,7 +35596,7 @@
     },
     {
       "title": "RuPaul's Drag Race UK",
-      "description": "3/10. Duncan James, Arian Nik and Martin Fry join Ru on the panel as the queens fight it out to prove they have the best celebrity dating and improv skills on Snatch Me Out. [S] [HD]",
+      "description": "3/10. It's the Snatch Game! Duncan James, Arian Nik and Martin Fry join in the fun. Contains some strong language. [S] [HD]",
       "start": 1789678800,
       "stop": 1789683300,
       "icon": "https://images.metadata.sky.com/pd-image/648f8a15-16aa-4c8c-b801-d4bcf8415224/cover",
@@ -36093,7 +36159,7 @@
     },
     {
       "title": "Red Dwarf",
-      "description": "6/6. The crew of Red Dwarf discover an abandoned space ship on an ocean bed, but a salvage operation doesn't sound so attractive when they realise that the occupants died by suicide. [S]",
+      "description": "6/6. The crew of Red Dwarf discover an abandoned space ship on an ocean bed. Deals with adult themes. [S]",
       "start": 1789592400,
       "stop": 1789594200,
       "icon": "https://images.metadata.sky.com/pd-image/b9e56d02-b4e5-4dec-99d3-a22e62d7c7a5/cover",
@@ -36115,7 +36181,7 @@
     },
     {
       "title": "Unspun World with John Simpson",
-      "description": "Unspun World provides an unvarnished version of the week's major global news stories - reliable, honest and essential viewing with the BBC's world affairs editor, John Simpson. [S] [HD]",
+      "description": "John Simpson on the impact of the latest outbreak of hostilities in Yemen, whether there is any hope for a Palestinian state in the Middle East, and the potential dangers of AI. [S] [HD]",
       "start": 1789596000,
       "stop": 1789597800,
       "icon": "https://images.metadata.sky.com/pd-image/e782bd1c-d40c-4190-98c9-1de062745d4a/cover",
@@ -36942,7 +37008,7 @@
     },
     {
       "title": "Red Dwarf",
-      "description": "6/6. The crew of Red Dwarf discover an abandoned space ship on an ocean bed, but a salvage operation doesn't sound so attractive when they realise that the occupants died by suicide. [S]",
+      "description": "6/6. The crew of Red Dwarf discover an abandoned space ship on an ocean bed. Deals with adult themes. [S]",
       "start": 1789592400,
       "stop": 1789594200,
       "icon": "https://images.metadata.sky.com/pd-image/b9e56d02-b4e5-4dec-99d3-a22e62d7c7a5/cover",
@@ -36964,7 +37030,7 @@
     },
     {
       "title": "Unspun World with John Simpson",
-      "description": "Unspun World provides an unvarnished version of the week's major global news stories - reliable, honest and essential viewing with the BBC's world affairs editor, John Simpson. [S] [HD]",
+      "description": "John Simpson on the impact of the latest outbreak of hostilities in Yemen, whether there is any hope for a Palestinian state in the Middle East, and the potential dangers of AI. [S] [HD]",
       "start": 1789596000,
       "stop": 1789597800,
       "icon": "https://images.metadata.sky.com/pd-image/e782bd1c-d40c-4190-98c9-1de062745d4a/cover",
@@ -37801,15 +37867,15 @@
       "episode": 4.0
     },
     {
-      "title": "Red Dwarf",
-      "description": "6/6. The crew of Red Dwarf discover an abandoned space ship on an ocean bed, but a salvage operation doesn't sound so attractive when they realise that the occupants died by suicide. [S]",
+      "title": "The State of Us - The Noah Donohoe Inquest",
+      "description": "A special programme from The State of Us podcast. After almost six months of evidence, jurors deliver their verdict as to where, when and how Noah died. [S] [HD]",
       "start": 1789592400,
       "stop": 1789594200,
-      "icon": "https://images.metadata.sky.com/pd-image/b9e56d02-b4e5-4dec-99d3-a22e62d7c7a5/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/a375155f-5a05-485a-89bb-67b989b36748/cover",
       "channel": "BBCTwoNorthernIreland.uk",
       "premiere": false,
-      "season": 5.0,
-      "episode": 6.0
+      "season": null,
+      "episode": null
     },
     {
       "title": "Newsnight, followed by Weather",
@@ -37835,7 +37901,7 @@
     },
     {
       "title": "Unspun World with John Simpson",
-      "description": "Unspun World provides an unvarnished version of the week's major global news stories - reliable, honest and essential viewing with the BBC's world affairs editor, John Simpson. [S] [HD]",
+      "description": "John Simpson on the impact of the latest outbreak of hostilities in Yemen, whether there is any hope for a Palestinian state in the Middle East, and the potential dangers of AI. [S] [HD]",
       "start": 1789598100,
       "stop": 1789599900,
       "icon": "https://images.metadata.sky.com/pd-image/e782bd1c-d40c-4190-98c9-1de062745d4a/cover",
@@ -38662,7 +38728,7 @@
     },
     {
       "title": "Red Dwarf",
-      "description": "6/6. The crew of Red Dwarf discover an abandoned space ship on an ocean bed, but a salvage operation doesn't sound so attractive when they realise that the occupants died by suicide. [S]",
+      "description": "6/6. The crew of Red Dwarf discover an abandoned space ship on an ocean bed. Deals with adult themes. [S]",
       "start": 1789592400,
       "stop": 1789594200,
       "icon": "https://images.metadata.sky.com/pd-image/b9e56d02-b4e5-4dec-99d3-a22e62d7c7a5/cover",
@@ -38684,7 +38750,7 @@
     },
     {
       "title": "Unspun World with John Simpson",
-      "description": "Unspun World provides an unvarnished version of the week's major global news stories - reliable, honest and essential viewing with the BBC's world affairs editor, John Simpson. [S] [HD]",
+      "description": "John Simpson on the impact of the latest outbreak of hostilities in Yemen, whether there is any hope for a Palestinian state in the Middle East, and the potential dangers of AI. [S] [HD]",
       "start": 1789596000,
       "stop": 1789597800,
       "icon": "https://images.metadata.sky.com/pd-image/e782bd1c-d40c-4190-98c9-1de062745d4a/cover",
@@ -40858,17 +40924,6 @@
     {
       "title": ".programmes start at 7.00am",
       "description": null,
-      "start": 1789408680,
-      "stop": 1789430280,
-      "icon": null,
-      "channel": "CBBC.uk",
-      "premiere": false,
-      "season": null,
-      "episode": null
-    },
-    {
-      "title": ".programmes start at 7.00am",
-      "description": null,
       "start": 1789430280,
       "stop": 1789446599,
       "icon": null,
@@ -42518,17 +42573,6 @@
     }
   ],
   "CBeebies.uk": [
-    {
-      "title": "..programmes start at 6.00am",
-      "description": null,
-      "start": 1789408680,
-      "stop": 1789430280,
-      "icon": null,
-      "channel": "CBeebies.uk",
-      "premiere": false,
-      "season": null,
-      "episode": null
-    },
     {
       "title": "..programmes start at 6.00am",
       "description": null,
@@ -47827,26 +47871,37 @@
       "episode": 6.0
     },
     {
-      "title": "**Visually Signed**The Wonderful..",
-      "description": "...World of Chocolate. A sweet selection from this mouthwatering documentary series. (VS)",
-      "start": 1789533900,
-      "stop": 1789535520,
-      "icon": "https://images.metadata.sky.com/pd-image/8bf995ff-cb8f-40a8-8acb-329881228fa4/cover",
-      "channel": "Channel5Plus1.uk",
-      "premiere": false,
-      "season": 3.0,
-      "episode": 6.0
-    },
-    {
       "title": "This is Channel 5 +1",
       "description": "This is Channel 5 +1",
-      "start": 1789535520,
-      "stop": 1789536900,
-      "icon": "https://images.metadata.sky.com/pd-image/b6f10f8d-5249-4d23-88f1-582c802c5097/cover",
+      "start": 1789533900,
+      "stop": 1789534800,
+      "icon": "https://images.metadata.sky.com/pd-image/3b4f1a88-b411-4db3-9052-2aa3b4cf32e1/cover",
       "channel": "Channel5Plus1.uk",
       "premiere": false,
       "season": null,
       "episode": null
+    },
+    {
+      "title": "This is Channel 5 +1",
+      "description": "This is Channel 5 +1",
+      "start": 1789534800,
+      "stop": 1789535400,
+      "icon": "https://images.metadata.sky.com/pd-image/4f63780a-bc5c-4e60-b237-bebf652796b8/cover",
+      "channel": "Channel5Plus1.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "**Visually Signed**The Wonderful..",
+      "description": "...World of Chocolate. A sweet selection from this mouthwatering documentary series. (VS)",
+      "start": 1789535400,
+      "stop": 1789536900,
+      "icon": "https://images.metadata.sky.com/pd-image/53909895-0153-4c9d-b694-6492d611ebfa/cover",
+      "channel": "Channel5Plus1.uk",
+      "premiere": false,
+      "season": null,
+      "episode": 0.0
     },
     {
       "title": "Entertainment News on 5",
@@ -47984,7 +48039,7 @@
       "title": "Rubble & Crew",
       "description": "Rubble & Crew use their giant trucks to make awesome stunt ramps when Speed Meister challenges Mayor Greatway to a stunt competition. (S3 Ep19)",
       "start": 1789543200,
-      "stop": 1789543800,
+      "stop": 1789544100,
       "icon": "https://images.metadata.sky.com/pd-image/015046cc-0d26-417f-9c9d-53bf6953f352/cover",
       "channel": "Channel5Plus1.uk",
       "premiere": false,
@@ -47994,7 +48049,7 @@
     {
       "title": "Peppa Pig",
       "description": "Princess Peppa: Granny and Grandpa Pig come for a dinner party with Mummy and Daddy Pig. Peppa and George are too tired to go to bed, until they are told a story. (S3 Ep14)",
-      "start": 1789543800,
+      "start": 1789544100,
       "stop": 1789544400,
       "icon": "https://images.metadata.sky.com/pd-image/77779c10-f36f-4b82-b454-69cbaededf41/cover",
       "channel": "Channel5Plus1.uk",
@@ -86670,15 +86725,26 @@
       "episode": null
     },
     {
-      "title": "The Architecture the Railways Built",
-      "description": "Curzon Street: Tim Dunn visits the historic Grade 1 Curzon Street Station, to be reborn as part of the terminus for HS2, the rail link between London and Birmingham. S3 Ep10",
+      "title": "This is U&YeSTERDAY",
+      "description": "This is U&YeSTERDAY",
       "start": 1789449000,
-      "stop": 1789452600,
-      "icon": "https://images.metadata.sky.com/pd-image/13488d22-b89d-4990-981e-956af7b8db8a/cover",
+      "stop": 1789450800,
+      "icon": "https://images.metadata.sky.com/pd-image/6ebd30b0-2c4b-4920-836e-0ade3a2e823c/cover",
       "channel": "UAndYesterday.uk",
       "premiere": false,
-      "season": 3.0,
-      "episode": 10.0
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "This is U&YeSTERDAY",
+      "description": "This is U&YeSTERDAY",
+      "start": 1789450800,
+      "stop": 1789452600,
+      "icon": "https://images.metadata.sky.com/pd-image/0df2452f-49b4-478b-bba7-643819194040/cover",
+      "channel": "UAndYesterday.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
     },
     {
       "title": "The Architecture the Railways Built",
@@ -87420,11 +87486,33 @@
       "episode": 8.0
     },
     {
-      "title": "Teleshopping",
-      "description": "Shopping from Home.",
-      "start": 1789441200,
+      "title": "This is U&YeSTERDAY +1",
+      "description": "This is U&YeSTERDAY +1",
+      "start": 1789448400,
+      "stop": 1789450200,
+      "icon": "https://images.metadata.sky.com/pd-image/8091ddf3-0692-4160-8450-959123e9894c/cover",
+      "channel": "UAndYesterdayPlus1.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "This is U&YeSTERDAY +1",
+      "description": "This is U&YeSTERDAY +1",
+      "start": 1789450200,
+      "stop": 1789452000,
+      "icon": "https://images.metadata.sky.com/pd-image/f88a0fac-84ba-4e24-a832-eb82939be2db/cover",
+      "channel": "UAndYesterdayPlus1.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "This is U&YeSTERDAY +1",
+      "description": "This is U&YeSTERDAY +1",
+      "start": 1789452000,
       "stop": 1789452600,
-      "icon": null,
+      "icon": "https://images.metadata.sky.com/pd-image/d3f66331-4d24-4475-9aa9-38683af5145e/cover",
       "channel": "UAndYesterdayPlus1.uk",
       "premiere": false,
       "season": null,
