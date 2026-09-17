@@ -4390,10 +4390,10 @@
     },
     {
       "title": "Sky Sports News",
-      "description": "Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.",
+      "description": null,
       "start": 1789596000,
       "stop": 1789599600,
-      "icon": "https://images.metadata.sky.com/pd-image/5e63c87a-9c60-4b90-873f-10a665a7879c/cover",
+      "icon": null,
       "channel": "sky.news.uk",
       "premiere": false,
       "season": null,
@@ -7566,7 +7566,7 @@
     },
     {
       "title": "MLB Highlights",
-      "description": "Highlights from Major League Baseball. (16.09)",
+      "description": "All the action from Wednesday's Major League Baseball games, including Chicago White Sox at Cleveland Guardians and Atlanta Braves at Chicago Cubs. (16.09)",
       "start": 1789686000,
       "stop": 1789689600,
       "icon": "https://images.metadata.sky.com/pd-image/b587f015-6ff7-4347-8fa9-88c1d90f9787/cover",
@@ -7577,7 +7577,7 @@
     },
     {
       "title": "Live MLB: Red Sox @ Rangers",
-      "description": "Action from Major League Baseball as Boston Red Sox meet Texas Rangers.",
+      "description": "Action from Major League Baseball as Boston Red Sox take on Texas Rangers at Globe Life Field.",
       "start": 1789689600,
       "stop": 1789699500,
       "icon": "https://images.metadata.sky.com/pd-image/7096f66a-e223-4ad2-ac6c-0bdff38031ca/cover",
@@ -7687,7 +7687,7 @@
     },
     {
       "title": "MLB Highlights",
-      "description": "Highlights from Major League Baseball. (17.09)",
+      "description": "Highlights from Major League Baseball including Boston Red Sox facing Texas Rangers at Globe Life Field. (17.09)",
       "start": 1789733700,
       "stop": 1789737300,
       "icon": "https://images.metadata.sky.com/pd-image/721d1d1b-953d-4fca-a52f-56325051a347/cover",
@@ -7797,7 +7797,7 @@
     },
     {
       "title": "UEL & UECL Highlights Show",
-      "description": "Highlights of all the best action from the Europa League and the Conference League.",
+      "description": "Highlights of all the best action from Thursday's UEFA Europa League fixtures, including Real Sociedad v Bournemouth and Crystal Palace v Lech Poznan.",
       "start": 1789767000,
       "stop": 1789770600,
       "icon": "https://images.metadata.sky.com/pd-image/17e27f14-52a6-4b49-aef4-5f8b19fbb499/cover",
@@ -7819,7 +7819,7 @@
     },
     {
       "title": "MLB Highlights",
-      "description": "Highlights from Major League Baseball. (17.09)",
+      "description": "Highlights from Major League Baseball including Boston Red Sox facing Texas Rangers at Globe Life Field. (17.09)",
       "start": 1789772400,
       "stop": 1789776000,
       "icon": "https://images.metadata.sky.com/pd-image/721d1d1b-953d-4fca-a52f-56325051a347/cover",
@@ -7895,9 +7895,20 @@
       "episode": 0.0
     },
     {
+      "title": "Live: Rolex SailGP Championship",
+      "description": "Day one of the 2026 Rolex Switzerland Sail Grand Prix on Lake Geneva. Can the Germany SailGP Team repeat its success at this venue from last year?",
+      "start": 1789827300,
+      "stop": 1789830000,
+      "icon": "https://images.metadata.sky.com/pd-image/e6bfc9fc-a813-41f7-85d1-79558746569e/cover",
+      "channel": "tnt1",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
       "title": "Cycling Pro Series - Men",
       "description": "Cycling action from the Men's UCI ProSeries.",
-      "start": 1789827300,
+      "start": 1789830000,
       "stop": 1789835400,
       "icon": "https://images.metadata.sky.com/pd-image/a4b74506-e0b7-4f58-9f6a-d87c9774465c/cover",
       "channel": "tnt1",
@@ -8217,7 +8228,7 @@
     },
     {
       "title": "Live CPL: Falcons v Warriors",
-      "description": "Action from the Caribbean Premier League.",
+      "description": "Action from the qualifier in the Caribbean Premier League playoffs between Antigua and Barbuda Falcons and Guyana Amazon Warriors at Kensington Oval.",
       "start": 1789687800,
       "stop": 1789703100,
       "icon": "https://images.metadata.sky.com/pd-image/702f4cec-d69b-4308-96f0-38f65498bca6/cover",
@@ -8447,15 +8458,15 @@
       "episode": 16.0
     },
     {
-      "title": "Women's CPL",
-      "description": "Cricket action from the Women's Caribbean Premier League.",
+      "title": "Trinbago v Guyana",
+      "description": "Women's Caribbean Premier League final action as Guyana Amazon Women go head-to-head with Trinbago Knight Riders Women.",
       "start": 1789750860,
       "stop": 1789752600,
-      "icon": "https://images.metadata.sky.com/pd-image/205cbf5c-a774-4837-85af-022092c364c9/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/2c48a9bd-8903-48c5-8b15-775bec65480c/cover",
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": null
     },
     {
       "title": "Inside Serie A",
@@ -8484,11 +8495,11 @@
       "description": "Australian Football League action from the Preliminary final between The Swans and The Dockers at the SCG.",
       "start": 1789756200,
       "stop": 1789761600,
-      "icon": "https://images.metadata.sky.com/pd-image/91945237-a9f7-4a10-9b74-663e233a2ab4/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/ca0c6c66-7475-4683-b042-bfb697b409bb/cover",
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 0.0
     },
     {
       "title": "FIM Speedway Grand Prix Highlights",
@@ -8502,15 +8513,15 @@
       "episode": 0.0
     },
     {
-      "title": "Women's CPL",
-      "description": "Cricket action from the Women's Caribbean Premier League.",
+      "title": "Trinbago v Guyana",
+      "description": "Women's Caribbean Premier League final action as Guyana Amazon Women go head-to-head with Trinbago Knight Riders Women.",
       "start": 1789765200,
       "stop": 1789767000,
-      "icon": "https://images.metadata.sky.com/pd-image/205cbf5c-a774-4837-85af-022092c364c9/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/a65a8836-63d7-4905-8dcd-8b58e45cd175/cover",
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": 0.0
+      "episode": null
     },
     {
       "title": "CPL Highlights",
@@ -8682,11 +8693,11 @@
       "description": "Australian Football League action from the second preliminary final between Hawthorn and Brisbane Lions at the MCG.",
       "start": 1789842600,
       "stop": 1789848000,
-      "icon": "https://images.metadata.sky.com/pd-image/2542142e-16b8-4b3e-b85a-19ef77d5090d/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/aa885adf-bcaf-401a-9c6e-37a60b64f426/cover",
       "channel": "tnt2",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 0.0
     },
     {
       "title": "Live NWSL: Orlando v Portland",
@@ -8732,7 +8743,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Premier League Reload",
@@ -8743,7 +8754,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": 26.0,
-      "episode": 4
+      "episode": 4.0
     },
     {
       "title": "The Breakdown: Fabregas & Chalobah",
@@ -8754,7 +8765,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Serie A - Full Impact",
@@ -8765,7 +8776,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": 2026.0,
-      "episode": 4
+      "episode": 4.0
     },
     {
       "title": "TNT Sports Reload",
@@ -8776,7 +8787,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": 26.0,
-      "episode": 37
+      "episode": 37.0
     },
     {
       "title": "UEL: Sunderland v AZ Alkmaar",
@@ -8787,7 +8798,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "UEL: AC Milan v Benfica",
@@ -8798,7 +8809,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Match Officials Mic'd Up",
@@ -8809,7 +8820,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": 26.0,
-      "episode": 1
+      "episode": 1.0
     },
     {
       "title": "UFC Countdown: 331",
@@ -8820,7 +8831,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": 2026.0,
-      "episode": 17
+      "episode": 17.0
     },
     {
       "title": "The UFC Breakdown",
@@ -8831,7 +8842,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "TNT Sports Reload",
@@ -8842,7 +8853,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": 26.0,
-      "episode": 37
+      "episode": 37.0
     },
     {
       "title": "Tour of Abruzzo - Stage 2",
@@ -8853,7 +8864,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Skoda Tour of Luxembourg - Stage 1",
@@ -8864,7 +8875,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "TNT Sports Reload",
@@ -8875,7 +8886,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": 26.0,
-      "episode": 37
+      "episode": 37.0
     },
     {
       "title": "Climbing World Series Highlights",
@@ -8886,7 +8897,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Fishing: On the Bank",
@@ -8897,7 +8908,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": 25.0,
-      "episode": 10
+      "episode": 10.0
     },
     {
       "title": "NWSL: Kansas v Orlando",
@@ -8908,7 +8919,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": 2026.0,
-      "episode": 89
+      "episode": 89.0
     },
     {
       "title": "NWSL: San Diego v N Carolina",
@@ -8919,7 +8930,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": 2026.0,
-      "episode": 90
+      "episode": 90.0
     },
     {
       "title": "MotoGP Rewind",
@@ -8930,7 +8941,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Climbing World Series Highlights",
@@ -8941,18 +8952,18 @@
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
-      "title": "UEL & UECL Highlights Show",
-      "description": "Highlights of all the best action from the Europa League and the Conference League.",
+      "title": "Premier League Review",
+      "description": "A look back at the best action from matchday four of the Premier League, featuring Sunderland v Arsenal, Liverpool v Fulham, Chelsea v Hull and Man United v Man City.",
       "start": 1789641000,
       "stop": 1789644600,
-      "icon": "https://images.metadata.sky.com/pd-image/96e8de41-60b5-415d-b0cd-ed1063cd4285/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/669b0e73-373a-4353-94bf-d666fa3c78a3/cover",
       "channel": "tnt3",
       "premiere": false,
-      "season": 26.0,
-      "episode": 1
+      "season": null,
+      "episode": null
     },
     {
       "title": "CPL Highlights",
@@ -8963,29 +8974,29 @@
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Women's CPL",
-      "description": "Cricket action from the Women's Caribbean Premier League.",
+      "description": "Women's Caribbean Premier League as Barbados Tridents take on Guyana Amazon Warriors in their playoff match.",
       "start": 1789646400,
       "stop": 1789648200,
       "icon": "https://images.metadata.sky.com/pd-image/4953c462-17e0-48c3-8a49-8250c56ae8e8/cover",
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "MLB Highlights",
-      "description": "Highlights from Major League Baseball. (16.09)",
+      "description": "All the action from Wednesday's Major League Baseball games, including Chicago White Sox at Cleveland Guardians and Atlanta Braves at Chicago Cubs. (16.09)",
       "start": 1789648200,
       "stop": 1789651800,
       "icon": "https://images.metadata.sky.com/pd-image/b587f015-6ff7-4347-8fa9-88c1d90f9787/cover",
       "channel": "tnt3",
       "premiere": false,
       "season": 2026.0,
-      "episode": 182
+      "episode": 182.0
     },
     {
       "title": "Fishing: On the Bank",
@@ -8996,18 +9007,18 @@
       "channel": "tnt3",
       "premiere": false,
       "season": 25.0,
-      "episode": 10
+      "episode": 10.0
     },
     {
       "title": "MLB Highlights",
-      "description": "Highlights from Major League Baseball. (16.09)",
+      "description": "All the action from Wednesday's Major League Baseball games, including Chicago White Sox at Cleveland Guardians and Atlanta Braves at Chicago Cubs. (16.09)",
       "start": 1789655400,
       "stop": 1789659000,
       "icon": "https://images.metadata.sky.com/pd-image/b587f015-6ff7-4347-8fa9-88c1d90f9787/cover",
       "channel": "tnt3",
       "premiere": false,
       "season": 2026.0,
-      "episode": 182
+      "episode": 182.0
     },
     {
       "title": "Rolex Grand Slam - Spruce Meadows",
@@ -9018,7 +9029,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "CPL Highlights",
@@ -9029,18 +9040,18 @@
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Women's CPL",
-      "description": "Cricket action from the Women's Caribbean Premier League.",
+      "description": "Women's Caribbean Premier League as Barbados Tridents take on Guyana Amazon Warriors in their playoff match.",
       "start": 1789664400,
       "stop": 1789666200,
       "icon": "https://images.metadata.sky.com/pd-image/4953c462-17e0-48c3-8a49-8250c56ae8e8/cover",
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "TNT Sports Reload",
@@ -9051,7 +9062,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": 26.0,
-      "episode": 37
+      "episode": 37.0
     },
     {
       "title": "The Breakdown: Harry Kane",
@@ -9062,7 +9073,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Live UEL: Celtic v Ferencvaros",
@@ -9073,7 +9084,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "The UFC Breakdown",
@@ -9084,7 +9095,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "UFC Countdown: 331",
@@ -9095,7 +9106,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": 2026.0,
-      "episode": 17
+      "episode": 17.0
     },
     {
       "title": "MLB Plays of the Week",
@@ -9106,7 +9117,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": 2026.0,
-      "episode": 24
+      "episode": 24.0
     },
     {
       "title": "The Big Interview: Patrick Vieira",
@@ -9117,7 +9128,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": 26.0,
-      "episode": 5
+      "episode": 5.0
     },
     {
       "title": "PL Stories: John Stones",
@@ -9128,7 +9139,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": 6.0,
-      "episode": 16
+      "episode": 16.0
     },
     {
       "title": "UEL: Crystal Palace v Lech Poznan",
@@ -9139,7 +9150,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "UEL: Real Sociedad v Bournemouth",
@@ -9150,7 +9161,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "UEL: Celtic v Ferencvaros",
@@ -9161,7 +9172,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Match Officials Mic'd Up",
@@ -9172,7 +9183,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": 26.0,
-      "episode": 1
+      "episode": 1.0
     },
     {
       "title": "AFL: Fremantle v Geelong Cats",
@@ -9183,7 +9194,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "AFL: Brisbane v Adelaide Crows",
@@ -9194,18 +9205,18 @@
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "UEL & UECL Highlights Show",
-      "description": "Highlights of all the best action from the Europa League and the Conference League.",
+      "description": "Highlights of all the best action from Thursday's UEFA Europa League fixtures, including Real Sociedad v Bournemouth and Crystal Palace v Lech Poznan.",
       "start": 1789707600,
       "stop": 1789711200,
       "icon": "https://images.metadata.sky.com/pd-image/17e27f14-52a6-4b49-aef4-5f8b19fbb499/cover",
       "channel": "tnt3",
       "premiere": false,
       "season": 26.0,
-      "episode": 2
+      "episode": 2.0
     },
     {
       "title": "Serie A - Full Impact",
@@ -9216,7 +9227,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": 2026.0,
-      "episode": 4
+      "episode": 4.0
     },
     {
       "title": "WRC Review: Rally Chile 2026",
@@ -9227,7 +9238,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": 26.0,
-      "episode": 12
+      "episode": 12.0
     },
     {
       "title": "Live AFLW: Hawthorn v N Melbourne",
@@ -9238,7 +9249,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Skoda Tour of Luxembourg - Stage 2",
@@ -9249,7 +9260,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Tour of Abruzzo - Stage 3",
@@ -9260,7 +9271,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Live: Tour of Abruzzo - Stage 4",
@@ -9271,7 +9282,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Live: Kampioenschap van Vlaanderen",
@@ -9282,7 +9293,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "La Vuelta Men",
@@ -9293,7 +9304,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "TNT Sports Reload",
@@ -9304,7 +9315,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": 26.0,
-      "episode": 37
+      "episode": 37.0
     },
     {
       "title": "MLB Plays of the Week",
@@ -9315,18 +9326,18 @@
       "channel": "tnt3",
       "premiere": false,
       "season": 2026.0,
-      "episode": 24
+      "episode": 24.0
     },
     {
       "title": "MLB Highlights",
-      "description": "Highlights from Major League Baseball. (17.09)",
+      "description": "Highlights from Major League Baseball including Boston Red Sox facing Texas Rangers at Globe Life Field. (17.09)",
       "start": 1789750800,
       "stop": 1789754400,
       "icon": "https://images.metadata.sky.com/pd-image/721d1d1b-953d-4fca-a52f-56325051a347/cover",
       "channel": "tnt3",
       "premiere": false,
       "season": 2026.0,
-      "episode": 183
+      "episode": 183.0
     },
     {
       "title": "Match Officials Mic'd Up",
@@ -9337,7 +9348,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": 26.0,
-      "episode": 1
+      "episode": 1.0
     },
     {
       "title": "CPL Highlights",
@@ -9348,7 +9359,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "British Open Polo Championship",
@@ -9359,7 +9370,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Rolex Grand Slam - Spruce Meadows",
@@ -9370,7 +9381,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "TNT Sports Cricket Reload",
@@ -9381,7 +9392,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": 25.0,
-      "episode": 201
+      "episode": 201.0
     },
     {
       "title": "TNT Sports Cricket Reload",
@@ -9392,7 +9403,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": 25.0,
-      "episode": 202
+      "episode": 202.0
     },
     {
       "title": "Tour of Abruzzo - Stage 4",
@@ -9403,7 +9414,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Skoda Tour of Luxembourg - Stage 3",
@@ -9414,7 +9425,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "La Vuelta Men",
@@ -9425,7 +9436,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "AFL: Sydney Swans v Fremantle",
@@ -9436,7 +9447,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Live MLB: Yankees @ Diamondbacks",
@@ -9447,7 +9458,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "MLB Plays of the Week",
@@ -9458,7 +9469,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": 2026.0,
-      "episode": 24
+      "episode": 24.0
     },
     {
       "title": "UEL: Crystal Palace v Lech Poznan",
@@ -9469,7 +9480,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "UEL: Real Sociedad v Bournemouth",
@@ -9480,7 +9491,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "UEL: Celtic v Ferencvaros",
@@ -9491,7 +9502,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Premier League Preview",
@@ -9502,7 +9513,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": 26.0,
-      "episode": 5
+      "episode": 5.0
     },
     {
       "title": "Live AFL: Hawthorn v Brisbane",
@@ -9513,7 +9524,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "MLB Plays of the Week",
@@ -9524,7 +9535,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": 2026.0,
-      "episode": 24
+      "episode": 24.0
     },
     {
       "title": "Live: U20 Intercontinental Cup",
@@ -9535,7 +9546,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "MLB Highlights",
@@ -9546,7 +9557,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": 2026.0,
-      "episode": 184
+      "episode": 184.0
     },
     {
       "title": "Live: Rolex SailGP Championship",
@@ -9557,7 +9568,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Live: Tour of Luxembourg - Stage 4",
@@ -9568,7 +9579,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "U20 Intercontinental Cup",
@@ -9579,7 +9590,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "The Big Interview: Patrick Vieira",
@@ -9590,7 +9601,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": 26.0,
-      "episode": 5
+      "episode": 5.0
     },
     {
       "title": "MLB Plays of the Week",
@@ -9601,7 +9612,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": 2026.0,
-      "episode": 24
+      "episode": 24.0
     },
     {
       "title": "MLB Highlights",
@@ -9612,7 +9623,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": 2026.0,
-      "episode": 184
+      "episode": 184.0
     },
     {
       "title": "Live MLB: Red Sox @ Rays",
@@ -9623,7 +9634,7 @@
       "channel": "tnt3",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     }
   ],
   "tnt4": [
@@ -9636,7 +9647,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Skoda Tour of Luxembourg - Stage 1",
@@ -9647,7 +9658,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "British Open Polo Championship",
@@ -9658,7 +9669,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "MotoGP Highlights: San Marino 2026",
@@ -9669,7 +9680,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Mass Participation World",
@@ -9680,7 +9691,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": 2026.0,
-      "episode": 32
+      "episode": 32.0
     },
     {
       "title": "UEL: Sunderland v AZ Alkmaar",
@@ -9691,7 +9702,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "WRC Review: Rally Chile 2026",
@@ -9702,7 +9713,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": 26.0,
-      "episode": 12
+      "episode": 12.0
     },
     {
       "title": "Ultimate Pool",
@@ -9713,7 +9724,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "WRC: More Than Machine",
@@ -9724,7 +9735,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": 2.0,
-      "episode": 4
+      "episode": 4.0
     },
     {
       "title": "WRC: More Than Machine",
@@ -9735,7 +9746,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": 2.0,
-      "episode": 5
+      "episode": 5.0
     },
     {
       "title": "WRC: More Than Machine",
@@ -9746,7 +9757,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": 2.0,
-      "episode": 6
+      "episode": 6.0
     },
     {
       "title": "WRC: More Than Machine",
@@ -9757,7 +9768,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": 2.0,
-      "episode": 7
+      "episode": 7.0
     },
     {
       "title": "WRC Review: Rally Chile 2026",
@@ -9768,7 +9779,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": 26.0,
-      "episode": 12
+      "episode": 12.0
     },
     {
       "title": "MLB Plays of the Week",
@@ -9779,7 +9790,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": 2026.0,
-      "episode": 24
+      "episode": 24.0
     },
     {
       "title": "Mass Participation World",
@@ -9790,7 +9801,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": 2026.0,
-      "episode": 32
+      "episode": 32.0
     },
     {
       "title": "Climbing World Series Highlights",
@@ -9801,7 +9812,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "MotoGP Highlights: San Marino 2026",
@@ -9812,7 +9823,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "FIM Speedway Grand Prix Highlights",
@@ -9823,7 +9834,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "WRC Review: Rally Chile 2026",
@@ -9834,7 +9845,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": 26.0,
-      "episode": 12
+      "episode": 12.0
     },
     {
       "title": "UEL: Sunderland v AZ Alkmaar",
@@ -9845,7 +9856,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "UEL: AC Milan v Benfica",
@@ -9856,7 +9867,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Premier League Review",
@@ -9867,7 +9878,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": 26.0,
-      "episode": 4
+      "episode": 4.0
     },
     {
       "title": "Live UEL: OFI Crete v Hoffenheim",
@@ -9878,7 +9889,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "The Breakdown: Fabregas & Chalobah",
@@ -9889,7 +9900,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Live UEL: Juventus v NEC",
@@ -9900,7 +9911,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "FIM Speedway Grand Prix Highlights",
@@ -9911,7 +9922,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Tour of Abruzzo - Stage 3",
@@ -9922,7 +9933,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Skoda Tour of Luxembourg - Stage 2",
@@ -9933,7 +9944,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "TNT Sports Reload",
@@ -9944,7 +9955,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": 26.0,
-      "episode": 37
+      "episode": 37.0
     },
     {
       "title": "The UFC Breakdown",
@@ -9955,7 +9966,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "MotoGP Highlights: San Marino 2026",
@@ -9966,7 +9977,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "TNT Sports Reload",
@@ -9977,7 +9988,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": 26.0,
-      "episode": 37
+      "episode": 37.0
     },
     {
       "title": "Serie A - Full Impact",
@@ -9988,7 +9999,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": 2026.0,
-      "episode": 4
+      "episode": 4.0
     },
     {
       "title": "WRC Review: Rally Chile 2026",
@@ -9999,7 +10010,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": 26.0,
-      "episode": 12
+      "episode": 12.0
     },
     {
       "title": "Fishing: On the Bank",
@@ -10010,7 +10021,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": 25.0,
-      "episode": 10
+      "episode": 10.0
     },
     {
       "title": "Ultimate Pool",
@@ -10021,7 +10032,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "UEL: Crystal Palace v Lech Poznan",
@@ -10032,7 +10043,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "UEL: Real Sociedad v Bournemouth",
@@ -10043,7 +10054,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "UEL: Celtic v Ferencvaros",
@@ -10054,7 +10065,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "FA Cup: The People's Story",
@@ -10065,18 +10076,18 @@
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "UEL & UECL Highlights Show",
-      "description": "Highlights of all the best action from the Europa League and the Conference League.",
+      "description": "Highlights of all the best action from Thursday's UEFA Europa League fixtures, including Real Sociedad v Bournemouth and Crystal Palace v Lech Poznan.",
       "start": 1789723800,
       "stop": 1789727400,
       "icon": "https://images.metadata.sky.com/pd-image/17e27f14-52a6-4b49-aef4-5f8b19fbb499/cover",
       "channel": "tnt4",
       "premiere": false,
       "season": 26.0,
-      "episode": 2
+      "episode": 2.0
     },
     {
       "title": "CPL Highlights",
@@ -10087,18 +10098,18 @@
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
-      "title": "Women's CPL",
-      "description": "Cricket action from the Women's Caribbean Premier League.",
+      "title": "Trinbago v Guyana",
+      "description": "Women's Caribbean Premier League final action as Guyana Amazon Women go head-to-head with Trinbago Knight Riders Women.",
       "start": 1789729200,
       "stop": 1789731000,
-      "icon": "https://images.metadata.sky.com/pd-image/205cbf5c-a774-4837-85af-022092c364c9/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/be5dbdaf-7562-48ab-98bf-9104d702f5be/cover",
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": null
     },
     {
       "title": "Live: IFSC Climbing World Series",
@@ -10109,7 +10120,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "UCL Stories of the Finals",
@@ -10120,7 +10131,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": 1.0,
-      "episode": 9
+      "episode": 9.0
     },
     {
       "title": "UEL: Crystal Palace v Lech Poznan",
@@ -10131,7 +10142,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "UEL: Real Sociedad v Bournemouth",
@@ -10142,7 +10153,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "UEL: Celtic v Ferencvaros",
@@ -10153,7 +10164,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Rolex Grand Slam - Spruce Meadows",
@@ -10164,7 +10175,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "European Le Mans Series Highlights",
@@ -10175,7 +10186,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Michelin Le Mans Cup Highlights",
@@ -10186,7 +10197,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "UEL: Crystal Palace v Lech Poznan",
@@ -10197,7 +10208,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "UEL: Real Sociedad v Bournemouth",
@@ -10208,7 +10219,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "UEL: Celtic v Ferencvaros",
@@ -10219,7 +10230,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "European Le Mans Series Highlights",
@@ -10230,7 +10241,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Michelin Le Mans Cup Highlights",
@@ -10241,7 +10252,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "UFC Fight Night",
@@ -10252,7 +10263,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": 2026.0,
-      "episode": 45
+      "episode": 45.0
     },
     {
       "title": "The UFC Breakdown",
@@ -10263,7 +10274,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "GP of Austria - Inside Line",
@@ -10274,7 +10285,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Tour of Abruzzo - Stage 4",
@@ -10285,7 +10296,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Premier League Preview",
@@ -10296,7 +10307,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": 26.0,
-      "episode": 5
+      "episode": 5.0
     },
     {
       "title": "Live NWSL: San Diego v Kansas City",
@@ -10307,7 +10318,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "UCL Stories of the Finals",
@@ -10318,7 +10329,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": 1.0,
-      "episode": 6
+      "episode": 6.0
     },
     {
       "title": "Reframe the Game: No Rucks Given",
@@ -10329,7 +10340,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": 25.0,
-      "episode": 3
+      "episode": 3.0
     },
     {
       "title": "La Vuelta Men",
@@ -10340,7 +10351,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Live: T100 Triathlon World Tour",
@@ -10351,7 +10362,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Skoda Tour of Luxembourg - Stage 3",
@@ -10362,7 +10373,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Live BSB: Assen - Day 1",
@@ -10373,7 +10384,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     },
     {
       "title": "Live EWC: Bol d'Or 2026",
@@ -10384,7 +10395,7 @@
       "channel": "tnt4",
       "premiere": false,
       "season": null,
-      "episode": 0
+      "episode": 0.0
     }
   ],
   "4seven.uk": [
@@ -10951,7 +10962,7 @@
     },
     {
       "title": "Gogglebox",
-      "description": "What's the verdict on this week's biggest and best TV? (S28 Ep3)",
+      "description": "What's the verdict on this week's TV? Including Apocalypse, Trigger Point, Last Night of the Proms, The Chase, Police Interceptors, Forever Home and ITV News (school dinners). (S28 Ep3)",
       "start": 1789769100,
       "stop": 1789772700,
       "icon": "https://images.metadata.sky.com/pd-image/25845049-6182-45c1-b57d-5f5f72500655/cover",
@@ -18128,7 +18139,7 @@
     },
     {
       "title": "Fonn mo Bheatha",
-      "description": "8/8. Ceòl agus còmhradh le Cathy Ann Nic a Phi còmhla ri Anna Lathurna NiGilliosa. Music and chat programme presented by Cathy Ann MacPhee with guest Anne Lorne Gillies. [S]",
+      "description": "8/8. Ceòl agus còmhradh le Cathy Ann Nic a Phi còmhla ri Anna Lathurna NiGilliosa. Music and chat programme presented by Cathy Ann MacPhee with guest Anne Lorne Gillies.",
       "start": 1789840800,
       "stop": 1789842600,
       "icon": "https://images.metadata.sky.com/pd-image/5f4b071d-024c-4320-a8f1-52693576ddeb/cover",
@@ -19320,7 +19331,7 @@
     },
     {
       "title": "Newscast",
-      "description": "Lighthearted discussion of the day's news. [S] [HD]",
+      "description": "Buckingham Palace respond to claims made by Princess Diana's brother in a new memoir. [S] [HD]",
       "start": 1789687800,
       "stop": 1789689600,
       "icon": "https://images.metadata.sky.com/pd-image/6a89b714-1968-45b7-9f4a-51c5c0861d34/cover",
@@ -20145,7 +20156,7 @@
     },
     {
       "title": "AI Decoded",
-      "description": "Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence. [S] [HD]",
+      "description": "Has the AI industry finally recognised the dangers of the technology it is building? We examine the growing debate over AI safety, regulation and control. [S] [HD]",
       "start": 1789824600,
       "stop": 1789826400,
       "icon": "https://images.metadata.sky.com/pd-image/d8282f9f-7e06-4f51-a54c-9714b76ed30c/cover",
@@ -20378,7 +20389,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Gethin Jones and Michelle Ackerley look at how to spot the signs of grooming and avoid dodgy online ads and unwanted subscriptions. Also, life after being an unpaid carer. [S] [HD]",
       "start": 1789633800,
       "stop": 1789638300,
       "icon": "https://images.metadata.sky.com/pd-image/2f11e5c1-784b-473f-b42b-2b29e08669d2/cover",
@@ -21126,7 +21137,7 @@
     },
     {
       "title": "Made in Dagenham",
-      "description": "Charting the fight of female workers at Ford Dagenham for equal pay. With Sally Hawkins. Contains strong language. [2010] [S,AD] [HD]",
+      "description": "Charting the fight of female workers at Ford Dagenham for equal pay. With Sally Hawkins. Contains strong language and some scenes of a sexual nature. [2010] [S,AD] [HD]",
       "start": 1789857600,
       "stop": 1789863900,
       "icon": "https://images.metadata.sky.com/pd-image/62bce731-fa31-432b-8161-2ec21f26f75b/cover",
@@ -21183,7 +21194,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Gethin Jones and Michelle Ackerley look at how to spot the signs of grooming and avoid dodgy online ads and unwanted subscriptions. Also, life after being an unpaid carer. [S] [HD]",
       "start": 1789633800,
       "stop": 1789638300,
       "icon": "https://images.metadata.sky.com/pd-image/2f11e5c1-784b-473f-b42b-2b29e08669d2/cover",
@@ -21931,7 +21942,7 @@
     },
     {
       "title": "Made in Dagenham",
-      "description": "Charting the fight of female workers at Ford Dagenham for equal pay. With Sally Hawkins. Contains strong language. [2010] [S,AD] [HD]",
+      "description": "Charting the fight of female workers at Ford Dagenham for equal pay. With Sally Hawkins. Contains strong language and some scenes of a sexual nature. [2010] [S,AD] [HD]",
       "start": 1789857600,
       "stop": 1789863900,
       "icon": "https://images.metadata.sky.com/pd-image/62bce731-fa31-432b-8161-2ec21f26f75b/cover",
@@ -21988,7 +21999,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Gethin Jones and Michelle Ackerley look at how to spot the signs of grooming and avoid dodgy online ads and unwanted subscriptions. Also, life after being an unpaid carer. [S] [HD]",
       "start": 1789633800,
       "stop": 1789638300,
       "icon": "https://images.metadata.sky.com/pd-image/2f11e5c1-784b-473f-b42b-2b29e08669d2/cover",
@@ -22736,7 +22747,7 @@
     },
     {
       "title": "Made in Dagenham",
-      "description": "Charting the fight of female workers at Ford Dagenham for equal pay. With Sally Hawkins. Contains strong language. [2010] [S,AD] [HD]",
+      "description": "Charting the fight of female workers at Ford Dagenham for equal pay. With Sally Hawkins. Contains strong language and some scenes of a sexual nature. [2010] [S,AD] [HD]",
       "start": 1789857600,
       "stop": 1789863900,
       "icon": "https://images.metadata.sky.com/pd-image/62bce731-fa31-432b-8161-2ec21f26f75b/cover",
@@ -22793,7 +22804,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Gethin Jones and Michelle Ackerley look at how to spot the signs of grooming and avoid dodgy online ads and unwanted subscriptions. Also, life after being an unpaid carer. [S] [HD]",
       "start": 1789633800,
       "stop": 1789638300,
       "icon": "https://images.metadata.sky.com/pd-image/2f11e5c1-784b-473f-b42b-2b29e08669d2/cover",
@@ -23541,7 +23552,7 @@
     },
     {
       "title": "Made in Dagenham",
-      "description": "Charting the fight of female workers at Ford Dagenham for equal pay. With Sally Hawkins. Contains strong language. [2010] [S,AD] [HD]",
+      "description": "Charting the fight of female workers at Ford Dagenham for equal pay. With Sally Hawkins. Contains strong language and some scenes of a sexual nature. [2010] [S,AD] [HD]",
       "start": 1789857600,
       "stop": 1789863900,
       "icon": "https://images.metadata.sky.com/pd-image/62bce731-fa31-432b-8161-2ec21f26f75b/cover",
@@ -23598,7 +23609,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Gethin Jones and Michelle Ackerley look at how to spot the signs of grooming and avoid dodgy online ads and unwanted subscriptions. Also, life after being an unpaid carer. [S] [HD]",
       "start": 1789633800,
       "stop": 1789638300,
       "icon": "https://images.metadata.sky.com/pd-image/2f11e5c1-784b-473f-b42b-2b29e08669d2/cover",
@@ -24346,7 +24357,7 @@
     },
     {
       "title": "Made in Dagenham",
-      "description": "Charting the fight of female workers at Ford Dagenham for equal pay. With Sally Hawkins. Contains strong language. [2010] [S,AD] [HD]",
+      "description": "Charting the fight of female workers at Ford Dagenham for equal pay. With Sally Hawkins. Contains strong language and some scenes of a sexual nature. [2010] [S,AD] [HD]",
       "start": 1789857600,
       "stop": 1789863900,
       "icon": "https://images.metadata.sky.com/pd-image/62bce731-fa31-432b-8161-2ec21f26f75b/cover",
@@ -24403,7 +24414,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Gethin Jones and Michelle Ackerley look at how to spot the signs of grooming and avoid dodgy online ads and unwanted subscriptions. Also, life after being an unpaid carer. [S] [HD]",
       "start": 1789633800,
       "stop": 1789638300,
       "icon": "https://images.metadata.sky.com/pd-image/2f11e5c1-784b-473f-b42b-2b29e08669d2/cover",
@@ -25151,7 +25162,7 @@
     },
     {
       "title": "Made in Dagenham",
-      "description": "Charting the fight of female workers at Ford Dagenham for equal pay. With Sally Hawkins. Contains strong language. [2010] [S,AD] [HD]",
+      "description": "Charting the fight of female workers at Ford Dagenham for equal pay. With Sally Hawkins. Contains strong language and some scenes of a sexual nature. [2010] [S,AD] [HD]",
       "start": 1789857600,
       "stop": 1789863900,
       "icon": "https://images.metadata.sky.com/pd-image/62bce731-fa31-432b-8161-2ec21f26f75b/cover",
@@ -25208,7 +25219,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Gethin Jones and Michelle Ackerley look at how to spot the signs of grooming and avoid dodgy online ads and unwanted subscriptions. Also, life after being an unpaid carer. [S] [HD]",
       "start": 1789633800,
       "stop": 1789638300,
       "icon": "https://images.metadata.sky.com/pd-image/2f11e5c1-784b-473f-b42b-2b29e08669d2/cover",
@@ -25934,7 +25945,7 @@
     },
     {
       "title": "Made in Dagenham",
-      "description": "Charting the fight of female workers at Ford Dagenham for equal pay. With Sally Hawkins. Contains strong language. [2010] [S,AD] [HD]",
+      "description": "Charting the fight of female workers at Ford Dagenham for equal pay. With Sally Hawkins. Contains strong language and some scenes of a sexual nature. [2010] [S,AD] [HD]",
       "start": 1789857600,
       "stop": 1789863900,
       "icon": "https://images.metadata.sky.com/pd-image/62bce731-fa31-432b-8161-2ec21f26f75b/cover",
@@ -26002,7 +26013,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Gethin Jones and Michelle Ackerley look at how to spot the signs of grooming and avoid dodgy online ads and unwanted subscriptions. Also, life after being an unpaid carer. [S] [HD]",
       "start": 1789633800,
       "stop": 1789638300,
       "icon": "https://images.metadata.sky.com/pd-image/2f11e5c1-784b-473f-b42b-2b29e08669d2/cover",
@@ -26064,7 +26075,7 @@
       "channel": "BBCOneScotHD.uk",
       "premiere": false,
       "season": null,
-      "episode": 66.0
+      "episode": 65.0
     },
     {
       "title": "Money for Nothing",
@@ -26211,7 +26222,7 @@
     },
     {
       "title": "Scotcast",
-      "description": "Conversation about Scotland's biggest news stories, hosted by Martin Geissler. [S] [HD]",
+      "description": "Political analysis with David Wallace Lockhart, Lynsey Bews and former deputy first minister Shona Robison. [S] [HD]",
       "start": 1789684800,
       "stop": 1789686600,
       "icon": "https://images.metadata.sky.com/pd-image/715595ed-5239-4724-a5af-4e29e71c4e05/cover",
@@ -26750,7 +26761,7 @@
     },
     {
       "title": "Sportscene: Premiership Highlights",
-      "description": "Steven Thompson brings you extended highlights of Dundee against Motherwell, Hibernian v Aberdeen, Kilmarnock v Hearts, St Johnstone v Falkirk and St Mirren against Dundee Utd. [S] [HD]",
+      "description": "Steven Thompson presents extended highlights of Dundee v Motherwell, Hibernian v Aberdeen, Kilmarnock v Hearts, St Johnstone v Falkirk and St Mirren v Dundee United. [S] [HD]",
       "start": 1789857600,
       "stop": 1789862100,
       "icon": "https://images.metadata.sky.com/pd-image/ecf445fc-3acc-4d4f-aef4-2a6d1307ec11/cover",
@@ -26807,7 +26818,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Gethin Jones and Michelle Ackerley look at how to spot the signs of grooming and avoid dodgy online ads and unwanted subscriptions. Also, life after being an unpaid carer. [S] [HD]",
       "start": 1789633800,
       "stop": 1789638300,
       "icon": "https://images.metadata.sky.com/pd-image/2f11e5c1-784b-473f-b42b-2b29e08669d2/cover",
@@ -27555,7 +27566,7 @@
     },
     {
       "title": "Made in Dagenham",
-      "description": "Charting the fight of female workers at Ford Dagenham for equal pay. With Sally Hawkins. Contains strong language. [2010] [S,AD] [HD]",
+      "description": "Charting the fight of female workers at Ford Dagenham for equal pay. With Sally Hawkins. Contains strong language and some scenes of a sexual nature. [2010] [S,AD] [HD]",
       "start": 1789857600,
       "stop": 1789863900,
       "icon": "https://images.metadata.sky.com/pd-image/62bce731-fa31-432b-8161-2ec21f26f75b/cover",
@@ -27612,7 +27623,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Gethin Jones and Michelle Ackerley look at how to spot the signs of grooming and avoid dodgy online ads and unwanted subscriptions. Also, life after being an unpaid carer. [S] [HD]",
       "start": 1789633800,
       "stop": 1789638300,
       "icon": "https://images.metadata.sky.com/pd-image/2f11e5c1-784b-473f-b42b-2b29e08669d2/cover",
@@ -28360,7 +28371,7 @@
     },
     {
       "title": "Made in Dagenham",
-      "description": "Charting the fight of female workers at Ford Dagenham for equal pay. With Sally Hawkins. Contains strong language. [2010] [S,AD] [HD]",
+      "description": "Charting the fight of female workers at Ford Dagenham for equal pay. With Sally Hawkins. Contains strong language and some scenes of a sexual nature. [2010] [S,AD] [HD]",
       "start": 1789857600,
       "stop": 1789863900,
       "icon": "https://images.metadata.sky.com/pd-image/62bce731-fa31-432b-8161-2ec21f26f75b/cover",
@@ -28417,7 +28428,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Gethin Jones and Michelle Ackerley look at how to spot the signs of grooming and avoid dodgy online ads and unwanted subscriptions. Also, life after being an unpaid carer. [S] [HD]",
       "start": 1789633800,
       "stop": 1789638300,
       "icon": "https://images.metadata.sky.com/pd-image/2f11e5c1-784b-473f-b42b-2b29e08669d2/cover",
@@ -29165,7 +29176,7 @@
     },
     {
       "title": "Made in Dagenham",
-      "description": "Charting the fight of female workers at Ford Dagenham for equal pay. With Sally Hawkins. Contains strong language. [2010] [S,AD] [HD]",
+      "description": "Charting the fight of female workers at Ford Dagenham for equal pay. With Sally Hawkins. Contains strong language and some scenes of a sexual nature. [2010] [S,AD] [HD]",
       "start": 1789857600,
       "stop": 1789863900,
       "icon": "https://images.metadata.sky.com/pd-image/62bce731-fa31-432b-8161-2ec21f26f75b/cover",
@@ -29222,7 +29233,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Gethin Jones and Michelle Ackerley look at how to spot the signs of grooming and avoid dodgy online ads and unwanted subscriptions. Also, life after being an unpaid carer. [S] [HD]",
       "start": 1789633800,
       "stop": 1789638300,
       "icon": "https://images.metadata.sky.com/pd-image/2f11e5c1-784b-473f-b42b-2b29e08669d2/cover",
@@ -29647,7 +29658,7 @@
       "channel": "BBCOneWalesHD.uk",
       "premiere": false,
       "season": null,
-      "episode": 1.0
+      "episode": 3.0
     },
     {
       "title": "Mrs Brown's Boys",
@@ -29683,26 +29694,26 @@
       "episode": 0.0
     },
     {
-      "title": "Never Never Never",
-      "description": "In a Welsh village, a Shirley Bassey impersonator and a fisherman are swept into romance. Contains very strong language. [2026] [S] [HD]",
+      "title": "RuPaul's Drag Race UK",
+      "description": "3/10. It's the Snatch Game! Duncan James, Arian Nik and Martin Fry join in the fun. Contains some strong language. [S] [HD]",
       "start": 1789767600,
-      "stop": 1789768800,
-      "icon": "https://images.metadata.sky.com/pd-image/72d64bb2-9893-4964-995f-f4ca68ee62f6/cover",
+      "stop": 1789772100,
+      "icon": "https://images.metadata.sky.com/pd-image/431d1e2d-0ce7-4f79-b866-b8a28979fa25/cover",
       "channel": "BBCOneWalesHD.uk",
       "premiere": false,
       "season": null,
       "episode": null
     },
     {
-      "title": "RuPaul's Drag Race UK",
-      "description": "3/10. It's the Snatch Game! Duncan James, Arian Nik and Martin Fry join in the fun. Contains some strong language. [S] [HD]",
-      "start": 1789768800,
+      "title": "Never Never Never",
+      "description": "In a Welsh village, a Shirley Bassey impersonator and a fisherman are swept into romance. Contains very strong language. [2026] [S] [HD]",
+      "start": 1789772100,
       "stop": 1789773300,
-      "icon": "https://images.metadata.sky.com/pd-image/648f8a15-16aa-4c8c-b801-d4bcf8415224/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/72d64bb2-9893-4964-995f-f4ca68ee62f6/cover",
       "channel": "BBCOneWalesHD.uk",
       "premiere": false,
-      "season": 8.0,
-      "episode": 3.0
+      "season": null,
+      "episode": null
     },
     {
       "title": "The Celebrity Inner Circle",
@@ -29959,7 +29970,7 @@
     },
     {
       "title": "Made in Dagenham",
-      "description": "Charting the fight of female workers at Ford Dagenham for equal pay. With Sally Hawkins. Contains strong language. [2010] [S,AD] [HD]",
+      "description": "Charting the fight of female workers at Ford Dagenham for equal pay. With Sally Hawkins. Contains strong language and some scenes of a sexual nature. [2010] [S,AD] [HD]",
       "start": 1789857600,
       "stop": 1789863900,
       "icon": "https://images.metadata.sky.com/pd-image/62bce731-fa31-432b-8161-2ec21f26f75b/cover",
@@ -30016,7 +30027,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Gethin Jones and Michelle Ackerley look at how to spot the signs of grooming and avoid dodgy online ads and unwanted subscriptions. Also, life after being an unpaid carer. [S] [HD]",
       "start": 1789633800,
       "stop": 1789638300,
       "icon": "https://images.metadata.sky.com/pd-image/2f11e5c1-784b-473f-b42b-2b29e08669d2/cover",
@@ -30764,7 +30775,7 @@
     },
     {
       "title": "Made in Dagenham",
-      "description": "Charting the fight of female workers at Ford Dagenham for equal pay. With Sally Hawkins. Contains strong language. [2010] [S,AD] [HD]",
+      "description": "Charting the fight of female workers at Ford Dagenham for equal pay. With Sally Hawkins. Contains strong language and some scenes of a sexual nature. [2010] [S,AD] [HD]",
       "start": 1789857600,
       "stop": 1789863900,
       "icon": "https://images.metadata.sky.com/pd-image/62bce731-fa31-432b-8161-2ec21f26f75b/cover",
@@ -30821,7 +30832,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Gethin Jones and Michelle Ackerley look at how to spot the signs of grooming and avoid dodgy online ads and unwanted subscriptions. Also, life after being an unpaid carer. [S] [HD]",
       "start": 1789633800,
       "stop": 1789638300,
       "icon": "https://images.metadata.sky.com/pd-image/2f11e5c1-784b-473f-b42b-2b29e08669d2/cover",
@@ -31569,7 +31580,7 @@
     },
     {
       "title": "Made in Dagenham",
-      "description": "Charting the fight of female workers at Ford Dagenham for equal pay. With Sally Hawkins. Contains strong language. [2010] [S,AD] [HD]",
+      "description": "Charting the fight of female workers at Ford Dagenham for equal pay. With Sally Hawkins. Contains strong language and some scenes of a sexual nature. [2010] [S,AD] [HD]",
       "start": 1789857600,
       "stop": 1789863900,
       "icon": "https://images.metadata.sky.com/pd-image/62bce731-fa31-432b-8161-2ec21f26f75b/cover",
@@ -31626,7 +31637,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Gethin Jones and Michelle Ackerley look at how to spot the signs of grooming and avoid dodgy online ads and unwanted subscriptions. Also, life after being an unpaid carer. [S] [HD]",
       "start": 1789633800,
       "stop": 1789638300,
       "icon": "https://images.metadata.sky.com/pd-image/2f11e5c1-784b-473f-b42b-2b29e08669d2/cover",
@@ -32374,7 +32385,7 @@
     },
     {
       "title": "Made in Dagenham",
-      "description": "Charting the fight of female workers at Ford Dagenham for equal pay. With Sally Hawkins. Contains strong language. [2010] [S,AD] [HD]",
+      "description": "Charting the fight of female workers at Ford Dagenham for equal pay. With Sally Hawkins. Contains strong language and some scenes of a sexual nature. [2010] [S,AD] [HD]",
       "start": 1789857600,
       "stop": 1789863900,
       "icon": "https://images.metadata.sky.com/pd-image/62bce731-fa31-432b-8161-2ec21f26f75b/cover",
@@ -32431,7 +32442,7 @@
     },
     {
       "title": "Morning Live",
-      "description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier. [S] [HD]",
+      "description": "Gethin Jones and Michelle Ackerley look at how to spot the signs of grooming and avoid dodgy online ads and unwanted subscriptions. Also, life after being an unpaid carer. [S] [HD]",
       "start": 1789633800,
       "stop": 1789638300,
       "icon": "https://images.metadata.sky.com/pd-image/2f11e5c1-784b-473f-b42b-2b29e08669d2/cover",
@@ -33179,7 +33190,7 @@
     },
     {
       "title": "Made in Dagenham",
-      "description": "Charting the fight of female workers at Ford Dagenham for equal pay. With Sally Hawkins. Contains strong language. [2010] [S,AD] [HD]",
+      "description": "Charting the fight of female workers at Ford Dagenham for equal pay. With Sally Hawkins. Contains strong language and some scenes of a sexual nature. [2010] [S,AD] [HD]",
       "start": 1789857600,
       "stop": 1789863900,
       "icon": "https://images.metadata.sky.com/pd-image/62bce731-fa31-432b-8161-2ec21f26f75b/cover",
@@ -33337,7 +33348,7 @@
       "title": "Live Lords Questions",
       "description": "Questions in the House of Lords to government ministers on Thursday 17 September. [S] [HD]",
       "start": 1789640100,
-      "stop": 1789642500,
+      "stop": 1789642800,
       "icon": "https://images.metadata.sky.com/pd-image/4f9bc59e-1a28-4e57-a24b-cbcfc90bbc53/cover",
       "channel": "BBCParliament.uk",
       "premiere": false,
@@ -33347,8 +33358,8 @@
     {
       "title": "Live House of Lords - Tourism Tax Statement",
       "description": "Coverage of the debate on the impact of the proposed overnight visitor levy in England. [S] [HD]",
-      "start": 1789642500,
-      "stop": 1789643100,
+      "start": 1789642800,
+      "stop": 1789643400,
       "icon": "https://images.metadata.sky.com/pd-image/092bc3e5-7a97-4d04-bf1a-b1cea6d3c62b/cover",
       "channel": "BBCParliament.uk",
       "premiere": false,
@@ -33358,7 +33369,7 @@
     {
       "title": "Live House of Lords - Education...",
       "description": "...and Skills Reform Statement. Statement on education and skills reform by education minister Baroness Smith of Malvern. [S] [HD]",
-      "start": 1789643100,
+      "start": 1789643400,
       "stop": 1789645500,
       "icon": "https://images.metadata.sky.com/pd-image/9189a7dc-6e21-4e76-91b8-27e56d56d440/cover",
       "channel": "BBCParliament.uk",
@@ -33403,7 +33414,7 @@
       "title": "Live House of Lords - Prison...",
       "description": "...and Probation Service Debate. Coverage of the debate in the House of Lords on prison and probation services in England and Wales, on Thursday 17 September. [S] [HD]",
       "start": 1789659000,
-      "stop": 1789668000,
+      "stop": 1789665000,
       "icon": "https://images.metadata.sky.com/pd-image/1f1f9328-05c5-476b-ade1-cd39e3424e13/cover",
       "channel": "BBCParliament.uk",
       "premiere": false,
@@ -33413,8 +33424,8 @@
     {
       "title": "Scottish Parliament - General Questions",
       "description": "Coverage of general questions in the Scottish Parliament to ministers in the Scottish government, from Thursday 17 September. [S] [HD]",
-      "start": 1789668000,
-      "stop": 1789669200,
+      "start": 1789665000,
+      "stop": 1789666800,
       "icon": "https://images.metadata.sky.com/pd-image/728aaac7-3286-4892-be80-e236b08d7069/cover",
       "channel": "BBCParliament.uk",
       "premiere": false,
@@ -33424,8 +33435,8 @@
     {
       "title": "Scottish First Minister's Questions",
       "description": "Questions in the Scottish Parliament from party leaders to John Swinney, the first minister, on Thursday 17 September. [S] [HD]",
-      "start": 1789669200,
-      "stop": 1789671000,
+      "start": 1789666800,
+      "stop": 1789668900,
       "icon": "https://images.metadata.sky.com/pd-image/bec2a69d-b125-4bfc-9b12-ac5a247cc828/cover",
       "channel": "BBCParliament.uk",
       "premiere": false,
@@ -33433,32 +33444,54 @@
       "episode": 40.0
     },
     {
-      "title": "Scottish Parliament",
-      "description": "Coverage of the day's proceedings in the Scottish Parliament on Thursday 17 September. [S] [HD]",
-      "start": 1789671000,
-      "stop": 1789673400,
-      "icon": "https://images.metadata.sky.com/pd-image/afe24fef-f02a-4b39-8e46-cce8a5507937/cover",
+      "title": "Scottish Parliament - Education Statement",
+      "description": "Coverage of the statement in the Scottish Parliament on the Programme for International Student Assessment (Pisa) 2025, on Thursday 17 September. [S] [HD]",
+      "start": 1789668900,
+      "stop": 1789671000,
+      "icon": "https://images.metadata.sky.com/pd-image/a68a897c-a4c3-419e-8c3b-11f66abba391/cover",
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 241.0
+      "episode": null
     },
     {
-      "title": "Scottish Parliament",
-      "description": "Coverage of the day's proceedings in the Scottish Parliament on Thursday 17 September. [S] [HD]",
-      "start": 1789673400,
-      "stop": 1789684200,
-      "icon": "https://images.metadata.sky.com/pd-image/afe24fef-f02a-4b39-8e46-cce8a5507937/cover",
+      "title": "Scottish Parliament - Health Misinformation Debate",
+      "description": "Coverage of the debate in the Scottish Parliament, tabled by the Scottish government, on addressing the harms of health misinformation on Thursday 17 September. [S] [HD]",
+      "start": 1789671000,
+      "stop": 1789677900,
+      "icon": "https://images.metadata.sky.com/pd-image/a858c95b-0aee-4475-9a50-eea2b85a8b0c/cover",
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 241.0
+      "episode": null
+    },
+    {
+      "title": "Scottish Parliament - Ferguson Marine Statement",
+      "description": "Coverage of the statement by Stephen Flynn on Ferguson Marine, the Glasgow-based shipbuilding company owned by the Scottish government, from Thursday 17 September. [S] [HD]",
+      "start": 1789677900,
+      "stop": 1789679700,
+      "icon": "https://images.metadata.sky.com/pd-image/6f6fd8ae-a1eb-4641-9aa8-7e462b026650/cover",
+      "channel": "BBCParliament.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
+      "title": "Thirlwall Inquiry Statement",
+      "description": "Coverage of the statement in the House of Commons on the final report and recommendations of the Thirlwall Inquiry, with the health secretary, Yvette Cooper, on Tuesday 15 September. [S] [HD]",
+      "start": 1789679700,
+      "stop": 1789682100,
+      "icon": "https://images.metadata.sky.com/pd-image/bb1b06aa-2431-4a64-8c16-7d78b9d54664/cover",
+      "channel": "BBCParliament.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
     },
     {
       "title": "Lords Questions",
       "description": "Questions in the House of Lords to government ministers on Thursday 17 September. [S] [HD]",
-      "start": 1789684200,
-      "stop": 1789686600,
+      "start": 1789682100,
+      "stop": 1789684800,
       "icon": "https://images.metadata.sky.com/pd-image/4f9bc59e-1a28-4e57-a24b-cbcfc90bbc53/cover",
       "channel": "BBCParliament.uk",
       "premiere": false,
@@ -33466,21 +33499,21 @@
       "episode": 142.0
     },
     {
-      "title": "House of Lords",
+      "title": "House of Lords - Introductions",
       "description": "Ceremony to introduce Lord Wormald and Lord McCobb as members of the House of Lords, on Thursday 17 September. [S] [HD]",
-      "start": 1789686600,
-      "stop": 1789687200,
-      "icon": "https://images.metadata.sky.com/pd-image/39f54c6e-9a0e-4672-ba7f-9c3ab8338b85/cover",
+      "start": 1789684800,
+      "stop": 1789685400,
+      "icon": "https://images.metadata.sky.com/pd-image/dda8faa6-07cf-4717-a886-a7e3fe0e696c/cover",
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 828.0
+      "episode": null
     },
     {
       "title": "House of Lords - Tourism Tax Statement",
       "description": "Coverage of the debate on the impact of the proposed overnight visitor levy in England. [S] [HD]",
-      "start": 1789687200,
-      "stop": 1789687800,
+      "start": 1789685400,
+      "stop": 1789686000,
       "icon": "https://images.metadata.sky.com/pd-image/3a6727e1-5213-4de0-806a-402dcaab08f0/cover",
       "channel": "BBCParliament.uk",
       "premiere": false,
@@ -33490,8 +33523,8 @@
     {
       "title": "House of Lords - Education and Skills Reform Statement",
       "description": "Coverage of the statement in the House of Lords on education and skills reform, with the education minister Baroness Smith of Malvern, on Thursday 17 September. [S] [HD]",
-      "start": 1789687800,
-      "stop": 1789690500,
+      "start": 1789686000,
+      "stop": 1789688100,
       "icon": "https://images.metadata.sky.com/pd-image/d987e930-34cc-4aa3-965a-6de6d5e07f82/cover",
       "channel": "BBCParliament.uk",
       "premiere": false,
@@ -33501,8 +33534,8 @@
     {
       "title": "House of Lords - Saudi Oil Pipeline Statement",
       "description": "Coverage of a statement on the impact of the closure of the Saudi East-West oil pipeline. [S] [HD]",
-      "start": 1789690500,
-      "stop": 1789691400,
+      "start": 1789688100,
+      "stop": 1789689000,
       "icon": "https://images.metadata.sky.com/pd-image/72006ca7-feac-448a-9f91-4e6d7e4c469e/cover",
       "channel": "BBCParliament.uk",
       "premiere": false,
@@ -33512,8 +33545,8 @@
     {
       "title": "House of Lords - Tax and...",
       "description": "...Independent Schools Debate. Coverage of the debate in the House of Lords on the impact of VAT and tax changes on independent schools, on Thursday 17 September. [S] [HD]",
-      "start": 1789691400,
-      "stop": 1789700400,
+      "start": 1789689000,
+      "stop": 1789696200,
       "icon": "https://images.metadata.sky.com/pd-image/898c2f78-027c-4748-beb5-b9ba56f5f498/cover",
       "channel": "BBCParliament.uk",
       "premiere": false,
@@ -33523,8 +33556,8 @@
     {
       "title": "House of Lords - Mental Health in Agriculture Debate",
       "description": "Coverage of the debate in the House of Lords on the mental health of agriculture workers, on Thursday 17 September. [S] [HD]",
-      "start": 1789700400,
-      "stop": 1789704000,
+      "start": 1789696200,
+      "stop": 1789699500,
       "icon": "https://images.metadata.sky.com/pd-image/1fce9c0b-f871-4a22-8a90-b83d4e779916/cover",
       "channel": "BBCParliament.uk",
       "premiere": false,
@@ -33534,8 +33567,8 @@
     {
       "title": "House of Lords - Prison and Probation Service Debate",
       "description": "Coverage of the debate in the House of Lords on prison and probation services in England and Wales, on Thursday 17 September. [S] [HD]",
-      "start": 1789704000,
-      "stop": 1789713000,
+      "start": 1789699500,
+      "stop": 1789707600,
       "icon": "https://images.metadata.sky.com/pd-image/faf285d0-a166-4881-926d-1e9b564209f9/cover",
       "channel": "BBCParliament.uk",
       "premiere": false,
@@ -33543,37 +33576,15 @@
       "episode": null
     },
     {
-      "title": "This is BBC Parliament HD",
-      "description": "This is BBC Parliament HD",
+      "title": "Westminster Hall",
+      "description": "House of Commons proceedings in Westminster Hall, including a debate on an e-petition relating to a referendum on public ownership of the water sector, from Monday 14 September. [S] [HD]",
       "start": 1789713000,
-      "stop": 1789714800,
-      "icon": "https://images.metadata.sky.com/pd-image/acdd576f-a84a-4f3d-8254-33320797c638/cover",
-      "channel": "BBCParliament.uk",
-      "premiere": false,
-      "season": null,
-      "episode": null
-    },
-    {
-      "title": "This is BBC Parliament HD",
-      "description": "This is BBC Parliament HD",
-      "start": 1789714800,
-      "stop": 1789716600,
-      "icon": "https://images.metadata.sky.com/pd-image/e0c3f7e2-6729-4fe0-a0c6-a9f77e778e2d/cover",
-      "channel": "BBCParliament.uk",
-      "premiere": false,
-      "season": null,
-      "episode": null
-    },
-    {
-      "title": "This is BBC Parliament HD",
-      "description": "This is BBC Parliament HD",
-      "start": 1789716600,
       "stop": 1789718400,
-      "icon": "https://images.metadata.sky.com/pd-image/7bc6a80b-1ca4-42fa-b4c8-9d4ac539fd52/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/974021cc-b3bc-4647-b120-4629a106e962/cover",
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": null
+      "episode": 156.0
     },
     {
       "title": "Select Committees",
@@ -33595,7 +33606,7 @@
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 834.0
+      "episode": 835.0
     },
     {
       "title": "Select Committees",
@@ -33760,7 +33771,7 @@
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 835.0
+      "episode": 836.0
     },
     {
       "title": "Scottish Parliament",
@@ -33804,7 +33815,7 @@
       "channel": "BBCParliament.uk",
       "premiere": false,
       "season": null,
-      "episode": 836.0
+      "episode": 837.0
     },
     {
       "title": "Select Committees",
@@ -33819,17 +33830,6 @@
     }
   ],
   "BBCRedButton1.uk": [
-    {
-      "title": "The Story So Far: The Best of, Part 4",
-      "description": "The best of Ali Plumb's Story So Far programmes. Part 4. [HD]",
-      "start": 1789578000,
-      "stop": 1789599600,
-      "icon": "https://images.metadata.sky.com/pd-image/7b5e9534-9179-4315-974f-a55bf6ed8f78/cover",
-      "channel": "BBCRedButton1.uk",
-      "premiere": false,
-      "season": null,
-      "episode": 0.0
-    },
     {
       "title": "The Story So Far: The Best of, Part 4",
       "description": "The best of Ali Plumb's Story So Far programmes. Part 4. [HD]",
@@ -34219,7 +34219,7 @@
     },
     {
       "title": "Scotcast",
-      "description": "Conversation about Scotland's biggest news stories, hosted by Martin Geissler. [S] [HD]",
+      "description": "Political analysis with David Wallace Lockhart, Lynsey Bews and former deputy first minister Shona Robison. [S] [HD]",
       "start": 1789682400,
       "stop": 1789684200,
       "icon": "https://images.metadata.sky.com/pd-image/715595ed-5239-4724-a5af-4e29e71c4e05/cover",
@@ -34417,7 +34417,7 @@
     },
     {
       "title": "Sportscene: Premiership Highlights",
-      "description": "Steven Thompson brings you extended highlights of Dundee against Motherwell, Hibernian v Aberdeen, Kilmarnock v Hearts, St Johnstone v Falkirk and St Mirren against Dundee Utd. [S] [HD]",
+      "description": "Steven Thompson presents extended highlights of Dundee v Motherwell, Hibernian v Aberdeen, Kilmarnock v Hearts, St Johnstone v Falkirk and St Mirren v Dundee United. [S] [HD]",
       "start": 1789841700,
       "stop": 1789846200,
       "icon": "https://images.metadata.sky.com/pd-image/ecf445fc-3acc-4d4f-aef4-2a6d1307ec11/cover",
@@ -38982,8 +38982,8 @@
       "episode": 14
     },
     {
-      "title": "New: Killer Britain",
-      "description": "...With Dermot Murnaghan. Kendall: Michaela Hall welcomed troubled Lee Kendall into her life. Her kindness cost her everything. A tale of compassion, danger and fatal trust. (S5, ep 1)",
+      "title": "New: Killer Britain With Dermot Murnaghan",
+      "description": "Kendall: Michaela Hall welcomed troubled Lee Kendall into her life. Her kindness cost her everything. A tale of compassion, danger and fatal trust. (S5, ep 1)",
       "start": 1789693200,
       "stop": 1789696800,
       "icon": "https://images.metadata.sky.com/pd-image/105c3b09-d96d-434c-943a-9d133bab7389/cover",
@@ -39389,8 +39389,8 @@
       "episode": 4
     },
     {
-      "title": "New: Killer Britain",
-      "description": "...With Dermot Murnaghan. Godinho: Aliny Godinho fled an abusive marriage, but Ricardo found and murdered her in public. A case of control, fear and a mother lost to violence. (S5, ep 2)",
+      "title": "New: Killer Britain With Dermot Murnaghan",
+      "description": "Godinho: Aliny Godinho fled an abusive marriage, but Ricardo found and murdered her in public. A case of control, fear and a mother lost to violence. (S5, ep 2)",
       "start": 1789779600,
       "stop": 1789783200,
       "icon": "https://images.metadata.sky.com/pd-image/c837417d-6e5c-4c49-9ae4-0c25ea7782ac/cover",
@@ -40558,17 +40558,6 @@
     }
   ],
   "CBBC.uk": [
-    {
-      "title": ".programmes start at 7.00am",
-      "description": null,
-      "start": 1789581480,
-      "stop": 1789603080,
-      "icon": null,
-      "channel": "CBBC.uk",
-      "premiere": false,
-      "season": null,
-      "episode": null
-    },
     {
       "title": ".programmes start at 7.00am",
       "description": null,
@@ -42089,17 +42078,6 @@
     }
   ],
   "CBeebies.uk": [
-    {
-      "title": "..programmes start at 6.00am",
-      "description": null,
-      "start": 1789581480,
-      "stop": 1789603080,
-      "icon": null,
-      "channel": "CBeebies.uk",
-      "premiere": false,
-      "season": null,
-      "episode": null
-    },
     {
       "title": "..programmes start at 6.00am",
       "description": null,
@@ -44931,7 +44909,7 @@
     },
     {
       "title": "Channel 4 News",
-      "description": "Channel 4's flagship news programme. Including the weather.",
+      "description": "King Charles warns tech leaders of the 'existential danger' of misused AI. And what chance of dissent in Russia's elections where anyone anti the war in Ukraine is disqualified or banned?",
       "start": 1789668000,
       "stop": 1789671600,
       "icon": "https://images.metadata.sky.com/pd-image/dbb066b6-461a-4dc1-8cd4-044191a91b1f/cover",
@@ -44963,15 +44941,15 @@
       "episode": 3.0
     },
     {
-      "title": "Apocalypse",
+      "title": "Apocalypse: Could You Survive?",
       "description": "In a radical experiment, two groups of ordinary people enter an abandoned town, unaware of each other's existence. With no electricity, food or water, can they survive the Apocalypse? (Ep1)",
       "start": 1789678800,
       "stop": 1789683600,
-      "icon": "https://images.metadata.sky.com/pd-image/8f23818e-03c0-46d8-9d1f-5d3503ae8e42/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/f1cba28a-fb03-437a-b71a-22b817b4cf14/cover",
       "channel": "Channel4.uk",
       "premiere": false,
-      "season": 1.0,
-      "episode": 1.0
+      "season": null,
+      "episode": null
     },
     {
       "title": "Gogglebox",
@@ -45294,7 +45272,7 @@
     },
     {
       "title": "New: Gogglebox",
-      "description": "What's the verdict on this week's biggest and best TV? (S28 Ep3)",
+      "description": "What's the verdict on this week's TV? Including Apocalypse, Trigger Point, Last Night of the Proms, The Chase, Police Interceptors, Forever Home and ITV News (school dinners). (S28 Ep3)",
       "start": 1789761600,
       "stop": 1789765200,
       "icon": "https://images.metadata.sky.com/pd-image/25845049-6182-45c1-b57d-5f5f72500655/cover",
@@ -46022,7 +46000,7 @@
     },
     {
       "title": "Channel 4 News",
-      "description": "Channel 4's flagship news programme. Including the weather.",
+      "description": "King Charles warns tech leaders of the 'existential danger' of misused AI. And what chance of dissent in Russia's elections where anyone anti the war in Ukraine is disqualified or banned?",
       "start": 1789671600,
       "stop": 1789675200,
       "icon": "https://images.metadata.sky.com/pd-image/dbb066b6-461a-4dc1-8cd4-044191a91b1f/cover",
@@ -46054,15 +46032,15 @@
       "episode": 3.0
     },
     {
-      "title": "Apocalypse",
+      "title": "Apocalypse: Could You Survive?",
       "description": "In a radical experiment, two groups of ordinary people enter an abandoned town, unaware of each other's existence. With no electricity, food or water, can they survive the Apocalypse? (Ep1)",
       "start": 1789682400,
       "stop": 1789687200,
-      "icon": "https://images.metadata.sky.com/pd-image/8f23818e-03c0-46d8-9d1f-5d3503ae8e42/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/f1cba28a-fb03-437a-b71a-22b817b4cf14/cover",
       "channel": "Channel4Plus1.uk",
       "premiere": false,
-      "season": 1.0,
-      "episode": 1.0
+      "season": null,
+      "episode": null
     },
     {
       "title": "Gogglebox",
@@ -46385,7 +46363,7 @@
     },
     {
       "title": "New: Gogglebox",
-      "description": "What's the verdict on this week's biggest and best TV? (S28 Ep3)",
+      "description": "What's the verdict on this week's TV? Including Apocalypse, Trigger Point, Last Night of the Proms, The Chase, Police Interceptors, Forever Home and ITV News (school dinners). (S28 Ep3)",
       "start": 1789765200,
       "stop": 1789768800,
       "icon": "https://images.metadata.sky.com/pd-image/25845049-6182-45c1-b57d-5f5f72500655/cover",
@@ -47376,22 +47354,22 @@
       "episode": 2.0
     },
     {
-      "title": "**Visually Signed** The Highland..",
-      "description": "...Vet. Katie must decide which pet to prioritise when a dog and a cat are rushed to the practice; a farmer brings in his newborn calf; Tom visits a stable near Wick. (VS) (S6 Ep3)",
+      "title": "This is Channel 5 +1",
+      "description": "This is Channel 5 +1",
       "start": 1789705800,
-      "stop": 1789708860,
-      "icon": "https://images.metadata.sky.com/pd-image/30072f5e-01eb-4b41-82cb-04946813c17e/cover",
+      "stop": 1789707600,
+      "icon": "https://images.metadata.sky.com/pd-image/b0218277-5793-4e0c-9033-fd4ebe0131cb/cover",
       "channel": "Channel5Plus1.uk",
       "premiere": false,
-      "season": 6.0,
-      "episode": 3.0
+      "season": null,
+      "episode": null
     },
     {
       "title": "This is Channel 5 +1",
       "description": "This is Channel 5 +1",
-      "start": 1789708860,
-      "stop": 1789709700,
-      "icon": "https://images.metadata.sky.com/pd-image/f0c790a9-2a92-4565-8869-37b175481149/cover",
+      "start": 1789707600,
+      "stop": 1789708800,
+      "icon": "https://images.metadata.sky.com/pd-image/eeab5af0-4dbe-4280-a279-9b85db790071/cover",
       "channel": "Channel5Plus1.uk",
       "premiere": false,
       "season": null,
@@ -47399,8 +47377,19 @@
     },
     {
       "title": "**Visually Signed** Mixmups",
+      "description": "The Mixmups mix up a Perfect Present adventure to make a present for Roller Guinea. But when Roller Guinea doesn't like the gift, will they find another way to make him happy? (VS) (Ep23)",
+      "start": 1789709100,
+      "stop": 1789710000,
+      "icon": "https://images.metadata.sky.com/pd-image/da1d80da-cd90-354f-acae-a4bd06e06310/cover",
+      "channel": "Channel5Plus1.uk",
+      "premiere": false,
+      "season": 1.0,
+      "episode": 23.0
+    },
+    {
+      "title": "**Visually Signed** Mixmups",
       "description": "The Mixmups mix up a Colouring In adventure and paint a giant LLB, using a flying Heli-brush to reach the top of the picture. Buy they get paint splatters everywhere! (VS) (Ep24)",
-      "start": 1789709700,
+      "start": 1789710000,
       "stop": 1789710600,
       "icon": "https://images.metadata.sky.com/pd-image/6325f1b6-1047-37b5-880e-229fb8cfecbb/cover",
       "channel": "Channel5Plus1.uk",
@@ -47533,7 +47522,7 @@
       "title": "Rubble & Crew",
       "description": "When Speed Meister's roller coaster sends a pet playdate out of control, Rubble & Crew save the day with a bigger, better, and safer coaster. (S2 Ep1)",
       "start": 1789716000,
-      "stop": 1789716600,
+      "stop": 1789716900,
       "icon": "https://images.metadata.sky.com/pd-image/0627e1b8-915e-37f2-ae7d-4b2669c769b0/cover",
       "channel": "Channel5Plus1.uk",
       "premiere": false,
@@ -47543,7 +47532,7 @@
     {
       "title": "Peppa Pig",
       "description": "Danny's Pirate Party: It is Danny Dog's birthday. With the help of Grandad Dog and Grandpa Pig, the children take part in a pirate treasure hunt. (S3 Ep16)",
-      "start": 1789716600,
+      "start": 1789716900,
       "stop": 1789717200,
       "icon": "https://images.metadata.sky.com/pd-image/f36cae14-c69d-4805-8fc5-1fc4e7f86fa4/cover",
       "channel": "Channel5Plus1.uk",
@@ -47794,15 +47783,15 @@
       "episode": null
     },
     {
-      "title": "New: Piers Morgan: Uncensored",
-      "description": "The bold, opinion-led news and debate show hosted by Piers Morgan. Piers blends journalism, debates and cultural commentary that's unapologetically direct. (S2 Ep33)",
+      "title": "Piers Morgan Uncensored:...",
+      "description": "...The End of MAGA? The MAGA movement swept America, the shockwaves felt worldwide. But have the wheels finally come off? Piers Morgan debates. (S2 Ep33)",
       "start": 1789768800,
       "stop": 1789776300,
-      "icon": "https://images.metadata.sky.com/pd-image/f4fef757-e88c-418a-8d32-9c146a7da1b4/cover",
+      "icon": "https://images.metadata.sky.com/pd-image/47983eb0-cdeb-40e5-bac9-1d6b2faf15cc/cover",
       "channel": "Channel5Plus1.uk",
-      "premiere": true,
-      "season": 2.0,
-      "episode": 33.0
+      "premiere": false,
+      "season": null,
+      "episode": null
     },
     {
       "title": "New: I Like a Good Spanking!",
@@ -47827,10 +47816,21 @@
       "episode": 0.0
     },
     {
+      "title": "HMP Long Lartin: Evil Behind Bars",
+      "description": "Inside the prison that convicts dread being sent to, holding some of Britain's most brutal men. Staff and ex-inmates reveal what it's really like.",
+      "start": 1789783200,
+      "stop": 1789787400,
+      "icon": "https://images.metadata.sky.com/pd-image/dec4de34-c86a-383b-ae6e-b1cb4dea3cea/cover",
+      "channel": "Channel5Plus1.uk",
+      "premiere": false,
+      "season": null,
+      "episode": null
+    },
+    {
       "title": "Ben Fogle: New Lives in the Wild",
       "description": "Ben meets people who've turned their backs on the rat-race. Snowboarding legend Mike Basich left professional sport to reconnect with nature in the Sierra Nevada mountains. (S17 Ep1)",
-      "start": 1789783200,
-      "stop": 1789786200,
+      "start": 1789787400,
+      "stop": 1789790400,
       "icon": "https://images.metadata.sky.com/pd-image/1f662f70-ef4f-4f01-b63a-052137564cd4/cover",
       "channel": "Channel5Plus1.uk",
       "premiere": false,
@@ -47840,8 +47840,8 @@
     {
       "title": "Castle",
       "description": "Castle steps into one of the Tales of the Arabian Nights after a treasure hunter is murdered after possibly discovering King Solomon's tomb. (S8 Ep17)",
-      "start": 1789786200,
-      "stop": 1789788900,
+      "start": 1789790400,
+      "stop": 1789793100,
       "icon": "https://images.metadata.sky.com/pd-image/f10feeb2-a1a0-429c-88a0-78d67837f66f/cover",
       "channel": "Channel5Plus1.uk",
       "premiere": false,
@@ -47851,46 +47851,13 @@
     {
       "title": "**Visually Signed** The Highland..",
       "description": "...Vet. Guy treats a Maine Coon cat that was run over outside his owner's house; William investigates why two new-born calves are doing poorly. (VS) (S6 Ep4)",
-      "start": 1789788900,
-      "stop": 1789791900,
+      "start": 1789793100,
+      "stop": 1789796280,
       "icon": "https://images.metadata.sky.com/pd-image/fa4b38c7-9dd7-4bbb-bb3b-799c299a7a2e/cover",
       "channel": "Channel5Plus1.uk",
       "premiere": false,
       "season": 6.0,
       "episode": 4.0
-    },
-    {
-      "title": "This is Channel 5 +1",
-      "description": "This is Channel 5 +1",
-      "start": 1789791900,
-      "stop": 1789793700,
-      "icon": "https://images.metadata.sky.com/pd-image/435187df-b9c1-4e62-a676-68b22b8b35fc/cover",
-      "channel": "Channel5Plus1.uk",
-      "premiere": false,
-      "season": null,
-      "episode": null
-    },
-    {
-      "title": "This is Channel 5 +1",
-      "description": "This is Channel 5 +1",
-      "start": 1789793700,
-      "stop": 1789794000,
-      "icon": "https://images.metadata.sky.com/pd-image/e3bc5528-8d7f-4113-b0a5-b39f19fc8cea/cover",
-      "channel": "Channel5Plus1.uk",
-      "premiere": false,
-      "season": null,
-      "episode": null
-    },
-    {
-      "title": "Entertainment News on 5",
-      "description": "A daily round-up of showbiz news and gossip from around the world, focusing on celebrities, movies, music and entertainment.",
-      "start": 1789796100,
-      "stop": 1789797000,
-      "icon": "https://images.metadata.sky.com/pd-image/52e7b80f-b85e-496f-abb8-d297b156fb93/cover",
-      "channel": "Channel5Plus1.uk",
-      "premiere": false,
-      "season": 2026.0,
-      "episode": 38.0
     },
     {
       "title": "**Visually Signed** Mixmups",
@@ -65067,6 +65034,17 @@
       "premiere": false,
       "season": null,
       "episode": null
+    },
+    {
+      "title": "Unwind with ITV",
+      "description": "Your daily escape designed to calm the mind and encourage relaxation and reflection.",
+      "start": 1789701300,
+      "stop": 1789704300,
+      "icon": "https://images.metadata.sky.com/pd-image/37f9c464-aafb-4622-a719-1e0514bae660/cover",
+      "channel": "ITV1MeridianN.uk",
+      "premiere": false,
+      "season": 5.0,
+      "episode": 324.0
     },
     {
       "title": "The Chase Around the World",
