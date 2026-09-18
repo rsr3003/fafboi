@@ -560,28 +560,28 @@
     <icon src="https://images.metadata.sky.com/pd-image/8db667cd-21c9-43ee-9787-aac5de8cee6e/cover"/>
   </programme>
   <programme channel="sky.main.uk" start="20260920010000 +0000" stop="20260920020000 +0000">
-    <title lang="en">Sky Sports Catch-Up</title>
-    <desc lang="en">Take a moment to catch-up with the all biggest sports stories hitting the headlines.</desc>
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/defb5652-1610-4565-841a-1756b7a9f930/cover"/>
   </programme>
   <programme channel="sky.main.uk" start="20260920020000 +0000" stop="20260920030000 +0000">
-    <title lang="en">Sky Sports Catch-Up</title>
-    <desc lang="en">Take a moment to catch-up with the all biggest sports stories hitting the headlines.</desc>
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/defb5652-1610-4565-841a-1756b7a9f930/cover"/>
   </programme>
   <programme channel="sky.main.uk" start="20260920030000 +0000" stop="20260920040000 +0000">
-    <title lang="en">Sky Sports Catch-Up</title>
-    <desc lang="en">Take a moment to catch-up with the all biggest sports stories hitting the headlines.</desc>
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/defb5652-1610-4565-841a-1756b7a9f930/cover"/>
   </programme>
   <programme channel="sky.main.uk" start="20260920040000 +0000" stop="20260920050000 +0000">
-    <title lang="en">Sky Sports Catch-Up</title>
-    <desc lang="en">Take a moment to catch-up with the all biggest sports stories hitting the headlines.</desc>
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/defb5652-1610-4565-841a-1756b7a9f930/cover"/>
   </programme>
   <programme channel="sky.main.uk" start="20260920050000 +0000" stop="20260920060000 +0000">
-    <title lang="en">Sky Sports Catch-Up</title>
-    <desc lang="en">Take a moment to catch-up with the all biggest sports stories hitting the headlines.</desc>
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/defb5652-1610-4565-841a-1756b7a9f930/cover"/>
   </programme>
   <programme channel="sky.main.uk" start="20260920060000 +0000" stop="20260920070000 +0000">
@@ -3355,24 +3355,15 @@
     <episode-num system="xmltv_ns">2025.23.0</episode-num>
     <episode-num system="onscreen">S2026E24</episode-num>
   </programme>
-  <programme channel="sky.mix.uk" start="20260919130000 +0000" stop="20260919160000 +0000">
+  <programme channel="sky.mix.uk" start="20260919130000 +0000" stop="20260919140000 +0000">
+    <title lang="en">PGA Tour Champions Golf Highlights</title>
+    <desc lang="en">Tournament highlights from the Sanford International - a PGA Tour Champions event held at Minnehaha Country Club in Sioux Falls, South Dakota.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/12306697-e8ab-4c90-abc8-fb7f65e9d269/cover"/>
+  </programme>
+  <programme channel="sky.mix.uk" start="20260919140000 +0000" stop="20260919162000 +0000">
     <title lang="en">Live Ladies European Tour Golf</title>
     <desc lang="en">The third day of the 2026 La Sella Open, an LET event in the Spanish city of Alicante.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/12306697-e8ab-4c90-abc8-fb7f65e9d269/cover"/>
-  </programme>
-  <programme channel="sky.mix.uk" start="20260919160000 +0000" stop="20260919161000 +0000">
-    <title lang="en">My Icon: Shaun Gayle</title>
-    <desc lang="en">In the next episode of this special series, former Chicago Bears defensive back and Super Bowl winner Shaun Gayle discusses the individuals that have inspired him during his life.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/ece16de8-a1f5-46e5-bc5a-3957487205e2/cover"/>
-    <episode-num system="xmltv_ns">0.3.0</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
-  </programme>
-  <programme channel="sky.mix.uk" start="20260919161000 +0000" stop="20260919162000 +0000">
-    <title lang="en">My Icon: Linford Christie</title>
-    <desc lang="en">Former sprint superstar and Olympic gold medalist Linford Christie discusses the individuals that have inspired him in his life and career.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/55a0d712-3dae-40fd-a95a-3863b0174caf/cover"/>
-    <episode-num system="xmltv_ns">0.10.0</episode-num>
-    <episode-num system="onscreen">S1E11</episode-num>
   </programme>
   <programme channel="sky.mix.uk" start="20260919162000 +0000" stop="20260919183000 +0000">
     <title lang="en">Live B'Liga: Stuttgart v Dortmund</title>
@@ -4118,7 +4109,7 @@
   <programme channel="tnt1" start="20260919141500 +0000" stop="20260919150000 +0000">
     <title lang="en">Live: Rolex SailGP Championship</title>
     <desc lang="en">Day one of the 2026 Rolex Switzerland Sail Grand Prix on Lake Geneva. Can the Germany SailGP Team repeat its success at this venue from last year?</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e6bfc9fc-a813-41f7-85d1-79558746569e/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/e226be43-f6c7-4448-b351-5fed563cab07/cover"/>
   </programme>
   <programme channel="tnt1" start="20260919150000 +0000" stop="20260919163000 +0000">
     <title lang="en">Cycling Pro Series - Men</title>
@@ -9121,7 +9112,7 @@
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260919193000 +0000" stop="20260919200000 +0000">
     <title lang="en">The Listening Post</title>
-    <desc lang="en">Ep.34 What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="en">Ep.34 When tech CEOs warn AI could end humanity, does the media get the story right? Plus, a Nigerian publisher on who gets to tell African stories.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ae05b511-1722-4497-a5c7-b59f1043dfa0/cover"/>
     <episode-num system="xmltv_ns">2025.33.0</episode-num>
     <episode-num system="onscreen">S2026E34</episode-num>
@@ -9237,7 +9228,7 @@
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260920083000 +0000" stop="20260920090000 +0000">
     <title lang="en">The Listening Post</title>
-    <desc lang="en">Ep.34 What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="en">Ep.34 When tech CEOs warn AI could end humanity, does the media get the story right? Plus, a Nigerian publisher on who gets to tell African stories.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ae05b511-1722-4497-a5c7-b59f1043dfa0/cover"/>
     <episode-num system="xmltv_ns">2025.33.0</episode-num>
     <episode-num system="onscreen">S2026E34</episode-num>
@@ -9336,8 +9327,8 @@
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260920193000 +0000" stop="20260920200000 +0000">
     <title lang="en">Talk to Al Jazeera</title>
-    <desc lang="en">Ep.496 14092026: One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/fba7de1f-ea40-433a-8c8e-a8b0d1aa6fe3/cover"/>
+    <desc lang="en">Aliko Dangote: Africa's richest man Aliko Dangote tells Al Jazeera how his refinery in Nigeria has reshaped the country's fuel sector and what the facility means for Africa.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/90417ca9-17a6-4b5b-9f2b-e2012436991b/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260920200000 +0000" stop="20260920210000 +0000">
     <title lang="en">Shootout in Glenville: Uncovered</title>
@@ -10351,7 +10342,7 @@
   </programme>
   <programme channel="BBCNews.uk" start="20260919144500 +0000" stop="20260919150000 +0000">
     <title lang="en">Newswatch</title>
-    <desc lang="en">Your views on the coverage of events by BBC News, answered by the editors and decision makers in charge.</desc>
+    <desc lang="en">Friday's edition of Newsnight is moving earlier in the evening, from 10.30pm to 7.00 pm. What is the thinking behind the move?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5190db3e-427d-49d3-a568-df24d0876565/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260919150000 +0000" stop="20260919153000 +0000">
@@ -10470,7 +10461,7 @@
   </programme>
   <programme channel="BBCNews.uk" start="20260920033000 +0000" stop="20260920040000 +0000">
     <title lang="en">Global Eye</title>
-    <desc lang="en">João Fellet reports on the deep divisions in Brazil ahead of the election and investigates El Salvador's controversial crackdown on gang violence, what lies behind the headlines?</desc>
+    <desc lang="en">Once considered one of the world's most dangerous countries, El Salvador has seen violent crime fall dramatically. Global Eye asks what lies behind the headlines?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c8e735f0-9d53-457a-9b91-09f7529668d0/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260920040000 +0000" stop="20260920043000 +0000">
@@ -10513,14 +10504,14 @@
     <icon src="https://images.metadata.sky.com/pd-image/da20dd7e-e2a5-4c0b-a25e-97e30e3df335/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260920103000 +0000" stop="20260920104500 +0000">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/7e6daac6-f233-4cfc-ba41-f3874a88ca25/cover"/>
-  </programme>
-  <programme channel="BBCNews.uk" start="20260920104500 +0000" stop="20260920110000 +0000">
     <title lang="en">The President's Path</title>
     <desc lang="en">As the trade war between Canada and the United States continues, Ottawa explores what it calls a 'unique alliance' with the European Union.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d4d9fb6d-da17-4364-8b44-f4ae81e984e1/cover"/>
+  </programme>
+  <programme channel="BBCNews.uk" start="20260920104500 +0000" stop="20260920110000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7e6daac6-f233-4cfc-ba41-f3874a88ca25/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260920110000 +0000" stop="20260920113000 +0000">
     <title lang="en">BBC News</title>
@@ -10569,7 +10560,7 @@
   </programme>
   <programme channel="BBCNews.uk" start="20260920153000 +0000" stop="20260920160000 +0000">
     <title lang="en">Global Eye</title>
-    <desc lang="en">João Fellet reports on the deep divisions in Brazil ahead of the election and investigates El Salvador's controversial crackdown on gang violence, what lies behind the headlines?</desc>
+    <desc lang="en">Once considered one of the world's most dangerous countries, El Salvador has seen violent crime fall dramatically. Global Eye asks what lies behind the headlines?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c8e735f0-9d53-457a-9b91-09f7529668d0/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260920160000 +0000" stop="20260920170000 +0000">
@@ -10665,7 +10656,7 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260918083000 +0000" stop="20260918094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rav Wilding and Michelle Ackerley discuss how to check if your smart meter is working properly and the visibility risks when driving larger SUVs.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/271c8f6a-632c-4605-a13a-e2f76c440a0b/cover"/>
     <episode-num system="xmltv_ns">7.77.0</episode-num>
     <episode-num system="onscreen">S8E78</episode-num>
@@ -10681,8 +10672,8 @@
     <title lang="en">Homes Under the Hammer</title>
     <desc lang="en">Grandma, mum and dad are weighing up whether to move into an Orpington bungalow, which has been totally transformed by a younger member of their family.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fd5c0c30-3437-4406-9dd3-809d52949bce/cover"/>
-    <episode-num system="xmltv_ns">26.10.0</episode-num>
-    <episode-num system="onscreen">S27E11</episode-num>
+    <episode-num system="xmltv_ns">26.11.0</episode-num>
+    <episode-num system="onscreen">S27E12</episode-num>
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260918111500 +0000" stop="20260918120000 +0000">
     <title lang="en">Bargain Hunt</title>
@@ -10973,7 +10964,7 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260920093000 +0000" stop="20260920103000 +0000">
     <title lang="en">Sunday Morning Live</title>
-    <desc lang="en">4/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most.</desc>
+    <desc lang="en">4/23. How should faith leaders respond to the concerns around AI?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fd7f10a8-e30d-41cd-adb3-658627ea77e6/cover"/>
     <episode-num system="xmltv_ns">16.3.0</episode-num>
     <episode-num system="onscreen">S17E4</episode-num>
@@ -11058,11 +11049,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/6326c97d-f7bc-49d3-90ec-8b6f8056733c/cover"/>
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260920173000 +0000" stop="20260920180000 +0000">
-    <title lang="en">Garden Rescue</title>
-    <desc lang="en">2/35. Charlie and Lee are in Cwmbran to create a relaxed, free-flowing garden to celebrate Jane's all-clear from cancer.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9a81d68e-2eb9-3ba6-9cfb-e5c9507a63a4/cover"/>
-    <episode-num system="xmltv_ns">8.1.0</episode-num>
-    <episode-num system="onscreen">S9E2</episode-num>
+    <title lang="en">Princess Diana: My Sister's Story</title>
+    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer after explosive new revelations in his latest book about his sister, Diana, Princess of Wales.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/584fde22-adfc-4c3d-b0da-cfb5c72f79cd/cover"/>
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260920180000 +0000" stop="20260920190000 +0000">
     <title lang="en">Countryfile</title>
@@ -11095,7 +11084,7 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260920213000 +0000" stop="20260920224000 +0000">
     <title lang="en">Match of the Day</title>
-    <desc lang="en">Kelly Cates presents highlights of Sunday's two Premier League games, including new Liverpool boss Andoni Iraola's return to his former side, Bournemouth.</desc>
+    <desc lang="en">Kelly Cates presents highlights of Sunday's four Premier League games, including new Liverpool boss Andoni Iraola's return to his former side, Bournemouth.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2736b287-cb8a-4110-bfdb-13a8b42a5cfb/cover"/>
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260920224000 +0000" stop="20260921001500 +0000">
@@ -11141,7 +11130,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20260918083000 +0000" stop="20260918094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rav Wilding and Michelle Ackerley discuss how to check if your smart meter is working properly and the visibility risks when driving larger SUVs.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/271c8f6a-632c-4605-a13a-e2f76c440a0b/cover"/>
     <episode-num system="xmltv_ns">7.77.0</episode-num>
     <episode-num system="onscreen">S8E78</episode-num>
@@ -11157,8 +11146,8 @@
     <title lang="en">Homes Under the Hammer</title>
     <desc lang="en">Grandma, mum and dad are weighing up whether to move into an Orpington bungalow, which has been totally transformed by a younger member of their family.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fd5c0c30-3437-4406-9dd3-809d52949bce/cover"/>
-    <episode-num system="xmltv_ns">26.10.0</episode-num>
-    <episode-num system="onscreen">S27E11</episode-num>
+    <episode-num system="xmltv_ns">26.11.0</episode-num>
+    <episode-num system="onscreen">S27E12</episode-num>
   </programme>
   <programme channel="BBCOneEast.uk" start="20260918111500 +0000" stop="20260918120000 +0000">
     <title lang="en">Bargain Hunt</title>
@@ -11449,7 +11438,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20260920093000 +0000" stop="20260920103000 +0000">
     <title lang="en">Sunday Morning Live</title>
-    <desc lang="en">4/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most.</desc>
+    <desc lang="en">4/23. How should faith leaders respond to the concerns around AI?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fd7f10a8-e30d-41cd-adb3-658627ea77e6/cover"/>
     <episode-num system="xmltv_ns">16.3.0</episode-num>
     <episode-num system="onscreen">S17E4</episode-num>
@@ -11534,11 +11523,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/9f2d98d8-29b0-434a-b093-1e08413d35a4/cover"/>
   </programme>
   <programme channel="BBCOneEast.uk" start="20260920173000 +0000" stop="20260920180000 +0000">
-    <title lang="en">Garden Rescue</title>
-    <desc lang="en">2/35. Charlie and Lee are in Cwmbran to create a relaxed, free-flowing garden to celebrate Jane's all-clear from cancer.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9a81d68e-2eb9-3ba6-9cfb-e5c9507a63a4/cover"/>
-    <episode-num system="xmltv_ns">8.1.0</episode-num>
-    <episode-num system="onscreen">S9E2</episode-num>
+    <title lang="en">Princess Diana: My Sister's Story</title>
+    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer after explosive new revelations in his latest book about his sister, Diana, Princess of Wales.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/fc9704a2-b256-41a6-a8f0-24392ecfaa3b/cover"/>
   </programme>
   <programme channel="BBCOneEast.uk" start="20260920180000 +0000" stop="20260920190000 +0000">
     <title lang="en">Countryfile</title>
@@ -11571,7 +11558,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20260920213000 +0000" stop="20260920224000 +0000">
     <title lang="en">Match of the Day</title>
-    <desc lang="en">Kelly Cates presents highlights of Sunday's two Premier League games, including new Liverpool boss Andoni Iraola's return to his former side, Bournemouth.</desc>
+    <desc lang="en">Kelly Cates presents highlights of Sunday's four Premier League games, including new Liverpool boss Andoni Iraola's return to his former side, Bournemouth.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2736b287-cb8a-4110-bfdb-13a8b42a5cfb/cover"/>
   </programme>
   <programme channel="BBCOneEast.uk" start="20260920224000 +0000" stop="20260921001500 +0000">
@@ -11617,7 +11604,7 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260918083000 +0000" stop="20260918094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rav Wilding and Michelle Ackerley discuss how to check if your smart meter is working properly and the visibility risks when driving larger SUVs.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/271c8f6a-632c-4605-a13a-e2f76c440a0b/cover"/>
     <episode-num system="xmltv_ns">7.77.0</episode-num>
     <episode-num system="onscreen">S8E78</episode-num>
@@ -11633,8 +11620,8 @@
     <title lang="en">Homes Under the Hammer</title>
     <desc lang="en">Grandma, mum and dad are weighing up whether to move into an Orpington bungalow, which has been totally transformed by a younger member of their family.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fd5c0c30-3437-4406-9dd3-809d52949bce/cover"/>
-    <episode-num system="xmltv_ns">26.10.0</episode-num>
-    <episode-num system="onscreen">S27E11</episode-num>
+    <episode-num system="xmltv_ns">26.11.0</episode-num>
+    <episode-num system="onscreen">S27E12</episode-num>
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260918111500 +0000" stop="20260918120000 +0000">
     <title lang="en">Bargain Hunt</title>
@@ -11925,7 +11912,7 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260920093000 +0000" stop="20260920103000 +0000">
     <title lang="en">Sunday Morning Live</title>
-    <desc lang="en">4/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most.</desc>
+    <desc lang="en">4/23. How should faith leaders respond to the concerns around AI?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fd7f10a8-e30d-41cd-adb3-658627ea77e6/cover"/>
     <episode-num system="xmltv_ns">16.3.0</episode-num>
     <episode-num system="onscreen">S17E4</episode-num>
@@ -12010,11 +11997,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/a740910e-bcd1-44e8-ba3c-5132b31a3900/cover"/>
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260920173000 +0000" stop="20260920180000 +0000">
-    <title lang="en">Garden Rescue</title>
-    <desc lang="en">2/35. Charlie and Lee are in Cwmbran to create a relaxed, free-flowing garden to celebrate Jane's all-clear from cancer.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9a81d68e-2eb9-3ba6-9cfb-e5c9507a63a4/cover"/>
-    <episode-num system="xmltv_ns">8.1.0</episode-num>
-    <episode-num system="onscreen">S9E2</episode-num>
+    <title lang="en">Princess Diana: My Sister's Story</title>
+    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer after explosive new revelations in his latest book about his sister, Diana, Princess of Wales.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d8d25ed0-db69-4ced-b395-7f291113019c/cover"/>
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260920180000 +0000" stop="20260920190000 +0000">
     <title lang="en">Countryfile</title>
@@ -12047,7 +12032,7 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260920213000 +0000" stop="20260920224000 +0000">
     <title lang="en">Match of the Day</title>
-    <desc lang="en">Kelly Cates presents highlights of Sunday's two Premier League games, including new Liverpool boss Andoni Iraola's return to his former side, Bournemouth.</desc>
+    <desc lang="en">Kelly Cates presents highlights of Sunday's four Premier League games, including new Liverpool boss Andoni Iraola's return to his former side, Bournemouth.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2736b287-cb8a-4110-bfdb-13a8b42a5cfb/cover"/>
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260920224000 +0000" stop="20260921001500 +0000">
@@ -12093,7 +12078,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260918083000 +0000" stop="20260918094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rav Wilding and Michelle Ackerley discuss how to check if your smart meter is working properly and the visibility risks when driving larger SUVs.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/271c8f6a-632c-4605-a13a-e2f76c440a0b/cover"/>
     <episode-num system="xmltv_ns">7.77.0</episode-num>
     <episode-num system="onscreen">S8E78</episode-num>
@@ -12109,8 +12094,8 @@
     <title lang="en">Homes Under the Hammer</title>
     <desc lang="en">Grandma, mum and dad are weighing up whether to move into an Orpington bungalow, which has been totally transformed by a younger member of their family.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fd5c0c30-3437-4406-9dd3-809d52949bce/cover"/>
-    <episode-num system="xmltv_ns">26.10.0</episode-num>
-    <episode-num system="onscreen">S27E11</episode-num>
+    <episode-num system="xmltv_ns">26.11.0</episode-num>
+    <episode-num system="onscreen">S27E12</episode-num>
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260918111500 +0000" stop="20260918120000 +0000">
     <title lang="en">Bargain Hunt</title>
@@ -12401,7 +12386,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260920093000 +0000" stop="20260920103000 +0000">
     <title lang="en">Sunday Morning Live</title>
-    <desc lang="en">4/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most.</desc>
+    <desc lang="en">4/23. How should faith leaders respond to the concerns around AI?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fd7f10a8-e30d-41cd-adb3-658627ea77e6/cover"/>
     <episode-num system="xmltv_ns">16.3.0</episode-num>
     <episode-num system="onscreen">S17E4</episode-num>
@@ -12486,11 +12471,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/9def4605-8dd7-47fa-b146-ce60871cd9f0/cover"/>
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260920173000 +0000" stop="20260920180000 +0000">
-    <title lang="en">Garden Rescue</title>
-    <desc lang="en">2/35. Charlie and Lee are in Cwmbran to create a relaxed, free-flowing garden to celebrate Jane's all-clear from cancer.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9a81d68e-2eb9-3ba6-9cfb-e5c9507a63a4/cover"/>
-    <episode-num system="xmltv_ns">8.1.0</episode-num>
-    <episode-num system="onscreen">S9E2</episode-num>
+    <title lang="en">Princess Diana: My Sister's Story</title>
+    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer after explosive new revelations in his latest book about his sister, Diana, Princess of Wales.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/b06a781f-9201-4f4e-8375-666189bc84e7/cover"/>
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260920180000 +0000" stop="20260920190000 +0000">
     <title lang="en">Countryfile</title>
@@ -12523,7 +12506,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260920213000 +0000" stop="20260920224000 +0000">
     <title lang="en">Match of the Day</title>
-    <desc lang="en">Kelly Cates presents highlights of Sunday's two Premier League games, including new Liverpool boss Andoni Iraola's return to his former side, Bournemouth.</desc>
+    <desc lang="en">Kelly Cates presents highlights of Sunday's four Premier League games, including new Liverpool boss Andoni Iraola's return to his former side, Bournemouth.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2736b287-cb8a-4110-bfdb-13a8b42a5cfb/cover"/>
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260920224000 +0000" stop="20260921001500 +0000">
@@ -12569,7 +12552,7 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260918083000 +0000" stop="20260918094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rav Wilding and Michelle Ackerley discuss how to check if your smart meter is working properly and the visibility risks when driving larger SUVs.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/271c8f6a-632c-4605-a13a-e2f76c440a0b/cover"/>
     <episode-num system="xmltv_ns">7.77.0</episode-num>
     <episode-num system="onscreen">S8E78</episode-num>
@@ -12585,8 +12568,8 @@
     <title lang="en">Homes Under the Hammer</title>
     <desc lang="en">Grandma, mum and dad are weighing up whether to move into an Orpington bungalow, which has been totally transformed by a younger member of their family.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fd5c0c30-3437-4406-9dd3-809d52949bce/cover"/>
-    <episode-num system="xmltv_ns">26.10.0</episode-num>
-    <episode-num system="onscreen">S27E11</episode-num>
+    <episode-num system="xmltv_ns">26.11.0</episode-num>
+    <episode-num system="onscreen">S27E12</episode-num>
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260918111500 +0000" stop="20260918120000 +0000">
     <title lang="en">Bargain Hunt</title>
@@ -12875,7 +12858,7 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260920093000 +0000" stop="20260920103000 +0000">
     <title lang="en">Sunday Morning Live</title>
-    <desc lang="en">4/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most.</desc>
+    <desc lang="en">4/23. How should faith leaders respond to the concerns around AI?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fd7f10a8-e30d-41cd-adb3-658627ea77e6/cover"/>
     <episode-num system="xmltv_ns">16.3.0</episode-num>
     <episode-num system="onscreen">S17E4</episode-num>
@@ -12960,11 +12943,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/51ed4fb9-6b15-411a-b6f9-c64fa4220783/cover"/>
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260920173000 +0000" stop="20260920180000 +0000">
-    <title lang="en">Garden Rescue</title>
-    <desc lang="en">2/35. Charlie and Lee are in Cwmbran to create a relaxed, free-flowing garden to celebrate Jane's all-clear from cancer.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9a81d68e-2eb9-3ba6-9cfb-e5c9507a63a4/cover"/>
-    <episode-num system="xmltv_ns">8.1.0</episode-num>
-    <episode-num system="onscreen">S9E2</episode-num>
+    <title lang="en">Princess Diana: My Sister's Story</title>
+    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer after explosive new revelations in his latest book about his sister, Diana, Princess of Wales.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ac3f5e2f-0a86-4b4d-b28a-2421e3be9f58/cover"/>
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260920180000 +0000" stop="20260920190000 +0000">
     <title lang="en">Countryfile</title>
@@ -12997,7 +12978,7 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260920213000 +0000" stop="20260920224000 +0000">
     <title lang="en">Match of the Day</title>
-    <desc lang="en">Kelly Cates presents highlights of Sunday's two Premier League games, including new Liverpool boss Andoni Iraola's return to his former side, Bournemouth.</desc>
+    <desc lang="en">Kelly Cates presents highlights of Sunday's four Premier League games, including new Liverpool boss Andoni Iraola's return to his former side, Bournemouth.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2736b287-cb8a-4110-bfdb-13a8b42a5cfb/cover"/>
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260920224000 +0000" stop="20260921001500 +0000">
@@ -13043,7 +13024,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260918083000 +0000" stop="20260918094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rav Wilding and Michelle Ackerley discuss how to check if your smart meter is working properly and the visibility risks when driving larger SUVs.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/271c8f6a-632c-4605-a13a-e2f76c440a0b/cover"/>
     <episode-num system="xmltv_ns">7.77.0</episode-num>
     <episode-num system="onscreen">S8E78</episode-num>
@@ -13059,8 +13040,8 @@
     <title lang="en">Homes Under the Hammer</title>
     <desc lang="en">Grandma, mum and dad are weighing up whether to move into an Orpington bungalow, which has been totally transformed by a younger member of their family.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fd5c0c30-3437-4406-9dd3-809d52949bce/cover"/>
-    <episode-num system="xmltv_ns">26.10.0</episode-num>
-    <episode-num system="onscreen">S27E11</episode-num>
+    <episode-num system="xmltv_ns">26.11.0</episode-num>
+    <episode-num system="onscreen">S27E12</episode-num>
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260918111500 +0000" stop="20260918120000 +0000">
     <title lang="en">Bargain Hunt</title>
@@ -13351,7 +13332,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260920093000 +0000" stop="20260920103000 +0000">
     <title lang="en">Sunday Morning Live</title>
-    <desc lang="en">4/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most.</desc>
+    <desc lang="en">4/23. How should faith leaders respond to the concerns around AI?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fd7f10a8-e30d-41cd-adb3-658627ea77e6/cover"/>
     <episode-num system="xmltv_ns">16.3.0</episode-num>
     <episode-num system="onscreen">S17E4</episode-num>
@@ -13436,11 +13417,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/aa3a0cbe-2a88-4ed1-920a-935e18fb5563/cover"/>
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260920173000 +0000" stop="20260920180000 +0000">
-    <title lang="en">Garden Rescue</title>
-    <desc lang="en">2/35. Charlie and Lee are in Cwmbran to create a relaxed, free-flowing garden to celebrate Jane's all-clear from cancer.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9a81d68e-2eb9-3ba6-9cfb-e5c9507a63a4/cover"/>
-    <episode-num system="xmltv_ns">8.1.0</episode-num>
-    <episode-num system="onscreen">S9E2</episode-num>
+    <title lang="en">Princess Diana: My Sister's Story</title>
+    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer after explosive new revelations in his latest book about his sister, Diana, Princess of Wales.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d3fbf714-5f1c-404f-9599-4ae4639f6032/cover"/>
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260920180000 +0000" stop="20260920190000 +0000">
     <title lang="en">Countryfile</title>
@@ -13473,7 +13452,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260920213000 +0000" stop="20260920224000 +0000">
     <title lang="en">Match of the Day</title>
-    <desc lang="en">Kelly Cates presents highlights of Sunday's two Premier League games, including new Liverpool boss Andoni Iraola's return to his former side, Bournemouth.</desc>
+    <desc lang="en">Kelly Cates presents highlights of Sunday's four Premier League games, including new Liverpool boss Andoni Iraola's return to his former side, Bournemouth.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2736b287-cb8a-4110-bfdb-13a8b42a5cfb/cover"/>
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260920224000 +0000" stop="20260921001500 +0000">
@@ -13519,7 +13498,7 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260918083000 +0000" stop="20260918094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rav Wilding and Michelle Ackerley discuss how to check if your smart meter is working properly and the visibility risks when driving larger SUVs.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/271c8f6a-632c-4605-a13a-e2f76c440a0b/cover"/>
     <episode-num system="xmltv_ns">7.77.0</episode-num>
     <episode-num system="onscreen">S8E78</episode-num>
@@ -13535,8 +13514,8 @@
     <title lang="en">Homes Under the Hammer</title>
     <desc lang="en">Grandma, mum and dad are weighing up whether to move into an Orpington bungalow, which has been totally transformed by a younger member of their family.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fd5c0c30-3437-4406-9dd3-809d52949bce/cover"/>
-    <episode-num system="xmltv_ns">26.10.0</episode-num>
-    <episode-num system="onscreen">S27E11</episode-num>
+    <episode-num system="xmltv_ns">26.11.0</episode-num>
+    <episode-num system="onscreen">S27E12</episode-num>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260918111500 +0000" stop="20260918120000 +0000">
     <title lang="en">Bargain Hunt</title>
@@ -13812,12 +13791,12 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260920090000 +0000" stop="20260920093000 +0000">
     <title lang="en">Sunday Politics</title>
-    <desc lang="en">Mark Carruthers looks at the political developments of the week and questions policymakers on the key issues.</desc>
+    <desc lang="en">Mark Carruthers speaks to DUP leader Gavin Robinson after his party conference.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0bc1f391-e2a9-4724-b6c9-9c2b8b7ec7c0/cover"/>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260920093000 +0000" stop="20260920103000 +0000">
     <title lang="en">Sunday Morning Live</title>
-    <desc lang="en">4/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most.</desc>
+    <desc lang="en">4/23. How should faith leaders respond to the concerns around AI?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fd7f10a8-e30d-41cd-adb3-658627ea77e6/cover"/>
     <episode-num system="xmltv_ns">16.3.0</episode-num>
     <episode-num system="onscreen">S17E4</episode-num>
@@ -13897,11 +13876,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/69417e1c-5469-4c61-b7a3-5694f1820f9e/cover"/>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260920173000 +0000" stop="20260920180000 +0000">
-    <title lang="en">Garden Rescue</title>
-    <desc lang="en">2/35. Charlie and Lee are in Cwmbran to create a relaxed, free-flowing garden to celebrate Jane's all-clear from cancer.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9a81d68e-2eb9-3ba6-9cfb-e5c9507a63a4/cover"/>
-    <episode-num system="xmltv_ns">8.1.0</episode-num>
-    <episode-num system="onscreen">S9E2</episode-num>
+    <title lang="en">Princess Diana: My Sister's Story</title>
+    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer after explosive new revelations in his latest book about his sister, Diana, Princess of Wales.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3fb7bd67-d731-4d26-afe8-81eebaaa9b81/cover"/>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260920180000 +0000" stop="20260920190000 +0000">
     <title lang="en">Countryfile</title>
@@ -13934,7 +13911,7 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260920213000 +0000" stop="20260920224000 +0000">
     <title lang="en">Match of the Day</title>
-    <desc lang="en">Kelly Cates presents highlights of Sunday's two Premier League games, including new Liverpool boss Andoni Iraola's return to his former side, Bournemouth.</desc>
+    <desc lang="en">Kelly Cates presents highlights of Sunday's four Premier League games, including new Liverpool boss Andoni Iraola's return to his former side, Bournemouth.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2736b287-cb8a-4110-bfdb-13a8b42a5cfb/cover"/>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260920224000 +0000" stop="20260921001500 +0000">
@@ -13985,7 +13962,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260918083000 +0000" stop="20260918094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rav Wilding and Michelle Ackerley discuss how to check if your smart meter is working properly and the visibility risks when driving larger SUVs.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/271c8f6a-632c-4605-a13a-e2f76c440a0b/cover"/>
     <episode-num system="xmltv_ns">7.77.0</episode-num>
     <episode-num system="onscreen">S8E78</episode-num>
@@ -14001,8 +13978,8 @@
     <title lang="en">Homes Under the Hammer</title>
     <desc lang="en">Grandma, mum and dad are weighing up whether to move into an Orpington bungalow, which has been totally transformed by a younger member of their family.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fd5c0c30-3437-4406-9dd3-809d52949bce/cover"/>
-    <episode-num system="xmltv_ns">26.10.0</episode-num>
-    <episode-num system="onscreen">S27E11</episode-num>
+    <episode-num system="xmltv_ns">26.11.0</episode-num>
+    <episode-num system="onscreen">S27E12</episode-num>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260918111500 +0000" stop="20260918120000 +0000">
     <title lang="en">Bargain Hunt</title>
@@ -14295,7 +14272,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260920093000 +0000" stop="20260920103000 +0000">
     <title lang="en">Sunday Morning Live</title>
-    <desc lang="en">4/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most.</desc>
+    <desc lang="en">4/23. How should faith leaders respond to the concerns around AI?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fd7f10a8-e30d-41cd-adb3-658627ea77e6/cover"/>
     <episode-num system="xmltv_ns">16.3.0</episode-num>
     <episode-num system="onscreen">S17E4</episode-num>
@@ -14380,11 +14357,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/e1f32d84-7e04-4d17-8870-c9c1a972cc41/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260920173000 +0000" stop="20260920180000 +0000">
-    <title lang="en">Garden Rescue</title>
-    <desc lang="en">2/35. Charlie and Lee are in Cwmbran to create a relaxed, free-flowing garden to celebrate Jane's all-clear from cancer.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9a81d68e-2eb9-3ba6-9cfb-e5c9507a63a4/cover"/>
-    <episode-num system="xmltv_ns">8.1.0</episode-num>
-    <episode-num system="onscreen">S9E2</episode-num>
+    <title lang="en">Princess Diana: My Sister's Story</title>
+    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer after explosive new revelations in his latest book about his sister, Diana, Princess of Wales.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/e0e4dda1-b245-42d3-b160-998e63d6825c/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260920180000 +0000" stop="20260920190000 +0000">
     <title lang="en">Countryfile</title>
@@ -14417,7 +14392,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260920213000 +0000" stop="20260920224000 +0000">
     <title lang="en">Match of the Day</title>
-    <desc lang="en">Kelly Cates presents highlights of Sunday's two Premier League games, including new Liverpool boss Andoni Iraola's return to his former side, Bournemouth.</desc>
+    <desc lang="en">Kelly Cates presents highlights of Sunday's four Premier League games, including new Liverpool boss Andoni Iraola's return to his former side, Bournemouth.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2736b287-cb8a-4110-bfdb-13a8b42a5cfb/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260920224000 +0000" stop="20260920234000 +0000">
@@ -14463,7 +14438,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260918083000 +0000" stop="20260918094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rav Wilding and Michelle Ackerley discuss how to check if your smart meter is working properly and the visibility risks when driving larger SUVs.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/271c8f6a-632c-4605-a13a-e2f76c440a0b/cover"/>
     <episode-num system="xmltv_ns">7.77.0</episode-num>
     <episode-num system="onscreen">S8E78</episode-num>
@@ -14479,8 +14454,8 @@
     <title lang="en">Homes Under the Hammer</title>
     <desc lang="en">Grandma, mum and dad are weighing up whether to move into an Orpington bungalow, which has been totally transformed by a younger member of their family.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fd5c0c30-3437-4406-9dd3-809d52949bce/cover"/>
-    <episode-num system="xmltv_ns">26.10.0</episode-num>
-    <episode-num system="onscreen">S27E11</episode-num>
+    <episode-num system="xmltv_ns">26.11.0</episode-num>
+    <episode-num system="onscreen">S27E12</episode-num>
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260918111500 +0000" stop="20260918120000 +0000">
     <title lang="en">Bargain Hunt</title>
@@ -14771,7 +14746,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260920093000 +0000" stop="20260920103000 +0000">
     <title lang="en">Sunday Morning Live</title>
-    <desc lang="en">4/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most.</desc>
+    <desc lang="en">4/23. How should faith leaders respond to the concerns around AI?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fd7f10a8-e30d-41cd-adb3-658627ea77e6/cover"/>
     <episode-num system="xmltv_ns">16.3.0</episode-num>
     <episode-num system="onscreen">S17E4</episode-num>
@@ -14856,11 +14831,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/16398aa9-c352-4e9b-a44b-d00f66b662e2/cover"/>
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260920173000 +0000" stop="20260920180000 +0000">
-    <title lang="en">Garden Rescue</title>
-    <desc lang="en">2/35. Charlie and Lee are in Cwmbran to create a relaxed, free-flowing garden to celebrate Jane's all-clear from cancer.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9a81d68e-2eb9-3ba6-9cfb-e5c9507a63a4/cover"/>
-    <episode-num system="xmltv_ns">8.1.0</episode-num>
-    <episode-num system="onscreen">S9E2</episode-num>
+    <title lang="en">Princess Diana: My Sister's Story</title>
+    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer after explosive new revelations in his latest book about his sister, Diana, Princess of Wales.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/b55fd0b8-a34d-4372-8175-e2f645adf461/cover"/>
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260920180000 +0000" stop="20260920190000 +0000">
     <title lang="en">Countryfile</title>
@@ -14893,7 +14866,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260920213000 +0000" stop="20260920224000 +0000">
     <title lang="en">Match of the Day</title>
-    <desc lang="en">Kelly Cates presents highlights of Sunday's two Premier League games, including new Liverpool boss Andoni Iraola's return to his former side, Bournemouth.</desc>
+    <desc lang="en">Kelly Cates presents highlights of Sunday's four Premier League games, including new Liverpool boss Andoni Iraola's return to his former side, Bournemouth.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2736b287-cb8a-4110-bfdb-13a8b42a5cfb/cover"/>
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260920224000 +0000" stop="20260921001500 +0000">
@@ -14939,7 +14912,7 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260918083000 +0000" stop="20260918094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rav Wilding and Michelle Ackerley discuss how to check if your smart meter is working properly and the visibility risks when driving larger SUVs.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/271c8f6a-632c-4605-a13a-e2f76c440a0b/cover"/>
     <episode-num system="xmltv_ns">7.77.0</episode-num>
     <episode-num system="onscreen">S8E78</episode-num>
@@ -14955,8 +14928,8 @@
     <title lang="en">Homes Under the Hammer</title>
     <desc lang="en">Grandma, mum and dad are weighing up whether to move into an Orpington bungalow, which has been totally transformed by a younger member of their family.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fd5c0c30-3437-4406-9dd3-809d52949bce/cover"/>
-    <episode-num system="xmltv_ns">26.10.0</episode-num>
-    <episode-num system="onscreen">S27E11</episode-num>
+    <episode-num system="xmltv_ns">26.11.0</episode-num>
+    <episode-num system="onscreen">S27E12</episode-num>
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260918111500 +0000" stop="20260918120000 +0000">
     <title lang="en">Bargain Hunt</title>
@@ -15247,7 +15220,7 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260920093000 +0000" stop="20260920103000 +0000">
     <title lang="en">Sunday Morning Live</title>
-    <desc lang="en">4/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most.</desc>
+    <desc lang="en">4/23. How should faith leaders respond to the concerns around AI?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fd7f10a8-e30d-41cd-adb3-658627ea77e6/cover"/>
     <episode-num system="xmltv_ns">16.3.0</episode-num>
     <episode-num system="onscreen">S17E4</episode-num>
@@ -15332,11 +15305,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/5cd2948e-4dba-48b5-ab52-22b39cffab52/cover"/>
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260920173000 +0000" stop="20260920180000 +0000">
-    <title lang="en">Garden Rescue</title>
-    <desc lang="en">2/35. Charlie and Lee are in Cwmbran to create a relaxed, free-flowing garden to celebrate Jane's all-clear from cancer.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9a81d68e-2eb9-3ba6-9cfb-e5c9507a63a4/cover"/>
-    <episode-num system="xmltv_ns">8.1.0</episode-num>
-    <episode-num system="onscreen">S9E2</episode-num>
+    <title lang="en">Princess Diana: My Sister's Story</title>
+    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer after explosive new revelations in his latest book about his sister, Diana, Princess of Wales.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/38a51e0f-b5c4-4de8-a8dc-437b735a6ace/cover"/>
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260920180000 +0000" stop="20260920190000 +0000">
     <title lang="en">Countryfile</title>
@@ -15369,7 +15340,7 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260920213000 +0000" stop="20260920224000 +0000">
     <title lang="en">Match of the Day</title>
-    <desc lang="en">Kelly Cates presents highlights of Sunday's two Premier League games, including new Liverpool boss Andoni Iraola's return to his former side, Bournemouth.</desc>
+    <desc lang="en">Kelly Cates presents highlights of Sunday's four Premier League games, including new Liverpool boss Andoni Iraola's return to his former side, Bournemouth.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2736b287-cb8a-4110-bfdb-13a8b42a5cfb/cover"/>
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260920224000 +0000" stop="20260921001500 +0000">
@@ -15415,7 +15386,7 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260918083000 +0000" stop="20260918094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rav Wilding and Michelle Ackerley discuss how to check if your smart meter is working properly and the visibility risks when driving larger SUVs.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/271c8f6a-632c-4605-a13a-e2f76c440a0b/cover"/>
     <episode-num system="xmltv_ns">7.77.0</episode-num>
     <episode-num system="onscreen">S8E78</episode-num>
@@ -15431,8 +15402,8 @@
     <title lang="en">Homes Under the Hammer</title>
     <desc lang="en">Grandma, mum and dad are weighing up whether to move into an Orpington bungalow, which has been totally transformed by a younger member of their family.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fd5c0c30-3437-4406-9dd3-809d52949bce/cover"/>
-    <episode-num system="xmltv_ns">26.10.0</episode-num>
-    <episode-num system="onscreen">S27E11</episode-num>
+    <episode-num system="xmltv_ns">26.11.0</episode-num>
+    <episode-num system="onscreen">S27E12</episode-num>
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260918111500 +0000" stop="20260918120000 +0000">
     <title lang="en">Bargain Hunt</title>
@@ -15723,7 +15694,7 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260920093000 +0000" stop="20260920103000 +0000">
     <title lang="en">Sunday Morning Live</title>
-    <desc lang="en">4/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most.</desc>
+    <desc lang="en">4/23. How should faith leaders respond to the concerns around AI?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fd7f10a8-e30d-41cd-adb3-658627ea77e6/cover"/>
     <episode-num system="xmltv_ns">16.3.0</episode-num>
     <episode-num system="onscreen">S17E4</episode-num>
@@ -15808,11 +15779,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/57198caa-aa65-47da-b389-490394e7fc2f/cover"/>
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260920173000 +0000" stop="20260920180000 +0000">
-    <title lang="en">Garden Rescue</title>
-    <desc lang="en">2/35. Charlie and Lee are in Cwmbran to create a relaxed, free-flowing garden to celebrate Jane's all-clear from cancer.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9a81d68e-2eb9-3ba6-9cfb-e5c9507a63a4/cover"/>
-    <episode-num system="xmltv_ns">8.1.0</episode-num>
-    <episode-num system="onscreen">S9E2</episode-num>
+    <title lang="en">Princess Diana: My Sister's Story</title>
+    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer after explosive new revelations in his latest book about his sister, Diana, Princess of Wales.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/2b7771d0-1ad6-439c-827d-81d1001830f4/cover"/>
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260920180000 +0000" stop="20260920190000 +0000">
     <title lang="en">Countryfile</title>
@@ -15845,7 +15814,7 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260920213000 +0000" stop="20260920224000 +0000">
     <title lang="en">Match of the Day</title>
-    <desc lang="en">Kelly Cates presents highlights of Sunday's two Premier League games, including new Liverpool boss Andoni Iraola's return to his former side, Bournemouth.</desc>
+    <desc lang="en">Kelly Cates presents highlights of Sunday's four Premier League games, including new Liverpool boss Andoni Iraola's return to his former side, Bournemouth.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2736b287-cb8a-4110-bfdb-13a8b42a5cfb/cover"/>
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260920224000 +0000" stop="20260921001500 +0000">
@@ -15891,7 +15860,7 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20260918083000 +0000" stop="20260918094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rav Wilding and Michelle Ackerley discuss how to check if your smart meter is working properly and the visibility risks when driving larger SUVs.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/271c8f6a-632c-4605-a13a-e2f76c440a0b/cover"/>
     <episode-num system="xmltv_ns">7.77.0</episode-num>
     <episode-num system="onscreen">S8E78</episode-num>
@@ -15907,8 +15876,8 @@
     <title lang="en">Homes Under the Hammer</title>
     <desc lang="en">Grandma, mum and dad are weighing up whether to move into an Orpington bungalow, which has been totally transformed by a younger member of their family.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fd5c0c30-3437-4406-9dd3-809d52949bce/cover"/>
-    <episode-num system="xmltv_ns">26.10.0</episode-num>
-    <episode-num system="onscreen">S27E11</episode-num>
+    <episode-num system="xmltv_ns">26.11.0</episode-num>
+    <episode-num system="onscreen">S27E12</episode-num>
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20260918111500 +0000" stop="20260918120000 +0000">
     <title lang="en">Bargain Hunt</title>
@@ -16178,12 +16147,12 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20260920090000 +0000" stop="20260920093000 +0000">
     <title lang="en">Politics Wales</title>
-    <desc lang="en">All the latest political news from Wales and beyond, presented by Nick Servini.</desc>
+    <desc lang="en">All the latest political news from Wales and beyond, presented by Nick Servini. The guests are Richard Tice MP, Mabon ap Gwynfor MS and Jane Dodds MS.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2b598f2a-26fc-4c87-b58c-e25b845b6f5d/cover"/>
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20260920093000 +0000" stop="20260920103000 +0000">
     <title lang="en">Sunday Morning Live</title>
-    <desc lang="en">4/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most.</desc>
+    <desc lang="en">4/23. How should faith leaders respond to the concerns around AI?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fd7f10a8-e30d-41cd-adb3-658627ea77e6/cover"/>
     <episode-num system="xmltv_ns">16.3.0</episode-num>
     <episode-num system="onscreen">S17E4</episode-num>
@@ -16268,11 +16237,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/49897b87-2bd8-4a22-bd3a-a300f3f614fb/cover"/>
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20260920173000 +0000" stop="20260920180000 +0000">
-    <title lang="en">Garden Rescue</title>
-    <desc lang="en">2/35. Charlie and Lee are in Cwmbran to create a relaxed, free-flowing garden to celebrate Jane's all-clear from cancer.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9a81d68e-2eb9-3ba6-9cfb-e5c9507a63a4/cover"/>
-    <episode-num system="xmltv_ns">8.1.0</episode-num>
-    <episode-num system="onscreen">S9E2</episode-num>
+    <title lang="en">Princess Diana: My Sister's Story</title>
+    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer after explosive new revelations in his latest book about his sister, Diana, Princess of Wales.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/b85b5d9e-61e8-4cb8-ad73-abfac0c40ab3/cover"/>
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20260920180000 +0000" stop="20260920190000 +0000">
     <title lang="en">Countryfile</title>
@@ -16305,7 +16272,7 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20260920213000 +0000" stop="20260920224000 +0000">
     <title lang="en">Match of the Day</title>
-    <desc lang="en">Kelly Cates presents highlights of Sunday's two Premier League games, including new Liverpool boss Andoni Iraola's return to his former side, Bournemouth.</desc>
+    <desc lang="en">Kelly Cates presents highlights of Sunday's four Premier League games, including new Liverpool boss Andoni Iraola's return to his former side, Bournemouth.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2736b287-cb8a-4110-bfdb-13a8b42a5cfb/cover"/>
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20260920224000 +0000" stop="20260921001500 +0000">
@@ -16351,7 +16318,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20260918083000 +0000" stop="20260918094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rav Wilding and Michelle Ackerley discuss how to check if your smart meter is working properly and the visibility risks when driving larger SUVs.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/271c8f6a-632c-4605-a13a-e2f76c440a0b/cover"/>
     <episode-num system="xmltv_ns">7.77.0</episode-num>
     <episode-num system="onscreen">S8E78</episode-num>
@@ -16367,8 +16334,8 @@
     <title lang="en">Homes Under the Hammer</title>
     <desc lang="en">Grandma, mum and dad are weighing up whether to move into an Orpington bungalow, which has been totally transformed by a younger member of their family.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fd5c0c30-3437-4406-9dd3-809d52949bce/cover"/>
-    <episode-num system="xmltv_ns">26.10.0</episode-num>
-    <episode-num system="onscreen">S27E11</episode-num>
+    <episode-num system="xmltv_ns">26.11.0</episode-num>
+    <episode-num system="onscreen">S27E12</episode-num>
   </programme>
   <programme channel="BBCOneWest.uk" start="20260918111500 +0000" stop="20260918120000 +0000">
     <title lang="en">Bargain Hunt</title>
@@ -16659,7 +16626,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20260920093000 +0000" stop="20260920103000 +0000">
     <title lang="en">Sunday Morning Live</title>
-    <desc lang="en">4/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most.</desc>
+    <desc lang="en">4/23. How should faith leaders respond to the concerns around AI?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fd7f10a8-e30d-41cd-adb3-658627ea77e6/cover"/>
     <episode-num system="xmltv_ns">16.3.0</episode-num>
     <episode-num system="onscreen">S17E4</episode-num>
@@ -16744,11 +16711,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/b69f2db2-dcda-4d5c-8018-6903a3523b3d/cover"/>
   </programme>
   <programme channel="BBCOneWest.uk" start="20260920173000 +0000" stop="20260920180000 +0000">
-    <title lang="en">Garden Rescue</title>
-    <desc lang="en">2/35. Charlie and Lee are in Cwmbran to create a relaxed, free-flowing garden to celebrate Jane's all-clear from cancer.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9a81d68e-2eb9-3ba6-9cfb-e5c9507a63a4/cover"/>
-    <episode-num system="xmltv_ns">8.1.0</episode-num>
-    <episode-num system="onscreen">S9E2</episode-num>
+    <title lang="en">Princess Diana: My Sister's Story</title>
+    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer after explosive new revelations in his latest book about his sister, Diana, Princess of Wales.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/9254e0c1-a689-4554-a925-080906ffa8c8/cover"/>
   </programme>
   <programme channel="BBCOneWest.uk" start="20260920180000 +0000" stop="20260920190000 +0000">
     <title lang="en">Countryfile</title>
@@ -16781,7 +16746,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20260920213000 +0000" stop="20260920224000 +0000">
     <title lang="en">Match of the Day</title>
-    <desc lang="en">Kelly Cates presents highlights of Sunday's two Premier League games, including new Liverpool boss Andoni Iraola's return to his former side, Bournemouth.</desc>
+    <desc lang="en">Kelly Cates presents highlights of Sunday's four Premier League games, including new Liverpool boss Andoni Iraola's return to his former side, Bournemouth.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2736b287-cb8a-4110-bfdb-13a8b42a5cfb/cover"/>
   </programme>
   <programme channel="BBCOneWest.uk" start="20260920224000 +0000" stop="20260921001500 +0000">
@@ -16827,7 +16792,7 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260918083000 +0000" stop="20260918094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rav Wilding and Michelle Ackerley discuss how to check if your smart meter is working properly and the visibility risks when driving larger SUVs.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/271c8f6a-632c-4605-a13a-e2f76c440a0b/cover"/>
     <episode-num system="xmltv_ns">7.77.0</episode-num>
     <episode-num system="onscreen">S8E78</episode-num>
@@ -16843,8 +16808,8 @@
     <title lang="en">Homes Under the Hammer</title>
     <desc lang="en">Grandma, mum and dad are weighing up whether to move into an Orpington bungalow, which has been totally transformed by a younger member of their family.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fd5c0c30-3437-4406-9dd3-809d52949bce/cover"/>
-    <episode-num system="xmltv_ns">26.10.0</episode-num>
-    <episode-num system="onscreen">S27E11</episode-num>
+    <episode-num system="xmltv_ns">26.11.0</episode-num>
+    <episode-num system="onscreen">S27E12</episode-num>
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260918111500 +0000" stop="20260918120000 +0000">
     <title lang="en">Bargain Hunt</title>
@@ -17135,7 +17100,7 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260920093000 +0000" stop="20260920103000 +0000">
     <title lang="en">Sunday Morning Live</title>
-    <desc lang="en">4/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most.</desc>
+    <desc lang="en">4/23. How should faith leaders respond to the concerns around AI?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fd7f10a8-e30d-41cd-adb3-658627ea77e6/cover"/>
     <episode-num system="xmltv_ns">16.3.0</episode-num>
     <episode-num system="onscreen">S17E4</episode-num>
@@ -17220,11 +17185,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/936f81ff-a8f1-42a1-85f6-863bfd00bd8e/cover"/>
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260920173000 +0000" stop="20260920180000 +0000">
-    <title lang="en">Garden Rescue</title>
-    <desc lang="en">2/35. Charlie and Lee are in Cwmbran to create a relaxed, free-flowing garden to celebrate Jane's all-clear from cancer.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9a81d68e-2eb9-3ba6-9cfb-e5c9507a63a4/cover"/>
-    <episode-num system="xmltv_ns">8.1.0</episode-num>
-    <episode-num system="onscreen">S9E2</episode-num>
+    <title lang="en">Princess Diana: My Sister's Story</title>
+    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer after explosive new revelations in his latest book about his sister, Diana, Princess of Wales.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f8d4a1dd-11af-4248-b8e1-dca786c599e7/cover"/>
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260920180000 +0000" stop="20260920190000 +0000">
     <title lang="en">Countryfile</title>
@@ -17257,7 +17220,7 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260920213000 +0000" stop="20260920224000 +0000">
     <title lang="en">Match of the Day</title>
-    <desc lang="en">Kelly Cates presents highlights of Sunday's two Premier League games, including new Liverpool boss Andoni Iraola's return to his former side, Bournemouth.</desc>
+    <desc lang="en">Kelly Cates presents highlights of Sunday's four Premier League games, including new Liverpool boss Andoni Iraola's return to his former side, Bournemouth.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2736b287-cb8a-4110-bfdb-13a8b42a5cfb/cover"/>
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260920224000 +0000" stop="20260921001500 +0000">
@@ -17303,7 +17266,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260918083000 +0000" stop="20260918094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rav Wilding and Michelle Ackerley discuss how to check if your smart meter is working properly and the visibility risks when driving larger SUVs.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/271c8f6a-632c-4605-a13a-e2f76c440a0b/cover"/>
     <episode-num system="xmltv_ns">7.77.0</episode-num>
     <episode-num system="onscreen">S8E78</episode-num>
@@ -17319,8 +17282,8 @@
     <title lang="en">Homes Under the Hammer</title>
     <desc lang="en">Grandma, mum and dad are weighing up whether to move into an Orpington bungalow, which has been totally transformed by a younger member of their family.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fd5c0c30-3437-4406-9dd3-809d52949bce/cover"/>
-    <episode-num system="xmltv_ns">26.10.0</episode-num>
-    <episode-num system="onscreen">S27E11</episode-num>
+    <episode-num system="xmltv_ns">26.11.0</episode-num>
+    <episode-num system="onscreen">S27E12</episode-num>
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260918111500 +0000" stop="20260918120000 +0000">
     <title lang="en">Bargain Hunt</title>
@@ -17611,7 +17574,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260920093000 +0000" stop="20260920103000 +0000">
     <title lang="en">Sunday Morning Live</title>
-    <desc lang="en">4/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most.</desc>
+    <desc lang="en">4/23. How should faith leaders respond to the concerns around AI?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fd7f10a8-e30d-41cd-adb3-658627ea77e6/cover"/>
     <episode-num system="xmltv_ns">16.3.0</episode-num>
     <episode-num system="onscreen">S17E4</episode-num>
@@ -17696,11 +17659,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/469a499a-8d89-4e05-b12c-13af185c3a31/cover"/>
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260920173000 +0000" stop="20260920180000 +0000">
-    <title lang="en">Garden Rescue</title>
-    <desc lang="en">2/35. Charlie and Lee are in Cwmbran to create a relaxed, free-flowing garden to celebrate Jane's all-clear from cancer.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9a81d68e-2eb9-3ba6-9cfb-e5c9507a63a4/cover"/>
-    <episode-num system="xmltv_ns">8.1.0</episode-num>
-    <episode-num system="onscreen">S9E2</episode-num>
+    <title lang="en">Princess Diana: My Sister's Story</title>
+    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer after explosive new revelations in his latest book about his sister, Diana, Princess of Wales.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/419a6989-88a9-4178-a127-e70b3888a06a/cover"/>
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260920180000 +0000" stop="20260920190000 +0000">
     <title lang="en">Countryfile</title>
@@ -17733,7 +17694,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260920213000 +0000" stop="20260920224000 +0000">
     <title lang="en">Match of the Day</title>
-    <desc lang="en">Kelly Cates presents highlights of Sunday's two Premier League games, including new Liverpool boss Andoni Iraola's return to his former side, Bournemouth.</desc>
+    <desc lang="en">Kelly Cates presents highlights of Sunday's four Premier League games, including new Liverpool boss Andoni Iraola's return to his former side, Bournemouth.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2736b287-cb8a-4110-bfdb-13a8b42a5cfb/cover"/>
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260920224000 +0000" stop="20260921001500 +0000">
@@ -17779,7 +17740,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260918083000 +0000" stop="20260918094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rav Wilding and Michelle Ackerley discuss how to check if your smart meter is working properly and the visibility risks when driving larger SUVs.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/271c8f6a-632c-4605-a13a-e2f76c440a0b/cover"/>
     <episode-num system="xmltv_ns">7.77.0</episode-num>
     <episode-num system="onscreen">S8E78</episode-num>
@@ -17795,8 +17756,8 @@
     <title lang="en">Homes Under the Hammer</title>
     <desc lang="en">Grandma, mum and dad are weighing up whether to move into an Orpington bungalow, which has been totally transformed by a younger member of their family.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fd5c0c30-3437-4406-9dd3-809d52949bce/cover"/>
-    <episode-num system="xmltv_ns">26.10.0</episode-num>
-    <episode-num system="onscreen">S27E11</episode-num>
+    <episode-num system="xmltv_ns">26.11.0</episode-num>
+    <episode-num system="onscreen">S27E12</episode-num>
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260918111500 +0000" stop="20260918120000 +0000">
     <title lang="en">Bargain Hunt</title>
@@ -18087,7 +18048,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260920093000 +0000" stop="20260920103000 +0000">
     <title lang="en">Sunday Morning Live</title>
-    <desc lang="en">4/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most.</desc>
+    <desc lang="en">4/23. How should faith leaders respond to the concerns around AI?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fd7f10a8-e30d-41cd-adb3-658627ea77e6/cover"/>
     <episode-num system="xmltv_ns">16.3.0</episode-num>
     <episode-num system="onscreen">S17E4</episode-num>
@@ -18172,11 +18133,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/fa762d07-50a1-4620-bd18-6d756a3ce6c2/cover"/>
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260920173000 +0000" stop="20260920180000 +0000">
-    <title lang="en">Garden Rescue</title>
-    <desc lang="en">2/35. Charlie and Lee are in Cwmbran to create a relaxed, free-flowing garden to celebrate Jane's all-clear from cancer.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9a81d68e-2eb9-3ba6-9cfb-e5c9507a63a4/cover"/>
-    <episode-num system="xmltv_ns">8.1.0</episode-num>
-    <episode-num system="onscreen">S9E2</episode-num>
+    <title lang="en">Princess Diana: My Sister's Story</title>
+    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer after explosive new revelations in his latest book about his sister, Diana, Princess of Wales.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3866d43a-38d1-46da-a87f-c3cc371f4745/cover"/>
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260920180000 +0000" stop="20260920190000 +0000">
     <title lang="en">Countryfile</title>
@@ -18209,7 +18168,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260920213000 +0000" stop="20260920224000 +0000">
     <title lang="en">Match of the Day</title>
-    <desc lang="en">Kelly Cates presents highlights of Sunday's two Premier League games, including new Liverpool boss Andoni Iraola's return to his former side, Bournemouth.</desc>
+    <desc lang="en">Kelly Cates presents highlights of Sunday's four Premier League games, including new Liverpool boss Andoni Iraola's return to his former side, Bournemouth.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2736b287-cb8a-4110-bfdb-13a8b42a5cfb/cover"/>
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260920224000 +0000" stop="20260921001500 +0000">
@@ -18352,137 +18311,152 @@
     <desc lang="en">...Break-up of the UK Summit. Debate on the meeting between nationalist leaders in Wales, Scotland and Northern Ireland.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9f9a27c1-e36b-47e0-adc9-8af69c7f0878/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260919050000 +0000" stop="20260919100000 +0000">
+  <programme channel="BBCParliament.uk" start="20260919050000 +0000" stop="20260919093500 +0000">
     <title lang="en">Westminster Hall</title>
     <desc lang="en">House of Commons proceedings in Westminster Hall, including a debate on the building safety remediation of residential buildings, from Tuesday 15 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1c7f721d-44ee-4412-806a-cb5e27348a81/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260919093500 +0000" stop="20260919100000 +0000">
+    <title lang="en">English Whisky Urgent Question</title>
+    <desc lang="en">Coverage of an urgent question in the House of Commons on the English whisky geographical indication Single Malt definition, on Tuesday 15 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8ae6435c-ffe1-4172-b0ec-cd7a922dda6a/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260919100000 +0000" stop="20260919103000 +0000">
     <title lang="en">Scottish First Minister's Questions</title>
     <desc lang="en">Questions in the Scottish Parliament from backbench MSPs to John Swinney, the first minister, on Tuesday 15 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4def5f76-fe9c-40fd-a086-c4bc4b3776df/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260919103000 +0000" stop="20260919110000 +0000">
+  <programme channel="BBCParliament.uk" start="20260919103000 +0000" stop="20260919110500 +0000">
     <title lang="en">Scottish First Minister's Questions</title>
     <desc lang="en">Questions in the Scottish Parliament from party leaders to John Swinney, the first minister, on Thursday 17 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bec2a69d-b125-4bfc-9b12-ac5a247cc828/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260919110000 +0000" stop="20260919120000 +0000">
+  <programme channel="BBCParliament.uk" start="20260919110500 +0000" stop="20260919121000 +0000">
     <title lang="en">Welsh First Minister's Questions</title>
     <desc lang="en">Questions in the Senedd, the Welsh Parliament, to the first minister, Rhun ap Iorwerth, on Tuesday 15 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2164f3cd-e111-4627-870c-08869ac63809/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260919120000 +0000" stop="20260919124500 +0000">
+  <programme channel="BBCParliament.uk" start="20260919121000 +0000" stop="20260919125500 +0000">
     <title lang="en">Northern Ireland Assembly - Economy Questions</title>
     <desc lang="en">Coverage of questions in Stormont to the economy minister Caoimhe Archibald, on Monday 14 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/cbfff597-a063-436b-bd47-5d2a52a8eb62/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260919124500 +0000" stop="20260919132500 +0000">
-    <title lang="en">House of Commons</title>
-    <desc lang="en">Coverage of a statement in the House of Commons.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d39fe1c8-5d46-422f-b168-554a5169b810/cover"/>
-  </programme>
-  <programme channel="BBCParliament.uk" start="20260919132500 +0000" stop="20260919140500 +0000">
-    <title lang="en">House of Lords</title>
-    <desc lang="en">Coverage of a statement in the House of Lords.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/66286f7d-1f51-4f1c-bd46-b5307b218f86/cover"/>
-  </programme>
-  <programme channel="BBCParliament.uk" start="20260919140500 +0000" stop="20260919145000 +0000">
-    <title lang="en">Scottish Parliament</title>
-    <desc lang="en">Coverage of a statement in the Scottish Parliament.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e47540f5-c0cb-4954-8bd5-5e6e8c5d1824/cover"/>
-  </programme>
-  <programme channel="BBCParliament.uk" start="20260919145000 +0000" stop="20260919153500 +0000">
-    <title lang="en">Senedd Cymru - Welsh Parliament</title>
-    <desc lang="en">Coverage of a debate in the Welsh Parliament.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3b0e38ce-3fe6-4ee3-80a7-4c002731bf8a/cover"/>
-  </programme>
-  <programme channel="BBCParliament.uk" start="20260919153500 +0000" stop="20260919162000 +0000">
-    <title lang="en">Northern Ireland Assembly</title>
-    <desc lang="en">Coverage of a statement in the Northern Ireland Assembly.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9f9a27c1-e36b-47e0-adc9-8af69c7f0878/cover"/>
+  <programme channel="BBCParliament.uk" start="20260919125500 +0000" stop="20260919162000 +0000">
+    <title lang="en">Israel and Palestine Debate</title>
+    <desc lang="en">Coverage of the debate in the House of Commons on Israel and Palestine, from Monday 14 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/83379e76-3480-4c6f-bcc0-7591d46da1b8/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260919162000 +0000" stop="20260919170000 +0000">
-    <title lang="en">House of Lords</title>
-    <desc lang="en">Coverage of a debate in the House of Lords.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/49f2236c-075c-488d-86d3-d8db68d6bb23/cover"/>
+    <title lang="en">House of Lords - Ukraine and Russia Statement</title>
+    <desc lang="en">Coverage of the debate in the House of Lords on a ministerial statement on Ukraine and threats from Russia, on Tuesday 15 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/4b6de6e1-4679-4a0c-a72a-e130d9e651c4/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260919170000 +0000" stop="20260920010000 +0000">
-    <title lang="en">Select Committees</title>
-    <desc lang="en">Recorded coverage of select committee proceedings.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/db837f86-14c9-482f-83f5-8bed1e9194dc/cover"/>
+  <programme channel="BBCParliament.uk" start="20260919170000 +0000" stop="20260919191500 +0000">
+    <title lang="en">Environmental Audit Committee on Air Pollution</title>
+    <desc lang="en">Coverage of the Environmental Audit select committee session on air pollution in England, from Monday 14 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/0e111c63-6753-44ed-8d64-c9df2926c47c/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260920010000 +0000" stop="20260920013000 +0000">
+  <programme channel="BBCParliament.uk" start="20260919191500 +0000" stop="20260919212500 +0000">
+    <title lang="en">Environment, Food and Rural Affairs Committee</title>
+    <desc lang="en">Coverage of the Environment, Food and Rural Affairs select committee session on climate adaptation and emergency response, on Tuesday 15 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/16c6f96f-08be-4707-b66c-f0996870851b/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260919212500 +0000" stop="20260919225500 +0000">
+    <title lang="en">Fracking Ban Debate</title>
+    <desc lang="en">Coverage of the debate in the House of Commons on the merits of a full ban on fracking, from Tuesday 15 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ef98d349-2d30-48a3-8af6-edfbac09212d/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260919225500 +0000" stop="20260919230500 +0000">
+    <title lang="en">Ten Minute Rule Bill on Student Finance</title>
+    <desc lang="en">The introduction of a bill under the ten minute rule on a review of student finance.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/0b24f9f1-e45f-4b44-ad38-97b29df9108b/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260919230500 +0000" stop="20260919235500 +0000">
+    <title lang="en">Speciality Steel UK Statement</title>
+    <desc lang="en">Coverage of a statement in the House of Commons by business secretary Jonathan Reynolds on Speciality Steel UK, on Monday 14 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/57492a17-3876-481c-8e94-cf17331e451c/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260919235500 +0000" stop="20260920003000 +0000">
+    <title lang="en">Robert Hamill Inquiry Report Publication</title>
+    <desc lang="en">A statement on the report into the death in 1997 of Robert Hamill in Portadown.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/45a9195e-0b3f-4705-ad67-20be6dd46716/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260920003000 +0000" stop="20260920010000 +0000">
     <title lang="en">Scottish First Minister's Questions</title>
     <desc lang="en">Questions in the Scottish Parliament from backbench MSPs to John Swinney, the first minister, on Tuesday 15 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4def5f76-fe9c-40fd-a086-c4bc4b3776df/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260920013000 +0000" stop="20260920020000 +0000">
+  <programme channel="BBCParliament.uk" start="20260920010000 +0000" stop="20260920013500 +0000">
     <title lang="en">Scottish First Minister's Questions</title>
     <desc lang="en">Questions in the Scottish Parliament from party leaders to John Swinney, the first minister, on Thursday 17 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bec2a69d-b125-4bfc-9b12-ac5a247cc828/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260920020000 +0000" stop="20260920030000 +0000">
+  <programme channel="BBCParliament.uk" start="20260920013500 +0000" stop="20260920024000 +0000">
     <title lang="en">Welsh First Minister's Questions</title>
     <desc lang="en">Questions in the Senedd, the Welsh Parliament, to the first minister, Rhun ap Iorwerth, on Tuesday 15 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2164f3cd-e111-4627-870c-08869ac63809/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260920030000 +0000" stop="20260920040000 +0000">
+  <programme channel="BBCParliament.uk" start="20260920024000 +0000" stop="20260920035500 +0000">
     <title lang="en">Education Questions</title>
     <desc lang="en">Coverage of questions in the House of Commons to Lucy Powell, the education secretary, and her team of ministers on Monday 14 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b7548311-b2de-4d2a-8a48-ae1b9210f90a/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260920040000 +0000" stop="20260920050000 +0000">
+  <programme channel="BBCParliament.uk" start="20260920035500 +0000" stop="20260920050000 +0000">
     <title lang="en">Justice Questions</title>
     <desc lang="en">Coverage of questions in the House of Commons to Alex Norris, the justice secretary, and his team of ministers on Tuesday 15 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9ef65916-05fd-45d9-ad03-a9801c19fc8d/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260920050000 +0000" stop="20260920100000 +0000">
-    <title lang="en">Select Committees</title>
-    <desc lang="en">Recorded coverage of select committee proceedings.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a0043e1c-3323-4de0-9120-f3b6c452a18e/cover"/>
+  <programme channel="BBCParliament.uk" start="20260920050000 +0000" stop="20260920053500 +0000">
+    <title lang="en">Senedd Cymru - Welsh Parliament...</title>
+    <desc lang="en">...- Non-Domestic Rates Statement. The statement on rebalancing the non-domestic rates (business rates) system in Wales.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/b0ee87ce-887f-41f6-916b-7a93083ab25e/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260920100000 +0000" stop="20260920104000 +0000">
-    <title lang="en">House of Lords</title>
-    <desc lang="en">Coverage of a debate in the House of Lords.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/49f2236c-075c-488d-86d3-d8db68d6bb23/cover"/>
+  <programme channel="BBCParliament.uk" start="20260920053500 +0000" stop="20260920062000 +0000">
+    <title lang="en">Senedd Cymru - Welsh Parliament...</title>
+    <desc lang="en">...- Culture and Sport Questions. Coverage of questions in the Senedd, the Welsh Parliament, to the cabinet minister for culture and sport, Heledd Fychan, on Wednesday 16 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d9b9bb7c-cb84-43f5-83d9-9ed284870fd7/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260920104000 +0000" stop="20260920112500 +0000">
-    <title lang="en">Northern Ireland Assembly</title>
-    <desc lang="en">Coverage of a statement in the Northern Ireland Assembly.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/2d205d89-4075-4c9e-a2bc-71839cfc532c/cover"/>
+  <programme channel="BBCParliament.uk" start="20260920062000 +0000" stop="20260920071500 +0000">
+    <title lang="en">Senedd Cymru - Welsh Parliament - Finance Questions</title>
+    <desc lang="en">Coverage of questions in the Senedd, the Welsh Parliament, to finance minister Elin Jones, on Wednesday 16 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/5f0792f5-9bb2-4a44-83e1-bf0bd3db25e3/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260920112500 +0000" stop="20260920121000 +0000">
-    <title lang="en">Senedd Cymru - Welsh Parliament</title>
-    <desc lang="en">Coverage of a debate in the Welsh Parliament.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3b0e38ce-3fe6-4ee3-80a7-4c002731bf8a/cover"/>
+  <programme channel="BBCParliament.uk" start="20260920071500 +0000" stop="20260920075000 +0000">
+    <title lang="en">Senedd Cymru - Welsh Parliament...</title>
+    <desc lang="en">...- Health Visitor Dispute Debate. Coverage of the debate on the Cwm Taf Morgannwg University Health Board pay dispute.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/00768d47-9a72-4eda-98aa-fda809dc2d48/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260920121000 +0000" stop="20260920125500 +0000">
-    <title lang="en">Scottish Parliament</title>
-    <desc lang="en">Coverage of a statement in the Scottish Parliament.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e47540f5-c0cb-4954-8bd5-5e6e8c5d1824/cover"/>
+  <programme channel="BBCParliament.uk" start="20260920075000 +0000" stop="20260920090000 +0000">
+    <title lang="en">World Sepsis Awareness Month Debate</title>
+    <desc lang="en">Coverage of the debate in the House of Commons on World Sepsis Awareness Month, from Tuesday 15 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8f24e346-4745-436b-b139-78edd018ef61/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260920125500 +0000" stop="20260920133500 +0000">
-    <title lang="en">House of Lords</title>
-    <desc lang="en">Coverage of a statement in the House of Lords.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/66286f7d-1f51-4f1c-bd46-b5307b218f86/cover"/>
+  <programme channel="BBCParliament.uk" start="20260920090000 +0000" stop="20260920110000 +0000">
+    <title lang="en">House of Lords - Tax and...</title>
+    <desc lang="en">...Independent Schools Debate. Coverage of the debate in the House of Lords on the impact of VAT and tax changes on independent schools, on Thursday 17 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/cb38882b-2827-4547-a4a1-0f5cd1def168/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260920133500 +0000" stop="20260920141500 +0000">
-    <title lang="en">House of Commons</title>
-    <desc lang="en">Coverage of a statement in the House of Commons.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d39fe1c8-5d46-422f-b168-554a5169b810/cover"/>
+  <programme channel="BBCParliament.uk" start="20260920110000 +0000" stop="20260920133000 +0000">
+    <title lang="en">Scottish Parliament - Violence Against Women and Girls</title>
+    <desc lang="en">Coverage of the debate in the Scottish Parliament on preventing violence against women and girls, from Thursday 17 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/87786600-dd29-4b40-ae19-4aa6b067826a/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260920141500 +0000" stop="20260920144500 +0000">
+  <programme channel="BBCParliament.uk" start="20260920133000 +0000" stop="20260920140500 +0000">
+    <title lang="en">Scottish Parliament - Ferguson Marine Statement</title>
+    <desc lang="en">Coverage of the statement by Stephen Flynn on Ferguson Marine, the Glasgow-based shipbuilding company owned by the Scottish government, from Thursday 17 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/90765dd7-5c3f-4120-b7de-4bbe8bb2c7fa/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260920140500 +0000" stop="20260920143500 +0000">
     <title lang="en">Scottish First Minister's Questions</title>
     <desc lang="en">Questions in the Scottish Parliament from backbench MSPs to John Swinney, the first minister, on Tuesday 15 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4def5f76-fe9c-40fd-a086-c4bc4b3776df/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260920144500 +0000" stop="20260920151500 +0000">
+  <programme channel="BBCParliament.uk" start="20260920143500 +0000" stop="20260920151000 +0000">
     <title lang="en">Scottish First Minister's Questions</title>
     <desc lang="en">Questions in the Scottish Parliament from party leaders to John Swinney, the first minister, on Thursday 17 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bec2a69d-b125-4bfc-9b12-ac5a247cc828/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260920151500 +0000" stop="20260920161500 +0000">
+  <programme channel="BBCParliament.uk" start="20260920151000 +0000" stop="20260920161500 +0000">
     <title lang="en">Welsh First Minister's Questions</title>
     <desc lang="en">Questions in the Senedd, the Welsh Parliament, to the first minister, Rhun ap Iorwerth, on Tuesday 15 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2164f3cd-e111-4627-870c-08869ac63809/cover"/>
@@ -18492,15 +18466,30 @@
     <desc lang="en">Coverage of questions in Stormont to the economy minister Caoimhe Archibald, on Monday 14 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bc946bbb-d3df-4539-ac77-5f292869b0da/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260920170000 +0000" stop="20260921010000 +0000">
-    <title lang="en">Select Committees</title>
-    <desc lang="en">Recorded coverage of select committee proceedings.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a0043e1c-3323-4de0-9120-f3b6c452a18e/cover"/>
+  <programme channel="BBCParliament.uk" start="20260920170000 +0000" stop="20260920181000 +0000">
+    <title lang="en">Lords Communications and...</title>
+    <desc lang="en">...Digital Committee on the Online Safety Act. The Lords Communications and Digital select committee session on the Online Safety Act.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/e823974a-fb5d-4996-8bf0-9c092a9ded58/cover"/>
   </programme>
-  <programme channel="BBCRedButton1.uk" start="20260917170000 +0000" stop="20260917230000 +0000">
-    <title lang="en">The Story So Far: The Best of, Part 4</title>
-    <desc lang="en">The best of Ali Plumb's Story So Far programmes. Part 4.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/7b5e9534-9179-4315-974f-a55bf6ed8f78/cover"/>
+  <programme channel="BBCParliament.uk" start="20260920181000 +0000" stop="20260920200500 +0000">
+    <title lang="en">Scottish Parliament - Health Misinformation Debate</title>
+    <desc lang="en">Coverage of the debate in the Scottish Parliament, tabled by the Scottish government, on addressing the harms of health misinformation on Thursday 17 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/5eb2cbac-2102-45e6-b974-bef16681b7e9/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260920200500 +0000" stop="20260920222500 +0000">
+    <title lang="en">House of Lords - Prison and Probation Service Debate</title>
+    <desc lang="en">Coverage of the debate in the House of Lords on prison and probation services in England and Wales, on Thursday 17 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/97821953-ba3f-4b45-a19c-d230f909fb30/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260920222500 +0000" stop="20260920225500 +0000">
+    <title lang="en">Northern Ireland Assembly -...</title>
+    <desc lang="en">...Break-up of the UK Summit. Debate on the meeting between nationalist leaders in Wales, Scotland and Northern Ireland.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/c5aa306a-4157-4760-b4bf-6b8a197d2dbd/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260920225500 +0000" stop="20260920234500 +0000">
+    <title lang="en">Tourism Tax Urgent Question</title>
+    <desc lang="en">An urgent question on the impact of the proposed overnight visitor levy in England.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/75194b11-3a20-4d10-baf5-409aedb2909c/cover"/>
   </programme>
   <programme channel="BBCRedButton1.uk" start="20260917230000 +0000" stop="20260918050000 +0000">
     <title lang="en">The Story So Far: The Best of, Part 4</title>
@@ -19504,7 +19493,7 @@
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20260919232500 +0000" stop="20260920001000 +0000">
     <title lang="en">Green Man Festival Highlights 2026</title>
-    <desc lang="en">Aleighcia Scott and Katie Owen host the best of music and moments from Green Man 2026. Contains some strong language.</desc>
+    <desc lang="en">Aleighcia Scott and Katie Owen host the best of music and moments from Green Man 2026. Contains some strong language and scenes of flashing images.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2b41a5ce-20c0-4386-a068-b43c08fb6a3c/cover"/>
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20260920001000 +0000" stop="20260920004000 +0000">
@@ -19966,7 +19955,7 @@
   </programme>
   <programme channel="BBCTwoHD.uk" start="20260919232500 +0000" stop="20260920001000 +0000">
     <title lang="en">Green Man Festival Highlights 2026</title>
-    <desc lang="en">Aleighcia Scott and Katie Owen host the best of music and moments from Green Man 2026. Contains some strong language.</desc>
+    <desc lang="en">Aleighcia Scott and Katie Owen host the best of music and moments from Green Man 2026. Contains some strong language and scenes of flashing images.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2b41a5ce-20c0-4386-a068-b43c08fb6a3c/cover"/>
   </programme>
   <programme channel="BBCTwoHD.uk" start="20260920001000 +0000" stop="20260920004000 +0000">
@@ -20428,7 +20417,7 @@
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20260919232500 +0000" stop="20260920001000 +0000">
     <title lang="en">Green Man Festival Highlights 2026</title>
-    <desc lang="en">Aleighcia Scott and Katie Owen host the best of music and moments from Green Man 2026. Contains some strong language.</desc>
+    <desc lang="en">Aleighcia Scott and Katie Owen host the best of music and moments from Green Man 2026. Contains some strong language and scenes of flashing images.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2b41a5ce-20c0-4386-a068-b43c08fb6a3c/cover"/>
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20260920001000 +0000" stop="20260920004000 +0000">
@@ -20550,7 +20539,7 @@
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20260920213000 +0000" stop="20260920220000 +0000">
     <title lang="en">Sunday Politics</title>
-    <desc lang="en">Mark Carruthers looks at the political developments of the week and questions policymakers on the key issues.</desc>
+    <desc lang="en">Mark Carruthers speaks to DUP leader Gavin Robinson after his party conference.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/02503f24-0f6c-447b-a284-19c9374a2859/cover"/>
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20260920220000 +0000" stop="20260920235500 +0000">
@@ -20876,7 +20865,7 @@
   </programme>
   <programme channel="BBCTwoWales.uk" start="20260919201500 +0000" stop="20260919210000 +0000">
     <title lang="en">Green Man Festival Highlights 2026</title>
-    <desc lang="en">Aleighcia Scott and Katie Owen host the best of music and moments from Green Man 2026. Contains some strong language.</desc>
+    <desc lang="en">Aleighcia Scott and Katie Owen host the best of music and moments from Green Man 2026. Contains some strong language and scenes of flashing images.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2b41a5ce-20c0-4386-a068-b43c08fb6a3c/cover"/>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20260919210000 +0000" stop="20260919221000 +0000">
@@ -21857,7 +21846,9 @@
   <programme channel="BloombergTVEurope.uk" start="20260918230000 +0000" stop="20260918233000 +0000">
     <title lang="en">Latitude</title>
     <desc lang="en">The world's axis is spinning to Asia. Haslinda Amin meets the people shaping the region's rise. In this episode, Deepinder Goyal, ETERNAL Founder. S1, Ep12</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/6f11112e-26f9-40f5-8657-e8a533dac545/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/707ceebc-aacc-4347-bdea-efddd84f6c0b/cover"/>
+    <episode-num system="xmltv_ns">2025.3.0</episode-num>
+    <episode-num system="onscreen">S2026E4</episode-num>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20260918233000 +0000" stop="20260919000000 +0000">
     <title lang="en">The Mishal Husain Show</title>
@@ -21892,7 +21883,7 @@
   <programme channel="BloombergTVEurope.uk" start="20260919033000 +0000" stop="20260919040000 +0000">
     <title lang="en">The Circuit</title>
     <desc lang="en">Emily meets artificial intelligence pioneer Fei-Fei Li to discuss her innovations in the field, her $1 billion startup World Labs and why she thinks the future of AI lies beyond chatbots. S5, Ep8</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/615b387f-fc99-4224-9a5c-1034849c3aaa/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/afb34825-dfc0-4fe9-a9b7-0ba77e9a0c04/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20260919040000 +0000" stop="20260919043000 +0000">
     <title lang="en">Bloomberg Investigates</title>
@@ -21977,7 +21968,7 @@
   <programme channel="BloombergTVEurope.uk" start="20260919160000 +0000" stop="20260919170000 +0000">
     <title lang="en">Post Credits</title>
     <desc lang="en">Christian Tom, co-founder and CEO of AND Media, explores a new path for creators who once had to wait for Hollywood to turn their ideas into shows. S1, Ep2</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/8056e360-e9f4-4cbd-b756-203200f3ec5d/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/df849312-d72e-45e6-ae20-6a25e8249b2e/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20260919170000 +0000" stop="20260919173000 +0000">
     <title lang="en">Latitude</title>
@@ -21994,7 +21985,7 @@
   <programme channel="BloombergTVEurope.uk" start="20260919180000 +0000" stop="20260919183000 +0000">
     <title lang="en">How Larry Ellison Built His Empire</title>
     <desc lang="en">Expanding from database software into AI and media, Larry Ellison is placing his biggest bets yet. Bloomberg Originals explores what drives the 82-year-old tech billionaire.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/cf5a4300-6427-48ed-b08d-f47d25101e67/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/3c8ade07-2fd6-4a06-bcd2-7fb2654c139a/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20260919183000 +0000" stop="20260919190000 +0000">
     <title lang="en">Bloomberg Chief Future Officer</title>
@@ -22016,12 +22007,14 @@
   <programme channel="BloombergTVEurope.uk" start="20260919200000 +0000" stop="20260919203000 +0000">
     <title lang="en">Leaders with Francine Lacqua: The Podcast</title>
     <desc lang="en">Blackstone President Jon Gray reflects on leading through crises, staying calm, backing strong businesses and thinking long-term. S1, Ep5</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/23953f4e-2a07-4c01-ae11-01f8fab389bb/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/b4f71b8e-e489-4aac-9101-f09adba0318f/cover"/>
+    <episode-num system="xmltv_ns">0.4.0</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20260919203000 +0000" stop="20260919210000 +0000">
     <title lang="en">Bloomberg Investigates</title>
     <desc lang="en">Since 2021, Myanmar has been mired in civil war, with groups fighting for control, resources and money.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c1f6c3e9-3808-47d8-ba4c-9ebfb9d530d9/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/d414b07e-3cf2-4a10-86c4-13ec9f3f9c43/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20260919210000 +0000" stop="20260919213000 +0000">
     <title lang="en">The Circuit</title>
@@ -22046,7 +22039,7 @@
   <programme channel="BloombergTVEurope.uk" start="20260919230000 +0000" stop="20260920000000 +0000">
     <title lang="en">Post Credits</title>
     <desc lang="en">Christian Tom, co-founder and CEO of AND Media, explores a new path for creators who once had to wait for Hollywood to turn their ideas into shows. S1, Ep2</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/5f08c16a-49d6-4ccf-81d3-e13e5b0b9cc3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/df849312-d72e-45e6-ae20-6a25e8249b2e/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20260920000000 +0000" stop="20260920003000 +0000">
     <title lang="en">Latitude</title>
@@ -22058,7 +22051,7 @@
   <programme channel="BloombergTVEurope.uk" start="20260920003000 +0000" stop="20260920010000 +0000">
     <title lang="en">How Larry Ellison Built His Empire</title>
     <desc lang="en">Expanding from database software into AI and media, Larry Ellison is placing his biggest bets yet. Bloomberg Originals explores what drives the 82-year-old tech billionaire.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/5c7e36db-a72b-43f1-ad66-bd41c36770b5/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/3c8ade07-2fd6-4a06-bcd2-7fb2654c139a/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20260920010000 +0000" stop="20260920013000 +0000">
     <title lang="en">Bloomberg Originals</title>
@@ -22085,7 +22078,7 @@
   <programme channel="BloombergTVEurope.uk" start="20260920030000 +0000" stop="20260920040000 +0000">
     <title lang="en">Bloomberg Investigates</title>
     <desc lang="en">How Wall Street Found Riches in America's Zombie Debts. Bloomberg uncover how outdated laws and predatory tactics have left millions at risk during the hidden housing crisis sweeping the US. S5, Ep6</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9122c94c-b893-4626-8c3b-90add10460b5/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/d66f8a5d-6268-41ab-b6a6-177d9fa1a712/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20260920040000 +0000" stop="20260920043000 +0000">
     <title lang="en">Bloomberg Originals</title>
@@ -22100,7 +22093,9 @@
   <programme channel="BloombergTVEurope.uk" start="20260920050000 +0000" stop="20260920053000 +0000">
     <title lang="en">Latitude</title>
     <desc lang="en">The world's axis is spinning to Asia. Haslinda Amin meets the people shaping the region's rise. In this episode, Deepinder Goyal, ETERNAL Founder. S1, Ep12</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a28bda82-aea9-4b97-9836-9d28f511e77c/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/707ceebc-aacc-4347-bdea-efddd84f6c0b/cover"/>
+    <episode-num system="xmltv_ns">2025.3.0</episode-num>
+    <episode-num system="onscreen">S2026E4</episode-num>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20260920053000 +0000" stop="20260920060000 +0000">
     <title lang="en">Bloomberg Primer</title>
@@ -22158,6 +22153,8 @@
     <title lang="en">The Mishal Husain Show</title>
     <desc lang="en">Mishal speaks with Maggie Haberman. S1, Ep49</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6cb50a60-933d-4866-ab86-c4822d48f9d9/cover"/>
+    <episode-num system="xmltv_ns">0.48.0</episode-num>
+    <episode-num system="onscreen">S1E49</episode-num>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20260920180000 +0000" stop="20260920183000 +0000">
     <title lang="en">Bloomberg Primer</title>
@@ -22189,7 +22186,7 @@
   <programme channel="BloombergTVEurope.uk" start="20260920203000 +0000" stop="20260920210000 +0000">
     <title lang="en">How Larry Ellison Built His Empire</title>
     <desc lang="en">Expanding from database software into AI and media, Larry Ellison is placing his biggest bets yet. Bloomberg Originals explores what drives the 82-year-old tech billionaire.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e61cae48-3f33-4c1b-88da-ce4bed50678f/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/3c8ade07-2fd6-4a06-bcd2-7fb2654c139a/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20260920210000 +0000" stop="20260920213000 +0000">
     <title lang="en">Latitude</title>
@@ -23089,9 +23086,6 @@
   <programme channel="CBBC.uk" start="20260920175800 +0000" stop="20260920235800 +0000">
     <title lang="en">.programmes start at 7.00am</title>
   </programme>
-  <programme channel="CBeebies.uk" start="20260917175800 +0000" stop="20260917235800 +0000">
-    <title lang="en">..programmes start at 6.00am</title>
-  </programme>
   <programme channel="CBeebies.uk" start="20260917235800 +0000" stop="20260918042959 +0000">
     <title lang="en">..programmes start at 6.00am</title>
   </programme>
@@ -23334,7 +23328,9 @@
   <programme channel="CBeebies.uk" start="20260918103500 +0000" stop="20260918105000 +0000">
     <title lang="en">Teeny Tiny Creatures with Chantelle and Rory</title>
     <desc lang="en">Crane Flies. Rory and Sandy head to a nature reserve to spot crane flies. Chantelle meets a bug expert.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/dcf097f6-7baa-4741-8165-decf7f16de94/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/ff873737-aa17-4213-b244-32a3000eca3b/cover"/>
+    <episode-num system="xmltv_ns">2.8.0</episode-num>
+    <episode-num system="onscreen">S3E9</episode-num>
   </programme>
   <programme channel="CBeebies.uk" start="20260918105000 +0000" stop="20260918110000 +0000">
     <title lang="en">Our Family</title>
@@ -24843,7 +24839,7 @@
   </programme>
   <programme channel="Channel4.uk" start="20260918180000 +0000" stop="20260918190000 +0000">
     <title lang="en">Channel 4 News</title>
-    <desc lang="en">Channel 4's flagship news programme. Including the weather.</desc>
+    <desc lang="en">Russia complains about British military support for Ukraine. The French president warns that Russia's hybrid attacks are on the rise. And Benedict Cumberbatch on saving the world.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ba263146-9fac-4242-9286-d6bedfe823c1/cover"/>
   </programme>
   <programme channel="Channel4.uk" start="20260918190000 +0000" stop="20260918200000 +0000">
@@ -25480,7 +25476,7 @@
   </programme>
   <programme channel="Channel4Plus1.uk" start="20260918190000 +0000" stop="20260918200000 +0000">
     <title lang="en">Channel 4 News</title>
-    <desc lang="en">Channel 4's flagship news programme. Including the weather.</desc>
+    <desc lang="en">Russia complains about British military support for Ukraine. The French president warns that Russia's hybrid attacks are on the rise. And Benedict Cumberbatch on saving the world.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ba263146-9fac-4242-9286-d6bedfe823c1/cover"/>
   </programme>
   <programme channel="Channel4Plus1.uk" start="20260918200000 +0000" stop="20260918210000 +0000">
@@ -26274,12 +26270,12 @@
   <programme channel="Channel5Plus1.uk" start="20260919050000 +0000" stop="20260919053000 +0000">
     <title lang="en">This is Channel 5 +1</title>
     <desc lang="en">This is Channel 5 +1</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/5430841e-e620-40cc-9963-41040bc8fae6/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/c9984e1f-251c-4594-91e7-abc87928f6c0/cover"/>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20260919053000 +0000" stop="20260919053500 +0000">
     <title lang="en">This is Channel 5 +1</title>
     <desc lang="en">This is Channel 5 +1</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/5cc369d4-d677-400d-b780-8c3da2bc08a2/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/08c040e6-3601-4b13-955b-4b66a56cbb6f/cover"/>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20260919053500 +0000" stop="20260919055000 +0000">
     <title lang="en">Entertainment News on 5</title>
@@ -26456,9 +26452,10 @@
     <episode-num system="onscreen">S1E4</episode-num>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20260919130000 +0000" stop="20260919140000 +0000">
-    <title lang="en">The Royals Uncensored: Diana's Bombshell Book</title>
+    <title lang="en">New: The Royals Uncensored: Diana's Bombshell Book</title>
     <desc lang="en">Charles Spencer unleashes shocking claims against the King. But His Majesty strikes back in dramatic fashion. Katie Nicholl and Jo Elvin discuss.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/989007ac-6008-443a-811d-ba74287cc81e/cover"/>
+    <premiere/>
     <episode-num system="xmltv_ns">0.12.0</episode-num>
     <episode-num system="onscreen">S1E13</episode-num>
   </programme>
@@ -26526,11 +26523,6 @@
     <icon src="https://images.metadata.sky.com/pd-image/4b0823c2-0edd-4975-90c8-662e5614cf3b/cover"/>
     <episode-num system="xmltv_ns">5.5.0</episode-num>
     <episode-num system="onscreen">S6E6</episode-num>
-  </programme>
-  <programme channel="Channel5Plus1.uk" start="20260920052200 +0000" stop="20260920052500 +0000">
-    <title lang="en">This is Channel 5 +1</title>
-    <desc lang="en">This is Channel 5 +1</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c4955cf2-8eea-47fc-bbac-957e50db2cfa/cover"/>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20260920052500 +0000" stop="20260920053500 +0000">
     <title lang="en">**Visually Signed** Mixmups</title>
@@ -27766,7 +27758,7 @@
   </programme>
   <programme channel="UAndDave.uk" start="20260920000500 +0000" stop="20260920012000 +0000">
     <title lang="en">Have I Got a Bit More News for You</title>
-    <desc lang="en">Guz Khan is host with comedian Ross Noble and broadcaster Janet Street-Porter joining team captains Paul Merton and Ian Hislop to delve into the news.</desc>
+    <desc lang="en">Diane Morgan is guest host as comedian Desiree Burch and journalist Matt Chorley join team captains Paul Merton and Ian Hislop to delve into the news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/69cbbfc1-560c-3a8f-aa0e-719b1db6efd6/cover"/>
     <episode-num system="xmltv_ns">65.7.0</episode-num>
     <episode-num system="onscreen">S66E8</episode-num>
@@ -28345,7 +28337,7 @@
   </programme>
   <programme channel="UAndDavejavu.uk" start="20260920010500 +0000" stop="20260920022000 +0000">
     <title lang="en">Have I Got a Bit More News for You</title>
-    <desc lang="en">Guz Khan is host with comedian Ross Noble and broadcaster Janet Street-Porter joining team captains Paul Merton and Ian Hislop to delve into the news.</desc>
+    <desc lang="en">Diane Morgan is guest host as comedian Desiree Burch and journalist Matt Chorley join team captains Paul Merton and Ian Hislop to delve into the news.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/69cbbfc1-560c-3a8f-aa0e-719b1db6efd6/cover"/>
     <episode-num system="xmltv_ns">65.7.0</episode-num>
     <episode-num system="onscreen">S66E8</episode-num>
@@ -34576,8 +34568,8 @@
     <title lang="en">70 Up</title>
     <desc lang="en">Across seven decades, viewers witnessed 14 children transform from childhood to old age. Now in their seventies, the film asks what the series has revealed about British society.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/15b5d67b-51c4-40fa-8d3b-8688db3ab704/cover"/>
-    <episode-num system="xmltv_ns">9.0.0</episode-num>
-    <episode-num system="onscreen">S10E1</episode-num>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme channel="ITV1CentralE.uk" start="20260920224500 +0000" stop="20260920234000 +0000">
     <title lang="en">The Blame</title>
@@ -35003,8 +34995,8 @@
     <title lang="en">70 Up</title>
     <desc lang="en">Across seven decades, viewers witnessed 14 children transform from childhood to old age. Now in their seventies, the film asks what the series has revealed about British society.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/15b5d67b-51c4-40fa-8d3b-8688db3ab704/cover"/>
-    <episode-num system="xmltv_ns">9.0.0</episode-num>
-    <episode-num system="onscreen">S10E1</episode-num>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme channel="ITV1CentralW.uk" start="20260920224500 +0000" stop="20260920234000 +0000">
     <title lang="en">The Blame</title>
@@ -35430,8 +35422,8 @@
     <title lang="en">70 Up</title>
     <desc lang="en">Across seven decades, viewers witnessed 14 children transform from childhood to old age. Now in their seventies, the film asks what the series has revealed about British society.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/15b5d67b-51c4-40fa-8d3b-8688db3ab704/cover"/>
-    <episode-num system="xmltv_ns">9.0.0</episode-num>
-    <episode-num system="onscreen">S10E1</episode-num>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme channel="ITV1London.uk" start="20260920224500 +0000" stop="20260920234000 +0000">
     <title lang="en">The Blame</title>
@@ -35857,8 +35849,8 @@
     <title lang="en">70 Up</title>
     <desc lang="en">Across seven decades, viewers witnessed 14 children transform from childhood to old age. Now in their seventies, the film asks what the series has revealed about British society.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/15b5d67b-51c4-40fa-8d3b-8688db3ab704/cover"/>
-    <episode-num system="xmltv_ns">9.0.0</episode-num>
-    <episode-num system="onscreen">S10E1</episode-num>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme channel="ITV1MeridianE.uk" start="20260920224500 +0000" stop="20260920234000 +0000">
     <title lang="en">The Blame</title>
@@ -36284,8 +36276,8 @@
     <title lang="en">70 Up</title>
     <desc lang="en">Across seven decades, viewers witnessed 14 children transform from childhood to old age. Now in their seventies, the film asks what the series has revealed about British society.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/15b5d67b-51c4-40fa-8d3b-8688db3ab704/cover"/>
-    <episode-num system="xmltv_ns">9.0.0</episode-num>
-    <episode-num system="onscreen">S10E1</episode-num>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme channel="ITV1MeridianN.uk" start="20260920224500 +0000" stop="20260920234000 +0000">
     <title lang="en">The Blame</title>
@@ -36711,8 +36703,8 @@
     <title lang="en">70 Up</title>
     <desc lang="en">Across seven decades, viewers witnessed 14 children transform from childhood to old age. Now in their seventies, the film asks what the series has revealed about British society.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/15b5d67b-51c4-40fa-8d3b-8688db3ab704/cover"/>
-    <episode-num system="xmltv_ns">9.0.0</episode-num>
-    <episode-num system="onscreen">S10E1</episode-num>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme channel="ITV1MeridianS.uk" start="20260920224500 +0000" stop="20260920234000 +0000">
     <title lang="en">The Blame</title>
@@ -37138,8 +37130,8 @@
     <title lang="en">70 Up</title>
     <desc lang="en">Across seven decades, viewers witnessed 14 children transform from childhood to old age. Now in their seventies, the film asks what the series has revealed about British society.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/15b5d67b-51c4-40fa-8d3b-8688db3ab704/cover"/>
-    <episode-num system="xmltv_ns">9.0.0</episode-num>
-    <episode-num system="onscreen">S10E1</episode-num>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme channel="ITV1North.uk" start="20260920224500 +0000" stop="20260920234000 +0000">
     <title lang="en">The Blame</title>
@@ -37583,8 +37575,8 @@
     <title lang="en">70 Up</title>
     <desc lang="en">Across seven decades, viewers witnessed 14 children transform from childhood to old age. Now in their seventies, the film asks what the series has revealed about British society.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/15b5d67b-51c4-40fa-8d3b-8688db3ab704/cover"/>
-    <episode-num system="xmltv_ns">9.0.0</episode-num>
-    <episode-num system="onscreen">S10E1</episode-num>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme channel="ITV1Plus1London.uk" start="20260917210000 +0000" stop="20260917220000 +0000">
     <title lang="en">New: Long Lost Family</title>
@@ -38021,8 +38013,8 @@
     <title lang="en">70 Up</title>
     <desc lang="en">Across seven decades, viewers witnessed 14 children transform from childhood to old age. Now in their seventies, the film asks what the series has revealed about British society.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/15b5d67b-51c4-40fa-8d3b-8688db3ab704/cover"/>
-    <episode-num system="xmltv_ns">9.0.0</episode-num>
-    <episode-num system="onscreen">S10E1</episode-num>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme channel="ITV1Plus1Meridian.uk" start="20260917210000 +0000" stop="20260917220000 +0000">
     <title lang="en">New: Long Lost Family</title>
@@ -38459,8 +38451,8 @@
     <title lang="en">70 Up</title>
     <desc lang="en">Across seven decades, viewers witnessed 14 children transform from childhood to old age. Now in their seventies, the film asks what the series has revealed about British society.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/15b5d67b-51c4-40fa-8d3b-8688db3ab704/cover"/>
-    <episode-num system="xmltv_ns">9.0.0</episode-num>
-    <episode-num system="onscreen">S10E1</episode-num>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme channel="ITV1Plus1Midlands.uk" start="20260917210000 +0000" stop="20260917220000 +0000">
     <title lang="en">New: Long Lost Family</title>
@@ -38897,8 +38889,8 @@
     <title lang="en">70 Up</title>
     <desc lang="en">Across seven decades, viewers witnessed 14 children transform from childhood to old age. Now in their seventies, the film asks what the series has revealed about British society.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/15b5d67b-51c4-40fa-8d3b-8688db3ab704/cover"/>
-    <episode-num system="xmltv_ns">9.0.0</episode-num>
-    <episode-num system="onscreen">S10E1</episode-num>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme channel="ITV1TyneTees.uk" start="20260917214500 +0000" stop="20260917233500 +0000">
     <title lang="en">RED</title>
@@ -39317,8 +39309,8 @@
     <title lang="en">70 Up</title>
     <desc lang="en">Across seven decades, viewers witnessed 14 children transform from childhood to old age. Now in their seventies, the film asks what the series has revealed about British society.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/15b5d67b-51c4-40fa-8d3b-8688db3ab704/cover"/>
-    <episode-num system="xmltv_ns">9.0.0</episode-num>
-    <episode-num system="onscreen">S10E1</episode-num>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme channel="ITV1TyneTees.uk" start="20260920224500 +0000" stop="20260920234000 +0000">
     <title lang="en">The Blame</title>
@@ -39751,8 +39743,8 @@
     <title lang="en">70 Up</title>
     <desc lang="en">Across seven decades, viewers witnessed 14 children transform from childhood to old age. Now in their seventies, the film asks what the series has revealed about British society.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/15b5d67b-51c4-40fa-8d3b-8688db3ab704/cover"/>
-    <episode-num system="xmltv_ns">9.0.0</episode-num>
-    <episode-num system="onscreen">S10E1</episode-num>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme channel="ITV1Wales.uk" start="20260920224500 +0000" stop="20260920234000 +0000">
     <title lang="en">The Blame</title>
@@ -40178,8 +40170,8 @@
     <title lang="en">70 Up</title>
     <desc lang="en">Across seven decades, viewers witnessed 14 children transform from childhood to old age. Now in their seventies, the film asks what the series has revealed about British society.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/15b5d67b-51c4-40fa-8d3b-8688db3ab704/cover"/>
-    <episode-num system="xmltv_ns">9.0.0</episode-num>
-    <episode-num system="onscreen">S10E1</episode-num>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme channel="ITV1West.uk" start="20260920224500 +0000" stop="20260920234000 +0000">
     <title lang="en">The Blame</title>
@@ -40605,8 +40597,8 @@
     <title lang="en">70 Up</title>
     <desc lang="en">Across seven decades, viewers witnessed 14 children transform from childhood to old age. Now in their seventies, the film asks what the series has revealed about British society.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/15b5d67b-51c4-40fa-8d3b-8688db3ab704/cover"/>
-    <episode-num system="xmltv_ns">9.0.0</episode-num>
-    <episode-num system="onscreen">S10E1</episode-num>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme channel="ITV1WestCountry.uk" start="20260920224500 +0000" stop="20260920234000 +0000">
     <title lang="en">The Blame</title>
@@ -41032,8 +41024,8 @@
     <title lang="en">70 Up</title>
     <desc lang="en">Across seven decades, viewers witnessed 14 children transform from childhood to old age. Now in their seventies, the film asks what the series has revealed about British society.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/15b5d67b-51c4-40fa-8d3b-8688db3ab704/cover"/>
-    <episode-num system="xmltv_ns">9.0.0</episode-num>
-    <episode-num system="onscreen">S10E1</episode-num>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme channel="ITV1YorkshireEast.uk" start="20260920224500 +0000" stop="20260920234000 +0000">
     <title lang="en">The Blame</title>
@@ -41459,8 +41451,8 @@
     <title lang="en">70 Up</title>
     <desc lang="en">Across seven decades, viewers witnessed 14 children transform from childhood to old age. Now in their seventies, the film asks what the series has revealed about British society.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/15b5d67b-51c4-40fa-8d3b-8688db3ab704/cover"/>
-    <episode-num system="xmltv_ns">9.0.0</episode-num>
-    <episode-num system="onscreen">S10E1</episode-num>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme channel="ITV1YorkshireWest.uk" start="20260920224500 +0000" stop="20260920234000 +0000">
     <title lang="en">The Blame</title>
@@ -43511,7 +43503,9 @@
   <programme channel="ITV4.uk" start="20260919083000 +0000" stop="20260919093000 +0000">
     <title lang="en">ITV Racing: The Opening Show</title>
     <desc lang="en">Megan Nicholls and the team are at Ayr on Ayr Gold Cup day with all the latest news ahead of today's action.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b0b08c40-6eb6-475f-849e-af400c8fa2cc/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/719830fe-48d9-4a77-8315-6c1d13870aed/cover"/>
+    <episode-num system="xmltv_ns">9.47.0</episode-num>
+    <episode-num system="onscreen">S10E48</episode-num>
   </programme>
   <programme channel="ITV4.uk" start="20260919093000 +0000" stop="20260919103000 +0000">
     <title lang="en">Ice Road Truckers: Deadliest Roads</title>
@@ -43656,11 +43650,6 @@
     <title lang="en">Coogan's Bluff</title>
     <desc lang="en">Action comedy film starring Clint Eastwood and Lee J Cobb, 1968. An Arizona deputy sheriff is sent to New York City when a prisoner who has escaped custody is arrested there.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c326c82c-f9b5-45d7-aaee-b475a2146ecd/cover"/>
-  </programme>
-  <programme channel="ITV4Plus1.uk" start="20260917180000 +0000" stop="20260917221500 +0000">
-    <title lang="en">World Series of Darts Finals</title>
-    <desc lang="en">Can Luke Littler continue his remarkable run of success in 2026? It won't be easy, as some of the best players from across the globe head to AFAS Live in Amsterdam.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/95b9129b-8678-4af6-aed2-bc42a2493fe4/cover"/>
   </programme>
   <programme channel="ITV4Plus1.uk" start="20260917221500 +0000" stop="20260917224500 +0000">
     <title lang="en">River Monsters</title>
@@ -43870,6 +43859,8 @@
     <title lang="en">ITV Racing: The Opening Show</title>
     <desc lang="en">Megan Nicholls and the team are at Ayr on Ayr Gold Cup day with all the latest news ahead of today's action.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/719830fe-48d9-4a77-8315-6c1d13870aed/cover"/>
+    <episode-num system="xmltv_ns">9.47.0</episode-num>
+    <episode-num system="onscreen">S10E48</episode-num>
   </programme>
   <programme channel="ITV4Plus1.uk" start="20260919103000 +0000" stop="20260919113000 +0000">
     <title lang="en">Ice Road Truckers: Deadliest Roads</title>
@@ -44268,7 +44259,9 @@
   <programme channel="ITVBe.uk" start="20260919190000 +0000" stop="20260919200000 +0000">
     <title lang="en">Deal or No Deal: Celebrity Special</title>
     <desc lang="en">Stephen Mulhern hosts this special celebrity edition as TV and radio star Zoe Ball teams up with her friends and family to take on The Banker.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a26c206b-0943-4826-a7cd-076cd56adcac/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/2f5ab813-6074-4f56-87f2-c109645f0533/cover"/>
+    <episode-num system="xmltv_ns">2.1.0</episode-num>
+    <episode-num system="onscreen">S3E2</episode-num>
   </programme>
   <programme channel="ITVBe.uk" start="20260919200000 +0000" stop="20260919210000 +0000">
     <title lang="en">The Chase Celebrity Special</title>
@@ -44354,7 +44347,9 @@
   <programme channel="ITVBe.uk" start="20260920120000 +0000" stop="20260920130000 +0000">
     <title lang="en">Deal or No Deal: Celebrity Special</title>
     <desc lang="en">Stephen Mulhern hosts this special celebrity edition as TV and radio star Zoe Ball teams up with her friends and family to take on The Banker.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9f4ac377-a82c-41f6-8535-dc1e422905dc/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/2f5ab813-6074-4f56-87f2-c109645f0533/cover"/>
+    <episode-num system="xmltv_ns">2.1.0</episode-num>
+    <episode-num system="onscreen">S3E2</episode-num>
   </programme>
   <programme channel="ITVBe.uk" start="20260920130000 +0000" stop="20260920140000 +0000">
     <title lang="en">Tenable</title>
@@ -44401,7 +44396,9 @@
   <programme channel="ITVBe.uk" start="20260920190000 +0000" stop="20260920200000 +0000">
     <title lang="en">Deal or No Deal: Celebrity Special</title>
     <desc lang="en">Stephen Mulhern hosts a special edition of the iconic game show as TV favourites Adam and Ryan Thomas go up against the infamous Banker.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b52f8452-7398-4f2a-bbef-c878d0900d9c/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/755b98f8-8aba-4570-ae72-94eb83ab9e27/cover"/>
+    <episode-num system="xmltv_ns">2.2.0</episode-num>
+    <episode-num system="onscreen">S3E3</episode-num>
   </programme>
   <programme channel="ITVBe.uk" start="20260920200000 +0000" stop="20260920210000 +0000">
     <title lang="en">The Chase Celebrity Special</title>
