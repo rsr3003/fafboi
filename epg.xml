@@ -859,8 +859,8 @@
     <icon src="https://images.metadata.sky.com/pd-image/54c6a651-f20d-4268-99d6-2ffd13d37656/cover"/>
   </programme>
   <programme channel="sky.premier.uk" start="20260919193000 +0000" stop="20260919213000 +0000">
-    <title lang="en">Game of The Day</title>
-    <desc lang="en">Enjoy a full 90-minute rerun of one of the Saturday afternoon fixtures in the Premier League.</desc>
+    <title lang="en">Brighton v Arsenal</title>
+    <desc lang="en">Enjoy a full 90-minute rerun of one of the Saturday afternoon games in the 2026-27 Premier League. Here, Brighton host Arsenal at the Amex Stadium.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ea1b6751-7d64-49b9-a62e-d1b2e4d19947/cover"/>
   </programme>
   <programme channel="sky.premier.uk" start="20260919213000 +0000" stop="20260919220000 +0000">
@@ -3435,22 +3435,27 @@
     <episode-num system="xmltv_ns">0.6.0</episode-num>
     <episode-num system="onscreen">S1E7</episode-num>
   </programme>
-  <programme channel="sky.mix.uk" start="20260919120000 +0000" stop="20260919130000 +0000">
+  <programme channel="sky.mix.uk" start="20260919120000 +0000" stop="20260919130001 +0000">
     <title lang="en">Men's State Of Origin #3 Hlts</title>
     <desc lang="en">The third and final encounter in the 2026 men's State of Origin series sees the Blues and Maroons in a battle of Australian state pride.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/30481620-3ab2-4dd8-9d6f-23284f4929e4/cover"/>
     <episode-num system="xmltv_ns">2025.23.0</episode-num>
     <episode-num system="onscreen">S2026E24</episode-num>
   </programme>
-  <programme channel="sky.mix.uk" start="20260919130000 +0000" stop="20260919140000 +0000">
-    <title lang="en">PGA Tour Champions Golf Highlights</title>
-    <desc lang="en">Tournament highlights from the Sanford International - a PGA Tour Champions event held at Minnehaha Country Club in Sioux Falls, South Dakota.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/12306697-e8ab-4c90-abc8-fb7f65e9d269/cover"/>
-  </programme>
-  <programme channel="sky.mix.uk" start="20260919140000 +0000" stop="20260919162000 +0000">
+  <programme channel="sky.mix.uk" start="20260919130001 +0000" stop="20260919153000 +0000">
     <title lang="en">Live Ladies European Tour Golf</title>
     <desc lang="en">The third day of the 2026 La Sella Open, an LET event in the Spanish city of Alicante.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/12306697-e8ab-4c90-abc8-fb7f65e9d269/cover"/>
+  </programme>
+  <programme channel="sky.mix.uk" start="20260919153000 +0000" stop="20260919160001 +0000">
+    <title lang="en">WDC Finals 12/13</title>
+    <desc lang="en">A chance to relive some classic darts matches. Here are the 2013 World Darts Championship finals at Alexandra Palace.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/c0f9b3bc-aa17-4128-bcef-a82a94be2eff/cover"/>
+  </programme>
+  <programme channel="sky.mix.uk" start="20260919160001 +0000" stop="20260919162000 +0000">
+    <title lang="en">My Icon</title>
+    <desc lang="en">Sports stars discuss the individuals that have inspired them.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d510104e-0db6-4afb-b9c8-c02b14e359ba/cover"/>
   </programme>
   <programme channel="sky.mix.uk" start="20260919162000 +0000" stop="20260919183000 +0000">
     <title lang="en">Live B'Liga: Stuttgart v Dortmund</title>
@@ -4241,17 +4246,17 @@
     <desc lang="en">Australian Football League action from the second preliminary final between Hawthorn and Brisbane Lions at the MCG.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b82261cb-3a35-45e9-896a-152eb0747c1d/cover"/>
   </programme>
-  <programme channel="tnt1" start="20260919100000 +0000" stop="20260919140000 +0000">
+  <programme channel="tnt1" start="20260919100000 +0000" stop="20260919141500 +0000">
     <title lang="en">Live PL: Spurs v Aston Villa</title>
     <desc lang="en">Tottenham Hotspur and Aston Villa meet in a crucial clash, with both sides seeking their first Premier League win of the season ahead of the international break.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ee3ce3a5-8c52-41c7-b027-6fb7e01a59c6/cover"/>
   </programme>
-  <programme channel="tnt1" start="20260919140000 +0000" stop="20260919141500 +0000">
+  <programme channel="tnt1" start="20260919141500 +0000" stop="20260919143000 +0000">
     <title lang="en">Live: Xtra Time</title>
     <desc lang="en">Post-match reaction and analysis from the Premier League clash between Tottenham Hotspur and Aston Villa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/99e4d047-d1e6-4e73-b94d-34a201c8f24f/cover"/>
   </programme>
-  <programme channel="tnt1" start="20260919141500 +0000" stop="20260919150000 +0000">
+  <programme channel="tnt1" start="20260919143000 +0000" stop="20260919150000 +0000">
     <title lang="en">Live: Rolex SailGP Championship</title>
     <desc lang="en">Day one of the 2026 Rolex Switzerland Sail Grand Prix on Lake Geneva. Can the Germany SailGP Team repeat its success at this venue from last year?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e226be43-f6c7-4448-b351-5fed563cab07/cover"/>
@@ -9507,19 +9512,12 @@
     <title lang="en">Alba Today</title>
     <desc lang="en">Sealladh ùr bho Alba. A new view from Scotland.</desc>
   </programme>
-  <programme channel="BBCAlba.uk" start="20260919130000 +0000" stop="20260919152000 +0000">
+  <programme channel="BBCAlba.uk" start="20260919130000 +0000" stop="20260919155000 +0000">
     <title lang="en">Live Shinty - Camanachd Cup...</title>
     <desc lang="en">...Final - Kingussie v Newtonmore. Kingussie face local rivals Newtonmore in a repeat of last year's Camanachd Cup final.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7fe79b54-71d6-41bc-8d5f-705b577ec364/cover"/>
   </programme>
-  <programme channel="BBCAlba.uk" start="20260919152000 +0000" stop="20260919154500 +0000">
-    <title lang="en">Binneas - Na Trads</title>
-    <desc lang="en">8/8. Mec Lir bring the Trad Awards 2025 to a close. Featured tracks include Smash, Flashback and No Kings/No Masters.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/da62cd21-7d0e-4979-b565-c2aa5129a4dc/cover"/>
-    <episode-num system="xmltv_ns">12.7.0</episode-num>
-    <episode-num system="onscreen">S13E8</episode-num>
-  </programme>
-  <programme channel="BBCAlba.uk" start="20260919154500 +0000" stop="20260919160000 +0000">
+  <programme channel="BBCAlba.uk" start="20260919155000 +0000" stop="20260919160000 +0000">
     <title lang="en">An Là</title>
     <desc lang="en">Naidheachdan ionadail, nàiseanta is eadar-nàiseanta gach là cuide ri fiosrachadh coimhearsnachd bho BBC ALBA. Local, national and international news and information from BBC ALBA.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e675ed48-ba84-4f69-8f2f-b2ba7341aa21/cover"/>
@@ -11023,8 +11021,8 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260920173000 +0000" stop="20260920180000 +0000">
     <title lang="en">Princess Diana: My Sister's Story</title>
-    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer after explosive new revelations in his latest book about his sister, Diana, Princess of Wales.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/584fde22-adfc-4c3d-b0da-cfb5c72f79cd/cover"/>
+    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer. Contains scenes of flashing images.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/fc9704a2-b256-41a6-a8f0-24392ecfaa3b/cover"/>
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260920180000 +0000" stop="20260920190000 +0000">
     <title lang="en">Countryfile</title>
@@ -11495,7 +11493,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20260920173000 +0000" stop="20260920180000 +0000">
     <title lang="en">Princess Diana: My Sister's Story</title>
-    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer after explosive new revelations in his latest book about his sister, Diana, Princess of Wales.</desc>
+    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer. Contains scenes of flashing images.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fc9704a2-b256-41a6-a8f0-24392ecfaa3b/cover"/>
   </programme>
   <programme channel="BBCOneEast.uk" start="20260920180000 +0000" stop="20260920190000 +0000">
@@ -11967,8 +11965,8 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260920173000 +0000" stop="20260920180000 +0000">
     <title lang="en">Princess Diana: My Sister's Story</title>
-    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer after explosive new revelations in his latest book about his sister, Diana, Princess of Wales.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d8d25ed0-db69-4ced-b395-7f291113019c/cover"/>
+    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer. Contains scenes of flashing images.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/fc9704a2-b256-41a6-a8f0-24392ecfaa3b/cover"/>
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260920180000 +0000" stop="20260920190000 +0000">
     <title lang="en">Countryfile</title>
@@ -12439,7 +12437,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260920173000 +0000" stop="20260920180000 +0000">
     <title lang="en">Princess Diana: My Sister's Story</title>
-    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer after explosive new revelations in his latest book about his sister, Diana, Princess of Wales.</desc>
+    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer. Contains scenes of flashing images.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fc9704a2-b256-41a6-a8f0-24392ecfaa3b/cover"/>
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260920180000 +0000" stop="20260920190000 +0000">
@@ -12911,8 +12909,8 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260920173000 +0000" stop="20260920180000 +0000">
     <title lang="en">Princess Diana: My Sister's Story</title>
-    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer after explosive new revelations in his latest book about his sister, Diana, Princess of Wales.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/ac3f5e2f-0a86-4b4d-b28a-2421e3be9f58/cover"/>
+    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer. Contains scenes of flashing images.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/fc9704a2-b256-41a6-a8f0-24392ecfaa3b/cover"/>
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260920180000 +0000" stop="20260920190000 +0000">
     <title lang="en">Countryfile</title>
@@ -13383,7 +13381,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260920173000 +0000" stop="20260920180000 +0000">
     <title lang="en">Princess Diana: My Sister's Story</title>
-    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer after explosive new revelations in his latest book about his sister, Diana, Princess of Wales.</desc>
+    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer. Contains scenes of flashing images.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fc9704a2-b256-41a6-a8f0-24392ecfaa3b/cover"/>
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260920180000 +0000" stop="20260920190000 +0000">
@@ -13845,7 +13843,7 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260920173000 +0000" stop="20260920180000 +0000">
     <title lang="en">Princess Diana: My Sister's Story</title>
-    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer after explosive new revelations in his latest book about his sister, Diana, Princess of Wales.</desc>
+    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer. Contains scenes of flashing images.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fc9704a2-b256-41a6-a8f0-24392ecfaa3b/cover"/>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260920180000 +0000" stop="20260920190000 +0000">
@@ -14317,7 +14315,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260920173000 +0000" stop="20260920180000 +0000">
     <title lang="en">Princess Diana: My Sister's Story</title>
-    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer after explosive new revelations in his latest book about his sister, Diana, Princess of Wales.</desc>
+    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer. Contains scenes of flashing images.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fc9704a2-b256-41a6-a8f0-24392ecfaa3b/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260920180000 +0000" stop="20260920190000 +0000">
@@ -14797,7 +14795,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260920173000 +0000" stop="20260920180000 +0000">
     <title lang="en">Princess Diana: My Sister's Story</title>
-    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer after explosive new revelations in his latest book about his sister, Diana, Princess of Wales.</desc>
+    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer. Contains scenes of flashing images.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fc9704a2-b256-41a6-a8f0-24392ecfaa3b/cover"/>
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260920180000 +0000" stop="20260920190000 +0000">
@@ -15269,7 +15267,7 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260920173000 +0000" stop="20260920180000 +0000">
     <title lang="en">Princess Diana: My Sister's Story</title>
-    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer after explosive new revelations in his latest book about his sister, Diana, Princess of Wales.</desc>
+    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer. Contains scenes of flashing images.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fc9704a2-b256-41a6-a8f0-24392ecfaa3b/cover"/>
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260920180000 +0000" stop="20260920190000 +0000">
@@ -15741,8 +15739,8 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260920173000 +0000" stop="20260920180000 +0000">
     <title lang="en">Princess Diana: My Sister's Story</title>
-    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer after explosive new revelations in his latest book about his sister, Diana, Princess of Wales.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/2b7771d0-1ad6-439c-827d-81d1001830f4/cover"/>
+    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer. Contains scenes of flashing images.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/fc9704a2-b256-41a6-a8f0-24392ecfaa3b/cover"/>
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260920180000 +0000" stop="20260920190000 +0000">
     <title lang="en">Countryfile</title>
@@ -16213,8 +16211,8 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20260920173000 +0000" stop="20260920180000 +0000">
     <title lang="en">Princess Diana: My Sister's Story</title>
-    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer after explosive new revelations in his latest book about his sister, Diana, Princess of Wales.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b85b5d9e-61e8-4cb8-ad73-abfac0c40ab3/cover"/>
+    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer. Contains scenes of flashing images.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/fc9704a2-b256-41a6-a8f0-24392ecfaa3b/cover"/>
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20260920180000 +0000" stop="20260920190000 +0000">
     <title lang="en">Countryfile</title>
@@ -16690,7 +16688,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20260920173000 +0000" stop="20260920180000 +0000">
     <title lang="en">Princess Diana: My Sister's Story</title>
-    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer after explosive new revelations in his latest book about his sister, Diana, Princess of Wales.</desc>
+    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer. Contains scenes of flashing images.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fc9704a2-b256-41a6-a8f0-24392ecfaa3b/cover"/>
   </programme>
   <programme channel="BBCOneWest.uk" start="20260920180000 +0000" stop="20260920190000 +0000">
@@ -17162,8 +17160,8 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260920173000 +0000" stop="20260920180000 +0000">
     <title lang="en">Princess Diana: My Sister's Story</title>
-    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer after explosive new revelations in his latest book about his sister, Diana, Princess of Wales.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f8d4a1dd-11af-4248-b8e1-dca786c599e7/cover"/>
+    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer. Contains scenes of flashing images.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/fc9704a2-b256-41a6-a8f0-24392ecfaa3b/cover"/>
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260920180000 +0000" stop="20260920190000 +0000">
     <title lang="en">Countryfile</title>
@@ -17634,7 +17632,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260920173000 +0000" stop="20260920180000 +0000">
     <title lang="en">Princess Diana: My Sister's Story</title>
-    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer after explosive new revelations in his latest book about his sister, Diana, Princess of Wales.</desc>
+    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer. Contains scenes of flashing images.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fc9704a2-b256-41a6-a8f0-24392ecfaa3b/cover"/>
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260920180000 +0000" stop="20260920190000 +0000">
@@ -18106,7 +18104,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260920173000 +0000" stop="20260920180000 +0000">
     <title lang="en">Princess Diana: My Sister's Story</title>
-    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer after explosive new revelations in his latest book about his sister, Diana, Princess of Wales.</desc>
+    <desc lang="en">In this UK exclusive, Laura Kuenssberg interviews Earl Spencer. Contains scenes of flashing images.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fc9704a2-b256-41a6-a8f0-24392ecfaa3b/cover"/>
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260920180000 +0000" stop="20260920190000 +0000">
@@ -18437,12 +18435,12 @@
   <programme channel="BBCParliament.uk" start="20260920050000 +0000" stop="20260920053500 +0000">
     <title lang="en">Senedd Cymru - Welsh Parliament...</title>
     <desc lang="en">...- Non-Domestic Rates Statement. The statement on rebalancing the non-domestic rates (business rates) system in Wales.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b0ee87ce-887f-41f6-916b-7a93083ab25e/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/3b7b2a4e-d969-3ed0-9d27-34824584edd0/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260920053500 +0000" stop="20260920062000 +0000">
     <title lang="en">Senedd Cymru - Welsh Parliament...</title>
     <desc lang="en">...- Culture and Sport Questions. Coverage of questions in the Senedd, the Welsh Parliament, to the cabinet minister for culture and sport, Heledd Fychan, on Wednesday 16 September.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d9b9bb7c-cb84-43f5-83d9-9ed284870fd7/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/183a2522-0869-4b98-8e76-32d2a9e8c7a3/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260920062000 +0000" stop="20260920071500 +0000">
     <title lang="en">Senedd Cymru - Welsh Parliament - Finance Questions</title>
@@ -18452,7 +18450,7 @@
   <programme channel="BBCParliament.uk" start="20260920071500 +0000" stop="20260920075000 +0000">
     <title lang="en">Senedd Cymru - Welsh Parliament...</title>
     <desc lang="en">...- Health Visitor Dispute Debate. Coverage of the debate on the Cwm Taf Morgannwg University Health Board pay dispute.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/00768d47-9a72-4eda-98aa-fda809dc2d48/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/183a2522-0869-4b98-8e76-32d2a9e8c7a3/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260920075000 +0000" stop="20260920090000 +0000">
     <title lang="en">World Sepsis Awareness Month Debate</title>
@@ -18512,7 +18510,7 @@
   <programme channel="BBCParliament.uk" start="20260920222500 +0000" stop="20260920225500 +0000">
     <title lang="en">Northern Ireland Assembly -...</title>
     <desc lang="en">...Break-up of the UK Summit. Debate on the meeting between nationalist leaders in Wales, Scotland and Northern Ireland.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c5aa306a-4157-4760-b4bf-6b8a197d2dbd/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9f9a27c1-e36b-47e0-adc9-8af69c7f0878/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260920225500 +0000" stop="20260920234500 +0000">
     <title lang="en">Tourism Tax Urgent Question</title>
@@ -18527,12 +18525,12 @@
   <programme channel="BBCParliament.uk" start="20260921002500 +0000" stop="20260921013000 +0000">
     <title lang="en">Justice Questions</title>
     <desc lang="en">Coverage of questions in the House of Commons to Alex Norris, the justice secretary, and his team of ministers on Tuesday 15 September.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/6e3efa0e-4b0f-4283-9d83-268b1ffe0b7a/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9ef65916-05fd-45d9-ad03-a9801c19fc8d/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260921013000 +0000" stop="20260921024000 +0000">
     <title lang="en">Education Questions</title>
     <desc lang="en">Coverage of questions in the House of Commons to Lucy Powell, the education secretary, and her team of ministers on Monday 14 September.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/cd0eeba5-6ff0-44b3-bfe7-b8a847f5ad0c/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/b7548311-b2de-4d2a-8a48-ae1b9210f90a/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260921024000 +0000" stop="20260921034500 +0000">
     <title lang="en">Welsh First Minister's Questions</title>
@@ -22372,6 +22370,8 @@
     <title lang="en">Newsround</title>
     <desc lang="en">19/09/2026. Topical news magazine for children.   Followed by Shaun the Sheep Championsheeps.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c99e711b-211d-4844-bef0-5992e07924ad/cover"/>
+    <episode-num system="xmltv_ns">2025.1.0</episode-num>
+    <episode-num system="onscreen">S2026E2</episode-num>
   </programme>
   <programme channel="CBBC.uk" start="20260919065500 +0000" stop="20260919071000 +0000">
     <title lang="en">Spongebob SquarePants</title>
