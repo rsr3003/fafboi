@@ -2361,12 +2361,12 @@
   </programme>
   <programme channel="sky.tennis.uk" start="20260922030000 +0000" stop="20260922050000 +0000">
     <title lang="en">Live: WTA Tennis</title>
-    <desc lang="en">Enjoy live action from the WTA Tour.</desc>
+    <desc lang="en">In a first-round match-up at the Singapore Open, 25-year-old Ukrainian Oleksandra Oliynykova goes up against the United States' Vivian Wolff for a place in the last 16 of the WTA 500.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f9339c76-98f7-45d7-b3c4-f5bcab756ba7/cover"/>
   </programme>
   <programme channel="sky.tennis.uk" start="20260922050000 +0000" stop="20260922110000 +0000">
     <title lang="en">Live: WTA Tennis</title>
-    <desc lang="en">Enjoy live action from the WTA Tour.</desc>
+    <desc lang="en">Eighth seed Donna Vekic faces Xinyu Wang in Singapore, where American Alycia Parks also features against Mei Yamaguchi. Former Grand Slam winner Sofia Kenin faces Alina Charaeva in Seoul.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f9339c76-98f7-45d7-b3c4-f5bcab756ba7/cover"/>
   </programme>
   <programme channel="sky.tennis.uk" start="20260922110000 +0000" stop="20260922143000 +0000">
@@ -3370,11 +3370,6 @@
     <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3cc481cf-ab4c-4b02-9454-db451048c5bf/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20260920170000 +0000" stop="20260920231500 +0000">
-    <title lang="en">Stateside Live</title>
-    <desc lang="en">Live US racing from Laurel Park, Churchill Downs, Gulfstream, Woodbine, Belmont, Los Alamitos and Mountaineer.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0b53c02a-065b-4fd2-9735-156541ae7e27/cover"/>
-  </programme>
   <programme channel="sky.racing.uk" start="20260920231500 +0000" stop="20260921000000 +0000">
     <title lang="en">20 Years of William Buick</title>
     <desc lang="en">Two decades on from his British racecourse debut, two-time Champion Jockey William Buick reflects on the standout moments from his glittering career in the saddle.</desc>
@@ -3524,13 +3519,6 @@
     <title lang="en">Sky Sports News</title>
     <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3cc481cf-ab4c-4b02-9454-db451048c5bf/cover"/>
-  </programme>
-  <programme channel="sky.mix.uk" start="20260920163000 +0000" stop="20260920233000 +0000">
-    <title lang="en">Live NFL RedZone</title>
-    <desc lang="en">Follow the full story from a packed Sunday of action in the National Football League with all the key moments, live stats, analysis and more.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f4be1110-e897-4b5c-8437-290244819d57/cover"/>
-    <episode-num system="xmltv_ns">2025.4.0</episode-num>
-    <episode-num system="onscreen">S2026E5</episode-num>
   </programme>
   <programme channel="sky.mix.uk" start="20260920233000 +0000" stop="20260921000000 +0000">
     <title lang="en">WDC Finals 14/15</title>
@@ -4627,9 +4615,9 @@
     <episode-num system="onscreen">S26E1</episode-num>
   </programme>
   <programme channel="tnt1" start="20260921193000 +0000" stop="20260921200000 +0000">
-    <title lang="en">ETPL: Edinburgh v Belfast</title>
-    <desc lang="en">Action from the European T20 Premier League final as Edinburgh Castle Rockers face Belfast Wolves.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/63939337-b23d-4083-8364-1a90658eecf3/cover"/>
+    <title lang="en">CPL Highlights</title>
+    <desc lang="en">Highlights from the Caribbean Premier League final as Antigua &amp; Barbuda Falcons take on Jamaica Kingsmen.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ebb9a846-0a73-4565-8a6e-e60b2c8f59f5/cover"/>
   </programme>
   <programme channel="tnt1" start="20260921200000 +0000" stop="20260921210000 +0000">
     <title lang="en">Fishing: On the Bank</title>
@@ -4715,8 +4703,8 @@
   </programme>
   <programme channel="tnt1" start="20260922101500 +0000" stop="20260922111500 +0000">
     <title lang="en">Climbing World Series Highlights</title>
-    <desc lang="en">Highlights from the IFSC Climbing World Series in Chongqing, China.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/55b54e5b-b249-471e-8646-9624d82f8986/cover"/>
+    <desc lang="en">Highlights of the 2026 IFSC Climbing World Series in Chongqing, China.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/5c0fea96-3893-4659-b1ee-b1ef4cdab1b5/cover"/>
   </programme>
   <programme channel="tnt1" start="20260922111500 +0000" stop="20260922121500 +0000">
     <title lang="en">UCI Road World Championships</title>
@@ -4769,29 +4757,30 @@
     <episode-num system="xmltv_ns">5.16.0</episode-num>
     <episode-num system="onscreen">S6E17</episode-num>
   </programme>
-  <programme channel="tnt1" start="20260922223000 +0000" stop="20260922230000 +0000">
-    <title lang="en">MLB Lead Off</title>
-    <desc lang="en">A look at the upcoming MLB action.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/94c512c7-fd75-40c0-bc6d-62e8d0e8c4a0/cover"/>
-    <episode-num system="xmltv_ns">25.24.0</episode-num>
-    <episode-num system="onscreen">S26E25</episode-num>
+  <programme channel="tnt1" start="20260922223000 +0000" stop="20260922224500 +0000">
+    <title lang="en">Premier League Reload</title>
+    <desc lang="en">A whirlwind catch-up from matchday five of the Premier League, including Spurs v Aston Villa, Fulham v Man United, and Bournemouth v Liverpool.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/5c1635c0-2c53-4270-9bcf-50109f8b1793/cover"/>
   </programme>
-  <programme channel="tnt1" start="20260922230000 +0000" stop="20260923020000 +0000">
-    <title lang="en">Live MLB: Rays @ Yankees</title>
-    <desc lang="en">Action from Major League Baseball as Tampa Bay Rays face New York Yankees.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/30dcdaef-aa34-45b3-9540-1979014907b0/cover"/>
+  <programme channel="tnt1" start="20260922224500 +0000" stop="20260923013000 +0000">
+    <title lang="en">Live MLB: Guardians @ Red Sox</title>
+    <desc lang="en">Action from Major League Baseball as Cleveland Guardians take on the Boston Red Sox at Fenway Park.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/2eb0fef6-f8f9-49db-847e-2e53dc5ef868/cover"/>
   </programme>
-  <programme channel="tnt1" start="20260923020000 +0000" stop="20260923050000 +0000">
-    <title lang="en">MLB</title>
-    <desc lang="en">Action from Major League Baseball.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/af1892b6-0674-44bd-97d9-d1f9c06c1c63/cover"/>
+  <programme channel="tnt1" start="20260923013000 +0000" stop="20260923043000 +0000">
+    <title lang="en">Live MLB: Astros @ Mariners</title>
+    <desc lang="en">Action from Major League Baseball as Seattle Mariners take on Houston Astros at T-Mobile Park.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3fe759b4-2a40-40a1-8a8e-bcf5e5844439/cover"/>
+  </programme>
+  <programme channel="tnt1" start="20260923043000 +0000" stop="20260923050000 +0000">
+    <title lang="en">PL Stories: Granit Xhaka</title>
+    <desc lang="en">We chart Granit Xhaka's journey through the game, from his turbulent relationship with Arsenal supporters to one of football's greatest redemption stories.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/e36ab229-8f23-4baf-bf6a-91d9a8bad158/cover"/>
   </programme>
   <programme channel="tnt1" start="20260923050000 +0000" stop="20260923053000 +0000">
-    <title lang="en">MLB Closer</title>
-    <desc lang="en">A look back at the best action from the MLB.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/541696ab-f3cb-4bb8-b1e7-f7dcfaee8cce/cover"/>
-    <episode-num system="xmltv_ns">25.24.0</episode-num>
-    <episode-num system="onscreen">S26E25</episode-num>
+    <title lang="en">Premier League Netbusters</title>
+    <desc lang="en">A fast-paced look at the best action from matchday five of the Premier League, featuring Spurs v Aston Villa, Man City v Sunderland, and Brighton v Arsenal.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/9f9a194c-7257-4844-a9dd-f7d5175f94dd/cover"/>
   </programme>
   <programme channel="tnt1" start="20260923053000 +0000" stop="20260923063000 +0000">
     <title lang="en">SailGP Highlights</title>
@@ -4863,7 +4852,7 @@
   </programme>
   <programme channel="tnt1" start="20260923153000 +0000" stop="20260923163000 +0000">
     <title lang="en">MLB Highlights</title>
-    <desc lang="en">Highlights from Major League Baseball. (22.09)</desc>
+    <desc lang="en">Highlights from Major League Baseball including New York Yankees taking on Tampa Bay Rays and Los Angeles Dodgers against San Diego Padres. (22.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/234d8f8f-6c9f-466c-91e4-168bc5760377/cover"/>
     <episode-num system="xmltv_ns">2025.188.0</episode-num>
     <episode-num system="onscreen">S2026E189</episode-num>
@@ -4875,29 +4864,45 @@
     <episode-num system="xmltv_ns">2025.24.0</episode-num>
     <episode-num system="onscreen">S2026E25</episode-num>
   </programme>
-  <programme channel="tnt1" start="20260923170000 +0000" stop="20260923200000 +0000">
-    <title lang="en">Live MLB: Nationals @ Tigers</title>
-    <desc lang="en">Action from Major League Baseball as Washington Nationals meet Detroit Tigers.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/26c9d17f-cc84-4e4a-b9b5-9c6b085fb155/cover"/>
+  <programme channel="tnt1" start="20260923170000 +0000" stop="20260923173000 +0000">
+    <title lang="en">TNT Sports Reload</title>
+    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/fa9836f4-8542-4da9-af56-d20a73439029/cover"/>
+  </programme>
+  <programme channel="tnt1" start="20260923173000 +0000" stop="20260923180000 +0000">
+    <title lang="en">Serie A - Full Impact</title>
+    <desc lang="en">All the best moments from matchday five of Serie A, featuring Roma v Inter, Milan v Lecce, Juventus v Atalanta, and Frosinone v Como.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/fd8bdb4d-e437-4791-9c7a-70dbc3c9ca3b/cover"/>
+  </programme>
+  <programme channel="tnt1" start="20260923180000 +0000" stop="20260923193000 +0000">
+    <title lang="en">PL: Spurs v Aston Villa</title>
+    <desc lang="en">Tottenham Hotspur and Aston Villa meet in a crucial clash, with both sides seeking their first Premier League win of the season ahead of the international break.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/fb3ac7f5-5aa0-40d6-affd-7c388f9f11da/cover"/>
+  </programme>
+  <programme channel="tnt1" start="20260923193000 +0000" stop="20260923194500 +0000">
+    <title lang="en">Premier League Reload</title>
+    <desc lang="en">A whirlwind catch-up from matchday five of the Premier League, including Spurs v Aston Villa, Fulham v Man United, and Bournemouth v Liverpool.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/e1be9c04-ad96-4974-b26c-fbd5fe24cfc3/cover"/>
+  </programme>
+  <programme channel="tnt1" start="20260923194500 +0000" stop="20260923200000 +0000">
+    <title lang="en">British Superbikes Rewind</title>
+    <desc lang="en">We look back at the best action from round nine of the 2026 British Superbike Championship at the iconic TT Circuit Assen in the Netherlands.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/0997e071-1d57-46b5-8e30-4deefaefe0ed/cover"/>
   </programme>
   <programme channel="tnt1" start="20260923200000 +0000" stop="20260923213000 +0000">
     <title lang="en">Ultimate Pool</title>
     <desc lang="en">This week on the mixed pairs, Mark Boyle pairs with Jamie McPhearson Jr, Ian Ali teams with Aaron Newton, and father-son duo Liam and Teddy White complete the group.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/835bceaa-7644-4b06-9e68-0f3d5b227d0a/cover"/>
   </programme>
-  <programme channel="tnt1" start="20260923213000 +0000" stop="20260923220000 +0000">
-    <title lang="en">Serie A - Full Impact</title>
-    <desc lang="en">All the best moments from matchday five of Serie A, featuring Roma v Inter, Milan v Lecce, Juventus v Atalanta, and Frosinone v Como.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/30916d62-7c4a-4721-a3ca-ed588f6c22bb/cover"/>
-    <episode-num system="xmltv_ns">2025.4.0</episode-num>
-    <episode-num system="onscreen">S2026E5</episode-num>
-  </programme>
-  <programme channel="tnt1" start="20260923220000 +0000" stop="20260923230000 +0000">
+  <programme channel="tnt1" start="20260923213000 +0000" stop="20260923223000 +0000">
     <title lang="en">MLB Highlights</title>
-    <desc lang="en">Highlights from Major League Baseball. (22.09)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/234d8f8f-6c9f-466c-91e4-168bc5760377/cover"/>
-    <episode-num system="xmltv_ns">2025.188.0</episode-num>
-    <episode-num system="onscreen">S2026E189</episode-num>
+    <desc lang="en">Highlights from Major League Baseball including New York Yankees taking on Tampa Bay Rays and Los Angeles Dodgers against San Diego Padres. (22.09)</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/66e17f43-63dd-43ab-9eeb-b45be674b478/cover"/>
+  </programme>
+  <programme channel="tnt1" start="20260923223000 +0000" stop="20260923230000 +0000">
+    <title lang="en">MLB Plays of the Week</title>
+    <desc lang="en">This weekly MLB highlights show showcases the most exciting plays from the past week's matches.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a87475ef-3edd-43f6-87e4-a5233a564fd0/cover"/>
   </programme>
   <programme channel="tnt2" start="20260920200000 +0000" stop="20260920230000 +0000">
     <title lang="en">Live MLB: Yankees @ Diamondbacks</title>
@@ -5015,7 +5020,7 @@
   </programme>
   <programme channel="tnt2" start="20260921203000 +0000" stop="20260921210000 +0000">
     <title lang="en">CPL Highlights</title>
-    <desc lang="en">Highlights of the T20 cricket action from the Caribbean Premier League.</desc>
+    <desc lang="en">Highlights from the Caribbean Premier League final as Antigua &amp; Barbuda Falcons take on Jamaica Kingsmen.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ab138ba3-1e7f-4a20-b4cf-a16b529dd53b/cover"/>
   </programme>
   <programme channel="tnt2" start="20260921210000 +0000" stop="20260921220000 +0000">
@@ -5136,14 +5141,14 @@
   </programme>
   <programme channel="tnt2" start="20260922160000 +0000" stop="20260922170000 +0000">
     <title lang="en">MLB Highlights</title>
-    <desc lang="en">Highlights from Major League Baseball. (21.09)</desc>
+    <desc lang="en">Highlights from Major League Baseball including Baltimore Orioles against Toronto Blue Jays and Washington Nationals at Detroit Tigers. (21.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/91d61bd4-78bd-41e7-90cb-2a87b962c023/cover"/>
     <episode-num system="xmltv_ns">2025.187.0</episode-num>
     <episode-num system="onscreen">S2026E188</episode-num>
   </programme>
   <programme channel="tnt2" start="20260922170000 +0000" stop="20260922200000 +0000">
     <title lang="en">Live MLB: Rays @ Yankees</title>
-    <desc lang="en">Action from Major League Baseball as Tampa Bay Rays meet New York Yankees.</desc>
+    <desc lang="en">Action from Major League Baseball as New York Yankees host Tampa Bay Rays at Yankee Stadium.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/74d1ef9c-8b9f-4099-8c50-a031335752d2/cover"/>
   </programme>
   <programme channel="tnt2" start="20260922200000 +0000" stop="20260922203000 +0000">
@@ -5177,7 +5182,7 @@
   </programme>
   <programme channel="tnt2" start="20260922233000 +0000" stop="20260923000000 +0000">
     <title lang="en">CPL Highlights</title>
-    <desc lang="en">Highlights of the T20 cricket action from the Caribbean Premier League.</desc>
+    <desc lang="en">Highlights from the Caribbean Premier League final as Antigua &amp; Barbuda Falcons take on Jamaica Kingsmen.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ab138ba3-1e7f-4a20-b4cf-a16b529dd53b/cover"/>
   </programme>
   <programme channel="tnt2" start="20260923000000 +0000" stop="20260923010000 +0000">
@@ -5292,38 +5297,22 @@
     <episode-num system="xmltv_ns">2025.75.0</episode-num>
     <episode-num system="onscreen">S2026E76</episode-num>
   </programme>
-  <programme channel="tnt2" start="20260923170000 +0000" stop="20260923173000 +0000">
-    <title lang="en">TNT Sports Reload</title>
-    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b991ad8c-1290-4d47-ac7c-2771ea8aa660/cover"/>
-    <episode-num system="xmltv_ns">25.37.0</episode-num>
-    <episode-num system="onscreen">S26E38</episode-num>
+  <programme channel="tnt2" start="20260923170000 +0000" stop="20260923183000 +0000">
+    <title lang="en">Ultimate Pool</title>
+    <desc lang="en">This week on the mixed pairs, Mark Boyle pairs with Jamie McPhearson Jr, Ian Ali teams with Aaron Newton, and father-son duo Liam and Teddy White complete the group.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/835bceaa-7644-4b06-9e68-0f3d5b227d0a/cover"/>
   </programme>
-  <programme channel="tnt2" start="20260923173000 +0000" stop="20260923180000 +0000">
+  <programme channel="tnt2" start="20260923183000 +0000" stop="20260923193000 +0000">
+    <title lang="en">Fishing: On the Bank</title>
+    <desc lang="en">Angling magazine show presented by Rob Hughes and Andy Ford, featuring coverage of the Greys Lochstyle Team Championship.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/b4f639fa-f80c-4e50-a048-8377643363b1/cover"/>
+  </programme>
+  <programme channel="tnt2" start="20260923193000 +0000" stop="20260923200000 +0000">
     <title lang="en">Serie A - Full Impact</title>
     <desc lang="en">All the best moments from matchday five of Serie A, featuring Roma v Inter, Milan v Lecce, Juventus v Atalanta, and Frosinone v Como.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/30916d62-7c4a-4721-a3ca-ed588f6c22bb/cover"/>
     <episode-num system="xmltv_ns">2025.4.0</episode-num>
     <episode-num system="onscreen">S2026E5</episode-num>
-  </programme>
-  <programme channel="tnt2" start="20260923180000 +0000" stop="20260923193000 +0000">
-    <title lang="en">PL: Spurs v Aston Villa</title>
-    <desc lang="en">Tottenham Hotspur and Aston Villa meet in a crucial clash, with both sides seeking their first Premier League win of the season ahead of the international break.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/38bc526d-7466-455c-b423-772784e8d849/cover"/>
-    <episode-num system="xmltv_ns">2025.294.0</episode-num>
-    <episode-num system="onscreen">S2026E295</episode-num>
-  </programme>
-  <programme channel="tnt2" start="20260923193000 +0000" stop="20260923194500 +0000">
-    <title lang="en">Premier League Reload</title>
-    <desc lang="en">A whirlwind catch-up from matchday five of the Premier League, including Spurs v Aston Villa, Fulham v Man United, and Bournemouth v Liverpool.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/770f047f-7fca-462b-b49b-324d555832eb/cover"/>
-    <episode-num system="xmltv_ns">25.4.0</episode-num>
-    <episode-num system="onscreen">S26E5</episode-num>
-  </programme>
-  <programme channel="tnt2" start="20260923194500 +0000" stop="20260923200000 +0000">
-    <title lang="en">British Superbikes Rewind</title>
-    <desc lang="en">We look back at the best action from round nine of the 2026 British Superbike Championship at the iconic TT Circuit Assen in the Netherlands.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a806d494-4ee9-4c63-92f6-088cb4c443e0/cover"/>
   </programme>
   <programme channel="tnt2" start="20260923200000 +0000" stop="20260923210000 +0000">
     <title lang="en">MotoGP Highlights: Austria 2026</title>
@@ -5419,13 +5408,13 @@
   </programme>
   <programme channel="tnt3" start="20260921120000 +0000" stop="20260921123000 +0000">
     <title lang="en">CPL Highlights</title>
-    <desc lang="en">Highlights of the T20 cricket action from the Caribbean Premier League.</desc>
+    <desc lang="en">Highlights from the Caribbean Premier League final as Antigua &amp; Barbuda Falcons take on Jamaica Kingsmen.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ab138ba3-1e7f-4a20-b4cf-a16b529dd53b/cover"/>
   </programme>
   <programme channel="tnt3" start="20260921123000 +0000" stop="20260921130000 +0000">
-    <title lang="en">ETPL: Edinburgh v Belfast</title>
-    <desc lang="en">Action from the European T20 Premier League final as Edinburgh Castle Rockers face Belfast Wolves.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/63939337-b23d-4083-8364-1a90658eecf3/cover"/>
+    <title lang="en">Michelin Le Mans Cup Highlights</title>
+    <desc lang="en">The best of the action from the Le Mans Cup.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8cc0bcce-0958-4f92-88bd-65eeeeaa3fa7/cover"/>
   </programme>
   <programme channel="tnt3" start="20260921130000 +0000" stop="20260921140000 +0000">
     <title lang="en">Premier League Review</title>
@@ -5705,7 +5694,7 @@
   </programme>
   <programme channel="tnt3" start="20260923090000 +0000" stop="20260923093000 +0000">
     <title lang="en">It's A Numbers Game</title>
-    <desc lang="en">We spotlight the numbers that shape the worlds of MotoGP, World Superbikes, British Superbikes, and Speedway GP.</desc>
+    <desc lang="en">We bring you the standout highlights from MotoGP, World Superbikes, British Superbikes and Speedway GP - all broken down through the key numbers that mattered.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e8738fde-52e8-4bfd-b43a-ad7b052d8338/cover"/>
     <episode-num system="xmltv_ns">25.1.0</episode-num>
     <episode-num system="onscreen">S26E2</episode-num>
@@ -5729,7 +5718,7 @@
   </programme>
   <programme channel="tnt3" start="20260923120000 +0000" stop="20260923130000 +0000">
     <title lang="en">MLB Highlights</title>
-    <desc lang="en">Highlights from Major League Baseball. (22.09)</desc>
+    <desc lang="en">Highlights from Major League Baseball including New York Yankees taking on Tampa Bay Rays and Los Angeles Dodgers against San Diego Padres. (22.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/234d8f8f-6c9f-466c-91e4-168bc5760377/cover"/>
     <episode-num system="xmltv_ns">2025.188.0</episode-num>
     <episode-num system="onscreen">S2026E189</episode-num>
@@ -5769,20 +5758,25 @@
     <episode-num system="xmltv_ns">25.9.0</episode-num>
     <episode-num system="onscreen">S26E10</episode-num>
   </programme>
-  <programme channel="tnt3" start="20260923163000 +0000" stop="20260923180000 +0000">
-    <title lang="en">Ultimate Pool</title>
-    <desc lang="en">This week on the mixed pairs, Mark Boyle pairs with Jamie McPhearson Jr, Ian Ali teams with Aaron Newton, and father-son duo Liam and Teddy White complete the group.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/835bceaa-7644-4b06-9e68-0f3d5b227d0a/cover"/>
-  </programme>
-  <programme channel="tnt3" start="20260923180000 +0000" stop="20260923190000 +0000">
+  <programme channel="tnt3" start="20260923163000 +0000" stop="20260923173000 +0000">
     <title lang="en">British Superbikes Highlights</title>
     <desc lang="en">Highlights from round nine of the 2026 British Superbike Championship at the iconic TT Circuit Assen in the Netherlands.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4779381a-43a7-41cc-9a53-22ec2b8195f4/cover"/>
   </programme>
-  <programme channel="tnt3" start="20260923190000 +0000" stop="20260923200000 +0000">
+  <programme channel="tnt3" start="20260923173000 +0000" stop="20260923183000 +0000">
+    <title lang="en">La Vuelta Men</title>
+    <desc lang="en">We review the best action and biggest stories from La Vuelta, one of the leading cycling races in the international calendar.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f56de97b-8126-4fb1-8fe5-7e3dc21fb4f4/cover"/>
+  </programme>
+  <programme channel="tnt3" start="20260923183000 +0000" stop="20260923193000 +0000">
     <title lang="en">UCI Road World Championships</title>
     <desc lang="en">Action from the UCI Road World Championships in Montreal. (22.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/83fba246-f349-4b7a-ab4a-cb1f4f976791/cover"/>
+  </programme>
+  <programme channel="tnt3" start="20260923193000 +0000" stop="20260923200000 +0000">
+    <title lang="en">T100 Triathlon World Tour Hlts</title>
+    <desc lang="en">Highlights from the French Riviera T100 Triathlon, featuring the men's elite race.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/c924d117-f32f-410f-87fa-304553765183/cover"/>
   </programme>
   <programme channel="tnt3" start="20260923200000 +0000" stop="20260923230000 +0000">
     <title lang="en">UFC 331</title>
@@ -5900,8 +5894,8 @@
   </programme>
   <programme channel="tnt4" start="20260921190000 +0000" stop="20260921200000 +0000">
     <title lang="en">Climbing World Series Highlights</title>
-    <desc lang="en">Highlights from the IFSC Climbing World Series in Chongqing, China.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/55b54e5b-b249-471e-8646-9624d82f8986/cover"/>
+    <desc lang="en">Highlights of the 2026 IFSC Climbing World Series in Chongqing, China.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8342af0f-0cfe-4832-a373-b59514d1c9ed/cover"/>
   </programme>
   <programme channel="tnt4" start="20260921200000 +0000" stop="20260921210000 +0000">
     <title lang="en">Moto3: Grand Prix of Austria</title>
@@ -5952,18 +5946,18 @@
   </programme>
   <programme channel="tnt4" start="20260922030000 +0000" stop="20260922033000 +0000">
     <title lang="en">CPL Highlights</title>
-    <desc lang="en">Highlights of the T20 cricket action from the Caribbean Premier League.</desc>
+    <desc lang="en">Highlights from the Caribbean Premier League as Guyana Amazon Warriors play Jamaica Kingsmen in qualifier 2.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7262dc8f-b4ae-4391-a615-0538b21e3136/cover"/>
   </programme>
   <programme channel="tnt4" start="20260922033000 +0000" stop="20260922040000 +0000">
     <title lang="en">CPL Highlights</title>
-    <desc lang="en">Highlights of the T20 cricket action from the Caribbean Premier League.</desc>
+    <desc lang="en">Highlights from the Caribbean Premier League final as Antigua &amp; Barbuda Falcons take on Jamaica Kingsmen.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ab138ba3-1e7f-4a20-b4cf-a16b529dd53b/cover"/>
   </programme>
   <programme channel="tnt4" start="20260922040000 +0000" stop="20260922050000 +0000">
     <title lang="en">Climbing World Series Highlights</title>
-    <desc lang="en">Highlights from the IFSC Climbing World Series in Chongqing, China.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/55b54e5b-b249-471e-8646-9624d82f8986/cover"/>
+    <desc lang="en">Highlights of the 2026 IFSC Climbing World Series in Chongqing, China.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/13ba7bf1-7e5b-4309-9f9c-44762739aa4c/cover"/>
   </programme>
   <programme channel="tnt4" start="20260922050000 +0000" stop="20260922060000 +0000">
     <title lang="en">Fishing: On the Bank</title>
@@ -5981,18 +5975,18 @@
   </programme>
   <programme channel="tnt4" start="20260922070000 +0000" stop="20260922080000 +0000">
     <title lang="en">Climbing World Series Highlights</title>
-    <desc lang="en">Highlights from the IFSC Climbing World Series in Chongqing, China.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/55b54e5b-b249-471e-8646-9624d82f8986/cover"/>
+    <desc lang="en">Highlights of the 2026 IFSC Climbing World Series in Chongqing, China.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/0a55eb07-cdad-474f-99e6-86762b24e05f/cover"/>
   </programme>
   <programme channel="tnt4" start="20260922080000 +0000" stop="20260922083000 +0000">
     <title lang="en">CPL Highlights</title>
-    <desc lang="en">Highlights of the T20 cricket action from the Caribbean Premier League.</desc>
+    <desc lang="en">Highlights from the Caribbean Premier League final as Antigua &amp; Barbuda Falcons take on Jamaica Kingsmen.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ab138ba3-1e7f-4a20-b4cf-a16b529dd53b/cover"/>
   </programme>
   <programme channel="tnt4" start="20260922083000 +0000" stop="20260922090000 +0000">
-    <title lang="en">ETPL: Edinburgh v Belfast</title>
-    <desc lang="en">Action from the European T20 Premier League final as Edinburgh Castle Rockers face Belfast Wolves.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/63939337-b23d-4083-8364-1a90658eecf3/cover"/>
+    <title lang="en">Michelin Le Mans Cup Highlights</title>
+    <desc lang="en">The best of the action from the Le Mans Cup.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3123ee83-5dbf-481e-9b79-9d724c76eba6/cover"/>
   </programme>
   <programme channel="tnt4" start="20260922090000 +0000" stop="20260922100000 +0000">
     <title lang="en">Premier League Review: 2020/21</title>
@@ -6018,12 +6012,12 @@
   </programme>
   <programme channel="tnt4" start="20260922113000 +0000" stop="20260922120000 +0000">
     <title lang="en">CPL Highlights</title>
-    <desc lang="en">Highlights of the T20 cricket action from the Caribbean Premier League.</desc>
+    <desc lang="en">Highlights from the Caribbean Premier League final as Antigua &amp; Barbuda Falcons take on Jamaica Kingsmen.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ab138ba3-1e7f-4a20-b4cf-a16b529dd53b/cover"/>
   </programme>
   <programme channel="tnt4" start="20260922120000 +0000" stop="20260922130000 +0000">
     <title lang="en">MLB Highlights</title>
-    <desc lang="en">Highlights from Major League Baseball. (21.09)</desc>
+    <desc lang="en">Highlights from Major League Baseball including Baltimore Orioles against Toronto Blue Jays and Washington Nationals at Detroit Tigers. (21.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/91d61bd4-78bd-41e7-90cb-2a87b962c023/cover"/>
     <episode-num system="xmltv_ns">2025.187.0</episode-num>
     <episode-num system="onscreen">S2026E188</episode-num>
@@ -6150,33 +6144,28 @@
   </programme>
   <programme channel="tnt4" start="20260923050000 +0000" stop="20260923053000 +0000">
     <title lang="en">CPL Highlights</title>
-    <desc lang="en">Highlights of the T20 cricket action from the Caribbean Premier League.</desc>
+    <desc lang="en">Highlights from the Caribbean Premier League final as Antigua &amp; Barbuda Falcons take on Jamaica Kingsmen.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ab138ba3-1e7f-4a20-b4cf-a16b529dd53b/cover"/>
   </programme>
-  <programme channel="tnt4" start="20260923053000 +0000" stop="20260923063000 +0000">
+  <programme channel="tnt4" start="20260923053000 +0000" stop="20260923073000 +0000">
     <title lang="en">Supercars Championship Highlights</title>
     <desc lang="en">Highlights from the Repco Supercars Championship and the 2026 AirTouch 500 at The Bend.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/efcd6231-27e0-4811-a706-4b1f81b2f778/cover"/>
   </programme>
-  <programme channel="tnt4" start="20260923063000 +0000" stop="20260923080000 +0000">
+  <programme channel="tnt4" start="20260923073000 +0000" stop="20260923090000 +0000">
     <title lang="en">AFL: Hawthorn v Geelong Cats</title>
     <desc lang="en">Action from Round 4 of the Australian Football League as Hawthorn take on Geelong Cats at the MCG.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5f4bdd08-187d-422e-8c65-0d3f770cf1f6/cover"/>
   </programme>
-  <programme channel="tnt4" start="20260923080000 +0000" stop="20260923093000 +0000">
+  <programme channel="tnt4" start="20260923090000 +0000" stop="20260923103000 +0000">
     <title lang="en">AFL: Adelaide C v P Adelaide</title>
     <desc lang="en">Action from the Australian Football League as Adelaide Crows take on rivals Port Adelaide at Adelaide Oval. The Crows have won five of the past six Showdowns.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f26f90df-9232-4bf5-ad9f-cad6c3b112f0/cover"/>
   </programme>
-  <programme channel="tnt4" start="20260923093000 +0000" stop="20260923110000 +0000">
+  <programme channel="tnt4" start="20260923103000 +0000" stop="20260923120000 +0000">
     <title lang="en">AFL: North Melbourne v GC Suns</title>
     <desc lang="en">Action from the Australian Football League as North Melbourne host Gold Coast Suns at Marvel Stadium. The Suns beat the Kangaroos 141-89 when these sides last met.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/aa476914-3520-4fbe-976b-97ca1e3b966c/cover"/>
-  </programme>
-  <programme channel="tnt4" start="20260923110000 +0000" stop="20260923120000 +0000">
-    <title lang="en">Northampton Saints v Exeter Chiefs</title>
-    <desc lang="en">Action from the opening weekend of the 2025/26 Gallagher PREM season as Northampton Saints face Exeter Chiefs at cinch Stadium.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/470bcbdb-b66f-470d-b85e-7e332845b5ef/cover"/>
   </programme>
   <programme channel="tnt4" start="20260923120000 +0000" stop="20260923130000 +0000">
     <title lang="en">Leicester Tigers v Harlequins</title>
@@ -6241,7 +6230,9 @@
   <programme channel="4seven.uk" start="20260920232500 +0000" stop="20260921002500 +0000">
     <title lang="en">Apocalypse: Could You Survive?</title>
     <desc lang="en">Stolen spam and abducted chickens spark hostilities between the East camp and the West as the Apocalypse heats up. Brooke weighs her options. And Keira and Kyra fight with Bertie. (Ep2)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b660c5cb-66f7-4ca0-b7f8-6d76edb51960/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/4b1f0e04-c7cd-4874-a55d-bff8af6d109a/cover"/>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="4seven.uk" start="20260921002500 +0000" stop="20260921013000 +0000">
     <title lang="en">Taskmaster</title>
@@ -6377,7 +6368,9 @@
   <programme channel="4seven.uk" start="20260921210000 +0000" stop="20260921220500 +0000">
     <title lang="en">Apocalypse: Could You Survive?</title>
     <desc lang="en">Stolen spam and abducted chickens spark hostilities between the East camp and the West as the Apocalypse heats up. Brooke weighs her options. And Keira and Kyra fight with Bertie. (Ep2)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/8dc9e6a3-bdf4-4dfd-af80-74af889dcdb0/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/4b1f0e04-c7cd-4874-a55d-bff8af6d109a/cover"/>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="4seven.uk" start="20260921220500 +0000" stop="20260921230500 +0000">
     <title lang="en">Gogglebox</title>
@@ -9926,7 +9919,7 @@
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260921193000 +0000" stop="20260921200000 +0000">
     <title lang="en">Al Jazeera Explains</title>
-    <desc lang="en">Ep.02 From Khamenei's succession to the Strait of Hormuz, Al Jazeera explains how Iran turns political architecture and geography into power.</desc>
+    <desc lang="en">Ep.02 South Africa's politics of belonging: From xenophobia in South Africa to US refugee policy for white South Africans, Al Jazeera Explains the politics of race, belonging and blame.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b9eefa54-399a-4b0c-a525-4b5a0f6d32ef/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260921200000 +0000" stop="20260921210000 +0000">
@@ -10034,7 +10027,7 @@
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260922083000 +0000" stop="20260922090000 +0000">
     <title lang="en">Al Jazeera Explains</title>
-    <desc lang="en">Ep.02 From Khamenei's succession to the Strait of Hormuz, Al Jazeera explains how Iran turns political architecture and geography into power.</desc>
+    <desc lang="en">Ep.02 South Africa's politics of belonging: From xenophobia in South Africa to US refugee policy for white South Africans, Al Jazeera Explains the politics of race, belonging and blame.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b9eefa54-399a-4b0c-a525-4b5a0f6d32ef/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260922090000 +0000" stop="20260922093000 +0000">
@@ -10204,7 +10197,7 @@
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260923043000 +0000" stop="20260923050000 +0000">
     <title lang="en">Al Jazeera Explains</title>
-    <desc lang="en">Ep.02 From Khamenei's succession to the Strait of Hormuz, Al Jazeera explains how Iran turns political architecture and geography into power.</desc>
+    <desc lang="en">Ep.02 South Africa's politics of belonging: From xenophobia in South Africa to US refugee policy for white South Africans, Al Jazeera Explains the politics of race, belonging and blame.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b9eefa54-399a-4b0c-a525-4b5a0f6d32ef/cover"/>
   </programme>
   <programme channel="AlJazeeraEnglish.qa" start="20260923050000 +0000" stop="20260923053000 +0000">
@@ -11353,7 +11346,7 @@
   </programme>
   <programme channel="BBCNews.uk" start="20260921233000 +0000" stop="20260922000000 +0000">
     <title lang="en">Newscast</title>
-    <desc lang="en">Lighthearted discussion of the day's news.</desc>
+    <desc lang="en">Plus, why has there been a rise in mental distress among children and young people?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9b820d11-3964-4925-8243-e0da1c1d56bf/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260922000000 +0000" stop="20260922003000 +0000">
@@ -12300,7 +12293,7 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260923200000 +0000" stop="20260923203000 +0000">
     <title lang="en">20 Years of Not Going Out</title>
-    <desc lang="en">Lee Mack celebrates 20 years of a modern classic, revealing its origins, its success and how the show is made, with cast interviews, classic clips and behind-the-scenes access.</desc>
+    <desc lang="en">Lee Mack marks the anniversary with cast interviews, clips and behind-the-scenes access. Contains adult humour.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d9991cfd-05ea-44f5-9536-54b58ce49147/cover"/>
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260923203000 +0000" stop="20260923210000 +0000">
@@ -12320,7 +12313,7 @@
     <desc lang="en">The latest news, sport and weather for the Channel Islands.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8b327466-acf1-4ece-8198-2394b54d84cc/cover"/>
   </programme>
-  <programme channel="BBCOneChannelIslands.uk" start="20260923214000 +0000" stop="20260923230000 +0000">
+  <programme channel="BBCOneChannelIslands.uk" start="20260923214000 +0000" stop="20260923230500 +0000">
     <title lang="en">Sam Smith: Live at the London Coliseum</title>
     <desc lang="en">Global star Sam Smith takes to the stage for an intimate night of music at the iconic London Coliseum.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b73cbcb5-1ecc-41f0-a8c4-320e95c77928/cover"/>
@@ -12759,7 +12752,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20260923200000 +0000" stop="20260923203000 +0000">
     <title lang="en">20 Years of Not Going Out</title>
-    <desc lang="en">Lee Mack celebrates 20 years of a modern classic, revealing its origins, its success and how the show is made, with cast interviews, classic clips and behind-the-scenes access.</desc>
+    <desc lang="en">Lee Mack marks the anniversary with cast interviews, clips and behind-the-scenes access. Contains adult humour.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d9991cfd-05ea-44f5-9536-54b58ce49147/cover"/>
   </programme>
   <programme channel="BBCOneEast.uk" start="20260923203000 +0000" stop="20260923210000 +0000">
@@ -12779,7 +12772,7 @@
     <desc lang="en">The latest news, sport and weather for the East of England.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ed2704a9-940c-4212-81ff-e0608316b9db/cover"/>
   </programme>
-  <programme channel="BBCOneEast.uk" start="20260923214000 +0000" stop="20260923230000 +0000">
+  <programme channel="BBCOneEast.uk" start="20260923214000 +0000" stop="20260923230500 +0000">
     <title lang="en">Sam Smith: Live at the London Coliseum</title>
     <desc lang="en">Global star Sam Smith takes to the stage for an intimate night of music at the iconic London Coliseum.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b73cbcb5-1ecc-41f0-a8c4-320e95c77928/cover"/>
@@ -13218,7 +13211,7 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260923200000 +0000" stop="20260923203000 +0000">
     <title lang="en">20 Years of Not Going Out</title>
-    <desc lang="en">Lee Mack celebrates 20 years of a modern classic, revealing its origins, its success and how the show is made, with cast interviews, classic clips and behind-the-scenes access.</desc>
+    <desc lang="en">Lee Mack marks the anniversary with cast interviews, clips and behind-the-scenes access. Contains adult humour.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d9991cfd-05ea-44f5-9536-54b58ce49147/cover"/>
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260923203000 +0000" stop="20260923210000 +0000">
@@ -13238,7 +13231,7 @@
     <desc lang="en">The latest news, sport and weather for the East Midlands.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4077d728-2660-4756-b74a-88de4f617434/cover"/>
   </programme>
-  <programme channel="BBCOneEastMidlands.uk" start="20260923214000 +0000" stop="20260923230000 +0000">
+  <programme channel="BBCOneEastMidlands.uk" start="20260923214000 +0000" stop="20260923230500 +0000">
     <title lang="en">Sam Smith: Live at the London Coliseum</title>
     <desc lang="en">Global star Sam Smith takes to the stage for an intimate night of music at the iconic London Coliseum.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b73cbcb5-1ecc-41f0-a8c4-320e95c77928/cover"/>
@@ -13677,7 +13670,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260923200000 +0000" stop="20260923203000 +0000">
     <title lang="en">20 Years of Not Going Out</title>
-    <desc lang="en">Lee Mack celebrates 20 years of a modern classic, revealing its origins, its success and how the show is made, with cast interviews, classic clips and behind-the-scenes access.</desc>
+    <desc lang="en">Lee Mack marks the anniversary with cast interviews, clips and behind-the-scenes access. Contains adult humour.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d9991cfd-05ea-44f5-9536-54b58ce49147/cover"/>
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260923203000 +0000" stop="20260923210000 +0000">
@@ -13697,7 +13690,7 @@
     <desc lang="en">The latest news, sport and weather from London.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8658d686-79c7-45a9-95a0-70d6176b7676/cover"/>
   </programme>
-  <programme channel="BBCOneLondonHD.uk" start="20260923214000 +0000" stop="20260923230000 +0000">
+  <programme channel="BBCOneLondonHD.uk" start="20260923214000 +0000" stop="20260923230500 +0000">
     <title lang="en">Sam Smith: Live at the London Coliseum</title>
     <desc lang="en">Global star Sam Smith takes to the stage for an intimate night of music at the iconic London Coliseum.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b73cbcb5-1ecc-41f0-a8c4-320e95c77928/cover"/>
@@ -14136,7 +14129,7 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260923200000 +0000" stop="20260923203000 +0000">
     <title lang="en">20 Years of Not Going Out</title>
-    <desc lang="en">Lee Mack celebrates 20 years of a modern classic, revealing its origins, its success and how the show is made, with cast interviews, classic clips and behind-the-scenes access.</desc>
+    <desc lang="en">Lee Mack marks the anniversary with cast interviews, clips and behind-the-scenes access. Contains adult humour.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d9991cfd-05ea-44f5-9536-54b58ce49147/cover"/>
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260923203000 +0000" stop="20260923210000 +0000">
@@ -14156,7 +14149,7 @@
     <desc lang="en">The latest news, sport and weather for the North East and Cumbria.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/db81ad4d-4217-416b-9742-5f2704c21351/cover"/>
   </programme>
-  <programme channel="BBCOneNorthEastCumbria.uk" start="20260923214000 +0000" stop="20260923230000 +0000">
+  <programme channel="BBCOneNorthEastCumbria.uk" start="20260923214000 +0000" stop="20260923230500 +0000">
     <title lang="en">Sam Smith: Live at the London Coliseum</title>
     <desc lang="en">Global star Sam Smith takes to the stage for an intimate night of music at the iconic London Coliseum.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b73cbcb5-1ecc-41f0-a8c4-320e95c77928/cover"/>
@@ -14595,7 +14588,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260923200000 +0000" stop="20260923203000 +0000">
     <title lang="en">20 Years of Not Going Out</title>
-    <desc lang="en">Lee Mack celebrates 20 years of a modern classic, revealing its origins, its success and how the show is made, with cast interviews, classic clips and behind-the-scenes access.</desc>
+    <desc lang="en">Lee Mack marks the anniversary with cast interviews, clips and behind-the-scenes access. Contains adult humour.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d9991cfd-05ea-44f5-9536-54b58ce49147/cover"/>
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260923203000 +0000" stop="20260923210000 +0000">
@@ -14615,7 +14608,7 @@
     <desc lang="en">The latest news, sport and weather for the North West of England.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d06a334c-8f20-4b5a-b78f-32984ef53eee/cover"/>
   </programme>
-  <programme channel="BBCOneNorthWest.uk" start="20260923214000 +0000" stop="20260923230000 +0000">
+  <programme channel="BBCOneNorthWest.uk" start="20260923214000 +0000" stop="20260923230500 +0000">
     <title lang="en">Sam Smith: Live at the London Coliseum</title>
     <desc lang="en">Global star Sam Smith takes to the stage for an intimate night of music at the iconic London Coliseum.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b73cbcb5-1ecc-41f0-a8c4-320e95c77928/cover"/>
@@ -15049,7 +15042,7 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260923200000 +0000" stop="20260923203000 +0000">
     <title lang="en">20 Years of Not Going Out</title>
-    <desc lang="en">Lee Mack celebrates 20 years of a modern classic, revealing its origins, its success and how the show is made, with cast interviews, classic clips and behind-the-scenes access.</desc>
+    <desc lang="en">Lee Mack marks the anniversary with cast interviews, clips and behind-the-scenes access. Contains adult humour.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d9991cfd-05ea-44f5-9536-54b58ce49147/cover"/>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260923203000 +0000" stop="20260923210000 +0000">
@@ -15069,7 +15062,7 @@
     <desc lang="en">Local news from across Northern Ireland with Tara Mills and Declan Harvey.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e13e0d2c-3b8d-4ceb-8071-f5095e3aa8ff/cover"/>
   </programme>
-  <programme channel="BBCOneNorthernIreland.uk" start="20260923214000 +0000" stop="20260923230000 +0000">
+  <programme channel="BBCOneNorthernIreland.uk" start="20260923214000 +0000" stop="20260923230500 +0000">
     <title lang="en">Sam Smith: Live at the London Coliseum</title>
     <desc lang="en">Global star Sam Smith takes to the stage for an intimate night of music at the iconic London Coliseum.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b73cbcb5-1ecc-41f0-a8c4-320e95c77928/cover"/>
@@ -15528,7 +15521,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260923200000 +0000" stop="20260923203000 +0000">
     <title lang="en">20 Years of Not Going Out</title>
-    <desc lang="en">Lee Mack celebrates 20 years of a modern classic, revealing its origins, its success and how the show is made, with cast interviews, classic clips and behind-the-scenes access.</desc>
+    <desc lang="en">Lee Mack marks the anniversary with cast interviews, clips and behind-the-scenes access. Contains adult humour.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d9991cfd-05ea-44f5-9536-54b58ce49147/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260923203000 +0000" stop="20260923210000 +0000">
@@ -15994,7 +15987,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260923200000 +0000" stop="20260923203000 +0000">
     <title lang="en">20 Years of Not Going Out</title>
-    <desc lang="en">Lee Mack celebrates 20 years of a modern classic, revealing its origins, its success and how the show is made, with cast interviews, classic clips and behind-the-scenes access.</desc>
+    <desc lang="en">Lee Mack marks the anniversary with cast interviews, clips and behind-the-scenes access. Contains adult humour.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d9991cfd-05ea-44f5-9536-54b58ce49147/cover"/>
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260923203000 +0000" stop="20260923210000 +0000">
@@ -16014,7 +16007,7 @@
     <desc lang="en">The latest news, sport and weather for the South of England.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e1bcba4b-05d4-4c92-b25a-9e31e7ec0216/cover"/>
   </programme>
-  <programme channel="BBCOneSouth.uk" start="20260923214000 +0000" stop="20260923230000 +0000">
+  <programme channel="BBCOneSouth.uk" start="20260923214000 +0000" stop="20260923230500 +0000">
     <title lang="en">Sam Smith: Live at the London Coliseum</title>
     <desc lang="en">Global star Sam Smith takes to the stage for an intimate night of music at the iconic London Coliseum.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b73cbcb5-1ecc-41f0-a8c4-320e95c77928/cover"/>
@@ -16453,7 +16446,7 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260923200000 +0000" stop="20260923203000 +0000">
     <title lang="en">20 Years of Not Going Out</title>
-    <desc lang="en">Lee Mack celebrates 20 years of a modern classic, revealing its origins, its success and how the show is made, with cast interviews, classic clips and behind-the-scenes access.</desc>
+    <desc lang="en">Lee Mack marks the anniversary with cast interviews, clips and behind-the-scenes access. Contains adult humour.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d9991cfd-05ea-44f5-9536-54b58ce49147/cover"/>
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260923203000 +0000" stop="20260923210000 +0000">
@@ -16473,7 +16466,7 @@
     <desc lang="en">The latest news, sport, weather and features from the South East of England.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/98e14784-1e87-4d3b-b2dd-afa9c564b31a/cover"/>
   </programme>
-  <programme channel="BBCOneSouthEast.uk" start="20260923214000 +0000" stop="20260923230000 +0000">
+  <programme channel="BBCOneSouthEast.uk" start="20260923214000 +0000" stop="20260923230500 +0000">
     <title lang="en">Sam Smith: Live at the London Coliseum</title>
     <desc lang="en">Global star Sam Smith takes to the stage for an intimate night of music at the iconic London Coliseum.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b73cbcb5-1ecc-41f0-a8c4-320e95c77928/cover"/>
@@ -16912,7 +16905,7 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260923200000 +0000" stop="20260923203000 +0000">
     <title lang="en">20 Years of Not Going Out</title>
-    <desc lang="en">Lee Mack celebrates 20 years of a modern classic, revealing its origins, its success and how the show is made, with cast interviews, classic clips and behind-the-scenes access.</desc>
+    <desc lang="en">Lee Mack marks the anniversary with cast interviews, clips and behind-the-scenes access. Contains adult humour.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d9991cfd-05ea-44f5-9536-54b58ce49147/cover"/>
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260923203000 +0000" stop="20260923210000 +0000">
@@ -16932,7 +16925,7 @@
     <desc lang="en">The latest news, sport, weather and features from the South West of England.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ada8e9f7-5660-45ef-91fe-c39cc612d38c/cover"/>
   </programme>
-  <programme channel="BBCOneSouthWest.uk" start="20260923214000 +0000" stop="20260923230000 +0000">
+  <programme channel="BBCOneSouthWest.uk" start="20260923214000 +0000" stop="20260923230500 +0000">
     <title lang="en">Sam Smith: Live at the London Coliseum</title>
     <desc lang="en">Global star Sam Smith takes to the stage for an intimate night of music at the iconic London Coliseum.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b73cbcb5-1ecc-41f0-a8c4-320e95c77928/cover"/>
@@ -17386,7 +17379,7 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20260923200000 +0000" stop="20260923203000 +0000">
     <title lang="en">20 Years of Not Going Out</title>
-    <desc lang="en">Lee Mack celebrates 20 years of a modern classic, revealing its origins, its success and how the show is made, with cast interviews, classic clips and behind-the-scenes access.</desc>
+    <desc lang="en">Lee Mack marks the anniversary with cast interviews, clips and behind-the-scenes access. Contains adult humour.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d9991cfd-05ea-44f5-9536-54b58ce49147/cover"/>
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20260923203000 +0000" stop="20260923210000 +0000">
@@ -17406,12 +17399,7 @@
     <desc lang="en">News and weather from BBC Wales.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/53b936ba-8482-444c-a89d-f6f66fcc9698/cover"/>
   </programme>
-  <programme channel="BBCOneWalesHD.uk" start="20260923214000 +0000" stop="20260923221000 +0000">
-    <title lang="en">Feast of Football</title>
-    <desc lang="en">A preview of the Wales men's opening match in the UEFA Nations League against Portugal.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a32138da-f3ba-4e14-a855-74f13e186b33/cover"/>
-  </programme>
-  <programme channel="BBCOneWalesHD.uk" start="20260923221000 +0000" stop="20260923233000 +0000">
+  <programme channel="BBCOneWalesHD.uk" start="20260923214000 +0000" stop="20260923230500 +0000">
     <title lang="en">Sam Smith: Live at the London Coliseum</title>
     <desc lang="en">Global star Sam Smith takes to the stage for an intimate night of music at the iconic London Coliseum.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b73cbcb5-1ecc-41f0-a8c4-320e95c77928/cover"/>
@@ -17850,7 +17838,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20260923200000 +0000" stop="20260923203000 +0000">
     <title lang="en">20 Years of Not Going Out</title>
-    <desc lang="en">Lee Mack celebrates 20 years of a modern classic, revealing its origins, its success and how the show is made, with cast interviews, classic clips and behind-the-scenes access.</desc>
+    <desc lang="en">Lee Mack marks the anniversary with cast interviews, clips and behind-the-scenes access. Contains adult humour.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d9991cfd-05ea-44f5-9536-54b58ce49147/cover"/>
   </programme>
   <programme channel="BBCOneWest.uk" start="20260923203000 +0000" stop="20260923210000 +0000">
@@ -17870,7 +17858,7 @@
     <desc lang="en">The latest news, sport, weather and features from the West of England.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6de7e5d1-345b-48c3-bee2-170329fb0dee/cover"/>
   </programme>
-  <programme channel="BBCOneWest.uk" start="20260923214000 +0000" stop="20260923230000 +0000">
+  <programme channel="BBCOneWest.uk" start="20260923214000 +0000" stop="20260923230500 +0000">
     <title lang="en">Sam Smith: Live at the London Coliseum</title>
     <desc lang="en">Global star Sam Smith takes to the stage for an intimate night of music at the iconic London Coliseum.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b73cbcb5-1ecc-41f0-a8c4-320e95c77928/cover"/>
@@ -18309,7 +18297,7 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260923200000 +0000" stop="20260923203000 +0000">
     <title lang="en">20 Years of Not Going Out</title>
-    <desc lang="en">Lee Mack celebrates 20 years of a modern classic, revealing its origins, its success and how the show is made, with cast interviews, classic clips and behind-the-scenes access.</desc>
+    <desc lang="en">Lee Mack marks the anniversary with cast interviews, clips and behind-the-scenes access. Contains adult humour.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d9991cfd-05ea-44f5-9536-54b58ce49147/cover"/>
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260923203000 +0000" stop="20260923210000 +0000">
@@ -18329,7 +18317,7 @@
     <desc lang="en">The latest news, sport and weather for the Midlands.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b89221f6-21bf-4977-84d7-abb484689cda/cover"/>
   </programme>
-  <programme channel="BBCOneWestMidlands.uk" start="20260923214000 +0000" stop="20260923230000 +0000">
+  <programme channel="BBCOneWestMidlands.uk" start="20260923214000 +0000" stop="20260923230500 +0000">
     <title lang="en">Sam Smith: Live at the London Coliseum</title>
     <desc lang="en">Global star Sam Smith takes to the stage for an intimate night of music at the iconic London Coliseum.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b73cbcb5-1ecc-41f0-a8c4-320e95c77928/cover"/>
@@ -18768,7 +18756,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260923200000 +0000" stop="20260923203000 +0000">
     <title lang="en">20 Years of Not Going Out</title>
-    <desc lang="en">Lee Mack celebrates 20 years of a modern classic, revealing its origins, its success and how the show is made, with cast interviews, classic clips and behind-the-scenes access.</desc>
+    <desc lang="en">Lee Mack marks the anniversary with cast interviews, clips and behind-the-scenes access. Contains adult humour.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d9991cfd-05ea-44f5-9536-54b58ce49147/cover"/>
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260923203000 +0000" stop="20260923210000 +0000">
@@ -18788,7 +18776,7 @@
     <desc lang="en">The latest news, sport and weather for East Yorkshire and Lincolnshire.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f782b502-4fb7-4ad2-8bd8-43c20abec012/cover"/>
   </programme>
-  <programme channel="BBCOneYorksLincs.uk" start="20260923214000 +0000" stop="20260923230000 +0000">
+  <programme channel="BBCOneYorksLincs.uk" start="20260923214000 +0000" stop="20260923230500 +0000">
     <title lang="en">Sam Smith: Live at the London Coliseum</title>
     <desc lang="en">Global star Sam Smith takes to the stage for an intimate night of music at the iconic London Coliseum.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b73cbcb5-1ecc-41f0-a8c4-320e95c77928/cover"/>
@@ -19227,7 +19215,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260923200000 +0000" stop="20260923203000 +0000">
     <title lang="en">20 Years of Not Going Out</title>
-    <desc lang="en">Lee Mack celebrates 20 years of a modern classic, revealing its origins, its success and how the show is made, with cast interviews, classic clips and behind-the-scenes access.</desc>
+    <desc lang="en">Lee Mack marks the anniversary with cast interviews, clips and behind-the-scenes access. Contains adult humour.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d9991cfd-05ea-44f5-9536-54b58ce49147/cover"/>
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260923203000 +0000" stop="20260923210000 +0000">
@@ -19247,7 +19235,7 @@
     <desc lang="en">The latest news, sport and weather for Yorkshire.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2d642653-9e2b-47ec-97af-6626e6669edd/cover"/>
   </programme>
-  <programme channel="BBCOneYorkshire.uk" start="20260923214000 +0000" stop="20260923230000 +0000">
+  <programme channel="BBCOneYorkshire.uk" start="20260923214000 +0000" stop="20260923230500 +0000">
     <title lang="en">Sam Smith: Live at the London Coliseum</title>
     <desc lang="en">Global star Sam Smith takes to the stage for an intimate night of music at the iconic London Coliseum.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b73cbcb5-1ecc-41f0-a8c4-320e95c77928/cover"/>
@@ -19352,60 +19340,85 @@
     <desc lang="en">Coverage of questions in the Northern Ireland Assembly to the health minister, Robbie Butler, on Monday 21 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c2f80505-2635-41f0-a991-3b2f2d8bc05d/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260921143000 +0000" stop="20260921170000 +0000">
+  <programme channel="BBCParliament.uk" start="20260921143000 +0000" stop="20260921173500 +0000">
     <title lang="en">Live Northern Ireland Assembly</title>
     <desc lang="en">Coverage of proceedings in the Northern Ireland Assembly on Monday 21 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7115b7f0-33e4-4c72-aa5d-50474b013314/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260921170000 +0000" stop="20260921190000 +0000">
-    <title lang="en">Northern Ireland Assembly</title>
-    <desc lang="en">Coverage of proceedings in the Northern Ireland Assembly, including members' statements, on Monday 21 September.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0a17f357-215d-44d3-bbf6-ebd5b59f6d39/cover"/>
+  <programme channel="BBCParliament.uk" start="20260921173500 +0000" stop="20260921180500 +0000">
+    <title lang="en">Northern Ireland Assembly - Members' Statements</title>
+    <desc lang="en">Coverage from the Northern Ireland Assembly of short statements in the chamber by members of the legislative assembly, from Monday 21 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/5194ae0e-19d2-4e99-838a-35440b30a51b/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260921190000 +0000" stop="20260921194500 +0000">
+  <programme channel="BBCParliament.uk" start="20260921180500 +0000" stop="20260921182000 +0000">
+    <title lang="en">Northern Ireland Assembly -...</title>
+    <desc lang="en">...British-Irish Council Statement. The statement on the 45th summit of the British-Irish Council, on Monday 21 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/32cc438c-8300-4345-a68d-b6a8e9ecbcf0/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260921182000 +0000" stop="20260921190500 +0000">
+    <title lang="en">Northern Ireland Assembly -...</title>
+    <desc lang="en">...Release of Gary Anderson Statement. Coverage of the statement on the temporary release of convicted murderer Gary Anderson.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3c4e067b-4c9e-4bfa-b4fe-078641faab09/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260921190500 +0000" stop="20260921195000 +0000">
+    <title lang="en">Northern Ireland Assembly -...</title>
+    <desc lang="en">...Maternity Services Statement. Statement by health minister Robbie Butler on maternity services in the Southern Trust.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/641c964b-72f6-4c5b-8497-3c8657179e22/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260921195000 +0000" stop="20260921203500 +0000">
     <title lang="en">Northern Ireland Assembly -...</title>
     <desc lang="en">...Executive Office Questions. Questions in Stormont to the Northern Ireland executive, with the first minister, Michelle O'Neill, on Monday 21 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/37bf3479-6b5a-4e0b-9848-f0b3920029a5/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260921194500 +0000" stop="20260921203000 +0000">
+  <programme channel="BBCParliament.uk" start="20260921203500 +0000" stop="20260921212000 +0000">
     <title lang="en">Northern Ireland Assembly - Health Questions</title>
     <desc lang="en">Coverage of questions in the Northern Ireland Assembly to the health minister, Robbie Butler, on Monday 21 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c2f80505-2635-41f0-a991-3b2f2d8bc05d/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260921203000 +0000" stop="20260921230000 +0000">
-    <title lang="en">Northern Ireland Assembly</title>
-    <desc lang="en">Coverage of proceedings in the Northern Ireland Assembly on Monday 21 September.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/7d00d212-cc2a-4d3d-b6cc-0bbb3c01a01e/cover"/>
+  <programme channel="BBCParliament.uk" start="20260921212000 +0000" stop="20260921234500 +0000">
+    <title lang="en">Northern Ireland Assembly - Tree Protection Bill</title>
+    <desc lang="en">Coverage of proceedings of the second stage debate on the Tree Protection Bill in the Northern Ireland Assembly, on Monday 21 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f4008964-1edd-4232-8f5b-2592e1295969/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260921230000 +0000" stop="20260922010000 +0000">
-    <title lang="en">Northern Ireland Assembly</title>
-    <desc lang="en">Coverage of proceedings in the Northern Ireland Assembly, including members' statements, on Monday 21 September.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9bc1b5b6-927e-44a1-98b7-a2b01dc328bb/cover"/>
+  <programme channel="BBCParliament.uk" start="20260921234500 +0000" stop="20260922015500 +0000">
+    <title lang="en">Environmental Audit Committee on Air Pollution</title>
+    <desc lang="en">Coverage of the Environmental Audit select committee session on air pollution in England, from Monday 14 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/70bcde1a-157d-4170-9f51-5ee3ed31aa91/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260922010000 +0000" stop="20260922014500 +0000">
+  <programme channel="BBCParliament.uk" start="20260922015500 +0000" stop="20260922024000 +0000">
     <title lang="en">Northern Ireland Assembly -...</title>
     <desc lang="en">...Executive Office Questions. Questions in Stormont to the Northern Ireland executive, with the first minister, Michelle O'Neill, on Monday 21 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4e0611fb-0eef-4e3a-aaa3-3f56d0b6fc6b/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260922014500 +0000" stop="20260922023000 +0000">
+  <programme channel="BBCParliament.uk" start="20260922024000 +0000" stop="20260922032500 +0000">
     <title lang="en">Northern Ireland Assembly - Health Questions</title>
     <desc lang="en">Coverage of questions in the Northern Ireland Assembly to the health minister, Robbie Butler, on Monday 21 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c2f80505-2635-41f0-a991-3b2f2d8bc05d/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260922023000 +0000" stop="20260922050000 +0000">
-    <title lang="en">Northern Ireland Assembly</title>
-    <desc lang="en">Coverage of proceedings in the Northern Ireland Assembly on Monday 21 September.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/666990d9-c620-4151-9a3b-263dc7cb0e53/cover"/>
+  <programme channel="BBCParliament.uk" start="20260922032500 +0000" stop="20260922041500 +0000">
+    <title lang="en">Northern Ireland Assembly -...</title>
+    <desc lang="en">...Release of Gary Anderson Statement. Coverage of the statement on the temporary release of convicted murderer Gary Anderson.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/708ea725-306f-4872-b5b6-e03378c5a685/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260922050000 +0000" stop="20260922070000 +0000">
-    <title lang="en">Northern Ireland Assembly</title>
-    <desc lang="en">Coverage of proceedings in the Northern Ireland Assembly, including members' statements, on Monday 21 September.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d5e370a2-bf7c-4010-912d-6b02e19992c9/cover"/>
+  <programme channel="BBCParliament.uk" start="20260922041500 +0000" stop="20260922050000 +0000">
+    <title lang="en">Northern Ireland Assembly -...</title>
+    <desc lang="en">...Maternity Services Statement. Statement by health minister Robbie Butler on maternity services in the Southern Trust.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1180acf4-b073-423e-8d95-540f4ee91bd2/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260922070000 +0000" stop="20260922093000 +0000">
-    <title lang="en">Northern Ireland Assembly</title>
-    <desc lang="en">Coverage of proceedings in the Northern Ireland Assembly on Monday 21 September.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/818b5851-59df-4e6f-aec5-498219ab7d8f/cover"/>
+  <programme channel="BBCParliament.uk" start="20260922050000 +0000" stop="20260922051000 +0000">
+    <title lang="en">House of Lords - Tourism Tax Statement</title>
+    <desc lang="en">Coverage of the debate on the impact of the proposed overnight visitor levy in England.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/08e871a7-b6ef-405a-8643-7e0c85cf2666/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260922051000 +0000" stop="20260922064000 +0000">
+    <title lang="en">Fracking Ban Debate</title>
+    <desc lang="en">Coverage of the debate in the House of Commons on the merits of a full ban on fracking, from Tuesday 15 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/910e5fcb-3ff1-4607-92b9-7d6189093540/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260922064000 +0000" stop="20260922093000 +0000">
+    <title lang="en">Business and Trade Committee on Industrial Strategy</title>
+    <desc lang="en">Coverage of the Business and Trade select committee session on the government's industrial strategy, from Tuesday 8 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a907df12-ae5a-487b-a837-200bbc3e7b3d/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260922093000 +0000" stop="20260922120000 +0000">
     <title lang="en">Live Northern Ireland Assembly</title>
@@ -19439,7 +19452,7 @@
   </programme>
   <programme channel="BBCParliament.uk" start="20260922185000 +0000" stop="20260922213000 +0000">
     <title lang="en">Scottish Parliament</title>
-    <desc lang="en">Coverage of proceedings in the Scottish Parliament on Tuesday 22 September.</desc>
+    <desc lang="en">Coverage of proceedings in the Scottish Parliament including the debate, tabled by the Scottish government, on 'Scotland's right to decide' on Scottish independence, on Tuesday 22 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2e0edcb0-1244-4f7b-b3c3-c35f46fbf0f9/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260922213000 +0000" stop="20260922223000 +0000">
@@ -19464,7 +19477,7 @@
   </programme>
   <programme channel="BBCParliament.uk" start="20260923023500 +0000" stop="20260923051500 +0000">
     <title lang="en">Scottish Parliament</title>
-    <desc lang="en">Coverage of proceedings in the Scottish Parliament on Tuesday 22 September.</desc>
+    <desc lang="en">Coverage of proceedings in the Scottish Parliament including the debate, tabled by the Scottish government, on 'Scotland's right to decide' on Scottish independence, on Tuesday 22 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2e0edcb0-1244-4f7b-b3c3-c35f46fbf0f9/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260923051500 +0000" stop="20260923094500 +0000">
@@ -20279,7 +20292,7 @@
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20260921180000 +0000" stop="20260921183000 +0000">
     <title lang="en">Global Eye</title>
-    <desc lang="en">Bringing forensic journalism from all corners of the world. Contains scenes which some viewers may find upsetting.</desc>
+    <desc lang="en">Global Eye reports from Indonesia on a devastating environmental crisis. Contains scenes which some viewers may find upsetting.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/68170d4a-4bf3-42ba-abec-b0a450c90e29/cover"/>
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20260921183000 +0000" stop="20260921190000 +0000">
@@ -20770,7 +20783,7 @@
   </programme>
   <programme channel="BBCTwoHD.uk" start="20260921180000 +0000" stop="20260921183000 +0000">
     <title lang="en">Global Eye</title>
-    <desc lang="en">Bringing forensic journalism from all corners of the world. Contains scenes which some viewers may find upsetting.</desc>
+    <desc lang="en">Global Eye reports from Indonesia on a devastating environmental crisis. Contains scenes which some viewers may find upsetting.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/68170d4a-4bf3-42ba-abec-b0a450c90e29/cover"/>
   </programme>
   <programme channel="BBCTwoHD.uk" start="20260921183000 +0000" stop="20260921190000 +0000">
@@ -21259,7 +21272,7 @@
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20260921180000 +0000" stop="20260921183000 +0000">
     <title lang="en">Global Eye</title>
-    <desc lang="en">Bringing forensic journalism from all corners of the world. Contains scenes which some viewers may find upsetting.</desc>
+    <desc lang="en">Global Eye reports from Indonesia on a devastating environmental crisis. Contains scenes which some viewers may find upsetting.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/68170d4a-4bf3-42ba-abec-b0a450c90e29/cover"/>
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20260921183000 +0000" stop="20260921190000 +0000">
@@ -21750,7 +21763,7 @@
   </programme>
   <programme channel="BBCTwoWales.uk" start="20260921180000 +0000" stop="20260921183000 +0000">
     <title lang="en">Global Eye</title>
-    <desc lang="en">Bringing forensic journalism from all corners of the world. Contains scenes which some viewers may find upsetting.</desc>
+    <desc lang="en">Global Eye reports from Indonesia on a devastating environmental crisis. Contains scenes which some viewers may find upsetting.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/68170d4a-4bf3-42ba-abec-b0a450c90e29/cover"/>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20260921183000 +0000" stop="20260921190000 +0000">
@@ -22070,12 +22083,15 @@
     <episode-num system="xmltv_ns">0.14.0</episode-num>
     <episode-num system="onscreen">S1E15</episode-num>
   </programme>
-  <programme channel="BBCTwoWales.uk" start="20260923180000 +0000" stop="20260923190000 +0000">
-    <title lang="en">Celebrity Antiques Road Trip</title>
-    <desc lang="en">10/16. Presenter Charlotte Crosby and dancer Louie Spence are on a flamboyant trip in the West Midlands in a Pontiac Trans Am, guided by experts Irita Marriott and Serhat Ahmet.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/139596a0-361b-4ca3-b759-18f352fcb79f/cover"/>
-    <episode-num system="xmltv_ns">12.9.0</episode-num>
-    <episode-num system="onscreen">S13E10</episode-num>
+  <programme channel="BBCTwoWales.uk" start="20260923180000 +0000" stop="20260923183000 +0000">
+    <title lang="en">Feast of Football</title>
+    <desc lang="en">Carl Roberts is joined on the Feast of Football sofa by former Wales internationals Nia Jones and Robert Earnshaw as they preview Wales's home clash against Norway.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6ccd4506-9e35-486d-ab81-1a98f2d59663/cover"/>
+  </programme>
+  <programme channel="BBCTwoWales.uk" start="20260923183000 +0000" stop="20260923190000 +0000">
+    <title lang="en">The Travelling Auctioneers</title>
+    <desc lang="en">8/20. Izzie and JJ explore a Colchester home filled with out-of-this-world toys. They help a sci-fi collector sell treasured items so he can treat his family to an unforgettable holiday.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7319f104-8e19-41b2-be88-73e15d852d17/cover"/>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20260923190000 +0000" stop="20260923200000 +0000">
     <title lang="en">Inside the Factory</title>
@@ -23125,9 +23141,6 @@
     <desc lang="en">Liquid Death was founded on the idea of breaking the norms of traditional marketing. We speak to CMO Dan Murphy about the water company's origin as a 'sheep in wolf's clothing.' S1, Ep1</desc>
     <icon src="https://images.metadata.sky.com/pd-image/31f8fa5b-a84a-47a1-bbc5-dd6743c16cfa/cover"/>
   </programme>
-  <programme channel="CBBC.uk" start="20260920175800 +0000" stop="20260920235800 +0000">
-    <title lang="en">.programmes start at 7.00am</title>
-  </programme>
   <programme channel="CBBC.uk" start="20260920235800 +0000" stop="20260921042959 +0000">
     <title lang="en">.programmes start at 7.00am</title>
   </programme>
@@ -24167,9 +24180,6 @@
   </programme>
   <programme channel="CBBC.uk" start="20260923175800 +0000" stop="20260923235800 +0000">
     <title lang="en">.programmes start at 7.00am</title>
-  </programme>
-  <programme channel="CBeebies.uk" start="20260920175800 +0000" stop="20260920235800 +0000">
-    <title lang="en">..programmes start at 6.00am</title>
   </programme>
   <programme channel="CBeebies.uk" start="20260920235800 +0000" stop="20260921042959 +0000">
     <title lang="en">..programmes start at 6.00am</title>
@@ -35990,13 +36000,10 @@
     <episode-num system="xmltv_ns">11.22.0</episode-num>
     <episode-num system="onscreen">S12E23</episode-num>
   </programme>
-  <programme channel="ITV1CentralE.uk" start="20260923223000 +0000" stop="20260923232000 +0000">
-    <title lang="en">New: The Rainmaker</title>
-    <desc lang="en">Thrilling crime drama series adaptation of John Grisham's novel of the same name. Worried about Melvin's threat, Rudy defies Bruiser and risks his job and future as Dot's attorney.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/96b7ee39-2eda-42fa-9f8c-c502b1dc9a91/cover"/>
-    <premiere/>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
+  <programme channel="ITV1CentralE.uk" start="20260923223000 +0000" stop="20260923230000 +0000">
+    <title lang="en">The Assembly: Unseen</title>
+    <desc lang="en">Unseen: This episode features unseen questions from The Assembly's grillings of David Tennant, Gary Lineker, Danny Dyer and Jade alongside more revelations from the interviewed stars.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/0e2e2abd-ea89-4f72-97db-dea317007c38/cover"/>
   </programme>
   <programme channel="ITV1CentralW.uk" start="20260920211500 +0000" stop="20260920224500 +0000">
     <title lang="en">70 Up</title>
@@ -36463,13 +36470,10 @@
     <episode-num system="xmltv_ns">11.22.0</episode-num>
     <episode-num system="onscreen">S12E23</episode-num>
   </programme>
-  <programme channel="ITV1CentralW.uk" start="20260923223000 +0000" stop="20260923232000 +0000">
-    <title lang="en">New: The Rainmaker</title>
-    <desc lang="en">Thrilling crime drama series adaptation of John Grisham's novel of the same name. Worried about Melvin's threat, Rudy defies Bruiser and risks his job and future as Dot's attorney.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/96b7ee39-2eda-42fa-9f8c-c502b1dc9a91/cover"/>
-    <premiere/>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
+  <programme channel="ITV1CentralW.uk" start="20260923223000 +0000" stop="20260923230000 +0000">
+    <title lang="en">The Assembly: Unseen</title>
+    <desc lang="en">Unseen: This episode features unseen questions from The Assembly's grillings of David Tennant, Gary Lineker, Danny Dyer and Jade alongside more revelations from the interviewed stars.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/23e2452f-bf48-448f-94c6-9a349a6100cb/cover"/>
   </programme>
   <programme channel="ITV1London.uk" start="20260920211500 +0000" stop="20260920224500 +0000">
     <title lang="en">70 Up</title>
@@ -36936,13 +36940,10 @@
     <episode-num system="xmltv_ns">11.22.0</episode-num>
     <episode-num system="onscreen">S12E23</episode-num>
   </programme>
-  <programme channel="ITV1London.uk" start="20260923223000 +0000" stop="20260923232000 +0000">
-    <title lang="en">New: The Rainmaker</title>
-    <desc lang="en">Thrilling crime drama series adaptation of John Grisham's novel of the same name. Worried about Melvin's threat, Rudy defies Bruiser and risks his job and future as Dot's attorney.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/96b7ee39-2eda-42fa-9f8c-c502b1dc9a91/cover"/>
-    <premiere/>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
+  <programme channel="ITV1London.uk" start="20260923223000 +0000" stop="20260923230000 +0000">
+    <title lang="en">The Assembly: Unseen</title>
+    <desc lang="en">Unseen: This episode features unseen questions from The Assembly's grillings of David Tennant, Gary Lineker, Danny Dyer and Jade alongside more revelations from the interviewed stars.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/543c65e3-8e84-4527-b106-fa1d3d857180/cover"/>
   </programme>
   <programme channel="ITV1MeridianE.uk" start="20260920211500 +0000" stop="20260920224500 +0000">
     <title lang="en">70 Up</title>
@@ -37409,13 +37410,10 @@
     <episode-num system="xmltv_ns">11.22.0</episode-num>
     <episode-num system="onscreen">S12E23</episode-num>
   </programme>
-  <programme channel="ITV1MeridianE.uk" start="20260923223000 +0000" stop="20260923232000 +0000">
-    <title lang="en">New: The Rainmaker</title>
-    <desc lang="en">Thrilling crime drama series adaptation of John Grisham's novel of the same name. Worried about Melvin's threat, Rudy defies Bruiser and risks his job and future as Dot's attorney.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/96b7ee39-2eda-42fa-9f8c-c502b1dc9a91/cover"/>
-    <premiere/>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
+  <programme channel="ITV1MeridianE.uk" start="20260923223000 +0000" stop="20260923230000 +0000">
+    <title lang="en">The Assembly: Unseen</title>
+    <desc lang="en">Unseen: This episode features unseen questions from The Assembly's grillings of David Tennant, Gary Lineker, Danny Dyer and Jade alongside more revelations from the interviewed stars.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6960127c-7856-444c-b2b7-13b9e7167708/cover"/>
   </programme>
   <programme channel="ITV1MeridianN.uk" start="20260920211500 +0000" stop="20260920224500 +0000">
     <title lang="en">70 Up</title>
@@ -37882,13 +37880,10 @@
     <episode-num system="xmltv_ns">11.22.0</episode-num>
     <episode-num system="onscreen">S12E23</episode-num>
   </programme>
-  <programme channel="ITV1MeridianN.uk" start="20260923223000 +0000" stop="20260923232000 +0000">
-    <title lang="en">New: The Rainmaker</title>
-    <desc lang="en">Thrilling crime drama series adaptation of John Grisham's novel of the same name. Worried about Melvin's threat, Rudy defies Bruiser and risks his job and future as Dot's attorney.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/96b7ee39-2eda-42fa-9f8c-c502b1dc9a91/cover"/>
-    <premiere/>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
+  <programme channel="ITV1MeridianN.uk" start="20260923223000 +0000" stop="20260923230000 +0000">
+    <title lang="en">The Assembly: Unseen</title>
+    <desc lang="en">Unseen: This episode features unseen questions from The Assembly's grillings of David Tennant, Gary Lineker, Danny Dyer and Jade alongside more revelations from the interviewed stars.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a2770a79-a860-4233-9481-780f2306697b/cover"/>
   </programme>
   <programme channel="ITV1MeridianS.uk" start="20260920211500 +0000" stop="20260920224500 +0000">
     <title lang="en">70 Up</title>
@@ -38355,13 +38350,10 @@
     <episode-num system="xmltv_ns">11.22.0</episode-num>
     <episode-num system="onscreen">S12E23</episode-num>
   </programme>
-  <programme channel="ITV1MeridianS.uk" start="20260923223000 +0000" stop="20260923232000 +0000">
-    <title lang="en">New: The Rainmaker</title>
-    <desc lang="en">Thrilling crime drama series adaptation of John Grisham's novel of the same name. Worried about Melvin's threat, Rudy defies Bruiser and risks his job and future as Dot's attorney.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/96b7ee39-2eda-42fa-9f8c-c502b1dc9a91/cover"/>
-    <premiere/>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
+  <programme channel="ITV1MeridianS.uk" start="20260923223000 +0000" stop="20260923230000 +0000">
+    <title lang="en">The Assembly: Unseen</title>
+    <desc lang="en">Unseen: This episode features unseen questions from The Assembly's grillings of David Tennant, Gary Lineker, Danny Dyer and Jade alongside more revelations from the interviewed stars.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/0121caf4-70c6-4777-96ed-8f6a0c749594/cover"/>
   </programme>
   <programme channel="ITV1North.uk" start="20260920211500 +0000" stop="20260920224500 +0000">
     <title lang="en">70 Up</title>
@@ -38828,13 +38820,10 @@
     <episode-num system="xmltv_ns">11.22.0</episode-num>
     <episode-num system="onscreen">S12E23</episode-num>
   </programme>
-  <programme channel="ITV1North.uk" start="20260923223000 +0000" stop="20260923232000 +0000">
-    <title lang="en">New: The Rainmaker</title>
-    <desc lang="en">Thrilling crime drama series adaptation of John Grisham's novel of the same name. Worried about Melvin's threat, Rudy defies Bruiser and risks his job and future as Dot's attorney.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/96b7ee39-2eda-42fa-9f8c-c502b1dc9a91/cover"/>
-    <premiere/>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
+  <programme channel="ITV1North.uk" start="20260923223000 +0000" stop="20260923230000 +0000">
+    <title lang="en">The Assembly: Unseen</title>
+    <desc lang="en">Unseen: This episode features unseen questions from The Assembly's grillings of David Tennant, Gary Lineker, Danny Dyer and Jade alongside more revelations from the interviewed stars.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1c92bacc-9a9e-4cd4-bc15-d9c66f30fe04/cover"/>
   </programme>
   <programme channel="ITV1Plus1Granada.uk" start="20260920210000 +0000" stop="20260920220000 +0000">
     <title lang="en">New: The Blame</title>
@@ -41213,13 +41202,10 @@
     <episode-num system="xmltv_ns">11.22.0</episode-num>
     <episode-num system="onscreen">S12E23</episode-num>
   </programme>
-  <programme channel="ITV1TyneTees.uk" start="20260923223000 +0000" stop="20260923232000 +0000">
-    <title lang="en">New: The Rainmaker</title>
-    <desc lang="en">Thrilling crime drama series adaptation of John Grisham's novel of the same name. Worried about Melvin's threat, Rudy defies Bruiser and risks his job and future as Dot's attorney.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/96b7ee39-2eda-42fa-9f8c-c502b1dc9a91/cover"/>
-    <premiere/>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
+  <programme channel="ITV1TyneTees.uk" start="20260923223000 +0000" stop="20260923230000 +0000">
+    <title lang="en">The Assembly: Unseen</title>
+    <desc lang="en">Unseen: This episode features unseen questions from The Assembly's grillings of David Tennant, Gary Lineker, Danny Dyer and Jade alongside more revelations from the interviewed stars.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/407579ad-d124-4b2a-a8c9-f41b1e2a62a0/cover"/>
   </programme>
   <programme channel="ITV1Wales.uk" start="20260920211500 +0000" stop="20260920224500 +0000">
     <title lang="en">70 Up</title>
@@ -41685,13 +41671,10 @@
     <episode-num system="xmltv_ns">11.22.0</episode-num>
     <episode-num system="onscreen">S12E23</episode-num>
   </programme>
-  <programme channel="ITV1Wales.uk" start="20260923223000 +0000" stop="20260923232000 +0000">
-    <title lang="en">New: The Rainmaker</title>
-    <desc lang="en">Thrilling crime drama series adaptation of John Grisham's novel of the same name. Worried about Melvin's threat, Rudy defies Bruiser and risks his job and future as Dot's attorney.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/96b7ee39-2eda-42fa-9f8c-c502b1dc9a91/cover"/>
-    <premiere/>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
+  <programme channel="ITV1Wales.uk" start="20260923223000 +0000" stop="20260923230000 +0000">
+    <title lang="en">The Assembly: Unseen</title>
+    <desc lang="en">Unseen: This episode features unseen questions from The Assembly's grillings of David Tennant, Gary Lineker, Danny Dyer and Jade alongside more revelations from the interviewed stars.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/2d531c12-ea01-4ea1-a1e7-e793ba512ac8/cover"/>
   </programme>
   <programme channel="ITV1West.uk" start="20260920211500 +0000" stop="20260920224500 +0000">
     <title lang="en">70 Up</title>
@@ -41747,14 +41730,14 @@
   </programme>
   <programme channel="ITV1West.uk" start="20260921083000 +0000" stop="20260921090000 +0000">
     <title lang="en">Lorraine</title>
-    <desc lang="en">Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.</desc>
+    <desc lang="en">McFly's Harry Judd teases new music from the band, the latest soap gossip, and is Wayne Rooney heading for the I'm A Celeb jungle? Plus, the latest on Earl Spencer's book.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ea0fce54-5a65-44eb-9cdd-9403ff31753b/cover"/>
     <episode-num system="xmltv_ns">13.100.0</episode-num>
     <episode-num system="onscreen">S14E101</episode-num>
   </programme>
   <programme channel="ITV1West.uk" start="20260921090000 +0000" stop="20260921113000 +0000">
     <title lang="en">This Morning</title>
-    <desc lang="en">Magazine show with news and topical items, celebrity guests, expert advice, real-life stories, competitions and a mix of cookery, health, beauty, lifestyle and more.</desc>
+    <desc lang="en">We're catching up with boy band Blue, Nadine Baggott has the best viral beauty buys, John is cooking up a perfect midweek pasta dish, and Sian Welby has the latest showbiz gossip.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c0f678ea-ac25-49af-9576-558c23104c45/cover"/>
     <episode-num system="xmltv_ns">37.185.0</episode-num>
     <episode-num system="onscreen">S38E186</episode-num>
@@ -42158,13 +42141,10 @@
     <episode-num system="xmltv_ns">11.22.0</episode-num>
     <episode-num system="onscreen">S12E23</episode-num>
   </programme>
-  <programme channel="ITV1West.uk" start="20260923223000 +0000" stop="20260923232000 +0000">
-    <title lang="en">New: The Rainmaker</title>
-    <desc lang="en">Thrilling crime drama series adaptation of John Grisham's novel of the same name. Worried about Melvin's threat, Rudy defies Bruiser and risks his job and future as Dot's attorney.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/96b7ee39-2eda-42fa-9f8c-c502b1dc9a91/cover"/>
-    <premiere/>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
+  <programme channel="ITV1West.uk" start="20260923223000 +0000" stop="20260923230000 +0000">
+    <title lang="en">The Assembly: Unseen</title>
+    <desc lang="en">Unseen: This episode features unseen questions from The Assembly's grillings of David Tennant, Gary Lineker, Danny Dyer and Jade alongside more revelations from the interviewed stars.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/027b6c62-bfe5-43e5-b056-6a5dce49a71a/cover"/>
   </programme>
   <programme channel="ITV1WestCountry.uk" start="20260920211500 +0000" stop="20260920224500 +0000">
     <title lang="en">70 Up</title>
@@ -42220,14 +42200,14 @@
   </programme>
   <programme channel="ITV1WestCountry.uk" start="20260921083000 +0000" stop="20260921090000 +0000">
     <title lang="en">Lorraine</title>
-    <desc lang="en">Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.</desc>
+    <desc lang="en">McFly's Harry Judd teases new music from the band, the latest soap gossip, and is Wayne Rooney heading for the I'm A Celeb jungle? Plus, the latest on Earl Spencer's book.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ea0fce54-5a65-44eb-9cdd-9403ff31753b/cover"/>
     <episode-num system="xmltv_ns">13.100.0</episode-num>
     <episode-num system="onscreen">S14E101</episode-num>
   </programme>
   <programme channel="ITV1WestCountry.uk" start="20260921090000 +0000" stop="20260921113000 +0000">
     <title lang="en">This Morning</title>
-    <desc lang="en">Magazine show with news and topical items, celebrity guests, expert advice, real-life stories, competitions and a mix of cookery, health, beauty, lifestyle and more.</desc>
+    <desc lang="en">We're catching up with boy band Blue, Nadine Baggott has the best viral beauty buys, John is cooking up a perfect midweek pasta dish, and Sian Welby has the latest showbiz gossip.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c0f678ea-ac25-49af-9576-558c23104c45/cover"/>
     <episode-num system="xmltv_ns">37.185.0</episode-num>
     <episode-num system="onscreen">S38E186</episode-num>
@@ -42631,13 +42611,10 @@
     <episode-num system="xmltv_ns">11.22.0</episode-num>
     <episode-num system="onscreen">S12E23</episode-num>
   </programme>
-  <programme channel="ITV1WestCountry.uk" start="20260923223000 +0000" stop="20260923232000 +0000">
-    <title lang="en">New: The Rainmaker</title>
-    <desc lang="en">Thrilling crime drama series adaptation of John Grisham's novel of the same name. Worried about Melvin's threat, Rudy defies Bruiser and risks his job and future as Dot's attorney.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/96b7ee39-2eda-42fa-9f8c-c502b1dc9a91/cover"/>
-    <premiere/>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
+  <programme channel="ITV1WestCountry.uk" start="20260923223000 +0000" stop="20260923230000 +0000">
+    <title lang="en">The Assembly: Unseen</title>
+    <desc lang="en">Unseen: This episode features unseen questions from The Assembly's grillings of David Tennant, Gary Lineker, Danny Dyer and Jade alongside more revelations from the interviewed stars.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/9af302ee-840a-4f4a-9c65-15c6d8671f58/cover"/>
   </programme>
   <programme channel="ITV1YorkshireEast.uk" start="20260920211500 +0000" stop="20260920224500 +0000">
     <title lang="en">70 Up</title>
@@ -43104,13 +43081,10 @@
     <episode-num system="xmltv_ns">11.22.0</episode-num>
     <episode-num system="onscreen">S12E23</episode-num>
   </programme>
-  <programme channel="ITV1YorkshireEast.uk" start="20260923223000 +0000" stop="20260923232000 +0000">
-    <title lang="en">New: The Rainmaker</title>
-    <desc lang="en">Thrilling crime drama series adaptation of John Grisham's novel of the same name. Worried about Melvin's threat, Rudy defies Bruiser and risks his job and future as Dot's attorney.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/96b7ee39-2eda-42fa-9f8c-c502b1dc9a91/cover"/>
-    <premiere/>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
+  <programme channel="ITV1YorkshireEast.uk" start="20260923223000 +0000" stop="20260923230000 +0000">
+    <title lang="en">The Assembly: Unseen</title>
+    <desc lang="en">Unseen: This episode features unseen questions from The Assembly's grillings of David Tennant, Gary Lineker, Danny Dyer and Jade alongside more revelations from the interviewed stars.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/005763f8-cfe2-48ec-b38b-a35a99b51466/cover"/>
   </programme>
   <programme channel="ITV1YorkshireWest.uk" start="20260920211500 +0000" stop="20260920224500 +0000">
     <title lang="en">70 Up</title>
@@ -43577,13 +43551,10 @@
     <episode-num system="xmltv_ns">11.22.0</episode-num>
     <episode-num system="onscreen">S12E23</episode-num>
   </programme>
-  <programme channel="ITV1YorkshireWest.uk" start="20260923223000 +0000" stop="20260923232000 +0000">
-    <title lang="en">New: The Rainmaker</title>
-    <desc lang="en">Thrilling crime drama series adaptation of John Grisham's novel of the same name. Worried about Melvin's threat, Rudy defies Bruiser and risks his job and future as Dot's attorney.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/96b7ee39-2eda-42fa-9f8c-c502b1dc9a91/cover"/>
-    <premiere/>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
+  <programme channel="ITV1YorkshireWest.uk" start="20260923223000 +0000" stop="20260923230000 +0000">
+    <title lang="en">The Assembly: Unseen</title>
+    <desc lang="en">Unseen: This episode features unseen questions from The Assembly's grillings of David Tennant, Gary Lineker, Danny Dyer and Jade alongside more revelations from the interviewed stars.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/e31117f7-1780-454d-837a-20e59217a427/cover"/>
   </programme>
   <programme channel="ITV2.uk" start="20260920211500 +0000" stop="20260920220500 +0000">
     <title lang="en">New: Big Brother: The Group Chat</title>
