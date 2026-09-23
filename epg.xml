@@ -608,7 +608,7 @@
   </programme>
   <programme channel="sky.main.uk" start="20260924110000 +0000" stop="20260924193000 +0000">
     <title lang="en">Live 2nd ODI: England v Sri Lanka</title>
-    <desc lang="en">England welcome Sri Lanka to Headingley for the second ODI in a three-match series.</desc>
+    <desc lang="en">England welcome Sri Lanka to Headingley for the second ODI in a three-match series. A Will Jacks five-for helped England on their way to an 89-run victory in the opener.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0f13e9e5-fccf-42b8-85c3-d07dab7ebbd3/cover"/>
   </programme>
   <programme channel="sky.main.uk" start="20260924193000 +0000" stop="20260924230000 +0000">
@@ -3329,15 +3329,20 @@
     <desc lang="en">Two decades on from his British racecourse debut, two-time Champion Jockey William Buick reflects on the standout moments from his glittering career in the saddle.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7a073944-17af-46a4-9602-054e79914f44/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20260924094500 +0000" stop="20260924150000 +0000">
+  <programme channel="sky.racing.uk" start="20260924094500 +0000" stop="20260924120000 +0000">
+    <title lang="en">International Raceday Live</title>
+    <desc lang="en">Live French racing from Teste Buch and Compiegne as well as a double header of greyhound racing. A look ahead to this evening's Flat card from Southwell</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/c1ca2b92-2f26-4169-bd3c-2b8f243c89aa/cover"/>
+  </programme>
+  <programme channel="sky.racing.uk" start="20260924120000 +0000" stop="20260924150000 +0000">
     <title lang="en">International Raceday Live</title>
     <desc lang="en">Live French racing from Teste Buch and Compiegne as well as a double header of greyhound racing. A look ahead to this evening's Flat card from Southwell</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c1ca2b92-2f26-4169-bd3c-2b8f243c89aa/cover"/>
   </programme>
   <programme channel="sky.racing.uk" start="20260924150000 +0000" stop="20260924200000 +0000">
-    <title lang="en">International Raceday Live</title>
-    <desc lang="en">Live French racing from Teste Buch and Compiegne as well as a double header of greyhound racing. A look ahead to this evening's Flat card from Southwell</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c1ca2b92-2f26-4169-bd3c-2b8f243c89aa/cover"/>
+    <title lang="en">Raceday Live</title>
+    <desc lang="en">Live Racing: John Blance brings you All-Weather racing from Southwell with Simon Mapletoft alongside selected US action.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/52b9d5ef-6c94-4386-8ce9-368dbed76487/cover"/>
   </programme>
   <programme channel="sky.racing.uk" start="20260924200000 +0000" stop="20260924213000 +0000">
     <title lang="en">Stateside Live</title>
@@ -3364,22 +3369,27 @@
     <desc lang="en">Live Australian racing from Lismore, Scone, Ewan and Coleraine.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e96740d0-ab59-4ed9-8d2f-ff05a783a366/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20260925060000 +0000" stop="20260925090000 +0000">
+  <programme channel="sky.racing.uk" start="20260925060000 +0000" stop="20260925080000 +0000">
     <title lang="en">Sky Sports Breakfast</title>
     <desc lang="en">Stay across the biggest sports stories this morning with a wrap-up of the headlines.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/432da79c-fab0-4290-a948-c730944b7b0f/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20260925090000 +0000" stop="20260925121500 +0000">
+  <programme channel="sky.racing.uk" start="20260925080000 +0000" stop="20260925084500 +0000">
+    <title lang="en">20 Years of William Buick</title>
+    <desc lang="en">Two decades on from his British racecourse debut, two-time Champion Jockey William Buick reflects on the standout moments from his glittering career in the saddle.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7a073944-17af-46a4-9602-054e79914f44/cover"/>
+  </programme>
+  <programme channel="sky.racing.uk" start="20260925084500 +0000" stop="20260925113000 +0000">
     <title lang="en">International Raceday Live</title>
     <desc lang="en">Live French racing from Salon Provence and St Cloud as well as greyhounds from Hove. A look ahead to today's UK racing</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e249e031-f3c8-442d-87a6-0e8404903225/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20260925121500 +0000" stop="20260925200000 +0000">
+  <programme channel="sky.racing.uk" start="20260925113000 +0000" stop="20260925200000 +0000">
     <title lang="en">Raceday Live</title>
     <desc lang="en">Live Racing: Sean Boyce and Mick Fitzgerald bring you jumps action from Worcester with Josh Apiafi reporting. Evening card from Newcastle with Vanessa Ryle</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c16747d5-a725-4f80-90ec-7b9f3093f90b/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20260925200000 +0000" stop="20260926010000 +0000">
+  <programme channel="sky.racing.uk" start="20260925200000 +0000" stop="20260926000000 +0000">
     <title lang="en">Stateside Live</title>
     <desc lang="en">Live US racing from Laurel Park, Delaware, Churchill Downs, Gulfstream, Woodbine, Belmont, Santa Anita, Remington, Charles Town and Meadowlands</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2496744b-a7b7-43eb-99a3-bdc4f105a50b/cover"/>
@@ -3641,12 +3651,12 @@
   </programme>
   <programme channel="sky.mix.uk" start="20260924000000 +0000" stop="20260924020000 +0000">
     <title lang="en">Live WNBA: Dream @ Liberty</title>
-    <desc lang="en">New York Liberty take on the Atlanta Dream in the WNBA.</desc>
+    <desc lang="en">Closing in on a coveted top-four seed in the WNBA playoffs, Atlanta Dream look to lock in home-court advantage as they go up against New York Liberty for the second time this week.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c575dd17-b44e-4bde-969c-fcb4dc97a351/cover"/>
   </programme>
   <programme channel="sky.mix.uk" start="20260924020000 +0000" stop="20260924043000 +0000">
     <title lang="en">Live WNBA: Wings @ Storm</title>
-    <desc lang="en">The Seattle Storm face the Dallas Wings in the WNBA.</desc>
+    <desc lang="en">Tied for sixth place in the WNBA standings after a loss to Phoenix on Monday night, the Dallas Wings bring their regular-season campaign to an end in Seattle.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ca851acc-b3a6-4bf2-b57a-c9108e863acc/cover"/>
   </programme>
   <programme channel="sky.mix.uk" start="20260924043000 +0000" stop="20260924044500 +0000">
@@ -3797,12 +3807,12 @@
   </programme>
   <programme channel="sky.mix.uk" start="20260925000000 +0000" stop="20260925020000 +0000">
     <title lang="en">Live WNBA: Fever @ Lynx</title>
-    <desc lang="en">The Minnesota Lynx face the Indiana Fever in the WNBA.</desc>
+    <desc lang="en">The Minnesota Lynx and the Indiana Fever - both bound for the playoffs - in the WNBA. The Lynx clinched the number one seed on Tuesday after Golden State's defeat.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f3880c03-60ce-44c0-b3c9-564a371347f9/cover"/>
   </programme>
   <programme channel="sky.mix.uk" start="20260925020000 +0000" stop="20260925043000 +0000">
     <title lang="en">Live WNBA: Aces @ Mercury</title>
-    <desc lang="en">The Phoenix Mercury take on the Las Vegas Aces in the WNBA.</desc>
+    <desc lang="en">Having clinched the number three seed at the very least, Las Vegas Aces, riding a six-game winning streak, bring their regular season to a close in Phoenix.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a2f63455-ef07-4a99-b863-57c37ed0ac12/cover"/>
   </programme>
   <programme channel="sky.mix.uk" start="20260925043000 +0000" stop="20260925044500 +0000">
@@ -4163,7 +4173,7 @@
   </programme>
   <programme channel="sky.cricket.uk" start="20260924110000 +0000" stop="20260924193000 +0000">
     <title lang="en">Live 2nd ODI: England v Sri Lanka</title>
-    <desc lang="en">England welcome Sri Lanka to Headingley for the second ODI in a three-match series.</desc>
+    <desc lang="en">England welcome Sri Lanka to Headingley for the second ODI in a three-match series. A Will Jacks five-for helped England on their way to an 89-run victory in the opener.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0f13e9e5-fccf-42b8-85c3-d07dab7ebbd3/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20260924193000 +0000" stop="20260924194500 +0000">
@@ -4177,9 +4187,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/5d180d49-f435-4e90-8a9e-0d78017980c6/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20260924200000 +0000" stop="20260924210000 +0000">
-    <title lang="en">1st ODI: England v Sri Lanka Hlts</title>
-    <desc lang="en">Swept aside in the 20-over portion of their tour, Sri Lanka move on to Chester-le-Street for the opening ODI in a three-match series with Brendon McCullum's England. (22.09)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/758d37f6-2764-4794-baa4-a4645f1458b5/cover"/>
+    <title lang="en">1st ODI SA v AUS Highlights</title>
+    <desc lang="en">Australia's tour of South Africa begins with the opening ODI in a three-match series. Australia are gearing up for the defence of their 50-over World Cup next year in South Africa. (24.09)</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/73153b8e-e52a-44e3-8f30-41742887d23b/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20260924210000 +0000" stop="20260924213000 +0000">
     <title lang="en">Nepal Climbing Cricket's Mountain</title>
@@ -4188,7 +4198,7 @@
   </programme>
   <programme channel="sky.cricket.uk" start="20260924213000 +0000" stop="20260924223000 +0000">
     <title lang="en">2nd ODI: England v Sri Lanka Hlts</title>
-    <desc lang="en">England welcome Sri Lanka to Headingley for the second ODI in a three-match series. (24.09)</desc>
+    <desc lang="en">England welcome Sri Lanka to Headingley for the second ODI in a three-match series. A Will Jacks five-for helped England on their way to an 89-run victory in the opener. (24.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/aff49e3b-552c-4d9b-bcee-935d4118d3b3/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20260924223000 +0000" stop="20260924230000 +0000">
@@ -4198,7 +4208,7 @@
   </programme>
   <programme channel="sky.cricket.uk" start="20260924230000 +0000" stop="20260925000000 +0000">
     <title lang="en">2nd ODI: England v Sri Lanka Hlts</title>
-    <desc lang="en">England welcome Sri Lanka to Headingley for the second ODI in a three-match series. (24.09)</desc>
+    <desc lang="en">England welcome Sri Lanka to Headingley for the second ODI in a three-match series. A Will Jacks five-for helped England on their way to an 89-run victory in the opener. (24.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/aff49e3b-552c-4d9b-bcee-935d4118d3b3/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20260925000000 +0000" stop="20260925003000 +0000">
@@ -4228,7 +4238,7 @@
   </programme>
   <programme channel="sky.cricket.uk" start="20260925060000 +0000" stop="20260925070000 +0000">
     <title lang="en">2nd ODI: England v Sri Lanka Hlts</title>
-    <desc lang="en">England welcome Sri Lanka to Headingley for the second ODI in a three-match series. (24.09)</desc>
+    <desc lang="en">England welcome Sri Lanka to Headingley for the second ODI in a three-match series. A Will Jacks five-for helped England on their way to an 89-run victory in the opener. (24.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/aff49e3b-552c-4d9b-bcee-935d4118d3b3/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20260925070000 +0000" stop="20260925073000 +0000">
@@ -4243,7 +4253,7 @@
   </programme>
   <programme channel="sky.cricket.uk" start="20260925080000 +0000" stop="20260925090000 +0000">
     <title lang="en">2nd ODI: England v Sri Lanka Hlts</title>
-    <desc lang="en">England welcome Sri Lanka to Headingley for the second ODI in a three-match series. (24.09)</desc>
+    <desc lang="en">England welcome Sri Lanka to Headingley for the second ODI in a three-match series. A Will Jacks five-for helped England on their way to an 89-run victory in the opener. (24.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/aff49e3b-552c-4d9b-bcee-935d4118d3b3/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20260925090000 +0000" stop="20260925100000 +0000">
@@ -4253,7 +4263,7 @@
   </programme>
   <programme channel="sky.cricket.uk" start="20260925100000 +0000" stop="20260925110000 +0000">
     <title lang="en">2nd ODI: England v Sri Lanka Hlts</title>
-    <desc lang="en">England welcome Sri Lanka to Headingley for the second ODI in a three-match series. (24.09)</desc>
+    <desc lang="en">England welcome Sri Lanka to Headingley for the second ODI in a three-match series. A Will Jacks five-for helped England on their way to an 89-run victory in the opener. (24.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/aff49e3b-552c-4d9b-bcee-935d4118d3b3/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20260925110000 +0000" stop="20260925120000 +0000">
@@ -4308,7 +4318,7 @@
   </programme>
   <programme channel="sky.cricket.uk" start="20260925200000 +0000" stop="20260925210000 +0000">
     <title lang="en">2nd ODI: England v Sri Lanka Hlts</title>
-    <desc lang="en">England welcome Sri Lanka to Headingley for the second ODI in a three-match series. (24.09)</desc>
+    <desc lang="en">England welcome Sri Lanka to Headingley for the second ODI in a three-match series. A Will Jacks five-for helped England on their way to an 89-run victory in the opener. (24.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/aff49e3b-552c-4d9b-bcee-935d4118d3b3/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20260925210000 +0000" stop="20260925220000 +0000">
@@ -4429,7 +4439,7 @@
   </programme>
   <programme channel="tnt1" start="20260923150000 +0000" stop="20260923153000 +0000">
     <title lang="en">T100 Triathlon World Tour Hlts</title>
-    <desc lang="en">Highlights from the French Riviera T100 Triathlon, featuring the men's elite race.</desc>
+    <desc lang="en">Highlights from the French Riviera T100 Triathlon, featuring the likes of Hayden Wilde, Jake Birtwhistle and Samuel Dickinson competing in the men's elite race.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3d5bbe8c-316a-43f8-9523-1cd031c5e1d0/cover"/>
   </programme>
   <programme channel="tnt1" start="20260923153000 +0000" stop="20260923163000 +0000">
@@ -4500,12 +4510,12 @@
   </programme>
   <programme channel="tnt1" start="20260923230000 +0000" stop="20260924020000 +0000">
     <title lang="en">Live MLB: Guardians @ Red Sox</title>
-    <desc lang="en">Action from Major League Baseball as Cleveland Guardians take on the Boston Red Sox at Fenway Park.</desc>
+    <desc lang="en">Action from Major League Baseball as Cleveland Guardians take on the Boston Red Sox at Fenway Park. The Guardians won 3-2 in the series opener.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9ea9ff64-e6cc-4481-a0cf-fe99958b3559/cover"/>
   </programme>
   <programme channel="tnt1" start="20260924020000 +0000" stop="20260924050000 +0000">
     <title lang="en">Live MLB: Astros @ Mariners</title>
-    <desc lang="en">Action from Major League Baseball as Seattle Mariners take on Houston Astros at T-Mobile Park.</desc>
+    <desc lang="en">Action from Major League Baseball as Seattle Mariners take on Houston Astros at T-Mobile Park. Can the Mariners bounce back from a 7-0 defeat in the first game?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6a3f9edb-29ee-4ebf-8da2-4e7b759cb7cd/cover"/>
   </programme>
   <programme channel="tnt1" start="20260924050000 +0000" stop="20260924051500 +0000">
@@ -4546,7 +4556,7 @@
   </programme>
   <programme channel="tnt1" start="20260924073000 +0000" stop="20260924080000 +0000">
     <title lang="en">T100 Triathlon World Tour Hlts</title>
-    <desc lang="en">Highlights from the French Riviera T100 Triathlon, featuring the men's elite race.</desc>
+    <desc lang="en">Highlights from the French Riviera T100 Triathlon, featuring the likes of Hayden Wilde, Jake Birtwhistle and Samuel Dickinson competing in the men's elite race.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3d5bbe8c-316a-43f8-9523-1cd031c5e1d0/cover"/>
   </programme>
   <programme channel="tnt1" start="20260924080000 +0000" stop="20260924083000 +0000">
@@ -4565,7 +4575,7 @@
   </programme>
   <programme channel="tnt1" start="20260924090000 +0000" stop="20260924110000 +0000">
     <title lang="en">Live AFLW: Geelong v Hawthorn</title>
-    <desc lang="en">Action from the AFLW as Geelong and Hawthorn go head-to-head.</desc>
+    <desc lang="en">After ending the Roos' record-breaking run, Hawthorn seek a third win on the spin as they go head-to-head with an in-form Geelong side at GMHBA Stadium.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2e68feb7-254d-47a9-a6e4-b5d7dd5b2709/cover"/>
   </programme>
   <programme channel="tnt1" start="20260924110000 +0000" stop="20260924111500 +0000">
@@ -4597,45 +4607,50 @@
     <desc lang="en">Action from the men's junior road race at the 2026 UCI Road World Championships in Montreal.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/59a73d7a-ce37-4d59-85e8-0eac32cfffaf/cover"/>
   </programme>
-  <programme channel="tnt1" start="20260924213000 +0000" stop="20260924220000 +0000">
+  <programme channel="tnt1" start="20260924213000 +0000" stop="20260924214500 +0000">
     <title lang="en">TNT Sports Reload</title>
     <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b991ad8c-1290-4d47-ac7c-2771ea8aa660/cover"/>
-    <episode-num system="xmltv_ns">25.37.0</episode-num>
-    <episode-num system="onscreen">S26E38</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/94a5a397-6c82-45c9-8716-e979f1010404/cover"/>
   </programme>
-  <programme channel="tnt1" start="20260924220000 +0000" stop="20260924223000 +0000">
+  <programme channel="tnt1" start="20260924214500 +0000" stop="20260924221500 +0000">
     <title lang="en">The Big Interview: Lewie Coyle</title>
     <desc lang="en">From a fruit-and-veg stall to leading his hometown club to the Premier League, Hull City captain Lewie Coyle reflects on a journey built on hard work.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d5e10aee-583d-4a26-9956-abe0d191686a/cover"/>
     <episode-num system="xmltv_ns">25.5.0</episode-num>
     <episode-num system="onscreen">S26E6</episode-num>
   </programme>
-  <programme channel="tnt1" start="20260924223000 +0000" stop="20260924230000 +0000">
+  <programme channel="tnt1" start="20260924221500 +0000" stop="20260924224500 +0000">
     <title lang="en">MLB Plays of the Week</title>
     <desc lang="en">This weekly MLB highlights show showcases the most exciting plays from the past week's matches.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/759f33b9-83c7-4d17-b472-ac6bd0d4138b/cover"/>
     <episode-num system="xmltv_ns">2025.24.0</episode-num>
     <episode-num system="onscreen">S2026E25</episode-num>
   </programme>
-  <programme channel="tnt1" start="20260924230000 +0000" stop="20260925020000 +0000">
-    <title lang="en">Live MLB: Rays @ Yankees</title>
-    <desc lang="en">Action from Major League Baseball as Tampa Bay Rays travel to Yankee Stadium to take on New York Yankees.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/872fbdc5-9783-45d6-96d4-765f6c3f9e88/cover"/>
+  <programme channel="tnt1" start="20260924224500 +0000" stop="20260925013000 +0000">
+    <title lang="en">Live MLB: Guardians @ Red Sox</title>
+    <desc lang="en">Action from Major League Baseball as Boston Red Sox face Cleveland Guardians.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8f813cdf-a932-478d-aadb-5580ec9de957/cover"/>
+  </programme>
+  <programme channel="tnt1" start="20260925013000 +0000" stop="20260925020000 +0000">
+    <title lang="en">TNT Sports Reload</title>
+    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/b991ad8c-1290-4d47-ac7c-2771ea8aa660/cover"/>
+    <episode-num system="xmltv_ns">25.37.0</episode-num>
+    <episode-num system="onscreen">S26E38</episode-num>
   </programme>
   <programme channel="tnt1" start="20260925020000 +0000" stop="20260925040000 +0000">
     <title lang="en">Live AFLW: Essendon v West Coast</title>
-    <desc lang="en">Action from the AFLW as Essendon face West Coast in round 7 at Windy Hill.</desc>
+    <desc lang="en">Essendon look to put a halt to their AFLW losing streak as they face an improving West Coast side at Windy Hill.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d9c45524-d9ba-47e4-99b7-f06eaf5d0548/cover"/>
   </programme>
   <programme channel="tnt1" start="20260925040000 +0000" stop="20260925060000 +0000">
     <title lang="en">Live AFLW: Bulldogs v P Adelaide</title>
-    <desc lang="en">Action from AFL Women's as Western Bulldogs take on Port Adelaide at Mission Whitten Oval.</desc>
+    <desc lang="en">Top-eight contenders Western Bulldogs seek back-to-back wins as they take on strugglers Port Adelaide at Mission Whitten Oval.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/71932c23-411a-4fe1-9022-9955b79e9976/cover"/>
   </programme>
   <programme channel="tnt1" start="20260925060000 +0000" stop="20260925080000 +0000">
     <title lang="en">Live AFLW: Carlton v Richmond</title>
-    <desc lang="en">Action from AFL Women's as Carlton face off against Richmond at Ikon Park.</desc>
+    <desc lang="en">Carlton aim to end their two-game losing run as they face off against top-eight hopefuls Richmond at Ikon Park.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2a85fda4-b8ef-4d7a-b70c-b92d1a0fed09/cover"/>
   </programme>
   <programme channel="tnt1" start="20260925080000 +0000" stop="20260925090000 +0000">
@@ -4647,7 +4662,7 @@
   </programme>
   <programme channel="tnt1" start="20260925090000 +0000" stop="20260925110000 +0000">
     <title lang="en">Live AFLW: Melbourne v N Melbourne</title>
-    <desc lang="en">Action from AFL Women's as Melbourne take on city rivals North Melbourne at Casey Fields.</desc>
+    <desc lang="en">Action from a huge game at the top end of the AFLW table as league leaders Melbourne take on city rivals North Melbourne at Casey Fields.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8c05aa50-87a6-4e1c-bf09-2d72d4a9a4f9/cover"/>
   </programme>
   <programme channel="tnt1" start="20260925110000 +0000" stop="20260925120000 +0000">
@@ -4859,7 +4874,7 @@
   </programme>
   <programme channel="tnt2" start="20260923200000 +0000" stop="20260923210000 +0000">
     <title lang="en">MotoGP Highlights: Austria 2026</title>
-    <desc lang="en">Highlights from 2026 MotoGP Grand Prix of Austria at the Red Bull Ring.</desc>
+    <desc lang="en">Highlights from 2026 MotoGP Grand Prix of Austria, where Pedro Acosta claimed a maiden victory at the Red Bull Ring.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c730459e-012a-4ce9-984c-f696b8b5baf3/cover"/>
   </programme>
   <programme channel="tnt2" start="20260923210000 +0000" stop="20260923213000 +0000">
@@ -4914,7 +4929,7 @@
   </programme>
   <programme channel="tnt2" start="20260924040000 +0000" stop="20260924043000 +0000">
     <title lang="en">T100 Triathlon World Tour Hlts</title>
-    <desc lang="en">Highlights from the French Riviera T100 Triathlon, featuring the men's elite race.</desc>
+    <desc lang="en">Highlights from the French Riviera T100 Triathlon, featuring the likes of Hayden Wilde, Jake Birtwhistle and Samuel Dickinson competing in the men's elite race.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3d5bbe8c-316a-43f8-9523-1cd031c5e1d0/cover"/>
   </programme>
   <programme channel="tnt2" start="20260924043000 +0000" stop="20260924050000 +0000">
@@ -4936,7 +4951,7 @@
   </programme>
   <programme channel="tnt2" start="20260924070000 +0000" stop="20260924080000 +0000">
     <title lang="en">MotoGP Highlights: Austria 2026</title>
-    <desc lang="en">Highlights from 2026 MotoGP Grand Prix of Austria at the Red Bull Ring.</desc>
+    <desc lang="en">Highlights from 2026 MotoGP Grand Prix of Austria, where Pedro Acosta claimed a maiden victory at the Red Bull Ring.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c730459e-012a-4ce9-984c-f696b8b5baf3/cover"/>
   </programme>
   <programme channel="tnt2" start="20260924080000 +0000" stop="20260924083000 +0000">
@@ -4992,12 +5007,16 @@
   <programme channel="tnt2" start="20260924153000 +0000" stop="20260924170000 +0000">
     <title lang="en">PL: Spurs v Aston Villa</title>
     <desc lang="en">Tottenham Hotspur and Aston Villa meet in a crucial clash, with both sides seeking their first Premier League win of the season ahead of the international break.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/14b37f97-dd37-44a3-8855-7a4cda876684/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/38bc526d-7466-455c-b423-772784e8d849/cover"/>
+    <episode-num system="xmltv_ns">2025.294.0</episode-num>
+    <episode-num system="onscreen">S2026E295</episode-num>
   </programme>
   <programme channel="tnt2" start="20260924170000 +0000" stop="20260924173000 +0000">
     <title lang="en">The Big Interview: Lewie Coyle</title>
     <desc lang="en">From a fruit-and-veg stall to leading his hometown club to the Premier League, Hull City captain Lewie Coyle reflects on a journey built on hard work.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a888830d-434a-4b30-b3b5-d97a7b222f7b/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/d5e10aee-583d-4a26-9956-abe0d191686a/cover"/>
+    <episode-num system="xmltv_ns">25.5.0</episode-num>
+    <episode-num system="onscreen">S26E6</episode-num>
   </programme>
   <programme channel="tnt2" start="20260924173000 +0000" stop="20260924180000 +0000">
     <title lang="en">PL Stories: Granit Xhaka</title>
@@ -5041,7 +5060,7 @@
   </programme>
   <programme channel="tnt2" start="20260924213000 +0000" stop="20260924220000 +0000">
     <title lang="en">T100 Triathlon World Tour Hlts</title>
-    <desc lang="en">Highlights from the French Riviera T100 Triathlon, featuring the men's elite race.</desc>
+    <desc lang="en">Highlights from the French Riviera T100 Triathlon, featuring the likes of Hayden Wilde, Jake Birtwhistle and Samuel Dickinson competing in the men's elite race.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3d5bbe8c-316a-43f8-9523-1cd031c5e1d0/cover"/>
   </programme>
   <programme channel="tnt2" start="20260924220000 +0000" stop="20260924223000 +0000">
@@ -5082,7 +5101,7 @@
   </programme>
   <programme channel="tnt2" start="20260925033000 +0000" stop="20260925040000 +0000">
     <title lang="en">T100 Triathlon World Tour Hlts</title>
-    <desc lang="en">Highlights from the French Riviera T100 Triathlon, featuring the men's elite race.</desc>
+    <desc lang="en">Highlights from the French Riviera T100 Triathlon, featuring the likes of Hayden Wilde, Jake Birtwhistle and Samuel Dickinson competing in the men's elite race.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3d5bbe8c-316a-43f8-9523-1cd031c5e1d0/cover"/>
   </programme>
   <programme channel="tnt2" start="20260925040000 +0000" stop="20260925050000 +0000">
@@ -5327,7 +5346,7 @@
   </programme>
   <programme channel="tnt3" start="20260923193000 +0000" stop="20260923200000 +0000">
     <title lang="en">T100 Triathlon World Tour Hlts</title>
-    <desc lang="en">Highlights from the French Riviera T100 Triathlon, featuring the men's elite race.</desc>
+    <desc lang="en">Highlights from the French Riviera T100 Triathlon, featuring the likes of Hayden Wilde, Jake Birtwhistle and Samuel Dickinson competing in the men's elite race.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3d5bbe8c-316a-43f8-9523-1cd031c5e1d0/cover"/>
   </programme>
   <programme channel="tnt3" start="20260923200000 +0000" stop="20260923230000 +0000">
@@ -5360,12 +5379,12 @@
   <programme channel="tnt3" start="20260924050000 +0000" stop="20260924063000 +0000">
     <title lang="en">AFL: Sydney Swans v Fremantle</title>
     <desc lang="en">Australian Football League action from the Preliminary final between The Swans and The Dockers at the SCG.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/96476c26-678f-4fbd-8050-763f8b60b70e/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/ca0c6c66-7475-4683-b042-bfb697b409bb/cover"/>
   </programme>
   <programme channel="tnt3" start="20260924063000 +0000" stop="20260924080000 +0000">
     <title lang="en">AFL: Hawthorn v Brisbane Lions</title>
     <desc lang="en">Australian Football League action from the second preliminary final between Hawthorn and Brisbane Lions at the MCG.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/aa29edff-141c-4177-8ced-dc8ccf2958f6/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/aa885adf-bcaf-401a-9c6e-37a60b64f426/cover"/>
   </programme>
   <programme channel="tnt3" start="20260924080000 +0000" stop="20260924083000 +0000">
     <title lang="en">CPL Highlights</title>
@@ -5407,8 +5426,8 @@
   </programme>
   <programme channel="tnt3" start="20260924134500 +0000" stop="20260924144500 +0000">
     <title lang="en">MotoGP Highlights: Austria 2026</title>
-    <desc lang="en">Highlights from 2026 MotoGP Grand Prix of Austria at the Red Bull Ring.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/379d0f8b-32dd-433e-84bc-d373228cdec3/cover"/>
+    <desc lang="en">Highlights from 2026 MotoGP Grand Prix of Austria, where Pedro Acosta claimed a maiden victory at the Red Bull Ring.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/c730459e-012a-4ce9-984c-f696b8b5baf3/cover"/>
   </programme>
   <programme channel="tnt3" start="20260924144500 +0000" stop="20260924154500 +0000">
     <title lang="en">British Superbikes Highlights</title>
@@ -5462,7 +5481,7 @@
   </programme>
   <programme channel="tnt3" start="20260924233000 +0000" stop="20260925003000 +0000">
     <title lang="en">MotoGP Highlights: Austria 2026</title>
-    <desc lang="en">Highlights from 2026 MotoGP Grand Prix of Austria at the Red Bull Ring.</desc>
+    <desc lang="en">Highlights from 2026 MotoGP Grand Prix of Austria, where Pedro Acosta claimed a maiden victory at the Red Bull Ring.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c730459e-012a-4ce9-984c-f696b8b5baf3/cover"/>
   </programme>
   <programme channel="tnt3" start="20260925003000 +0000" stop="20260925013000 +0000">
@@ -5553,7 +5572,7 @@
   </programme>
   <programme channel="tnt3" start="20260925103000 +0000" stop="20260925110000 +0000">
     <title lang="en">T100 Triathlon World Tour Hlts</title>
-    <desc lang="en">Highlights from the French Riviera T100 Triathlon, featuring the men's elite race.</desc>
+    <desc lang="en">Highlights from the French Riviera T100 Triathlon, featuring the likes of Hayden Wilde, Jake Birtwhistle and Samuel Dickinson competing in the men's elite race.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3d5bbe8c-316a-43f8-9523-1cd031c5e1d0/cover"/>
   </programme>
   <programme channel="tnt3" start="20260925110000 +0000" stop="20260925111500 +0000">
@@ -5587,7 +5606,7 @@
   </programme>
   <programme channel="tnt3" start="20260925210000 +0000" stop="20260925220000 +0000">
     <title lang="en">MotoGP Highlights: Austria 2026</title>
-    <desc lang="en">Highlights from 2026 MotoGP Grand Prix of Austria at the Red Bull Ring.</desc>
+    <desc lang="en">Highlights from 2026 MotoGP Grand Prix of Austria, where Pedro Acosta claimed a maiden victory at the Red Bull Ring.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c730459e-012a-4ce9-984c-f696b8b5baf3/cover"/>
   </programme>
   <programme channel="tnt3" start="20260925220000 +0000" stop="20260925230000 +0000">
@@ -5895,7 +5914,7 @@
   <programme channel="tnt4" start="20260925053000 +0000" stop="20260925060000 +0000">
     <title lang="en">CPL Highlights</title>
     <desc lang="en">Highlights from the Caribbean Premier League final as Moeen Ali's Antigua and Barbuda Falcons take on Rovman Powell's Jamaica Kingsmen at Kensington Oval.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c769669a-df55-4361-81a0-e11b6c7e423b/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/ab138ba3-1e7f-4a20-b4cf-a16b529dd53b/cover"/>
   </programme>
   <programme channel="tnt4" start="20260925060000 +0000" stop="20260925061500 +0000">
     <title lang="en">TNT Sports Reload</title>
@@ -7242,7 +7261,9 @@
   <programme channel="5Select.uk" start="20260924000500 +0000" stop="20260924010500 +0000">
     <title lang="en">Dogs Behaving (Very) Badly...</title>
     <desc lang="en">...What Happened Next? Graeme Hall meets Labrador party animals Winston and Harland, whose non-stop shenanigans are out of control. In Bath, Graeme meets Lupo who's going loco again.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d048ea16-b7be-4c4c-8bcd-e84c8f75a3ce/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/ed4726f0-36bc-4d50-bdaa-dedb2857e959/cover"/>
+    <episode-num system="xmltv_ns">6.14.0</episode-num>
+    <episode-num system="onscreen">S7E15</episode-num>
   </programme>
   <programme channel="5Select.uk" start="20260924010500 +0000" stop="20260924021000 +0000">
     <title lang="en">Dogs Behaving (Very) Badly</title>
@@ -10504,27 +10525,37 @@
   <programme channel="BBCAlba.uk" start="20260925160000 +0000" stop="20260925161000 +0000">
     <title lang="en">Na Clangairean</title>
     <desc lang="en">9/52. Tha sìol bho chraobh gu math sònraicht' air tuiteam às na speuran. Ach de th' ann? Seed from a very special tree has fallen from the sky. But what is it?</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/28fc2ef2-7d6e-4433-a82a-de8b2aef6884/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/2456b746-54be-3516-9365-5ac02092bddb/cover"/>
+    <episode-num system="xmltv_ns">0.8.0</episode-num>
+    <episode-num system="onscreen">S1E9</episode-num>
   </programme>
   <programme channel="BBCAlba.uk" start="20260925161000 +0000" stop="20260925162000 +0000">
     <title lang="en">Losgannan/Froglets</title>
     <desc lang="en">17/26. Ziff, Pipp and Button get creative with empty toilet rolls and turn into Froggie robots!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b2ff96f7-bad0-418e-b4b8-42fe754563a0/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/f2c5a6be-3a08-409d-8999-49b77507e639/cover"/>
+    <episode-num system="xmltv_ns">0.16.0</episode-num>
+    <episode-num system="onscreen">S1E17</episode-num>
   </programme>
   <programme channel="BBCAlba.uk" start="20260925162000 +0000" stop="20260925162500 +0000">
     <title lang="en">Creag nam Buthaidean/Puffin Rock</title>
     <desc lang="en">31/39. Tha Silky a' lorg eich-mhara sna lòin-creige. Preschool animation. Silky finds a pair of seahorses in a rock pool and decides that she will look after them.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/5218d881-e695-40f6-a698-dfd8853a2899/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/0f789440-1c14-47a8-a9b7-bed113d28511/cover"/>
+    <episode-num system="xmltv_ns">0.30.0</episode-num>
+    <episode-num system="onscreen">S1E31</episode-num>
   </programme>
   <programme channel="BBCAlba.uk" start="20260925162500 +0000" stop="20260925163500 +0000">
     <title lang="en">Creag nam Buthaidean/Puffin Rock</title>
     <desc lang="en">32/39. In Mossy's quest to warm up he manages to annoy Flynne, who angrily chases the little shrew around the rock! However, an accident turns matters on their head.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/47f53682-e5fc-4ba8-991b-00ba32b33024/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/bcc6d711-61d3-4ef4-ad75-8ba1825f32e3/cover"/>
+    <episode-num system="xmltv_ns">0.31.0</episode-num>
+    <episode-num system="onscreen">S1E32</episode-num>
   </programme>
   <programme channel="BBCAlba.uk" start="20260925163500 +0000" stop="20260925164000 +0000">
     <title lang="en">Peataichean/Pets</title>
     <desc lang="en">8/15. Eilidh Cormack meets young pet owners who share how they care for pets at home. In this episode, Eilidh is joined by Findlay and Lachlan, and their pet dogs Maisie and Lola.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/044602b8-1cfa-4464-8ecb-0e1a34e94a29/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/6262e72f-a014-4866-ab79-136cccde8419/cover"/>
+    <episode-num system="xmltv_ns">0.7.0</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
   </programme>
   <programme channel="BBCAlba.uk" start="20260925164000 +0000" stop="20260925165000 +0000">
     <title lang="en">Abadas</title>
@@ -10571,7 +10602,7 @@
   <programme channel="BBCAlba.uk" start="20260925175000 +0000" stop="20260925180000 +0000">
     <title lang="en">Seonaidh/Shaun the Sheep</title>
     <desc lang="en">18/30. Everyone is getting ready to watch a football match when a toy plane hits the TV aerial. Bitzer is sent to fix the problem.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/98fbdfec-818f-4dfb-a39a-98f78bbbc323/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/278667ca-e391-4920-ac22-c2dd15a98093/cover"/>
   </programme>
   <programme channel="BBCAlba.uk" start="20260925180000 +0000" stop="20260925182500 +0000">
     <title lang="en">An Là</title>
@@ -10614,12 +10645,16 @@
   <programme channel="BBCAlba.uk" start="20260925212500 +0000" stop="20260925221500 +0000">
     <title lang="en">Coin Trusaidh/Muster Dogs</title>
     <desc lang="en">4/5. At ten months the dogs have hit puberty, and are starting to show some new teenage rebelliousness.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/ab37de47-5493-4be8-8b8d-a90029370610/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/f587c95f-d021-31c0-b3f5-0f02fa82500d/cover"/>
+    <episode-num system="xmltv_ns">1.3.0</episode-num>
+    <episode-num system="onscreen">S2E4</episode-num>
   </programme>
   <programme channel="BBCAlba.uk" start="20260925221500 +0000" stop="20260925230000 +0000">
     <title lang="en">Belladrum 2025 - Kassidy</title>
     <desc lang="en">6/30. Còmhlan indie rock à Alba, Kassidy air Àrd-Ùrlar a' Ghàrraidh air là 1 de Belladrum 2025. Scottish indie rockers Kassidy play the Garden Stage on day one. Contains strong language.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/40013e45-b347-4a56-b7a1-93588bbce2c6/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/2bfe9852-99ec-464b-b219-6fbd5067942b/cover"/>
+    <episode-num system="xmltv_ns">2024.5.0</episode-num>
+    <episode-num system="onscreen">S2025E6</episode-num>
   </programme>
   <programme channel="BBCFourHD.uk" start="20260922210000 +0000" stop="20260922220000 +0000">
     <title lang="en">The Beginning and End of the Universe</title>
@@ -11390,7 +11425,7 @@
   </programme>
   <programme channel="BBCNews.uk" start="20260924200000 +0000" stop="20260924210000 +0000">
     <title lang="en">Question Time</title>
-    <desc lang="en">Fiona Bruce presents an hour of topical debate.</desc>
+    <desc lang="en">Fiona Bruce presents an hour of topical debate from Cambridge. On the panel are Jonathan Reynolds, Helen Whately, Andrew Neil, Josh Babarinde and Ash Sarkar.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3c268cb2-1a31-4683-95a8-bb9ec22e6078/cover"/>
     <episode-num system="xmltv_ns">2025.20.0</episode-num>
     <episode-num system="onscreen">S2026E21</episode-num>
@@ -11786,7 +11821,7 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260923180000 +0000" stop="20260923183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Clara Amfo bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Coleen and Wayne Rooney and author Harlan Coben join Alex and JB on the sofa, plus Matt is here with Watchdog.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d0d50639-91af-47c1-8f25-19023a8ab0c2/cover"/>
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260923183000 +0000" stop="20260923190000 +0000">
@@ -11973,7 +12008,7 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20260924214000 +0000" stop="20260924224000 +0000">
     <title lang="en">Question Time</title>
-    <desc lang="en">Fiona Bruce presents an hour of topical debate.</desc>
+    <desc lang="en">Fiona Bruce presents an hour of topical debate from Cambridge. On the panel are Jonathan Reynolds, Helen Whately, Andrew Neil, Josh Babarinde and Ash Sarkar.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3c268cb2-1a31-4683-95a8-bb9ec22e6078/cover"/>
     <episode-num system="xmltv_ns">2025.20.0</episode-num>
     <episode-num system="onscreen">S2026E21</episode-num>
@@ -12249,7 +12284,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20260923180000 +0000" stop="20260923183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Clara Amfo bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Coleen and Wayne Rooney and author Harlan Coben join Alex and JB on the sofa, plus Matt is here with Watchdog.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d0d50639-91af-47c1-8f25-19023a8ab0c2/cover"/>
   </programme>
   <programme channel="BBCOneEast.uk" start="20260923183000 +0000" stop="20260923190000 +0000">
@@ -12436,7 +12471,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20260924214000 +0000" stop="20260924224000 +0000">
     <title lang="en">Question Time</title>
-    <desc lang="en">Fiona Bruce presents an hour of topical debate.</desc>
+    <desc lang="en">Fiona Bruce presents an hour of topical debate from Cambridge. On the panel are Jonathan Reynolds, Helen Whately, Andrew Neil, Josh Babarinde and Ash Sarkar.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3c268cb2-1a31-4683-95a8-bb9ec22e6078/cover"/>
     <episode-num system="xmltv_ns">2025.20.0</episode-num>
     <episode-num system="onscreen">S2026E21</episode-num>
@@ -12712,7 +12747,7 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260923180000 +0000" stop="20260923183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Clara Amfo bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Coleen and Wayne Rooney and author Harlan Coben join Alex and JB on the sofa, plus Matt is here with Watchdog.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d0d50639-91af-47c1-8f25-19023a8ab0c2/cover"/>
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260923183000 +0000" stop="20260923190000 +0000">
@@ -12899,7 +12934,7 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20260924214000 +0000" stop="20260924224000 +0000">
     <title lang="en">Question Time</title>
-    <desc lang="en">Fiona Bruce presents an hour of topical debate.</desc>
+    <desc lang="en">Fiona Bruce presents an hour of topical debate from Cambridge. On the panel are Jonathan Reynolds, Helen Whately, Andrew Neil, Josh Babarinde and Ash Sarkar.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3c268cb2-1a31-4683-95a8-bb9ec22e6078/cover"/>
     <episode-num system="xmltv_ns">2025.20.0</episode-num>
     <episode-num system="onscreen">S2026E21</episode-num>
@@ -13175,7 +13210,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260923180000 +0000" stop="20260923183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Clara Amfo bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Coleen and Wayne Rooney and author Harlan Coben join Alex and JB on the sofa, plus Matt is here with Watchdog.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d0d50639-91af-47c1-8f25-19023a8ab0c2/cover"/>
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260923183000 +0000" stop="20260923190000 +0000">
@@ -13362,7 +13397,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20260924214000 +0000" stop="20260924224000 +0000">
     <title lang="en">Question Time</title>
-    <desc lang="en">Fiona Bruce presents an hour of topical debate.</desc>
+    <desc lang="en">Fiona Bruce presents an hour of topical debate from Cambridge. On the panel are Jonathan Reynolds, Helen Whately, Andrew Neil, Josh Babarinde and Ash Sarkar.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3c268cb2-1a31-4683-95a8-bb9ec22e6078/cover"/>
     <episode-num system="xmltv_ns">2025.20.0</episode-num>
     <episode-num system="onscreen">S2026E21</episode-num>
@@ -13638,7 +13673,7 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260923180000 +0000" stop="20260923183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Clara Amfo bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Coleen and Wayne Rooney and author Harlan Coben join Alex and JB on the sofa, plus Matt is here with Watchdog.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d0d50639-91af-47c1-8f25-19023a8ab0c2/cover"/>
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260923183000 +0000" stop="20260923190000 +0000">
@@ -13825,7 +13860,7 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20260924214000 +0000" stop="20260924224000 +0000">
     <title lang="en">Question Time</title>
-    <desc lang="en">Fiona Bruce presents an hour of topical debate.</desc>
+    <desc lang="en">Fiona Bruce presents an hour of topical debate from Cambridge. On the panel are Jonathan Reynolds, Helen Whately, Andrew Neil, Josh Babarinde and Ash Sarkar.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3c268cb2-1a31-4683-95a8-bb9ec22e6078/cover"/>
     <episode-num system="xmltv_ns">2025.20.0</episode-num>
     <episode-num system="onscreen">S2026E21</episode-num>
@@ -14101,7 +14136,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260923180000 +0000" stop="20260923183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Clara Amfo bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Coleen and Wayne Rooney and author Harlan Coben join Alex and JB on the sofa, plus Matt is here with Watchdog.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d0d50639-91af-47c1-8f25-19023a8ab0c2/cover"/>
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260923183000 +0000" stop="20260923190000 +0000">
@@ -14288,7 +14323,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20260924214000 +0000" stop="20260924224000 +0000">
     <title lang="en">Question Time</title>
-    <desc lang="en">Fiona Bruce presents an hour of topical debate.</desc>
+    <desc lang="en">Fiona Bruce presents an hour of topical debate from Cambridge. On the panel are Jonathan Reynolds, Helen Whately, Andrew Neil, Josh Babarinde and Ash Sarkar.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3c268cb2-1a31-4683-95a8-bb9ec22e6078/cover"/>
     <episode-num system="xmltv_ns">2025.20.0</episode-num>
     <episode-num system="onscreen">S2026E21</episode-num>
@@ -14559,7 +14594,7 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260923180000 +0000" stop="20260923183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Clara Amfo bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Coleen and Wayne Rooney and author Harlan Coben join Alex and JB on the sofa, plus Matt is here with Watchdog.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d0d50639-91af-47c1-8f25-19023a8ab0c2/cover"/>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260923183000 +0000" stop="20260923190000 +0000">
@@ -14751,7 +14786,7 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260924222000 +0000" stop="20260924232000 +0000">
     <title lang="en">Question Time</title>
-    <desc lang="en">Fiona Bruce presents an hour of topical debate.</desc>
+    <desc lang="en">Fiona Bruce presents an hour of topical debate from Cambridge. On the panel are Jonathan Reynolds, Helen Whately, Andrew Neil, Josh Babarinde and Ash Sarkar.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3c268cb2-1a31-4683-95a8-bb9ec22e6078/cover"/>
     <episode-num system="xmltv_ns">2025.20.0</episode-num>
     <episode-num system="onscreen">S2026E21</episode-num>
@@ -14848,10 +14883,15 @@
     <desc lang="en">The latest national and international news from the BBC.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/628e3ad8-2b4b-42fa-8c6d-0433f3f1a930/cover"/>
   </programme>
-  <programme channel="BBCOneNorthernIreland.uk" start="20260925173000 +0000" stop="20260925180000 +0000">
+  <programme channel="BBCOneNorthernIreland.uk" start="20260925173000 +0000" stop="20260925175500 +0000">
     <title lang="en">BBC Newsline</title>
     <desc lang="en">Local news from across Northern Ireland with Tara Mills and Declan Harvey.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/553a114c-8c42-4a35-a51e-80ede5c163a4/cover"/>
+  </programme>
+  <programme channel="BBCOneNorthernIreland.uk" start="20260925175500 +0000" stop="20260925180000 +0000">
+    <title lang="en">Party Political Broadcast</title>
+    <desc lang="en">A party political broadcast by the Ulster Unionist Party.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/b69571c8-5e69-49a5-8b1e-84b7393a9668/cover"/>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20260925180000 +0000" stop="20260925183000 +0000">
     <title lang="en">The One Show</title>
@@ -15027,7 +15067,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260923180000 +0000" stop="20260923183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Clara Amfo bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Coleen and Wayne Rooney and author Harlan Coben join Alex and JB on the sofa, plus Matt is here with Watchdog.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d0d50639-91af-47c1-8f25-19023a8ab0c2/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260923183000 +0000" stop="20260923190000 +0000">
@@ -15210,7 +15250,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260924214000 +0000" stop="20260924224000 +0000">
     <title lang="en">Question Time</title>
-    <desc lang="en">Fiona Bruce presents an hour of topical debate.</desc>
+    <desc lang="en">Fiona Bruce presents an hour of topical debate from Cambridge. On the panel are Jonathan Reynolds, Helen Whately, Andrew Neil, Josh Babarinde and Ash Sarkar.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3c268cb2-1a31-4683-95a8-bb9ec22e6078/cover"/>
     <episode-num system="xmltv_ns">2025.20.0</episode-num>
     <episode-num system="onscreen">S2026E21</episode-num>
@@ -15498,7 +15538,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260923180000 +0000" stop="20260923183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Clara Amfo bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Coleen and Wayne Rooney and author Harlan Coben join Alex and JB on the sofa, plus Matt is here with Watchdog.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d0d50639-91af-47c1-8f25-19023a8ab0c2/cover"/>
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260923183000 +0000" stop="20260923190000 +0000">
@@ -15685,7 +15725,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20260924214000 +0000" stop="20260924224000 +0000">
     <title lang="en">Question Time</title>
-    <desc lang="en">Fiona Bruce presents an hour of topical debate.</desc>
+    <desc lang="en">Fiona Bruce presents an hour of topical debate from Cambridge. On the panel are Jonathan Reynolds, Helen Whately, Andrew Neil, Josh Babarinde and Ash Sarkar.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3c268cb2-1a31-4683-95a8-bb9ec22e6078/cover"/>
     <episode-num system="xmltv_ns">2025.20.0</episode-num>
     <episode-num system="onscreen">S2026E21</episode-num>
@@ -15961,7 +16001,7 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260923180000 +0000" stop="20260923183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Clara Amfo bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Coleen and Wayne Rooney and author Harlan Coben join Alex and JB on the sofa, plus Matt is here with Watchdog.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d0d50639-91af-47c1-8f25-19023a8ab0c2/cover"/>
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260923183000 +0000" stop="20260923190000 +0000">
@@ -16148,7 +16188,7 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20260924214000 +0000" stop="20260924224000 +0000">
     <title lang="en">Question Time</title>
-    <desc lang="en">Fiona Bruce presents an hour of topical debate.</desc>
+    <desc lang="en">Fiona Bruce presents an hour of topical debate from Cambridge. On the panel are Jonathan Reynolds, Helen Whately, Andrew Neil, Josh Babarinde and Ash Sarkar.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3c268cb2-1a31-4683-95a8-bb9ec22e6078/cover"/>
     <episode-num system="xmltv_ns">2025.20.0</episode-num>
     <episode-num system="onscreen">S2026E21</episode-num>
@@ -16424,7 +16464,7 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260923180000 +0000" stop="20260923183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Clara Amfo bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Coleen and Wayne Rooney and author Harlan Coben join Alex and JB on the sofa, plus Matt is here with Watchdog.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d0d50639-91af-47c1-8f25-19023a8ab0c2/cover"/>
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260923183000 +0000" stop="20260923190000 +0000">
@@ -16611,7 +16651,7 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20260924214000 +0000" stop="20260924224000 +0000">
     <title lang="en">Question Time</title>
-    <desc lang="en">Fiona Bruce presents an hour of topical debate.</desc>
+    <desc lang="en">Fiona Bruce presents an hour of topical debate from Cambridge. On the panel are Jonathan Reynolds, Helen Whately, Andrew Neil, Josh Babarinde and Ash Sarkar.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3c268cb2-1a31-4683-95a8-bb9ec22e6078/cover"/>
     <episode-num system="xmltv_ns">2025.20.0</episode-num>
     <episode-num system="onscreen">S2026E21</episode-num>
@@ -16892,7 +16932,7 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20260923180000 +0000" stop="20260923183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Clara Amfo bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Coleen and Wayne Rooney and author Harlan Coben join Alex and JB on the sofa, plus Matt is here with Watchdog.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d0d50639-91af-47c1-8f25-19023a8ab0c2/cover"/>
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20260923183000 +0000" stop="20260923190000 +0000">
@@ -17069,7 +17109,7 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20260924214000 +0000" stop="20260924224000 +0000">
     <title lang="en">Question Time</title>
-    <desc lang="en">Fiona Bruce presents an hour of topical debate.</desc>
+    <desc lang="en">Fiona Bruce presents an hour of topical debate from Cambridge. On the panel are Jonathan Reynolds, Helen Whately, Andrew Neil, Josh Babarinde and Ash Sarkar.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3c268cb2-1a31-4683-95a8-bb9ec22e6078/cover"/>
     <episode-num system="xmltv_ns">2025.20.0</episode-num>
     <episode-num system="onscreen">S2026E21</episode-num>
@@ -17350,7 +17390,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20260923180000 +0000" stop="20260923183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Clara Amfo bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Coleen and Wayne Rooney and author Harlan Coben join Alex and JB on the sofa, plus Matt is here with Watchdog.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d0d50639-91af-47c1-8f25-19023a8ab0c2/cover"/>
   </programme>
   <programme channel="BBCOneWest.uk" start="20260923183000 +0000" stop="20260923190000 +0000">
@@ -17537,7 +17577,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20260924214000 +0000" stop="20260924224000 +0000">
     <title lang="en">Question Time</title>
-    <desc lang="en">Fiona Bruce presents an hour of topical debate.</desc>
+    <desc lang="en">Fiona Bruce presents an hour of topical debate from Cambridge. On the panel are Jonathan Reynolds, Helen Whately, Andrew Neil, Josh Babarinde and Ash Sarkar.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3c268cb2-1a31-4683-95a8-bb9ec22e6078/cover"/>
     <episode-num system="xmltv_ns">2025.20.0</episode-num>
     <episode-num system="onscreen">S2026E21</episode-num>
@@ -17813,7 +17853,7 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260923180000 +0000" stop="20260923183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Clara Amfo bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Coleen and Wayne Rooney and author Harlan Coben join Alex and JB on the sofa, plus Matt is here with Watchdog.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d0d50639-91af-47c1-8f25-19023a8ab0c2/cover"/>
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260923183000 +0000" stop="20260923190000 +0000">
@@ -18000,7 +18040,7 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20260924214000 +0000" stop="20260924224000 +0000">
     <title lang="en">Question Time</title>
-    <desc lang="en">Fiona Bruce presents an hour of topical debate.</desc>
+    <desc lang="en">Fiona Bruce presents an hour of topical debate from Cambridge. On the panel are Jonathan Reynolds, Helen Whately, Andrew Neil, Josh Babarinde and Ash Sarkar.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3c268cb2-1a31-4683-95a8-bb9ec22e6078/cover"/>
     <episode-num system="xmltv_ns">2025.20.0</episode-num>
     <episode-num system="onscreen">S2026E21</episode-num>
@@ -18276,7 +18316,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260923180000 +0000" stop="20260923183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Clara Amfo bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Coleen and Wayne Rooney and author Harlan Coben join Alex and JB on the sofa, plus Matt is here with Watchdog.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d0d50639-91af-47c1-8f25-19023a8ab0c2/cover"/>
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260923183000 +0000" stop="20260923190000 +0000">
@@ -18463,7 +18503,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20260924214000 +0000" stop="20260924224000 +0000">
     <title lang="en">Question Time</title>
-    <desc lang="en">Fiona Bruce presents an hour of topical debate.</desc>
+    <desc lang="en">Fiona Bruce presents an hour of topical debate from Cambridge. On the panel are Jonathan Reynolds, Helen Whately, Andrew Neil, Josh Babarinde and Ash Sarkar.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3c268cb2-1a31-4683-95a8-bb9ec22e6078/cover"/>
     <episode-num system="xmltv_ns">2025.20.0</episode-num>
     <episode-num system="onscreen">S2026E21</episode-num>
@@ -18739,7 +18779,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260923180000 +0000" stop="20260923183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Clara Amfo bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Coleen and Wayne Rooney and author Harlan Coben join Alex and JB on the sofa, plus Matt is here with Watchdog.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d0d50639-91af-47c1-8f25-19023a8ab0c2/cover"/>
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260923183000 +0000" stop="20260923190000 +0000">
@@ -18926,7 +18966,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20260924214000 +0000" stop="20260924224000 +0000">
     <title lang="en">Question Time</title>
-    <desc lang="en">Fiona Bruce presents an hour of topical debate.</desc>
+    <desc lang="en">Fiona Bruce presents an hour of topical debate from Cambridge. On the panel are Jonathan Reynolds, Helen Whately, Andrew Neil, Josh Babarinde and Ash Sarkar.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3c268cb2-1a31-4683-95a8-bb9ec22e6078/cover"/>
     <episode-num system="xmltv_ns">2025.20.0</episode-num>
     <episode-num system="onscreen">S2026E21</episode-num>
@@ -19129,7 +19169,7 @@
   <programme channel="BBCParliament.uk" start="20260923032000 +0000" stop="20260923042500 +0000">
     <title lang="en">Senedd Cymru - Welsh Parliament...</title>
     <desc lang="en">...- Programme for Government Statement. Statement by the first minister on his government's legislative and political priorities.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d8fb2eab-e8c1-41e8-b9ef-05853b4c459b/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/7376fe39-b3e0-4ad4-ac1c-1b3d715bb984/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260923042500 +0000" stop="20260923051500 +0000">
     <title lang="en">Senedd Cymru - Welsh Parliament...</title>
@@ -19139,7 +19179,7 @@
   <programme channel="BBCParliament.uk" start="20260923051500 +0000" stop="20260923060000 +0000">
     <title lang="en">Senedd Cymru - Welsh Parliament...</title>
     <desc lang="en">...- Counsel General Questions. Coverage of questions in the Senedd, the Welsh Parliament, to the counsel general, Wales' chief law officer, Elfyn Llwyd, on Tuesday 22 September.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c054e1b0-b295-4dc0-b463-fed5270f4e51/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/162fe8fe-3aef-432f-ac4e-85061f1b39a9/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260923060000 +0000" stop="20260923063000 +0000">
     <title lang="en">Senedd Cymru - Welsh Parliament - Business Statement</title>
@@ -19149,12 +19189,12 @@
   <programme channel="BBCParliament.uk" start="20260923063000 +0000" stop="20260923073000 +0000">
     <title lang="en">Senedd Cymru - Welsh Parliament...</title>
     <desc lang="en">...- Programme for Government Statement. Statement by the first minister on his government's legislative and political priorities.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9930c346-3953-48fc-aaf3-c4bc4c7a3350/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/7376fe39-b3e0-4ad4-ac1c-1b3d715bb984/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260923073000 +0000" stop="20260923081500 +0000">
     <title lang="en">Senedd Cymru - Welsh Parliament...</title>
     <desc lang="en">...- Welsh Defence Ethical Framework. Coverage of the statement in the Senedd on the Welsh Defence Ethical Framework.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b8cfdc66-e2b2-413b-8b10-f8bd9f8e27d9/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/7376fe39-b3e0-4ad4-ac1c-1b3d715bb984/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260923081500 +0000" stop="20260923085000 +0000">
     <title lang="en">Senedd Cymru - Welsh Parliament...</title>
@@ -19173,7 +19213,7 @@
   <programme channel="BBCParliament.uk" start="20260923094000 +0000" stop="20260923112000 +0000">
     <title lang="en">Public Accounts Committee on HS2</title>
     <desc lang="en">Coverage of the Public Accounts committee session on delivering HS2 and Euston, from Monday 14 September.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c7ccbbe0-23fe-4c82-95c7-204ce62ec48b/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/7b1e1187-0f5e-4b19-9281-8a1593bd60ca/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260923112000 +0000" stop="20260923130000 +0000">
     <title lang="en">Lords Constitution Committee</title>
@@ -27339,10 +27379,10 @@
   <programme channel="Channel5Plus1.uk" start="20260924200000 +0000" stop="20260924210000 +0000">
     <title lang="en">New: The Yorkshire Vet</title>
     <desc lang="en">Peter Wright's friend Bernie Slaven brings in Irish setter Cara who has developed a worrying growth on her lip. Rohin Aojula helps a cow that's become extremely wobbly on her feet.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/89627cac-f474-44e0-9e46-ef28617b5d79/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/818dd222-0e95-41d9-be06-a934c1634996/cover"/>
     <premiere/>
-    <episode-num system="xmltv_ns">22.5.0</episode-num>
-    <episode-num system="onscreen">S23E6</episode-num>
+    <episode-num system="xmltv_ns">22.6.0</episode-num>
+    <episode-num system="onscreen">S23E7</episode-num>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20260924210000 +0000" stop="20260924220000 +0000">
     <title lang="en">New: All Creatures Great and Small</title>
@@ -27395,11 +27435,6 @@
     <icon src="https://images.metadata.sky.com/pd-image/479bf040-3780-4531-8690-7216a37b986b/cover"/>
     <episode-num system="xmltv_ns">3.2.0</episode-num>
     <episode-num system="onscreen">S4E3</episode-num>
-  </programme>
-  <programme channel="Channel5Plus1.uk" start="20260925050000 +0000" stop="20260925051500 +0000">
-    <title lang="en">This is Channel 5 +1</title>
-    <desc lang="en">This is Channel 5 +1</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/6bab1630-9cbb-4caa-82c3-7450fcd3f845/cover"/>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20260925051500 +0000" stop="20260925052500 +0000">
     <title lang="en">Entertainment News on 5</title>
@@ -27663,12 +27698,9 @@
     <episode-num system="onscreen">S2E1</episode-num>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20260925220000 +0000" stop="20260926000500 +0000">
-    <title lang="en">New: Piers Morgan: Uncensored</title>
-    <desc lang="en">The bold, opinion-led news and debate show hosted by Piers Morgan. Piers blends journalism, debates and cultural commentary that's unapologetically direct.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/24bab49b-032d-48c8-891d-7b16e77e6869/cover"/>
-    <premiere/>
-    <episode-num system="xmltv_ns">1.33.0</episode-num>
-    <episode-num system="onscreen">S2E34</episode-num>
+    <title lang="en">Piers vs Earl Spencer: An Uncensored Special</title>
+    <desc lang="en">After Earl Spencer's shocking claims, Piers Morgan is on the warpath. The gloves are off... this time it's personal.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/b3db4168-47a1-416c-a366-bcfa054f4350/cover"/>
   </programme>
   <programme channel="CNNInternational.uk" start="20260922213000 +0000" stop="20260922220000 +0000">
     <title lang="en">World Sport</title>
@@ -27979,16 +28011,10 @@
     <icon src="https://images.metadata.sky.com/pd-image/678bf37f-b461-4e83-b9b0-4ed3139d263d/cover"/>
     <premiere/>
   </programme>
-  <programme channel="CNNInternational.uk" start="20260924150000 +0000" stop="20260924153000 +0000">
+  <programme channel="CNNInternational.uk" start="20260924150000 +0000" stop="20260924160000 +0000">
     <title lang="en">One World</title>
     <desc lang="en">Thursday, September 24, 2026 11am ET. Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a27f3d9f-7c57-4d19-b05d-60c6415f8046/cover"/>
-    <premiere/>
-  </programme>
-  <programme channel="CNNInternational.uk" start="20260924153000 +0000" stop="20260924160000 +0000">
-    <title lang="en">CNN Creators</title>
-    <desc lang="en">Thursday, September 24, 2026 1130am ET.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/8282151d-67f5-4c99-a3ee-56a088e5b51f/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/283cb386-16d1-4943-9267-f65cc23043ae/cover"/>
     <premiere/>
   </programme>
   <programme channel="CNNInternational.uk" start="20260924160000 +0000" stop="20260924170000 +0000">
@@ -28158,10 +28184,16 @@
     <icon src="https://images.metadata.sky.com/pd-image/e69f752a-ce53-488d-8331-417d83230606/cover"/>
     <premiere/>
   </programme>
-  <programme channel="CNNInternational.uk" start="20260925150000 +0000" stop="20260925160000 +0000">
+  <programme channel="CNNInternational.uk" start="20260925150000 +0000" stop="20260925153000 +0000">
     <title lang="en">One World</title>
-    <desc lang="en">Friday, September 25, 2026 11am ET. Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/eed80adb-246d-4291-9ee7-46751fb2d01e/cover"/>
+    <desc lang="en">Thursday, September 24, 2026 11am ET. Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/0f1db80c-c2b3-4a43-9158-97387fca5dfc/cover"/>
+    <premiere/>
+  </programme>
+  <programme channel="CNNInternational.uk" start="20260925153000 +0000" stop="20260925160000 +0000">
+    <title lang="en">CNN Creators</title>
+    <desc lang="en">Thursday, September 24, 2026 1130am ET.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6d51ee11-eb92-41b5-9681-6b946d89709e/cover"/>
     <premiere/>
   </programme>
   <programme channel="CNNInternational.uk" start="20260925160000 +0000" stop="20260925170000 +0000">
@@ -43190,7 +43222,7 @@
     <episode-num system="xmltv_ns">4.1.0</episode-num>
     <episode-num system="onscreen">S5E2</episode-num>
   </programme>
-  <programme channel="ITV2.uk" start="20260923200000 +0000" stop="20260923210000 +0000">
+  <programme channel="ITV2.uk" start="20260923200000 +0000" stop="20260923211500 +0000">
     <title lang="en">New: Big Brother</title>
     <desc lang="en">Housemates live under 24-hour surveillance as they attempt to avoid eviction from the Big Brother house with the most unpopular housemates facing a public vote.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1f9f982f-8d74-4bdf-a7d7-052e8f73e477/cover"/>
@@ -43198,7 +43230,7 @@
     <episode-num system="xmltv_ns">3.9.0</episode-num>
     <episode-num system="onscreen">S4E10</episode-num>
   </programme>
-  <programme channel="ITV2.uk" start="20260923210000 +0000" stop="20260923220500 +0000">
+  <programme channel="ITV2.uk" start="20260923211500 +0000" stop="20260923220500 +0000">
     <title lang="en">New: Big Brother: The Group Chat</title>
     <desc lang="en">Get closer to the personalities at the heart of the show as Kate Lawler and GK Barry host exclusive interviews with evicted Housemates, celebrity fans and special guests.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ff61b051-cd0d-4226-b62b-e8ea4f1af7c6/cover"/>
@@ -43779,7 +43811,7 @@
     <episode-num system="xmltv_ns">4.1.0</episode-num>
     <episode-num system="onscreen">S5E2</episode-num>
   </programme>
-  <programme channel="ITV2Plus1.uk" start="20260923210000 +0000" stop="20260923220000 +0000">
+  <programme channel="ITV2Plus1.uk" start="20260923210000 +0000" stop="20260923221500 +0000">
     <title lang="en">New: Big Brother</title>
     <desc lang="en">Housemates live under 24-hour surveillance as they attempt to avoid eviction from the Big Brother house with the most unpopular housemates facing a public vote.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1f9f982f-8d74-4bdf-a7d7-052e8f73e477/cover"/>
@@ -43787,7 +43819,7 @@
     <episode-num system="xmltv_ns">3.9.0</episode-num>
     <episode-num system="onscreen">S4E10</episode-num>
   </programme>
-  <programme channel="ITV2Plus1.uk" start="20260923220000 +0000" stop="20260923230500 +0000">
+  <programme channel="ITV2Plus1.uk" start="20260923221500 +0000" stop="20260923230500 +0000">
     <title lang="en">New: Big Brother: The Group Chat</title>
     <desc lang="en">Get closer to the personalities at the heart of the show as Kate Lawler and GK Barry host exclusive interviews with evicted Housemates, celebrity fans and special guests.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ff61b051-cd0d-4226-b62b-e8ea4f1af7c6/cover"/>
