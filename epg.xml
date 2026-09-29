@@ -407,11 +407,6 @@
     <display-name lang="en">U&amp;Yesterday+1</display-name>
     <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/U%26YESTERDAYPlus1.png"></icon>
   </channel>
-  <programme channel="sky.main.uk" start="20260928170000 +0000" stop="20260928220000 +0000">
-    <title lang="en">Live World Grand Prix Darts D1</title>
-    <desc lang="en">Luke Littler's World Grand Prix title defence gets underway against Luke Woodhouse, while former champion Gerwyn Price plays debutant Sebastian Bialecki. Six-time winner MVG features.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/7c7fe66e-9bb9-484a-bfb2-d792ee637217/cover"/>
-  </programme>
   <programme channel="sky.main.uk" start="20260928220000 +0000" stop="20260928230000 +0000">
     <title lang="en">Sky Sports News</title>
     <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
@@ -504,30 +499,15 @@
     <episode-num system="xmltv_ns">2025.120.0</episode-num>
     <episode-num system="onscreen">S2026E121</episode-num>
   </programme>
-  <programme channel="sky.main.uk" start="20260929170000 +0000" stop="20260929220000 +0000">
+  <programme channel="sky.main.uk" start="20260929170000 +0000" stop="20260929220001 +0000">
     <title lang="en">Live World Grand Prix Darts D2</title>
     <desc lang="en">Round one draws to a close in Leicester as Luke Humphries begins his bid against Dave Chisnall, while Gian van Veen and Dirk van Duijvenbode collide. James Wade and Gary Anderson feature.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fb97ef6e-9fa9-4390-a6e2-01c6fc980f86/cover"/>
   </programme>
-  <programme channel="sky.main.uk" start="20260929220000 +0000" stop="20260929230000 +0000">
-    <title lang="en">Sky Sports News</title>
-    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/337bde5c-3431-4c16-944d-806f931bffe6/cover"/>
-  </programme>
-  <programme channel="sky.main.uk" start="20260929230000 +0000" stop="20260930000000 +0000">
-    <title lang="en">Sky Sports News</title>
-    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/337bde5c-3431-4c16-944d-806f931bffe6/cover"/>
-  </programme>
-  <programme channel="sky.main.uk" start="20260930000000 +0000" stop="20260930010000 +0000">
-    <title lang="en">Sky Sports News</title>
-    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/337bde5c-3431-4c16-944d-806f931bffe6/cover"/>
-  </programme>
-  <programme channel="sky.main.uk" start="20260930010000 +0000" stop="20260930020000 +0000">
-    <title lang="en">Sky Sports News</title>
-    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/337bde5c-3431-4c16-944d-806f931bffe6/cover"/>
+  <programme channel="sky.main.uk" start="20260929220001 +0000" stop="20260930020000 +0000">
+    <title lang="en">Manchester City: Guilty Verdict</title>
+    <desc lang="en">We bring you all the reaction to the huge news that Manchester City have been found guilty of breaching Premier League financial rules. The club deny wrongdoing.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/dca04f0d-0b78-4577-ad7f-af24fb808b6b/cover"/>
   </programme>
   <programme channel="sky.main.uk" start="20260930020000 +0000" stop="20260930030000 +0000">
     <title lang="en">Live: ATP Tokyo</title>
@@ -2915,58 +2895,58 @@
     <icon src="https://images.metadata.sky.com/pd-image/788ed40a-cde8-469e-884f-11c943fa11e6/cover"/>
   </programme>
   <programme channel="sky.news.uk" start="20260929190000 +0000" stop="20260929200000 +0000">
-    <title lang="en">Sports Centre</title>
-    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+    <title lang="en">Manchester City: Guilty Verdict</title>
+    <desc lang="en">We bring you all the reaction to the huge news that Manchester City have been found guilty of breaching Premier League financial rules. The club deny wrongdoing.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/788ed40a-cde8-469e-884f-11c943fa11e6/cover"/>
   </programme>
   <programme channel="sky.news.uk" start="20260929200000 +0000" stop="20260929210000 +0000">
-    <title lang="en">Sports Centre</title>
-    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+    <title lang="en">Manchester City: Guilty Verdict</title>
+    <desc lang="en">We bring you all the reaction to the huge news that Manchester City have been found guilty of breaching Premier League financial rules. The club deny wrongdoing.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/788ed40a-cde8-469e-884f-11c943fa11e6/cover"/>
   </programme>
   <programme channel="sky.news.uk" start="20260929210000 +0000" stop="20260929213000 +0000">
-    <title lang="en">SSN @ 10</title>
-    <desc lang="en">Join the Sky Sports News team for an evening round up of the day's biggest stories.</desc>
+    <title lang="en">Manchester City: Guilty Verdict</title>
+    <desc lang="en">We bring you all the reaction to the huge news that Manchester City have been found guilty of breaching Premier League financial rules. The club deny wrongdoing.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3b0b453f-b209-4bc0-919b-cea1e8252ce3/cover"/>
   </programme>
   <programme channel="sky.news.uk" start="20260929213000 +0000" stop="20260929220000 +0000">
-    <title lang="en">Paper Talk</title>
-    <desc lang="en">A look at the big stories dominating the news headlines, with discussion and analysis of sport's major topics.</desc>
+    <title lang="en">Manchester City: Guilty Verdict</title>
+    <desc lang="en">We bring you all the reaction to the huge news that Manchester City have been found guilty of breaching Premier League financial rules. The club deny wrongdoing.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1468cdd3-8d37-4771-9fa7-64a9385e43da/cover"/>
   </programme>
   <programme channel="sky.news.uk" start="20260929220000 +0000" stop="20260929230000 +0000">
-    <title lang="en">Sky Sports News</title>
-    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+    <title lang="en">Manchester City: Guilty Verdict</title>
+    <desc lang="en">We bring you all the reaction to the huge news that Manchester City have been found guilty of breaching Premier League financial rules. The club deny wrongdoing.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/337bde5c-3431-4c16-944d-806f931bffe6/cover"/>
   </programme>
   <programme channel="sky.news.uk" start="20260929230000 +0000" stop="20260930000000 +0000">
-    <title lang="en">Sky Sports News</title>
-    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+    <title lang="en">Manchester City: Guilty Verdict</title>
+    <desc lang="en">We bring you all the reaction to the huge news that Manchester City have been found guilty of breaching Premier League financial rules. The club deny wrongdoing.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/337bde5c-3431-4c16-944d-806f931bffe6/cover"/>
   </programme>
   <programme channel="sky.news.uk" start="20260930000000 +0000" stop="20260930010000 +0000">
-    <title lang="en">Sky Sports News</title>
-    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+    <title lang="en">Manchester City: Guilty Verdict</title>
+    <desc lang="en">We bring you all the reaction to the huge news that Manchester City have been found guilty of breaching Premier League financial rules. The club deny wrongdoing.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/337bde5c-3431-4c16-944d-806f931bffe6/cover"/>
   </programme>
   <programme channel="sky.news.uk" start="20260930010000 +0000" stop="20260930020000 +0000">
-    <title lang="en">Sky Sports News</title>
-    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+    <title lang="en">Manchester City: Guilty Verdict</title>
+    <desc lang="en">We bring you all the reaction to the huge news that Manchester City have been found guilty of breaching Premier League financial rules. The club deny wrongdoing.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/337bde5c-3431-4c16-944d-806f931bffe6/cover"/>
   </programme>
   <programme channel="sky.news.uk" start="20260930020000 +0000" stop="20260930030000 +0000">
-    <title lang="en">Sky Sports News</title>
-    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+    <title lang="en">Manchester City: Guilty Verdict</title>
+    <desc lang="en">We bring you all the reaction to the huge news that Manchester City have been found guilty of breaching Premier League financial rules. The club deny wrongdoing.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/337bde5c-3431-4c16-944d-806f931bffe6/cover"/>
   </programme>
   <programme channel="sky.news.uk" start="20260930030000 +0000" stop="20260930040000 +0000">
-    <title lang="en">Sky Sports News</title>
-    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+    <title lang="en">Manchester City: Guilty Verdict</title>
+    <desc lang="en">We bring you all the reaction to the huge news that Manchester City have been found guilty of breaching Premier League financial rules. The club deny wrongdoing.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/337bde5c-3431-4c16-944d-806f931bffe6/cover"/>
   </programme>
   <programme channel="sky.news.uk" start="20260930040000 +0000" stop="20260930050000 +0000">
-    <title lang="en">Sky Sports News</title>
-    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+    <title lang="en">Manchester City: Guilty Verdict</title>
+    <desc lang="en">We bring you all the reaction to the huge news that Manchester City have been found guilty of breaching Premier League financial rules. The club deny wrongdoing.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/337bde5c-3431-4c16-944d-806f931bffe6/cover"/>
   </programme>
   <programme channel="sky.news.uk" start="20260930050000 +0000" stop="20260930060000 +0000">
@@ -4650,7 +4630,7 @@
   <programme channel="tnt1" start="20261001174500 +0000" stop="20261001180000 +0000">
     <title lang="en">The Breakdown: Spurs</title>
     <desc lang="en">Danny Jamieson heads to the Tottenham Hotspur training ground to meet Head Coach Roberto De Zerbi, Sporting Director Johan Lange and Director of Football Operations Rafi Moersen.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b3c40817-19cf-4436-9b77-e3e89c0ac934/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/02b27405-8e3a-48db-99c2-dfa06fb58dfa/cover"/>
   </programme>
   <programme channel="tnt1" start="20261001180000 +0000" stop="20261001210000 +0000">
     <title lang="en">MLB</title>
@@ -5012,7 +4992,7 @@
   </programme>
   <programme channel="tnt2" start="20261001180000 +0000" stop="20261001190000 +0000">
     <title lang="en">MotoGP Breakdown Show</title>
-    <desc lang="en">Our experts analyse the latest action from the MotoGP.</desc>
+    <desc lang="en">We chart the rise of Ducati, exploring how it was transformed from an unrideable underdog into the most technologically dominant factory in MotoGP history.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f1906f45-82cc-49fd-be77-e7212318b466/cover"/>
   </programme>
   <programme channel="tnt2" start="20261001190000 +0000" stop="20261001200000 +0000">
@@ -6824,7 +6804,7 @@
   </programme>
   <programme channel="5Action.uk" start="20260930200000 +0000" stop="20260930213000 +0000">
     <title lang="en">Richard Madeley: Inside the World's Mega Prison</title>
-    <desc lang="en">Richard Madeley joins 40,000 brutal murderers and rapists in the world's mega jail, so could we learn anything from this extreme penal punishment in El Salvadore?</desc>
+    <desc lang="en">Richard Madeley joins 40,000 brutal murderers and rapists in the world's mega jail, so could we learn anything from this extreme penal punishment in El Salvador?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d39dc017-5e5c-4e5c-89a9-b177ec0cfcaa/cover"/>
   </programme>
   <programme channel="5Action.uk" start="20260930213000 +0000" stop="20260930223500 +0000">
@@ -11120,7 +11100,7 @@
   </programme>
   <programme channel="BBCNews.uk" start="20260929233000 +0000" stop="20260930000000 +0000">
     <title lang="en">Newscast</title>
-    <desc lang="en">Adam and Chris interview the Chancellor John Healey.</desc>
+    <desc lang="en">The Prime Minister lays out his plan for the country.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/dced9858-8c41-4143-b2f8-c29d8411cdd6/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20260930000000 +0000" stop="20260930003000 +0000">
@@ -15143,7 +15123,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260930005000 +0000" stop="20260930012000 +0000">
     <title lang="en">Scotcast</title>
-    <desc lang="en">Conversation about Scotland's biggest news stories, hosted by Martin Geissler.</desc>
+    <desc lang="en">Martin Geissler hears from The Promise's oversight board boss about government bureaucracy and delay.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/532a857c-7c01-4867-b777-252655991e23/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20260930012000 +0000" stop="20260930012500 +0000">
@@ -19378,79 +19358,152 @@
     <desc lang="en">Questions in the Senedd, the Welsh Parliament, to the first minister, Rhun ap Iorwerth, on Tuesday 29 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0d738a31-f4be-4ced-ae94-1d4ab69dd507/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260929133000 +0000" stop="20260929180000 +0000">
+  <programme channel="BBCParliament.uk" start="20260929133000 +0000" stop="20260929163000 +0000">
     <title lang="en">Live Senedd Cymru - Welsh Parliament</title>
     <desc lang="en">Coverage of proceedings in the Senedd, the Welsh Parliament, on Tuesday 29 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/11e3c99e-46af-4ff9-93f5-20dfae12c76f/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260929180000 +0000" stop="20260929182000 +0000">
+  <programme channel="BBCParliament.uk" start="20260929163000 +0000" stop="20260929170000 +0000">
+    <title lang="en">Northern Ireland Assembly - Members' Statements</title>
+    <desc lang="en">Coverage of MLAs in the Northern Ireland Assembly in Stormont making short statements to the chamber, on Tuesday 29 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/0f8f3093-562a-4839-9058-0ef3fe7117d3/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260929170000 +0000" stop="20260929171000 +0000">
+    <title lang="en">Northern Ireland Assembly - Water and Sewage Grants</title>
+    <desc lang="en">The debate on the Grants to Water and Sewerage Undertakers Order (Northern Ireland) 2027.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a2990556-1448-4cbd-b6a7-226624f48616/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260929171000 +0000" stop="20260929180500 +0000">
+    <title lang="en">Northern Ireland Assembly - Communities Questions</title>
+    <desc lang="en">Coverage of questions in the Northern Ireland Assembly in Stormont to the communities minister, Gordon Lyons, on Tuesday 29 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/b910bc6c-23de-43fb-899c-6b88c56c2b74/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260929180500 +0000" stop="20260929183000 +0000">
     <title lang="en">Scottish Parliament - General Questions</title>
     <desc lang="en">Coverage of questions to ministers in the Scottish government, on Tuesday 29 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/44bd5eff-939b-444a-9b01-9f4344ba5818/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260929182000 +0000" stop="20260929185000 +0000">
+  <programme channel="BBCParliament.uk" start="20260929183000 +0000" stop="20260929190000 +0000">
     <title lang="en">Scottish First Minister's Questions</title>
     <desc lang="en">Questions in the Scottish Parliament from backbench MSPs to John Swinney, the first minister, on Tuesday 29 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c19875d4-d676-41ca-b332-345ec363d58b/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260929185000 +0000" stop="20260929213000 +0000">
-    <title lang="en">Scottish Parliament</title>
-    <desc lang="en">Coverage of proceedings in the Scottish Parliament on Tuesday 29 September.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/fda04150-6e07-4582-9d59-0127f2d68183/cover"/>
+  <programme channel="BBCParliament.uk" start="20260929190000 +0000" stop="20260929194000 +0000">
+    <title lang="en">Scottish Parliament -...</title>
+    <desc lang="en">...Scotland's Law Officers Statement. The statement by John Swinney on the roles and functions of Scotland's law officers.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1d89c884-5a87-4daa-850d-5f4cc859b024/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260929213000 +0000" stop="20260929223000 +0000">
+  <programme channel="BBCParliament.uk" start="20260929194000 +0000" stop="20260929214000 +0000">
+    <title lang="en">Scottish Parliament -...</title>
+    <desc lang="en">...Empowering Communities Debate. Coverage of the debate on empowering communities and strengthening local democracy.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/36751486-e860-4811-ad4e-0c7631a8334e/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260929214000 +0000" stop="20260929224000 +0000">
+    <title lang="en">Scottish Parliament - Breast...</title>
+    <desc lang="en">...Cancer Now Wear It Pink Day. Coverage of the debate in the Scottish Parliament to mark Breast Cancer Now Wear It Pink Day 2026, on Tuesday 29 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8e3b5bb6-4633-4cac-9f7f-2fdf461e9039/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260929224000 +0000" stop="20260929234500 +0000">
     <title lang="en">Welsh First Minister's Questions</title>
     <desc lang="en">Questions in the Senedd, the Welsh Parliament, to the first minister, Rhun ap Iorwerth, on Tuesday 29 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0d738a31-f4be-4ced-ae94-1d4ab69dd507/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260929223000 +0000" stop="20260930010000 +0000">
-    <title lang="en">Northern Ireland Assembly</title>
-    <desc lang="en">Coverage of proceedings in the Northern Ireland Assembly, including members' statements, on Tuesday 29 September.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/50ba961b-3aae-4aaf-93d0-583cfc28dcb6/cover"/>
+  <programme channel="BBCParliament.uk" start="20260929234500 +0000" stop="20260930001500 +0000">
+    <title lang="en">Northern Ireland Assembly - Members' Statements</title>
+    <desc lang="en">Coverage of MLAs in the Northern Ireland Assembly in Stormont making short statements to the chamber, on Tuesday 29 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/08074c87-bea4-4c21-b13a-b59e4cdc6f3c/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260930010000 +0000" stop="20260930012000 +0000">
+  <programme channel="BBCParliament.uk" start="20260930001500 +0000" stop="20260930002500 +0000">
+    <title lang="en">Northern Ireland Assembly - Water and Sewage Grants</title>
+    <desc lang="en">The debate on the Grants to Water and Sewerage Undertakers Order (Northern Ireland) 2027.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7e33ad2b-44ee-496e-9302-1bcb56af1383/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260930002500 +0000" stop="20260930012000 +0000">
+    <title lang="en">Northern Ireland Assembly - Communities Questions</title>
+    <desc lang="en">Coverage of questions in the Northern Ireland Assembly in Stormont to the communities minister, Gordon Lyons, on Tuesday 29 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/126a62a4-a7e8-4e13-bab2-fc0713ec4e09/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260930012000 +0000" stop="20260930014500 +0000">
     <title lang="en">Scottish Parliament - General Questions</title>
     <desc lang="en">Coverage of questions to ministers in the Scottish government, on Tuesday 29 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/44bd5eff-939b-444a-9b01-9f4344ba5818/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260930012000 +0000" stop="20260930015000 +0000">
+  <programme channel="BBCParliament.uk" start="20260930014500 +0000" stop="20260930022000 +0000">
     <title lang="en">Scottish First Minister's Questions</title>
     <desc lang="en">Questions in the Scottish Parliament from backbench MSPs to John Swinney, the first minister, on Tuesday 29 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c19875d4-d676-41ca-b332-345ec363d58b/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260930015000 +0000" stop="20260930043000 +0000">
-    <title lang="en">Scottish Parliament</title>
-    <desc lang="en">Coverage of proceedings in the Scottish Parliament on Tuesday 29 September.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/fda04150-6e07-4582-9d59-0127f2d68183/cover"/>
+  <programme channel="BBCParliament.uk" start="20260930022000 +0000" stop="20260930025000 +0000">
+    <title lang="en">Scottish Parliament -...</title>
+    <desc lang="en">...Scotland's Law Officers Statement. The statement by John Swinney on the roles and functions of Scotland's law officers.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d9ab8eae-4be8-44f5-99ab-288f238ae88b/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260930043000 +0000" stop="20260930090000 +0000">
-    <title lang="en">Senedd Cymru - Welsh Parliament</title>
-    <desc lang="en">Coverage of proceedings in the Senedd, the Welsh Parliament, on Tuesday 29 September.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/11e3c99e-46af-4ff9-93f5-20dfae12c76f/cover"/>
+  <programme channel="BBCParliament.uk" start="20260930025000 +0000" stop="20260930045500 +0000">
+    <title lang="en">Scottish Parliament -...</title>
+    <desc lang="en">...Empowering Communities Debate. Coverage of the debate on empowering communities and strengthening local democracy.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/816656cf-9908-4184-ab77-224adeac3f18/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260930090000 +0000" stop="20260930130000 +0000">
-    <title lang="en">Select Committees</title>
-    <desc lang="en">Recorded coverage of select committee proceedings.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/07899c1f-9325-4780-ab43-d0e17c70418c/cover"/>
+  <programme channel="BBCParliament.uk" start="20260930045500 +0000" stop="20260930050000 +0000">
+    <title lang="en">This is BBC Parliament</title>
+    <desc lang="en">The top political and parliamentary stories from BBC News.</desc>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260930130000 +0000" stop="20260930163000 +0000">
+  <programme channel="BBCParliament.uk" start="20260930050000 +0000" stop="20260930053000 +0000">
+    <title lang="en">Senedd Cymru - Senedd Business Statement</title>
+    <desc lang="en">Coverage of the business statement in the Senedd, the Welsh Parliament outlining upcoming business in the chamber, on Tuesday 29 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d287c5c5-27bb-4288-8016-a66f617e0a17/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260930053000 +0000" stop="20260930061000 +0000">
+    <title lang="en">Senedd Cymru - Escalation and Intervention Framework</title>
+    <desc lang="en">Statement on the Escalation and Intervention Framework, covering the work of NHS Wales.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7b535519-5503-4c3d-9955-76b3abb0a538/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260930061000 +0000" stop="20260930061500 +0000">
+    <title lang="en">This is BBC Parliament</title>
+    <desc lang="en">The top political and parliamentary stories from BBC News.</desc>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260930061500 +0000" stop="20260930070000 +0000">
+    <title lang="en">Senedd Cymru - National Development Framework</title>
+    <desc lang="en">Statement on the revision of the National Development Framework and National Conversation.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1016e3eb-5fee-4a53-9fa5-d360e1cec73d/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260930070000 +0000" stop="20260930080000 +0000">
+    <title lang="en">Senedd Cymru - Bliss Baby Charter</title>
+    <desc lang="en">Coverage of the statement in the Senedd, the Welsh Parliament, on the progress towards the Bliss Baby Charter, which deals with the standards of neonatal units, on Tuesday 29 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/33752c79-d0e7-407c-aa08-7bab01a72551/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260930080000 +0000" stop="20260930090500 +0000">
+    <title lang="en">Welsh First Minister's Questions</title>
+    <desc lang="en">Questions in the Senedd, the Welsh Parliament, to the first minister, Rhun ap Iorwerth, on Tuesday 29 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/af6fd1c0-3a97-4b0e-9f86-878bd47606bd/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260930090500 +0000" stop="20260930111000 +0000">
+    <title lang="en">Edtech and Artificial Intelligence Committee</title>
+    <desc lang="en">The Education committee on the use of artificial intelligence and EdTech in England.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/baf877d9-d6ec-46e7-a10d-be129654a7fb/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260930111000 +0000" stop="20260930130000 +0000">
+    <title lang="en">Lords Science and Technology Committee on ARIA</title>
+    <desc lang="en">Coverage of the Lords Science and Technology select committee session on the work of the Advanced Research and Invention Agency (ARIA), on Tuesday 8 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/2e426045-6eeb-4b4a-86dd-51d82ea00edc/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20260930130000 +0000" stop="20260930173000 +0000">
     <title lang="en">Live Scottish Parliament</title>
-    <desc lang="en">Coverage of the day's proceedings in the Scottish Parliament on Wednesday 30 September.</desc>
+    <desc lang="en">Coverage of portfolio questions to Scottish ministers covering social justice and housing and on economy, tourism and transport, and more, on Wednesday 30 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/51dd0e9a-260f-45fe-95cc-056ae9a9be70/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20260930163000 +0000" stop="20260930220000 +0000">
+  <programme channel="BBCParliament.uk" start="20260930173000 +0000" stop="20260930220000 +0000">
     <title lang="en">Senedd Cymru - Welsh Parliament</title>
-    <desc lang="en">Coverage of proceedings in the Senedd, the Welsh Parliament, on Wednesday 30 September.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/ab4252e6-e121-4068-8788-829fd00cec98/cover"/>
+    <desc lang="en">Coverage of questions in the Senedd, followed by debates on contaminated land, the 20mph speed limit and on the defence sector, on Wednesday 30 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/60da0cfb-8a09-43ad-a564-732b603ebad5/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20260930220000 +0000" stop="20261001013000 +0000">
     <title lang="en">Scottish Parliament</title>
-    <desc lang="en">Coverage of the day's proceedings in the Scottish Parliament on Wednesday 30 September.</desc>
+    <desc lang="en">Coverage of portfolio questions to Scottish ministers covering social justice and housing and on economy, tourism and transport, and more, on Wednesday 30 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/51dd0e9a-260f-45fe-95cc-056ae9a9be70/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20261001013000 +0000" stop="20261001070000 +0000">
     <title lang="en">Senedd Cymru - Welsh Parliament</title>
-    <desc lang="en">Coverage of proceedings in the Senedd, the Welsh Parliament, on Wednesday 30 September.</desc>
+    <desc lang="en">Coverage of questions in the Senedd, followed by debates on contaminated land, the 20mph speed limit and on the defence sector, on Wednesday 30 September.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ab4252e6-e121-4068-8788-829fd00cec98/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20261001070000 +0000" stop="20261001074500 +0000">
@@ -19642,7 +19695,7 @@
   </programme>
   <programme channel="BBCScotland.uk" start="20260929220000 +0000" stop="20260929223000 +0000">
     <title lang="en">Scotcast</title>
-    <desc lang="en">Conversation about Scotland's biggest news stories, hosted by Martin Geissler.</desc>
+    <desc lang="en">Martin Geissler hears from The Promise's oversight board boss about government bureaucracy and delay.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/532a857c-7c01-4867-b777-252655991e23/cover"/>
   </programme>
   <programme channel="BBCScotland.uk" start="20260929223000 +0000" stop="20260929230000 +0000">
@@ -21529,24 +21582,24 @@
     <desc lang="en">Andy Burnham delivers his first speech to the Labour Party Conference in Liverpool as Prime Minister.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/cf806f2f-c2df-453e-8b3a-eadfecfbdc9e/cover"/>
   </programme>
-  <programme channel="BBCTwoWales.uk" start="20260929144500 +0000" stop="20260929154500 +0000">
+  <programme channel="BBCTwoWales.uk" start="20260929144500 +0000" stop="20260929151500 +0000">
+    <title lang="en">The Wonder of Animals</title>
+    <desc lang="en">12/12. Chris Packham explores what makes animal groups successful. What enables birds of prey, from peregrine falcons to bald eagles, to rule the aerial roost?</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/80913207-445b-4639-a012-8c9ccf9d7290/cover"/>
+    <episode-num system="xmltv_ns">0.11.0</episode-num>
+    <episode-num system="onscreen">S1E12</episode-num>
+  </programme>
+  <programme channel="BBCTwoWales.uk" start="20260929151500 +0000" stop="20260929161500 +0000">
     <title lang="en">First Minister's Questions</title>
     <desc lang="en">Full coverage of MSs' questions to the first minister from the Senedd in Cardiff Bay.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3f3b75c8-f37e-42fb-8e08-4bf8c603e35b/cover"/>
   </programme>
-  <programme channel="BBCTwoWales.uk" start="20260929154500 +0000" stop="20260929164500 +0000">
-    <title lang="en">South Pacific</title>
-    <desc lang="en">5/6. Documentary looking at the fauna of the South Pacific islands. Why do animals perfectly adapted to island life often give up the ghost when new species arrive?</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/54876e31-0907-4763-a2b7-ce27fba71d04/cover"/>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
-  <programme channel="BBCTwoWales.uk" start="20260929164500 +0000" stop="20260929170000 +0000">
+  <programme channel="BBCTwoWales.uk" start="20260929161500 +0000" stop="20260929170000 +0000">
     <title lang="en">Flog It!</title>
-    <desc lang="en">Members of the public try to make money out of their antiques. After valuation at Ashridge House, a splendid microscope is among the items that go to auction.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/dce3ebd6-0801-4be9-a8f5-e5a4bc5cb968/cover"/>
-    <episode-num system="xmltv_ns">11.0.0</episode-num>
-    <episode-num system="onscreen">S12E1</episode-num>
+    <desc lang="en">23/60. Paul Martin presents from Huddersfield in West Yorkshire. Experts Mark Stacey and Christina Trevanion are on hand to find a selection of objects to take to auction.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/397ab1b6-09ae-41c3-a25a-f9a9a49f6195/cover"/>
+    <episode-num system="xmltv_ns">15.22.0</episode-num>
+    <episode-num system="onscreen">S16E23</episode-num>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20260929170000 +0000" stop="20260929173000 +0000">
     <title lang="en">New: House of Games</title>
@@ -22725,7 +22778,7 @@
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20260929220000 +0000" stop="20260929230000 +0000">
     <title lang="en">Post Credits</title>
-    <desc lang="en">Post Credits is a bold new series on the decentralization of the entertainment industry and what happens when the Hollywood and creator economies collide.</desc>
+    <desc lang="en">Quincy joins Ian Schafer to discuss how New York or Nowhere turned a sense of identity and belonging into a business. S1, Ep4</desc>
     <icon src="https://images.metadata.sky.com/pd-image/91d78b88-bdb1-4a51-9fa4-3c977a6a230d/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20260929230000 +0000" stop="20260930010000 +0000">
@@ -22814,14 +22867,14 @@
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20260930220000 +0000" stop="20260930223000 +0000">
     <title lang="en">Quantum Marketing</title>
-    <desc lang="en">Airbnb Chief Experience Officer Hiroki Asai explains how the company seeks to drive deeper brand engagement through real-world experiences.</desc>
+    <desc lang="en">Airbnb Chief Experience Officer Hiroki Asai explains how the company seeks to drive deeper brand engagement through real-world experiences. S2, Ep2</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9e7a79cc-53ef-4abb-86d0-a75df5a893e0/cover"/>
     <episode-num system="xmltv_ns">2025.1.0</episode-num>
     <episode-num system="onscreen">S2026E2</episode-num>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20260930223000 +0000" stop="20260930230000 +0000">
     <title lang="en">Quantum Marketing</title>
-    <desc lang="en">Raja Rajamannar sits down with Lectric eBikes co-founders Levi Conlow and Robby Deziel to explore how marketing can move an emerging technology.</desc>
+    <desc lang="en">Raja Rajamannar sits down with Lectric eBikes co-founders Levi Conlow and Robby Deziel to explore how marketing can move an emerging technology. S2, Ep1</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9ec1024a-b505-45d7-9a86-849dcb9c6762/cover"/>
     <episode-num system="xmltv_ns">2025.0.0</episode-num>
     <episode-num system="onscreen">S2026E1</episode-num>
@@ -22919,9 +22972,6 @@
     <title lang="en">The Circuit</title>
     <desc lang="en">Meghan, the Duchess of Sussex. Meghan, the Duchess of Sussex, opens up in a wide-ranging interview about life beyond the royal spotlight and her latest ventures in business and entertainment. S3, Ep8</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ec23a38f-4a2f-4f6f-b119-2831acdda746/cover"/>
-  </programme>
-  <programme channel="CBBC.uk" start="20260928175800 +0000" stop="20260928235800 +0000">
-    <title lang="en">.programmes start at 7.00am</title>
   </programme>
   <programme channel="CBBC.uk" start="20260928235800 +0000" stop="20260929042959 +0000">
     <title lang="en">.programmes start at 7.00am</title>
@@ -23922,9 +23972,6 @@
   </programme>
   <programme channel="CBBC.uk" start="20261001175800 +0000" stop="20261001235800 +0000">
     <title lang="en">.programmes start at 7.00am</title>
-  </programme>
-  <programme channel="CBeebies.uk" start="20260928175800 +0000" stop="20260928235800 +0000">
-    <title lang="en">..programmes start at 6.00am</title>
   </programme>
   <programme channel="CBeebies.uk" start="20260928235800 +0000" stop="20260929042959 +0000">
     <title lang="en">..programmes start at 6.00am</title>
