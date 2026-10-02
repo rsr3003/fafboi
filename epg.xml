@@ -407,11 +407,6 @@
     <display-name lang="en">U&amp;Yesterday+1</display-name>
     <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/U%26YESTERDAYPlus1.png"></icon>
   </channel>
-  <programme channel="sky.main.uk" start="20261001180000 +0000" stop="20261001220000 +0000">
-    <title lang="en">Live World Grand Prix Darts D4</title>
-    <desc lang="en">Round two concludes in Leicester as 2023 champion Luke Humphries meets Jermaine Wattimena and two-time winner James Wade faces Stephen Bunting. Gian van Veen and Gary Anderson also feature.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c1c4f4c8-75c0-4134-95f0-e9b10e4b7f06/cover"/>
-  </programme>
   <programme channel="sky.main.uk" start="20261001220000 +0000" stop="20261001230000 +0000">
     <title lang="en">Sky Sports News</title>
     <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
@@ -441,6 +436,8 @@
     <title lang="en">Lost Grounds</title>
     <desc lang="en">In the hunt for lost grounds, we ask: why is there a North Korean monument in Middlesbrough and which ground stood frozen in time? With visits to the Baseball Ground and Filbert Street.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1b11b0b8-eedc-4671-adbd-8f8766fa1dc9/cover"/>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="sky.main.uk" start="20261002080000 +0000" stop="20261002091500 +0000">
     <title lang="en">Live Bahrain F1 GP: Practice 2</title>
@@ -730,50 +727,50 @@
     <title lang="en">PL: Everton v Ipswich Highlights</title>
     <desc lang="en">Everton, yet to lose four games into the campaign, host Ipswich at the Hill Dickinson Stadium. Ipswich picked up their second win of the season previously at Selhurst Park. (19.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9972e4b9-f48d-401d-885c-96e3b81012e5/cover"/>
-    <episode-num system="xmltv_ns">2025.293.0</episode-num>
-    <episode-num system="onscreen">S2026E294</episode-num>
+    <episode-num system="xmltv_ns">2025.294.0</episode-num>
+    <episode-num system="onscreen">S2026E295</episode-num>
   </programme>
   <programme channel="sky.premier.uk" start="20261002123000 +0000" stop="20261002130000 +0000">
     <title lang="en">PL: Brighton v Arsenal Highlights</title>
     <desc lang="en">Arsenal go in search of a fifth consecutive Premier League win as the reigning champions travel to face Brighton, 5-0 winners on the road last weekend at Coventry. (19.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/996b52a9-cbba-4f99-88b2-b1d930534c59/cover"/>
-    <episode-num system="xmltv_ns">2025.290.0</episode-num>
-    <episode-num system="onscreen">S2026E291</episode-num>
+    <episode-num system="xmltv_ns">2025.291.0</episode-num>
+    <episode-num system="onscreen">S2026E292</episode-num>
   </programme>
   <programme channel="sky.premier.uk" start="20261002130000 +0000" stop="20261002133000 +0000">
     <title lang="en">PL: Newcastle v Hull City Hlts</title>
     <desc lang="en">Torn to shreds earlier in the week, Matthias Jaissle's Newcastle look to avoid another Premier League mauling with the visit of the unbeaten Tigers, Hull City. (19.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4a66612a-b1a0-4193-be1a-a8fe10387fcf/cover"/>
-    <episode-num system="xmltv_ns">2025.291.0</episode-num>
-    <episode-num system="onscreen">S2026E292</episode-num>
+    <episode-num system="xmltv_ns">2025.292.0</episode-num>
+    <episode-num system="onscreen">S2026E293</episode-num>
   </programme>
   <programme channel="sky.premier.uk" start="20261002133000 +0000" stop="20261002140000 +0000">
     <title lang="en">PL Matchday 5 Hlts</title>
     <desc lang="en">Daniel Farke's Leeds remain at Elland Road following Monday's 4-1 demolition of the Magpies for the Super Sunday visit of south Londoners Crystal Palace. (20.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d7989798-a35a-4009-ada4-ebcf61a4230a/cover"/>
-    <episode-num system="xmltv_ns">2025.292.0</episode-num>
-    <episode-num system="onscreen">S2026E293</episode-num>
+    <episode-num system="xmltv_ns">2025.293.0</episode-num>
+    <episode-num system="onscreen">S2026E294</episode-num>
   </programme>
   <programme channel="sky.premier.uk" start="20261002140000 +0000" stop="20261002143000 +0000">
     <title lang="en">PL Matchday 5 Hlts</title>
     <desc lang="en">Neck and neck with the Gunners so far, Enzo Maresca's City - controversial winners in last weekend's Manchester derby - host Sunderland, fresh from midweek European action. (20.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2cff4e5b-20d2-46b5-9b18-9e629fce2433/cover"/>
-    <episode-num system="xmltv_ns">2025.289.0</episode-num>
-    <episode-num system="onscreen">S2026E290</episode-num>
+    <episode-num system="xmltv_ns">2025.290.0</episode-num>
+    <episode-num system="onscreen">S2026E291</episode-num>
   </programme>
   <programme channel="sky.premier.uk" start="20261002143000 +0000" stop="20261002150000 +0000">
     <title lang="en">PL Matchday 5 Hlts</title>
     <desc lang="en">Former Cherries boss Andoni Iraola returns to the Vitality on Super Sunday as the Spaniard pits his Liverpool side against Marco Rose's winless Bournemouth in the Premier League. (20.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0c0c00a0-8358-4f33-ad7d-d28b3b362c63/cover"/>
-    <episode-num system="xmltv_ns">2025.297.0</episode-num>
-    <episode-num system="onscreen">S2026E298</episode-num>
+    <episode-num system="xmltv_ns">2025.298.0</episode-num>
+    <episode-num system="onscreen">S2026E299</episode-num>
   </programme>
   <programme channel="sky.premier.uk" start="20261002150000 +0000" stop="20261002153000 +0000">
     <title lang="en">PL Matchday 5 Hlts</title>
     <desc lang="en">With pressure beginning to mount on Michael Carrick, the United boss takes his team to Craven Cottage on Super Sunday for a Premier League encounter with a winless Fulham. (20.09)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/44e9fb2b-fdbc-4f34-912d-115ebaf68c96/cover"/>
-    <episode-num system="xmltv_ns">2025.298.0</episode-num>
-    <episode-num system="onscreen">S2026E299</episode-num>
+    <episode-num system="xmltv_ns">2025.299.0</episode-num>
+    <episode-num system="onscreen">S2026E300</episode-num>
   </programme>
   <programme channel="sky.premier.uk" start="20261002153000 +0000" stop="20261002160000 +0000">
     <title lang="en">Premier League Netbusters</title>
@@ -1821,22 +1818,22 @@
   </programme>
   <programme channel="sky.tennis.uk" start="20261003020000 +0000" stop="20261003030000 +0000">
     <title lang="en">Live: ATP Tokyo</title>
-    <desc lang="en">Enjoy live action from the ATP and WTA Tours.</desc>
+    <desc lang="en">Last week's Chengdu semi-finalist Denis Shapovalov eyes a place in the last eight of the Japan Open as the 27-year-old Canadian takes on Chilean Alejandro Tabilo.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/feaab40b-9571-4e30-be5a-535afa9560c2/cover"/>
   </programme>
   <programme channel="sky.tennis.uk" start="20261003030000 +0000" stop="20261003050000 +0000">
     <title lang="en">Live: ATP/WTA Tennis</title>
-    <desc lang="en">Enjoy live action from the ATP and WTA Tours.</desc>
+    <desc lang="en">Carlos Alcaraz, the top seed and reigning champion in Tokyo, continues his defence of the crown in a clash with Italian Matteo Arnaldi, who the Spaniard leads 2-0 in previous meetings.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4c5a7c28-76a5-479b-801a-3dbc27984ab4/cover"/>
   </programme>
   <programme channel="sky.tennis.uk" start="20261003050000 +0000" stop="20261003110000 +0000">
     <title lang="en">Live: ATP/WTA Tennis</title>
-    <desc lang="en">Enjoy live action from the ATP and WTA Tours.</desc>
+    <desc lang="en">As Carlos Alcaraz's clash with Matteo Arnaldi continues, Britain's Harriet Dart gets set to encounter 10th seed Iva Jovic for the first time. Plus, Daniil Medvedev faces Jan-Lennard Struff.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4c5a7c28-76a5-479b-801a-3dbc27984ab4/cover"/>
   </programme>
   <programme channel="sky.tennis.uk" start="20261003110000 +0000" stop="20261003150000 +0000">
     <title lang="en">Live: ATP/WTA Beijing</title>
-    <desc lang="en">Enjoy live action from the ATP and WTA Tours.</desc>
+    <desc lang="en">Back to winning ways, Sonay Kartal faces home hope Xinyu Wang for a place in round three. Elena Rybakina, arriving in Beijing as world number one and top seed, plays Alina Charaev.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/aaba0b34-5914-497e-a345-9cf26e073cae/cover"/>
   </programme>
   <programme channel="sky.tennis.uk" start="20261003150000 +0000" stop="20261003151500 +0000">
@@ -1866,12 +1863,12 @@
   </programme>
   <programme channel="sky.tennis.uk" start="20261003180000 +0000" stop="20261003193000 +0000">
     <title lang="en">Tennis Highlights</title>
-    <desc lang="en">Revisit a standout match from today's action on the ATP and WTA Tours.</desc>
+    <desc lang="en">Carlos Alcaraz, the top seed and reigning champion in Tokyo, continues his defence of the crown in a clash with Matteo Arnaldi, who the Spaniard leads 2-0 in previous meetings. (03.10)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1471532f-a259-406f-9bfe-ded2ab5327dc/cover"/>
   </programme>
   <programme channel="sky.tennis.uk" start="20261003193000 +0000" stop="20261003210000 +0000">
     <title lang="en">Tennis Highlights</title>
-    <desc lang="en">Revisit a standout match from today's action on the ATP and WTA Tours.</desc>
+    <desc lang="en">Back to winning ways after a lengthy injury lay off, Britain's Sonay Kartal faces home hope Xinyu Wang for a place in round three. (03.10)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5dbb2e44-727f-4fe0-b8df-cabcdb4f04e7/cover"/>
   </programme>
   <programme channel="sky.tennis.uk" start="20261003210000 +0000" stop="20261003220000 +0000">
@@ -1901,12 +1898,12 @@
   </programme>
   <programme channel="sky.tennis.uk" start="20261003230000 +0000" stop="20261004003000 +0000">
     <title lang="en">Tennis Highlights</title>
-    <desc lang="en">Revisit a standout match from today's action on the ATP and WTA Tours.</desc>
+    <desc lang="en">Carlos Alcaraz, the top seed and reigning champion in Tokyo, continues his defence of the crown in a clash with Matteo Arnaldi, who the Spaniard leads 2-0 in previous meetings. (03.10)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1471532f-a259-406f-9bfe-ded2ab5327dc/cover"/>
   </programme>
   <programme channel="sky.tennis.uk" start="20261004003000 +0000" stop="20261004020000 +0000">
     <title lang="en">Tennis Highlights</title>
-    <desc lang="en">Revisit a standout match from today's action on the ATP and WTA Tours.</desc>
+    <desc lang="en">Back to winning ways after a lengthy injury lay off, Britain's Sonay Kartal faces home hope Xinyu Wang for a place in round three. (03.10)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5dbb2e44-727f-4fe0-b8df-cabcdb4f04e7/cover"/>
   </programme>
   <programme channel="sky.tennis.uk" start="20261004020000 +0000" stop="20261004030000 +0000">
@@ -2479,6 +2476,8 @@
     <title lang="en">Lost Grounds</title>
     <desc lang="en">In the hunt for lost grounds, we ask: why is there a North Korean monument in Middlesbrough and which ground stood frozen in time? With visits to the Baseball Ground and Filbert Street.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1b11b0b8-eedc-4671-adbd-8f8766fa1dc9/cover"/>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="sky.news.uk" start="20261002080000 +0000" stop="20261002090000 +0000">
     <title lang="en">Sky Sports Breakfast</title>
@@ -2519,6 +2518,8 @@
     <title lang="en">Lost Grounds</title>
     <desc lang="en">In the hunt for lost grounds, we ask: why is there a North Korean monument in Middlesbrough and which ground stood frozen in time? With visits to the Baseball Ground and Filbert Street.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1b11b0b8-eedc-4671-adbd-8f8766fa1dc9/cover"/>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="sky.news.uk" start="20261002150000 +0000" stop="20261002160000 +0000">
     <title lang="en">Sports Desk</title>
@@ -2558,6 +2559,8 @@
     <title lang="en">Lost Grounds</title>
     <desc lang="en">In the hunt for lost grounds, we ask: why is there a North Korean monument in Middlesbrough and which ground stood frozen in time? With visits to the Baseball Ground and Filbert Street.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1b11b0b8-eedc-4671-adbd-8f8766fa1dc9/cover"/>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme channel="sky.news.uk" start="20261002210000 +0000" stop="20261002213000 +0000">
     <title lang="en">SSN @ 10</title>
@@ -3892,12 +3895,19 @@
     <desc lang="en">Bath Rugby seek back-to-back Gallagher PREM victories as they take on an Exeter Chiefs side beaten 45-24 by Gloucester in their season opener.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/02f10ad4-5a40-4f45-9210-4eff1ed7cdb4/cover"/>
   </programme>
-  <programme channel="tnt1" start="20261003110000 +0000" stop="20261003120000 +0000">
+  <programme channel="tnt1" start="20261003110000 +0000" stop="20261003113000 +0000">
     <title lang="en">MLB Highlights</title>
-    <desc lang="en">Highlights from Major League Baseball. (01.10)</desc>
+    <desc lang="en">Highlights from the only Wild Card series to go to a decider, as the Phillies took on the Braves with a Division Series date with the Dodgers on the line. (01.10)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/15abcb5e-7e33-455c-ac61-b45c22957fe8/cover"/>
     <episode-num system="xmltv_ns">2025.201.0</episode-num>
     <episode-num system="onscreen">S2026E202</episode-num>
+  </programme>
+  <programme channel="tnt1" start="20261003113000 +0000" stop="20261003120000 +0000">
+    <title lang="en">It's A Numbers Game</title>
+    <desc lang="en">Pedal Power takes us inside the extraordinary world of cycling - from the epic Grand Tours and brutal mountain-bike courses to the explosive world of BMX.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/e8738fde-52e8-4bfd-b43a-ad7b052d8338/cover"/>
+    <episode-num system="xmltv_ns">25.1.0</episode-num>
+    <episode-num system="onscreen">S26E2</episode-num>
   </programme>
   <programme channel="tnt1" start="20261003120000 +0000" stop="20261003133000 +0000">
     <title lang="en">Live Cycling: Tour of Emilia</title>
@@ -3944,22 +3954,24 @@
     <desc lang="en">Action from the 20th anniversary edition of the Sparkassen Munsterland Giro, a one-day race held in the Munsterland region of northwest Germany.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/923e7e94-9978-445f-ae27-2643296841ee/cover"/>
   </programme>
-  <programme channel="tnt1" start="20261004050000 +0000" stop="20261004053000 +0000">
-    <title lang="en">Mountain Bike World Series Women</title>
-    <desc lang="en">Action from the women's elite cross country Olympic, part of the UCI Mountain Bike World Series in Lake Placid.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/fb14ac1e-17db-415d-bef3-0ad6bbc2c157/cover"/>
-  </programme>
-  <programme channel="tnt1" start="20261004053000 +0000" stop="20261004060000 +0000">
-    <title lang="en">UCI Mountain Bike World Series Men</title>
-    <desc lang="en">Action from the men's elite cross country Olympic, part of the UCI Mountain Bike World Series in Lake Placid.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/548cba12-3969-4d94-8e0b-b8fb75d47f92/cover"/>
-  </programme>
-  <programme channel="tnt1" start="20261004060000 +0000" stop="20261004061500 +0000">
+  <programme channel="tnt1" start="20261004050000 +0000" stop="20261004051500 +0000">
     <title lang="en">TNT Sports Reload</title>
     <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c4930e05-15c9-43f4-8975-86ee1ebc2b2d/cover"/>
     <episode-num system="xmltv_ns">25.38.0</episode-num>
     <episode-num system="onscreen">S26E39</episode-num>
+  </programme>
+  <programme channel="tnt1" start="20261004051500 +0000" stop="20261004054500 +0000">
+    <title lang="en">UEFA Champions League Magazine</title>
+    <desc lang="en">We tell the story of Kevin Keegan's incredible spell in Northern Germany with Hamburg and reflect on Harry Kane's remarkable impact at Bayern Munich.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/00ca11a0-f743-4502-8204-6846fc589790/cover"/>
+    <episode-num system="xmltv_ns">25.4.0</episode-num>
+    <episode-num system="onscreen">S26E5</episode-num>
+  </programme>
+  <programme channel="tnt1" start="20261004054500 +0000" stop="20261004061500 +0000">
+    <title lang="en">World Rally Championship - Italy</title>
+    <desc lang="en">Highlights from day two of the 2026 World Rally Championship in Italy.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/2d91bbe8-2ce6-4740-846c-c8986c0feb2f/cover"/>
   </programme>
   <programme channel="tnt1" start="20261004061500 +0000" stop="20261004073000 +0000">
     <title lang="en">Live WRC: Rally Italy</title>
@@ -4013,7 +4025,7 @@
   <programme channel="tnt1" start="20261004201500 +0000" stop="20261004233000 +0000">
     <title lang="en">Live: MLB Postseason</title>
     <desc lang="en">Game two of the National League Division Series between San Diego Padres and Milwaukee Brewers at American Family Field.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/bc4a6e9b-a0d6-4b2a-867d-d85a7245cd15/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/bc7cbfb0-d732-408d-8829-a2fffee03e99/cover"/>
   </programme>
   <programme channel="tnt2" start="20261001203000 +0000" stop="20261001223000 +0000">
     <title lang="en">Snooker Shenzhen Open</title>
@@ -4120,7 +4132,7 @@
   </programme>
   <programme channel="tnt2" start="20261002170000 +0000" stop="20261002173000 +0000">
     <title lang="en">MLB Highlights</title>
-    <desc lang="en">Highlights from Major League Baseball. (01.10)</desc>
+    <desc lang="en">Highlights from the only Wild Card series to go to a decider, as the Phillies took on the Braves with a Division Series date with the Dodgers on the line. (01.10)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/15abcb5e-7e33-455c-ac61-b45c22957fe8/cover"/>
     <episode-num system="xmltv_ns">2025.201.0</episode-num>
     <episode-num system="onscreen">S2026E202</episode-num>
@@ -4242,7 +4254,17 @@
     <episode-num system="xmltv_ns">25.4.0</episode-num>
     <episode-num system="onscreen">S26E5</episode-num>
   </programme>
-  <programme channel="tnt2" start="20261003180000 +0000" stop="20261003233000 +0000">
+  <programme channel="tnt2" start="20261003180000 +0000" stop="20261003190000 +0000">
+    <title lang="en">Cycling: Tour of Emilia</title>
+    <desc lang="en">Action from the 2026 Tour of Emilia, featuring a 197km route from Ferrara to the iconic San Luca climb finish in Bologna.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/557c17ba-d5ce-4781-b24c-5ce94f007c99/cover"/>
+  </programme>
+  <programme channel="tnt2" start="20261003190000 +0000" stop="20261003200000 +0000">
+    <title lang="en">Road Race - Elite - Women</title>
+    <desc lang="en">Action from Slovenia and the Women's Elite Road Race, a 130km ride through the heart of historic Ljubljana towards the finish line in Sencur.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/04110a69-d685-4567-bfd1-252f5aed457c/cover"/>
+  </programme>
+  <programme channel="tnt2" start="20261003200000 +0000" stop="20261003233000 +0000">
     <title lang="en">Live: MLB Postseason</title>
     <desc lang="en">Game one of the National League Division Series between Atlanta Braves and Los Angeles Dodgers at Dodger Stadium.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/351dc8bc-1bc0-47a5-baf1-1fc9f68fff36/cover"/>
@@ -4267,12 +4289,7 @@
     <desc lang="en">Race action from the 2026 Moto2 Grand Prix of Japan at Mobility Resort Motegi as the chasing pack look to close the gap to championship leader Manuel Gonzalez.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b073d759-7779-4a23-a969-d88de2b3e397/cover"/>
   </programme>
-  <programme channel="tnt2" start="20261004041500 +0000" stop="20261004050000 +0000">
-    <title lang="en">Live MotoGP: Grand Prix of Japan</title>
-    <desc lang="en">Race action from the 2026 MotoGP Grand Prix of Japan at Mobility Resort Motegi as the championship contenders - including Jorge Martin and Marc Marquez - battle for crucial points.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0c55379c-ed10-4cc5-ae18-ef962696b006/cover"/>
-  </programme>
-  <programme channel="tnt2" start="20261004050000 +0000" stop="20261004070000 +0000">
+  <programme channel="tnt2" start="20261004041500 +0000" stop="20261004070000 +0000">
     <title lang="en">Live MotoGP: Grand Prix of Japan</title>
     <desc lang="en">Race action from the 2026 MotoGP Grand Prix of Japan at Mobility Resort Motegi as the championship contenders - including Jorge Martin and Marc Marquez - battle for crucial points.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0c55379c-ed10-4cc5-ae18-ef962696b006/cover"/>
@@ -4465,15 +4482,15 @@
     <episode-num system="onscreen">S2020E20</episode-num>
   </programme>
   <programme channel="tnt3" start="20261002190000 +0000" stop="20261002193000 +0000">
-    <title lang="en">MLB Plays of the Week</title>
-    <desc lang="en">This weekly MLB highlights show showcases the most exciting plays from the past week's matches.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/43e8822a-5a05-4a5e-b09c-e41cade7f1dc/cover"/>
-    <episode-num system="xmltv_ns">2025.25.0</episode-num>
-    <episode-num system="onscreen">S2026E26</episode-num>
+    <title lang="en">The Football Archives: UCL 2012/13</title>
+    <desc lang="en">This episode of The Football Archives takes a look at the 2012/13 UEFA Champions League season. Who would make the final at Wembley Stadium in London?</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/db9847b7-8fca-42f7-b9e7-78bc6fe420dc/cover"/>
+    <episode-num system="xmltv_ns">2019.20.0</episode-num>
+    <episode-num system="onscreen">S2020E21</episode-num>
   </programme>
   <programme channel="tnt3" start="20261002193000 +0000" stop="20261002200000 +0000">
     <title lang="en">MLB Highlights</title>
-    <desc lang="en">Highlights from Major League Baseball. (01.10)</desc>
+    <desc lang="en">Highlights from the only Wild Card series to go to a decider, as the Phillies took on the Braves with a Division Series date with the Dodgers on the line. (01.10)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/15abcb5e-7e33-455c-ac61-b45c22957fe8/cover"/>
     <episode-num system="xmltv_ns">2025.201.0</episode-num>
     <episode-num system="onscreen">S2026E202</episode-num>
@@ -4527,11 +4544,11 @@
     <episode-num system="onscreen">S2026E175</episode-num>
   </programme>
   <programme channel="tnt3" start="20261003033000 +0000" stop="20261003040000 +0000">
-    <title lang="en">MLB Plays of the Week</title>
-    <desc lang="en">This weekly MLB highlights show showcases the most exciting plays from the past week's matches.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/43e8822a-5a05-4a5e-b09c-e41cade7f1dc/cover"/>
-    <episode-num system="xmltv_ns">2025.25.0</episode-num>
-    <episode-num system="onscreen">S2026E26</episode-num>
+    <title lang="en">UFC Countdown: 332</title>
+    <desc lang="en">We count down to UFC 332 at the Delta Center in Salt Lake City, Utah, as Natalia Silva and Wang Cong battle for the vacant women's flyweight title.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3f748796-56d9-4750-a9ff-0b8d36f5fb8a/cover"/>
+    <episode-num system="xmltv_ns">2025.19.0</episode-num>
+    <episode-num system="onscreen">S2026E20</episode-num>
   </programme>
   <programme channel="tnt3" start="20261003040000 +0000" stop="20261003043000 +0000">
     <title lang="en">World Rally Championship - Italy</title>
@@ -4557,15 +4574,15 @@
   </programme>
   <programme channel="tnt3" start="20261003060000 +0000" stop="20261003093000 +0000">
     <title lang="en">Live Snooker: Shenzhen Open</title>
-    <desc lang="en">Snooker action from the Shenzhen Open.</desc>
+    <desc lang="en">England's Jimmy Robertson looks to continue his dream run at the 2026 Shenzhen Open as he takes on home favourite Yuan Sijun for a place in the final.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/260c236f-a487-4507-b567-04785c0bc3d4/cover"/>
   </programme>
   <programme channel="tnt3" start="20261003093000 +0000" stop="20261003100000 +0000">
-    <title lang="en">MLB Plays of the Week</title>
-    <desc lang="en">This weekly MLB highlights show showcases the most exciting plays from the past week's matches.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/43e8822a-5a05-4a5e-b09c-e41cade7f1dc/cover"/>
-    <episode-num system="xmltv_ns">2025.25.0</episode-num>
-    <episode-num system="onscreen">S2026E26</episode-num>
+    <title lang="en">TNT Sports Reload</title>
+    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/c4930e05-15c9-43f4-8975-86ee1ebc2b2d/cover"/>
+    <episode-num system="xmltv_ns">25.38.0</episode-num>
+    <episode-num system="onscreen">S26E39</episode-num>
   </programme>
   <programme channel="tnt3" start="20261003100000 +0000" stop="20261003103000 +0000">
     <title lang="en">Mountain Bike World Series Women</title>
@@ -4586,7 +4603,7 @@
   </programme>
   <programme channel="tnt3" start="20261003113000 +0000" stop="20261003150000 +0000">
     <title lang="en">Live Snooker: Shenzhen Open</title>
-    <desc lang="en">Snooker action from the Shenzhen Open.</desc>
+    <desc lang="en">World champion Wu Yize goes head-to-head with world number two Judd Trump in a blockbuster semi-final at the Shenzhen Open 2026.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1dfebd9e-8144-4348-a797-253a35d19e69/cover"/>
   </programme>
   <programme channel="tnt3" start="20261003150000 +0000" stop="20261003161500 +0000">
@@ -4613,7 +4630,7 @@
   </programme>
   <programme channel="tnt3" start="20261003203000 +0000" stop="20261003223000 +0000">
     <title lang="en">Snooker Shenzhen Open</title>
-    <desc lang="en">Snooker highlights from the Shenzhen Open. (03.10)</desc>
+    <desc lang="en">Snooker highlights from the semi-finals of the Shenzhen Open 2026, featuring Wu Yize v Judd Trump and Jimmy Robertson v Yuan Sijun.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/99b9e0c4-2165-462d-8d9a-0e20a811b106/cover"/>
   </programme>
   <programme channel="tnt3" start="20261003223000 +0000" stop="20261004020000 +0000">
@@ -4640,10 +4657,15 @@
     <episode-num system="xmltv_ns">5.17.0</episode-num>
     <episode-num system="onscreen">S6E18</episode-num>
   </programme>
-  <programme channel="tnt3" start="20261004050000 +0000" stop="20261004060000 +0000">
-    <title lang="en">India v West Indies - 3rd ODI</title>
-    <desc lang="en">World champions India look to seal a 3-0 series sweep as they face Shai Hope's West Indies at PCA New Cricket Stadium.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a9045f81-158b-4cba-9fc6-931c98a242b8/cover"/>
+  <programme channel="tnt3" start="20261004050000 +0000" stop="20261004053000 +0000">
+    <title lang="en">Mountain Bike World Series Women</title>
+    <desc lang="en">Action from the women's elite cross country Olympic, part of the UCI Mountain Bike World Series in Lake Placid.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/fb14ac1e-17db-415d-bef3-0ad6bbc2c157/cover"/>
+  </programme>
+  <programme channel="tnt3" start="20261004053000 +0000" stop="20261004060000 +0000">
+    <title lang="en">UCI Mountain Bike World Series Men</title>
+    <desc lang="en">Action from the men's elite cross country Olympic, part of the UCI Mountain Bike World Series in Lake Placid.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/548cba12-3969-4d94-8e0b-b8fb75d47f92/cover"/>
   </programme>
   <programme channel="tnt3" start="20261004060000 +0000" stop="20261004090000 +0000">
     <title lang="en">Live Snooker: Shenzhen Open Final</title>
@@ -4690,9 +4712,9 @@
   <programme channel="tnt3" start="20261004180000 +0000" stop="20261004181500 +0000">
     <title lang="en">TNT Sports Reload</title>
     <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/0e883614-a432-4438-9bb6-142ed27a10e8/cover"/>
-    <episode-num system="xmltv_ns">24.204.0</episode-num>
-    <episode-num system="onscreen">S25E205</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/c4930e05-15c9-43f4-8975-86ee1ebc2b2d/cover"/>
+    <episode-num system="xmltv_ns">25.38.0</episode-num>
+    <episode-num system="onscreen">S26E39</episode-num>
   </programme>
   <programme channel="tnt3" start="20261004181500 +0000" stop="20261004190000 +0000">
     <title lang="en">Sign Up - Into Football</title>
@@ -4821,14 +4843,14 @@
     <episode-num system="xmltv_ns">5.4.0</episode-num>
     <episode-num system="onscreen">S6E5</episode-num>
   </programme>
-  <programme channel="tnt4" start="20261002113000 +0000" stop="20261002120100 +0000">
+  <programme channel="tnt4" start="20261002113000 +0000" stop="20261002120000 +0000">
     <title lang="en">Golden Trail World Series</title>
     <desc lang="en">The Golden Trail World Series heads to China and one of the wonders of the world for the Jinshanling Great Wall Trail Race.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/77bdc99d-5140-4d60-b977-60faad1e13fe/cover"/>
   </programme>
-  <programme channel="tnt4" start="20261002120100 +0000" stop="20261002123000 +0000">
+  <programme channel="tnt4" start="20261002120000 +0000" stop="20261002123000 +0000">
     <title lang="en">MLB Highlights</title>
-    <desc lang="en">Highlights from Major League Baseball. (01.10)</desc>
+    <desc lang="en">Highlights from the only Wild Card series to go to a decider, as the Phillies took on the Braves with a Division Series date with the Dodgers on the line. (01.10)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/15abcb5e-7e33-455c-ac61-b45c22957fe8/cover"/>
     <episode-num system="xmltv_ns">2025.201.0</episode-num>
     <episode-num system="onscreen">S2026E202</episode-num>
@@ -4915,17 +4937,17 @@
   </programme>
   <programme channel="tnt4" start="20261002220000 +0000" stop="20261002223000 +0000">
     <title lang="en">MLB Highlights</title>
-    <desc lang="en">Highlights from Major League Baseball. (01.10)</desc>
+    <desc lang="en">Highlights from the only Wild Card series to go to a decider, as the Phillies took on the Braves with a Division Series date with the Dodgers on the line. (01.10)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/15abcb5e-7e33-455c-ac61-b45c22957fe8/cover"/>
     <episode-num system="xmltv_ns">2025.201.0</episode-num>
     <episode-num system="onscreen">S2026E202</episode-num>
   </programme>
   <programme channel="tnt4" start="20261002223000 +0000" stop="20261002230000 +0000">
-    <title lang="en">MLB Plays of the Week</title>
-    <desc lang="en">This weekly MLB highlights show showcases the most exciting plays from the past week's matches.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/43e8822a-5a05-4a5e-b09c-e41cade7f1dc/cover"/>
-    <episode-num system="xmltv_ns">2025.25.0</episode-num>
-    <episode-num system="onscreen">S2026E26</episode-num>
+    <title lang="en">TNT Sports Reload</title>
+    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/c4930e05-15c9-43f4-8975-86ee1ebc2b2d/cover"/>
+    <episode-num system="xmltv_ns">25.38.0</episode-num>
+    <episode-num system="onscreen">S26E39</episode-num>
   </programme>
   <programme channel="tnt4" start="20261002230000 +0000" stop="20261002233000 +0000">
     <title lang="en">It's A Numbers Game</title>
@@ -4942,11 +4964,9 @@
     <episode-num system="onscreen">S2026E175</episode-num>
   </programme>
   <programme channel="tnt4" start="20261003003000 +0000" stop="20261003010000 +0000">
-    <title lang="en">MLB Plays of the Week</title>
-    <desc lang="en">This weekly MLB highlights show showcases the most exciting plays from the past week's matches.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/43e8822a-5a05-4a5e-b09c-e41cade7f1dc/cover"/>
-    <episode-num system="xmltv_ns">2025.25.0</episode-num>
-    <episode-num system="onscreen">S2026E26</episode-num>
+    <title lang="en">World Rally Championship - Italy</title>
+    <desc lang="en">Highlights from day one of the 2026 World Rally Championship in Italy.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f546f63e-2653-49f8-aee0-bbc24a89b66a/cover"/>
   </programme>
   <programme channel="tnt4" start="20261003010000 +0000" stop="20261003013000 +0000">
     <title lang="en">Mountain Bike World Series Women</title>
@@ -5074,9 +5094,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/070fc160-1866-4737-b9f0-86d0c39c38a6/cover"/>
   </programme>
   <programme channel="tnt4" start="20261004170000 +0000" stop="20261004180000 +0000">
-    <title lang="en">MotoGP Breakdown Show</title>
-    <desc lang="en">We chart the rise of Ducati, exploring how it was transformed from an unrideable underdog into the most technologically dominant factory in MotoGP history.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/14e06b49-32bc-4469-a7ee-a50c00a88f1e/cover"/>
+    <title lang="en">FIM Speedway Grand Prix Highlights</title>
+    <desc lang="en">Highlights from the final round of the 2026 FIM Speedway Grand Prix at the Marian Rose Motoarena in Poland.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8267013b-3897-43b2-8464-8a6d13eb8859/cover"/>
   </programme>
   <programme channel="tnt4" start="20261004180000 +0000" stop="20261004190000 +0000">
     <title lang="en">MotoGP: Grand Prix of Japan</title>
@@ -5091,7 +5111,9 @@
   <programme channel="tnt4" start="20261004200000 +0000" stop="20261004230000 +0000">
     <title lang="en">UFC 332</title>
     <desc lang="en">Action from UFC 332 at the Delta Center in Salt Lake City, Utah, featuring the women's flyweight battle between Natalia Silva and Wang Cong.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/af86a23d-c5ed-4242-aae5-2f0b7bed6ed3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/be86e001-7c07-4ad1-b8e3-46bbbfb87184/cover"/>
+    <episode-num system="xmltv_ns">2025.52.0</episode-num>
+    <episode-num system="onscreen">S2026E53</episode-num>
   </programme>
   <programme channel="4seven.uk" start="20261001210000 +0000" stop="20261001220000 +0000">
     <title lang="en">The World's Biggest Cruise Ship</title>
@@ -9938,7 +9960,7 @@
   </programme>
   <programme channel="BBCNews.uk" start="20261002213000 +0000" stop="20261002220000 +0000">
     <title lang="en">Newsnight</title>
-    <desc lang="en">Insights and global interviews on the crucial news stories of the day. With Matt Chorley.</desc>
+    <desc lang="en">As drivers see the cost of diesel soaring this week, the Chancellor tells Newsnight he is 'acutely concerned' about sky high prices. Now Donald Trump threatens an export ban of US diesel.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a28eb775-bee4-4a3d-bbcb-12782d3d6ad9/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20261002220000 +0000" stop="20261002223000 +0000">
@@ -10117,7 +10139,7 @@
   </programme>
   <programme channel="BBCNews.uk" start="20261003144500 +0000" stop="20261003150000 +0000">
     <title lang="en">Newswatch</title>
-    <desc lang="en">Your views on the coverage of events by BBC News, answered by the editors and decision makers in charge.</desc>
+    <desc lang="en">What will be the impact on the audience of the cuts proposed to the BBC's local and regional broadcasting?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fc8d77aa-66a2-4960-b48c-ace2a0ba7939/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20261003150000 +0000" stop="20261003153000 +0000">
@@ -10574,7 +10596,7 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20261002214000 +0000" stop="20261002223000 +0000">
     <title lang="en">The Graham Norton Show</title>
-    <desc lang="en">Sylvester Stallone, Catherine Zeta-Jones and Andrew Garfield join Graham on his sofa. With music from Blossoms.</desc>
+    <desc lang="en">Sylvester Stallone, Catherine Zeta-Jones and Andrew Garfield join Graham on his sofa. With music from Blossoms. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f717b9d4-42b6-445d-b5ce-d6e35f10ec8f/cover"/>
     <episode-num system="xmltv_ns">33.1.0</episode-num>
     <episode-num system="onscreen">S34E2</episode-num>
@@ -10805,8 +10827,8 @@
     <title lang="en">Homes Under the Hammer</title>
     <desc lang="en">We're 'flat out', with three very different flats in London, Bath and Shropshire. Can the new owners who purchased them at auction bring them up to scratch?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bc6ea299-c4e8-490b-82bd-680aedbd4328/cover"/>
-    <episode-num system="xmltv_ns">27.11.0</episode-num>
-    <episode-num system="onscreen">S28E12</episode-num>
+    <episode-num system="xmltv_ns">27.14.0</episode-num>
+    <episode-num system="onscreen">S28E15</episode-num>
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20261004161500 +0000" stop="20261004163000 +0000">
     <title lang="en">BBC News</title>
@@ -11029,7 +11051,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20261002214000 +0000" stop="20261002223000 +0000">
     <title lang="en">The Graham Norton Show</title>
-    <desc lang="en">Sylvester Stallone, Catherine Zeta-Jones and Andrew Garfield join Graham on his sofa. With music from Blossoms.</desc>
+    <desc lang="en">Sylvester Stallone, Catherine Zeta-Jones and Andrew Garfield join Graham on his sofa. With music from Blossoms. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f717b9d4-42b6-445d-b5ce-d6e35f10ec8f/cover"/>
     <episode-num system="xmltv_ns">33.1.0</episode-num>
     <episode-num system="onscreen">S34E2</episode-num>
@@ -11260,8 +11282,8 @@
     <title lang="en">Homes Under the Hammer</title>
     <desc lang="en">We're 'flat out', with three very different flats in London, Bath and Shropshire. Can the new owners who purchased them at auction bring them up to scratch?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bc6ea299-c4e8-490b-82bd-680aedbd4328/cover"/>
-    <episode-num system="xmltv_ns">27.11.0</episode-num>
-    <episode-num system="onscreen">S28E12</episode-num>
+    <episode-num system="xmltv_ns">27.14.0</episode-num>
+    <episode-num system="onscreen">S28E15</episode-num>
   </programme>
   <programme channel="BBCOneEast.uk" start="20261004161500 +0000" stop="20261004163000 +0000">
     <title lang="en">BBC News</title>
@@ -11484,7 +11506,7 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20261002214000 +0000" stop="20261002223000 +0000">
     <title lang="en">The Graham Norton Show</title>
-    <desc lang="en">Sylvester Stallone, Catherine Zeta-Jones and Andrew Garfield join Graham on his sofa. With music from Blossoms.</desc>
+    <desc lang="en">Sylvester Stallone, Catherine Zeta-Jones and Andrew Garfield join Graham on his sofa. With music from Blossoms. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f717b9d4-42b6-445d-b5ce-d6e35f10ec8f/cover"/>
     <episode-num system="xmltv_ns">33.1.0</episode-num>
     <episode-num system="onscreen">S34E2</episode-num>
@@ -11715,8 +11737,8 @@
     <title lang="en">Homes Under the Hammer</title>
     <desc lang="en">We're 'flat out', with three very different flats in London, Bath and Shropshire. Can the new owners who purchased them at auction bring them up to scratch?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bc6ea299-c4e8-490b-82bd-680aedbd4328/cover"/>
-    <episode-num system="xmltv_ns">27.11.0</episode-num>
-    <episode-num system="onscreen">S28E12</episode-num>
+    <episode-num system="xmltv_ns">27.14.0</episode-num>
+    <episode-num system="onscreen">S28E15</episode-num>
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20261004161500 +0000" stop="20261004163000 +0000">
     <title lang="en">BBC News</title>
@@ -11939,7 +11961,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20261002214000 +0000" stop="20261002223000 +0000">
     <title lang="en">The Graham Norton Show</title>
-    <desc lang="en">Sylvester Stallone, Catherine Zeta-Jones and Andrew Garfield join Graham on his sofa. With music from Blossoms.</desc>
+    <desc lang="en">Sylvester Stallone, Catherine Zeta-Jones and Andrew Garfield join Graham on his sofa. With music from Blossoms. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f717b9d4-42b6-445d-b5ce-d6e35f10ec8f/cover"/>
     <episode-num system="xmltv_ns">33.1.0</episode-num>
     <episode-num system="onscreen">S34E2</episode-num>
@@ -12170,8 +12192,8 @@
     <title lang="en">Homes Under the Hammer</title>
     <desc lang="en">We're 'flat out', with three very different flats in London, Bath and Shropshire. Can the new owners who purchased them at auction bring them up to scratch?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bc6ea299-c4e8-490b-82bd-680aedbd4328/cover"/>
-    <episode-num system="xmltv_ns">27.11.0</episode-num>
-    <episode-num system="onscreen">S28E12</episode-num>
+    <episode-num system="xmltv_ns">27.14.0</episode-num>
+    <episode-num system="onscreen">S28E15</episode-num>
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20261004161500 +0000" stop="20261004163000 +0000">
     <title lang="en">BBC News</title>
@@ -12394,7 +12416,7 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20261002214000 +0000" stop="20261002223000 +0000">
     <title lang="en">The Graham Norton Show</title>
-    <desc lang="en">Sylvester Stallone, Catherine Zeta-Jones and Andrew Garfield join Graham on his sofa. With music from Blossoms.</desc>
+    <desc lang="en">Sylvester Stallone, Catherine Zeta-Jones and Andrew Garfield join Graham on his sofa. With music from Blossoms. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f717b9d4-42b6-445d-b5ce-d6e35f10ec8f/cover"/>
     <episode-num system="xmltv_ns">33.1.0</episode-num>
     <episode-num system="onscreen">S34E2</episode-num>
@@ -12625,8 +12647,8 @@
     <title lang="en">Homes Under the Hammer</title>
     <desc lang="en">We're 'flat out', with three very different flats in London, Bath and Shropshire. Can the new owners who purchased them at auction bring them up to scratch?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bc6ea299-c4e8-490b-82bd-680aedbd4328/cover"/>
-    <episode-num system="xmltv_ns">27.11.0</episode-num>
-    <episode-num system="onscreen">S28E12</episode-num>
+    <episode-num system="xmltv_ns">27.14.0</episode-num>
+    <episode-num system="onscreen">S28E15</episode-num>
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20261004161500 +0000" stop="20261004163000 +0000">
     <title lang="en">BBC News</title>
@@ -12849,7 +12871,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20261002214000 +0000" stop="20261002223000 +0000">
     <title lang="en">The Graham Norton Show</title>
-    <desc lang="en">Sylvester Stallone, Catherine Zeta-Jones and Andrew Garfield join Graham on his sofa. With music from Blossoms.</desc>
+    <desc lang="en">Sylvester Stallone, Catherine Zeta-Jones and Andrew Garfield join Graham on his sofa. With music from Blossoms. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f717b9d4-42b6-445d-b5ce-d6e35f10ec8f/cover"/>
     <episode-num system="xmltv_ns">33.1.0</episode-num>
     <episode-num system="onscreen">S34E2</episode-num>
@@ -13080,8 +13102,8 @@
     <title lang="en">Homes Under the Hammer</title>
     <desc lang="en">We're 'flat out', with three very different flats in London, Bath and Shropshire. Can the new owners who purchased them at auction bring them up to scratch?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bc6ea299-c4e8-490b-82bd-680aedbd4328/cover"/>
-    <episode-num system="xmltv_ns">27.11.0</episode-num>
-    <episode-num system="onscreen">S28E12</episode-num>
+    <episode-num system="xmltv_ns">27.14.0</episode-num>
+    <episode-num system="onscreen">S28E15</episode-num>
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20261004161500 +0000" stop="20261004163000 +0000">
     <title lang="en">BBC News</title>
@@ -13304,7 +13326,7 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20261002214000 +0000" stop="20261002223000 +0000">
     <title lang="en">The Graham Norton Show</title>
-    <desc lang="en">Sylvester Stallone, Catherine Zeta-Jones and Andrew Garfield join Graham on his sofa. With music from Blossoms.</desc>
+    <desc lang="en">Sylvester Stallone, Catherine Zeta-Jones and Andrew Garfield join Graham on his sofa. With music from Blossoms. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f717b9d4-42b6-445d-b5ce-d6e35f10ec8f/cover"/>
     <episode-num system="xmltv_ns">33.1.0</episode-num>
     <episode-num system="onscreen">S34E2</episode-num>
@@ -13530,8 +13552,8 @@
     <title lang="en">Homes Under the Hammer</title>
     <desc lang="en">We're 'flat out', with three very different flats in London, Bath and Shropshire. Can the new owners who purchased them at auction bring them up to scratch?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bc6ea299-c4e8-490b-82bd-680aedbd4328/cover"/>
-    <episode-num system="xmltv_ns">27.11.0</episode-num>
-    <episode-num system="onscreen">S28E12</episode-num>
+    <episode-num system="xmltv_ns">27.14.0</episode-num>
+    <episode-num system="onscreen">S28E15</episode-num>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20261004161500 +0000" stop="20261004163000 +0000">
     <title lang="en">BBC News</title>
@@ -13761,7 +13783,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20261002214000 +0000" stop="20261002223000 +0000">
     <title lang="en">The Graham Norton Show</title>
-    <desc lang="en">Sylvester Stallone, Catherine Zeta-Jones and Andrew Garfield join Graham on his sofa. With music from Blossoms.</desc>
+    <desc lang="en">Sylvester Stallone, Catherine Zeta-Jones and Andrew Garfield join Graham on his sofa. With music from Blossoms. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f717b9d4-42b6-445d-b5ce-d6e35f10ec8f/cover"/>
     <episode-num system="xmltv_ns">33.1.0</episode-num>
     <episode-num system="onscreen">S34E2</episode-num>
@@ -13989,8 +14011,8 @@
     <title lang="en">Homes Under the Hammer</title>
     <desc lang="en">We're 'flat out', with three very different flats in London, Bath and Shropshire. Can the new owners who purchased them at auction bring them up to scratch?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bc6ea299-c4e8-490b-82bd-680aedbd4328/cover"/>
-    <episode-num system="xmltv_ns">27.11.0</episode-num>
-    <episode-num system="onscreen">S28E12</episode-num>
+    <episode-num system="xmltv_ns">27.14.0</episode-num>
+    <episode-num system="onscreen">S28E15</episode-num>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20261004161500 +0000" stop="20261004163000 +0000">
     <title lang="en">BBC News</title>
@@ -14213,7 +14235,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20261002214000 +0000" stop="20261002223000 +0000">
     <title lang="en">The Graham Norton Show</title>
-    <desc lang="en">Sylvester Stallone, Catherine Zeta-Jones and Andrew Garfield join Graham on his sofa. With music from Blossoms.</desc>
+    <desc lang="en">Sylvester Stallone, Catherine Zeta-Jones and Andrew Garfield join Graham on his sofa. With music from Blossoms. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f717b9d4-42b6-445d-b5ce-d6e35f10ec8f/cover"/>
     <episode-num system="xmltv_ns">33.1.0</episode-num>
     <episode-num system="onscreen">S34E2</episode-num>
@@ -14444,8 +14466,8 @@
     <title lang="en">Homes Under the Hammer</title>
     <desc lang="en">We're 'flat out', with three very different flats in London, Bath and Shropshire. Can the new owners who purchased them at auction bring them up to scratch?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bc6ea299-c4e8-490b-82bd-680aedbd4328/cover"/>
-    <episode-num system="xmltv_ns">27.11.0</episode-num>
-    <episode-num system="onscreen">S28E12</episode-num>
+    <episode-num system="xmltv_ns">27.14.0</episode-num>
+    <episode-num system="onscreen">S28E15</episode-num>
   </programme>
   <programme channel="BBCOneSouth.uk" start="20261004161500 +0000" stop="20261004163000 +0000">
     <title lang="en">BBC News</title>
@@ -14668,7 +14690,7 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20261002214000 +0000" stop="20261002223000 +0000">
     <title lang="en">The Graham Norton Show</title>
-    <desc lang="en">Sylvester Stallone, Catherine Zeta-Jones and Andrew Garfield join Graham on his sofa. With music from Blossoms.</desc>
+    <desc lang="en">Sylvester Stallone, Catherine Zeta-Jones and Andrew Garfield join Graham on his sofa. With music from Blossoms. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f717b9d4-42b6-445d-b5ce-d6e35f10ec8f/cover"/>
     <episode-num system="xmltv_ns">33.1.0</episode-num>
     <episode-num system="onscreen">S34E2</episode-num>
@@ -14899,8 +14921,8 @@
     <title lang="en">Homes Under the Hammer</title>
     <desc lang="en">We're 'flat out', with three very different flats in London, Bath and Shropshire. Can the new owners who purchased them at auction bring them up to scratch?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bc6ea299-c4e8-490b-82bd-680aedbd4328/cover"/>
-    <episode-num system="xmltv_ns">27.11.0</episode-num>
-    <episode-num system="onscreen">S28E12</episode-num>
+    <episode-num system="xmltv_ns">27.14.0</episode-num>
+    <episode-num system="onscreen">S28E15</episode-num>
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20261004161500 +0000" stop="20261004163000 +0000">
     <title lang="en">BBC News</title>
@@ -15123,7 +15145,7 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20261002214000 +0000" stop="20261002223000 +0000">
     <title lang="en">The Graham Norton Show</title>
-    <desc lang="en">Sylvester Stallone, Catherine Zeta-Jones and Andrew Garfield join Graham on his sofa. With music from Blossoms.</desc>
+    <desc lang="en">Sylvester Stallone, Catherine Zeta-Jones and Andrew Garfield join Graham on his sofa. With music from Blossoms. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f717b9d4-42b6-445d-b5ce-d6e35f10ec8f/cover"/>
     <episode-num system="xmltv_ns">33.1.0</episode-num>
     <episode-num system="onscreen">S34E2</episode-num>
@@ -15354,8 +15376,8 @@
     <title lang="en">Homes Under the Hammer</title>
     <desc lang="en">We're 'flat out', with three very different flats in London, Bath and Shropshire. Can the new owners who purchased them at auction bring them up to scratch?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bc6ea299-c4e8-490b-82bd-680aedbd4328/cover"/>
-    <episode-num system="xmltv_ns">27.11.0</episode-num>
-    <episode-num system="onscreen">S28E12</episode-num>
+    <episode-num system="xmltv_ns">27.14.0</episode-num>
+    <episode-num system="onscreen">S28E15</episode-num>
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20261004161500 +0000" stop="20261004163000 +0000">
     <title lang="en">BBC News</title>
@@ -15588,7 +15610,7 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20261002214000 +0000" stop="20261002223000 +0000">
     <title lang="en">The Graham Norton Show</title>
-    <desc lang="en">Sylvester Stallone, Catherine Zeta-Jones and Andrew Garfield join Graham on his sofa. With music from Blossoms.</desc>
+    <desc lang="en">Sylvester Stallone, Catherine Zeta-Jones and Andrew Garfield join Graham on his sofa. With music from Blossoms. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f717b9d4-42b6-445d-b5ce-d6e35f10ec8f/cover"/>
     <episode-num system="xmltv_ns">33.1.0</episode-num>
     <episode-num system="onscreen">S34E2</episode-num>
@@ -15761,7 +15783,7 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20261004090000 +0000" stop="20261004093000 +0000">
     <title lang="en">Politics Wales</title>
-    <desc lang="en">All the latest political news from Wales and beyond, presented by Nick Servini.</desc>
+    <desc lang="en">All the latest political news from Wales and beyond, presented by Nick Servini. His guests are Rhun ap Iorwerth MS, Mims Davies MP, Cllr Jane Gebbie, and Luke Young.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e061f21a-8db1-4dde-8586-a60ed0e6883a/cover"/>
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20261004093000 +0000" stop="20261004103000 +0000">
@@ -15772,11 +15794,11 @@
     <episode-num system="onscreen">S17E6</episode-num>
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20261004103000 +0000" stop="20261004110000 +0000">
-    <title lang="en">Back in the Day</title>
-    <desc lang="en">1/10. Get ready to take another trip down memory lane. First topic: growing up.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/bf0051f2-ae9e-4b9d-b80b-7d409a9c9e41/cover"/>
-    <episode-num system="xmltv_ns">1.0.0</episode-num>
-    <episode-num system="onscreen">S2E1</episode-num>
+    <title lang="en">Money for Nothing</title>
+    <desc lang="en">11/20. Fish tank telly? JJ Chalmers has big ideas for a retro radio and TV set, but can he pull off two transformations he's never attempted before?</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3b49fcc5-5d9e-440a-a789-24c0ea7baf91/cover"/>
+    <episode-num system="xmltv_ns">16.10.0</episode-num>
+    <episode-num system="onscreen">S17E11</episode-num>
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20261004110000 +0000" stop="20261004113500 +0000">
     <title lang="en">Bargain Hunt</title>
@@ -15828,8 +15850,8 @@
     <title lang="en">Homes Under the Hammer</title>
     <desc lang="en">We're 'flat out', with three very different flats in London, Bath and Shropshire. Can the new owners who purchased them at auction bring them up to scratch?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bc6ea299-c4e8-490b-82bd-680aedbd4328/cover"/>
-    <episode-num system="xmltv_ns">27.11.0</episode-num>
-    <episode-num system="onscreen">S28E12</episode-num>
+    <episode-num system="xmltv_ns">27.14.0</episode-num>
+    <episode-num system="onscreen">S28E15</episode-num>
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20261004161500 +0000" stop="20261004163000 +0000">
     <title lang="en">BBC News</title>
@@ -16052,7 +16074,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20261002214000 +0000" stop="20261002223000 +0000">
     <title lang="en">The Graham Norton Show</title>
-    <desc lang="en">Sylvester Stallone, Catherine Zeta-Jones and Andrew Garfield join Graham on his sofa. With music from Blossoms.</desc>
+    <desc lang="en">Sylvester Stallone, Catherine Zeta-Jones and Andrew Garfield join Graham on his sofa. With music from Blossoms. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f717b9d4-42b6-445d-b5ce-d6e35f10ec8f/cover"/>
     <episode-num system="xmltv_ns">33.1.0</episode-num>
     <episode-num system="onscreen">S34E2</episode-num>
@@ -16283,8 +16305,8 @@
     <title lang="en">Homes Under the Hammer</title>
     <desc lang="en">We're 'flat out', with three very different flats in London, Bath and Shropshire. Can the new owners who purchased them at auction bring them up to scratch?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bc6ea299-c4e8-490b-82bd-680aedbd4328/cover"/>
-    <episode-num system="xmltv_ns">27.11.0</episode-num>
-    <episode-num system="onscreen">S28E12</episode-num>
+    <episode-num system="xmltv_ns">27.14.0</episode-num>
+    <episode-num system="onscreen">S28E15</episode-num>
   </programme>
   <programme channel="BBCOneWest.uk" start="20261004161500 +0000" stop="20261004163000 +0000">
     <title lang="en">BBC News</title>
@@ -16507,7 +16529,7 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20261002214000 +0000" stop="20261002223000 +0000">
     <title lang="en">The Graham Norton Show</title>
-    <desc lang="en">Sylvester Stallone, Catherine Zeta-Jones and Andrew Garfield join Graham on his sofa. With music from Blossoms.</desc>
+    <desc lang="en">Sylvester Stallone, Catherine Zeta-Jones and Andrew Garfield join Graham on his sofa. With music from Blossoms. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f717b9d4-42b6-445d-b5ce-d6e35f10ec8f/cover"/>
     <episode-num system="xmltv_ns">33.1.0</episode-num>
     <episode-num system="onscreen">S34E2</episode-num>
@@ -16738,8 +16760,8 @@
     <title lang="en">Homes Under the Hammer</title>
     <desc lang="en">We're 'flat out', with three very different flats in London, Bath and Shropshire. Can the new owners who purchased them at auction bring them up to scratch?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bc6ea299-c4e8-490b-82bd-680aedbd4328/cover"/>
-    <episode-num system="xmltv_ns">27.11.0</episode-num>
-    <episode-num system="onscreen">S28E12</episode-num>
+    <episode-num system="xmltv_ns">27.14.0</episode-num>
+    <episode-num system="onscreen">S28E15</episode-num>
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20261004161500 +0000" stop="20261004163000 +0000">
     <title lang="en">BBC News</title>
@@ -16962,7 +16984,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20261002214000 +0000" stop="20261002223000 +0000">
     <title lang="en">The Graham Norton Show</title>
-    <desc lang="en">Sylvester Stallone, Catherine Zeta-Jones and Andrew Garfield join Graham on his sofa. With music from Blossoms.</desc>
+    <desc lang="en">Sylvester Stallone, Catherine Zeta-Jones and Andrew Garfield join Graham on his sofa. With music from Blossoms. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f717b9d4-42b6-445d-b5ce-d6e35f10ec8f/cover"/>
     <episode-num system="xmltv_ns">33.1.0</episode-num>
     <episode-num system="onscreen">S34E2</episode-num>
@@ -17193,8 +17215,8 @@
     <title lang="en">Homes Under the Hammer</title>
     <desc lang="en">We're 'flat out', with three very different flats in London, Bath and Shropshire. Can the new owners who purchased them at auction bring them up to scratch?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bc6ea299-c4e8-490b-82bd-680aedbd4328/cover"/>
-    <episode-num system="xmltv_ns">27.11.0</episode-num>
-    <episode-num system="onscreen">S28E12</episode-num>
+    <episode-num system="xmltv_ns">27.14.0</episode-num>
+    <episode-num system="onscreen">S28E15</episode-num>
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20261004161500 +0000" stop="20261004163000 +0000">
     <title lang="en">BBC News</title>
@@ -17417,7 +17439,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20261002214000 +0000" stop="20261002223000 +0000">
     <title lang="en">The Graham Norton Show</title>
-    <desc lang="en">Sylvester Stallone, Catherine Zeta-Jones and Andrew Garfield join Graham on his sofa. With music from Blossoms.</desc>
+    <desc lang="en">Sylvester Stallone, Catherine Zeta-Jones and Andrew Garfield join Graham on his sofa. With music from Blossoms. Contains some strong language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f717b9d4-42b6-445d-b5ce-d6e35f10ec8f/cover"/>
     <episode-num system="xmltv_ns">33.1.0</episode-num>
     <episode-num system="onscreen">S34E2</episode-num>
@@ -17648,8 +17670,8 @@
     <title lang="en">Homes Under the Hammer</title>
     <desc lang="en">We're 'flat out', with three very different flats in London, Bath and Shropshire. Can the new owners who purchased them at auction bring them up to scratch?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bc6ea299-c4e8-490b-82bd-680aedbd4328/cover"/>
-    <episode-num system="xmltv_ns">27.11.0</episode-num>
-    <episode-num system="onscreen">S28E12</episode-num>
+    <episode-num system="xmltv_ns">27.14.0</episode-num>
+    <episode-num system="onscreen">S28E15</episode-num>
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20261004161500 +0000" stop="20261004163000 +0000">
     <title lang="en">BBC News</title>
@@ -17956,9 +17978,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/11980b9b-e906-48b7-87cd-e2d6e690954a/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20261003134000 +0000" stop="20261003140500 +0000">
-    <title lang="en">General Questions</title>
+    <title lang="en">Scottish Parliament - General Questions</title>
     <desc lang="en">Coverage of general questions in the Scottish Parliament to ministers in the Scottish government, from Tuesday 29 September.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/44bd5eff-939b-444a-9b01-9f4344ba5818/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/83cc1109-2e18-4719-b370-10913e8843be/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20261003140500 +0000" stop="20261003144000 +0000">
     <title lang="en">Scottish First Minister's Questions</title>
@@ -18001,19 +18023,19 @@
     <icon src="https://images.metadata.sky.com/pd-image/0d738a31-f4be-4ced-ae94-1d4ab69dd507/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20261004003500 +0000" stop="20261004010500 +0000">
-    <title lang="en">Senedd Cymru - Welsh Parliament...</title>
-    <desc lang="en">...- Senedd Business Statement. Coverage of the business statement in the Senedd, the Welsh Parliament outlining upcoming business in the chamber, on Tuesday 29 September.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/593488bc-d3a2-4594-9cda-933588786c33/cover"/>
+    <title lang="en">Welsh Senedd - Senedd Business Statement</title>
+    <desc lang="en">Coverage of the business statement in the Senedd, the Welsh Parliament outlining upcoming business in the chamber, on Tuesday 29 September.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7792ce2b-d947-49ce-898b-5a8f3d3a550b/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20261004010500 +0000" stop="20261004014500 +0000">
-    <title lang="en">Senedd Cymru - Escalation and Intervention Framework</title>
+    <title lang="en">Welsh Senedd - Escalation and Intervention Framework</title>
     <desc lang="en">Statement on the Escalation and Intervention Framework, covering the work of NHS Wales.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/96520940-52ed-4cae-a3de-182b9febb354/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/66750884-69ab-4c9c-8caa-443ed2248024/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20261004014500 +0000" stop="20261004023500 +0000">
-    <title lang="en">Senedd Cymru - Welsh Parliament...</title>
-    <desc lang="en">...- National Development Framework. Statement on the revision of the National Development Framework and National Conversation.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/edcdecb8-15c4-46a6-b317-72d0ecb55dfa/cover"/>
+    <title lang="en">Welsh Senedd - National Development Framework</title>
+    <desc lang="en">Statement on the revision of the National Development Framework and National Conversation.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d6e0118b-3197-40cb-9e58-00538cfc1f0c/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20261004023500 +0000" stop="20261004025000 +0000">
     <title lang="en">House of Lords - China and UK Water Companies Question</title>
@@ -18212,9 +18234,9 @@
     <episode-num system="onscreen">S2022E2</episode-num>
   </programme>
   <programme channel="BBCRedButton1.uk" start="20261003220000 +0000" stop="20261003230000 +0000">
-    <title lang="en">Rugby League Grand Final Highlights</title>
-    <desc lang="en">Highlights from the grand final of the 2026 Rugby League Super League.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/526b6629-8d49-4044-95b6-159db037e8fc/cover"/>
+    <title lang="en">Grand Final Highlights: Warrington v Wakefield</title>
+    <desc lang="en">Highlights of the Super League Grand Final between Warrington Wolves and Wakefield Trinity.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/58fea299-8b9c-4ae4-a1ed-20b857909f5d/cover"/>
   </programme>
   <programme channel="BBCRedButton1.uk" start="20261003230000 +0000" stop="20261004050000 +0000">
     <title lang="en">Autumnwatch: Autumn Calm</title>
@@ -18232,7 +18254,7 @@
   </programme>
   <programme channel="BBCRedButton1.uk" start="20261004090000 +0000" stop="20261004120000 +0000">
     <title lang="en">MLB Division Series: Cleveland...</title>
-    <desc lang="en">...Guardians v Chicago White Sox. Baseball action as the Cleveland Guardians face the Chicago White Sox.</desc>
+    <desc lang="en">...Guardians v Chicago White Sox. The Cleveland Guardians face the Chicago White Sox in the Division Series.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8dc7e5ce-8333-4a14-bfbf-3cac6634fc4b/cover"/>
   </programme>
   <programme channel="BBCRedButton1.uk" start="20261004120000 +0000" stop="20261004150000 +0000">
@@ -18957,7 +18979,7 @@
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20261002180000 +0000" stop="20261002183000 +0000">
     <title lang="en">Newsnight, followed by Weather</title>
-    <desc lang="en">Insights and global interviews on the crucial news stories of the day. With Matt Chorley.   Followed by Weather.</desc>
+    <desc lang="en">The Chancellor tells Newsnight he is 'acutely concerned' about sky high diesel prices.   Followed by Weather.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a28eb775-bee4-4a3d-bbcb-12782d3d6ad9/cover"/>
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20261002183000 +0000" stop="20261002210000 +0000">
@@ -19116,7 +19138,7 @@
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20261003153500 +0000" stop="20261003173000 +0000">
     <title lang="en">The Bridge at Remagen</title>
-    <desc lang="en">The war in Europe enters its final stages as the Allies prepare to cross the Rhine. Contains language which some may find offensive. [1969]</desc>
+    <desc lang="en">War drama about the battle for a crucial Rhine bridge in the final days of WWII. Contains language which some may find offensive. [1969]</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9f42a9d9-64b5-4474-8682-ee976fc37998/cover"/>
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20261003173000 +0000" stop="20261003183000 +0000">
@@ -19227,7 +19249,7 @@
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20261004124500 +0000" stop="20261004134500 +0000">
     <title lang="en">Rugby League: Grand Final Highlights</title>
-    <desc lang="en">Highlights from the grand final of the 2026 Rugby League Super League.</desc>
+    <desc lang="en">Highlights of the Super League Grand Final between Warrington Wolves and Wakefield Trinity.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/526b6629-8d49-4044-95b6-159db037e8fc/cover"/>
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20261004134500 +0000" stop="20261004155000 +0000">
@@ -19396,7 +19418,7 @@
   </programme>
   <programme channel="BBCTwoHD.uk" start="20261002180000 +0000" stop="20261002183000 +0000">
     <title lang="en">Newsnight, followed by Weather</title>
-    <desc lang="en">Insights and global interviews on the crucial news stories of the day. With Matt Chorley.   Followed by Weather.</desc>
+    <desc lang="en">The Chancellor tells Newsnight he is 'acutely concerned' about sky high diesel prices.   Followed by Weather.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a28eb775-bee4-4a3d-bbcb-12782d3d6ad9/cover"/>
   </programme>
   <programme channel="BBCTwoHD.uk" start="20261002183000 +0000" stop="20261002210000 +0000">
@@ -19555,7 +19577,7 @@
   </programme>
   <programme channel="BBCTwoHD.uk" start="20261003153500 +0000" stop="20261003173000 +0000">
     <title lang="en">The Bridge at Remagen</title>
-    <desc lang="en">The war in Europe enters its final stages as the Allies prepare to cross the Rhine. Contains language which some may find offensive. [1969]</desc>
+    <desc lang="en">War drama about the battle for a crucial Rhine bridge in the final days of WWII. Contains language which some may find offensive. [1969]</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9f42a9d9-64b5-4474-8682-ee976fc37998/cover"/>
   </programme>
   <programme channel="BBCTwoHD.uk" start="20261003173000 +0000" stop="20261003183000 +0000">
@@ -19666,7 +19688,7 @@
   </programme>
   <programme channel="BBCTwoHD.uk" start="20261004124500 +0000" stop="20261004134500 +0000">
     <title lang="en">Rugby League: Grand Final Highlights</title>
-    <desc lang="en">Highlights from the grand final of the 2026 Rugby League Super League.</desc>
+    <desc lang="en">Highlights of the Super League Grand Final between Warrington Wolves and Wakefield Trinity.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/526b6629-8d49-4044-95b6-159db037e8fc/cover"/>
   </programme>
   <programme channel="BBCTwoHD.uk" start="20261004134500 +0000" stop="20261004155000 +0000">
@@ -19835,7 +19857,7 @@
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20261002180000 +0000" stop="20261002183000 +0000">
     <title lang="en">Newsnight, followed by Weather</title>
-    <desc lang="en">Insights and global interviews on the crucial news stories of the day. With Matt Chorley.   Followed by Weather.</desc>
+    <desc lang="en">The Chancellor tells Newsnight he is 'acutely concerned' about sky high diesel prices.   Followed by Weather.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a28eb775-bee4-4a3d-bbcb-12782d3d6ad9/cover"/>
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20261002183000 +0000" stop="20261002210000 +0000">
@@ -19994,7 +20016,7 @@
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20261003153500 +0000" stop="20261003173000 +0000">
     <title lang="en">The Bridge at Remagen</title>
-    <desc lang="en">The war in Europe enters its final stages as the Allies prepare to cross the Rhine. Contains language which some may find offensive. [1969]</desc>
+    <desc lang="en">War drama about the battle for a crucial Rhine bridge in the final days of WWII. Contains language which some may find offensive. [1969]</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9f42a9d9-64b5-4474-8682-ee976fc37998/cover"/>
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20261003173000 +0000" stop="20261003183000 +0000">
@@ -20105,7 +20127,7 @@
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20261004124500 +0000" stop="20261004134500 +0000">
     <title lang="en">Rugby League: Grand Final Highlights</title>
-    <desc lang="en">Highlights from the grand final of the 2026 Rugby League Super League.</desc>
+    <desc lang="en">Highlights of the Super League Grand Final between Warrington Wolves and Wakefield Trinity.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/526b6629-8d49-4044-95b6-159db037e8fc/cover"/>
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20261004134500 +0000" stop="20261004155000 +0000">
@@ -20288,7 +20310,7 @@
   </programme>
   <programme channel="BBCTwoWales.uk" start="20261002180000 +0000" stop="20261002183000 +0000">
     <title lang="en">Newsnight, followed by Weather</title>
-    <desc lang="en">Insights and global interviews on the crucial news stories of the day. With Matt Chorley.   Followed by Weather.</desc>
+    <desc lang="en">The Chancellor tells Newsnight he is 'acutely concerned' about sky high diesel prices.   Followed by Weather.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a28eb775-bee4-4a3d-bbcb-12782d3d6ad9/cover"/>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20261002183000 +0000" stop="20261002210000 +0000">
@@ -20447,7 +20469,7 @@
   </programme>
   <programme channel="BBCTwoWales.uk" start="20261003153500 +0000" stop="20261003173000 +0000">
     <title lang="en">The Bridge at Remagen</title>
-    <desc lang="en">The war in Europe enters its final stages as the Allies prepare to cross the Rhine. Contains language which some may find offensive. [1969]</desc>
+    <desc lang="en">War drama about the battle for a crucial Rhine bridge in the final days of WWII. Contains language which some may find offensive. [1969]</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9f42a9d9-64b5-4474-8682-ee976fc37998/cover"/>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20261003173000 +0000" stop="20261003183000 +0000">
@@ -20558,7 +20580,7 @@
   </programme>
   <programme channel="BBCTwoWales.uk" start="20261004124500 +0000" stop="20261004134500 +0000">
     <title lang="en">Rugby League: Grand Final Highlights</title>
-    <desc lang="en">Highlights from the grand final of the 2026 Rugby League Super League.</desc>
+    <desc lang="en">Highlights of the Super League Grand Final between Warrington Wolves and Wakefield Trinity.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/526b6629-8d49-4044-95b6-159db037e8fc/cover"/>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20261004134500 +0000" stop="20261004155000 +0000">
@@ -21775,9 +21797,6 @@
     <desc lang="en">A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/35021f31-968a-4346-903f-914de8c217a1/cover"/>
   </programme>
-  <programme channel="CBBC.uk" start="20261001175800 +0000" stop="20261001235800 +0000">
-    <title lang="en">.programmes start at 7.00am</title>
-  </programme>
   <programme channel="CBBC.uk" start="20261001235800 +0000" stop="20261002042959 +0000">
     <title lang="en">.programmes start at 7.00am</title>
   </programme>
@@ -22629,9 +22648,6 @@
   </programme>
   <programme channel="CBBC.uk" start="20261004175800 +0000" stop="20261004235800 +0000">
     <title lang="en">.programmes start at 7.00am</title>
-  </programme>
-  <programme channel="CBeebies.uk" start="20261001175800 +0000" stop="20261001235800 +0000">
-    <title lang="en">..programmes start at 6.00am</title>
   </programme>
   <programme channel="CBeebies.uk" start="20261001235800 +0000" stop="20261002042959 +0000">
     <title lang="en">..programmes start at 6.00am</title>
@@ -24089,14 +24105,14 @@
     <episode-num system="xmltv_ns">0.27.0</episode-num>
     <episode-num system="onscreen">S1E28</episode-num>
   </programme>
-  <programme channel="CBeebies.uk" start="20261004152500 +0000" stop="20261004153000 +0000">
+  <programme channel="CBeebies.uk" start="20261004152500 +0000" stop="20261004153500 +0000">
     <title lang="en">Magic Hands</title>
     <desc lang="en">To Be Young, Gifted and Black. Tianah and Semhar are on Blackfriars Bridge, where black people have marched for equality.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c0752a80-2629-48e3-a89d-f19322c68c29/cover"/>
     <episode-num system="xmltv_ns">3.1.0</episode-num>
     <episode-num system="onscreen">S4E2</episode-num>
   </programme>
-  <programme channel="CBeebies.uk" start="20261004153000 +0000" stop="20261004154500 +0000">
+  <programme channel="CBeebies.uk" start="20261004153500 +0000" stop="20261004154500 +0000">
     <title lang="en">Piripenguins</title>
     <desc lang="en">Brinicle Hits the Wrong Note. Brinicle tries to write a hit fundraising single but is stumped for ideas.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5982d782-b31a-4553-bd80-b07debde07db/cover"/>
@@ -24115,56 +24131,56 @@
     <desc lang="en">The Unicorn Wish. Rafi's unicorn wish brings exciting quests, but she realises even heroes need rest - and the best adventures can be found at home.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/cac2017c-9b7c-49ce-8c5a-6128b24eb6f5/cover"/>
   </programme>
-  <programme channel="CBeebies.uk" start="20261004160500 +0000" stop="20261004161000 +0000">
+  <programme channel="CBeebies.uk" start="20261004160500 +0000" stop="20261004161500 +0000">
     <title lang="en">Bluey</title>
     <desc lang="en">Dance Mode. After Dad eats her last chip, Bingo gets three chances to put Mum and Dad in 'dance mode'.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9c84e39d-ef5a-40d4-8acd-cc6b9fe35e43/cover"/>
     <episode-num system="xmltv_ns">1.0.0</episode-num>
     <episode-num system="onscreen">S2E1</episode-num>
   </programme>
-  <programme channel="CBeebies.uk" start="20261004161000 +0000" stop="20261004162500 +0000">
+  <programme channel="CBeebies.uk" start="20261004161500 +0000" stop="20261004162500 +0000">
     <title lang="en">JoJo &amp; Gran Gran</title>
     <desc lang="en">It's Time to Harvest Vegetables. JoJo and Gran Gran are making Great Gran Gran's St Lucian Callaloo soup, but they can't buy the last few vegetables they need because Jared's shop is closed.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d052bb8b-f057-42c3-87ba-f97270951358/cover"/>
     <episode-num system="xmltv_ns">0.28.0</episode-num>
     <episode-num system="onscreen">S1E29</episode-num>
   </programme>
-  <programme channel="CBeebies.uk" start="20261004162500 +0000" stop="20261004163000 +0000">
+  <programme channel="CBeebies.uk" start="20261004162500 +0000" stop="20261004163500 +0000">
     <title lang="en">Puffin Rock</title>
     <desc lang="en">The Perfect Spot. Mama and Papa are taking Oona and Baba on a family outing to experience something special, but to see the big surprise, they need to find the perfect spot!</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7bf37308-43da-4041-b5f4-a3527ae51dcf/cover"/>
     <episode-num system="xmltv_ns">2.9.0</episode-num>
     <episode-num system="onscreen">S3E10</episode-num>
   </programme>
-  <programme channel="CBeebies.uk" start="20261004163000 +0000" stop="20261004164500 +0000">
+  <programme channel="CBeebies.uk" start="20261004163500 +0000" stop="20261004164500 +0000">
     <title lang="en">Charlie and Lola</title>
     <desc lang="en">I've Won, No I've Won, No I've Won. Animation series about a pair of siblings. Lola simply has to win all of the time. Will she think differently when she's beaten in a race?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/de1374d7-70ab-4f2d-b593-4cfe02d800d9/cover"/>
     <episode-num system="xmltv_ns">0.6.0</episode-num>
     <episode-num system="onscreen">S1E7</episode-num>
   </programme>
-  <programme channel="CBeebies.uk" start="20261004164500 +0000" stop="20261004170500 +0000">
+  <programme channel="CBeebies.uk" start="20261004164500 +0000" stop="20261004171000 +0000">
     <title lang="en">Moon and Me</title>
     <desc lang="en">Where Are the Friends? Everybody is very surprised to discover the Roundabout has been left in the sitting room.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4880ae91-0c81-4226-8846-11ac0d39bde9/cover"/>
     <episode-num system="xmltv_ns">0.23.0</episode-num>
     <episode-num system="onscreen">S1E24</episode-num>
   </programme>
-  <programme channel="CBeebies.uk" start="20261004170500 +0000" stop="20261004172000 +0000">
+  <programme channel="CBeebies.uk" start="20261004171000 +0000" stop="20261004172000 +0000">
     <title lang="en">BeddyByes</title>
     <desc lang="en">Mud. MeMo and BaBa find some fun and safe ways to play with glorious mud: stomping in puddles, making pies in a mud kitchen and planting some seeds with the Yummies.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/27c724e5-986d-40e3-9102-d471ece70c06/cover"/>
     <episode-num system="xmltv_ns">0.35.0</episode-num>
     <episode-num system="onscreen">S1E36</episode-num>
   </programme>
-  <programme channel="CBeebies.uk" start="20261004172000 +0000" stop="20261004174500 +0000">
+  <programme channel="CBeebies.uk" start="20261004172000 +0000" stop="20261004175000 +0000">
     <title lang="en">In the Night Garden</title>
     <desc lang="en">Quiet Please Tombliboos, Upsy Daisy Wants to Sing. Series for young children. Upsy Daisy sets up her own special megaphone to sing but she can't make herself heard.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1ca37631-d269-42e4-bc1a-8b8c114aba8e/cover"/>
     <episode-num system="xmltv_ns">0.17.0</episode-num>
     <episode-num system="onscreen">S1E18</episode-num>
   </programme>
-  <programme channel="CBeebies.uk" start="20261004174500 +0000" stop="20261004175800 +0000">
+  <programme channel="CBeebies.uk" start="20261004175000 +0000" stop="20261004175800 +0000">
     <title lang="en">CBeebies Bedtime Stories</title>
     <desc lang="en">Miss Hoolie - People Need People. Miss Hoolie reads a CBeebies Bedtime Story from Balamory celebrating the importance of community.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f4f59b86-4e09-4320-82be-42be372057d2/cover"/>
@@ -24374,7 +24390,7 @@
   </programme>
   <programme channel="Channel4.uk" start="20261002180000 +0000" stop="20261002190000 +0000">
     <title lang="en">Channel 4 News</title>
-    <desc lang="en">Channel 4's flagship news programme. Including the weather.</desc>
+    <desc lang="en">G7 leaders release diesel reserves as prices soar. Riot police clash with high school students across France. And Manchester City appeals the Premier League's guilty verdict.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bf97b624-1ddb-466a-bbc0-0e408c4d4c91/cover"/>
   </programme>
   <programme channel="Channel4.uk" start="20261002190000 +0000" stop="20261002200000 +0000">
@@ -25039,7 +25055,7 @@
   </programme>
   <programme channel="Channel4Plus1.uk" start="20261002190000 +0000" stop="20261002200000 +0000">
     <title lang="en">Channel 4 News</title>
-    <desc lang="en">Channel 4's flagship news programme. Including the weather.</desc>
+    <desc lang="en">G7 leaders release diesel reserves as prices soar. Riot police clash with high school students across France. And Manchester City appeals the Premier League's guilty verdict.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bf97b624-1ddb-466a-bbc0-0e408c4d4c91/cover"/>
   </programme>
   <programme channel="Channel4Plus1.uk" start="20261002200000 +0000" stop="20261002210000 +0000">
@@ -25864,11 +25880,6 @@
     <episode-num system="xmltv_ns">1.6.0</episode-num>
     <episode-num system="onscreen">S2E7</episode-num>
   </programme>
-  <programme channel="Channel5Plus1.uk" start="20261003051400 +0000" stop="20261003051500 +0000">
-    <title lang="en">This is Channel 5 +1</title>
-    <desc lang="en">This is Channel 5 +1</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/7120b68e-ec17-42ce-a082-d26930835c57/cover"/>
-  </programme>
   <programme channel="Channel5Plus1.uk" start="20261003051500 +0000" stop="20261003052500 +0000">
     <title lang="en">Entertainment News on 5</title>
     <desc lang="en">A daily round-up of showbiz news and gossip from around the world, focusing on celebrities, movies, music and entertainment.</desc>
@@ -26137,17 +26148,20 @@
     <episode-num system="xmltv_ns">1.2.0</episode-num>
     <episode-num system="onscreen">S2E3</episode-num>
   </programme>
-  <programme channel="Channel5Plus1.uk" start="20261004043000 +0000" stop="20261004051600 +0000">
-    <title lang="en">Spain with Michael Portillo</title>
-    <desc lang="en">Join Michael on a journey of discovery deep into his secret Spain. In this edition, he shows us a surprising side to the Catalan capital Barcelona that lies off the tourist trail. (Ep1)</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a9b4ab17-9911-491a-9f20-df7caa96fb10/cover"/>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme channel="Channel5Plus1.uk" start="20261004051600 +0000" stop="20261004052500 +0000">
+  <programme channel="Channel5Plus1.uk" start="20261004043000 +0000" stop="20261004050000 +0000">
     <title lang="en">This is Channel 5 +1</title>
     <desc lang="en">This is Channel 5 +1</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/4297a82d-51bd-4e34-aea2-40060577924c/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/bc710dc8-3960-425c-8c6d-4bb611c6dcdc/cover"/>
+  </programme>
+  <programme channel="Channel5Plus1.uk" start="20261004050000 +0000" stop="20261004051500 +0000">
+    <title lang="en">This is Channel 5 +1</title>
+    <desc lang="en">This is Channel 5 +1</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/063a13fe-7fff-4d87-a13d-c46672529e21/cover"/>
+  </programme>
+  <programme channel="Channel5Plus1.uk" start="20261004051500 +0000" stop="20261004052500 +0000">
+    <title lang="en">Entertainment News on 5</title>
+    <desc lang="en">A daily round-up of showbiz news and gossip from around the world, focusing on celebrities, movies, music and entertainment.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/914faef9-5c5e-4b31-86fd-27bec920b84a/cover"/>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20261004052500 +0000" stop="20261004053500 +0000">
     <title lang="en">**Visually Signed** Mixmups</title>
@@ -34062,9 +34076,9 @@
   <programme channel="ITV1CentralE.uk" start="20261003020000 +0000" stop="20261003025000 +0000">
     <title lang="en">Long Lost Family</title>
     <desc lang="en">Liz searches for her birth mother and an older brother who she knows was also adopted as a baby. Naomi searches for her birth mother and twin sisters.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1580bdbe-d1b6-44c0-9e19-71801aef0342/cover"/>
-    <episode-num system="xmltv_ns">15.3.0</episode-num>
-    <episode-num system="onscreen">S16E4</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/1976a4d6-a1b6-4956-b81a-8a129b526e4e/cover"/>
+    <episode-num system="xmltv_ns">15.5.0</episode-num>
+    <episode-num system="onscreen">S16E6</episode-num>
   </programme>
   <programme channel="ITV1CentralE.uk" start="20261003025000 +0000" stop="20261003040500 +0000">
     <title lang="en">Unwind with ITV</title>
@@ -34497,9 +34511,9 @@
   <programme channel="ITV1CentralW.uk" start="20261003020000 +0000" stop="20261003025000 +0000">
     <title lang="en">Long Lost Family</title>
     <desc lang="en">Liz searches for her birth mother and an older brother who she knows was also adopted as a baby. Naomi searches for her birth mother and twin sisters.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1580bdbe-d1b6-44c0-9e19-71801aef0342/cover"/>
-    <episode-num system="xmltv_ns">15.3.0</episode-num>
-    <episode-num system="onscreen">S16E4</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/1976a4d6-a1b6-4956-b81a-8a129b526e4e/cover"/>
+    <episode-num system="xmltv_ns">15.5.0</episode-num>
+    <episode-num system="onscreen">S16E6</episode-num>
   </programme>
   <programme channel="ITV1CentralW.uk" start="20261003025000 +0000" stop="20261003040500 +0000">
     <title lang="en">Unwind with ITV</title>
@@ -34932,9 +34946,9 @@
   <programme channel="ITV1London.uk" start="20261003020000 +0000" stop="20261003025000 +0000">
     <title lang="en">Long Lost Family</title>
     <desc lang="en">Liz searches for her birth mother and an older brother who she knows was also adopted as a baby. Naomi searches for her birth mother and twin sisters.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1580bdbe-d1b6-44c0-9e19-71801aef0342/cover"/>
-    <episode-num system="xmltv_ns">15.3.0</episode-num>
-    <episode-num system="onscreen">S16E4</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/1976a4d6-a1b6-4956-b81a-8a129b526e4e/cover"/>
+    <episode-num system="xmltv_ns">15.5.0</episode-num>
+    <episode-num system="onscreen">S16E6</episode-num>
   </programme>
   <programme channel="ITV1London.uk" start="20261003025000 +0000" stop="20261003040500 +0000">
     <title lang="en">Unwind with ITV</title>
@@ -35367,9 +35381,9 @@
   <programme channel="ITV1MeridianE.uk" start="20261003020000 +0000" stop="20261003025000 +0000">
     <title lang="en">Long Lost Family</title>
     <desc lang="en">Liz searches for her birth mother and an older brother who she knows was also adopted as a baby. Naomi searches for her birth mother and twin sisters.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1580bdbe-d1b6-44c0-9e19-71801aef0342/cover"/>
-    <episode-num system="xmltv_ns">15.3.0</episode-num>
-    <episode-num system="onscreen">S16E4</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/1976a4d6-a1b6-4956-b81a-8a129b526e4e/cover"/>
+    <episode-num system="xmltv_ns">15.5.0</episode-num>
+    <episode-num system="onscreen">S16E6</episode-num>
   </programme>
   <programme channel="ITV1MeridianE.uk" start="20261003025000 +0000" stop="20261003040500 +0000">
     <title lang="en">Unwind with ITV</title>
@@ -35802,9 +35816,9 @@
   <programme channel="ITV1MeridianN.uk" start="20261003020000 +0000" stop="20261003025000 +0000">
     <title lang="en">Long Lost Family</title>
     <desc lang="en">Liz searches for her birth mother and an older brother who she knows was also adopted as a baby. Naomi searches for her birth mother and twin sisters.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1580bdbe-d1b6-44c0-9e19-71801aef0342/cover"/>
-    <episode-num system="xmltv_ns">15.3.0</episode-num>
-    <episode-num system="onscreen">S16E4</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/1976a4d6-a1b6-4956-b81a-8a129b526e4e/cover"/>
+    <episode-num system="xmltv_ns">15.5.0</episode-num>
+    <episode-num system="onscreen">S16E6</episode-num>
   </programme>
   <programme channel="ITV1MeridianN.uk" start="20261003025000 +0000" stop="20261003040500 +0000">
     <title lang="en">Unwind with ITV</title>
@@ -36237,9 +36251,9 @@
   <programme channel="ITV1MeridianS.uk" start="20261003020000 +0000" stop="20261003025000 +0000">
     <title lang="en">Long Lost Family</title>
     <desc lang="en">Liz searches for her birth mother and an older brother who she knows was also adopted as a baby. Naomi searches for her birth mother and twin sisters.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1580bdbe-d1b6-44c0-9e19-71801aef0342/cover"/>
-    <episode-num system="xmltv_ns">15.3.0</episode-num>
-    <episode-num system="onscreen">S16E4</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/1976a4d6-a1b6-4956-b81a-8a129b526e4e/cover"/>
+    <episode-num system="xmltv_ns">15.5.0</episode-num>
+    <episode-num system="onscreen">S16E6</episode-num>
   </programme>
   <programme channel="ITV1MeridianS.uk" start="20261003025000 +0000" stop="20261003040500 +0000">
     <title lang="en">Unwind with ITV</title>
@@ -36672,9 +36686,9 @@
   <programme channel="ITV1North.uk" start="20261003020000 +0000" stop="20261003025000 +0000">
     <title lang="en">Long Lost Family</title>
     <desc lang="en">Liz searches for her birth mother and an older brother who she knows was also adopted as a baby. Naomi searches for her birth mother and twin sisters.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1580bdbe-d1b6-44c0-9e19-71801aef0342/cover"/>
-    <episode-num system="xmltv_ns">15.3.0</episode-num>
-    <episode-num system="onscreen">S16E4</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/1976a4d6-a1b6-4956-b81a-8a129b526e4e/cover"/>
+    <episode-num system="xmltv_ns">15.5.0</episode-num>
+    <episode-num system="onscreen">S16E6</episode-num>
   </programme>
   <programme channel="ITV1North.uk" start="20261003025000 +0000" stop="20261003040500 +0000">
     <title lang="en">Unwind with ITV</title>
@@ -36952,10 +36966,10 @@
   <programme channel="ITV1Plus1Granada.uk" start="20261001210000 +0000" stop="20261001220000 +0000">
     <title lang="en">New: Long Lost Family</title>
     <desc lang="en">Liz searches for her birth mother and an older brother who she knows was also adopted as a baby. Naomi searches for her birth mother and twin sisters.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1580bdbe-d1b6-44c0-9e19-71801aef0342/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/1976a4d6-a1b6-4956-b81a-8a129b526e4e/cover"/>
     <premiere/>
-    <episode-num system="xmltv_ns">15.3.0</episode-num>
-    <episode-num system="onscreen">S16E4</episode-num>
+    <episode-num system="xmltv_ns">15.5.0</episode-num>
+    <episode-num system="onscreen">S16E6</episode-num>
   </programme>
   <programme channel="ITV1Plus1Granada.uk" start="20261001220000 +0000" stop="20261001223000 +0000">
     <title lang="en">ITV News at Ten</title>
@@ -37125,9 +37139,9 @@
   <programme channel="ITV1Plus1Granada.uk" start="20261003030000 +0000" stop="20261003035000 +0000">
     <title lang="en">Long Lost Family</title>
     <desc lang="en">Liz searches for her birth mother and an older brother who she knows was also adopted as a baby. Naomi searches for her birth mother and twin sisters.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1580bdbe-d1b6-44c0-9e19-71801aef0342/cover"/>
-    <episode-num system="xmltv_ns">15.3.0</episode-num>
-    <episode-num system="onscreen">S16E4</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/1976a4d6-a1b6-4956-b81a-8a129b526e4e/cover"/>
+    <episode-num system="xmltv_ns">15.5.0</episode-num>
+    <episode-num system="onscreen">S16E6</episode-num>
   </programme>
   <programme channel="ITV1Plus1Granada.uk" start="20261003035000 +0000" stop="20261003050500 +0000">
     <title lang="en">Unwind with ITV</title>
@@ -37397,10 +37411,10 @@
   <programme channel="ITV1Plus1London.uk" start="20261001210000 +0000" stop="20261001220000 +0000">
     <title lang="en">New: Long Lost Family</title>
     <desc lang="en">Liz searches for her birth mother and an older brother who she knows was also adopted as a baby. Naomi searches for her birth mother and twin sisters.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1580bdbe-d1b6-44c0-9e19-71801aef0342/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/1976a4d6-a1b6-4956-b81a-8a129b526e4e/cover"/>
     <premiere/>
-    <episode-num system="xmltv_ns">15.3.0</episode-num>
-    <episode-num system="onscreen">S16E4</episode-num>
+    <episode-num system="xmltv_ns">15.5.0</episode-num>
+    <episode-num system="onscreen">S16E6</episode-num>
   </programme>
   <programme channel="ITV1Plus1London.uk" start="20261001220000 +0000" stop="20261001223000 +0000">
     <title lang="en">ITV News at Ten</title>
@@ -37570,9 +37584,9 @@
   <programme channel="ITV1Plus1London.uk" start="20261003030000 +0000" stop="20261003035000 +0000">
     <title lang="en">Long Lost Family</title>
     <desc lang="en">Liz searches for her birth mother and an older brother who she knows was also adopted as a baby. Naomi searches for her birth mother and twin sisters.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1580bdbe-d1b6-44c0-9e19-71801aef0342/cover"/>
-    <episode-num system="xmltv_ns">15.3.0</episode-num>
-    <episode-num system="onscreen">S16E4</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/1976a4d6-a1b6-4956-b81a-8a129b526e4e/cover"/>
+    <episode-num system="xmltv_ns">15.5.0</episode-num>
+    <episode-num system="onscreen">S16E6</episode-num>
   </programme>
   <programme channel="ITV1Plus1London.uk" start="20261003035000 +0000" stop="20261003050500 +0000">
     <title lang="en">Unwind with ITV</title>
@@ -37842,10 +37856,10 @@
   <programme channel="ITV1Plus1Meridian.uk" start="20261001210000 +0000" stop="20261001220000 +0000">
     <title lang="en">New: Long Lost Family</title>
     <desc lang="en">Liz searches for her birth mother and an older brother who she knows was also adopted as a baby. Naomi searches for her birth mother and twin sisters.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1580bdbe-d1b6-44c0-9e19-71801aef0342/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/1976a4d6-a1b6-4956-b81a-8a129b526e4e/cover"/>
     <premiere/>
-    <episode-num system="xmltv_ns">15.3.0</episode-num>
-    <episode-num system="onscreen">S16E4</episode-num>
+    <episode-num system="xmltv_ns">15.5.0</episode-num>
+    <episode-num system="onscreen">S16E6</episode-num>
   </programme>
   <programme channel="ITV1Plus1Meridian.uk" start="20261001220000 +0000" stop="20261001223000 +0000">
     <title lang="en">ITV News at Ten</title>
@@ -38015,9 +38029,9 @@
   <programme channel="ITV1Plus1Meridian.uk" start="20261003030000 +0000" stop="20261003035000 +0000">
     <title lang="en">Long Lost Family</title>
     <desc lang="en">Liz searches for her birth mother and an older brother who she knows was also adopted as a baby. Naomi searches for her birth mother and twin sisters.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1580bdbe-d1b6-44c0-9e19-71801aef0342/cover"/>
-    <episode-num system="xmltv_ns">15.3.0</episode-num>
-    <episode-num system="onscreen">S16E4</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/1976a4d6-a1b6-4956-b81a-8a129b526e4e/cover"/>
+    <episode-num system="xmltv_ns">15.5.0</episode-num>
+    <episode-num system="onscreen">S16E6</episode-num>
   </programme>
   <programme channel="ITV1Plus1Meridian.uk" start="20261003035000 +0000" stop="20261003050500 +0000">
     <title lang="en">Unwind with ITV</title>
@@ -38287,10 +38301,10 @@
   <programme channel="ITV1Plus1Midlands.uk" start="20261001210000 +0000" stop="20261001220000 +0000">
     <title lang="en">New: Long Lost Family</title>
     <desc lang="en">Liz searches for her birth mother and an older brother who she knows was also adopted as a baby. Naomi searches for her birth mother and twin sisters.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1580bdbe-d1b6-44c0-9e19-71801aef0342/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/1976a4d6-a1b6-4956-b81a-8a129b526e4e/cover"/>
     <premiere/>
-    <episode-num system="xmltv_ns">15.3.0</episode-num>
-    <episode-num system="onscreen">S16E4</episode-num>
+    <episode-num system="xmltv_ns">15.5.0</episode-num>
+    <episode-num system="onscreen">S16E6</episode-num>
   </programme>
   <programme channel="ITV1Plus1Midlands.uk" start="20261001220000 +0000" stop="20261001223000 +0000">
     <title lang="en">ITV News at Ten</title>
@@ -38460,9 +38474,9 @@
   <programme channel="ITV1Plus1Midlands.uk" start="20261003030000 +0000" stop="20261003035000 +0000">
     <title lang="en">Long Lost Family</title>
     <desc lang="en">Liz searches for her birth mother and an older brother who she knows was also adopted as a baby. Naomi searches for her birth mother and twin sisters.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1580bdbe-d1b6-44c0-9e19-71801aef0342/cover"/>
-    <episode-num system="xmltv_ns">15.3.0</episode-num>
-    <episode-num system="onscreen">S16E4</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/1976a4d6-a1b6-4956-b81a-8a129b526e4e/cover"/>
+    <episode-num system="xmltv_ns">15.5.0</episode-num>
+    <episode-num system="onscreen">S16E6</episode-num>
   </programme>
   <programme channel="ITV1Plus1Midlands.uk" start="20261003035000 +0000" stop="20261003050500 +0000">
     <title lang="en">Unwind with ITV</title>
@@ -38887,9 +38901,9 @@
   <programme channel="ITV1TyneTees.uk" start="20261003020000 +0000" stop="20261003025000 +0000">
     <title lang="en">Long Lost Family</title>
     <desc lang="en">Liz searches for her birth mother and an older brother who she knows was also adopted as a baby. Naomi searches for her birth mother and twin sisters.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1580bdbe-d1b6-44c0-9e19-71801aef0342/cover"/>
-    <episode-num system="xmltv_ns">15.3.0</episode-num>
-    <episode-num system="onscreen">S16E4</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/1976a4d6-a1b6-4956-b81a-8a129b526e4e/cover"/>
+    <episode-num system="xmltv_ns">15.5.0</episode-num>
+    <episode-num system="onscreen">S16E6</episode-num>
   </programme>
   <programme channel="ITV1TyneTees.uk" start="20261003025000 +0000" stop="20261003040500 +0000">
     <title lang="en">Unwind with ITV</title>
@@ -39334,9 +39348,9 @@
   <programme channel="ITV1Wales.uk" start="20261003020000 +0000" stop="20261003025000 +0000">
     <title lang="en">Long Lost Family</title>
     <desc lang="en">Liz searches for her birth mother and an older brother who she knows was also adopted as a baby. Naomi searches for her birth mother and twin sisters.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1580bdbe-d1b6-44c0-9e19-71801aef0342/cover"/>
-    <episode-num system="xmltv_ns">15.3.0</episode-num>
-    <episode-num system="onscreen">S16E4</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/1976a4d6-a1b6-4956-b81a-8a129b526e4e/cover"/>
+    <episode-num system="xmltv_ns">15.5.0</episode-num>
+    <episode-num system="onscreen">S16E6</episode-num>
   </programme>
   <programme channel="ITV1Wales.uk" start="20261003025000 +0000" stop="20261003040500 +0000">
     <title lang="en">Unwind with ITV</title>
@@ -39769,9 +39783,9 @@
   <programme channel="ITV1West.uk" start="20261003020000 +0000" stop="20261003025000 +0000">
     <title lang="en">Long Lost Family</title>
     <desc lang="en">Liz searches for her birth mother and an older brother who she knows was also adopted as a baby. Naomi searches for her birth mother and twin sisters.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1580bdbe-d1b6-44c0-9e19-71801aef0342/cover"/>
-    <episode-num system="xmltv_ns">15.3.0</episode-num>
-    <episode-num system="onscreen">S16E4</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/1976a4d6-a1b6-4956-b81a-8a129b526e4e/cover"/>
+    <episode-num system="xmltv_ns">15.5.0</episode-num>
+    <episode-num system="onscreen">S16E6</episode-num>
   </programme>
   <programme channel="ITV1West.uk" start="20261003025000 +0000" stop="20261003040500 +0000">
     <title lang="en">Unwind with ITV</title>
@@ -40204,9 +40218,9 @@
   <programme channel="ITV1WestCountry.uk" start="20261003020000 +0000" stop="20261003025000 +0000">
     <title lang="en">Long Lost Family</title>
     <desc lang="en">Liz searches for her birth mother and an older brother who she knows was also adopted as a baby. Naomi searches for her birth mother and twin sisters.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1580bdbe-d1b6-44c0-9e19-71801aef0342/cover"/>
-    <episode-num system="xmltv_ns">15.3.0</episode-num>
-    <episode-num system="onscreen">S16E4</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/1976a4d6-a1b6-4956-b81a-8a129b526e4e/cover"/>
+    <episode-num system="xmltv_ns">15.5.0</episode-num>
+    <episode-num system="onscreen">S16E6</episode-num>
   </programme>
   <programme channel="ITV1WestCountry.uk" start="20261003025000 +0000" stop="20261003040500 +0000">
     <title lang="en">Unwind with ITV</title>
@@ -40639,9 +40653,9 @@
   <programme channel="ITV1YorkshireEast.uk" start="20261003020000 +0000" stop="20261003025000 +0000">
     <title lang="en">Long Lost Family</title>
     <desc lang="en">Liz searches for her birth mother and an older brother who she knows was also adopted as a baby. Naomi searches for her birth mother and twin sisters.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1580bdbe-d1b6-44c0-9e19-71801aef0342/cover"/>
-    <episode-num system="xmltv_ns">15.3.0</episode-num>
-    <episode-num system="onscreen">S16E4</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/1976a4d6-a1b6-4956-b81a-8a129b526e4e/cover"/>
+    <episode-num system="xmltv_ns">15.5.0</episode-num>
+    <episode-num system="onscreen">S16E6</episode-num>
   </programme>
   <programme channel="ITV1YorkshireEast.uk" start="20261003025000 +0000" stop="20261003040500 +0000">
     <title lang="en">Unwind with ITV</title>
@@ -41074,9 +41088,9 @@
   <programme channel="ITV1YorkshireWest.uk" start="20261003020000 +0000" stop="20261003025000 +0000">
     <title lang="en">Long Lost Family</title>
     <desc lang="en">Liz searches for her birth mother and an older brother who she knows was also adopted as a baby. Naomi searches for her birth mother and twin sisters.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1580bdbe-d1b6-44c0-9e19-71801aef0342/cover"/>
-    <episode-num system="xmltv_ns">15.3.0</episode-num>
-    <episode-num system="onscreen">S16E4</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/1976a4d6-a1b6-4956-b81a-8a129b526e4e/cover"/>
+    <episode-num system="xmltv_ns">15.5.0</episode-num>
+    <episode-num system="onscreen">S16E6</episode-num>
   </programme>
   <programme channel="ITV1YorkshireWest.uk" start="20261003025000 +0000" stop="20261003040500 +0000">
     <title lang="en">Unwind with ITV</title>
