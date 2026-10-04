@@ -479,7 +479,7 @@
   </programme>
   <programme channel="sky.main.uk" start="20261004190000 +0000" stop="20261004220000 +0000">
     <title lang="en">Live World Grand Prix Darts Final</title>
-    <desc lang="en">The 2026 World Grand Prix champion is crowned in the final at Leicester's Mattioli Arena.</desc>
+    <desc lang="en">With a £150,000 prize fund up for grabs, the 2026 World Grand Prix champion is crowned in the final at Leicester's Mattioli Arena as Luke Humphries takes on Gerwyn Price.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/03ff877a-5866-4c3d-9d4c-78cf70a0e286/cover"/>
   </programme>
   <programme channel="sky.main.uk" start="20261004220000 +0000" stop="20261004233000 +0000">
@@ -3401,7 +3401,7 @@
   </programme>
   <programme channel="sky.mix.uk" start="20261005090000 +0000" stop="20261005120000 +0000">
     <title lang="en">World Grand Prix Darts Final</title>
-    <desc lang="en">The 2026 World Grand Prix champion is crowned in the final at Leicester's Mattioli Arena.</desc>
+    <desc lang="en">With a £150,000 prize fund up for grabs, the 2026 World Grand Prix champion is crowned in the final at Leicester's Mattioli Arena as Luke Humphries takes on Gerwyn Price.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/03ff877a-5866-4c3d-9d4c-78cf70a0e286/cover"/>
   </programme>
   <programme channel="sky.mix.uk" start="20261005120000 +0000" stop="20261005130000 +0000">
@@ -3626,7 +3626,7 @@
   </programme>
   <programme channel="sky.mix.uk" start="20261006190000 +0000" stop="20261006220000 +0000">
     <title lang="en">World Grand Prix Darts Final</title>
-    <desc lang="en">The 2026 World Grand Prix champion is crowned in the final at Leicester's Mattioli Arena.</desc>
+    <desc lang="en">With a £150,000 prize fund up for grabs, the 2026 World Grand Prix champion is crowned in the final at Leicester's Mattioli Arena as Luke Humphries takes on Gerwyn Price.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/03ff877a-5866-4c3d-9d4c-78cf70a0e286/cover"/>
   </programme>
   <programme channel="sky.mix.uk" start="20261006220000 +0000" stop="20261006230000 +0000">
@@ -9521,17 +9521,15 @@
     <title lang="en">Alba Today</title>
     <desc lang="en">Sealladh ùr bho Alba. A new view from Scotland.</desc>
   </programme>
-  <programme channel="BBCAlba.uk" start="20261004130000 +0000" stop="20261004151000 +0000">
+  <programme channel="BBCAlba.uk" start="20261004130000 +0000" stop="20261004151500 +0000">
     <title lang="en">SWPL - Hibernian v Hearts</title>
     <desc lang="en">We bring you the first Edinburgh derby of the season as Hibernian take on Hearts at Easter Road Stadium.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/31ccb55c-513a-4ea7-bf2b-9de586a7035f/cover"/>
   </programme>
-  <programme channel="BBCAlba.uk" start="20261004151000 +0000" stop="20261004152000 +0000">
-    <title lang="en">Losgannan/Froglets</title>
-    <desc lang="en">18/26. The Froglets turn Alex's chessboard into a dancefloor and bust out their top disco moves!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e7763912-e2ef-45dd-8842-51dc26802442/cover"/>
-    <episode-num system="xmltv_ns">0.17.0</episode-num>
-    <episode-num system="onscreen">S1E18</episode-num>
+  <programme channel="BBCAlba.uk" start="20261004151500 +0000" stop="20261004152000 +0000">
+    <title lang="en">Fraochy Bay</title>
+    <desc lang="en">13/20. Welcome to the colourful and unusual world of Fraochy Bay. Local schoolchildren present the dentist with a monstrous problem.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/70eb6ce5-d777-4e45-aad8-69e672fa28c5/cover"/>
   </programme>
   <programme channel="BBCAlba.uk" start="20261004152000 +0000" stop="20261004153500 +0000">
     <title lang="en">Na Clangairean</title>
@@ -10401,7 +10399,7 @@
   </programme>
   <programme channel="BBCNews.uk" start="20261004193000 +0000" stop="20261004200000 +0000">
     <title lang="en">Newscast</title>
-    <desc lang="en">Lighthearted discussion of the day's news.</desc>
+    <desc lang="en">We look at whether Kemi Badenoch can lead a Conservative comeback.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2634607c-e24c-4035-881b-54a833d0e9c6/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20261004200000 +0000" stop="20261004210000 +0000">
@@ -22486,9 +22484,6 @@
     <desc lang="en">The Kid Mero, the Bronx-born comedian, host of HOT 97's 'Mornings With Mero' and co-creator of 'Desus &amp; Mero,' breaks down how he built a career. S1, Ep5</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0bb1d3a2-28d7-4282-a780-56536b79195e/cover"/>
   </programme>
-  <programme channel="CBBC.uk" start="20261003175800 +0000" stop="20261003235800 +0000">
-    <title lang="en">.programmes start at 7.00am</title>
-  </programme>
   <programme channel="CBBC.uk" start="20261003235800 +0000" stop="20261004042959 +0000">
     <title lang="en">.programmes start at 7.00am</title>
   </programme>
@@ -22528,6 +22523,8 @@
     <title lang="en">Newsround</title>
     <desc lang="en">04/10/2026. Topical news magazine for children.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/97ec797f-29a0-4085-adf8-118ce792c1db/cover"/>
+    <episode-num system="xmltv_ns">2025.53.0</episode-num>
+    <episode-num system="onscreen">S2026E54</episode-num>
   </programme>
   <programme channel="CBBC.uk" start="20261004065000 +0000" stop="20261004070500 +0000">
     <title lang="en">SpongeBob SquarePants</title>
@@ -23423,9 +23420,6 @@
   <programme channel="CBBC.uk" start="20261006175800 +0000" stop="20261006235800 +0000">
     <title lang="en">.programmes start at 7.00am</title>
   </programme>
-  <programme channel="CBeebies.uk" start="20261003175800 +0000" stop="20261003235800 +0000">
-    <title lang="en">..programmes start at 6.00am</title>
-  </programme>
   <programme channel="CBeebies.uk" start="20261003235800 +0000" stop="20261004042959 +0000">
     <title lang="en">..programmes start at 6.00am</title>
   </programme>
@@ -23636,8 +23630,8 @@
     <title lang="en">Spidey and His Amazing Friends</title>
     <desc lang="en">The Campout Mystery/Gabby's Metal Menace. The heroes help Bigfoot. Gobby's dino makes Gobbybots.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1466fd90-ff68-4104-ab64-c50fcd28d874/cover"/>
-    <episode-num system="xmltv_ns">2.15.0</episode-num>
-    <episode-num system="onscreen">S3E16</episode-num>
+    <episode-num system="xmltv_ns">2.14.0</episode-num>
+    <episode-num system="onscreen">S3E15</episode-num>
   </programme>
   <programme channel="CBeebies.uk" start="20261004100000 +0000" stop="20261004101000 +0000">
     <title lang="en">Octonauts: Above &amp; Beyond</title>
