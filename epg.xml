@@ -1633,10 +1633,10 @@
     <episode-num system="xmltv_ns">2025.12.0</episode-num>
     <episode-num system="onscreen">S2026E13</episode-num>
   </programme>
-  <programme channel="sky.football.uk" start="20261018233000 +0000" stop="20261019013000 +0000">
-    <title lang="en">Retro EFL Cup 11: Arsenal v B'ham</title>
-    <desc lang="en">A chance to relive a classic League Cup final. Here, Birmingham City and Arsenal go head-to-head in the 2010-11 season, in a game that would have a dramatic conclusion.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e6bb739e-e8d2-46eb-8d28-665e0f181ec6/cover"/>
+  <programme channel="sky.football.uk" start="20261018233000 +0000" stop="20261019000000 +0000">
+    <title lang="en">WSL: Chelsea v Spurs</title>
+    <desc lang="en">Dismantled by one London rival last week, Spurs face another stern test on the road away to Chelsea in the Barclays WSL. The Blues were comfortable 3-0 winners at West Ham. (18.10)</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/11349369-b08b-42a6-ba7e-2ca09c89f73d/cover"/>
   </programme>
   <programme channel="sky.football.uk" start="20261019000000 +0000" stop="20261019001500 +0000">
     <title lang="en">SPFL 26/27: Celtic v Hearts</title>
@@ -1749,6 +1749,11 @@
     <title lang="en">SPFL 26/27: Dundee v Rangers</title>
     <desc lang="en">Winners over Kilmarnock previously, Rangers are back in Scottish Premiership action with a trip to Dundee. Derek McInnes' side look to extend a six-game winning run in the league. (17.10)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/be9e187f-e687-43ab-9e42-df3e46184be5/cover"/>
+  </programme>
+  <programme channel="sky.football.uk" start="20261019083000 +0000" stop="20261019090000 +0000">
+    <title lang="en">WSL: Chelsea v Spurs</title>
+    <desc lang="en">Dismantled by one London rival last week, Spurs face another stern test on the road away to Chelsea in the Barclays WSL. The Blues were comfortable 3-0 winners at West Ham. (18.10)</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/11349369-b08b-42a6-ba7e-2ca09c89f73d/cover"/>
   </programme>
   <programme channel="sky.football.uk" start="20261019090000 +0000" stop="20261019093000 +0000">
     <title lang="en">EFL League One Goals Show</title>
@@ -1881,6 +1886,11 @@
     <title lang="en">EFL League Two Goals Show</title>
     <desc lang="en">A round-up of the Sky Bet League Two goals from the latest batch of fixtures during the 2026-27 season.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/aa695552-c867-4d3a-8c39-ec5a0d980873/cover"/>
+  </programme>
+  <programme channel="sky.football.uk" start="20261019193000 +0000" stop="20261019200000 +0000">
+    <title lang="en">WSL: Chelsea v Spurs</title>
+    <desc lang="en">Dismantled by one London rival last week, Spurs face another stern test on the road away to Chelsea in the Barclays WSL. The Blues were comfortable 3-0 winners at West Ham. (18.10)</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/11349369-b08b-42a6-ba7e-2ca09c89f73d/cover"/>
   </programme>
   <programme channel="sky.football.uk" start="20261019200000 +0000" stop="20261019201500 +0000">
     <title lang="en">Scottish Premiership Round Up Show</title>
@@ -11034,7 +11044,7 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20261017090000 +0000" stop="20261017103000 +0000">
     <title lang="en">Saturday Kitchen Live</title>
-    <desc lang="en">Matt Tebbutt is joined by chefs Ben Lippett and Adam Byatt, and by special guest Alan Cumming. Drinks expert Helen McGinn picks the wines to go with the studio dishes.</desc>
+    <desc lang="en">Matt Tebbutt is joined by chefs Ben Lippett and Adam Byatt, Carmen O'Neal and by special guest Alan Cumming. Drinks expert Helen McGinn picks the wines to go with the studio dishes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3fbd08d9-c3bd-43c4-9951-f082c36f0e44/cover"/>
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20261017103000 +0000" stop="20261017110000 +0000">
@@ -11191,7 +11201,7 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20261018093000 +0000" stop="20261018103000 +0000">
     <title lang="en">Sunday Morning Live</title>
-    <desc lang="en">8/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most.</desc>
+    <desc lang="en">8/23. Sean Fletcher and Holly Hamilton ask if it's possible to end homelessness and whether there is too much screen time in schools.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/79f2b53c-9d30-4016-a90e-4ade24d050bc/cover"/>
     <episode-num system="xmltv_ns">16.7.0</episode-num>
     <episode-num system="onscreen">S17E8</episode-num>
@@ -11514,7 +11524,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20261017090000 +0000" stop="20261017103000 +0000">
     <title lang="en">Saturday Kitchen Live</title>
-    <desc lang="en">Matt Tebbutt is joined by chefs Ben Lippett and Adam Byatt, and by special guest Alan Cumming. Drinks expert Helen McGinn picks the wines to go with the studio dishes.</desc>
+    <desc lang="en">Matt Tebbutt is joined by chefs Ben Lippett and Adam Byatt, Carmen O'Neal and by special guest Alan Cumming. Drinks expert Helen McGinn picks the wines to go with the studio dishes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3fbd08d9-c3bd-43c4-9951-f082c36f0e44/cover"/>
   </programme>
   <programme channel="BBCOneEast.uk" start="20261017103000 +0000" stop="20261017110000 +0000">
@@ -11671,7 +11681,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20261018093000 +0000" stop="20261018103000 +0000">
     <title lang="en">Sunday Morning Live</title>
-    <desc lang="en">8/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most.</desc>
+    <desc lang="en">8/23. Sean Fletcher and Holly Hamilton ask if it's possible to end homelessness and whether there is too much screen time in schools.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/79f2b53c-9d30-4016-a90e-4ade24d050bc/cover"/>
     <episode-num system="xmltv_ns">16.7.0</episode-num>
     <episode-num system="onscreen">S17E8</episode-num>
@@ -11994,7 +12004,7 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20261017090000 +0000" stop="20261017103000 +0000">
     <title lang="en">Saturday Kitchen Live</title>
-    <desc lang="en">Matt Tebbutt is joined by chefs Ben Lippett and Adam Byatt, and by special guest Alan Cumming. Drinks expert Helen McGinn picks the wines to go with the studio dishes.</desc>
+    <desc lang="en">Matt Tebbutt is joined by chefs Ben Lippett and Adam Byatt, Carmen O'Neal and by special guest Alan Cumming. Drinks expert Helen McGinn picks the wines to go with the studio dishes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3fbd08d9-c3bd-43c4-9951-f082c36f0e44/cover"/>
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20261017103000 +0000" stop="20261017110000 +0000">
@@ -12151,7 +12161,7 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20261018093000 +0000" stop="20261018103000 +0000">
     <title lang="en">Sunday Morning Live</title>
-    <desc lang="en">8/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most.</desc>
+    <desc lang="en">8/23. Sean Fletcher and Holly Hamilton ask if it's possible to end homelessness and whether there is too much screen time in schools.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/79f2b53c-9d30-4016-a90e-4ade24d050bc/cover"/>
     <episode-num system="xmltv_ns">16.7.0</episode-num>
     <episode-num system="onscreen">S17E8</episode-num>
@@ -12474,7 +12484,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20261017090000 +0000" stop="20261017103000 +0000">
     <title lang="en">Saturday Kitchen Live</title>
-    <desc lang="en">Matt Tebbutt is joined by chefs Ben Lippett and Adam Byatt, and by special guest Alan Cumming. Drinks expert Helen McGinn picks the wines to go with the studio dishes.</desc>
+    <desc lang="en">Matt Tebbutt is joined by chefs Ben Lippett and Adam Byatt, Carmen O'Neal and by special guest Alan Cumming. Drinks expert Helen McGinn picks the wines to go with the studio dishes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3fbd08d9-c3bd-43c4-9951-f082c36f0e44/cover"/>
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20261017103000 +0000" stop="20261017110000 +0000">
@@ -12631,7 +12641,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20261018093000 +0000" stop="20261018103000 +0000">
     <title lang="en">Sunday Morning Live</title>
-    <desc lang="en">8/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most.</desc>
+    <desc lang="en">8/23. Sean Fletcher and Holly Hamilton ask if it's possible to end homelessness and whether there is too much screen time in schools.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/79f2b53c-9d30-4016-a90e-4ade24d050bc/cover"/>
     <episode-num system="xmltv_ns">16.7.0</episode-num>
     <episode-num system="onscreen">S17E8</episode-num>
@@ -12954,7 +12964,7 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20261017090000 +0000" stop="20261017103000 +0000">
     <title lang="en">Saturday Kitchen Live</title>
-    <desc lang="en">Matt Tebbutt is joined by chefs Ben Lippett and Adam Byatt, and by special guest Alan Cumming. Drinks expert Helen McGinn picks the wines to go with the studio dishes.</desc>
+    <desc lang="en">Matt Tebbutt is joined by chefs Ben Lippett and Adam Byatt, Carmen O'Neal and by special guest Alan Cumming. Drinks expert Helen McGinn picks the wines to go with the studio dishes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3fbd08d9-c3bd-43c4-9951-f082c36f0e44/cover"/>
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20261017103000 +0000" stop="20261017110000 +0000">
@@ -13111,7 +13121,7 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20261018093000 +0000" stop="20261018103000 +0000">
     <title lang="en">Sunday Morning Live</title>
-    <desc lang="en">8/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most.</desc>
+    <desc lang="en">8/23. Sean Fletcher and Holly Hamilton ask if it's possible to end homelessness and whether there is too much screen time in schools.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/79f2b53c-9d30-4016-a90e-4ade24d050bc/cover"/>
     <episode-num system="xmltv_ns">16.7.0</episode-num>
     <episode-num system="onscreen">S17E8</episode-num>
@@ -13434,7 +13444,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20261017090000 +0000" stop="20261017103000 +0000">
     <title lang="en">Saturday Kitchen Live</title>
-    <desc lang="en">Matt Tebbutt is joined by chefs Ben Lippett and Adam Byatt, and by special guest Alan Cumming. Drinks expert Helen McGinn picks the wines to go with the studio dishes.</desc>
+    <desc lang="en">Matt Tebbutt is joined by chefs Ben Lippett and Adam Byatt, Carmen O'Neal and by special guest Alan Cumming. Drinks expert Helen McGinn picks the wines to go with the studio dishes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3fbd08d9-c3bd-43c4-9951-f082c36f0e44/cover"/>
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20261017103000 +0000" stop="20261017110000 +0000">
@@ -13591,7 +13601,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20261018093000 +0000" stop="20261018103000 +0000">
     <title lang="en">Sunday Morning Live</title>
-    <desc lang="en">8/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most.</desc>
+    <desc lang="en">8/23. Sean Fletcher and Holly Hamilton ask if it's possible to end homelessness and whether there is too much screen time in schools.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/79f2b53c-9d30-4016-a90e-4ade24d050bc/cover"/>
     <episode-num system="xmltv_ns">16.7.0</episode-num>
     <episode-num system="onscreen">S17E8</episode-num>
@@ -13914,7 +13924,7 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20261017090000 +0000" stop="20261017103000 +0000">
     <title lang="en">Saturday Kitchen Live</title>
-    <desc lang="en">Matt Tebbutt is joined by chefs Ben Lippett and Adam Byatt, and by special guest Alan Cumming. Drinks expert Helen McGinn picks the wines to go with the studio dishes.</desc>
+    <desc lang="en">Matt Tebbutt is joined by chefs Ben Lippett and Adam Byatt, Carmen O'Neal and by special guest Alan Cumming. Drinks expert Helen McGinn picks the wines to go with the studio dishes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3fbd08d9-c3bd-43c4-9951-f082c36f0e44/cover"/>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20261017103000 +0000" stop="20261017110000 +0000">
@@ -14066,7 +14076,7 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20261018093000 +0000" stop="20261018103000 +0000">
     <title lang="en">Sunday Morning Live</title>
-    <desc lang="en">8/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most.</desc>
+    <desc lang="en">8/23. Sean Fletcher and Holly Hamilton ask if it's possible to end homelessness and whether there is too much screen time in schools.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/79f2b53c-9d30-4016-a90e-4ade24d050bc/cover"/>
     <episode-num system="xmltv_ns">16.7.0</episode-num>
     <episode-num system="onscreen">S17E8</episode-num>
@@ -14384,7 +14394,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20261017090000 +0000" stop="20261017103000 +0000">
     <title lang="en">Saturday Kitchen Live</title>
-    <desc lang="en">Matt Tebbutt is joined by chefs Ben Lippett and Adam Byatt, and by special guest Alan Cumming. Drinks expert Helen McGinn picks the wines to go with the studio dishes.</desc>
+    <desc lang="en">Matt Tebbutt is joined by chefs Ben Lippett and Adam Byatt, Carmen O'Neal and by special guest Alan Cumming. Drinks expert Helen McGinn picks the wines to go with the studio dishes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3fbd08d9-c3bd-43c4-9951-f082c36f0e44/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20261017103000 +0000" stop="20261017110000 +0000">
@@ -14548,7 +14558,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20261018093000 +0000" stop="20261018103000 +0000">
     <title lang="en">Sunday Morning Live</title>
-    <desc lang="en">8/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most.</desc>
+    <desc lang="en">8/23. Sean Fletcher and Holly Hamilton ask if it's possible to end homelessness and whether there is too much screen time in schools.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/79f2b53c-9d30-4016-a90e-4ade24d050bc/cover"/>
     <episode-num system="xmltv_ns">16.7.0</episode-num>
     <episode-num system="onscreen">S17E8</episode-num>
@@ -14884,7 +14894,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20261017090000 +0000" stop="20261017103000 +0000">
     <title lang="en">Saturday Kitchen Live</title>
-    <desc lang="en">Matt Tebbutt is joined by chefs Ben Lippett and Adam Byatt, and by special guest Alan Cumming. Drinks expert Helen McGinn picks the wines to go with the studio dishes.</desc>
+    <desc lang="en">Matt Tebbutt is joined by chefs Ben Lippett and Adam Byatt, Carmen O'Neal and by special guest Alan Cumming. Drinks expert Helen McGinn picks the wines to go with the studio dishes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3fbd08d9-c3bd-43c4-9951-f082c36f0e44/cover"/>
   </programme>
   <programme channel="BBCOneSouth.uk" start="20261017103000 +0000" stop="20261017110000 +0000">
@@ -15041,7 +15051,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20261018093000 +0000" stop="20261018103000 +0000">
     <title lang="en">Sunday Morning Live</title>
-    <desc lang="en">8/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most.</desc>
+    <desc lang="en">8/23. Sean Fletcher and Holly Hamilton ask if it's possible to end homelessness and whether there is too much screen time in schools.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/79f2b53c-9d30-4016-a90e-4ade24d050bc/cover"/>
     <episode-num system="xmltv_ns">16.7.0</episode-num>
     <episode-num system="onscreen">S17E8</episode-num>
@@ -15364,7 +15374,7 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20261017090000 +0000" stop="20261017103000 +0000">
     <title lang="en">Saturday Kitchen Live</title>
-    <desc lang="en">Matt Tebbutt is joined by chefs Ben Lippett and Adam Byatt, and by special guest Alan Cumming. Drinks expert Helen McGinn picks the wines to go with the studio dishes.</desc>
+    <desc lang="en">Matt Tebbutt is joined by chefs Ben Lippett and Adam Byatt, Carmen O'Neal and by special guest Alan Cumming. Drinks expert Helen McGinn picks the wines to go with the studio dishes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3fbd08d9-c3bd-43c4-9951-f082c36f0e44/cover"/>
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20261017103000 +0000" stop="20261017110000 +0000">
@@ -15521,7 +15531,7 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20261018093000 +0000" stop="20261018103000 +0000">
     <title lang="en">Sunday Morning Live</title>
-    <desc lang="en">8/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most.</desc>
+    <desc lang="en">8/23. Sean Fletcher and Holly Hamilton ask if it's possible to end homelessness and whether there is too much screen time in schools.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/79f2b53c-9d30-4016-a90e-4ade24d050bc/cover"/>
     <episode-num system="xmltv_ns">16.7.0</episode-num>
     <episode-num system="onscreen">S17E8</episode-num>
@@ -15844,7 +15854,7 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20261017090000 +0000" stop="20261017103000 +0000">
     <title lang="en">Saturday Kitchen Live</title>
-    <desc lang="en">Matt Tebbutt is joined by chefs Ben Lippett and Adam Byatt, and by special guest Alan Cumming. Drinks expert Helen McGinn picks the wines to go with the studio dishes.</desc>
+    <desc lang="en">Matt Tebbutt is joined by chefs Ben Lippett and Adam Byatt, Carmen O'Neal and by special guest Alan Cumming. Drinks expert Helen McGinn picks the wines to go with the studio dishes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3fbd08d9-c3bd-43c4-9951-f082c36f0e44/cover"/>
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20261017103000 +0000" stop="20261017110000 +0000">
@@ -16001,7 +16011,7 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20261018093000 +0000" stop="20261018103000 +0000">
     <title lang="en">Sunday Morning Live</title>
-    <desc lang="en">8/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most.</desc>
+    <desc lang="en">8/23. Sean Fletcher and Holly Hamilton ask if it's possible to end homelessness and whether there is too much screen time in schools.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/79f2b53c-9d30-4016-a90e-4ade24d050bc/cover"/>
     <episode-num system="xmltv_ns">16.7.0</episode-num>
     <episode-num system="onscreen">S17E8</episode-num>
@@ -16340,7 +16350,7 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20261017090000 +0000" stop="20261017103000 +0000">
     <title lang="en">Saturday Kitchen Live</title>
-    <desc lang="en">Matt Tebbutt is joined by chefs Ben Lippett and Adam Byatt, and by special guest Alan Cumming. Drinks expert Helen McGinn picks the wines to go with the studio dishes.</desc>
+    <desc lang="en">Matt Tebbutt is joined by chefs Ben Lippett and Adam Byatt, Carmen O'Neal and by special guest Alan Cumming. Drinks expert Helen McGinn picks the wines to go with the studio dishes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3fbd08d9-c3bd-43c4-9951-f082c36f0e44/cover"/>
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20261017103000 +0000" stop="20261017110000 +0000">
@@ -16497,7 +16507,7 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20261018093000 +0000" stop="20261018103000 +0000">
     <title lang="en">Sunday Morning Live</title>
-    <desc lang="en">8/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most.</desc>
+    <desc lang="en">8/23. Sean Fletcher and Holly Hamilton ask if it's possible to end homelessness and whether there is too much screen time in schools.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/79f2b53c-9d30-4016-a90e-4ade24d050bc/cover"/>
     <episode-num system="xmltv_ns">16.7.0</episode-num>
     <episode-num system="onscreen">S17E8</episode-num>
@@ -16828,7 +16838,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20261017090000 +0000" stop="20261017103000 +0000">
     <title lang="en">Saturday Kitchen Live</title>
-    <desc lang="en">Matt Tebbutt is joined by chefs Ben Lippett and Adam Byatt, and by special guest Alan Cumming. Drinks expert Helen McGinn picks the wines to go with the studio dishes.</desc>
+    <desc lang="en">Matt Tebbutt is joined by chefs Ben Lippett and Adam Byatt, Carmen O'Neal and by special guest Alan Cumming. Drinks expert Helen McGinn picks the wines to go with the studio dishes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3fbd08d9-c3bd-43c4-9951-f082c36f0e44/cover"/>
   </programme>
   <programme channel="BBCOneWest.uk" start="20261017103000 +0000" stop="20261017110000 +0000">
@@ -16985,7 +16995,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20261018093000 +0000" stop="20261018103000 +0000">
     <title lang="en">Sunday Morning Live</title>
-    <desc lang="en">8/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most.</desc>
+    <desc lang="en">8/23. Sean Fletcher and Holly Hamilton ask if it's possible to end homelessness and whether there is too much screen time in schools.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/79f2b53c-9d30-4016-a90e-4ade24d050bc/cover"/>
     <episode-num system="xmltv_ns">16.7.0</episode-num>
     <episode-num system="onscreen">S17E8</episode-num>
@@ -17308,7 +17318,7 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20261017090000 +0000" stop="20261017103000 +0000">
     <title lang="en">Saturday Kitchen Live</title>
-    <desc lang="en">Matt Tebbutt is joined by chefs Ben Lippett and Adam Byatt, and by special guest Alan Cumming. Drinks expert Helen McGinn picks the wines to go with the studio dishes.</desc>
+    <desc lang="en">Matt Tebbutt is joined by chefs Ben Lippett and Adam Byatt, Carmen O'Neal and by special guest Alan Cumming. Drinks expert Helen McGinn picks the wines to go with the studio dishes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3fbd08d9-c3bd-43c4-9951-f082c36f0e44/cover"/>
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20261017103000 +0000" stop="20261017110000 +0000">
@@ -17465,7 +17475,7 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20261018093000 +0000" stop="20261018103000 +0000">
     <title lang="en">Sunday Morning Live</title>
-    <desc lang="en">8/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most.</desc>
+    <desc lang="en">8/23. Sean Fletcher and Holly Hamilton ask if it's possible to end homelessness and whether there is too much screen time in schools.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/79f2b53c-9d30-4016-a90e-4ade24d050bc/cover"/>
     <episode-num system="xmltv_ns">16.7.0</episode-num>
     <episode-num system="onscreen">S17E8</episode-num>
@@ -17788,7 +17798,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20261017090000 +0000" stop="20261017103000 +0000">
     <title lang="en">Saturday Kitchen Live</title>
-    <desc lang="en">Matt Tebbutt is joined by chefs Ben Lippett and Adam Byatt, and by special guest Alan Cumming. Drinks expert Helen McGinn picks the wines to go with the studio dishes.</desc>
+    <desc lang="en">Matt Tebbutt is joined by chefs Ben Lippett and Adam Byatt, Carmen O'Neal and by special guest Alan Cumming. Drinks expert Helen McGinn picks the wines to go with the studio dishes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3fbd08d9-c3bd-43c4-9951-f082c36f0e44/cover"/>
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20261017103000 +0000" stop="20261017110000 +0000">
@@ -17945,7 +17955,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20261018093000 +0000" stop="20261018103000 +0000">
     <title lang="en">Sunday Morning Live</title>
-    <desc lang="en">8/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most.</desc>
+    <desc lang="en">8/23. Sean Fletcher and Holly Hamilton ask if it's possible to end homelessness and whether there is too much screen time in schools.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/79f2b53c-9d30-4016-a90e-4ade24d050bc/cover"/>
     <episode-num system="xmltv_ns">16.7.0</episode-num>
     <episode-num system="onscreen">S17E8</episode-num>
@@ -18268,7 +18278,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20261017090000 +0000" stop="20261017103000 +0000">
     <title lang="en">Saturday Kitchen Live</title>
-    <desc lang="en">Matt Tebbutt is joined by chefs Ben Lippett and Adam Byatt, and by special guest Alan Cumming. Drinks expert Helen McGinn picks the wines to go with the studio dishes.</desc>
+    <desc lang="en">Matt Tebbutt is joined by chefs Ben Lippett and Adam Byatt, Carmen O'Neal and by special guest Alan Cumming. Drinks expert Helen McGinn picks the wines to go with the studio dishes.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3fbd08d9-c3bd-43c4-9951-f082c36f0e44/cover"/>
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20261017103000 +0000" stop="20261017110000 +0000">
@@ -18425,7 +18435,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20261018093000 +0000" stop="20261018103000 +0000">
     <title lang="en">Sunday Morning Live</title>
-    <desc lang="en">8/23. Sean Fletcher and Holly Hamilton host the show that puts the heart and soul into Sundays, bringing faith and ethics to the discussions that matter most.</desc>
+    <desc lang="en">8/23. Sean Fletcher and Holly Hamilton ask if it's possible to end homelessness and whether there is too much screen time in schools.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/79f2b53c-9d30-4016-a90e-4ade24d050bc/cover"/>
     <episode-num system="xmltv_ns">16.7.0</episode-num>
     <episode-num system="onscreen">S17E8</episode-num>
