@@ -498,20 +498,10 @@
     <desc lang="en">Day two of the 2026 Genesis Championship on the DP World Tour, taking place at Woo Jeong Hills Country Club. South Korean Junghwan Lee captured last season's tournament win.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f5f42c83-7c08-4e15-9882-9ee14d42a93c/cover"/>
   </programme>
-  <programme channel="sky.main.uk" start="20261023080000 +0000" stop="20261023090000 +0000">
-    <title lang="en">Sky Sports Breakfast</title>
-    <desc lang="en">Stay across the biggest sports stories this morning with a wrap-up of the headlines.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/77c53f89-c9f5-4aca-a5d3-b3cdf6805efb/cover"/>
-  </programme>
-  <programme channel="sky.main.uk" start="20261023090000 +0000" stop="20261023100000 +0000">
-    <title lang="en">Live: Sky Sports FC</title>
-    <desc lang="en">Have your say on the big talking points in this interactive show covering the major football headlines.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3b7548e8-19ab-49c0-b2e9-5f56fc8a40e1/cover"/>
-  </programme>
-  <programme channel="sky.main.uk" start="20261023100000 +0000" stop="20261023110000 +0000">
-    <title lang="en">Live: Sky Sports FC</title>
-    <desc lang="en">Have your say on the big talking points in this interactive show covering the major football headlines.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3b7548e8-19ab-49c0-b2e9-5f56fc8a40e1/cover"/>
+  <programme channel="sky.main.uk" start="20261023080000 +0000" stop="20261023110000 +0000">
+    <title lang="en">Live: ATP/WTA Tennis</title>
+    <desc lang="en">Enjoy live action from the ATP and WTA Tours.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/23621b18-e4c4-4f0d-8c8b-3551eac8c388/cover"/>
   </programme>
   <programme channel="sky.main.uk" start="20261023110000 +0000" stop="20261023120000 +0000">
     <title lang="en">Total Football</title>
@@ -562,7 +552,7 @@
   </programme>
   <programme channel="sky.main.uk" start="20261023183000 +0000" stop="20261023210000 +0000">
     <title lang="en">Live FNF: Ipswich v Nott'm Forest</title>
-    <desc lang="en">On Friday Night Football, Ipswich Town play host to Nottingham Forest at Portman Road in the Premier League.</desc>
+    <desc lang="en">Friday Night Football comes from Portman Road, home to Gary O'Neil's Ipswich Town - who entertain Oliver Glasner and Nottingham Forest in the Premier League.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/675a60c3-5260-4e5f-99dc-bf1c19456af2/cover"/>
   </programme>
   <programme channel="sky.main.uk" start="20261023210000 +0000" stop="20261023224500 +0000">
@@ -634,7 +624,7 @@
   </programme>
   <programme channel="sky.main.uk" start="20261024160000 +0000" stop="20261024193000 +0000">
     <title lang="en">Live SNF: Chelsea v Spurs</title>
-    <desc lang="en">On Saturday Night Football, Chelsea play host to Tottenham Hotspur at Stamford Bridge in the Premier League.</desc>
+    <desc lang="en">Bitter London rivals Chelsea and Spurs meet under the Stamford Bridge lights on Saturday Night Football. Tottenham's long wait for Premier League victory ended earlier this week.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4a7db4a9-70c0-4cf2-9fda-beb32f024729/cover"/>
   </programme>
   <programme channel="sky.main.uk" start="20261024193000 +0000" stop="20261024225500 +0000">
@@ -1028,22 +1018,15 @@
   </programme>
   <programme channel="sky.premier.uk" start="20261023183000 +0000" stop="20261023213000 +0000">
     <title lang="en">Live FNF: Ipswich v Nott'm Forest</title>
-    <desc lang="en">On Friday Night Football, Ipswich Town play host to Nottingham Forest at Portman Road in the Premier League.</desc>
+    <desc lang="en">Friday Night Football comes from Portman Road, home to Gary O'Neil's Ipswich Town - who entertain Oliver Glasner and Nottingham Forest in the Premier League.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/675a60c3-5260-4e5f-99dc-bf1c19456af2/cover"/>
   </programme>
-  <programme channel="sky.premier.uk" start="20261023213000 +0000" stop="20261023214500 +0000">
-    <title lang="en">Black History Month: Leadership</title>
-    <desc lang="en">This Black History we're celebrating leadership and the captains who have helped pave the way for others. Hear Virgil van Dijk's story, experiences, and leadership lessons in his own words.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/610100c4-21a1-4a35-9552-49ff52d6537c/cover"/>
-    <episode-num system="xmltv_ns">2025.0.0</episode-num>
-    <episode-num system="onscreen">S2026E1</episode-num>
-  </programme>
-  <programme channel="sky.premier.uk" start="20261023214500 +0000" stop="20261023220000 +0000">
-    <title lang="en">Black History Month: Leadership</title>
-    <desc lang="en">This Black History Month, celebrate leaders and captains who have helped pave the way for others. Hear Lucas Radebe's story, experiences and leadership lessons in his own words.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c5fdeaed-a062-4012-879e-ce44b3592fde/cover"/>
-    <episode-num system="xmltv_ns">2025.1.0</episode-num>
-    <episode-num system="onscreen">S2026E2</episode-num>
+  <programme channel="sky.premier.uk" start="20261023213000 +0000" stop="20261023220000 +0000">
+    <title lang="en">Lost Grounds</title>
+    <desc lang="en">Discover who uses their old football stadium as a community allotment. Plus, which club had us retrieving footballs from a river? Including trips to Highfield Road and Ninian Park.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7c5ac87d-48b6-4a57-808d-0ba804364a22/cover"/>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
   </programme>
   <programme channel="sky.premier.uk" start="20261023220000 +0000" stop="20261023230000 +0000">
     <title lang="en">Premier League Stories</title>
@@ -1054,7 +1037,7 @@
   </programme>
   <programme channel="sky.premier.uk" start="20261023230000 +0000" stop="20261023233000 +0000">
     <title lang="en">FNF: Ipswich v Nott'm Forest Hlts</title>
-    <desc lang="en">On Friday Night Football, Ipswich Town play host to Nottingham Forest at Portman Road in the Premier League. (23.10)</desc>
+    <desc lang="en">Friday Night Football comes from Portman Road, home to Gary O'Neil's Ipswich Town - who entertain Oliver Glasner and Nottingham Forest in the Premier League. (23.10)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/24d8f7b5-f1cc-43c9-9191-51a3b015e0e7/cover"/>
   </programme>
   <programme channel="sky.premier.uk" start="20261023233000 +0000" stop="20261024000000 +0000">
@@ -1131,7 +1114,7 @@
   </programme>
   <programme channel="sky.premier.uk" start="20261024070000 +0000" stop="20261024073000 +0000">
     <title lang="en">FNF: Ipswich v Nott'm Forest Hlts</title>
-    <desc lang="en">On Friday Night Football, Ipswich Town play host to Nottingham Forest at Portman Road in the Premier League. (23.10)</desc>
+    <desc lang="en">Friday Night Football comes from Portman Road, home to Gary O'Neil's Ipswich Town - who entertain Oliver Glasner and Nottingham Forest in the Premier League. (23.10)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/24d8f7b5-f1cc-43c9-9191-51a3b015e0e7/cover"/>
   </programme>
   <programme channel="sky.premier.uk" start="20261024073000 +0000" stop="20261024080000 +0000">
@@ -1155,7 +1138,7 @@
   </programme>
   <programme channel="sky.premier.uk" start="20261024103000 +0000" stop="20261024110000 +0000">
     <title lang="en">FNF: Ipswich v Nott'm Forest Hlts</title>
-    <desc lang="en">On Friday Night Football, Ipswich Town play host to Nottingham Forest at Portman Road in the Premier League. (23.10)</desc>
+    <desc lang="en">Friday Night Football comes from Portman Road, home to Gary O'Neil's Ipswich Town - who entertain Oliver Glasner and Nottingham Forest in the Premier League. (23.10)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/24d8f7b5-f1cc-43c9-9191-51a3b015e0e7/cover"/>
   </programme>
   <programme channel="sky.premier.uk" start="20261024110000 +0000" stop="20261024140000 +0000">
@@ -1170,7 +1153,7 @@
   </programme>
   <programme channel="sky.premier.uk" start="20261024160000 +0000" stop="20261024193000 +0000">
     <title lang="en">Live SNF: Chelsea v Spurs</title>
-    <desc lang="en">On Saturday Night Football, Chelsea play host to Tottenham Hotspur at Stamford Bridge in the Premier League.</desc>
+    <desc lang="en">Bitter London rivals Chelsea and Spurs meet under the Stamford Bridge lights on Saturday Night Football. Tottenham's long wait for Premier League victory ended earlier this week.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4a7db4a9-70c0-4cf2-9fda-beb32f024729/cover"/>
   </programme>
   <programme channel="sky.premier.uk" start="20261024193000 +0000" stop="20261024213000 +0000">
@@ -1180,21 +1163,21 @@
   </programme>
   <programme channel="sky.premier.uk" start="20261024213000 +0000" stop="20261024220000 +0000">
     <title lang="en">PL: Coventry City v Fulham Hlts</title>
-    <desc lang="en">Coventry City play host to Fulham at the CBS Arena in the Premier League. (24.10)</desc>
+    <desc lang="en">Coventry return to the CBS Arena following defeat to Spurs earlier this week as Frank Lampard's side meet Fulham - finally off the mark with victory last weekend over Hull. (24.10)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/41667e9f-b226-4b58-9f32-81725fdbb366/cover"/>
     <episode-num system="xmltv_ns">2025.347.0</episode-num>
     <episode-num system="onscreen">S2026E348</episode-num>
   </programme>
   <programme channel="sky.premier.uk" start="20261024220000 +0000" stop="20261024223000 +0000">
     <title lang="en">PL: Arsenal v Everton Highlights</title>
-    <desc lang="en">Arsenal play host to Everton at the Emirates Stadium in the Premier League. (24.10)</desc>
+    <desc lang="en">Collecting six wins out of seven, Arsenal's defence of the Premier League title continues at the Emirates with the visit of Everton - whose unbeaten start came to an end last week. (24.10)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/67c5cc10-d40d-4081-8930-3c0079d3d392/cover"/>
     <episode-num system="xmltv_ns">2025.348.0</episode-num>
     <episode-num system="onscreen">S2026E349</episode-num>
   </programme>
   <programme channel="sky.premier.uk" start="20261024223000 +0000" stop="20261024230000 +0000">
     <title lang="en">FNF: Ipswich v Nott'm Forest Hlts</title>
-    <desc lang="en">On Friday Night Football, Ipswich Town play host to Nottingham Forest at Portman Road in the Premier League. (23.10)</desc>
+    <desc lang="en">Friday Night Football comes from Portman Road, home to Gary O'Neil's Ipswich Town - who entertain Oliver Glasner and Nottingham Forest in the Premier League. (23.10)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/24d8f7b5-f1cc-43c9-9191-51a3b015e0e7/cover"/>
   </programme>
   <programme channel="sky.football.uk" start="20261021214500 +0000" stop="20261021221500 +0000">
@@ -3157,15 +3140,20 @@
     <desc lang="en">Live Australian racing from Flemington, Morphetville, Randwick and Doomben.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a52a8d54-2930-48db-9974-f4f81f35f81e/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20261024050000 +0000" stop="20261024080000 +0000">
+  <programme channel="sky.racing.uk" start="20261024050000 +0000" stop="20261024073000 +0000">
     <title lang="en">Australian Racing Live</title>
     <desc lang="en">Live Australian racing from Flemington, Morphetville, Randwick and Doomben.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a52a8d54-2930-48db-9974-f4f81f35f81e/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20261024080000 +0000" stop="20261024083000 +0000">
+  <programme channel="sky.racing.uk" start="20261024073000 +0000" stop="20261024080000 +0000">
     <title lang="en">Racing To Win</title>
     <desc lang="en">The latest in the series a comprehensive preview show for Hong Kong racing. With form analysis trackwork highlights and interviews an expert team of presenters will also provide their selections.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1421c3f8-9fa0-46b7-be8b-ffbaec60484c/cover"/>
+  </programme>
+  <programme channel="sky.racing.uk" start="20261024080000 +0000" stop="20261024083000 +0000">
+    <title lang="en">Unbridled On Tour</title>
+    <desc lang="en">Following on from Matt Chapman &amp; Paddy Brennan's trip to Ireland they head to Bangor-on-Dee. They are joined by SD (Stephen Darbyshire) to take part in a tipping competition involving four races.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d7a268e8-bef4-460a-975f-7218849d9bb1/cover"/>
   </programme>
   <programme channel="sky.racing.uk" start="20261024083000 +0000" stop="20261024100000 +0000">
     <title lang="en">The Inside Line</title>
@@ -3182,7 +3170,7 @@
     <desc lang="en">Live Racing: Alex Hammond, Jamie Lynch and Vanessa Ryle bring you the G1 Futurity Trophy live from Doncaster alongside the Flat Season Finale from Newbury with Matt Chapman.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ebe81a6b-703b-42dd-b976-b754809490a2/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20261024200000 +0000" stop="20261025010000 +0000">
+  <programme channel="sky.racing.uk" start="20261024200000 +0000" stop="20261025001500 +0000">
     <title lang="en">Stateside Live</title>
     <desc lang="en">Live US racing from Keeneland, Belmont, Woodbine, Laurel Park, Gulfstream, Horseshoe Indianapolis, Santa Anita, Fairmount, Mahoning Valley and Charles Town. Greyhound racing also features.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/85c675bf-8f83-4806-b4c2-60e7cb231070/cover"/>
@@ -3646,7 +3634,7 @@
   </programme>
   <programme channel="sky.cricket.uk" start="20261022170000 +0000" stop="20261022180000 +0000">
     <title lang="en">2nd Test Day 5: SA v AUS Hlts</title>
-    <desc lang="en">The fifth and final day of the second Test between South Africa and Australia at St George's Park in Gqeberha. (22.10)</desc>
+    <desc lang="en">The fifth and final day of the second Test between South Africa and Australia at St George's Park. The Proteas look set to level the series after a heroic day four bowling display. (22.10)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d78d1bfc-e087-4e87-8ab8-85c6a9835df7/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20261022180000 +0000" stop="20261022190000 +0000">
@@ -3681,7 +3669,7 @@
   </programme>
   <programme channel="sky.cricket.uk" start="20261022210000 +0000" stop="20261022220000 +0000">
     <title lang="en">2nd Test Day 5: SA v AUS Hlts</title>
-    <desc lang="en">The fifth and final day of the second Test between South Africa and Australia at St George's Park in Gqeberha. (22.10)</desc>
+    <desc lang="en">The fifth and final day of the second Test between South Africa and Australia at St George's Park. The Proteas look set to level the series after a heroic day four bowling display. (22.10)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d78d1bfc-e087-4e87-8ab8-85c6a9835df7/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20261022220000 +0000" stop="20261022230000 +0000">
@@ -3691,7 +3679,7 @@
   </programme>
   <programme channel="sky.cricket.uk" start="20261022230000 +0000" stop="20261023000000 +0000">
     <title lang="en">2nd Test Day 5: SA v AUS Hlts</title>
-    <desc lang="en">The fifth and final day of the second Test between South Africa and Australia at St George's Park in Gqeberha. (22.10)</desc>
+    <desc lang="en">The fifth and final day of the second Test between South Africa and Australia at St George's Park. The Proteas look set to level the series after a heroic day four bowling display. (22.10)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d78d1bfc-e087-4e87-8ab8-85c6a9835df7/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20261023000000 +0000" stop="20261023030000 +0000">
@@ -3751,7 +3739,7 @@
   </programme>
   <programme channel="sky.cricket.uk" start="20261023130000 +0000" stop="20261023140000 +0000">
     <title lang="en">2nd Test Day 5: SA v AUS Hlts</title>
-    <desc lang="en">The fifth and final day of the second Test between South Africa and Australia at St George's Park in Gqeberha. (22.10)</desc>
+    <desc lang="en">The fifth and final day of the second Test between South Africa and Australia at St George's Park. The Proteas look set to level the series after a heroic day four bowling display. (22.10)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d78d1bfc-e087-4e87-8ab8-85c6a9835df7/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20261023140000 +0000" stop="20261023150000 +0000">
@@ -3982,12 +3970,12 @@
   </programme>
   <programme channel="tnt1" start="20261022120000 +0000" stop="20261022140000 +0000">
     <title lang="en">Live Snooker Northern Ireland Open</title>
-    <desc lang="en">Action from the Northern Ireland Open, part of the Snooker Home Nations Series.</desc>
+    <desc lang="en">World number nine Kyren Wilson takes on China's Pang Junxu in the third round. Wilson beat Junxu in the semi-finals on his way to lifting the title here in 2024.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/348206af-8dfc-46f4-9660-b18e881ede51/cover"/>
   </programme>
   <programme channel="tnt1" start="20261022140000 +0000" stop="20261022160000 +0000">
     <title lang="en">Live Snooker Northern Ireland Open</title>
-    <desc lang="en">Action from the Northern Ireland Open, part of the Snooker Home Nations Series.</desc>
+    <desc lang="en">Scotland's Anthony McGill goes head-to-head with Poland's Mateusz Baranowski for a place in the quarter-finals of the 2026 BetVictor Northern Ireland Open.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ff45089e-6ac3-40c1-a07e-a8b32198292a/cover"/>
   </programme>
   <programme channel="tnt1" start="20261022160000 +0000" stop="20261022184500 +0000">
@@ -4084,8 +4072,8 @@
     <title lang="en">FIA World Endurance Championship</title>
     <desc lang="en">Highlights from the 6 Hours of Barcelona, part of the 2026 FIA World Endurance Championship.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/29918e37-9abe-4e3c-9fcb-254f01caf6aa/cover"/>
-    <episode-num system="xmltv_ns">2025.185.0</episode-num>
-    <episode-num system="onscreen">S2026E186</episode-num>
+    <episode-num system="xmltv_ns">2025.187.0</episode-num>
+    <episode-num system="onscreen">S2026E188</episode-num>
   </programme>
   <programme channel="tnt1" start="20261023060000 +0000" stop="20261023070000 +0000">
     <title lang="en">Premier League Review</title>
@@ -4124,7 +4112,7 @@
   </programme>
   <programme channel="tnt1" start="20261023090000 +0000" stop="20261023110000 +0000">
     <title lang="en">Live: Brisbane Roar v Perth Glory</title>
-    <desc lang="en">Action from the A-League as Brisbane Roar face Perth Glory.</desc>
+    <desc lang="en">Brisbane Roar look to make a winning start to their A-League season as they take on a Perth Glory side who lost their opening game.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9a1ac512-865c-422e-b66d-fcbc35c5fec7/cover"/>
   </programme>
   <programme channel="tnt1" start="20261023110000 +0000" stop="20261023113000 +0000">
@@ -4206,15 +4194,15 @@
     <desc lang="en">The 2026 World Series gets underway at American Family Field as Tampa Bay Rays and Milwaukee Brewers begin their battle for baseball's biggest prize.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/30453329-2991-4466-851b-f328b4002b65/cover"/>
   </programme>
-  <programme channel="tnt1" start="20261024033000 +0000" stop="20261024034500 +0000">
+  <programme channel="tnt1" start="20261024033000 +0000" stop="20261024040000 +0000">
     <title lang="en">FA Cup: The People's Story Sunderland</title>
     <desc lang="en">A documentary telling the story of the 1973 FA Cup final, which saw Sunderland pull off one of the competition's greatest upsets against Don Revie's Leeds United.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/69424923-0f9d-4ce1-977d-a993391257cb/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/99a2ef41-f153-4f03-826f-25945025e852/cover"/>
   </programme>
-  <programme channel="tnt1" start="20261024034500 +0000" stop="20261024060000 +0000">
+  <programme channel="tnt1" start="20261024040000 +0000" stop="20261024060000 +0000">
     <title lang="en">Live: Newcastle Jets v Macarthur</title>
     <desc lang="en">Macarthur FC aim to build on their winning start to the A-League season as they meet Mark Milligan's Newcastle Jets at McDonald Jones Stadium.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a8b5fd79-24ce-4589-9584-f70eeb998de7/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/716cbda6-f1b0-4aa3-bf7c-0e9a98fb4993/cover"/>
   </programme>
   <programme channel="tnt1" start="20261024060000 +0000" stop="20261024080000 +0000">
     <title lang="en">Live: Western Sydney v Auckland FC</title>
@@ -4432,8 +4420,8 @@
     <title lang="en">FIA World Endurance Championship</title>
     <desc lang="en">Highlights from the 6 Hours of Barcelona, part of the 2026 FIA World Endurance Championship.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/29918e37-9abe-4e3c-9fcb-254f01caf6aa/cover"/>
-    <episode-num system="xmltv_ns">2025.185.0</episode-num>
-    <episode-num system="onscreen">S2026E186</episode-num>
+    <episode-num system="xmltv_ns">2025.187.0</episode-num>
+    <episode-num system="onscreen">S2026E188</episode-num>
   </programme>
   <programme channel="tnt2" start="20261023014500 +0000" stop="20261023020000 +0000">
     <title lang="en">World Superbike Rewind</title>
@@ -5049,8 +5037,8 @@
     <title lang="en">FIA World Endurance Championship</title>
     <desc lang="en">Highlights from the 6 Hours of Barcelona, part of the 2026 FIA World Endurance Championship.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/29918e37-9abe-4e3c-9fcb-254f01caf6aa/cover"/>
-    <episode-num system="xmltv_ns">2025.185.0</episode-num>
-    <episode-num system="onscreen">S2026E186</episode-num>
+    <episode-num system="xmltv_ns">2025.187.0</episode-num>
+    <episode-num system="onscreen">S2026E188</episode-num>
   </programme>
   <programme channel="tnt3" start="20261023233000 +0000" stop="20261024003000 +0000">
     <title lang="en">Gloucester Rugby v Bath Rugby</title>
@@ -5187,8 +5175,8 @@
     <title lang="en">FIA World Endurance Championship</title>
     <desc lang="en">Highlights from the 6 Hours of Barcelona, part of the 2026 FIA World Endurance Championship.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/29918e37-9abe-4e3c-9fcb-254f01caf6aa/cover"/>
-    <episode-num system="xmltv_ns">2025.185.0</episode-num>
-    <episode-num system="onscreen">S2026E186</episode-num>
+    <episode-num system="xmltv_ns">2025.187.0</episode-num>
+    <episode-num system="onscreen">S2026E188</episode-num>
   </programme>
   <programme channel="tnt4" start="20261022020000 +0000" stop="20261022030000 +0000">
     <title lang="en">World Superbike Highlights</title>
@@ -5235,12 +5223,12 @@
   </programme>
   <programme channel="tnt4" start="20261022120000 +0000" stop="20261022140000 +0000">
     <title lang="en">Live Snooker Northern Ireland Open</title>
-    <desc lang="en">Action from the Northern Ireland Open, part of the Snooker Home Nations Series.</desc>
+    <desc lang="en">World number nine Kyren Wilson takes on China's Pang Junxu in the third round. Wilson beat Junxu in the semi-finals on his way to lifting the title here in 2024.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/348206af-8dfc-46f4-9660-b18e881ede51/cover"/>
   </programme>
   <programme channel="tnt4" start="20261022140000 +0000" stop="20261022160000 +0000">
     <title lang="en">Live Snooker Northern Ireland Open</title>
-    <desc lang="en">Action from the Northern Ireland Open, part of the Snooker Home Nations Series.</desc>
+    <desc lang="en">Scotland's Anthony McGill goes head-to-head with Poland's Mateusz Baranowski for a place in the quarter-finals of the 2026 BetVictor Northern Ireland Open.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ff45089e-6ac3-40c1-a07e-a8b32198292a/cover"/>
   </programme>
   <programme channel="tnt4" start="20261022160000 +0000" stop="20261022170000 +0000">
@@ -5264,12 +5252,12 @@
   </programme>
   <programme channel="tnt4" start="20261022180000 +0000" stop="20261022200000 +0000">
     <title lang="en">Live Snooker Northern Ireland Open</title>
-    <desc lang="en">Action from the Northern Ireland Open, part of the Snooker Home Nations Series.</desc>
+    <desc lang="en">Mark Williams continues his quest for a second Northern Ireland Open title as he takes on England's Martin O'Donnell in the third round.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/cdd407ef-b8f8-4f25-bd84-04c94d1b4f83/cover"/>
   </programme>
   <programme channel="tnt4" start="20261022200000 +0000" stop="20261022220000 +0000">
     <title lang="en">Live Snooker Northern Ireland Open</title>
-    <desc lang="en">Action from the Northern Ireland Open, part of the Snooker Home Nations Series.</desc>
+    <desc lang="en">Welshman Jak Jones takes on fellow countryman Daniel Wells for a place in the quarter-finals of the 2026 BetVictor Northern Ireland Open.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b3891ded-2597-4b11-855b-c1b42380bae7/cover"/>
   </programme>
   <programme channel="tnt4" start="20261022220000 +0000" stop="20261022233000 +0000">
@@ -5434,8 +5422,8 @@
     <title lang="en">FIA World Endurance Championship</title>
     <desc lang="en">Highlights from the 6 Hours of Barcelona, part of the 2026 FIA World Endurance Championship.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/29918e37-9abe-4e3c-9fcb-254f01caf6aa/cover"/>
-    <episode-num system="xmltv_ns">2025.185.0</episode-num>
-    <episode-num system="onscreen">S2026E186</episode-num>
+    <episode-num system="xmltv_ns">2025.187.0</episode-num>
+    <episode-num system="onscreen">S2026E188</episode-num>
   </programme>
   <programme channel="tnt4" start="20261024161500 +0000" stop="20261024180000 +0000">
     <title lang="en">Live Serie A: Napoli v Roma</title>
@@ -10856,7 +10844,7 @@
   </programme>
   <programme channel="BBCNews.uk" start="20261024033000 +0000" stop="20261024040000 +0000">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+    <desc lang="en">Our panel of politicians and current and ex-BBC execs reflect on the cuts announced so far. Plus, a provocative new programme from Channel 4 about attitudes to disability.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3358f7d1-c3ed-4d7a-bcaa-063aaa283079/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20261024040000 +0000" stop="20261024043000 +0000">
@@ -10943,7 +10931,7 @@
   </programme>
   <programme channel="BBCNews.uk" start="20261024123000 +0000" stop="20261024130000 +0000">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+    <desc lang="en">Our panel of politicians and current and ex-BBC execs reflect on the cuts announced so far. Plus, a provocative new programme from Channel 4 about attitudes to disability.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3358f7d1-c3ed-4d7a-bcaa-063aaa283079/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20261024130000 +0000" stop="20261024133000 +0000">
@@ -10978,7 +10966,7 @@
   </programme>
   <programme channel="BBCNews.uk" start="20261024153000 +0000" stop="20261024160000 +0000">
     <title lang="en">Political Thinking with Nick Robinson</title>
-    <desc lang="en">Nick Robinson in conversation with people who influence our political thinking.</desc>
+    <desc lang="en">Kanishka Narayan, minister for artificial intelligence, talks to Nick Robinson about his journey from a childhood in India to his new seat at Andy Burnham's cabinet table.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f1dd2725-b352-467b-942b-56166c643d07/cover"/>
     <episode-num system="xmltv_ns">2.17.0</episode-num>
     <episode-num system="onscreen">S3E18</episode-num>
@@ -11067,7 +11055,7 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20261022083000 +0000" stop="20261022094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rogue roofers, potentially toxic jewellery sold online &amp; supermarket Christmas deliveries.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f42a7349-5a3f-4827-9e22-9e6862b2dff9/cover"/>
     <episode-num system="xmltv_ns">7.101.0</episode-num>
     <episode-num system="onscreen">S8E102</episode-num>
@@ -11152,7 +11140,7 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20261022180000 +0000" stop="20261022183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Bob Mortimer and Paul Whitehouse join Alex Jones and Roman Kemp on the sofa, along with This City is Ours stars James Nelson-Joyce and Saoirse-Monica Jackson.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/506afd85-ec37-485d-acba-b6058883bed9/cover"/>
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20261022183000 +0000" stop="20261022190000 +0000">
@@ -11186,7 +11174,7 @@
   <programme channel="BBCOneChannelIslands.uk" start="20261022210000 +0000" stop="20261022213000 +0000">
     <title lang="en">BBC News and Weather</title>
     <desc lang="en">The latest national and international news, with reports from BBC correspondents worldwide.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/4b233f6e-0bc5-4867-8bbb-902cd04a2cea/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/2df17e35-4388-4778-be88-522421a4c773/cover"/>
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20261022213000 +0000" stop="20261022214000 +0000">
     <title lang="en">Channel Islands News</title>
@@ -11217,7 +11205,7 @@
   <programme channel="BBCOneChannelIslands.uk" start="20261023001000 +0000" stop="20261023001500 +0000">
     <title lang="en">Weather for the Week Ahead</title>
     <desc lang="en">Detailed weather forecast.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/cf3e0682-65c2-4ae8-8fea-b16121e86c48/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/75161116-65bd-415b-a57d-2db6217ee771/cover"/>
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20261023001500 +0000" stop="20261023050000 +0000">
     <title lang="en">BBC News</title>
@@ -11449,7 +11437,7 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20261024173000 +0000" stop="20261024193500 +0000">
     <title lang="en">Strictly Come Dancing</title>
-    <desc lang="en">Emma, Josh and Jojo welcome you to another round of dancing as our couples aim to dazzle you with their latest routines.</desc>
+    <desc lang="en">Emma, Josh and Jojo welcome you to another round of dancing as our couples aim to dazzle you with their latest routines. Contains scenes of flashing images.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fb71db4d-a3cf-45c7-a2e9-312696dcbfe6/cover"/>
     <episode-num system="xmltv_ns">23.8.0</episode-num>
     <episode-num system="onscreen">S24E9</episode-num>
@@ -11485,7 +11473,7 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20261024224000 +0000" stop="20261025003000 +0000">
     <title lang="en">Cat Person</title>
-    <desc lang="en">A student's relationship with an awkward older man proves problematic. Contains very strong language and scenes of a sexual nature. [2023]</desc>
+    <desc lang="en">A student's relationship with an awkward older man proves problematic. Contains very strong language, some sexual content and prolonged violence. [2023]</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a6c9a021-a4e4-318b-b0f2-3bbc08f632ff/cover"/>
   </programme>
   <programme channel="BBCOneEast.uk" start="20261021214000 +0000" stop="20261021230000 +0000">
@@ -11517,7 +11505,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20261022083000 +0000" stop="20261022094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rogue roofers, potentially toxic jewellery sold online &amp; supermarket Christmas deliveries.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f42a7349-5a3f-4827-9e22-9e6862b2dff9/cover"/>
     <episode-num system="xmltv_ns">7.101.0</episode-num>
     <episode-num system="onscreen">S8E102</episode-num>
@@ -11602,7 +11590,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20261022180000 +0000" stop="20261022183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Bob Mortimer and Paul Whitehouse join Alex Jones and Roman Kemp on the sofa, along with This City is Ours stars James Nelson-Joyce and Saoirse-Monica Jackson.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/506afd85-ec37-485d-acba-b6058883bed9/cover"/>
   </programme>
   <programme channel="BBCOneEast.uk" start="20261022183000 +0000" stop="20261022190000 +0000">
@@ -11636,7 +11624,7 @@
   <programme channel="BBCOneEast.uk" start="20261022210000 +0000" stop="20261022213000 +0000">
     <title lang="en">BBC News and Weather</title>
     <desc lang="en">The latest national and international news, with reports from BBC correspondents worldwide.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/fe61b929-6a0d-4c4a-a05b-50d5ccd0c860/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/2df17e35-4388-4778-be88-522421a4c773/cover"/>
   </programme>
   <programme channel="BBCOneEast.uk" start="20261022213000 +0000" stop="20261022214000 +0000">
     <title lang="en">Look East</title>
@@ -11667,7 +11655,7 @@
   <programme channel="BBCOneEast.uk" start="20261023001000 +0000" stop="20261023001500 +0000">
     <title lang="en">Weather for the Week Ahead</title>
     <desc lang="en">Detailed weather forecast.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/22c25e45-3e62-4e51-bea8-ad8ac9380442/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/75161116-65bd-415b-a57d-2db6217ee771/cover"/>
   </programme>
   <programme channel="BBCOneEast.uk" start="20261023001500 +0000" stop="20261023050000 +0000">
     <title lang="en">BBC News</title>
@@ -11899,7 +11887,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20261024173000 +0000" stop="20261024193500 +0000">
     <title lang="en">Strictly Come Dancing</title>
-    <desc lang="en">Emma, Josh and Jojo welcome you to another round of dancing as our couples aim to dazzle you with their latest routines.</desc>
+    <desc lang="en">Emma, Josh and Jojo welcome you to another round of dancing as our couples aim to dazzle you with their latest routines. Contains scenes of flashing images.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fb71db4d-a3cf-45c7-a2e9-312696dcbfe6/cover"/>
     <episode-num system="xmltv_ns">23.8.0</episode-num>
     <episode-num system="onscreen">S24E9</episode-num>
@@ -11935,7 +11923,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20261024224000 +0000" stop="20261025003000 +0000">
     <title lang="en">Cat Person</title>
-    <desc lang="en">A student's relationship with an awkward older man proves problematic. Contains very strong language and scenes of a sexual nature. [2023]</desc>
+    <desc lang="en">A student's relationship with an awkward older man proves problematic. Contains very strong language, some sexual content and prolonged violence. [2023]</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a6c9a021-a4e4-318b-b0f2-3bbc08f632ff/cover"/>
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20261021214000 +0000" stop="20261021230000 +0000">
@@ -11967,7 +11955,7 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20261022083000 +0000" stop="20261022094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rogue roofers, potentially toxic jewellery sold online &amp; supermarket Christmas deliveries.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f42a7349-5a3f-4827-9e22-9e6862b2dff9/cover"/>
     <episode-num system="xmltv_ns">7.101.0</episode-num>
     <episode-num system="onscreen">S8E102</episode-num>
@@ -12052,7 +12040,7 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20261022180000 +0000" stop="20261022183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Bob Mortimer and Paul Whitehouse join Alex Jones and Roman Kemp on the sofa, along with This City is Ours stars James Nelson-Joyce and Saoirse-Monica Jackson.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/506afd85-ec37-485d-acba-b6058883bed9/cover"/>
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20261022183000 +0000" stop="20261022190000 +0000">
@@ -12086,7 +12074,7 @@
   <programme channel="BBCOneEastMidlands.uk" start="20261022210000 +0000" stop="20261022213000 +0000">
     <title lang="en">BBC News and Weather</title>
     <desc lang="en">The latest national and international news, with reports from BBC correspondents worldwide.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/dc20bd97-ec48-4bf6-bdb0-4d7256ae9c8b/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/2df17e35-4388-4778-be88-522421a4c773/cover"/>
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20261022213000 +0000" stop="20261022214000 +0000">
     <title lang="en">East Midlands Today</title>
@@ -12117,7 +12105,7 @@
   <programme channel="BBCOneEastMidlands.uk" start="20261023001000 +0000" stop="20261023001500 +0000">
     <title lang="en">Weather for the Week Ahead</title>
     <desc lang="en">Detailed weather forecast.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/bdb57716-6071-47dc-85df-a46af39d53a3/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/75161116-65bd-415b-a57d-2db6217ee771/cover"/>
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20261023001500 +0000" stop="20261023050000 +0000">
     <title lang="en">BBC News</title>
@@ -12349,7 +12337,7 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20261024173000 +0000" stop="20261024193500 +0000">
     <title lang="en">Strictly Come Dancing</title>
-    <desc lang="en">Emma, Josh and Jojo welcome you to another round of dancing as our couples aim to dazzle you with their latest routines.</desc>
+    <desc lang="en">Emma, Josh and Jojo welcome you to another round of dancing as our couples aim to dazzle you with their latest routines. Contains scenes of flashing images.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fb71db4d-a3cf-45c7-a2e9-312696dcbfe6/cover"/>
     <episode-num system="xmltv_ns">23.8.0</episode-num>
     <episode-num system="onscreen">S24E9</episode-num>
@@ -12385,7 +12373,7 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20261024224000 +0000" stop="20261025003000 +0000">
     <title lang="en">Cat Person</title>
-    <desc lang="en">A student's relationship with an awkward older man proves problematic. Contains very strong language and scenes of a sexual nature. [2023]</desc>
+    <desc lang="en">A student's relationship with an awkward older man proves problematic. Contains very strong language, some sexual content and prolonged violence. [2023]</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a6c9a021-a4e4-318b-b0f2-3bbc08f632ff/cover"/>
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20261021214000 +0000" stop="20261021230000 +0000">
@@ -12417,7 +12405,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20261022083000 +0000" stop="20261022094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rogue roofers, potentially toxic jewellery sold online &amp; supermarket Christmas deliveries.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f42a7349-5a3f-4827-9e22-9e6862b2dff9/cover"/>
     <episode-num system="xmltv_ns">7.101.0</episode-num>
     <episode-num system="onscreen">S8E102</episode-num>
@@ -12502,7 +12490,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20261022180000 +0000" stop="20261022183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Bob Mortimer and Paul Whitehouse join Alex Jones and Roman Kemp on the sofa, along with This City is Ours stars James Nelson-Joyce and Saoirse-Monica Jackson.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/506afd85-ec37-485d-acba-b6058883bed9/cover"/>
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20261022183000 +0000" stop="20261022190000 +0000">
@@ -12536,7 +12524,7 @@
   <programme channel="BBCOneLondonHD.uk" start="20261022210000 +0000" stop="20261022213000 +0000">
     <title lang="en">BBC News and Weather</title>
     <desc lang="en">The latest national and international news, with reports from BBC correspondents worldwide.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/bac01142-57a9-4e65-ac1b-a63db9f988b9/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/2df17e35-4388-4778-be88-522421a4c773/cover"/>
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20261022213000 +0000" stop="20261022214000 +0000">
     <title lang="en">BBC London News</title>
@@ -12567,7 +12555,7 @@
   <programme channel="BBCOneLondonHD.uk" start="20261023001000 +0000" stop="20261023001500 +0000">
     <title lang="en">Weather for the Week Ahead</title>
     <desc lang="en">Detailed weather forecast.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/99ca9c22-9ea9-4894-a7fe-4b046a97d7b5/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/75161116-65bd-415b-a57d-2db6217ee771/cover"/>
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20261023001500 +0000" stop="20261023050000 +0000">
     <title lang="en">BBC News</title>
@@ -12799,7 +12787,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20261024173000 +0000" stop="20261024193500 +0000">
     <title lang="en">Strictly Come Dancing</title>
-    <desc lang="en">Emma, Josh and Jojo welcome you to another round of dancing as our couples aim to dazzle you with their latest routines.</desc>
+    <desc lang="en">Emma, Josh and Jojo welcome you to another round of dancing as our couples aim to dazzle you with their latest routines. Contains scenes of flashing images.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fb71db4d-a3cf-45c7-a2e9-312696dcbfe6/cover"/>
     <episode-num system="xmltv_ns">23.8.0</episode-num>
     <episode-num system="onscreen">S24E9</episode-num>
@@ -12835,7 +12823,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20261024224000 +0000" stop="20261025003000 +0000">
     <title lang="en">Cat Person</title>
-    <desc lang="en">A student's relationship with an awkward older man proves problematic. Contains very strong language and scenes of a sexual nature. [2023]</desc>
+    <desc lang="en">A student's relationship with an awkward older man proves problematic. Contains very strong language, some sexual content and prolonged violence. [2023]</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a6c9a021-a4e4-318b-b0f2-3bbc08f632ff/cover"/>
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20261021214000 +0000" stop="20261021230000 +0000">
@@ -12867,7 +12855,7 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20261022083000 +0000" stop="20261022094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rogue roofers, potentially toxic jewellery sold online &amp; supermarket Christmas deliveries.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f42a7349-5a3f-4827-9e22-9e6862b2dff9/cover"/>
     <episode-num system="xmltv_ns">7.101.0</episode-num>
     <episode-num system="onscreen">S8E102</episode-num>
@@ -12952,7 +12940,7 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20261022180000 +0000" stop="20261022183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Bob Mortimer and Paul Whitehouse join Alex Jones and Roman Kemp on the sofa, along with This City is Ours stars James Nelson-Joyce and Saoirse-Monica Jackson.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/506afd85-ec37-485d-acba-b6058883bed9/cover"/>
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20261022183000 +0000" stop="20261022190000 +0000">
@@ -12986,7 +12974,7 @@
   <programme channel="BBCOneNorthEastCumbria.uk" start="20261022210000 +0000" stop="20261022213000 +0000">
     <title lang="en">BBC News and Weather</title>
     <desc lang="en">The latest national and international news, with reports from BBC correspondents worldwide.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/517da5cb-044e-4bfb-90a9-2534c66d536f/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/2df17e35-4388-4778-be88-522421a4c773/cover"/>
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20261022213000 +0000" stop="20261022214000 +0000">
     <title lang="en">Look North (North East and Cumbria)</title>
@@ -13017,7 +13005,7 @@
   <programme channel="BBCOneNorthEastCumbria.uk" start="20261023001000 +0000" stop="20261023001500 +0000">
     <title lang="en">Weather for the Week Ahead</title>
     <desc lang="en">Detailed weather forecast.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/06af8c72-43dd-43b7-b411-0dcc0bb4111a/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/75161116-65bd-415b-a57d-2db6217ee771/cover"/>
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20261023001500 +0000" stop="20261023050000 +0000">
     <title lang="en">BBC News</title>
@@ -13249,7 +13237,7 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20261024173000 +0000" stop="20261024193500 +0000">
     <title lang="en">Strictly Come Dancing</title>
-    <desc lang="en">Emma, Josh and Jojo welcome you to another round of dancing as our couples aim to dazzle you with their latest routines.</desc>
+    <desc lang="en">Emma, Josh and Jojo welcome you to another round of dancing as our couples aim to dazzle you with their latest routines. Contains scenes of flashing images.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fb71db4d-a3cf-45c7-a2e9-312696dcbfe6/cover"/>
     <episode-num system="xmltv_ns">23.8.0</episode-num>
     <episode-num system="onscreen">S24E9</episode-num>
@@ -13285,7 +13273,7 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20261024224000 +0000" stop="20261025003000 +0000">
     <title lang="en">Cat Person</title>
-    <desc lang="en">A student's relationship with an awkward older man proves problematic. Contains very strong language and scenes of a sexual nature. [2023]</desc>
+    <desc lang="en">A student's relationship with an awkward older man proves problematic. Contains very strong language, some sexual content and prolonged violence. [2023]</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a6c9a021-a4e4-318b-b0f2-3bbc08f632ff/cover"/>
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20261021214000 +0000" stop="20261021230000 +0000">
@@ -13317,7 +13305,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20261022083000 +0000" stop="20261022094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rogue roofers, potentially toxic jewellery sold online &amp; supermarket Christmas deliveries.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f42a7349-5a3f-4827-9e22-9e6862b2dff9/cover"/>
     <episode-num system="xmltv_ns">7.101.0</episode-num>
     <episode-num system="onscreen">S8E102</episode-num>
@@ -13402,7 +13390,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20261022180000 +0000" stop="20261022183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Bob Mortimer and Paul Whitehouse join Alex Jones and Roman Kemp on the sofa, along with This City is Ours stars James Nelson-Joyce and Saoirse-Monica Jackson.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/506afd85-ec37-485d-acba-b6058883bed9/cover"/>
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20261022183000 +0000" stop="20261022190000 +0000">
@@ -13436,7 +13424,7 @@
   <programme channel="BBCOneNorthWest.uk" start="20261022210000 +0000" stop="20261022213000 +0000">
     <title lang="en">BBC News and Weather</title>
     <desc lang="en">The latest national and international news, with reports from BBC correspondents worldwide.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c4d0c04a-968b-45c6-825b-d1a90348b75f/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/2df17e35-4388-4778-be88-522421a4c773/cover"/>
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20261022213000 +0000" stop="20261022214000 +0000">
     <title lang="en">North West Tonight</title>
@@ -13467,7 +13455,7 @@
   <programme channel="BBCOneNorthWest.uk" start="20261023001000 +0000" stop="20261023001500 +0000">
     <title lang="en">Weather for the Week Ahead</title>
     <desc lang="en">Detailed weather forecast.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1ee20309-a455-410b-81b7-d918a2f8ca48/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/75161116-65bd-415b-a57d-2db6217ee771/cover"/>
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20261023001500 +0000" stop="20261023050000 +0000">
     <title lang="en">BBC News</title>
@@ -13699,7 +13687,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20261024173000 +0000" stop="20261024193500 +0000">
     <title lang="en">Strictly Come Dancing</title>
-    <desc lang="en">Emma, Josh and Jojo welcome you to another round of dancing as our couples aim to dazzle you with their latest routines.</desc>
+    <desc lang="en">Emma, Josh and Jojo welcome you to another round of dancing as our couples aim to dazzle you with their latest routines. Contains scenes of flashing images.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fb71db4d-a3cf-45c7-a2e9-312696dcbfe6/cover"/>
     <episode-num system="xmltv_ns">23.8.0</episode-num>
     <episode-num system="onscreen">S24E9</episode-num>
@@ -13735,7 +13723,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20261024224000 +0000" stop="20261025003000 +0000">
     <title lang="en">Cat Person</title>
-    <desc lang="en">A student's relationship with an awkward older man proves problematic. Contains very strong language and scenes of a sexual nature. [2023]</desc>
+    <desc lang="en">A student's relationship with an awkward older man proves problematic. Contains very strong language, some sexual content and prolonged violence. [2023]</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a6c9a021-a4e4-318b-b0f2-3bbc08f632ff/cover"/>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20261021214000 +0000" stop="20261021224000 +0000">
@@ -13769,7 +13757,7 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20261022083000 +0000" stop="20261022094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rogue roofers, potentially toxic jewellery sold online &amp; supermarket Christmas deliveries.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f42a7349-5a3f-4827-9e22-9e6862b2dff9/cover"/>
     <episode-num system="xmltv_ns">7.101.0</episode-num>
     <episode-num system="onscreen">S8E102</episode-num>
@@ -13854,7 +13842,7 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20261022180000 +0000" stop="20261022183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Bob Mortimer and Paul Whitehouse join Alex Jones and Roman Kemp on the sofa, along with This City is Ours stars James Nelson-Joyce and Saoirse-Monica Jackson.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/506afd85-ec37-485d-acba-b6058883bed9/cover"/>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20261022183000 +0000" stop="20261022190000 +0000">
@@ -13888,7 +13876,7 @@
   <programme channel="BBCOneNorthernIreland.uk" start="20261022210000 +0000" stop="20261022213000 +0000">
     <title lang="en">BBC News and Weather</title>
     <desc lang="en">The latest national and international news, with reports from BBC correspondents worldwide.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/8cb2127f-c684-40be-8c63-259b56147347/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/5ef75f47-8212-4fbd-b84f-6964da977ac2/cover"/>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20261022213000 +0000" stop="20261022214000 +0000">
     <title lang="en">BBC Newsline</title>
@@ -14076,7 +14064,7 @@
   <programme channel="BBCOneNorthernIreland.uk" start="20261024001000 +0000" stop="20261024050000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">BBC One joins the BBC's rolling news channel for a night of news.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/5d564d5b-81d9-40bb-8ee1-c9cf3f5ae072/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/b40c3f8e-54ff-4783-be40-573d0cbfd68b/cover"/>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20261024050000 +0000" stop="20261024090000 +0000">
     <title lang="en">Breakfast</title>
@@ -14148,7 +14136,7 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20261024173000 +0000" stop="20261024193500 +0000">
     <title lang="en">Strictly Come Dancing</title>
-    <desc lang="en">Emma, Josh and Jojo welcome you to another round of dancing as our couples aim to dazzle you with their latest routines.</desc>
+    <desc lang="en">Emma, Josh and Jojo welcome you to another round of dancing as our couples aim to dazzle you with their latest routines. Contains scenes of flashing images.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fb71db4d-a3cf-45c7-a2e9-312696dcbfe6/cover"/>
     <episode-num system="xmltv_ns">23.8.0</episode-num>
     <episode-num system="onscreen">S24E9</episode-num>
@@ -14184,7 +14172,7 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20261024224000 +0000" stop="20261025003000 +0000">
     <title lang="en">Cat Person</title>
-    <desc lang="en">A student's relationship with an awkward older man proves problematic. Contains very strong language and scenes of a sexual nature. [2023]</desc>
+    <desc lang="en">A student's relationship with an awkward older man proves problematic. Contains very strong language, some sexual content and prolonged violence. [2023]</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a6c9a021-a4e4-318b-b0f2-3bbc08f632ff/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20261021214000 +0000" stop="20261021230000 +0000">
@@ -14221,7 +14209,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20261022083000 +0000" stop="20261022094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rogue roofers, potentially toxic jewellery sold online &amp; supermarket Christmas deliveries.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f42a7349-5a3f-4827-9e22-9e6862b2dff9/cover"/>
     <episode-num system="xmltv_ns">7.101.0</episode-num>
     <episode-num system="onscreen">S8E102</episode-num>
@@ -14306,7 +14294,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20261022180000 +0000" stop="20261022183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Bob Mortimer and Paul Whitehouse join Alex Jones and Roman Kemp on the sofa, along with This City is Ours stars James Nelson-Joyce and Saoirse-Monica Jackson.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/506afd85-ec37-485d-acba-b6058883bed9/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20261022183000 +0000" stop="20261022190000 +0000">
@@ -14376,12 +14364,12 @@
   <programme channel="BBCOneScotHD.uk" start="20261023004000 +0000" stop="20261023004500 +0000">
     <title lang="en">Weather for the Week Ahead</title>
     <desc lang="en">Detailed weather forecast.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/4de1e080-0e67-4b97-a248-ea8db186904c/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/75161116-65bd-415b-a57d-2db6217ee771/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20261023004500 +0000" stop="20261023050000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">BBC One joins the BBC's rolling news channel for a night of news.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/fdd625e0-7ccb-431d-84d4-fbb5ecced275/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/580ccd34-8cb1-4606-98f0-1b643592f5a1/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20261023050000 +0000" stop="20261023083000 +0000">
     <title lang="en">Breakfast</title>
@@ -14533,12 +14521,12 @@
   <programme channel="BBCOneScotHD.uk" start="20261024001000 +0000" stop="20261024001500 +0000">
     <title lang="en">Weather for the Week Ahead</title>
     <desc lang="en">Detailed weather forecast.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b90b4c20-bd6c-4107-867c-d76ee012857e/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/71dfadc9-64d0-4e7f-b7aa-0010e4813089/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20261024001500 +0000" stop="20261024050000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">BBC One joins the BBC's rolling news channel for a night of news.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9094461c-1374-4cce-bb33-f244ae9cfee7/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/b40c3f8e-54ff-4783-be40-573d0cbfd68b/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20261024050000 +0000" stop="20261024090000 +0000">
     <title lang="en">Breakfast</title>
@@ -14615,7 +14603,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20261024173000 +0000" stop="20261024193500 +0000">
     <title lang="en">Strictly Come Dancing</title>
-    <desc lang="en">Emma, Josh and Jojo welcome you to another round of dancing as our couples aim to dazzle you with their latest routines.</desc>
+    <desc lang="en">Emma, Josh and Jojo welcome you to another round of dancing as our couples aim to dazzle you with their latest routines. Contains scenes of flashing images.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fb71db4d-a3cf-45c7-a2e9-312696dcbfe6/cover"/>
     <episode-num system="xmltv_ns">23.8.0</episode-num>
     <episode-num system="onscreen">S24E9</episode-num>
@@ -14683,7 +14671,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20261022083000 +0000" stop="20261022094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rogue roofers, potentially toxic jewellery sold online &amp; supermarket Christmas deliveries.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f42a7349-5a3f-4827-9e22-9e6862b2dff9/cover"/>
     <episode-num system="xmltv_ns">7.101.0</episode-num>
     <episode-num system="onscreen">S8E102</episode-num>
@@ -14768,7 +14756,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20261022180000 +0000" stop="20261022183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Bob Mortimer and Paul Whitehouse join Alex Jones and Roman Kemp on the sofa, along with This City is Ours stars James Nelson-Joyce and Saoirse-Monica Jackson.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/506afd85-ec37-485d-acba-b6058883bed9/cover"/>
   </programme>
   <programme channel="BBCOneSouth.uk" start="20261022183000 +0000" stop="20261022190000 +0000">
@@ -14802,7 +14790,7 @@
   <programme channel="BBCOneSouth.uk" start="20261022210000 +0000" stop="20261022213000 +0000">
     <title lang="en">BBC News and Weather</title>
     <desc lang="en">The latest national and international news, with reports from BBC correspondents worldwide.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/52947e63-cf58-43b5-b2be-cde106e268db/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/2df17e35-4388-4778-be88-522421a4c773/cover"/>
   </programme>
   <programme channel="BBCOneSouth.uk" start="20261022213000 +0000" stop="20261022214000 +0000">
     <title lang="en">South Today</title>
@@ -14833,7 +14821,7 @@
   <programme channel="BBCOneSouth.uk" start="20261023001000 +0000" stop="20261023001500 +0000">
     <title lang="en">Weather for the Week Ahead</title>
     <desc lang="en">Detailed weather forecast.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/2e9274aa-7485-45a4-88aa-2f81d0c24521/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/75161116-65bd-415b-a57d-2db6217ee771/cover"/>
   </programme>
   <programme channel="BBCOneSouth.uk" start="20261023001500 +0000" stop="20261023050000 +0000">
     <title lang="en">BBC News</title>
@@ -15065,7 +15053,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20261024173000 +0000" stop="20261024193500 +0000">
     <title lang="en">Strictly Come Dancing</title>
-    <desc lang="en">Emma, Josh and Jojo welcome you to another round of dancing as our couples aim to dazzle you with their latest routines.</desc>
+    <desc lang="en">Emma, Josh and Jojo welcome you to another round of dancing as our couples aim to dazzle you with their latest routines. Contains scenes of flashing images.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fb71db4d-a3cf-45c7-a2e9-312696dcbfe6/cover"/>
     <episode-num system="xmltv_ns">23.8.0</episode-num>
     <episode-num system="onscreen">S24E9</episode-num>
@@ -15101,7 +15089,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20261024224000 +0000" stop="20261025003000 +0000">
     <title lang="en">Cat Person</title>
-    <desc lang="en">A student's relationship with an awkward older man proves problematic. Contains very strong language and scenes of a sexual nature. [2023]</desc>
+    <desc lang="en">A student's relationship with an awkward older man proves problematic. Contains very strong language, some sexual content and prolonged violence. [2023]</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a6c9a021-a4e4-318b-b0f2-3bbc08f632ff/cover"/>
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20261021214000 +0000" stop="20261021230000 +0000">
@@ -15133,7 +15121,7 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20261022083000 +0000" stop="20261022094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rogue roofers, potentially toxic jewellery sold online &amp; supermarket Christmas deliveries.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f42a7349-5a3f-4827-9e22-9e6862b2dff9/cover"/>
     <episode-num system="xmltv_ns">7.101.0</episode-num>
     <episode-num system="onscreen">S8E102</episode-num>
@@ -15218,7 +15206,7 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20261022180000 +0000" stop="20261022183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Bob Mortimer and Paul Whitehouse join Alex Jones and Roman Kemp on the sofa, along with This City is Ours stars James Nelson-Joyce and Saoirse-Monica Jackson.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/506afd85-ec37-485d-acba-b6058883bed9/cover"/>
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20261022183000 +0000" stop="20261022190000 +0000">
@@ -15252,7 +15240,7 @@
   <programme channel="BBCOneSouthEast.uk" start="20261022210000 +0000" stop="20261022213000 +0000">
     <title lang="en">BBC News and Weather</title>
     <desc lang="en">The latest national and international news, with reports from BBC correspondents worldwide.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d1b019f7-9cf6-47f5-88d5-1fe264b79031/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/2df17e35-4388-4778-be88-522421a4c773/cover"/>
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20261022213000 +0000" stop="20261022214000 +0000">
     <title lang="en">South East Today</title>
@@ -15283,7 +15271,7 @@
   <programme channel="BBCOneSouthEast.uk" start="20261023001000 +0000" stop="20261023001500 +0000">
     <title lang="en">Weather for the Week Ahead</title>
     <desc lang="en">Detailed weather forecast.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/35cbb868-dc21-4f03-821d-c3c434d3198c/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/75161116-65bd-415b-a57d-2db6217ee771/cover"/>
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20261023001500 +0000" stop="20261023050000 +0000">
     <title lang="en">BBC News</title>
@@ -15515,10 +15503,10 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20261024173000 +0000" stop="20261024193500 +0000">
     <title lang="en">Strictly Come Dancing</title>
-    <desc lang="en">Emma, Josh and Jojo welcome you to another round of dancing as our couples aim to dazzle you with their latest routines.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/38be4c2d-9028-40c8-9b75-295481177ca0/cover"/>
-    <episode-num system="xmltv_ns">23.9.0</episode-num>
-    <episode-num system="onscreen">S24E10</episode-num>
+    <desc lang="en">Emma, Josh and Jojo welcome you to another round of dancing as our couples aim to dazzle you with their latest routines. Contains scenes of flashing images.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/fb71db4d-a3cf-45c7-a2e9-312696dcbfe6/cover"/>
+    <episode-num system="xmltv_ns">23.8.0</episode-num>
+    <episode-num system="onscreen">S24E9</episode-num>
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20261024193500 +0000" stop="20261024202000 +0000">
     <title lang="en">Wisdom of the Crowd</title>
@@ -15551,7 +15539,7 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20261024224000 +0000" stop="20261025003000 +0000">
     <title lang="en">Cat Person</title>
-    <desc lang="en">A student's relationship with an awkward older man proves problematic. Contains very strong language and scenes of a sexual nature. [2023]</desc>
+    <desc lang="en">A student's relationship with an awkward older man proves problematic. Contains very strong language, some sexual content and prolonged violence. [2023]</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a6c9a021-a4e4-318b-b0f2-3bbc08f632ff/cover"/>
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20261021214000 +0000" stop="20261021230000 +0000">
@@ -15583,7 +15571,7 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20261022083000 +0000" stop="20261022094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rogue roofers, potentially toxic jewellery sold online &amp; supermarket Christmas deliveries.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f42a7349-5a3f-4827-9e22-9e6862b2dff9/cover"/>
     <episode-num system="xmltv_ns">7.101.0</episode-num>
     <episode-num system="onscreen">S8E102</episode-num>
@@ -15668,7 +15656,7 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20261022180000 +0000" stop="20261022183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Bob Mortimer and Paul Whitehouse join Alex Jones and Roman Kemp on the sofa, along with This City is Ours stars James Nelson-Joyce and Saoirse-Monica Jackson.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/506afd85-ec37-485d-acba-b6058883bed9/cover"/>
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20261022183000 +0000" stop="20261022190000 +0000">
@@ -15702,7 +15690,7 @@
   <programme channel="BBCOneSouthWest.uk" start="20261022210000 +0000" stop="20261022213000 +0000">
     <title lang="en">BBC News and Weather</title>
     <desc lang="en">The latest national and international news, with reports from BBC correspondents worldwide.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/79b842c8-cf72-4c3b-8667-2ed41fd1a68e/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/2df17e35-4388-4778-be88-522421a4c773/cover"/>
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20261022213000 +0000" stop="20261022214000 +0000">
     <title lang="en">Spotlight</title>
@@ -15733,7 +15721,7 @@
   <programme channel="BBCOneSouthWest.uk" start="20261023001000 +0000" stop="20261023001500 +0000">
     <title lang="en">Weather for the Week Ahead</title>
     <desc lang="en">Detailed weather forecast.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/22a43b40-375d-4988-a405-0e59e286ab5a/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/75161116-65bd-415b-a57d-2db6217ee771/cover"/>
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20261023001500 +0000" stop="20261023050000 +0000">
     <title lang="en">BBC News</title>
@@ -15965,7 +15953,7 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20261024173000 +0000" stop="20261024193500 +0000">
     <title lang="en">Strictly Come Dancing</title>
-    <desc lang="en">Emma, Josh and Jojo welcome you to another round of dancing as our couples aim to dazzle you with their latest routines.</desc>
+    <desc lang="en">Emma, Josh and Jojo welcome you to another round of dancing as our couples aim to dazzle you with their latest routines. Contains scenes of flashing images.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fb71db4d-a3cf-45c7-a2e9-312696dcbfe6/cover"/>
     <episode-num system="xmltv_ns">23.8.0</episode-num>
     <episode-num system="onscreen">S24E9</episode-num>
@@ -16001,7 +15989,7 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20261024224000 +0000" stop="20261025003000 +0000">
     <title lang="en">Cat Person</title>
-    <desc lang="en">A student's relationship with an awkward older man proves problematic. Contains very strong language and scenes of a sexual nature. [2023]</desc>
+    <desc lang="en">A student's relationship with an awkward older man proves problematic. Contains very strong language, some sexual content and prolonged violence. [2023]</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a6c9a021-a4e4-318b-b0f2-3bbc08f632ff/cover"/>
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20261021214000 +0000" stop="20261021221500 +0000">
@@ -16033,7 +16021,7 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20261022083000 +0000" stop="20261022094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rogue roofers, potentially toxic jewellery sold online &amp; supermarket Christmas deliveries.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f42a7349-5a3f-4827-9e22-9e6862b2dff9/cover"/>
     <episode-num system="xmltv_ns">7.101.0</episode-num>
     <episode-num system="onscreen">S8E102</episode-num>
@@ -16123,7 +16111,7 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20261022180000 +0000" stop="20261022183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Bob Mortimer and Paul Whitehouse join Alex Jones and Roman Kemp on the sofa, along with This City is Ours stars James Nelson-Joyce and Saoirse-Monica Jackson.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/506afd85-ec37-485d-acba-b6058883bed9/cover"/>
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20261022183000 +0000" stop="20261022190000 +0000">
@@ -16157,12 +16145,12 @@
   <programme channel="BBCOneWalesHD.uk" start="20261022210000 +0000" stop="20261022213000 +0000">
     <title lang="en">BBC News and Weather</title>
     <desc lang="en">The latest national and international news, with reports from BBC correspondents worldwide.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d5de9549-135b-4217-bd7c-521df8a33306/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/2df17e35-4388-4778-be88-522421a4c773/cover"/>
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20261022213000 +0000" stop="20261022214000 +0000">
     <title lang="en">BBC Wales Today</title>
     <desc lang="en">News and weather from BBC Wales.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/ece94273-0ea7-4879-808e-6b5716975e37/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/6343bec1-5485-452d-bd36-ad568402cf60/cover"/>
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20261022214000 +0000" stop="20261022224000 +0000">
     <title lang="en">Question Time</title>
@@ -16188,7 +16176,7 @@
   <programme channel="BBCOneWalesHD.uk" start="20261023001000 +0000" stop="20261023001500 +0000">
     <title lang="en">Weather for the Week Ahead</title>
     <desc lang="en">Detailed weather forecast.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a2a0060b-4f17-4a1d-b2ca-e6220e844a2d/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/75161116-65bd-415b-a57d-2db6217ee771/cover"/>
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20261023001500 +0000" stop="20261023050000 +0000">
     <title lang="en">BBC News</title>
@@ -16441,7 +16429,7 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20261024173000 +0000" stop="20261024193500 +0000">
     <title lang="en">Strictly Come Dancing</title>
-    <desc lang="en">Emma, Josh and Jojo welcome you to another round of dancing as our couples aim to dazzle you with their latest routines.</desc>
+    <desc lang="en">Emma, Josh and Jojo welcome you to another round of dancing as our couples aim to dazzle you with their latest routines. Contains scenes of flashing images.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fb71db4d-a3cf-45c7-a2e9-312696dcbfe6/cover"/>
     <episode-num system="xmltv_ns">23.8.0</episode-num>
     <episode-num system="onscreen">S24E9</episode-num>
@@ -16477,7 +16465,7 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20261024224000 +0000" stop="20261025003000 +0000">
     <title lang="en">Cat Person</title>
-    <desc lang="en">A student's relationship with an awkward older man proves problematic. Contains very strong language and scenes of a sexual nature. [2023]</desc>
+    <desc lang="en">A student's relationship with an awkward older man proves problematic. Contains very strong language, some sexual content and prolonged violence. [2023]</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a6c9a021-a4e4-318b-b0f2-3bbc08f632ff/cover"/>
   </programme>
   <programme channel="BBCOneWest.uk" start="20261021214000 +0000" stop="20261021230000 +0000">
@@ -16509,7 +16497,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20261022083000 +0000" stop="20261022094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rogue roofers, potentially toxic jewellery sold online &amp; supermarket Christmas deliveries.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f42a7349-5a3f-4827-9e22-9e6862b2dff9/cover"/>
     <episode-num system="xmltv_ns">7.101.0</episode-num>
     <episode-num system="onscreen">S8E102</episode-num>
@@ -16594,7 +16582,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20261022180000 +0000" stop="20261022183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Bob Mortimer and Paul Whitehouse join Alex Jones and Roman Kemp on the sofa, along with This City is Ours stars James Nelson-Joyce and Saoirse-Monica Jackson.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/506afd85-ec37-485d-acba-b6058883bed9/cover"/>
   </programme>
   <programme channel="BBCOneWest.uk" start="20261022183000 +0000" stop="20261022190000 +0000">
@@ -16628,7 +16616,7 @@
   <programme channel="BBCOneWest.uk" start="20261022210000 +0000" stop="20261022213000 +0000">
     <title lang="en">BBC News and Weather</title>
     <desc lang="en">The latest national and international news, with reports from BBC correspondents worldwide.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c2bae48d-9a35-4561-b280-65393af074be/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/2df17e35-4388-4778-be88-522421a4c773/cover"/>
   </programme>
   <programme channel="BBCOneWest.uk" start="20261022213000 +0000" stop="20261022214000 +0000">
     <title lang="en">Points West</title>
@@ -16659,7 +16647,7 @@
   <programme channel="BBCOneWest.uk" start="20261023001000 +0000" stop="20261023001500 +0000">
     <title lang="en">Weather for the Week Ahead</title>
     <desc lang="en">Detailed weather forecast.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/23855155-17b8-461f-8c8a-91bbbc3084e5/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/75161116-65bd-415b-a57d-2db6217ee771/cover"/>
   </programme>
   <programme channel="BBCOneWest.uk" start="20261023001500 +0000" stop="20261023050000 +0000">
     <title lang="en">BBC News</title>
@@ -16891,7 +16879,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20261024173000 +0000" stop="20261024193500 +0000">
     <title lang="en">Strictly Come Dancing</title>
-    <desc lang="en">Emma, Josh and Jojo welcome you to another round of dancing as our couples aim to dazzle you with their latest routines.</desc>
+    <desc lang="en">Emma, Josh and Jojo welcome you to another round of dancing as our couples aim to dazzle you with their latest routines. Contains scenes of flashing images.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fb71db4d-a3cf-45c7-a2e9-312696dcbfe6/cover"/>
     <episode-num system="xmltv_ns">23.8.0</episode-num>
     <episode-num system="onscreen">S24E9</episode-num>
@@ -16927,7 +16915,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20261024224000 +0000" stop="20261025003000 +0000">
     <title lang="en">Cat Person</title>
-    <desc lang="en">A student's relationship with an awkward older man proves problematic. Contains very strong language and scenes of a sexual nature. [2023]</desc>
+    <desc lang="en">A student's relationship with an awkward older man proves problematic. Contains very strong language, some sexual content and prolonged violence. [2023]</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a6c9a021-a4e4-318b-b0f2-3bbc08f632ff/cover"/>
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20261021214000 +0000" stop="20261021230000 +0000">
@@ -16959,7 +16947,7 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20261022083000 +0000" stop="20261022094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rogue roofers, potentially toxic jewellery sold online &amp; supermarket Christmas deliveries.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f42a7349-5a3f-4827-9e22-9e6862b2dff9/cover"/>
     <episode-num system="xmltv_ns">7.101.0</episode-num>
     <episode-num system="onscreen">S8E102</episode-num>
@@ -17044,7 +17032,7 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20261022180000 +0000" stop="20261022183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Bob Mortimer and Paul Whitehouse join Alex Jones and Roman Kemp on the sofa, along with This City is Ours stars James Nelson-Joyce and Saoirse-Monica Jackson.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/506afd85-ec37-485d-acba-b6058883bed9/cover"/>
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20261022183000 +0000" stop="20261022190000 +0000">
@@ -17078,7 +17066,7 @@
   <programme channel="BBCOneWestMidlands.uk" start="20261022210000 +0000" stop="20261022213000 +0000">
     <title lang="en">BBC News and Weather</title>
     <desc lang="en">The latest national and international news, with reports from BBC correspondents worldwide.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/12add626-dc81-4f9e-9a8a-62e7fbe50a92/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/2df17e35-4388-4778-be88-522421a4c773/cover"/>
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20261022213000 +0000" stop="20261022214000 +0000">
     <title lang="en">Midlands Today</title>
@@ -17109,7 +17097,7 @@
   <programme channel="BBCOneWestMidlands.uk" start="20261023001000 +0000" stop="20261023001500 +0000">
     <title lang="en">Weather for the Week Ahead</title>
     <desc lang="en">Detailed weather forecast.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/cd9fb761-8907-4cec-934a-e96f370a5265/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/75161116-65bd-415b-a57d-2db6217ee771/cover"/>
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20261023001500 +0000" stop="20261023050000 +0000">
     <title lang="en">BBC News</title>
@@ -17341,7 +17329,7 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20261024173000 +0000" stop="20261024193500 +0000">
     <title lang="en">Strictly Come Dancing</title>
-    <desc lang="en">Emma, Josh and Jojo welcome you to another round of dancing as our couples aim to dazzle you with their latest routines.</desc>
+    <desc lang="en">Emma, Josh and Jojo welcome you to another round of dancing as our couples aim to dazzle you with their latest routines. Contains scenes of flashing images.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fb71db4d-a3cf-45c7-a2e9-312696dcbfe6/cover"/>
     <episode-num system="xmltv_ns">23.8.0</episode-num>
     <episode-num system="onscreen">S24E9</episode-num>
@@ -17377,7 +17365,7 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20261024224000 +0000" stop="20261025003000 +0000">
     <title lang="en">Cat Person</title>
-    <desc lang="en">A student's relationship with an awkward older man proves problematic. Contains very strong language and scenes of a sexual nature. [2023]</desc>
+    <desc lang="en">A student's relationship with an awkward older man proves problematic. Contains very strong language, some sexual content and prolonged violence. [2023]</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a6c9a021-a4e4-318b-b0f2-3bbc08f632ff/cover"/>
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20261021214000 +0000" stop="20261021230000 +0000">
@@ -17409,7 +17397,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20261022083000 +0000" stop="20261022094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rogue roofers, potentially toxic jewellery sold online &amp; supermarket Christmas deliveries.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f42a7349-5a3f-4827-9e22-9e6862b2dff9/cover"/>
     <episode-num system="xmltv_ns">7.101.0</episode-num>
     <episode-num system="onscreen">S8E102</episode-num>
@@ -17494,7 +17482,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20261022180000 +0000" stop="20261022183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Bob Mortimer and Paul Whitehouse join Alex Jones and Roman Kemp on the sofa, along with This City is Ours stars James Nelson-Joyce and Saoirse-Monica Jackson.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/506afd85-ec37-485d-acba-b6058883bed9/cover"/>
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20261022183000 +0000" stop="20261022190000 +0000">
@@ -17528,7 +17516,7 @@
   <programme channel="BBCOneYorksLincs.uk" start="20261022210000 +0000" stop="20261022213000 +0000">
     <title lang="en">BBC News and Weather</title>
     <desc lang="en">The latest national and international news, with reports from BBC correspondents worldwide.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e6c8951a-eb27-475c-a993-61d5f485d148/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/2df17e35-4388-4778-be88-522421a4c773/cover"/>
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20261022213000 +0000" stop="20261022214000 +0000">
     <title lang="en">Look North (East Yorkshire and Lincolnshire)</title>
@@ -17559,7 +17547,7 @@
   <programme channel="BBCOneYorksLincs.uk" start="20261023001000 +0000" stop="20261023001500 +0000">
     <title lang="en">Weather for the Week Ahead</title>
     <desc lang="en">Detailed weather forecast.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/18bb2a2a-094a-4e28-aac0-73684f798cd5/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/75161116-65bd-415b-a57d-2db6217ee771/cover"/>
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20261023001500 +0000" stop="20261023050000 +0000">
     <title lang="en">BBC News</title>
@@ -17791,7 +17779,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20261024173000 +0000" stop="20261024193500 +0000">
     <title lang="en">Strictly Come Dancing</title>
-    <desc lang="en">Emma, Josh and Jojo welcome you to another round of dancing as our couples aim to dazzle you with their latest routines.</desc>
+    <desc lang="en">Emma, Josh and Jojo welcome you to another round of dancing as our couples aim to dazzle you with their latest routines. Contains scenes of flashing images.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fb71db4d-a3cf-45c7-a2e9-312696dcbfe6/cover"/>
     <episode-num system="xmltv_ns">23.8.0</episode-num>
     <episode-num system="onscreen">S24E9</episode-num>
@@ -17827,7 +17815,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20261024224000 +0000" stop="20261025003000 +0000">
     <title lang="en">Cat Person</title>
-    <desc lang="en">A student's relationship with an awkward older man proves problematic. Contains very strong language and scenes of a sexual nature. [2023]</desc>
+    <desc lang="en">A student's relationship with an awkward older man proves problematic. Contains very strong language, some sexual content and prolonged violence. [2023]</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a6c9a021-a4e4-318b-b0f2-3bbc08f632ff/cover"/>
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20261021214000 +0000" stop="20261021230000 +0000">
@@ -17859,7 +17847,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20261022083000 +0000" stop="20261022094500 +0000">
     <title lang="en">Morning Live</title>
-    <desc lang="en">Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
+    <desc lang="en">Rogue roofers, potentially toxic jewellery sold online &amp; supermarket Christmas deliveries.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f42a7349-5a3f-4827-9e22-9e6862b2dff9/cover"/>
     <episode-num system="xmltv_ns">7.101.0</episode-num>
     <episode-num system="onscreen">S8E102</episode-num>
@@ -17944,7 +17932,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20261022180000 +0000" stop="20261022183000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Bob Mortimer and Paul Whitehouse join Alex Jones and Roman Kemp on the sofa, along with This City is Ours stars James Nelson-Joyce and Saoirse-Monica Jackson.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/506afd85-ec37-485d-acba-b6058883bed9/cover"/>
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20261022183000 +0000" stop="20261022190000 +0000">
@@ -17978,7 +17966,7 @@
   <programme channel="BBCOneYorkshire.uk" start="20261022210000 +0000" stop="20261022213000 +0000">
     <title lang="en">BBC News and Weather</title>
     <desc lang="en">The latest national and international news, with reports from BBC correspondents worldwide.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/78195f25-05c4-4cb8-aa21-3a58e0c3d21f/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/2df17e35-4388-4778-be88-522421a4c773/cover"/>
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20261022213000 +0000" stop="20261022214000 +0000">
     <title lang="en">Look North (Yorkshire)</title>
@@ -18009,7 +17997,7 @@
   <programme channel="BBCOneYorkshire.uk" start="20261023001000 +0000" stop="20261023001500 +0000">
     <title lang="en">Weather for the Week Ahead</title>
     <desc lang="en">Detailed weather forecast.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a74b3148-e74d-44bf-9daa-b4632c7408dd/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/75161116-65bd-415b-a57d-2db6217ee771/cover"/>
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20261023001500 +0000" stop="20261023050000 +0000">
     <title lang="en">BBC News</title>
@@ -18241,7 +18229,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20261024173000 +0000" stop="20261024193500 +0000">
     <title lang="en">Strictly Come Dancing</title>
-    <desc lang="en">Emma, Josh and Jojo welcome you to another round of dancing as our couples aim to dazzle you with their latest routines.</desc>
+    <desc lang="en">Emma, Josh and Jojo welcome you to another round of dancing as our couples aim to dazzle you with their latest routines. Contains scenes of flashing images.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fb71db4d-a3cf-45c7-a2e9-312696dcbfe6/cover"/>
     <episode-num system="xmltv_ns">23.8.0</episode-num>
     <episode-num system="onscreen">S24E9</episode-num>
@@ -18277,7 +18265,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20261024224000 +0000" stop="20261025003000 +0000">
     <title lang="en">Cat Person</title>
-    <desc lang="en">A student's relationship with an awkward older man proves problematic. Contains very strong language and scenes of a sexual nature. [2023]</desc>
+    <desc lang="en">A student's relationship with an awkward older man proves problematic. Contains very strong language, some sexual content and prolonged violence. [2023]</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a6c9a021-a4e4-318b-b0f2-3bbc08f632ff/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20261021214500 +0000" stop="20261021223000 +0000">
@@ -18330,12 +18318,17 @@
     <desc lang="en">Coverage of Commissioners Questions in the House of Commons, on Thursday 22 October.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9e782d96-6b0c-333b-a3ce-9c698c553dc7/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20261022093000 +0000" stop="20261022103000 +0000">
+  <programme channel="BBCParliament.uk" start="20261022093000 +0000" stop="20261022101500 +0000">
+    <title lang="en">Live RAF Deployment to Saudi Arabia Urgent Question</title>
+    <desc lang="en">Coverage of the urgent question on the deployment of RAF Typhoon jets to Saudi Arabia.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/26380912-c403-4204-b7b1-8fb29a2a1fb7/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20261022101500 +0000" stop="20261022111500 +0000">
     <title lang="en">Live Commons Business Questions</title>
     <desc lang="en">Coverage of the announcement of future Commons business and questions to Alan Campbell, the leader of the Commons, on Thursday 22 October.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7effa7eb-fae9-45e5-88c4-28a4501ef491/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20261022103000 +0000" stop="20261022163000 +0000">
+  <programme channel="BBCParliament.uk" start="20261022111500 +0000" stop="20261022163000 +0000">
     <title lang="en">Live House of Commons</title>
     <desc lang="en">Coverage of the day's proceedings in the House of Commons including tributes to the clerk of the House and a general debate to mark Black History Month, on Thursday 22 October.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/23896879-32f9-4ca7-885e-4188050d1721/cover"/>
@@ -18345,10 +18338,30 @@
     <desc lang="en">Questions in the House of Lords to government ministers on Thursday 22 October.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fa4f4cc3-d204-46b1-abc0-77116f9fc4b8/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20261022171500 +0000" stop="20261023010000 +0000">
-    <title lang="en">House of Lords</title>
-    <desc lang="en">Business in the House of Lords on Thursday 22 October.</desc>
+  <programme channel="BBCParliament.uk" start="20261022171500 +0000" stop="20261022173000 +0000">
+    <title lang="en">House of Lords - Website...</title>
+    <desc lang="en">...Vulnerability Private Notice Question. Question on the impact of the vulnerability discovered in the PHP programming language.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e7d197f9-f076-4ccc-adae-ed49c8239f2c/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20261022173000 +0000" stop="20261022181000 +0000">
+    <title lang="en">House of Lords - Sir David Bell...</title>
+    <desc lang="en">...Review of Antisemitism in Schools. The statement on Sir David Bell's review of antisemitism in schools and colleges.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/87281a53-2d03-4f35-aefa-7cd8a21be7fb/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20261022181000 +0000" stop="20261022204000 +0000">
+    <title lang="en">House of Lords - Screen Use and Social Media by Children</title>
+    <desc lang="en">Coverage of the debate in the House of Lords on the effect of AI, social media and screen usage on children and young people, on Thursday 22 October.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/aa0441bd-b5bb-4354-a683-fbd1cce3a963/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20261022204000 +0000" stop="20261022214000 +0000">
+    <title lang="en">House of Lords - Puberty Blockers and Age Consent</title>
+    <desc lang="en">Coverage of the debate in the House of Lords on the appropriate age for the prescription of puberty blockers, on Thursday 22 October.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/04579736-b67b-4175-b8bf-1d36bc1344e9/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20261022214000 +0000" stop="20261023010000 +0000">
+    <title lang="en">House of Lords - Written Constitution Debate</title>
+    <desc lang="en">Coverage of the debate in the House of Lords on proposals for a written constitution, on Thursday 22 October.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7536a456-ffc7-40a7-973d-2bf8a20f1705/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20261023010000 +0000" stop="20261023014000 +0000">
     <title lang="en">Environment, Food and Rural Affairs Questions</title>
@@ -18854,8 +18867,8 @@
   </programme>
   <programme channel="BBCThreeHD.uk" start="20261022180000 +0000" stop="20261022180500 +0000">
     <title lang="en">The Catch Up</title>
-    <desc lang="en">A round-up of the day's news.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/4d609912-da48-4f2c-abda-aaab921b96de/cover"/>
+    <desc lang="en">A round-up of the day's news with Vanessa Igoe.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/cdb88887-b60f-4f9a-9b14-48882a2d4d93/cover"/>
   </programme>
   <programme channel="BBCThreeHD.uk" start="20261022180500 +0000" stop="20261022183000 +0000">
     <title lang="en">Horrible Histories</title>
@@ -19203,7 +19216,7 @@
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20261022111500 +0000" stop="20261022120000 +0000">
     <title lang="en">Politics Live</title>
-    <desc lang="en">The big political issues of the day.</desc>
+    <desc lang="en">Trainspotting author Irvine Welsh on the government's Palestine Action ban.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/16121093-a8dd-40b0-8aa6-3902088bcbe2/cover"/>
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20261022120000 +0000" stop="20261022124500 +0000">
@@ -19347,7 +19360,7 @@
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20261023113000 +0000" stop="20261023120000 +0000">
     <title lang="en">Political Thinking with Nick Robinson</title>
-    <desc lang="en">Nick Robinson in conversation with people who influence our political thinking.</desc>
+    <desc lang="en">Kanishka Narayan, minister for artificial intelligence, talks to Nick Robinson about his journey from a childhood in India to his new seat at Andy Burnham's cabinet table.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f1dd2725-b352-467b-942b-56166c643d07/cover"/>
     <episode-num system="xmltv_ns">2.17.0</episode-num>
     <episode-num system="onscreen">S3E18</episode-num>
@@ -19451,7 +19464,7 @@
     <icon src="https://images.metadata.sky.com/pd-image/231f33a8-90e7-35dd-844b-6ab7fa5a5f2e/cover"/>
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20261024000000 +0000" stop="20261024003000 +0000">
-    <title lang="en">The Big Housing Rip Off- Panorama</title>
+    <title lang="en">The Big Housing Rip Off - Panorama</title>
     <desc lang="en">Why are vulnerable people, including victims of domestic violence and those facing homelessness, not getting the supported housing they've been promised?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/69739e23-dc22-4e1e-84fe-e61a911836d9/cover"/>
   </programme>
@@ -19670,7 +19683,7 @@
   </programme>
   <programme channel="BBCTwoHD.uk" start="20261022111500 +0000" stop="20261022120000 +0000">
     <title lang="en">Politics Live</title>
-    <desc lang="en">The big political issues of the day.</desc>
+    <desc lang="en">Trainspotting author Irvine Welsh on the government's Palestine Action ban.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/16121093-a8dd-40b0-8aa6-3902088bcbe2/cover"/>
   </programme>
   <programme channel="BBCTwoHD.uk" start="20261022120000 +0000" stop="20261022124500 +0000">
@@ -19814,7 +19827,7 @@
   </programme>
   <programme channel="BBCTwoHD.uk" start="20261023113000 +0000" stop="20261023120000 +0000">
     <title lang="en">Political Thinking with Nick Robinson</title>
-    <desc lang="en">Nick Robinson in conversation with people who influence our political thinking.</desc>
+    <desc lang="en">Kanishka Narayan, minister for artificial intelligence, talks to Nick Robinson about his journey from a childhood in India to his new seat at Andy Burnham's cabinet table.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f1dd2725-b352-467b-942b-56166c643d07/cover"/>
     <episode-num system="xmltv_ns">2.17.0</episode-num>
     <episode-num system="onscreen">S3E18</episode-num>
@@ -19918,7 +19931,7 @@
     <icon src="https://images.metadata.sky.com/pd-image/231f33a8-90e7-35dd-844b-6ab7fa5a5f2e/cover"/>
   </programme>
   <programme channel="BBCTwoHD.uk" start="20261024000000 +0000" stop="20261024003000 +0000">
-    <title lang="en">The Big Housing Rip Off- Panorama</title>
+    <title lang="en">The Big Housing Rip Off - Panorama</title>
     <desc lang="en">Why are vulnerable people, including victims of domestic violence and those facing homelessness, not getting the supported housing they've been promised?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/69739e23-dc22-4e1e-84fe-e61a911836d9/cover"/>
   </programme>
@@ -20137,7 +20150,7 @@
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20261022111500 +0000" stop="20261022120000 +0000">
     <title lang="en">Politics Live</title>
-    <desc lang="en">The big political issues of the day.</desc>
+    <desc lang="en">Trainspotting author Irvine Welsh on the government's Palestine Action ban.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/16121093-a8dd-40b0-8aa6-3902088bcbe2/cover"/>
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20261022120000 +0000" stop="20261022124500 +0000">
@@ -20281,7 +20294,7 @@
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20261023113000 +0000" stop="20261023120000 +0000">
     <title lang="en">Political Thinking with Nick Robinson</title>
-    <desc lang="en">Nick Robinson in conversation with people who influence our political thinking.</desc>
+    <desc lang="en">Kanishka Narayan, minister for artificial intelligence, talks to Nick Robinson about his journey from a childhood in India to his new seat at Andy Burnham's cabinet table.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f1dd2725-b352-467b-942b-56166c643d07/cover"/>
     <episode-num system="xmltv_ns">2.17.0</episode-num>
     <episode-num system="onscreen">S3E18</episode-num>
@@ -20390,7 +20403,7 @@
     <icon src="https://images.metadata.sky.com/pd-image/231f33a8-90e7-35dd-844b-6ab7fa5a5f2e/cover"/>
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20261024000000 +0000" stop="20261024003000 +0000">
-    <title lang="en">The Big Housing Rip Off- Panorama</title>
+    <title lang="en">The Big Housing Rip Off - Panorama</title>
     <desc lang="en">Why are vulnerable people, including victims of domestic violence and those facing homelessness, not getting the supported housing they've been promised?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/69739e23-dc22-4e1e-84fe-e61a911836d9/cover"/>
   </programme>
@@ -20609,7 +20622,7 @@
   </programme>
   <programme channel="BBCTwoWales.uk" start="20261022111500 +0000" stop="20261022120000 +0000">
     <title lang="en">Politics Live</title>
-    <desc lang="en">The big political issues of the day.</desc>
+    <desc lang="en">Trainspotting author Irvine Welsh on the government's Palestine Action ban.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/16121093-a8dd-40b0-8aa6-3902088bcbe2/cover"/>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20261022120000 +0000" stop="20261022124500 +0000">
@@ -20751,7 +20764,7 @@
   </programme>
   <programme channel="BBCTwoWales.uk" start="20261023113000 +0000" stop="20261023120000 +0000">
     <title lang="en">Political Thinking with Nick Robinson</title>
-    <desc lang="en">Nick Robinson in conversation with people who influence our political thinking.</desc>
+    <desc lang="en">Kanishka Narayan, minister for artificial intelligence, talks to Nick Robinson about his journey from a childhood in India to his new seat at Andy Burnham's cabinet table.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f1dd2725-b352-467b-942b-56166c643d07/cover"/>
     <episode-num system="xmltv_ns">2.17.0</episode-num>
     <episode-num system="onscreen">S3E18</episode-num>
@@ -20855,7 +20868,7 @@
     <icon src="https://images.metadata.sky.com/pd-image/231f33a8-90e7-35dd-844b-6ab7fa5a5f2e/cover"/>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20261024000000 +0000" stop="20261024003000 +0000">
-    <title lang="en">The Big Housing Rip Off- Panorama</title>
+    <title lang="en">The Big Housing Rip Off - Panorama</title>
     <desc lang="en">Why are vulnerable people, including victims of domestic violence and those facing homelessness, not getting the supported housing they've been promised?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/69739e23-dc22-4e1e-84fe-e61a911836d9/cover"/>
   </programme>
@@ -21758,10 +21771,15 @@
     <desc lang="en">Bloomberg Balance of Power focuses on politics and policies on Capitol Hill, in President Trump's administration, the federal agencies and the courts.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f5e3b879-9247-4823-b6af-046a6621b9aa/cover"/>
   </programme>
-  <programme channel="BloombergTVEurope.uk" start="20261022220000 +0000" stop="20261022230000 +0000">
+  <programme channel="BloombergTVEurope.uk" start="20261022220000 +0000" stop="20261022223000 +0000">
     <title lang="en">Businessweek Convenes: A Frank...</title>
     <desc lang="en">...Conversation on AI &amp; Hollywood. From Bloomberg Screentime, Hollywood leaders examine how AI is reshaping the business of entertainment, from creative work and jobs to economics and ownership.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9a87d429-f1b4-45a0-b4ee-b3ef84325fbe/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/5417b8ac-e7b1-49c5-ab53-16b063e022c1/cover"/>
+  </programme>
+  <programme channel="BloombergTVEurope.uk" start="20261022223000 +0000" stop="20261022230000 +0000">
+    <title lang="en">Bloomberg Primer</title>
+    <desc lang="en">Chinese companies dominate the EV battery supply chain and are expanding rapidly outside their home market. Meanwhile, competitors are looking to new chemistries to leapfrog the leading tech. S2, Ep1</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/c76ea851-690d-4f62-aeca-5e9491e19dd9/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20261022230000 +0000" stop="20261023003000 +0000">
     <title lang="en">Bloomberg The Asia Trade</title>
@@ -21856,29 +21874,29 @@
     <icon src="https://images.metadata.sky.com/pd-image/d48a00c4-eabb-4723-868b-fe98b9bd5053/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20261023230000 +0000" stop="20261023233000 +0000">
-    <title lang="en">Bloomberg New Economy: Thriving in an Age of Extremes</title>
-    <desc lang="en">Candid conversations with CEOs, investors, and government leaders focused on how to navigate and prosper in this age of economic uncertainty. Hosted by Erik Schatzker.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/844679f6-71c8-4cbd-8b99-9936a2509037/cover"/>
+    <title lang="en">Bloomberg Next Africa</title>
+    <desc lang="en">A monthly deep dive into Africa's biggest stories through a Bloomberg lens, discussing key steps taken to help deliver on Africa's quest of bridging the gap with global powers.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/e66437e8-2424-4622-bbca-006601941992/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20261023233000 +0000" stop="20261024000000 +0000">
     <title lang="en">The Mishal Husain Show</title>
     <desc lang="en">Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/819e688d-1bf8-49e0-ac46-02c94a8e0ca5/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/8bbb23ec-b16c-4d0f-8c1a-7610d072ea27/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20261024000000 +0000" stop="20261024003000 +0000">
-    <title lang="en">Leaders with Francine Lacqua: The Podcast</title>
-    <desc lang="en">Francine Lacqua speaks to chief executives and other industry leaders about what drives them and how they navigate and shape their companies amid significant change.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/40399b00-88ec-4b8d-bbeb-70f822d291b8/cover"/>
+    <title lang="en">The Deal with Alex Rodriguez and Jason Kelly</title>
+    <desc lang="en">Intimate conversations with business titans and sports champions who reveal their investment philosophies, missed opportunities and more.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/457e9411-30e7-4578-b617-aa1ae0a12e8b/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20261024003000 +0000" stop="20261024010000 +0000">
-    <title lang="en">The Circuit</title>
-    <desc lang="en">A fast-paced, dynamic series that lives at the intersection of culture, tech, entertainment, and business. Hosted by high-profile journalist Emily Chang.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/31e8567f-ec99-479d-8c25-58d1aad229ec/cover"/>
+    <title lang="en">The Deal with Alex Rodriguez and Jason Kelly</title>
+    <desc lang="en">Showcasing intimate conversations with business titans and sports champions that reveal their investment philosophies, missed opportunities and more. S4, Ep7</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d9f2970e-9e06-45fc-8dcd-1a2d6c8db9b3/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20261024010000 +0000" stop="20261024013000 +0000">
     <title lang="en">The David Rubenstein Show</title>
-    <desc lang="en">Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/2c769e38-4c73-4942-99b4-24549efef010/cover"/>
+    <desc lang="en">David Booth, Dimensional Fund Advisors Founder &amp; Chairman. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business. S12, Ep2</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f11f8fcb-6625-486c-a48f-973a4667a1b6/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20261024013000 +0000" stop="20261024020000 +0000">
     <title lang="en">Bloomberg Originals</title>
@@ -21891,39 +21909,39 @@
     <icon src="https://images.metadata.sky.com/pd-image/0a7ca708-0f25-4c3f-bbf4-ef5ce7d1d150/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20261024030000 +0000" stop="20261024033000 +0000">
-    <title lang="en">The Circuit</title>
-    <desc lang="en">A fast-paced, dynamic series that lives at the intersection of culture, tech, entertainment, and business. Hosted by high-profile journalist Emily Chang.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/ee59dc50-d170-4bd4-85c4-b773adabcd5f/cover"/>
+    <title lang="en">How Larry Ellison Built His Empire</title>
+    <desc lang="en">Expanding from database software into AI and media, Larry Ellison is placing his biggest bets yet. Bloomberg Originals explores what drives the 82-year-old tech billionaire.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/54b96746-8178-4eda-974a-e4fe79f36da5/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20261024033000 +0000" stop="20261024040000 +0000">
-    <title lang="en">Posthuman</title>
-    <desc lang="en">Technology that once seemed like science fiction is rapidly becoming reality, transforming our existence. Emily Chang unravels the future of being human in an age of unprecedented innovation.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d3027b43-b2a5-4069-9add-39013bc8b96a/cover"/>
+    <title lang="en">Bloomberg Primer</title>
+    <desc lang="en">Chinese companies dominate the EV battery supply chain and are expanding rapidly outside their home market. Meanwhile, competitors are looking to new chemistries to leapfrog the leading tech. S2, Ep1</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/460dfa59-a9ce-4d73-91cd-2bd757d10ed6/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20261024040000 +0000" stop="20261024050000 +0000">
-    <title lang="en">The Deal with Alex Rodriguez and Jason Kelly</title>
-    <desc lang="en">Intimate conversations with business titans and sports champions who reveal their investment philosophies, missed opportunities and more.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/025628cb-f599-4c1c-bf2c-11fb0dca4e3e/cover"/>
+    <title lang="en">Post Credits</title>
+    <desc lang="en">Award-winning creator Issa Rae breaks down why studio films have started to bore her, what Hollywood misunderstands about creators, and why she's betting on short-form storytelling. S1, Ep7</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/784bee86-eef2-48cb-9169-6ae2a6adab9a/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20261024050000 +0000" stop="20261024053000 +0000">
-    <title lang="en">Posthuman</title>
-    <desc lang="en">Technology that once seemed like science fiction is rapidly becoming reality, transforming our existence. Emily Chang unravels the future of being human in an age of unprecedented innovation.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/268e01d6-cd43-457f-a5e4-9c874e059a57/cover"/>
+    <title lang="en">The Deal with Alex Rodriguez and Jason Kelly</title>
+    <desc lang="en">Intimate conversations with business titans and sports champions who reveal their investment philosophies, missed opportunities and more.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/fa0c0037-7b3a-4bc3-a81b-eb607eeb5421/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20261024053000 +0000" stop="20261024060000 +0000">
-    <title lang="en">The Circuit</title>
-    <desc lang="en">A fast-paced, dynamic series that lives at the intersection of culture, tech, entertainment, and business. Hosted by high-profile journalist Emily Chang.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e3514438-55f1-410f-9284-4d1d638b0227/cover"/>
+    <title lang="en">Bloomberg Chief Future Officer</title>
+    <desc lang="en">A profile of Valterra Platinum CFO Sayurie Naidoo, who leads the world's largest company producing platinum group metals. S6, Ep3</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3ddd11b4-92c5-4d89-9d96-a84830c410c2/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20261024060000 +0000" stop="20261024063000 +0000">
     <title lang="en">The Mishal Husain Show</title>
-    <desc lang="en">Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/bc4b31f0-7f05-454e-abb7-a7d9fefdbffd/cover"/>
+    <desc lang="en">Mishal Husain brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons. Today, Michael Palin. S1, Ep53</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/06da5f52-f5e4-4298-8451-0eae9a9b331d/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20261024063000 +0000" stop="20261024070000 +0000">
     <title lang="en">The Mishal Husain Show</title>
     <desc lang="en">Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9500dfbe-d2b9-4e61-9cdd-7ac3902c9a63/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/2f4258f3-f603-4190-8e5b-47a14c28b0bf/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20261024070000 +0000" stop="20261024080000 +0000">
     <title lang="en">Bloomberg Wall Street Week</title>
@@ -21931,24 +21949,24 @@
     <icon src="https://images.metadata.sky.com/pd-image/669333c6-b128-4cda-aac7-259ceb1c82d1/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20261024080000 +0000" stop="20261024083000 +0000">
-    <title lang="en">Bloomberg Originals</title>
-    <desc lang="en">Exploring every angle of climate change, technology, finance, sports and beyond, Bloomberg Originals is business as you've never seen it.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/fc8f468d-441d-4e31-913c-ffd65cbdd800/cover"/>
+    <title lang="en">Extraordinary Life Stories</title>
+    <desc lang="en">Extraordinary Life Stories is the programme in which host John Reynolds talks to some of the UK's and the world's most extraordinary individuals.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7325c8fd-00fa-4c6d-ba10-96488cb5460b/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20261024083000 +0000" stop="20261024090000 +0000">
-    <title lang="en">Posthuman</title>
-    <desc lang="en">Technology that once seemed like science fiction is rapidly becoming reality, transforming our existence. Emily Chang unravels the future of being human in an age of unprecedented innovation.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/15efdc8d-9485-4e5d-8298-7252012299f0/cover"/>
+    <title lang="en">Business Matters</title>
+    <desc lang="en">Business Matters is the programme in which we discuss key business matters with some of the UK's leading entrepreneurs and executives.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/9344cd09-c6cd-4ad3-a0c2-9b34816ac125/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20261024090000 +0000" stop="20261024093000 +0000">
-    <title lang="en">Bloomberg New Economy: Thriving in an Age of Extremes</title>
-    <desc lang="en">Candid conversations with CEOs, investors, and government leaders focused on how to navigate and prosper in this age of economic uncertainty. Hosted by Erik Schatzker.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f3928019-1301-4c59-a71b-c94fb07d46a4/cover"/>
+    <title lang="en">The Deal with Alex Rodriguez and Jason Kelly</title>
+    <desc lang="en">Intimate conversations with business titans and sports champions who reveal their investment philosophies, missed opportunities and more.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/2e5263d5-c639-425f-82fa-6e7ad286bfcf/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20261024093000 +0000" stop="20261024100000 +0000">
     <title lang="en">The Mishal Husain Show</title>
     <desc lang="en">Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/ec1e2a4a-1d5c-4c62-a600-9d375f9554b7/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/e6d5c66c-c60c-47a1-9851-01fef09e16e4/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20261024100000 +0000" stop="20261024110000 +0000">
     <title lang="en">Bloomberg Wall Street Week</title>
@@ -21968,72 +21986,77 @@
   <programme channel="BloombergTVEurope.uk" start="20261024150000 +0000" stop="20261024153000 +0000">
     <title lang="en">The Mishal Husain Show</title>
     <desc lang="en">Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/7c0d2283-7889-405f-8b0b-cbba554e5539/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/5310548a-1738-4ecd-b10b-49b8a8af31d2/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20261024153000 +0000" stop="20261024160000 +0000">
     <title lang="en">The David Rubenstein Show</title>
-    <desc lang="en">Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f129eda5-0c83-41f6-9f79-3365196a7c0d/cover"/>
+    <desc lang="en">David Booth, Dimensional Fund Advisors Founder &amp; Chairman. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business. S12, Ep2</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/992236d3-799c-48cc-ba81-e50b930b5de3/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20261024160000 +0000" stop="20261024163000 +0000">
-    <title lang="en">Best of Bloomberg Invest 2026</title>
-    <desc lang="en">A recap of Bloomberg Invest New York, featuring interviews with leaders in asset management, banking, private capital and wealth. Hosted by Dani Burger.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/face8f09-d57b-42fd-98ac-d7d39398c2e9/cover"/>
+    <title lang="en">Bloomberg Next Africa</title>
+    <desc lang="en">A monthly deep dive into Africa's biggest stories through a Bloomberg lens, discussing key steps taken to help deliver on Africa's quest of bridging the gap with global powers.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/4a2fb8f8-94ad-4048-a43a-ed8284603e82/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20261024163000 +0000" stop="20261024170000 +0000">
-    <title lang="en">Bloomberg Originals</title>
-    <desc lang="en">Exploring every angle of climate change, technology, finance, sports and beyond, Bloomberg Originals is business as you've never seen it.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9424ca53-2e2d-4f7c-8382-7f6dfd1c758e/cover"/>
+    <title lang="en">Quantum Marketing</title>
+    <desc lang="en">Raja Rajamannar sits down with Qualcomm Chief Marketing Officer Don McGuire to discuss transforming invisible infrastructure into a consumer brand as AI moves into everyday devices. S2, Ep5</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d0cda00e-c348-4816-8961-f20ec47f89db/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20261024170000 +0000" stop="20261024173000 +0000">
-    <title lang="en">Leaders with Francine Lacqua: The Podcast</title>
-    <desc lang="en">Francine Lacqua speaks to chief executives and other industry leaders about what drives them and how they navigate and shape their companies amid significant change.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/40399b00-88ec-4b8d-bbeb-70f822d291b8/cover"/>
+    <title lang="en">The Deal with Alex Rodriguez and Jason Kelly</title>
+    <desc lang="en">Intimate conversations with business titans and sports champions who reveal their investment philosophies, missed opportunities and more.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/41c8be07-97f4-4e5b-bab2-15e9972bd7d8/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20261024173000 +0000" stop="20261024180000 +0000">
     <title lang="en">The David Rubenstein Show</title>
-    <desc lang="en">Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/7a1a3edf-5875-478f-8a90-e2aeaf783781/cover"/>
+    <desc lang="en">David Booth, Dimensional Fund Advisors Founder &amp; Chairman. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business. S12, Ep2</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/12b953ab-730f-42b6-8b21-2a812364f2de/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20261024180000 +0000" stop="20261024183000 +0000">
-    <title lang="en">Bloomberg Investigates</title>
-    <desc lang="en">Bloomberg Investigates takes viewers on an immersive journey to the heart of our most powerful reporting. Each investigation is recounted by award-winning journalists.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/478e0d6a-8b26-4228-bbc2-2a447aa1a5b5/cover"/>
+    <title lang="en">Bloomberg Primer</title>
+    <desc lang="en">Chinese companies dominate the EV battery supply chain and are expanding rapidly outside their home market. Meanwhile, competitors are looking to new chemistries to leapfrog the leading tech. S2, Ep1</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/0b258184-8f4b-4d85-bd30-4c9a33963eee/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20261024183000 +0000" stop="20261024190000 +0000">
-    <title lang="en">Bloomberg Primer</title>
-    <desc lang="en">This six-part, planet-spanning series offers a comprehensive look at the 'impossible' industries vying to shape our future.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/90a80764-0e26-4d45-8c7d-eb5e81c60f26/cover"/>
+    <title lang="en">How Larry Ellison Built His Empire</title>
+    <desc lang="en">Expanding from database software into AI and media, Larry Ellison is placing his biggest bets yet. Bloomberg Originals explores what drives the 82-year-old tech billionaire.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/9efec24e-15b6-439c-af37-2cb5f9f5cbd2/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20261024190000 +0000" stop="20261024200000 +0000">
-    <title lang="en">Bloomberg Primer</title>
-    <desc lang="en">This six-part, planet-spanning series offers a comprehensive look at the 'impossible' industries vying to shape our future.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/955c62a2-472c-4cd0-91e6-16c690c6451c/cover"/>
+    <title lang="en">Bloomberg Investigates</title>
+    <desc lang="en">A year following a group of lawyers as they sue the Department of Homeland Security and scramble to help free those arrested under Donald Trump's immigration policies. S6, Ep4</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6be99ed9-268c-47e4-b97d-51047030789d/cover"/>
   </programme>
-  <programme channel="BloombergTVEurope.uk" start="20261024200000 +0000" stop="20261024210000 +0000">
-    <title lang="en">The Deal with Alex Rodriguez and Jason Kelly</title>
-    <desc lang="en">Intimate conversations with business titans and sports champions who reveal their investment philosophies, missed opportunities and more.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/695975e5-bc75-4b36-b1cc-c265ef03e9ba/cover"/>
+  <programme channel="BloombergTVEurope.uk" start="20261024200000 +0000" stop="20261024203000 +0000">
+    <title lang="en">Businessweek Convenes: A Frank...</title>
+    <desc lang="en">...Conversation on AI &amp; Hollywood. From Bloomberg Screentime, Hollywood leaders examine how AI is reshaping the business of entertainment, from creative work and jobs to economics and ownership.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/2aa4e5ed-b06a-470a-a412-dc142bf0e56a/cover"/>
+  </programme>
+  <programme channel="BloombergTVEurope.uk" start="20261024203000 +0000" stop="20261024210000 +0000">
+    <title lang="en">Bloomberg Primer</title>
+    <desc lang="en">Chinese companies dominate the EV battery supply chain and are expanding rapidly outside their home market. Meanwhile, competitors are looking to new chemistries to leapfrog the leading tech. S2, Ep1</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f59e1bbf-4b77-4f17-8b98-d1ae48461b4b/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20261024210000 +0000" stop="20261024213000 +0000">
-    <title lang="en">Leaders with Francine Lacqua: The Podcast</title>
-    <desc lang="en">Francine Lacqua speaks to chief executives and other industry leaders about what drives them and how they navigate and shape their companies amid significant change.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/40399b00-88ec-4b8d-bbeb-70f822d291b8/cover"/>
+    <title lang="en">The Deal with Alex Rodriguez and Jason Kelly</title>
+    <desc lang="en">Intimate conversations with business titans and sports champions who reveal their investment philosophies, missed opportunities and more.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f3092cd6-8bc6-4650-bb33-25d72784842d/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20261024213000 +0000" stop="20261024220000 +0000">
-    <title lang="en">The Circuit</title>
-    <desc lang="en">A fast-paced, dynamic series that lives at the intersection of culture, tech, entertainment, and business. Hosted by high-profile journalist Emily Chang.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/49d42e44-c46b-4e12-acbe-a56f2ee9189e/cover"/>
+    <title lang="en">Bloomberg Primer</title>
+    <desc lang="en">Humanoid robots that use AI are going mainstream, but they're far from proven. With billions of dollars invested, can they deliver real-world value or will they fall short of the hype? S2, Ep2</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/db145bcd-4cec-4e73-b7e2-20e4f88e46c7/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20261024220000 +0000" stop="20261024223000 +0000">
     <title lang="en">The Mishal Husain Show</title>
-    <desc lang="en">Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a4bfaa26-d8b7-48ed-bf47-70a1ee1903f4/cover"/>
+    <desc lang="en">Mishal Husain brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons. Today, Michael Palin. S1, Ep53</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/9dcfdcea-fd71-449d-a21b-859f6052640a/cover"/>
   </programme>
   <programme channel="BloombergTVEurope.uk" start="20261024223000 +0000" stop="20261024230000 +0000">
     <title lang="en">The Mishal Husain Show</title>
     <desc lang="en">Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f5f182b0-438a-480e-a836-cb3bd155e8f6/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/393f7d7b-40ab-435f-b0b7-b55539cb19aa/cover"/>
   </programme>
   <programme channel="CBBC.uk" start="20261021175800 +0000" stop="20261021235800 +0000">
     <title lang="en">.programmes start at 7.00am</title>
@@ -26561,12 +26584,10 @@
     <icon src="https://images.metadata.sky.com/pd-image/d39dc017-5e5c-4e5c-89a9-b177ec0cfcaa/cover"/>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20261023223500 +0000" stop="20261024000500 +0000">
-    <title lang="en">New: Piers Morgan: Uncensored</title>
-    <desc lang="en">The bold, opinion-led news and debate show hosted by Piers Morgan. Piers blends journalism, debates and cultural commentary that's unapologetically direct.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/2253cf75-2d8b-43bf-a37f-45c7941f9572/cover"/>
+    <title lang="en">New: Piers Morgan: Uncensored:...</title>
+    <desc lang="en">...Americans Know Best? Piers talks to opinionated Americans who have plenty to say about the rest of the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d91505f4-e0d3-4c5d-8d4f-34853de59e15/cover"/>
     <premiere/>
-    <episode-num system="xmltv_ns">1.37.0</episode-num>
-    <episode-num system="onscreen">S2E38</episode-num>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20261024000500 +0000" stop="20261024010000 +0000">
     <title lang="en">Traffic Cops: Elite Squad One</title>
@@ -26594,15 +26615,15 @@
     <episode-num system="xmltv_ns">1.6.0</episode-num>
     <episode-num system="onscreen">S2E7</episode-num>
   </programme>
-  <programme channel="Channel5Plus1.uk" start="20261024041500 +0000" stop="20261024052500 +0000">
+  <programme channel="Channel5Plus1.uk" start="20261024041500 +0000" stop="20261024052800 +0000">
     <title lang="en">The King of Spain</title>
     <desc lang="en">Through interviews with historians, royal insiders and journalists, this documentary explores the extraordinary rise and fall of the king who won a nation's admiration before losing his crown.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/66ccfdac-988e-4ceb-a334-3eb11fcec066/cover"/>
   </programme>
-  <programme channel="Channel5Plus1.uk" start="20261024052500 +0000" stop="20261024053500 +0000">
-    <title lang="en">Entertainment News on 5</title>
-    <desc lang="en">A daily round-up of showbiz news and gossip from around the world, focusing on celebrities, movies, music and entertainment.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/04823c17-2fad-469a-ba19-aa43836171d2/cover"/>
+  <programme channel="Channel5Plus1.uk" start="20261024052800 +0000" stop="20261024053500 +0000">
+    <title lang="en">This is Channel 5 +1</title>
+    <desc lang="en">This is Channel 5 +1</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/201ee7eb-b7ad-4895-a751-76a0448b4bd7/cover"/>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20261024053500 +0000" stop="20261024054000 +0000">
     <title lang="en">**Visually Signed** Tim Rex in Space</title>
@@ -27511,7 +27532,7 @@
   </programme>
   <programme channel="UAndDave.uk" start="20261022120000 +0000" stop="20261022130000 +0000">
     <title lang="en">Canal Boat Diaries</title>
-    <desc lang="en">New. Reading to Windsor: Robbie visits a former Beatle's home in Henley, uncovers horror history in Marlow and struggles to find a mooring in Maidenhead on the River Thames.</desc>
+    <desc lang="en">Reading to Windsor: Robbie visits a former Beatle's home in Henley, uncovers horror history in Marlow and struggles to find a mooring in Maidenhead on the River Thames.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2d2bf1e3-17d5-4bc3-9c47-24bf2003afb8/cover"/>
     <episode-num system="xmltv_ns">5.3.0</episode-num>
     <episode-num system="onscreen">S6E4</episode-num>
@@ -27708,7 +27729,7 @@
   </programme>
   <programme channel="UAndDave.uk" start="20261023120000 +0000" stop="20261023130000 +0000">
     <title lang="en">Canal Boat Diaries</title>
-    <desc lang="en">New. Windsor to Godalming: While exploring the Wey and Godalming Navigations, Robbie gets caught in a storm and falls off his narrowboat. He also uncovers rock history in Guildford.</desc>
+    <desc lang="en">Windsor to Godalming: While exploring the Wey and Godalming Navigations, Robbie gets caught in a storm and falls off his narrowboat. He also uncovers rock history in Guildford.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/02df08fc-0244-4898-bb8c-b44b7b1d06a4/cover"/>
     <episode-num system="xmltv_ns">5.4.0</episode-num>
     <episode-num system="onscreen">S6E5</episode-num>
@@ -28137,7 +28158,7 @@
   </programme>
   <programme channel="UAndDavejavu.uk" start="20261022130000 +0000" stop="20261022140000 +0000">
     <title lang="en">Canal Boat Diaries</title>
-    <desc lang="en">New. Reading to Windsor: Robbie visits a former Beatle's home in Henley, uncovers horror history in Marlow and struggles to find a mooring in Maidenhead on the River Thames.</desc>
+    <desc lang="en">Reading to Windsor: Robbie visits a former Beatle's home in Henley, uncovers horror history in Marlow and struggles to find a mooring in Maidenhead on the River Thames.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2d2bf1e3-17d5-4bc3-9c47-24bf2003afb8/cover"/>
     <episode-num system="xmltv_ns">5.3.0</episode-num>
     <episode-num system="onscreen">S6E4</episode-num>
@@ -28334,7 +28355,7 @@
   </programme>
   <programme channel="UAndDavejavu.uk" start="20261023130000 +0000" stop="20261023140000 +0000">
     <title lang="en">Canal Boat Diaries</title>
-    <desc lang="en">New. Windsor to Godalming: While exploring the Wey and Godalming Navigations, Robbie gets caught in a storm and falls off his narrowboat. He also uncovers rock history in Guildford.</desc>
+    <desc lang="en">Windsor to Godalming: While exploring the Wey and Godalming Navigations, Robbie gets caught in a storm and falls off his narrowboat. He also uncovers rock history in Guildford.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/02df08fc-0244-4898-bb8c-b44b7b1d06a4/cover"/>
     <episode-num system="xmltv_ns">5.4.0</episode-num>
     <episode-num system="onscreen">S6E5</episode-num>
