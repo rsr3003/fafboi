@@ -792,7 +792,7 @@
   </programme>
   <programme channel="sky.premier.uk" start="20261107203000 +0000" stop="20261107223000 +0000">
     <title lang="en">Game of The Day</title>
-    <desc lang="en">Enjoy a full 90-minute rerun of one of the Saturday afternoon fixtures in the Premier League.</desc>
+    <desc lang="en">Enjoy a full 90-minute rerun of one of the Saturday afternoon games in the 2026-27 Premier League. Here, Arsenal host Hull City at the Emirates Stadium.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/135170ea-df96-44ba-b819-fb8d01dbe9d4/cover"/>
   </programme>
   <programme channel="sky.premier.uk" start="20261107223000 +0000" stop="20261107230000 +0000">
@@ -3108,11 +3108,6 @@
     <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/23a16048-7fc2-4593-87d3-471ac19d1b4c/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20261106190000 +0000" stop="20261107011500 +0000">
-    <title lang="en">Stateside Live</title>
-    <desc lang="en">Live US racing from Laurel Park, Churchill Downs, Woodbine, Gulfstream, Belmont, Horseshoe Indianapolis, Del Mar, Penn National, Charles Town and Remington Park</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/ecf44e50-0003-4590-89fc-2f90e25af524/cover"/>
-  </programme>
   <programme channel="sky.racing.uk" start="20261107011500 +0000" stop="20261107013000 +0000">
     <title lang="en">Eddie Greatrex: Comeback Kid</title>
     <desc lang="en">Forced to retire at 23 battling pain every day, jockey Eddy Greatrex has made a remarkable return to the saddle in the form of his life as he fights to reignite his career.</desc>
@@ -4148,12 +4143,12 @@
     <episode-num system="xmltv_ns">25.2.0</episode-num>
     <episode-num system="onscreen">S26E3</episode-num>
   </programme>
-  <programme channel="tnt1" start="20261107170000 +0000" stop="20261107193000 +0000">
+  <programme channel="tnt1" start="20261107170000 +0000" stop="20261107200000 +0000">
     <title lang="en">Live FA Cup: Altrincham v Notts C</title>
     <desc lang="en">National League club Altrincham host 1894 FA Cup winners Notts County in this first-round clash at Moss Lane. Alty have recorded 17 wins over league clubs in their history.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f0e3c6e1-8d70-487c-94f6-ac4db72f7aec/cover"/>
   </programme>
-  <programme channel="tnt1" start="20261107193000 +0000" stop="20261107223000 +0000">
+  <programme channel="tnt1" start="20261107200000 +0000" stop="20261107223000 +0000">
     <title lang="en">Live FA Cup Peterborough v Reading</title>
     <desc lang="en">FA Cup action as Peterborough United host League One rivals Reading. Posh manager Robbie Savage could face his son Charlie for the first time in a competitive fixture.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9630eba7-ff29-4712-ad6c-8f87e0f50cd4/cover"/>
@@ -10427,11 +10422,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/5373e3c2-448c-426b-b3e5-94010015b26e/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20261107163000 +0000" stop="20261107170000 +0000">
-    <title lang="en">Political Thinking with Nick Robinson</title>
-    <desc lang="en">Shadow justice secretary Nick Timothy on what it's like in Trump's Oval Office, and why he has angered opponents with his comments about Islamism in the UK.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/8fe47f54-e6bf-4f12-8703-bbcc3b8dd0a1/cover"/>
-    <episode-num system="xmltv_ns">2.19.0</episode-num>
-    <episode-num system="onscreen">S3E20</episode-num>
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/18fb1710-dcdf-4f16-b0d0-f38bea0f7fa1/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20261107170000 +0000" stop="20261107180000 +0000">
     <title lang="en">BBC News</title>
@@ -10464,9 +10457,9 @@
     <icon src="https://images.metadata.sky.com/pd-image/f001390e-dd8c-4faa-83f0-d5086bee42b2/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20261107203000 +0000" stop="20261107210000 +0000">
-    <title lang="en">Newscast</title>
-    <desc lang="en">Lighthearted discussion of the day's news.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/26146dac-2188-49fd-ac38-bb4590e22193/cover"/>
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/50dede03-4da3-4bdd-90e9-5d785fee29c9/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20261107210000 +0000" stop="20261107220000 +0000">
     <title lang="en">BBC News</title>
@@ -18185,7 +18178,7 @@
   <programme channel="BBCParliament.uk" start="20261107014500 +0000" stop="20261107023500 +0000">
     <title lang="en">Senedd Cymru - Working with the Third Sector Statement</title>
     <desc lang="en">Statement on the Welsh government's partnerships with charities and the voluntary sector.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c1a99c91-b29f-40a6-8e6b-2c035d1008b7/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/2712daf0-2cf2-4f58-aa56-725ab1314bdc/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20261107023500 +0000" stop="20261107031500 +0000">
     <title lang="en">Senedd Cymru - Welsh Parliament...</title>
@@ -18446,13 +18439,6 @@
     <title lang="en">House of Lords</title>
     <desc lang="en">Coverage of the day's proceedings in the House of Lords including the third day of debate on the committee stage of the Health Bill, on Monday 9 November.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f6b769bf-30d5-4720-89bd-28b76afd5459/cover"/>
-  </programme>
-  <programme channel="BBCRedButton1.uk" start="20261106180000 +0000" stop="20261107000000 +0000">
-    <title lang="en">Autumnwatch: Autumn Calm</title>
-    <desc lang="en">Enjoy the very best of the season in a natural escape that lets nature do the talking.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/73ebd0d5-6b9a-4410-a00d-f5eb2d622c70/cover"/>
-    <episode-num system="xmltv_ns">2021.1.0</episode-num>
-    <episode-num system="onscreen">S2022E2</episode-num>
   </programme>
   <programme channel="BBCRedButton1.uk" start="20261107000000 +0000" stop="20261107060000 +0000">
     <title lang="en">Autumnwatch: Autumn Calm</title>
@@ -19372,6 +19358,8 @@
     <title lang="en">Newsround</title>
     <desc lang="en">07/11/2026. Topical news magazine for children.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/aaf968e0-21fd-4479-8a38-f3e5a466f030/cover"/>
+    <episode-num system="xmltv_ns">2025.62.0</episode-num>
+    <episode-num system="onscreen">S2026E63</episode-num>
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20261107085500 +0000" stop="20261107092000 +0000">
     <title lang="en">Blue Peter: Diwali Celebrations...</title>
@@ -19423,17 +19411,10 @@
     <episode-num system="xmltv_ns">3.1.0</episode-num>
     <episode-num system="onscreen">S4E2</episode-num>
   </programme>
-  <programme channel="BBCTwoEngland.uk" start="20261107171500 +0000" stop="20261107194500 +0000">
+  <programme channel="BBCTwoEngland.uk" start="20261107171500 +0000" stop="20261107201500 +0000">
     <title lang="en">MOTD Live: Altrincham v Notts County</title>
     <desc lang="en">Action from the first round of the FA Cup as Altrincham of the National League take on League One Notts County.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fd8ee11e-8afe-4b91-8454-705d764eb746/cover"/>
-  </programme>
-  <programme channel="BBCTwoEngland.uk" start="20261107194500 +0000" stop="20261107201500 +0000">
-    <title lang="en">Saving Lives at Sea</title>
-    <desc lang="en">4/10. In London, the RNLI rush to the rescue of a man in the water in the Thames, while in Fleetwood a desperate 999 call alerts the crew to a man in danger of being swept out to sea.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9be55470-00d0-4b12-bba4-3671c9ffafe4/cover"/>
-    <episode-num system="xmltv_ns">5.3.0</episode-num>
-    <episode-num system="onscreen">S6E4</episode-num>
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20261107201500 +0000" stop="20261107222000 +0000">
     <title lang="en">40 TV Theme Tunes at the BBC</title>
@@ -19839,6 +19820,8 @@
     <title lang="en">Newsround</title>
     <desc lang="en">07/11/2026. Topical news magazine for children.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/aaf968e0-21fd-4479-8a38-f3e5a466f030/cover"/>
+    <episode-num system="xmltv_ns">2025.62.0</episode-num>
+    <episode-num system="onscreen">S2026E63</episode-num>
   </programme>
   <programme channel="BBCTwoHD.uk" start="20261107085500 +0000" stop="20261107092000 +0000">
     <title lang="en">Blue Peter: Diwali Celebrations...</title>
@@ -19890,17 +19873,10 @@
     <episode-num system="xmltv_ns">3.1.0</episode-num>
     <episode-num system="onscreen">S4E2</episode-num>
   </programme>
-  <programme channel="BBCTwoHD.uk" start="20261107171500 +0000" stop="20261107194500 +0000">
+  <programme channel="BBCTwoHD.uk" start="20261107171500 +0000" stop="20261107201500 +0000">
     <title lang="en">MOTD Live: Altrincham v Notts County</title>
     <desc lang="en">Action from the first round of the FA Cup as Altrincham of the National League take on League One Notts County.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fd8ee11e-8afe-4b91-8454-705d764eb746/cover"/>
-  </programme>
-  <programme channel="BBCTwoHD.uk" start="20261107194500 +0000" stop="20261107201500 +0000">
-    <title lang="en">Saving Lives at Sea</title>
-    <desc lang="en">4/10. In London, the RNLI rush to the rescue of a man in the water in the Thames, while in Fleetwood a desperate 999 call alerts the crew to a man in danger of being swept out to sea.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9be55470-00d0-4b12-bba4-3671c9ffafe4/cover"/>
-    <episode-num system="xmltv_ns">5.3.0</episode-num>
-    <episode-num system="onscreen">S6E4</episode-num>
   </programme>
   <programme channel="BBCTwoHD.uk" start="20261107201500 +0000" stop="20261107222000 +0000">
     <title lang="en">40 TV Theme Tunes at the BBC</title>
@@ -20306,6 +20282,8 @@
     <title lang="en">Newsround</title>
     <desc lang="en">07/11/2026. Topical news magazine for children.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/aaf968e0-21fd-4479-8a38-f3e5a466f030/cover"/>
+    <episode-num system="xmltv_ns">2025.62.0</episode-num>
+    <episode-num system="onscreen">S2026E63</episode-num>
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20261107085500 +0000" stop="20261107092000 +0000">
     <title lang="en">Blue Peter: Diwali Celebrations...</title>
@@ -20357,17 +20335,10 @@
     <episode-num system="xmltv_ns">3.1.0</episode-num>
     <episode-num system="onscreen">S4E2</episode-num>
   </programme>
-  <programme channel="BBCTwoNorthernIreland.uk" start="20261107171500 +0000" stop="20261107194500 +0000">
+  <programme channel="BBCTwoNorthernIreland.uk" start="20261107171500 +0000" stop="20261107201500 +0000">
     <title lang="en">MOTD Live: Altrincham v Notts County</title>
     <desc lang="en">Action from the first round of the FA Cup as Altrincham of the National League take on League One Notts County.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fd8ee11e-8afe-4b91-8454-705d764eb746/cover"/>
-  </programme>
-  <programme channel="BBCTwoNorthernIreland.uk" start="20261107194500 +0000" stop="20261107201500 +0000">
-    <title lang="en">Saving Lives at Sea</title>
-    <desc lang="en">4/10. In London, the RNLI rush to the rescue of a man in the water in the Thames, while in Fleetwood a desperate 999 call alerts the crew to a man in danger of being swept out to sea.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9be55470-00d0-4b12-bba4-3671c9ffafe4/cover"/>
-    <episode-num system="xmltv_ns">5.3.0</episode-num>
-    <episode-num system="onscreen">S6E4</episode-num>
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20261107201500 +0000" stop="20261107222000 +0000">
     <title lang="en">40 TV Theme Tunes at the BBC</title>
@@ -20773,6 +20744,8 @@
     <title lang="en">Newsround</title>
     <desc lang="en">07/11/2026. Topical news magazine for children.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/aaf968e0-21fd-4479-8a38-f3e5a466f030/cover"/>
+    <episode-num system="xmltv_ns">2025.62.0</episode-num>
+    <episode-num system="onscreen">S2026E63</episode-num>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20261107085500 +0000" stop="20261107092000 +0000">
     <title lang="en">Blue Peter: Diwali Celebrations...</title>
@@ -20824,17 +20797,10 @@
     <episode-num system="xmltv_ns">3.1.0</episode-num>
     <episode-num system="onscreen">S4E2</episode-num>
   </programme>
-  <programme channel="BBCTwoWales.uk" start="20261107171500 +0000" stop="20261107194500 +0000">
+  <programme channel="BBCTwoWales.uk" start="20261107171500 +0000" stop="20261107201500 +0000">
     <title lang="en">MOTD Live: Altrincham v Notts County</title>
     <desc lang="en">Action from the first round of the FA Cup as Altrincham of the National League take on League One Notts County.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fd8ee11e-8afe-4b91-8454-705d764eb746/cover"/>
-  </programme>
-  <programme channel="BBCTwoWales.uk" start="20261107194500 +0000" stop="20261107201500 +0000">
-    <title lang="en">Saving Lives at Sea</title>
-    <desc lang="en">4/10. In London, the RNLI rush to the rescue of a man in the water in the Thames, while in Fleetwood a desperate 999 call alerts the crew to a man in danger of being swept out to sea.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9be55470-00d0-4b12-bba4-3671c9ffafe4/cover"/>
-    <episode-num system="xmltv_ns">5.3.0</episode-num>
-    <episode-num system="onscreen">S6E4</episode-num>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20261107201500 +0000" stop="20261107222000 +0000">
     <title lang="en">40 TV Theme Tunes at the BBC</title>
@@ -22330,9 +22296,6 @@
     <desc lang="en">Live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping markets.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d271d910-1aa0-4af5-8085-6d91540aa451/cover"/>
   </programme>
-  <programme channel="CBBC.uk" start="20261106185800 +0000" stop="20261107005800 +0000">
-    <title lang="en">.programmes start at 7.00am</title>
-  </programme>
   <programme channel="CBBC.uk" start="20261107005800 +0000" stop="20261107052959 +0000">
     <title lang="en">.programmes start at 7.00am</title>
   </programme>
@@ -22371,7 +22334,9 @@
   <programme channel="CBBC.uk" start="20261107074500 +0000" stop="20261107075000 +0000">
     <title lang="en">Newsround</title>
     <desc lang="en">07/11/2026. Topical news magazine for children.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a51a6e36-9701-463f-b444-f7b7ff22ae9e/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/aaf968e0-21fd-4479-8a38-f3e5a466f030/cover"/>
+    <episode-num system="xmltv_ns">2025.62.0</episode-num>
+    <episode-num system="onscreen">S2026E63</episode-num>
   </programme>
   <programme channel="CBBC.uk" start="20261107075000 +0000" stop="20261107080500 +0000">
     <title lang="en">SpongeBob SquarePants</title>
@@ -23211,9 +23176,6 @@
   </programme>
   <programme channel="CBBC.uk" start="20261109185800 +0000" stop="20261110005800 +0000">
     <title lang="en">.programmes start at 7.00am</title>
-  </programme>
-  <programme channel="CBeebies.uk" start="20261106185800 +0000" stop="20261107005800 +0000">
-    <title lang="en">..programmes start at 6.00am</title>
   </programme>
   <programme channel="CBeebies.uk" start="20261107005800 +0000" stop="20261107052959 +0000">
     <title lang="en">..programmes start at 6.00am</title>
