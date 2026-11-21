@@ -780,7 +780,7 @@
   </programme>
   <programme channel="sky.premier.uk" start="20261121203000 +0000" stop="20261121223000 +0000">
     <title lang="en">Game of The Day</title>
-    <desc lang="en">Enjoy a full 90-minute rerun of one of the Saturday afternoon fixtures in the Premier League.</desc>
+    <desc lang="en">Enjoy a full 90-minute rerun of one of the Saturday afternoon games in the 2026-27 Premier League. Here, Chelsea host Leeds at Stamford Bridge.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/77559bbb-c052-4314-9a56-56b11f6ec7fb/cover"/>
   </programme>
   <programme channel="sky.premier.uk" start="20261121223000 +0000" stop="20261121230000 +0000">
@@ -3424,10 +3424,15 @@
     <episode-num system="xmltv_ns">0.26.0</episode-num>
     <episode-num system="onscreen">S1E27</episode-num>
   </programme>
-  <programme channel="sky.mix.uk" start="20261121180000 +0000" stop="20261121210000 +0000">
+  <programme channel="sky.mix.uk" start="20261121180000 +0000" stop="20261121200000 +0000">
     <title lang="en">Live PGA Tour Golf</title>
     <desc lang="en">Day three of the RSM Classic, held at Sea Island Golf Club on St Simons Island. Sami Valimaki became Finland's first PGA Tour winner with victory a year ago.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6196db39-e725-4f52-a67c-0b64cf761704/cover"/>
+  </programme>
+  <programme channel="sky.mix.uk" start="20261121200000 +0000" stop="20261121210000 +0000">
+    <title lang="en">LET Golf Highlights</title>
+    <desc lang="en">Tournament highlights from the VP Bank Swiss Ladies Open, an LET event staged at Migros Golfpark Holzhausern. England's Alice Hewson claimed last season's victory at this event.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/82a9e1d7-0927-45e7-b993-26e4979fd5cd/cover"/>
   </programme>
   <programme channel="sky.mix.uk" start="20261121210000 +0000" stop="20261121220000 +0000">
     <title lang="en">Ferrari Challenge</title>
@@ -4418,22 +4423,22 @@
   <programme channel="tnt1" start="20261123103000 +0000" stop="20261123113000 +0000">
     <title lang="en">Serie A: Atalanta v Inter</title>
     <desc lang="en">Cristian Chivu's Inter Milan look to maintain pressure at the summit of Serie A as they travel to Bergamo to face mid-table Atalanta at the Gewiss Stadium.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f5116d38-f8e4-45a7-b880-f8c25c6948dd/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/660003ea-519d-4980-803f-f0c6265ef316/cover"/>
   </programme>
   <programme channel="tnt1" start="20261123113000 +0000" stop="20261123120000 +0000">
     <title lang="en">ILT20 Highlights</title>
     <desc lang="en">Highlights from the opening contest of the DP World ILT20 as defending champions Desert Vipers go head-to-head with MI Emirates at Dubai International Cricket Stadium.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/8a06bbe6-a8fc-4a51-9c22-4f32b5ecbfa5/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/80e5c9c6-3e73-49ac-9dfc-a240e1d39600/cover"/>
   </programme>
   <programme channel="tnt1" start="20261123120000 +0000" stop="20261123123000 +0000">
     <title lang="en">ILT20 Highlights</title>
     <desc lang="en">Highlights from the DP World ILT20 as Sharjah Warriorz take on Gulf Giants at the Sharjah Cricket Stadium.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/fbe72f04-6a1a-4181-9e8d-6310a0fe0300/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/efccd6d1-294a-40f2-b20f-3b3faddcddb0/cover"/>
   </programme>
   <programme channel="tnt1" start="20261123123000 +0000" stop="20261123130000 +0000">
     <title lang="en">ILT20 Highlights</title>
     <desc lang="en">Highlights from the DP World ILT20 as Dubai Capitals and Abu Dhabi Knight Riders face off at Dubai International Cricket Stadium.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/10e03166-a2e3-4f5d-b94b-8c9d0d488692/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/efccd6d1-294a-40f2-b20f-3b3faddcddb0/cover"/>
   </programme>
   <programme channel="tnt1" start="20261123130000 +0000" stop="20261123140000 +0000">
     <title lang="en">1st Test: New Zealand v India</title>
@@ -4453,7 +4458,9 @@
   <programme channel="tnt1" start="20261123191500 +0000" stop="20261123201500 +0000">
     <title lang="en">UEL &amp; UECL Magazine</title>
     <desc lang="en">Sunderland star Enzo Le Fee discusses all things magic with Josh Luland. Plus, we hear from Monaco boss Filipe Luis, Salzburg forward Karim Konate and Ajax's Marc Ter-Stegen.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/2f5f45f1-d77e-4837-b920-b8159726f763/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/5a04bb21-2270-4ef1-a39f-bf3ad50d5944/cover"/>
+    <episode-num system="xmltv_ns">25.4.0</episode-num>
+    <episode-num system="onscreen">S26E5</episode-num>
   </programme>
   <programme channel="tnt1" start="20261123201500 +0000" stop="20261123210000 +0000">
     <title lang="en">Sign Up - Into Football</title>
@@ -4470,17 +4477,23 @@
   <programme channel="tnt1" start="20261123220000 +0000" stop="20261123223000 +0000">
     <title lang="en">A-League Highlights</title>
     <desc lang="en">Highlights from round five of the A-League, including Auckland FC v Melbourne Victory, Wellington v Macarthur and Brisbane v Sydney FC.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b8cd7681-4ddf-4c81-b8f5-6fa57965141a/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/264d5c8a-af7b-4eb8-b32e-9ad724a08042/cover"/>
+    <episode-num system="xmltv_ns">2025.4.0</episode-num>
+    <episode-num system="onscreen">S2026E5</episode-num>
   </programme>
   <programme channel="tnt1" start="20261123223000 +0000" stop="20261123230000 +0000">
     <title lang="en">Ninja A-League Women Highlights</title>
     <desc lang="en">Highlights from round six of Ninja A-League Women, including Western Sydney v Wellington, Newcastle Jets v Adelaide United, and Melbourne Victory v Perth Glory.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c62370e4-249c-40c4-818b-4926dd81aa21/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/2f7e5c01-0f87-4722-b86c-995da56b9f70/cover"/>
+    <episode-num system="xmltv_ns">2025.5.0</episode-num>
+    <episode-num system="onscreen">S2026E6</episode-num>
   </programme>
   <programme channel="tnt1" start="20261123230000 +0000" stop="20261124000000 +0000">
     <title lang="en">NWSL Final: Washington v Kansas</title>
     <desc lang="en">Action from the 2026 NWSL Championship final between Adrian Gonzalez's Washington Spirit and Chris Armas' Kansas City Current at Audi Field.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/25aa7334-d9e2-487f-b30b-33bca1221a3e/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/1c60bb63-1341-4d64-b161-2fdcb4bd02f2/cover"/>
+    <episode-num system="xmltv_ns">2025.122.0</episode-num>
+    <episode-num system="onscreen">S2026E123</episode-num>
   </programme>
   <programme channel="tnt2" start="20261120214500 +0000" stop="20261121060000 +0000">
     <title lang="en">Live 1st Test: New Zealand v India</title>
@@ -4647,7 +4660,7 @@
   </programme>
   <programme channel="tnt2" start="20261122121500 +0000" stop="20261122150000 +0000">
     <title lang="en">Live MotoGP: Portugal Race</title>
-    <desc lang="en">Race action from the 2026 MotoGP Grand Prix of Portugal at Autodromo Internacional do Algarve. Who will triumph in the penultimate GP of the season?</desc>
+    <desc lang="en">Race action from the 2026 MotoGP Grand Prix of Portugal at Autodromo Internacional do Algarve. After missing out in the Sprint, can Marc Marquez claim the title?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ea867124-983a-4be2-8bbc-0bc2116e3df1/cover"/>
   </programme>
   <programme channel="tnt2" start="20261122150000 +0000" stop="20261122170000 +0000">
@@ -4716,7 +4729,7 @@
   </programme>
   <programme channel="tnt2" start="20261123030000 +0000" stop="20261123040000 +0000">
     <title lang="en">MotoGP: Portugal Race</title>
-    <desc lang="en">Race action from the 2026 MotoGP Grand Prix of Portugal at Autodromo Internacional do Algarve. Who will triumph in the penultimate GP of the season?</desc>
+    <desc lang="en">Race action from the 2026 MotoGP Grand Prix of Portugal at Autodromo Internacional do Algarve. After missing out in the Sprint, can Marc Marquez claim the title?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c1db0e19-d85d-460b-9292-9149de321d88/cover"/>
   </programme>
   <programme channel="tnt2" start="20261123040000 +0000" stop="20261123050000 +0000">
@@ -4746,7 +4759,7 @@
   </programme>
   <programme channel="tnt2" start="20261123083000 +0000" stop="20261123093000 +0000">
     <title lang="en">MotoGP: Portugal Race</title>
-    <desc lang="en">Race action from the 2026 MotoGP Grand Prix of Portugal at Autodromo Internacional do Algarve. Who will triumph in the penultimate GP of the season?</desc>
+    <desc lang="en">Race action from the 2026 MotoGP Grand Prix of Portugal at Autodromo Internacional do Algarve. After missing out in the Sprint, can Marc Marquez claim the title?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c1db0e19-d85d-460b-9292-9149de321d88/cover"/>
   </programme>
   <programme channel="tnt2" start="20261123093000 +0000" stop="20261123100000 +0000">
@@ -4846,7 +4859,7 @@
   </programme>
   <programme channel="tnt2" start="20261123170000 +0000" stop="20261123180000 +0000">
     <title lang="en">MotoGP: Portugal Race</title>
-    <desc lang="en">Race action from the 2026 MotoGP Grand Prix of Portugal at Autodromo Internacional do Algarve. Who will triumph in the penultimate GP of the season?</desc>
+    <desc lang="en">Race action from the 2026 MotoGP Grand Prix of Portugal at Autodromo Internacional do Algarve. After missing out in the Sprint, can Marc Marquez claim the title?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c1db0e19-d85d-460b-9292-9149de321d88/cover"/>
   </programme>
   <programme channel="tnt2" start="20261123180000 +0000" stop="20261123213000 +0000">
@@ -4953,19 +4966,12 @@
     <episode-num system="xmltv_ns">25.45.0</episode-num>
     <episode-num system="onscreen">S26E46</episode-num>
   </programme>
-  <programme channel="tnt3" start="20261121140000 +0000" stop="20261121184500 +0000">
+  <programme channel="tnt3" start="20261121140000 +0000" stop="20261121191500 +0000">
     <title lang="en">Live ILT20: Vipers v MI Emirates</title>
     <desc lang="en">Action from the opening game of the DP World ILT20 as defending champions Desert Vipers face MI Emirates at the Dubai International Cricket Stadium.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/767fe902-63ea-4822-be5f-387fbd0702c7/cover"/>
   </programme>
-  <programme channel="tnt3" start="20261121184500 +0000" stop="20261121190000 +0000">
-    <title lang="en">TNT Sports Cricket Reload</title>
-    <desc lang="en">We rewind to the fifth ODI between New Zealand and India at the Bay Oval, where Arshdeep Singh and Axar Patel helped the visitors wrap up a series win.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/fd7c7397-2b34-4a60-b768-dd2aef1e5fcf/cover"/>
-    <episode-num system="xmltv_ns">24.219.0</episode-num>
-    <episode-num system="onscreen">S25E220</episode-num>
-  </programme>
-  <programme channel="tnt3" start="20261121190000 +0000" stop="20261121193000 +0000">
+  <programme channel="tnt3" start="20261121191500 +0000" stop="20261121193000 +0000">
     <title lang="en">The Rugby Breakdown: Best Of</title>
     <desc lang="en">A look back at the best of The Rugby Breakdown, featuring exclusive behind-the-scenes access to Gallagher PREM sides and their players.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/52f42855-0b3d-4d8a-81a1-cbeb5d933ff5/cover"/>
@@ -5113,7 +5119,7 @@
   </programme>
   <programme channel="tnt3" start="20261122190000 +0000" stop="20261122200000 +0000">
     <title lang="en">MotoGP: Portugal Race</title>
-    <desc lang="en">Race action from the 2026 MotoGP Grand Prix of Portugal at Autodromo Internacional do Algarve. Who will triumph in the penultimate GP of the season?</desc>
+    <desc lang="en">Race action from the 2026 MotoGP Grand Prix of Portugal at Autodromo Internacional do Algarve. After missing out in the Sprint, can Marc Marquez claim the title?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c1db0e19-d85d-460b-9292-9149de321d88/cover"/>
   </programme>
   <programme channel="tnt3" start="20261122200000 +0000" stop="20261122210000 +0000">
@@ -5339,7 +5345,7 @@
   </programme>
   <programme channel="tnt3" start="20261123230000 +0000" stop="20261124000000 +0000">
     <title lang="en">MotoGP: Portugal Race</title>
-    <desc lang="en">Race action from the 2026 MotoGP Grand Prix of Portugal at Autodromo Internacional do Algarve. Who will triumph in the penultimate GP of the season?</desc>
+    <desc lang="en">Race action from the 2026 MotoGP Grand Prix of Portugal at Autodromo Internacional do Algarve. After missing out in the Sprint, can Marc Marquez claim the title?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c1db0e19-d85d-460b-9292-9149de321d88/cover"/>
   </programme>
   <programme channel="tnt4" start="20261120223000 +0000" stop="20261120230000 +0000">
@@ -5449,69 +5455,64 @@
     <episode-num system="xmltv_ns">1.57.0</episode-num>
     <episode-num system="onscreen">S2E58</episode-num>
   </programme>
-  <programme channel="tnt4" start="20261121153000 +0000" stop="20261121174500 +0000">
+  <programme channel="tnt4" start="20261121153000 +0000" stop="20261121181500 +0000">
     <title lang="en">Live: Ski Jumping World Cup</title>
     <desc lang="en">Day one of the men's HS140, part of the FIS Ski Jumping World Cup in Lillehammer.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7683d32e-cdec-4e27-8447-7af5ad7f6204/cover"/>
   </programme>
-  <programme channel="tnt4" start="20261121174500 +0000" stop="20261121181500 +0000">
+  <programme channel="tnt4" start="20261121181500 +0000" stop="20261121184500 +0000">
     <title lang="en">Alpine Skiing World Cup</title>
     <desc lang="en">The world's leading alpine skiers descend on Gurgl, Austria, for the latest stop on the 2026/27 women's FIS Alpine Skiing World Cup.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/387b3018-90cd-455f-ad54-38a21fbdbcf4/cover"/>
   </programme>
-  <programme channel="tnt4" start="20261121181500 +0000" stop="20261121184500 +0000">
+  <programme channel="tnt4" start="20261121184500 +0000" stop="20261121191500 +0000">
     <title lang="en">Alpine Skiing World Cup</title>
     <desc lang="en">Run two of the 2026/27 women's FIS Alpine Skiing World Cup in Gurgl, Austria.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a25da946-8659-4e53-98c3-67d9afa0eecd/cover"/>
   </programme>
-  <programme channel="tnt4" start="20261121184500 +0000" stop="20261121190000 +0000">
+  <programme channel="tnt4" start="20261121191500 +0000" stop="20261121193000 +0000">
     <title lang="en">TNT Sports Reload</title>
     <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4137385a-ecec-4e36-88be-8c04aeb2717f/cover"/>
     <episode-num system="xmltv_ns">25.45.0</episode-num>
     <episode-num system="onscreen">S26E46</episode-num>
   </programme>
-  <programme channel="tnt4" start="20261121190000 +0000" stop="20261121200000 +0000">
+  <programme channel="tnt4" start="20261121193000 +0000" stop="20261121203000 +0000">
     <title lang="en">Australia v England - 1st T20</title>
     <desc lang="en">England return to the MCG, where they claimed their only win of the 2025/26 Ashes series, to face Australia in the first of five T20s.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9598f92c-6d1b-4fa2-b23e-3eea54e77618/cover"/>
   </programme>
-  <programme channel="tnt4" start="20261121200000 +0000" stop="20261121210000 +0000">
+  <programme channel="tnt4" start="20261121203000 +0000" stop="20261121213000 +0000">
     <title lang="en">1st Test: New Zealand v India</title>
     <desc lang="en">Day three from the Basin Reserve, where India resume on 159 for one, 209 behind New Zealand's 368. Can the visitors build on a strong start, or will the Black Caps strike back?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2e90bf3a-c43f-44b8-ba12-8d4586f292e8/cover"/>
   </programme>
-  <programme channel="tnt4" start="20261121210000 +0000" stop="20261121213000 +0000">
+  <programme channel="tnt4" start="20261121213000 +0000" stop="20261121220000 +0000">
     <title lang="en">Ski Jumping World Cup</title>
     <desc lang="en">Day one of the women's HS140, part of the FIS Ski Jumping World Cup in Lillehammer.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8611f95c-ebc5-4f4e-b2f4-deac7dfefeb9/cover"/>
   </programme>
-  <programme channel="tnt4" start="20261121213000 +0000" stop="20261121220000 +0000">
+  <programme channel="tnt4" start="20261121220000 +0000" stop="20261121223000 +0000">
     <title lang="en">Ski Jumping World Cup</title>
     <desc lang="en">Day one of the men's HS140, part of the FIS Ski Jumping World Cup in Lillehammer.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/aa00f349-d2a6-4ef7-8a75-49af1bde75fa/cover"/>
   </programme>
-  <programme channel="tnt4" start="20261121220000 +0000" stop="20261121223000 +0000">
+  <programme channel="tnt4" start="20261121223000 +0000" stop="20261121230000 +0000">
     <title lang="en">Alpine Skiing World Cup</title>
     <desc lang="en">The world's leading alpine skiers descend on Gurgl, Austria, for the latest stop on the 2026/27 women's FIS Alpine Skiing World Cup.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/387b3018-90cd-455f-ad54-38a21fbdbcf4/cover"/>
   </programme>
-  <programme channel="tnt4" start="20261121223000 +0000" stop="20261121230000 +0000">
+  <programme channel="tnt4" start="20261121230000 +0000" stop="20261121233000 +0000">
     <title lang="en">Alpine Skiing World Cup</title>
     <desc lang="en">Run two of the 2026/27 women's FIS Alpine Skiing World Cup in Gurgl, Austria.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/a25da946-8659-4e53-98c3-67d9afa0eecd/cover"/>
   </programme>
-  <programme channel="tnt4" start="20261121230000 +0000" stop="20261121233000 +0000">
+  <programme channel="tnt4" start="20261121233000 +0000" stop="20261122000000 +0000">
     <title lang="en">UEFA Champions League Magazine</title>
     <desc lang="en">Gjivai Zechiel, Luciano Valente and Giovanni van Bronckhorst talk all things Feyenoord. Plus, we hear from Porto coach Francesco Farioli and Roma defender Mario Hermoso.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/334dbed0-0762-4658-a944-82274a2f0190/cover"/>
     <episode-num system="xmltv_ns">25.11.0</episode-num>
     <episode-num system="onscreen">S26E12</episode-num>
-  </programme>
-  <programme channel="tnt4" start="20261121233000 +0000" stop="20261122000000 +0000">
-    <title lang="en">T100 Triathlon World Tour Hlts</title>
-    <desc lang="en">Highlights from the men's race at the Dubai T100 Triathlon, featuring a scenic coastal course at Al Mamzar.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/bfb117f5-cf06-460f-9ff9-0e61d481c5fc/cover"/>
   </programme>
   <programme channel="tnt4" start="20261122000000 +0000" stop="20261122010000 +0000">
     <title lang="en">Supercars Championship Highlights</title>
@@ -10755,7 +10756,7 @@
   </programme>
   <programme channel="BBCNews.uk" start="20261121203000 +0000" stop="20261121210000 +0000">
     <title lang="en">Newscast</title>
-    <desc lang="en">Lighthearted discussion of the day's news.</desc>
+    <desc lang="en">Are voters ready to discuss the EU again and will tuition fees scupper this new deal?</desc>
     <icon src="https://images.metadata.sky.com/pd-image/5fff833d-8894-42c6-b769-d81346f51bd9/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20261121210000 +0000" stop="20261121220000 +0000">
@@ -18581,7 +18582,7 @@
   <programme channel="BBCParliament.uk" start="20261121180000 +0000" stop="20261121195500 +0000">
     <title lang="en">Justice Committee on the Rights of Victims of Crime</title>
     <desc lang="en">Coverage of the Justice select committee session examining whether the law is being used to silence victims and survivors, on Tuesday 17 November.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c314eb30-5bb5-4ead-8851-c3e9052676cd/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/7a32c964-dbdd-4d21-8677-6386b4301290/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20261121195500 +0000" stop="20261121213500 +0000">
     <title lang="en">Culture Committee on Channel 4</title>
@@ -19594,6 +19595,8 @@
     <title lang="en">Newsround</title>
     <desc lang="en">21/11/2026. Topical news magazine for children.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3c2de8e4-ef1a-4746-b16f-609a45d547a3/cover"/>
+    <episode-num system="xmltv_ns">2025.1.0</episode-num>
+    <episode-num system="onscreen">S2026E2</episode-num>
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20261121083500 +0000" stop="20261121090000 +0000">
     <title lang="en">Blue Peter: Meet Our New Presenter!</title>
@@ -20080,6 +20083,8 @@
     <title lang="en">Newsround</title>
     <desc lang="en">21/11/2026. Topical news magazine for children.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3c2de8e4-ef1a-4746-b16f-609a45d547a3/cover"/>
+    <episode-num system="xmltv_ns">2025.1.0</episode-num>
+    <episode-num system="onscreen">S2026E2</episode-num>
   </programme>
   <programme channel="BBCTwoHD.uk" start="20261121083500 +0000" stop="20261121090000 +0000">
     <title lang="en">Blue Peter: Meet Our New Presenter!</title>
@@ -21073,6 +21078,8 @@
     <title lang="en">Newsround</title>
     <desc lang="en">21/11/2026. Topical news magazine for children.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3c2de8e4-ef1a-4746-b16f-609a45d547a3/cover"/>
+    <episode-num system="xmltv_ns">2025.1.0</episode-num>
+    <episode-num system="onscreen">S2026E2</episode-num>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20261121083500 +0000" stop="20261121090000 +0000">
     <title lang="en">Blue Peter: Meet Our New Presenter!</title>
@@ -22662,9 +22669,6 @@
     <desc lang="en">Live from Tokyo and Sydney with Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping markets.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/842a74dc-ce51-41f7-9545-8f496cb8b26b/cover"/>
   </programme>
-  <programme channel="CBBC.uk" start="20261120185800 +0000" stop="20261121005800 +0000">
-    <title lang="en">.programmes start at 7.00am</title>
-  </programme>
   <programme channel="CBBC.uk" start="20261121005800 +0000" stop="20261121052959 +0000">
     <title lang="en">.programmes start at 7.00am</title>
   </programme>
@@ -23545,9 +23549,6 @@
   </programme>
   <programme channel="CBBC.uk" start="20261123185800 +0000" stop="20261124005800 +0000">
     <title lang="en">.programmes start at 7.00am</title>
-  </programme>
-  <programme channel="CBeebies.uk" start="20261120185800 +0000" stop="20261121005800 +0000">
-    <title lang="en">..programmes start at 6.00am</title>
   </programme>
   <programme channel="CBeebies.uk" start="20261121005800 +0000" stop="20261121052959 +0000">
     <title lang="en">..programmes start at 6.00am</title>
