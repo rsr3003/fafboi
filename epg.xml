@@ -407,11 +407,6 @@
     <display-name lang="en">U&amp;Yesterday+1</display-name>
     <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/U%26YESTERDAYPlus1.png"></icon>
   </channel>
-  <programme channel="sky.main.uk" start="20261121200000 +0000" stop="20261121230000 +0000">
-    <title lang="en">Live Grand Slam Of Darts Q/Final</title>
-    <desc lang="en">The quarter-finals of the 2026 Grand Slam of Darts at the WV Active Aldersley in Wolverhampton continue as MVG meets Tom Sykes before Gian van Veen takes on Nathan Aspinall.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c67cf2d6-a11c-4bd8-ac31-d60cd750fe3d/cover"/>
-  </programme>
   <programme channel="sky.main.uk" start="20261121230000 +0000" stop="20261122000000 +0000">
     <title lang="en">Sky Sports News</title>
     <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
@@ -499,7 +494,7 @@
   </programme>
   <programme channel="sky.main.uk" start="20261122193000 +0000" stop="20261122214500 +0000">
     <title lang="en">Live Grand Slam Of Darts Final</title>
-    <desc lang="en">The final of the 2026 Grand Slam of Darts at the WV Active Aldersley in Wolverhampton.</desc>
+    <desc lang="en">In the final of the 2026 Grand Slam of Darts at the WV Active Aldersley in Wolverhampton, Dutch number one Gian van Veen goes up against former champion Gerwyn Price.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b99bfb85-255a-4692-ae64-f014307f09b6/cover"/>
   </programme>
   <programme channel="sky.main.uk" start="20261122214500 +0000" stop="20261123003000 +0000">
@@ -3245,11 +3240,6 @@
     <title lang="en">Sky Sports News</title>
     <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/301b5957-a5de-457c-be04-68d8dbd7aa34/cover"/>
-  </programme>
-  <programme channel="sky.racing.uk" start="20261121190000 +0000" stop="20261122004500 +0000">
-    <title lang="en">Stateside Live</title>
-    <desc lang="en">Live US racing from Belmont, Fair Grounds, Churchill Downs, Laurel Park, Gulfstream, Tampa, Del Mar, Charles Town, Remington and Woodbine.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e3910877-fd55-4c42-83a0-0f4d776a534d/cover"/>
   </programme>
   <programme channel="sky.racing.uk" start="20261122004500 +0000" stop="20261122010000 +0000">
     <title lang="en">Wendigo: Going for Gold</title>
@@ -19655,13 +19645,6 @@
     <desc lang="en">Questions in the House of Lords to government ministers covering VAT on online marketplaces, the role of civic society organisations and on an autism strategy, on Tuesday 24 November.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2e8fe3c9-354e-49d4-9884-61e5fce3f25a/cover"/>
   </programme>
-  <programme channel="BBCRedButton1.uk" start="20261121201500 +0000" stop="20261122000000 +0000">
-    <title lang="en">Autumnwatch: Autumn Calm</title>
-    <desc lang="en">Enjoy the very best of the season in a natural escape that lets nature do the talking.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/73ebd0d5-6b9a-4410-a00d-f5eb2d622c70/cover"/>
-    <episode-num system="xmltv_ns">2021.1.0</episode-num>
-    <episode-num system="onscreen">S2022E2</episode-num>
-  </programme>
   <programme channel="BBCRedButton1.uk" start="20261122000000 +0000" stop="20261122060000 +0000">
     <title lang="en">Autumnwatch: Autumn Calm</title>
     <desc lang="en">Enjoy the very best of the season in a natural escape that lets nature do the talking.</desc>
@@ -23329,9 +23312,6 @@
     <desc lang="en">Live from Tokyo and Sydney with Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping markets.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/73dc5e24-5f2e-4cff-96a7-5dfcbab28a2d/cover"/>
   </programme>
-  <programme channel="CBBC.uk" start="20261121185800 +0000" stop="20261122005800 +0000">
-    <title lang="en">.programmes start at 7.00am</title>
-  </programme>
   <programme channel="CBBC.uk" start="20261122005800 +0000" stop="20261122052959 +0000">
     <title lang="en">.programmes start at 7.00am</title>
   </programme>
@@ -24276,9 +24256,6 @@
   </programme>
   <programme channel="CBBC.uk" start="20261124185800 +0000" stop="20261125005800 +0000">
     <title lang="en">.programmes start at 7.00am</title>
-  </programme>
-  <programme channel="CBeebies.uk" start="20261121185800 +0000" stop="20261122005800 +0000">
-    <title lang="en">..programmes start at 6.00am</title>
   </programme>
   <programme channel="CBeebies.uk" start="20261122005800 +0000" stop="20261122052959 +0000">
     <title lang="en">..programmes start at 6.00am</title>
@@ -35958,12 +35935,12 @@
     <episode-num system="xmltv_ns">6.0.0</episode-num>
     <episode-num system="onscreen">S7E1</episode-num>
   </programme>
-  <programme channel="ITV1CentralE.uk" start="20261122225500 +0000" stop="20261122231500 +0000">
+  <programme channel="ITV1CentralE.uk" start="20261122225500 +0000" stop="20261122232000 +0000">
     <title lang="en">ITV News</title>
     <desc lang="en">National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7e919e3a-fe13-4f88-8356-3fd5be0ee090/cover"/>
   </programme>
-  <programme channel="ITV1CentralE.uk" start="20261122231500 +0000" stop="20261123001500 +0000">
+  <programme channel="ITV1CentralE.uk" start="20261122232000 +0000" stop="20261123001500 +0000">
     <title lang="en">New: Outlier: Manager Idol:...</title>
     <desc lang="en">...Luton Town: The Football Revolution. When a chairman turns football into Pop Idol, Luton Town fans protest, sparking a revolution which takes the club back to the Premier League.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/900b1894-55dd-4e61-be49-b04e90ec5fda/cover"/>
@@ -36405,12 +36382,12 @@
     <episode-num system="xmltv_ns">6.0.0</episode-num>
     <episode-num system="onscreen">S7E1</episode-num>
   </programme>
-  <programme channel="ITV1CentralW.uk" start="20261122225500 +0000" stop="20261122231500 +0000">
+  <programme channel="ITV1CentralW.uk" start="20261122225500 +0000" stop="20261122232000 +0000">
     <title lang="en">ITV News</title>
     <desc lang="en">National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7e37934e-e69a-4710-b4c9-d1d67ff7525f/cover"/>
   </programme>
-  <programme channel="ITV1CentralW.uk" start="20261122231500 +0000" stop="20261123001500 +0000">
+  <programme channel="ITV1CentralW.uk" start="20261122232000 +0000" stop="20261123001500 +0000">
     <title lang="en">New: Outlier: Manager Idol:...</title>
     <desc lang="en">...Luton Town: The Football Revolution. When a chairman turns football into Pop Idol, Luton Town fans protest, sparking a revolution which takes the club back to the Premier League.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/900b1894-55dd-4e61-be49-b04e90ec5fda/cover"/>
@@ -36852,12 +36829,12 @@
     <episode-num system="xmltv_ns">6.0.0</episode-num>
     <episode-num system="onscreen">S7E1</episode-num>
   </programme>
-  <programme channel="ITV1London.uk" start="20261122225500 +0000" stop="20261122231500 +0000">
+  <programme channel="ITV1London.uk" start="20261122225500 +0000" stop="20261122232000 +0000">
     <title lang="en">ITV News</title>
     <desc lang="en">National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3afb13b0-2030-4602-aaf3-0a648d317b25/cover"/>
   </programme>
-  <programme channel="ITV1London.uk" start="20261122231500 +0000" stop="20261123001500 +0000">
+  <programme channel="ITV1London.uk" start="20261122232000 +0000" stop="20261123001500 +0000">
     <title lang="en">New: Outlier: Manager Idol:...</title>
     <desc lang="en">...Luton Town: The Football Revolution. When a chairman turns football into Pop Idol, Luton Town fans protest, sparking a revolution which takes the club back to the Premier League.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/900b1894-55dd-4e61-be49-b04e90ec5fda/cover"/>
@@ -37299,12 +37276,12 @@
     <episode-num system="xmltv_ns">6.0.0</episode-num>
     <episode-num system="onscreen">S7E1</episode-num>
   </programme>
-  <programme channel="ITV1MeridianE.uk" start="20261122225500 +0000" stop="20261122231500 +0000">
+  <programme channel="ITV1MeridianE.uk" start="20261122225500 +0000" stop="20261122232000 +0000">
     <title lang="en">ITV News</title>
     <desc lang="en">National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6236c56f-1a5c-4d2a-b980-839f25181616/cover"/>
   </programme>
-  <programme channel="ITV1MeridianE.uk" start="20261122231500 +0000" stop="20261123001500 +0000">
+  <programme channel="ITV1MeridianE.uk" start="20261122232000 +0000" stop="20261123001500 +0000">
     <title lang="en">New: Outlier: Manager Idol:...</title>
     <desc lang="en">...Luton Town: The Football Revolution. When a chairman turns football into Pop Idol, Luton Town fans protest, sparking a revolution which takes the club back to the Premier League.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/900b1894-55dd-4e61-be49-b04e90ec5fda/cover"/>
@@ -37746,12 +37723,12 @@
     <episode-num system="xmltv_ns">6.0.0</episode-num>
     <episode-num system="onscreen">S7E1</episode-num>
   </programme>
-  <programme channel="ITV1MeridianN.uk" start="20261122225500 +0000" stop="20261122231500 +0000">
+  <programme channel="ITV1MeridianN.uk" start="20261122225500 +0000" stop="20261122232000 +0000">
     <title lang="en">ITV News</title>
     <desc lang="en">National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6d34e83c-2db3-43c1-bff9-bdfee7a9aded/cover"/>
   </programme>
-  <programme channel="ITV1MeridianN.uk" start="20261122231500 +0000" stop="20261123001500 +0000">
+  <programme channel="ITV1MeridianN.uk" start="20261122232000 +0000" stop="20261123001500 +0000">
     <title lang="en">New: Outlier: Manager Idol:...</title>
     <desc lang="en">...Luton Town: The Football Revolution. When a chairman turns football into Pop Idol, Luton Town fans protest, sparking a revolution which takes the club back to the Premier League.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/900b1894-55dd-4e61-be49-b04e90ec5fda/cover"/>
@@ -38193,12 +38170,12 @@
     <episode-num system="xmltv_ns">6.0.0</episode-num>
     <episode-num system="onscreen">S7E1</episode-num>
   </programme>
-  <programme channel="ITV1MeridianS.uk" start="20261122225500 +0000" stop="20261122231500 +0000">
+  <programme channel="ITV1MeridianS.uk" start="20261122225500 +0000" stop="20261122232000 +0000">
     <title lang="en">ITV News</title>
     <desc lang="en">National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8a75bed2-f0ee-4f78-8a52-bcaba618641b/cover"/>
   </programme>
-  <programme channel="ITV1MeridianS.uk" start="20261122231500 +0000" stop="20261123001500 +0000">
+  <programme channel="ITV1MeridianS.uk" start="20261122232000 +0000" stop="20261123001500 +0000">
     <title lang="en">New: Outlier: Manager Idol:...</title>
     <desc lang="en">...Luton Town: The Football Revolution. When a chairman turns football into Pop Idol, Luton Town fans protest, sparking a revolution which takes the club back to the Premier League.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/900b1894-55dd-4e61-be49-b04e90ec5fda/cover"/>
@@ -38640,12 +38617,12 @@
     <episode-num system="xmltv_ns">6.0.0</episode-num>
     <episode-num system="onscreen">S7E1</episode-num>
   </programme>
-  <programme channel="ITV1North.uk" start="20261122225500 +0000" stop="20261122231500 +0000">
+  <programme channel="ITV1North.uk" start="20261122225500 +0000" stop="20261122232000 +0000">
     <title lang="en">ITV News</title>
     <desc lang="en">National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/93e232a4-80d3-435f-a7d6-f5c14eef9fc7/cover"/>
   </programme>
-  <programme channel="ITV1North.uk" start="20261122231500 +0000" stop="20261123001500 +0000">
+  <programme channel="ITV1North.uk" start="20261122232000 +0000" stop="20261123001500 +0000">
     <title lang="en">New: Outlier: Manager Idol:...</title>
     <desc lang="en">...Luton Town: The Football Revolution. When a chairman turns football into Pop Idol, Luton Town fans protest, sparking a revolution which takes the club back to the Premier League.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/900b1894-55dd-4e61-be49-b04e90ec5fda/cover"/>
@@ -39100,12 +39077,12 @@
     <episode-num system="xmltv_ns">6.0.0</episode-num>
     <episode-num system="onscreen">S7E1</episode-num>
   </programme>
-  <programme channel="ITV1Plus1Granada.uk" start="20261122235500 +0000" stop="20261123001500 +0000">
+  <programme channel="ITV1Plus1Granada.uk" start="20261122235500 +0000" stop="20261123002000 +0000">
     <title lang="en">ITV News</title>
     <desc lang="en">National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/847429b2-b81c-4fa3-9441-6c4f7777c54e/cover"/>
   </programme>
-  <programme channel="ITV1Plus1Granada.uk" start="20261123001500 +0000" stop="20261123011500 +0000">
+  <programme channel="ITV1Plus1Granada.uk" start="20261123002000 +0000" stop="20261123011500 +0000">
     <title lang="en">New: Outlier: Manager Idol:...</title>
     <desc lang="en">...Luton Town: The Football Revolution. When a chairman turns football into Pop Idol, Luton Town fans protest, sparking a revolution which takes the club back to the Premier League.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/900b1894-55dd-4e61-be49-b04e90ec5fda/cover"/>
@@ -39553,12 +39530,12 @@
     <episode-num system="xmltv_ns">6.0.0</episode-num>
     <episode-num system="onscreen">S7E1</episode-num>
   </programme>
-  <programme channel="ITV1Plus1London.uk" start="20261122235500 +0000" stop="20261123001500 +0000">
+  <programme channel="ITV1Plus1London.uk" start="20261122235500 +0000" stop="20261123002000 +0000">
     <title lang="en">ITV News</title>
     <desc lang="en">National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/452ae953-0308-4c21-b870-bbddbe920019/cover"/>
   </programme>
-  <programme channel="ITV1Plus1London.uk" start="20261123001500 +0000" stop="20261123011500 +0000">
+  <programme channel="ITV1Plus1London.uk" start="20261123002000 +0000" stop="20261123011500 +0000">
     <title lang="en">New: Outlier: Manager Idol:...</title>
     <desc lang="en">...Luton Town: The Football Revolution. When a chairman turns football into Pop Idol, Luton Town fans protest, sparking a revolution which takes the club back to the Premier League.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/900b1894-55dd-4e61-be49-b04e90ec5fda/cover"/>
@@ -40006,12 +39983,12 @@
     <episode-num system="xmltv_ns">6.0.0</episode-num>
     <episode-num system="onscreen">S7E1</episode-num>
   </programme>
-  <programme channel="ITV1Plus1Meridian.uk" start="20261122235500 +0000" stop="20261123001500 +0000">
+  <programme channel="ITV1Plus1Meridian.uk" start="20261122235500 +0000" stop="20261123002000 +0000">
     <title lang="en">ITV News</title>
     <desc lang="en">National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c9f39f74-1df7-4f1f-bc2f-36c0ed60c298/cover"/>
   </programme>
-  <programme channel="ITV1Plus1Meridian.uk" start="20261123001500 +0000" stop="20261123011500 +0000">
+  <programme channel="ITV1Plus1Meridian.uk" start="20261123002000 +0000" stop="20261123011500 +0000">
     <title lang="en">New: Outlier: Manager Idol:...</title>
     <desc lang="en">...Luton Town: The Football Revolution. When a chairman turns football into Pop Idol, Luton Town fans protest, sparking a revolution which takes the club back to the Premier League.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/900b1894-55dd-4e61-be49-b04e90ec5fda/cover"/>
@@ -40459,12 +40436,12 @@
     <episode-num system="xmltv_ns">6.0.0</episode-num>
     <episode-num system="onscreen">S7E1</episode-num>
   </programme>
-  <programme channel="ITV1Plus1Midlands.uk" start="20261122235500 +0000" stop="20261123001500 +0000">
+  <programme channel="ITV1Plus1Midlands.uk" start="20261122235500 +0000" stop="20261123002000 +0000">
     <title lang="en">ITV News</title>
     <desc lang="en">National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/fe8729e4-502b-4a3e-8c90-a1dd6941b937/cover"/>
   </programme>
-  <programme channel="ITV1Plus1Midlands.uk" start="20261123001500 +0000" stop="20261123011500 +0000">
+  <programme channel="ITV1Plus1Midlands.uk" start="20261123002000 +0000" stop="20261123011500 +0000">
     <title lang="en">New: Outlier: Manager Idol:...</title>
     <desc lang="en">...Luton Town: The Football Revolution. When a chairman turns football into Pop Idol, Luton Town fans protest, sparking a revolution which takes the club back to the Premier League.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/900b1894-55dd-4e61-be49-b04e90ec5fda/cover"/>
@@ -40899,12 +40876,12 @@
     <episode-num system="xmltv_ns">6.0.0</episode-num>
     <episode-num system="onscreen">S7E1</episode-num>
   </programme>
-  <programme channel="ITV1TyneTees.uk" start="20261122225500 +0000" stop="20261122231500 +0000">
+  <programme channel="ITV1TyneTees.uk" start="20261122225500 +0000" stop="20261122232000 +0000">
     <title lang="en">ITV News</title>
     <desc lang="en">National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/26dbbff4-5930-46d3-a2b2-b5367ca85759/cover"/>
   </programme>
-  <programme channel="ITV1TyneTees.uk" start="20261122231500 +0000" stop="20261123001500 +0000">
+  <programme channel="ITV1TyneTees.uk" start="20261122232000 +0000" stop="20261123001500 +0000">
     <title lang="en">New: Outlier: Manager Idol:...</title>
     <desc lang="en">...Luton Town: The Football Revolution. When a chairman turns football into Pop Idol, Luton Town fans protest, sparking a revolution which takes the club back to the Premier League.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/900b1894-55dd-4e61-be49-b04e90ec5fda/cover"/>
@@ -41346,12 +41323,12 @@
     <episode-num system="xmltv_ns">6.0.0</episode-num>
     <episode-num system="onscreen">S7E1</episode-num>
   </programme>
-  <programme channel="ITV1Wales.uk" start="20261122225500 +0000" stop="20261122231500 +0000">
+  <programme channel="ITV1Wales.uk" start="20261122225500 +0000" stop="20261122232000 +0000">
     <title lang="en">ITV News</title>
     <desc lang="en">National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/756d0efd-8d2a-4474-997f-a720e20b3b5f/cover"/>
   </programme>
-  <programme channel="ITV1Wales.uk" start="20261122231500 +0000" stop="20261123001500 +0000">
+  <programme channel="ITV1Wales.uk" start="20261122232000 +0000" stop="20261123001500 +0000">
     <title lang="en">New: Outlier: Manager Idol:...</title>
     <desc lang="en">...Luton Town: The Football Revolution. When a chairman turns football into Pop Idol, Luton Town fans protest, sparking a revolution which takes the club back to the Premier League.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/900b1894-55dd-4e61-be49-b04e90ec5fda/cover"/>
@@ -41792,12 +41769,12 @@
     <episode-num system="xmltv_ns">6.0.0</episode-num>
     <episode-num system="onscreen">S7E1</episode-num>
   </programme>
-  <programme channel="ITV1West.uk" start="20261122225500 +0000" stop="20261122231500 +0000">
+  <programme channel="ITV1West.uk" start="20261122225500 +0000" stop="20261122232000 +0000">
     <title lang="en">ITV News</title>
     <desc lang="en">National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/eb284889-2833-46ea-bd2a-a6742ab74122/cover"/>
   </programme>
-  <programme channel="ITV1West.uk" start="20261122231500 +0000" stop="20261123001500 +0000">
+  <programme channel="ITV1West.uk" start="20261122232000 +0000" stop="20261123001500 +0000">
     <title lang="en">New: Outlier: Manager Idol:...</title>
     <desc lang="en">...Luton Town: The Football Revolution. When a chairman turns football into Pop Idol, Luton Town fans protest, sparking a revolution which takes the club back to the Premier League.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/900b1894-55dd-4e61-be49-b04e90ec5fda/cover"/>
@@ -42239,12 +42216,12 @@
     <episode-num system="xmltv_ns">6.0.0</episode-num>
     <episode-num system="onscreen">S7E1</episode-num>
   </programme>
-  <programme channel="ITV1WestCountry.uk" start="20261122225500 +0000" stop="20261122231500 +0000">
+  <programme channel="ITV1WestCountry.uk" start="20261122225500 +0000" stop="20261122232000 +0000">
     <title lang="en">ITV News</title>
     <desc lang="en">National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b8713164-60a9-4597-8746-7b9d79893eb5/cover"/>
   </programme>
-  <programme channel="ITV1WestCountry.uk" start="20261122231500 +0000" stop="20261123001500 +0000">
+  <programme channel="ITV1WestCountry.uk" start="20261122232000 +0000" stop="20261123001500 +0000">
     <title lang="en">New: Outlier: Manager Idol:...</title>
     <desc lang="en">...Luton Town: The Football Revolution. When a chairman turns football into Pop Idol, Luton Town fans protest, sparking a revolution which takes the club back to the Premier League.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/900b1894-55dd-4e61-be49-b04e90ec5fda/cover"/>
@@ -42686,12 +42663,12 @@
     <episode-num system="xmltv_ns">6.0.0</episode-num>
     <episode-num system="onscreen">S7E1</episode-num>
   </programme>
-  <programme channel="ITV1YorkshireEast.uk" start="20261122225500 +0000" stop="20261122231500 +0000">
+  <programme channel="ITV1YorkshireEast.uk" start="20261122225500 +0000" stop="20261122232000 +0000">
     <title lang="en">ITV News</title>
     <desc lang="en">National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/76030326-598c-4244-b213-12d556fb59bc/cover"/>
   </programme>
-  <programme channel="ITV1YorkshireEast.uk" start="20261122231500 +0000" stop="20261123001500 +0000">
+  <programme channel="ITV1YorkshireEast.uk" start="20261122232000 +0000" stop="20261123001500 +0000">
     <title lang="en">New: Outlier: Manager Idol:...</title>
     <desc lang="en">...Luton Town: The Football Revolution. When a chairman turns football into Pop Idol, Luton Town fans protest, sparking a revolution which takes the club back to the Premier League.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/900b1894-55dd-4e61-be49-b04e90ec5fda/cover"/>
@@ -43133,12 +43110,12 @@
     <episode-num system="xmltv_ns">6.0.0</episode-num>
     <episode-num system="onscreen">S7E1</episode-num>
   </programme>
-  <programme channel="ITV1YorkshireWest.uk" start="20261122225500 +0000" stop="20261122231500 +0000">
+  <programme channel="ITV1YorkshireWest.uk" start="20261122225500 +0000" stop="20261122232000 +0000">
     <title lang="en">ITV News</title>
     <desc lang="en">National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/e080d820-942d-438e-81e8-e6d8cfe83aaa/cover"/>
   </programme>
-  <programme channel="ITV1YorkshireWest.uk" start="20261122231500 +0000" stop="20261123001500 +0000">
+  <programme channel="ITV1YorkshireWest.uk" start="20261122232000 +0000" stop="20261123001500 +0000">
     <title lang="en">New: Outlier: Manager Idol:...</title>
     <desc lang="en">...Luton Town: The Football Revolution. When a chairman turns football into Pop Idol, Luton Town fans protest, sparking a revolution which takes the club back to the Premier League.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/900b1894-55dd-4e61-be49-b04e90ec5fda/cover"/>
@@ -44046,11 +44023,6 @@
     <icon src="https://images.metadata.sky.com/pd-image/cd17748c-399b-493d-b346-df7d52c87d94/cover"/>
     <episode-num system="xmltv_ns">9.11.0</episode-num>
     <episode-num system="onscreen">S10E12</episode-num>
-  </programme>
-  <programme channel="ITV2Plus1.uk" start="20261121201500 +0000" stop="20261121232000 +0000">
-    <title lang="en">France v Argentina: Nations Championship</title>
-    <desc lang="en">Live Nations Championship rugby action as France host Argentina at The Stade de France in Paris, with commentary from Johnnie Hammond and Benjamin Kayser.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f2b8a84a-d851-480a-9573-04bd1a0c1608/cover"/>
   </programme>
   <programme channel="ITV2Plus1.uk" start="20261121232000 +0000" stop="20261122002500 +0000">
     <title lang="en">New: I'm a Celebrity... Unpacked</title>
@@ -45848,11 +45820,6 @@
     <desc lang="en">Hard-hitting action from AEW's newest show, featuring stars including Kyle Fletcher, Kazuchika Okada, Megan Bayne, Tommaso Ciampa and Claudio Castagnoli.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/38eac11a-600d-414c-a22a-c7edc5f15946/cover"/>
     <premiere/>
-  </programme>
-  <programme channel="ITV4Plus1.uk" start="20261121201500 +0000" stop="20261121233500 +0000">
-    <title lang="en">Wales v Australia: Nations Championship</title>
-    <desc lang="en">Lauren Salter presents coverage of the Nations Championship as Wales face next year's Rugby World Cup hosts, Australia, at Principality Stadium in Cardiff.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e3e7e8b2-c0b9-4801-9209-420c4e627f71/cover"/>
   </programme>
   <programme channel="ITV4Plus1.uk" start="20261121233500 +0000" stop="20261122010500 +0000">
     <title lang="en">English Football League Highlights</title>
