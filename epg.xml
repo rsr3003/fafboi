@@ -407,11 +407,6 @@
     <display-name lang="en">U&amp;Yesterday+1</display-name>
     <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/U%26YESTERDAYPlus1.png"></icon>
   </channel>
-  <programme channel="sky.main.uk" start="20261123183000 +0000" stop="20261123230000 +0000">
-    <title lang="en">Live MNF: Brentford v Everton</title>
-    <desc lang="en">On Monday Night Football, David Moyes' Everton head to Brentford's Gtech Community Stadium searching for a third consecutive Premier League win. The Bees were beaten before the break.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a7f1b746-b4db-4ebc-8a26-7ee0826c026e/cover"/>
-  </programme>
   <programme channel="sky.main.uk" start="20261123230000 +0000" stop="20261124000000 +0000">
     <title lang="en">Sky Sports News</title>
     <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
@@ -449,7 +444,7 @@
   </programme>
   <programme channel="sky.main.uk" start="20261124073000 +0000" stop="20261124160000 +0000">
     <title lang="en">Live 2nd Test Day 2: SA v BAN</title>
-    <desc lang="en">Day two of the second Test in a two-match series between South Africa and Bangladesh.</desc>
+    <desc lang="en">Day two of the second Test in a two-match series between South Africa and Bangladesh. The Proteas dominated yesterday, bowling Bangladesh out for 91 before posting 88 in reply.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9e03a68d-a818-4cac-9226-f21b66c10ed9/cover"/>
   </programme>
   <programme channel="sky.main.uk" start="20261124160000 +0000" stop="20261124170000 +0000">
@@ -515,7 +510,7 @@
   </programme>
   <programme channel="sky.main.uk" start="20261125073000 +0000" stop="20261125160000 +0000">
     <title lang="en">Live 2nd Test Day 3: SA v BAN</title>
-    <desc lang="en">Day three of the second Test in a two-match series between South Africa and Bangladesh.</desc>
+    <desc lang="en">Day three of the second Test in a two-match series between South Africa and Bangladesh. The Proteas piled on the runs yesterday, closing on 494 for seven.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/768aa801-92f7-4d7e-a3f0-9718b5d6aec3/cover"/>
   </programme>
   <programme channel="sky.main.uk" start="20261125160000 +0000" stop="20261125170000 +0000">
@@ -589,20 +584,15 @@
     <desc lang="en">A breakdown of the stories hitting the news desk this afternoon, with live analysis and comment plus extended interviews with the headline makers.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/147ae582-431f-4157-a369-2845a64bafe9/cover"/>
   </programme>
-  <programme channel="sky.main.uk" start="20261126170000 +0000" stop="20261126210000 +0000">
+  <programme channel="sky.main.uk" start="20261126170000 +0000" stop="20261126211500 +0000">
     <title lang="en">Live NFL Bears @ Lions</title>
     <desc lang="en">Kicking off the NFL's Thanksgiving tripleheader, NFC North leaders Detroit Lions and Chicago Bears, both 8-2, go toe to toe in a pivotal match-up at Ford Field.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c2ba1fea-2a82-42c9-9aca-d29835da519d/cover"/>
   </programme>
-  <programme channel="sky.main.uk" start="20261126210000 +0000" stop="20261127003000 +0000">
+  <programme channel="sky.main.uk" start="20261126211500 +0000" stop="20261127003000 +0000">
     <title lang="en">Live NFL Eagles @ Cowboys</title>
     <desc lang="en">The NFL's Thanksgiving tripleheader continues in Dallas as the Cowboys meet a Philadelphia side looking to build on much-needed victory over the Steelers, ending a wretched losing run.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/966dbff2-24b7-4b80-a776-9a0c9d001432/cover"/>
-  </programme>
-  <programme channel="sky.premier.uk" start="20261123183000 +0000" stop="20261123230000 +0000">
-    <title lang="en">Live MNF: Brentford v Everton</title>
-    <desc lang="en">On Monday Night Football, David Moyes' Everton head to Brentford's Gtech Community Stadium searching for a third consecutive Premier League win. The Bees were beaten before the break.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a7f1b746-b4db-4ebc-8a26-7ee0826c026e/cover"/>
   </programme>
   <programme channel="sky.premier.uk" start="20261123230000 +0000" stop="20261123233000 +0000">
     <title lang="en">Moyes Moments</title>
@@ -1046,8 +1036,8 @@
     <title lang="en">PL 100: Robbie Fowler</title>
     <desc lang="en">A look at the career of former Liverpool striker Robbie Fowler. A natural scorer, Fowler netted 162 Premier League goals, 128 of them for the Reds.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d4d6866c-b038-4b57-9001-fa7b6695fb68/cover"/>
-    <episode-num system="xmltv_ns">0.12.0</episode-num>
-    <episode-num system="onscreen">S1E13</episode-num>
+    <episode-num system="xmltv_ns">0.8.0</episode-num>
+    <episode-num system="onscreen">S1E9</episode-num>
   </programme>
   <programme channel="sky.premier.uk" start="20261126060000 +0000" stop="20261126061500 +0000">
     <title lang="en">PL Greatest Games:Charlton/WHU '01</title>
@@ -3133,23 +3123,38 @@
   </programme>
   <programme channel="sky.racing.uk" start="20261125020000 +0000" stop="20261125060000 +0000">
     <title lang="en">Australian Racing Live</title>
-    <desc lang="en">Live Australian racing from Wyong and Ipswich.</desc>
+    <desc lang="en">Live Australian racing from Wyong, Geelong, Strathalbyn and Ipswich.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f9ff1a00-9f54-4a0c-8a9d-5bd64afa6e37/cover"/>
   </programme>
   <programme channel="sky.racing.uk" start="20261125060000 +0000" stop="20261125070000 +0000">
     <title lang="en">Australian Racing Live</title>
-    <desc lang="en">Live Australian racing from Wyong and Ipswich.</desc>
+    <desc lang="en">Live Australian racing from Wyong, Geelong, Strathalbyn and Ipswich.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/f9ff1a00-9f54-4a0c-8a9d-5bd64afa6e37/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20261125070000 +0000" stop="20261125100000 +0000">
+  <programme channel="sky.racing.uk" start="20261125070000 +0000" stop="20261125090000 +0000">
     <title lang="en">Sky Sports Breakfast</title>
     <desc lang="en">Stay across the biggest sports stories this morning with a wrap-up of the headlines.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8c795fc5-9103-4be7-bacd-a17bbcaadcd6/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20261125100000 +0000" stop="20261125110000 +0000">
+  <programme channel="sky.racing.uk" start="20261125090000 +0000" stop="20261125100000 +0000">
     <title lang="en">Cartier Racing Awards 2026</title>
     <desc lang="en">Some of racing's biggest names gather for the prestigious Cartier Racing Awards, to celebrate the elite performers of 2026 and showcase excellence in the sport.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ff46be48-8e3c-4973-ab72-a6e4d61eab28/cover"/>
+  </programme>
+  <programme channel="sky.racing.uk" start="20261125100000 +0000" stop="20261125101500 +0000">
+    <title lang="en">Eddie Greatrex: Comeback Kid</title>
+    <desc lang="en">Forced to retire at 23 battling pain every day, jockey Eddy Greatrex has made a remarkable return to the saddle in the form of his life as he fights to reignite his career.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8af9bd10-1529-4303-a5ee-68ca1324fbe7/cover"/>
+  </programme>
+  <programme channel="sky.racing.uk" start="20261125101500 +0000" stop="20261125104500 +0000">
+    <title lang="en">Paul Nicholls: Far From Finished</title>
+    <desc lang="en">Despite major blows and losing stable stars from the yard, 14 time Champion trainer Paul Nicholls is as fired up as ever in his bid to return to the top of the racing tree.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f0489147-dd12-4732-896b-c3e0ab90adaa/cover"/>
+  </programme>
+  <programme channel="sky.racing.uk" start="20261125104500 +0000" stop="20261125110000 +0000">
+    <title lang="en">Wendigo: Going for Gold</title>
+    <desc lang="en">After a career-best season in 25/26, the Jamie Snowden team will be hoping to land another big prize with Wendigo, who is set to line up in the Coral Gold Cup at Newbury.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ca4dd76c-53de-4545-a759-bc783c16987b/cover"/>
   </programme>
   <programme channel="sky.racing.uk" start="20261125110000 +0000" stop="20261125121500 +0000">
     <title lang="en">Raceday Preview</title>
@@ -3188,38 +3193,58 @@
   </programme>
   <programme channel="sky.racing.uk" start="20261126020000 +0000" stop="20261126060000 +0000">
     <title lang="en">Australian Racing Live</title>
-    <desc lang="en">Live Australian racing from Hawkesbury and Rockhampton.</desc>
+    <desc lang="en">Live Australian racing from Hawkesbury, Mornington and Rockhampton.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/db447fab-c519-4898-8038-b5e2439c3e66/cover"/>
   </programme>
   <programme channel="sky.racing.uk" start="20261126060000 +0000" stop="20261126070000 +0000">
     <title lang="en">Australian Racing Live</title>
-    <desc lang="en">Live Australian racing from Hawkesbury and Rockhampton.</desc>
+    <desc lang="en">Live Australian racing from Hawkesbury, Mornington and Rockhampton.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/db447fab-c519-4898-8038-b5e2439c3e66/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20261126070000 +0000" stop="20261126100000 +0000">
+  <programme channel="sky.racing.uk" start="20261126070000 +0000" stop="20261126080000 +0000">
     <title lang="en">Sky Sports Breakfast</title>
     <desc lang="en">Stay across the biggest sports stories this morning with a wrap-up of the headlines.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b55531db-6192-45f6-88ef-a49f67b016e1/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20261126100000 +0000" stop="20261126121500 +0000">
+  <programme channel="sky.racing.uk" start="20261126080000 +0000" stop="20261126090000 +0000">
+    <title lang="en">Cartier Racing Awards 2026</title>
+    <desc lang="en">Some of racing's biggest names gather for the prestigious Cartier Racing Awards, to celebrate the elite performers of 2026 and showcase excellence in the sport.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ff46be48-8e3c-4973-ab72-a6e4d61eab28/cover"/>
+  </programme>
+  <programme channel="sky.racing.uk" start="20261126090000 +0000" stop="20261126093000 +0000">
+    <title lang="en">Paul Nicholls: Far From Finished</title>
+    <desc lang="en">Despite major blows and losing stable stars from the yard, 14 time Champion trainer Paul Nicholls is as fired up as ever in his bid to return to the top of the racing tree.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f0489147-dd12-4732-896b-c3e0ab90adaa/cover"/>
+  </programme>
+  <programme channel="sky.racing.uk" start="20261126093000 +0000" stop="20261126094500 +0000">
+    <title lang="en">Wendigo: Going for Gold</title>
+    <desc lang="en">After a career-best season in 25/26, the Jamie Snowden team will be hoping to land another big prize with Wendigo, who is set to line up in the Coral Gold Cup at Newbury.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ca4dd76c-53de-4545-a759-bc783c16987b/cover"/>
+  </programme>
+  <programme channel="sky.racing.uk" start="20261126094500 +0000" stop="20261126120000 +0000">
     <title lang="en">International Raceday Live</title>
     <desc lang="en">Live French racing from Lignieres and Chantilly. A look ahead to today's UK racing.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/357fa0e3-e21a-427a-800a-b793459e3a12/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20261126121500 +0000" stop="20261126210000 +0000">
+  <programme channel="sky.racing.uk" start="20261126120000 +0000" stop="20261126210000 +0000">
     <title lang="en">Raceday Live</title>
     <desc lang="en">Live Racing: Sean Boyce and Josh Apiafi bring you jumps action from Lingfield with Hayley Moore on course. Evening racing from Chelmsford City with Matt Chapman.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c99732d0-0eaf-4224-b372-3f189181f9da/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20261126210000 +0000" stop="20261126230000 +0000">
+  <programme channel="sky.racing.uk" start="20261126210000 +0000" stop="20261126224500 +0000">
     <title lang="en">Stateside Live</title>
     <desc lang="en">Live US racing from Laurel Park, Gulfstream, Fair Grounds, Churchill Downs, Woodbine and Del Mar.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6e73f656-4cc2-4cc5-a44f-e9d1299c429c/cover"/>
   </programme>
-  <programme channel="sky.racing.uk" start="20261126230000 +0000" stop="20261127020000 +0000">
-    <title lang="en">Sky Sports News</title>
-    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c962a367-da7e-4fce-91c8-d434a5d6ab3b/cover"/>
+  <programme channel="sky.racing.uk" start="20261126224500 +0000" stop="20261126230000 +0000">
+    <title lang="en">Wendigo: Going for Gold</title>
+    <desc lang="en">After a career-best season in 25/26, the Jamie Snowden team will be hoping to land another big prize with Wendigo, who is set to line up in the Coral Gold Cup at Newbury.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ca4dd76c-53de-4545-a759-bc783c16987b/cover"/>
+  </programme>
+  <programme channel="sky.racing.uk" start="20261126230000 +0000" stop="20261127000000 +0000">
+    <title lang="en">Cartier Racing Awards 2026</title>
+    <desc lang="en">Some of racing's biggest names gather for the prestigious Cartier Racing Awards, to celebrate the elite performers of 2026 and showcase excellence in the sport.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ff46be48-8e3c-4973-ab72-a6e4d61eab28/cover"/>
   </programme>
   <programme channel="sky.mix.uk" start="20261123220000 +0000" stop="20261123230000 +0000">
     <title lang="en">Bahrain F1 Highlights</title>
@@ -4011,7 +4036,7 @@
   </programme>
   <programme channel="sky.cricket.uk" start="20261124073000 +0000" stop="20261124160000 +0000">
     <title lang="en">Live 2nd Test Day 2: SA v BAN</title>
-    <desc lang="en">Day two of the second Test in a two-match series between South Africa and Bangladesh.</desc>
+    <desc lang="en">Day two of the second Test in a two-match series between South Africa and Bangladesh. The Proteas dominated yesterday, bowling Bangladesh out for 91 before posting 88 in reply.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/9e03a68d-a818-4cac-9226-f21b66c10ed9/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20261124160000 +0000" stop="20261124161500 +0000">
@@ -4041,7 +4066,7 @@
   </programme>
   <programme channel="sky.cricket.uk" start="20261124180000 +0000" stop="20261124190000 +0000">
     <title lang="en">2nd Test Day 2: SA v BAN Hlts</title>
-    <desc lang="en">Day two of the second Test in a two-match series between South Africa and Bangladesh. (24.11)</desc>
+    <desc lang="en">Day two of the second Test in a two-match series between South Africa and Bangladesh. The Proteas dominated yesterday, bowling Bangladesh out for 91 before posting 88 in reply. (24.11)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/49299058-e2f9-4167-8557-87a43318ff56/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20261124190000 +0000" stop="20261124200000 +0000">
@@ -4066,7 +4091,7 @@
   </programme>
   <programme channel="sky.cricket.uk" start="20261124210000 +0000" stop="20261124220000 +0000">
     <title lang="en">2nd Test Day 2: SA v BAN Hlts</title>
-    <desc lang="en">Day two of the second Test in a two-match series between South Africa and Bangladesh. (24.11)</desc>
+    <desc lang="en">Day two of the second Test in a two-match series between South Africa and Bangladesh. The Proteas dominated yesterday, bowling Bangladesh out for 91 before posting 88 in reply. (24.11)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/49299058-e2f9-4167-8557-87a43318ff56/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20261124220000 +0000" stop="20261124230000 +0000">
@@ -4091,7 +4116,7 @@
   </programme>
   <programme channel="sky.cricket.uk" start="20261125000000 +0000" stop="20261125010000 +0000">
     <title lang="en">2nd Test Day 2: SA v BAN Hlts</title>
-    <desc lang="en">Day two of the second Test in a two-match series between South Africa and Bangladesh. (24.11)</desc>
+    <desc lang="en">Day two of the second Test in a two-match series between South Africa and Bangladesh. The Proteas dominated yesterday, bowling Bangladesh out for 91 before posting 88 in reply. (24.11)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/49299058-e2f9-4167-8557-87a43318ff56/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20261125010000 +0000" stop="20261125040000 +0000">
@@ -4126,7 +4151,7 @@
   </programme>
   <programme channel="sky.cricket.uk" start="20261125073000 +0000" stop="20261125160000 +0000">
     <title lang="en">Live 2nd Test Day 3: SA v BAN</title>
-    <desc lang="en">Day three of the second Test in a two-match series between South Africa and Bangladesh.</desc>
+    <desc lang="en">Day three of the second Test in a two-match series between South Africa and Bangladesh. The Proteas piled on the runs yesterday, closing on 494 for seven.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/768aa801-92f7-4d7e-a3f0-9718b5d6aec3/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20261125160000 +0000" stop="20261125161500 +0000">
@@ -4151,17 +4176,17 @@
   </programme>
   <programme channel="sky.cricket.uk" start="20261125170000 +0000" stop="20261125180000 +0000">
     <title lang="en">2nd Test Day 2: SA v BAN Hlts</title>
-    <desc lang="en">Day two of the second Test in a two-match series between South Africa and Bangladesh. (24.11)</desc>
+    <desc lang="en">Day two of the second Test in a two-match series between South Africa and Bangladesh. The Proteas dominated yesterday, bowling Bangladesh out for 91 before posting 88 in reply. (24.11)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/49299058-e2f9-4167-8557-87a43318ff56/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20261125180000 +0000" stop="20261125190000 +0000">
     <title lang="en">2nd Test Day 3: SA v BAN Hlts</title>
-    <desc lang="en">Day three of the second Test in a two-match series between South Africa and Bangladesh. (25.11)</desc>
+    <desc lang="en">Day three of the second Test in a two-match series between South Africa and Bangladesh. The Proteas piled on the runs yesterday, closing on 494 for seven. (25.11)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ce97a80b-cf6e-4cfe-8525-6210b0a9509f/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20261125190000 +0000" stop="20261125200000 +0000">
     <title lang="en">2nd Test Day 2: SA v BAN Hlts</title>
-    <desc lang="en">Day two of the second Test in a two-match series between South Africa and Bangladesh. (24.11)</desc>
+    <desc lang="en">Day two of the second Test in a two-match series between South Africa and Bangladesh. The Proteas dominated yesterday, bowling Bangladesh out for 91 before posting 88 in reply. (24.11)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/49299058-e2f9-4167-8557-87a43318ff56/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20261125200000 +0000" stop="20261125201500 +0000">
@@ -4186,7 +4211,7 @@
   </programme>
   <programme channel="sky.cricket.uk" start="20261125210000 +0000" stop="20261125220000 +0000">
     <title lang="en">2nd Test Day 3: SA v BAN Hlts</title>
-    <desc lang="en">Day three of the second Test in a two-match series between South Africa and Bangladesh. (25.11)</desc>
+    <desc lang="en">Day three of the second Test in a two-match series between South Africa and Bangladesh. The Proteas piled on the runs yesterday, closing on 494 for seven. (25.11)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ce97a80b-cf6e-4cfe-8525-6210b0a9509f/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20261125220000 +0000" stop="20261125230000 +0000">
@@ -4216,7 +4241,7 @@
   </programme>
   <programme channel="sky.cricket.uk" start="20261126000000 +0000" stop="20261126010000 +0000">
     <title lang="en">2nd Test Day 3: SA v BAN Hlts</title>
-    <desc lang="en">Day three of the second Test in a two-match series between South Africa and Bangladesh. (25.11)</desc>
+    <desc lang="en">Day three of the second Test in a two-match series between South Africa and Bangladesh. The Proteas piled on the runs yesterday, closing on 494 for seven. (25.11)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ce97a80b-cf6e-4cfe-8525-6210b0a9509f/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20261126010000 +0000" stop="20261126040000 +0000">
@@ -4271,7 +4296,7 @@
   </programme>
   <programme channel="sky.cricket.uk" start="20261126170000 +0000" stop="20261126180000 +0000">
     <title lang="en">2nd Test Day 3: SA v BAN Hlts</title>
-    <desc lang="en">Day three of the second Test in a two-match series between South Africa and Bangladesh. (25.11)</desc>
+    <desc lang="en">Day three of the second Test in a two-match series between South Africa and Bangladesh. The Proteas piled on the runs yesterday, closing on 494 for seven. (25.11)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ce97a80b-cf6e-4cfe-8525-6210b0a9509f/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20261126180000 +0000" stop="20261126190000 +0000">
@@ -4281,7 +4306,7 @@
   </programme>
   <programme channel="sky.cricket.uk" start="20261126190000 +0000" stop="20261126200000 +0000">
     <title lang="en">2nd Test Day 3: SA v BAN Hlts</title>
-    <desc lang="en">Day three of the second Test in a two-match series between South Africa and Bangladesh. (25.11)</desc>
+    <desc lang="en">Day three of the second Test in a two-match series between South Africa and Bangladesh. The Proteas piled on the runs yesterday, closing on 494 for seven. (25.11)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ce97a80b-cf6e-4cfe-8525-6210b0a9509f/cover"/>
   </programme>
   <programme channel="sky.cricket.uk" start="20261126200000 +0000" stop="20261126201500 +0000">
@@ -4670,7 +4695,7 @@
   <programme channel="tnt1" start="20261126043000 +0000" stop="20261126050000 +0000">
     <title lang="en">Cyclo-cross: Beringen</title>
     <desc lang="en">Cyclo-cross action from a fast and technical Beringen course in Belgium as the riders battle for victory in the women's Trophy race.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/73e75725-43af-4ee5-b5ef-71d93d780050/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/886b4c50-2e89-4eee-b310-83de56e6e363/cover"/>
   </programme>
   <programme channel="tnt1" start="20261126050000 +0000" stop="20261126053000 +0000">
     <title lang="en">Cyclocross: Lokeren</title>
@@ -4680,7 +4705,7 @@
   <programme channel="tnt1" start="20261126053000 +0000" stop="20261126060000 +0000">
     <title lang="en">Cyclo-cross: Beringen</title>
     <desc lang="en">Action from the men's Trophy race in Beringen, Belgium, where the world's leading cyclo-cross riders battle for victory on one of the sport's most demanding courses.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/26135470-4cd0-40db-9826-174826e9eb2c/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/5e0e2ecd-ab2e-4b46-83d0-80b07d3aa03b/cover"/>
   </programme>
   <programme channel="tnt1" start="20261126060000 +0000" stop="20261126070000 +0000">
     <title lang="en">UEFA Champions League Highlights</title>
@@ -5453,7 +5478,7 @@
   <programme channel="tnt3" start="20261125063000 +0000" stop="20261125070000 +0000">
     <title lang="en">Cyclo-cross: Beringen</title>
     <desc lang="en">Cyclo-cross action from a fast and technical Beringen course in Belgium as the riders battle for victory in the women's Trophy race.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/1ade53f7-4ced-4a95-a01f-403c3cc04c19/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/886b4c50-2e89-4eee-b310-83de56e6e363/cover"/>
   </programme>
   <programme channel="tnt3" start="20261125070000 +0000" stop="20261125073000 +0000">
     <title lang="en">Cyclocross: Lokeren</title>
@@ -5463,7 +5488,7 @@
   <programme channel="tnt3" start="20261125073000 +0000" stop="20261125080000 +0000">
     <title lang="en">Cyclo-cross: Beringen</title>
     <desc lang="en">Action from the men's Trophy race in Beringen, Belgium, where the world's leading cyclo-cross riders battle for victory on one of the sport's most demanding courses.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/967e79b9-bf43-49eb-9bab-a3f6fed6a77a/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/5e0e2ecd-ab2e-4b46-83d0-80b07d3aa03b/cover"/>
   </programme>
   <programme channel="tnt3" start="20261125080000 +0000" stop="20261125090000 +0000">
     <title lang="en">Moto3: Portugal Race</title>
@@ -5893,7 +5918,7 @@
   <programme channel="tnt4" start="20261125013000 +0000" stop="20261125020000 +0000">
     <title lang="en">Cyclo-cross: Beringen</title>
     <desc lang="en">Action from the men's Trophy race in Beringen, Belgium, where the world's leading cyclo-cross riders battle for victory on one of the sport's most demanding courses.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/2e0cc395-bc32-4c17-be8c-567262c648f2/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/5e0e2ecd-ab2e-4b46-83d0-80b07d3aa03b/cover"/>
   </programme>
   <programme channel="tnt4" start="20261125020000 +0000" stop="20261125030000 +0000">
     <title lang="en">Harlequins Women v Bristol Women</title>
@@ -7469,9 +7494,10 @@
     <icon src="https://images.metadata.sky.com/pd-image/672bbe29-fc2f-4835-be7c-5064f705391e/cover"/>
   </programme>
   <programme channel="5Select.uk" start="20261125080000 +0000" stop="20261125090000 +0000">
-    <title lang="en">Cruise TV with LoveitBookit</title>
+    <title lang="en">New: Cruise TV with LoveitBookit</title>
     <desc lang="en">Your one-stop-shop for all things cruise; bringing you the hottest destinations, ground-breaking ships and the latest deals to ensure your next cruise holiday is your greatest one!</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/885e6520-e585-4aec-a849-2598d95c78a6/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/29fa3ecd-0a20-4055-b272-2e221b807e93/cover"/>
+    <premiere/>
   </programme>
   <programme channel="5Select.uk" start="20261125090000 +0000" stop="20261125093000 +0000">
     <title lang="en">Classic Home and Away</title>
@@ -11248,24 +11274,14 @@
     <icon src="https://images.metadata.sky.com/pd-image/6302b904-2220-42b6-847e-d61610fdc1ae/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20261124130000 +0000" stop="20261124140000 +0000">
-    <title lang="en">Signed: BBC News at One</title>
-    <desc lang="en">The latest national and international news from the BBC.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/77fb494b-4191-4418-8dbd-eeddd6332c45/cover"/>
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/0bd03c0b-7607-4553-bd2f-5a88d83d84ec/cover"/>
   </programme>
-  <programme channel="BBCNews.uk" start="20261124140000 +0000" stop="20261124143000 +0000">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/513bd268-d11e-4f49-a1e3-9c7402e556d0/cover"/>
-  </programme>
-  <programme channel="BBCNews.uk" start="20261124143000 +0000" stop="20261124144500 +0000">
-    <title lang="en">Business Today - NYSE Opening Bell</title>
-    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from New York and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f360d60b-96bd-497c-94e9-2dd86a430115/cover"/>
-  </programme>
-  <programme channel="BBCNews.uk" start="20261124144500 +0000" stop="20261124150000 +0000">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b7aeedb2-bda9-4190-9ec5-ef9fcfbd688b/cover"/>
+  <programme channel="BBCNews.uk" start="20261124140000 +0000" stop="20261124150000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/df4bec59-1b65-457d-b42a-fff20136b3bc/cover"/>
   </programme>
   <programme channel="BBCNews.uk" start="20261124150000 +0000" stop="20261124153000 +0000">
     <title lang="en">Verified Live</title>
@@ -11992,7 +12008,7 @@
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20261124190000 +0000" stop="20261124193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Dawn French, Jennifer Saunders and Stephen Graham join Alex and Roman on the green sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bdfa7c85-d3e2-482b-a9fa-32be35c50e47/cover"/>
   </programme>
   <programme channel="BBCOneChannelIslands.uk" start="20261124193000 +0000" stop="20261124200000 +0000">
@@ -12459,7 +12475,7 @@
   </programme>
   <programme channel="BBCOneEast.uk" start="20261124190000 +0000" stop="20261124193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Dawn French, Jennifer Saunders and Stephen Graham join Alex and Roman on the green sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bdfa7c85-d3e2-482b-a9fa-32be35c50e47/cover"/>
   </programme>
   <programme channel="BBCOneEast.uk" start="20261124193000 +0000" stop="20261124200000 +0000">
@@ -12926,7 +12942,7 @@
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20261124190000 +0000" stop="20261124193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Dawn French, Jennifer Saunders and Stephen Graham join Alex and Roman on the green sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bdfa7c85-d3e2-482b-a9fa-32be35c50e47/cover"/>
   </programme>
   <programme channel="BBCOneEastMidlands.uk" start="20261124193000 +0000" stop="20261124200000 +0000">
@@ -13393,7 +13409,7 @@
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20261124190000 +0000" stop="20261124193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Dawn French, Jennifer Saunders and Stephen Graham join Alex and Roman on the green sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bdfa7c85-d3e2-482b-a9fa-32be35c50e47/cover"/>
   </programme>
   <programme channel="BBCOneLondonHD.uk" start="20261124193000 +0000" stop="20261124200000 +0000">
@@ -13860,7 +13876,7 @@
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20261124190000 +0000" stop="20261124193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Dawn French, Jennifer Saunders and Stephen Graham join Alex and Roman on the green sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bdfa7c85-d3e2-482b-a9fa-32be35c50e47/cover"/>
   </programme>
   <programme channel="BBCOneNorthEastCumbria.uk" start="20261124193000 +0000" stop="20261124200000 +0000">
@@ -14327,7 +14343,7 @@
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20261124190000 +0000" stop="20261124193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Dawn French, Jennifer Saunders and Stephen Graham join Alex and Roman on the green sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bdfa7c85-d3e2-482b-a9fa-32be35c50e47/cover"/>
   </programme>
   <programme channel="BBCOneNorthWest.uk" start="20261124193000 +0000" stop="20261124200000 +0000">
@@ -14789,7 +14805,7 @@
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20261124190000 +0000" stop="20261124193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Dawn French, Jennifer Saunders and Stephen Graham join Alex and Roman on the green sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bdfa7c85-d3e2-482b-a9fa-32be35c50e47/cover"/>
   </programme>
   <programme channel="BBCOneNorthernIreland.uk" start="20261124193000 +0000" stop="20261124200000 +0000">
@@ -15263,7 +15279,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20261124190000 +0000" stop="20261124193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Dawn French, Jennifer Saunders and Stephen Graham join Alex and Roman on the green sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bdfa7c85-d3e2-482b-a9fa-32be35c50e47/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20261124193000 +0000" stop="20261124200000 +0000">
@@ -15311,7 +15327,7 @@
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20261125000000 +0000" stop="20261125003000 +0000">
     <title lang="en">Scotcast</title>
-    <desc lang="en">Conversation about Scotland's biggest news stories, hosted by Martin Geissler.</desc>
+    <desc lang="en">Laura Miller hears how the UK government might respond to energy bills increasing by more than £400 a year.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2c397b14-5e6f-40a2-94d3-25ff49a3a05a/cover"/>
   </programme>
   <programme channel="BBCOneScotHD.uk" start="20261125003000 +0000" stop="20261125023000 +0000">
@@ -15734,7 +15750,7 @@
   </programme>
   <programme channel="BBCOneSouth.uk" start="20261124190000 +0000" stop="20261124193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Dawn French, Jennifer Saunders and Stephen Graham join Alex and Roman on the green sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bdfa7c85-d3e2-482b-a9fa-32be35c50e47/cover"/>
   </programme>
   <programme channel="BBCOneSouth.uk" start="20261124193000 +0000" stop="20261124200000 +0000">
@@ -16201,7 +16217,7 @@
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20261124190000 +0000" stop="20261124193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Dawn French, Jennifer Saunders and Stephen Graham join Alex and Roman on the green sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bdfa7c85-d3e2-482b-a9fa-32be35c50e47/cover"/>
   </programme>
   <programme channel="BBCOneSouthEast.uk" start="20261124193000 +0000" stop="20261124200000 +0000">
@@ -16668,7 +16684,7 @@
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20261124190000 +0000" stop="20261124193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Dawn French, Jennifer Saunders and Stephen Graham join Alex and Roman on the green sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bdfa7c85-d3e2-482b-a9fa-32be35c50e47/cover"/>
   </programme>
   <programme channel="BBCOneSouthWest.uk" start="20261124193000 +0000" stop="20261124200000 +0000">
@@ -17140,7 +17156,7 @@
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20261124190000 +0000" stop="20261124193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Dawn French, Jennifer Saunders and Stephen Graham join Alex and Roman on the green sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bdfa7c85-d3e2-482b-a9fa-32be35c50e47/cover"/>
   </programme>
   <programme channel="BBCOneWalesHD.uk" start="20261124193000 +0000" stop="20261124200000 +0000">
@@ -17617,7 +17633,7 @@
   </programme>
   <programme channel="BBCOneWest.uk" start="20261124190000 +0000" stop="20261124193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Dawn French, Jennifer Saunders and Stephen Graham join Alex and Roman on the green sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bdfa7c85-d3e2-482b-a9fa-32be35c50e47/cover"/>
   </programme>
   <programme channel="BBCOneWest.uk" start="20261124193000 +0000" stop="20261124200000 +0000">
@@ -18084,7 +18100,7 @@
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20261124190000 +0000" stop="20261124193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Dawn French, Jennifer Saunders and Stephen Graham join Alex and Roman on the green sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bdfa7c85-d3e2-482b-a9fa-32be35c50e47/cover"/>
   </programme>
   <programme channel="BBCOneWestMidlands.uk" start="20261124193000 +0000" stop="20261124200000 +0000">
@@ -18551,7 +18567,7 @@
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20261124190000 +0000" stop="20261124193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Dawn French, Jennifer Saunders and Stephen Graham join Alex and Roman on the green sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bdfa7c85-d3e2-482b-a9fa-32be35c50e47/cover"/>
   </programme>
   <programme channel="BBCOneYorksLincs.uk" start="20261124193000 +0000" stop="20261124200000 +0000">
@@ -19018,7 +19034,7 @@
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20261124190000 +0000" stop="20261124193000 +0000">
     <title lang="en">The One Show</title>
-    <desc lang="en">Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+    <desc lang="en">Dawn French, Jennifer Saunders and Stephen Graham join Alex and Roman on the green sofa.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/bdfa7c85-d3e2-482b-a9fa-32be35c50e47/cover"/>
   </programme>
   <programme channel="BBCOneYorkshire.uk" start="20261124193000 +0000" stop="20261124200000 +0000">
@@ -19402,35 +19418,55 @@
     <desc lang="en">Coverage of the debate in the House of Lords on the remaining stages of the Church Appointments (Repeal of Discriminatory Provision) Bill, on Monday 23 November.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/4c85cc97-2acf-419d-8a51-fd6016ade9f9/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20261124070000 +0000" stop="20261124080000 +0000">
+  <programme channel="BBCParliament.uk" start="20261124070000 +0000" stop="20261124070500 +0000">
+    <title lang="en">This is BBC Parliament HD</title>
+    <desc lang="en">This is BBC Parliament HD</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/b2ffc5db-4592-411e-867b-d5cdc1457662/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20261124070500 +0000" stop="20261124080500 +0000">
     <title lang="en">Work and Pensions Questions</title>
     <desc lang="en">Coverage of questions in the House of Commons to Pat McFadden, the work and pensions secretary, and his team of ministers on Monday 23 November.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d101fbff-7b7b-417a-9438-3420bee1c609/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20261124080000 +0000" stop="20261124094500 +0000">
+  <programme channel="BBCParliament.uk" start="20261124080500 +0000" stop="20261124103000 +0000">
     <title lang="en">UK-EU Summit Statement</title>
     <desc lang="en">The prime minister Andy Burnham's statement in the House of Commons on last week's UK-EU summit, on Monday 23 November.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/964b8da0-991e-4e34-b281-27ae5127b715/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20261124094500 +0000" stop="20261124103000 +0000">
+  <programme channel="BBCParliament.uk" start="20261124103000 +0000" stop="20261124111500 +0000">
     <title lang="en">Northern Ireland Assembly - Communities Questions</title>
     <desc lang="en">Coverage of questions in the Northern Ireland Assembly in Stormont to the communities minister, Gordon Lyons, from Monday 23 November.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/28aa91d5-e136-4b7a-bb46-5032bb9a6935/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20261124103000 +0000" stop="20261124113000 +0000">
-    <title lang="en">House of Lords - Children and Online Harms</title>
-    <desc lang="en">Coverage of the debate in the House of Lords on access to legal remedies when children are at risk online, on Thursday 19 November.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f2bb9766-f436-4172-8c1f-2edf699a8e67/cover"/>
+  <programme channel="BBCParliament.uk" start="20261124111500 +0000" stop="20261124113000 +0000">
+    <title lang="en">Ten Minute Rule Bill - Park Homes</title>
+    <desc lang="en">Coverage of the Park Homes Bill, introduced by Labour MP Tom Hayes under the Ten Minute Rule, on Wednesday 18 November.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f7919d34-cc64-4018-849c-cbbc4c64dca5/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20261124113000 +0000" stop="20261124123000 +0000">
+  <programme channel="BBCParliament.uk" start="20261124113000 +0000" stop="20261124124000 +0000">
     <title lang="en">Live Health and Social Care Questions</title>
     <desc lang="en">Coverage of questions in the House of Commons to Yvette Cooper, the health and social care secretary, and her team of ministers on Tuesday 24 November.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d7e704bc-a965-4e14-8a16-497c4bf72c14/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20261124123000 +0000" stop="20261124193000 +0000">
+  <programme channel="BBCParliament.uk" start="20261124124000 +0000" stop="20261124140000 +0000">
+    <title lang="en">Live Civil Service Pensions Urgent Question</title>
+    <desc lang="en">Coverage of an urgent question in the House of Commons, tabled by Reform MP Richard Tice, on civil service pensions, on Tuesday 24 November.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/5bd27e55-dcc4-4a18-952d-07d78561f483/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20261124140000 +0000" stop="20261124152500 +0000">
+    <title lang="en">Live Timms Review Statement</title>
+    <desc lang="en">The statement on the Timms Review, which looked at Personal Independence Payments.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a7f92b5b-9b8c-4c52-8f2b-ef4ff88544b3/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20261124152500 +0000" stop="20261124163000 +0000">
+    <title lang="en">Live COP31 Statement</title>
+    <desc lang="en">Coverage of a statement by secretary of state for energy security and net zero, Miatta Fahnbulleh, on the recent COP31 climate summit, on Tuesday 24 November.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/c330598f-caf9-4cd1-b7ea-9c62a821e244/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20261124163000 +0000" stop="20261124193000 +0000">
     <title lang="en">Live House of Commons</title>
     <desc lang="en">Coverage of the day's proceedings in the House of Commons including the debate on amendments made in the House of Lords to the Armed Forces Bill, on Tuesday 24 November.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/5bd27e55-dcc4-4a18-952d-07d78561f483/cover"/>
+    <icon src="https://images.metadata.sky.com/pd-image/d24049ec-11f2-4038-b4fb-367cf23c0ab6/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20261124193000 +0000" stop="20261124220000 +0000">
     <title lang="en">Live House of Lords</title>
@@ -19452,25 +19488,55 @@
     <desc lang="en">Questions in the House of Lords to government ministers covering VAT on online marketplaces, the role of civic society organisations and on an autism strategy, on Tuesday 24 November.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2e8fe3c9-354e-49d4-9884-61e5fce3f25a/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20261125001500 +0000" stop="20261125070000 +0000">
-    <title lang="en">House of Lords</title>
-    <desc lang="en">Business in the House of Lords including the third day of debate on the committee stage of the Representation of the People Bill, on Tuesday 24 November.</desc>
+  <programme channel="BBCParliament.uk" start="20261125001500 +0000" stop="20261125005500 +0000">
+    <title lang="en">House of Lords - UK/EU Summit Statement</title>
+    <desc lang="en">Coverage of a statement in the House of Lords on last week's summit between the UK and the EU, on Tuesday 24 November.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3c0ec72c-cf3f-4d2a-9078-832aca71dee6/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20261125070000 +0000" stop="20261125080000 +0000">
+  <programme channel="BBCParliament.uk" start="20261125005500 +0000" stop="20261125025500 +0000">
+    <title lang="en">House of Lords - Representation...</title>
+    <desc lang="en">...of the People Bill, Part 1. Business in the House of Lords including the third day of debate on the committee stage of the Representation of the People Bill, on Tuesday 24 November.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/9d553500-1d54-4a92-a1e2-f61e3b800aa4/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20261125025500 +0000" stop="20261125045500 +0000">
+    <title lang="en">House of Lords - Representation...</title>
+    <desc lang="en">...of the People Bill, Part 2. Business in the House of Lords including the third day of debate on the committee stage of the Representation of the People Bill, on Tuesday 24 November.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/0d645e1e-30c5-404a-be53-b117374bebef/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20261125045500 +0000" stop="20261125055000 +0000">
+    <title lang="en">House of Lords - Representation...</title>
+    <desc lang="en">...of the People Bill, Part 3. Business in the House of Lords including the third day of debate on the committee stage of the Representation of the People Bill, on Tuesday 24 November.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1288984f-2d4f-4299-aec0-aa4223b1cb0e/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20261125055000 +0000" stop="20261125062000 +0000">
+    <title lang="en">House of Lords - Representation...</title>
+    <desc lang="en">...of the People Bill, Part 4. Business in the House of Lords including the third day of debate on the committee stage of the Representation of the People Bill, on Tuesday 24 November.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/9a6f7135-4e44-4d5e-bbef-aadf6ef53c1a/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20261125062000 +0000" stop="20261125070000 +0000">
+    <title lang="en">House of Lords - Timms Review Statement</title>
+    <desc lang="en">Coverage of the statement in the House of Lords delivering the final report of the Timms Review, which looked at Personal Independence Payments, on Tuesday 24 November.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/82fa9f4c-05bd-4beb-96dc-5c82f87821d6/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20261125070000 +0000" stop="20261125081000 +0000">
     <title lang="en">Health and Social Care Questions</title>
     <desc lang="en">Coverage of questions in the House of Commons to Yvette Cooper, the health and social care secretary, and her team of ministers on Tuesday 24 November.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d7e704bc-a965-4e14-8a16-497c4bf72c14/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20261125080000 +0000" stop="20261125093000 +0000">
-    <title lang="en">House of Commons</title>
-    <desc lang="en">Highlights of proceedings in the House of Commons from Tuesday 24 November.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/2d85610d-8e7e-4d03-9bc9-1113d7a575c0/cover"/>
+  <programme channel="BBCParliament.uk" start="20261125081000 +0000" stop="20261125093000 +0000">
+    <title lang="en">Civil Service Pensions Urgent Question</title>
+    <desc lang="en">Coverage of an urgent question in the House of Commons, tabled by Reform MP Richard Tice, on civil service pensions, on Tuesday 24 November.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/5bd27e55-dcc4-4a18-952d-07d78561f483/cover"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20261125093000 +0000" stop="20261125113000 +0000">
-    <title lang="en">Select Committees</title>
-    <desc lang="en">Recorded coverage of select committee proceedings.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/370a0928-5aac-4fdb-9385-6eccbe41da82/cover"/>
+  <programme channel="BBCParliament.uk" start="20261125093000 +0000" stop="20261125105500 +0000">
+    <title lang="en">Timms Review Statement</title>
+    <desc lang="en">The statement on the Timms Review, which looked at Personal Independence Payments.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a7f92b5b-9b8c-4c52-8f2b-ef4ff88544b3/cover"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20261125105500 +0000" stop="20261125113000 +0000">
+    <title lang="en">Scottish First Minister's Questions</title>
+    <desc lang="en">Questions in the Scottish Parliament from backbench MSPs to John Swinney, the first minister, on Tuesday 24 November.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f5b6eb50-fbd9-48e1-a8f0-83134c2eee01/cover"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20261125113000 +0000" stop="20261125120000 +0000">
     <title lang="en">Live Northern Ireland Office Questions</title>
@@ -19551,13 +19617,6 @@
     <title lang="en">House of Lords</title>
     <desc lang="en">Business in the House of Lords including debates on the outcome of the 20 November UK-EU summit, and innovative treatments and clinical trials for pancreatic cancer patients.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/68475481-a257-4462-ac52-b996278c8b7b/cover"/>
-  </programme>
-  <programme channel="BBCRedButton1.uk" start="20261123180000 +0000" stop="20261124000000 +0000">
-    <title lang="en">Autumnwatch: Autumn Calm</title>
-    <desc lang="en">Enjoy the very best of the season in a natural escape that lets nature do the talking.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/73ebd0d5-6b9a-4410-a00d-f5eb2d622c70/cover"/>
-    <episode-num system="xmltv_ns">2021.1.0</episode-num>
-    <episode-num system="onscreen">S2022E2</episode-num>
   </programme>
   <programme channel="BBCRedButton1.uk" start="20261124000000 +0000" stop="20261124060000 +0000">
     <title lang="en">Autumnwatch: Autumn Calm</title>
@@ -19644,15 +19703,25 @@
     <desc lang="en">Highlights from the fifth round of matches in the UEFA Champions League group stage.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6c36e12e-251b-4ba7-a346-85a2b8d7c0a4/cover"/>
   </programme>
-  <programme channel="BBCRedButton1.uk" start="20261126060000 +0000" stop="20261126120000 +0000">
+  <programme channel="BBCRedButton1.uk" start="20261126060000 +0000" stop="20261126084000 +0000">
     <title lang="en">MOTD: UEFA Champions League</title>
     <desc lang="en">Highlights from the fifth round of matches in the UEFA Champions League group stage.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/6c36e12e-251b-4ba7-a346-85a2b8d7c0a4/cover"/>
   </programme>
-  <programme channel="BBCRedButton1.uk" start="20261126120000 +0000" stop="20261126164000 +0000">
-    <title lang="en">MOTD: UEFA Champions League</title>
-    <desc lang="en">Highlights from the fifth round of matches in the UEFA Champions League group stage.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/6c36e12e-251b-4ba7-a346-85a2b8d7c0a4/cover"/>
+  <programme channel="BBCRedButton1.uk" start="20261126084000 +0000" stop="20261126090000 +0000">
+    <title lang="en">The Story So Far: The Best of, Part 4</title>
+    <desc lang="en">The best of Ali Plumb's Story So Far programmes. Part 4.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/621ec1df-7eab-49e8-975d-9bf639418f81/cover"/>
+  </programme>
+  <programme channel="BBCRedButton1.uk" start="20261126090000 +0000" stop="20261126160000 +0000">
+    <title lang="en">Tennis: Davis Cup...</title>
+    <desc lang="en">...Quarter-Final: Great Britain v Germany . Tennis from Bologna where Great Britain and Germany contest a Davis Cup quarter-final.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/86383177-0d83-4bb4-9f96-4530f0b216bb/cover"/>
+  </programme>
+  <programme channel="BBCRedButton1.uk" start="20261126160000 +0000" stop="20261126164000 +0000">
+    <title lang="en">The Story So Far: The Best of, Part 4</title>
+    <desc lang="en">The best of Ali Plumb's Story So Far programmes. Part 4.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/621ec1df-7eab-49e8-975d-9bf639418f81/cover"/>
   </programme>
   <programme channel="BBCRedButton1.uk" start="20261126164000 +0000" stop="20261126180000 +0000">
     <title lang="en">Autumnwatch: Autumn Calm</title>
@@ -19735,7 +19804,7 @@
   </programme>
   <programme channel="BBCScotland.uk" start="20261124230000 +0000" stop="20261124233000 +0000">
     <title lang="en">Scotcast</title>
-    <desc lang="en">Conversation about Scotland's biggest news stories, hosted by Martin Geissler.</desc>
+    <desc lang="en">Laura Miller hears how the UK government might respond to energy bills increasing by more than £400 a year.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2c397b14-5e6f-40a2-94d3-25ff49a3a05a/cover"/>
   </programme>
   <programme channel="BBCScotland.uk" start="20261124233000 +0000" stop="20261125000000 +0000">
@@ -19939,7 +20008,7 @@
   </programme>
   <programme channel="BBCThreeHD.uk" start="20261124190000 +0000" stop="20261124190500 +0000">
     <title lang="en">The Catch Up</title>
-    <desc lang="en">A round-up of the day's news.</desc>
+    <desc lang="en">A round-up of the day's news with Ben Henley.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/3e154fa0-0d3c-48cd-b823-52525f46c858/cover"/>
   </programme>
   <programme channel="BBCThreeHD.uk" start="20261124190500 +0000" stop="20261124193500 +0000">
@@ -20247,7 +20316,7 @@
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20261124121500 +0000" stop="20261124130000 +0000">
     <title lang="en">Politics Live</title>
-    <desc lang="en">The big political issues of the day.</desc>
+    <desc lang="en">Review proposes overhaul of 'Pip' disability payments.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8f2fd78b-5c67-4aef-a1f5-6807e3d56edc/cover"/>
   </programme>
   <programme channel="BBCTwoEngland.uk" start="20261124130000 +0000" stop="20261124134500 +0000">
@@ -20765,7 +20834,7 @@
   </programme>
   <programme channel="BBCTwoHD.uk" start="20261124121500 +0000" stop="20261124130000 +0000">
     <title lang="en">Politics Live</title>
-    <desc lang="en">The big political issues of the day.</desc>
+    <desc lang="en">Review proposes overhaul of 'Pip' disability payments.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8f2fd78b-5c67-4aef-a1f5-6807e3d56edc/cover"/>
   </programme>
   <programme channel="BBCTwoHD.uk" start="20261124130000 +0000" stop="20261124134500 +0000">
@@ -21283,7 +21352,7 @@
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20261124121500 +0000" stop="20261124130000 +0000">
     <title lang="en">Politics Live</title>
-    <desc lang="en">The big political issues of the day.</desc>
+    <desc lang="en">Review proposes overhaul of 'Pip' disability payments.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8f2fd78b-5c67-4aef-a1f5-6807e3d56edc/cover"/>
   </programme>
   <programme channel="BBCTwoNorthernIreland.uk" start="20261124130000 +0000" stop="20261124134500 +0000">
@@ -21801,7 +21870,7 @@
   </programme>
   <programme channel="BBCTwoWales.uk" start="20261124121500 +0000" stop="20261124130000 +0000">
     <title lang="en">Politics Live</title>
-    <desc lang="en">The big political issues of the day.</desc>
+    <desc lang="en">Review proposes overhaul of 'Pip' disability payments.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/8f2fd78b-5c67-4aef-a1f5-6807e3d56edc/cover"/>
   </programme>
   <programme channel="BBCTwoWales.uk" start="20261124130000 +0000" stop="20261124134500 +0000">
@@ -26012,7 +26081,7 @@
   </programme>
   <programme channel="Channel4.uk" start="20261124190000 +0000" stop="20261124195500 +0000">
     <title lang="en">Channel 4 News</title>
-    <desc lang="en">Channel 4's flagship news programme. Including the weather.</desc>
+    <desc lang="en">The man who killed Soham child murderer Ian Huntley suddenly pleads guilty. New figures on a record number of deaths in the summer's heatwaves. The latest on changes to disability benefits.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7b52b21b-7eb3-4d9c-8e31-06f0b0974bf7/cover"/>
   </programme>
   <programme channel="Channel4.uk" start="20261124195500 +0000" stop="20261124200000 +0000">
@@ -26753,7 +26822,7 @@
   </programme>
   <programme channel="Channel4Plus1.uk" start="20261124200000 +0000" stop="20261124205500 +0000">
     <title lang="en">Channel 4 News</title>
-    <desc lang="en">Channel 4's flagship news programme. Including the weather.</desc>
+    <desc lang="en">The man who killed Soham child murderer Ian Huntley suddenly pleads guilty. New figures on a record number of deaths in the summer's heatwaves. The latest on changes to disability benefits.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7b52b21b-7eb3-4d9c-8e31-06f0b0974bf7/cover"/>
   </programme>
   <programme channel="Channel4Plus1.uk" start="20261124205500 +0000" stop="20261124210000 +0000">
@@ -27662,21 +27731,21 @@
     <episode-num system="xmltv_ns">1.17.0</episode-num>
     <episode-num system="onscreen">S2E18</episode-num>
   </programme>
-  <programme channel="Channel5Plus1.uk" start="20261125072000 +0000" stop="20261125073000 +0000">
+  <programme channel="Channel5Plus1.uk" start="20261125072000 +0000" stop="20261125073500 +0000">
     <title lang="en">Thomas &amp; Friends: Big World!</title>
     <desc lang="en">Big Adventures! Thomas takes a shortcut via a low bridge, knocking the water wheel he is carrying off his flatbed and sends it rolling across the Chinese countryside!</desc>
     <icon src="https://images.metadata.sky.com/pd-image/be9cfa30-fa94-496c-a24c-d9cc14e08883/cover"/>
     <episode-num system="xmltv_ns">21.14.0</episode-num>
     <episode-num system="onscreen">S22E15</episode-num>
   </programme>
-  <programme channel="Channel5Plus1.uk" start="20261125073000 +0000" stop="20261125074000 +0000">
+  <programme channel="Channel5Plus1.uk" start="20261125073500 +0000" stop="20261125074500 +0000">
     <title lang="en">Fireman Sam</title>
     <desc lang="en">Sarah teaches Nipper how to do a high-five, and it's really great until he wanders away from her and starts an oven fire with his paw.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/7733f33b-669e-473f-9d70-3d9824896cce/cover"/>
     <episode-num system="xmltv_ns">12.4.0</episode-num>
     <episode-num system="onscreen">S13E5</episode-num>
   </programme>
-  <programme channel="Channel5Plus1.uk" start="20261125074000 +0000" stop="20261125075000 +0000">
+  <programme channel="Channel5Plus1.uk" start="20261125074500 +0000" stop="20261125075000 +0000">
     <title lang="en">Peppa Pig</title>
     <desc lang="en">Peppa and all her friends are having a sleepover - different friends in each of the four different apartments in the high street. So they play hide and seek across all the rooms!</desc>
     <icon src="https://images.metadata.sky.com/pd-image/b442c49a-47cb-3a8f-8a62-921927332dd9/cover"/>
@@ -27709,21 +27778,21 @@
     <episode-num system="xmltv_ns">0.13.0</episode-num>
     <episode-num system="onscreen">S1E14</episode-num>
   </programme>
-  <programme channel="Channel5Plus1.uk" start="20261125083000 +0000" stop="20261125083500 +0000">
+  <programme channel="Channel5Plus1.uk" start="20261125083000 +0000" stop="20261125084000 +0000">
     <title lang="en">Peppa Pig</title>
     <desc lang="en">Mr Potato's Christmas Show: Hoor-oink! It's Christmas, and Playgroup is going to the theatre to see a special performance. Some people have never been to a theatre before.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/dfc26491-3629-48e8-92da-d77eac4a8292/cover"/>
     <episode-num system="xmltv_ns">3.24.0</episode-num>
     <episode-num system="onscreen">S4E25</episode-num>
   </programme>
-  <programme channel="Channel5Plus1.uk" start="20261125083500 +0000" stop="20261125084000 +0000">
+  <programme channel="Channel5Plus1.uk" start="20261125084000 +0000" stop="20261125084500 +0000">
     <title lang="en">Peppa Pig</title>
     <desc lang="en">Mr Zebra arrives with a new car seat for the baby! Excited to try it in the car, the family soon realise it won't fit with Peppa and George too. It's time for a new car!</desc>
     <icon src="https://images.metadata.sky.com/pd-image/57bdaabc-fa8d-451f-8541-1379854fd1e8/cover"/>
     <episode-num system="xmltv_ns">8.3.0</episode-num>
     <episode-num system="onscreen">S9E4</episode-num>
   </programme>
-  <programme channel="Channel5Plus1.uk" start="20261125084000 +0000" stop="20261125085500 +0000">
+  <programme channel="Channel5Plus1.uk" start="20261125084500 +0000" stop="20261125085500 +0000">
     <title lang="en">Tim Rex in Space</title>
     <desc lang="en">Tim and Kai try to uncover trinkets buried at the beach.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/324aaac2-a0a6-4485-9670-d38bfd4efbd5/cover"/>
@@ -27852,7 +27921,7 @@
     <episode-num system="xmltv_ns">3.3.0</episode-num>
     <episode-num system="onscreen">S4E4</episode-num>
   </programme>
-  <programme channel="Channel5Plus1.uk" start="20261125233000 +0000" stop="20261126003000 +0000">
+  <programme channel="Channel5Plus1.uk" start="20261125233000 +0000" stop="20261126003500 +0000">
     <title lang="en">New: A&amp;E After Dark</title>
     <desc lang="en">Doctors have minutes to save a man's sight in East London after a violent attack, while in Belfast urgent tests assess an elderly farmer with suspected life-threatening abdominal pain.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/d4c0aa04-4bd0-40e7-b57c-88ec1b959d1e/cover"/>
@@ -27860,7 +27929,7 @@
     <episode-num system="xmltv_ns">6.4.0</episode-num>
     <episode-num system="onscreen">S7E5</episode-num>
   </programme>
-  <programme channel="Channel5Plus1.uk" start="20261126003000 +0000" stop="20261126013500 +0000">
+  <programme channel="Channel5Plus1.uk" start="20261126003500 +0000" stop="20261126013500 +0000">
     <title lang="en">Ambulance: Code Red</title>
     <desc lang="en">After a woman suffers cardiac arrest while driving, paramedics must induce a coma at the roadside to save her. Meanwhile, a 19-year-old suffers critical injuries in a motorcycle crash.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/22a40555-3729-4bc5-9c7b-e3c8c532d3d0/cover"/>
@@ -27879,17 +27948,22 @@
     <desc lang="en">We search the world to bring you the most innovative home and garden must haves. So, sit back, relax and discover something new.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/c2b1c591-8d7a-40d6-ab12-d9f298a879ee/cover"/>
   </programme>
-  <programme channel="Channel5Plus1.uk" start="20261126040000 +0000" stop="20261126045000 +0000">
+  <programme channel="Channel5Plus1.uk" start="20261126040000 +0000" stop="20261126045500 +0000">
     <title lang="en">Michael Portillo's Travel Diaries</title>
     <desc lang="en">Michael crafts his own tile at a 280-year-old ceramic factory in true Portillo style, then immerses himself in Lisbon's soul with an evening of Fado, the city's haunting folk music.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1128d8aa-a897-4c52-8bd7-352671823ad9/cover"/>
     <episode-num system="xmltv_ns">0.1.0</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
   </programme>
-  <programme channel="Channel5Plus1.uk" start="20261126045000 +0000" stop="20261126062000 +0000">
+  <programme channel="Channel5Plus1.uk" start="20261126045500 +0000" stop="20261126061900 +0000">
     <title lang="en">Second Chance Christmas</title>
     <desc lang="en">Romantic comedy in which an unhappily married woman takes a fresh look at love after she has an accident on the way to see a divorce lawyer. (2017)</desc>
     <icon src="https://images.metadata.sky.com/pd-image/2dc56188-cedd-4e13-a5f9-776429dd8115/cover"/>
+  </programme>
+  <programme channel="Channel5Plus1.uk" start="20261126061900 +0000" stop="20261126062000 +0000">
+    <title lang="en">This is Channel 5 +1</title>
+    <desc lang="en">This is Channel 5 +1</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/fb996c26-d8ff-477f-8d26-6289433ddaa4/cover"/>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20261126062000 +0000" stop="20261126063000 +0000">
     <title lang="en">Entertainment News on 5</title>
@@ -28028,6 +28102,8 @@
     <title lang="en">PAW Patrol</title>
     <desc lang="en">...Tournament. The PAW Patrol helps a Mystery Knight, the Princess in disguise, to win a tournament when Claw and Sparks show up and sabotage the event.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/0b1d7c2f-3678-396c-9e42-ad9eae349226/cover"/>
+    <episode-num system="xmltv_ns">7.32.0</episode-num>
+    <episode-num system="onscreen">S8E33</episode-num>
   </programme>
   <programme channel="Channel5Plus1.uk" start="20261126092500 +0000" stop="20261126093500 +0000">
     <title lang="en">New: Animal Care Club</title>
@@ -31085,9 +31161,9 @@
   <programme channel="UAndDrama.uk" start="20261124090000 +0000" stop="20261124093500 +0000">
     <title lang="en">Classic Doctors</title>
     <desc lang="en">New. Crushed: Two students embark on a war for Ruth's affections, plying her with gifts and flowers. Ruth doubts the authenticity of their feelings, however.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/fcef1e97-2e0a-3d42-a019-6b611d82b676/cover"/>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/76fa5a82-3ec4-4df3-9231-687abcf4b61a/cover"/>
+    <episode-num system="xmltv_ns">10.155.0</episode-num>
+    <episode-num system="onscreen">S11E156</episode-num>
   </programme>
   <programme channel="UAndDrama.uk" start="20261124093500 +0000" stop="20261124105500 +0000">
     <title lang="en">Classic Holby City</title>
@@ -31599,9 +31675,9 @@
   <programme channel="UAndDramaPlus1.uk" start="20261124100000 +0000" stop="20261124103500 +0000">
     <title lang="en">Classic Doctors</title>
     <desc lang="en">New. Crushed: Two students embark on a war for Ruth's affections, plying her with gifts and flowers. Ruth doubts the authenticity of their feelings, however.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/fcef1e97-2e0a-3d42-a019-6b611d82b676/cover"/>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/76fa5a82-3ec4-4df3-9231-687abcf4b61a/cover"/>
+    <episode-num system="xmltv_ns">10.155.0</episode-num>
+    <episode-num system="onscreen">S11E156</episode-num>
   </programme>
   <programme channel="UAndDramaPlus1.uk" start="20261124103500 +0000" stop="20261124115500 +0000">
     <title lang="en">Classic Holby City</title>
@@ -44626,7 +44702,7 @@
   </programme>
   <programme channel="ITV2.uk" start="20261124221500 +0000" stop="20261124232000 +0000">
     <title lang="en">New: I'm a Celebrity... Unpacked</title>
-    <desc lang="en">This I'm A Celebrity... Get Me Out Of Here! companion show dissects and discusses everything happening in the camp while also bringing us all the latest news and exclusives.</desc>
+    <desc lang="en">Sam and Kemi unpack the latest from camp. Ant and Dec give their thoughts, Coleen Rooney dials in from the UK, and Max Balegde and Jordan Banjo join for the last time.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ba5c8aaf-98d7-425b-8dae-09fedfd90441/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">2.8.0</episode-num>
@@ -44743,7 +44819,7 @@
   </programme>
   <programme channel="ITV2.uk" start="20261125130500 +0000" stop="20261125140500 +0000">
     <title lang="en">I'm a Celebrity... Unpacked</title>
-    <desc lang="en">This I'm A Celebrity... Get Me Out Of Here! companion show dissects and discusses everything happening in the camp while also bringing us all the latest news and exclusives.</desc>
+    <desc lang="en">Sam and Kemi unpack the latest from camp. Ant and Dec give their thoughts, Coleen Rooney dials in from the UK, and Max Balegde and Jordan Banjo join for the last time.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ba5c8aaf-98d7-425b-8dae-09fedfd90441/cover"/>
     <episode-num system="xmltv_ns">2.8.0</episode-num>
     <episode-num system="onscreen">S3E9</episode-num>
@@ -44812,7 +44888,7 @@
   </programme>
   <programme channel="ITV2.uk" start="20261125220500 +0000" stop="20261125230500 +0000">
     <title lang="en">New: I'm a Celebrity... Unpacked</title>
-    <desc lang="en">This I'm A Celebrity... Get Me Out Of Here! companion show dissects and discusses everything happening in the camp while also bringing us all the latest news and exclusives.</desc>
+    <desc lang="en">Sam and Kemi are joined by Lisa Riley to discuss the latest from camp, Ant and Dec help delve into the behind the scenes gossip, and Shona McGarty dials in from the UK.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/eacb126d-e4e1-4a1f-ac1e-cec845076a59/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">2.9.0</episode-num>
@@ -44929,7 +45005,7 @@
   </programme>
   <programme channel="ITV2.uk" start="20261126131000 +0000" stop="20261126141000 +0000">
     <title lang="en">I'm a Celebrity... Unpacked</title>
-    <desc lang="en">This I'm A Celebrity... Get Me Out Of Here! companion show dissects and discusses everything happening in the camp while also bringing us all the latest news and exclusives.</desc>
+    <desc lang="en">Sam and Kemi are joined by Lisa Riley to discuss the latest from camp, Ant and Dec help delve into the behind the scenes gossip, and Shona McGarty dials in from the UK.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/eacb126d-e4e1-4a1f-ac1e-cec845076a59/cover"/>
     <episode-num system="xmltv_ns">2.9.0</episode-num>
     <episode-num system="onscreen">S3E10</episode-num>
@@ -44999,7 +45075,7 @@
   </programme>
   <programme channel="ITV2.uk" start="20261126220500 +0000" stop="20261126231000 +0000">
     <title lang="en">New: I'm a Celebrity... Unpacked</title>
-    <desc lang="en">This I'm A Celebrity... Get Me Out Of Here! companion show dissects and discusses everything happening in the camp while also bringing us all the latest news and exclusives.</desc>
+    <desc lang="en">Sam and Kemi dig into all the camp activity with Ant and Dec. Plus, Lisa Riley is on the panel with Roman Kemp joining the chat from the UK.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ef4ad25e-62f2-4f12-8ff7-d68d5cfa0b72/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">2.10.0</episode-num>
@@ -45225,7 +45301,7 @@
   </programme>
   <programme channel="ITV2Plus1.uk" start="20261124231500 +0000" stop="20261125002000 +0000">
     <title lang="en">New: I'm a Celebrity... Unpacked</title>
-    <desc lang="en">This I'm A Celebrity... Get Me Out Of Here! companion show dissects and discusses everything happening in the camp while also bringing us all the latest news and exclusives.</desc>
+    <desc lang="en">Sam and Kemi unpack the latest from camp. Ant and Dec give their thoughts, Coleen Rooney dials in from the UK, and Max Balegde and Jordan Banjo join for the last time.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ba5c8aaf-98d7-425b-8dae-09fedfd90441/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">2.8.0</episode-num>
@@ -45346,7 +45422,7 @@
   </programme>
   <programme channel="ITV2Plus1.uk" start="20261125140500 +0000" stop="20261125150500 +0000">
     <title lang="en">I'm a Celebrity... Unpacked</title>
-    <desc lang="en">This I'm A Celebrity... Get Me Out Of Here! companion show dissects and discusses everything happening in the camp while also bringing us all the latest news and exclusives.</desc>
+    <desc lang="en">Sam and Kemi unpack the latest from camp. Ant and Dec give their thoughts, Coleen Rooney dials in from the UK, and Max Balegde and Jordan Banjo join for the last time.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ba5c8aaf-98d7-425b-8dae-09fedfd90441/cover"/>
     <episode-num system="xmltv_ns">2.8.0</episode-num>
     <episode-num system="onscreen">S3E9</episode-num>
@@ -45415,7 +45491,7 @@
   </programme>
   <programme channel="ITV2Plus1.uk" start="20261125230500 +0000" stop="20261126000500 +0000">
     <title lang="en">New: I'm a Celebrity... Unpacked</title>
-    <desc lang="en">This I'm A Celebrity... Get Me Out Of Here! companion show dissects and discusses everything happening in the camp while also bringing us all the latest news and exclusives.</desc>
+    <desc lang="en">Sam and Kemi are joined by Lisa Riley to discuss the latest from camp, Ant and Dec help delve into the behind the scenes gossip, and Shona McGarty dials in from the UK.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/eacb126d-e4e1-4a1f-ac1e-cec845076a59/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">2.9.0</episode-num>
@@ -45536,7 +45612,7 @@
   </programme>
   <programme channel="ITV2Plus1.uk" start="20261126141000 +0000" stop="20261126151000 +0000">
     <title lang="en">I'm a Celebrity... Unpacked</title>
-    <desc lang="en">This I'm A Celebrity... Get Me Out Of Here! companion show dissects and discusses everything happening in the camp while also bringing us all the latest news and exclusives.</desc>
+    <desc lang="en">Sam and Kemi are joined by Lisa Riley to discuss the latest from camp, Ant and Dec help delve into the behind the scenes gossip, and Shona McGarty dials in from the UK.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/eacb126d-e4e1-4a1f-ac1e-cec845076a59/cover"/>
     <episode-num system="xmltv_ns">2.9.0</episode-num>
     <episode-num system="onscreen">S3E10</episode-num>
@@ -45606,7 +45682,7 @@
   </programme>
   <programme channel="ITV2Plus1.uk" start="20261126230500 +0000" stop="20261127001000 +0000">
     <title lang="en">New: I'm a Celebrity... Unpacked</title>
-    <desc lang="en">This I'm A Celebrity... Get Me Out Of Here! companion show dissects and discusses everything happening in the camp while also bringing us all the latest news and exclusives.</desc>
+    <desc lang="en">Sam and Kemi dig into all the camp activity with Ant and Dec. Plus, Lisa Riley is on the panel with Roman Kemp joining the chat from the UK.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/ef4ad25e-62f2-4f12-8ff7-d68d5cfa0b72/cover"/>
     <premiere/>
     <episode-num system="xmltv_ns">2.10.0</episode-num>
